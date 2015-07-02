@@ -1,0 +1,35 @@
+.header {
+  background-color: #3B0737;
+  position: relative;
+  height: 300px;
+}
+
+.header__brand {
+  color: #9F2D99;
+  font-size: 1.5rem;
+  font-weight: 600;
+  position: absolute;
+  right: 16px;
+  top: 16px;
+}
+
+.header__case-study {
+  width: 340px;
+  position: absolute;
+  bottom: 32px;
+  left: 32px;
+}
+
+.header__case-study-title {
+  color: #9F2D99;
+  font-weight: 600;
+  font-size: 2.2rem;
+  line-height: 1.6;
+}
+
+.header__case-study-subtitle {
+  color: #E0DEE1;
+  font-size: 1.5rem;
+  font-weight: 100;
+  line-height: 1.2;
+}
