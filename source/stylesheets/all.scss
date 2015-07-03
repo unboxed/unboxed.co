@@ -1,6 +1,9 @@
+$tablet: 580px;
+
 html {
   font-size: 16px;
 }
 
+@import 'breakpoint';
 @import 'shared/*';
 @import 'styles/*';

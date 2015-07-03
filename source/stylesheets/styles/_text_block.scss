@@ -1,0 +1,30 @@
+.text-block {
+  padding: 32px;
+  box-sizing: border-box;
+
+  @include breakpoint($tablet) {
+    @include display-flex;
+    justify-content: center;
+    -webkit-justify-content: center;
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+}
+
+.text-block__title {
+  color: #9F2D99;
+  font-size: 1.7rem;
+  font-weight: 100;
+  padding-bottom: 1rem;
+}
+
+.text-block__paragraph {
+  color: #171717;
+  font-weight: 100;
+  line-height: 1.2;
+}
+
+.text-block__title--white,
+.text-block__paragraph--white {
+  color: #FFFFFF;
+}
