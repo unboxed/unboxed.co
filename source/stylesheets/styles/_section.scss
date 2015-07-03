@@ -17,19 +17,19 @@
   }
 }
 
-.section__2-columns--last-50,
+.section__2-columns--50-desktop-first,
 .section__2-columns--50 {
   @include breakpoint($tablet) {
     width: 50%;
   }
 }
 
-.section__2-columns--last-50 {
-  order: 1;
-  -webkit-order: 1;
+.section__2-columns--50-desktop-first {
+  order: 0;
+  -webkit-order: 0;
 
   @include breakpoint($tablet) {
-    order: 0;
-    -webkit-order: 0;
+    order: -1;
+    -webkit-order: -1;
   }
 }
