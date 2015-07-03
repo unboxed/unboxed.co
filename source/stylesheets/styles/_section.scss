@@ -1,3 +1,9 @@
+.section__1-column,
+.section__2-columns {
+  max-width: $desktop;
+  margin: 0 auto;
+}
+
 .section__2-columns {
   @include display-flex;
   flex-wrap: nowrap;

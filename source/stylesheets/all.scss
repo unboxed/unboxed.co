@@ -1,7 +1,12 @@
 $tablet: 580px;
+$desktop: 1180px;
 
 html {
   font-size: 16px;
+}
+
+body {
+  background-color: #3B0737;
 }
 
 @import 'breakpoint';

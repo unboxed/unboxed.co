@@ -1,6 +1,6 @@
 .text-block {
-  padding: 32px;
   box-sizing: border-box;
+  padding: 32px;
 
   @include breakpoint($tablet) {
     @include display-flex;
