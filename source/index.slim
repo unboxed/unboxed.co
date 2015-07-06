@@ -1,63 +1,86 @@
 ---
-title: SH:24
+title: "SH:24"
+subtitle: "Unboxed reimagines access to sexual health in just 8 weeks"
+hero_image: "http://lorempixel.com/780/340/cats/5"
+sections:
+  challenge:
+    title: "The challenge"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime."
+    images:
+      - "http://lorempixel.com/g/300/200/business/8"
+      - "http://lorempixel.com/g/200/200/business/1"
+      - "http://lorempixel.com/g/200/200/business/9"
+  idea:
+    title: "The idea"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime."
+    steps:
+      - image: "http://placehold.it/128x128"
+        text: "Request a testing kit"
+      - image: "http://placehold.it/128x128"
+        text: "Take the test"
+      - image: "http://placehold.it/128x128"
+        text: "Post it back"
+      - image: "http://placehold.it/128x128"
+        text: "Get results on your phone"
+  prototype:
+    title: "The prototype"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime."
+    image: "https://dl.dropboxusercontent.com/u/2217931/ubxd-web/4/images/prototype.jpg"
+  break:
+    image: "http://lorempixel.com/780/480/people/9"
+  impact:
+    title: "The impact"
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime."
+    image: "http://lorempixel.com/480/480/people/10"
 ---
 
 .header
   header class="header__brand" UBXD
 
   section class="header__case-study"
-    h1 class="header__case-study-title" SH:24
-    p class="header__case-study-subtitle" Unboxed reimagines access to sexual health in just 8 weeks
+    h1 class="header__case-study-title" = current_page.data.title
+    p class="header__case-study-subtitle" = current_page.data.subtitle
 
 .section__1-column
-  img class="block__full-image" src="http://lorempixel.com/780/340/cats/5" alt=""
+  img class="block__full-image" src="#{current_page.data.hero_image}" alt=""
 
 .section__2-columns.block__white-background
   section class="section__2-columns--50 text-block"
-    h2 class="text-block__title" The challenge
-    p class="text-block__paragraph" Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime.
+    h2 class="text-block__title" = current_page.data.sections.challenge.title
+    p class="text-block__paragraph" = current_page.data.sections.challenge.content
   aside class="section__2-columns--50 image-block"
-    img class="image-block__main-image" src="http://lorempixel.com/g/300/200/business/8" alt=""
-    img class="image-block__image" src="http://lorempixel.com/g/200/200/business/1" alt=""
-    img class="image-block__image" src="http://lorempixel.com/g/200/200/business/9" alt=""
+    - current_page.data.sections.challenge.images.each_with_index do |image, index|
+      img class="image-block__#{'main-' if index == 0}image" src="#{image}" alt=""
 
 .section__1-column.block__yellow-background
   section class="text-block"
-    h2 class="text-block__title" The idea
-    p class="text-block__paragraph" Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime.
+    h2 class="text-block__title" = current_page.data.sections.idea.title
+    p class="text-block__paragraph" = current_page.data.sections.idea.content
   aside
     ul class="list-block"
-      li class="list-block__list-item animated__list-item revealAnimated animated bounceIn"
-        img class="list-block__image" src="http://placehold.it/128x128" alt=""
-        .list-block__text Request a testing kit
-      li class="list-block__list-item animated__list-item revealAnimated animated bounceIn"
-        img class="list-block__image" src="http://placehold.it/128x128" alt=""
-        .list-block__text Take the test
-      li class="list-block__list-item animated__list-item revealAnimated animated bounceIn"
-        img class="list-block__image" src="http://placehold.it/128x128" alt=""
-        .list-block__text Post it back
-      li class="list-block__list-item animated__list-item revealAnimated animated bounceIn"
-        img class="list-block__image" src="http://placehold.it/128x128" alt=""
-        .list-block__text Get results on your phone
+      - current_page.data.sections.idea.steps.each do |step|
+        li class="list-block__list-item animated__list-item revealAnimated animated bounceIn"
+          img class="list-block__image" src="#{step.image}" alt=""
+          .list-block__text = step.text
 
 .section__2-columns.block__grey-background
     aside class="section__2-columns--50 image-block animated__prototype-container"
-      img class="image-block__full-image animated__prototype revealAnimated animated slideInUp" src="https://dl.dropboxusercontent.com/u/2217931/ubxd-web/4/images/prototype.jpg" alt=""
+      img class="image-block__full-image animated__prototype revealAnimated animated slideInUp" src="#{current_page.data.sections.prototype.image}" alt=""
 
     section class="section__2-columns--50 text-block"
-      h2 class="text-block__title text-block__title--white" The prototype
-      p class="text-block__paragraph text-block__paragraph--white" Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime.
+      h2 class="text-block__title text-block__title--white" = current_page.data.sections.prototype.title
+      p class="text-block__paragraph text-block__paragraph--white" = current_page.data.sections.prototype.content
 
 .section__1-column
-  img class="block__full-image" src="http://lorempixel.com/780/480/people/9" alt=""
+  img class="block__full-image" src="#{current_page.data.sections.break.image}" alt=""
 
 .section__2-columns.block__white-background
   section class="section__2-columns--50 text-block"
-    h2 class="text-block__title" The impact
-    p class="text-block__paragraph" Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime.
+    h2 class="text-block__title" = current_page.data.sections.impact.title
+    p class="text-block__paragraph" = current_page.data.sections.impact.content
 
   aside class="section__2-columns--50-desktop-first image-block"
-    img class="image-block__full-image" src="http://lorempixel.com/480/480/people/10" alt=""
+    img class="image-block__full-image" src="#{current_page.data.sections.impact.image}" alt=""
 
 // Team stories / members
 // Related content
