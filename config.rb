@@ -1,15 +1,19 @@
 require 'slim'
 
 ready do
-  data.categories.each do |category|
-    proxy "/#{category.url}", '/templates/grid.html', locals: { query: { :categories.include => category.url } }
+  data.tags.each do |tag|
+    proxy "/#{tag.url}.html", '/templates/grid.html', locals: { query: { :tags.include => tag.url } }
   end
 end
 
 proxy '/index.html', '/templates/grid.html', locals: { query: {} }
 ignore '/templates/*'
 
-activate :directory_indexes
+activate :blog do |blog|
+  # set options on blog
+end
+
+set :relative_links, true
 
 configure :development do
   activate :livereload
