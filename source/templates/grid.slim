@@ -11,8 +11,8 @@ ul
 br
 
 ul
-- sitemap.where(query).order_by(date: :desc).all.each_with_index do |resource, index|
-  li #{index}: #{link_to resource.data.title, resource} - #{resource.data.date}
+- sitemap.where(query).order_by(published_date: :desc).all.each_with_index do |resource, index|
+  li #{index}: #{link_to resource.data.title, resource} - #{resource.data.published_date}
   ul
   - resource.data.tags.each do |tag|
     li style="padding-left:15px;" #{tag}
