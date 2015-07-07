@@ -6,3 +6,4 @@ gem 'slim'
 gem 'middleman-blog'
 gem 'pry'
 gem 'middleman-gh-pages'
+gem 'turbolinks', require: false

@@ -1,3 +1,4 @@
+//= require turbolinks
 //= require_tree .
 
 wow = new WOW({
@@ -7,7 +8,7 @@ wow = new WOW({
   mobile: false,
   live: true
 });
+// mobile false does not work
 
 wow.init();
 
-// mobile false does not work
