@@ -22,3 +22,5 @@ Uses `sources/templates/blog.markdown` as template:
 
 
 Although this is not quite GitHub flavoured markdown :(
+
+Updating blog post from GitHub
