@@ -9,8 +9,22 @@ end
 proxy '/index.html', '/templates/grid.html', locals: { query: {} }
 ignore '/templates/*'
 
+set :layout, 'application_layout'
+
 activate :blog do |blog|
-  # set options on blog
+  blog.name = 'blog'
+  blog.prefix = 'blog'
+  blog.layout = 'article_layout'
+  blog.permalink = "{title}.html"
+  blog.new_article_template = "source/templates/blog.markdown"
+end
+
+activate :blog do |blog|
+  blog.name = 'news'
+  blog.prefix = 'news'
+  blog.layout = 'article_layout'
+  blog.permalink = "{title}.html"
+  blog.new_article_template = "source/templates/news.markdown"
 end
 
 set :relative_links, true
