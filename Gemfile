@@ -5,5 +5,6 @@ gem 'middleman-livereload'
 gem 'slim'
 gem 'middleman-blog'
 gem 'pry'
-gem 'middleman-gh-pages'
 gem 'turbolinks', require: false
+gem 'middleman-deploy'
+gem 'rake'

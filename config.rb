@@ -61,3 +61,16 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.branch = 'gh-pages'
+
+  commit_message = 'Travis deployment'
+
+  if ENV["TRAVIS_BUILD_NUMBER"] then
+    commit_message += " (build \##{ENV["TRAVIS_BUILD_NUMBER"]})"
+  end
+
+  deploy.commit_message = commit_message
+end
