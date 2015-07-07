@@ -2,11 +2,7 @@
 
 ## Deployments
 
-Using [middleman-gh-pages](https://github.com/neo/middleman-gh-pages) gem, simply do:
-
-```
-rake build publish
-```
+Commits to `master` are deployed by [Travis CI](https://travis-ci.org/unboxed/ubxd_web_refresh).
 
 ## Generating articles
 
