@@ -4,7 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente veniam enim a
 
 ## Create a new post
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente veniam enim aspernatur est expedita in, doloremque ipsam, placeat exercitationem perferendis, maiores eius officiis aliquam suscipit. Enim saepe ut quae, consequuntur.
+![Creating a blog post](http://giant.gfycat.com/ScientificSecondhandDuiker.gif)
 
 ## Updating a post
 
