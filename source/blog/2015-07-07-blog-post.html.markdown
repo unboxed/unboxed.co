@@ -8,6 +8,8 @@ tags:
 
 # UBXD Blog
 
+## Heading 2
+
 Created with `middleman article "Blog post" -b blog`
 
 Uses `sources/templates/blog.markdown` as template:
