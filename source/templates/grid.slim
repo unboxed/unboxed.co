@@ -3,7 +3,7 @@
 
 ul
   li
-    a href="./index.html" All
+    = link_to 'All', '/index.html'
 - data.tags.each do |tag|
   li
     = link_to tag.display_name, "/#{tag.url}.html"

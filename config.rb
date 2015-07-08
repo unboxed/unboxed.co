@@ -27,11 +27,18 @@ activate :blog do |blog|
   blog.new_article_template = "source/templates/news.markdown"
 end
 
-set :relative_links, true
+activate :directory_indexes
+page 'blog/*', directory_index: false
+page 'news/*', directory_index: false
 
 configure :development do
   activate :livereload
 end
+
+set :relative_links, true
+set :css_dir, 'assets/stylesheets'
+set :js_dir, 'assets/javascripts'
+set :images_dir, 'assets/images'
 
 # Methods defined in the helpers block are available in templates
 # helpers do
@@ -39,10 +46,6 @@ end
 #     "Helping"
 #   end
 # end
-
-set :css_dir, 'assets/stylesheets'
-set :js_dir, 'assets/javascripts'
-set :images_dir, 'assets/images'
 
 # Build-specific configuration
 configure :build do
