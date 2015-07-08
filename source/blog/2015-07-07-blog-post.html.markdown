@@ -8,7 +8,7 @@ tags:
 
 # UBXD Blog
 
-## Heading 2
+## Middleman info
 
 Created with `middleman article "Blog post" -b blog`
 
