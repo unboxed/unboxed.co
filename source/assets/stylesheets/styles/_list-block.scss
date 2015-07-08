@@ -4,11 +4,11 @@
   -webkit-flex-direction: row;
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
-  padding: 32px;
-  max-width: 430px;
+  padding: 16px 32px 32px;
+  max-width: 334px;
   margin: 0 auto;
 
-  @include breakpoint(640px) {
+  @include breakpoint(512px) {
     max-width: 100%;
     margin: 0;
   }
@@ -28,15 +28,30 @@
 }
 
 .list-block__image {
+  $width: 96px;
   flex-grow: 0;
   -webkit-flex-grow: 0;
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
-  flex-basis: 128px;
-  -webkit-flex-basis: 128px;
+  flex-basis: $width;
+  -webkit-flex-basis: $width;
   padding: 0 8px 16px;
   margin: 0 auto;
-  width: 128px;
+  width: $width;
+
+  @include breakpoint($tablet) {
+    $width: 112px;
+    flex-basis: $width;
+    -webkit-flex-basis: $width;
+    width: $width;
+  }
+
+  @include breakpoint(768px) {
+    $width: 128px;
+    flex-basis: $width;
+    -webkit-flex-basis: $width;
+    width: $width;
+  }
 }
 
 .list-block__text {
