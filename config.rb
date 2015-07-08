@@ -8,6 +8,7 @@ end
 
 proxy '/index.html', '/templates/grid.html', locals: { query: {} }
 ignore '/templates/*'
+ignore '/**/README.md'
 
 set :layout, 'application_layout'
 
