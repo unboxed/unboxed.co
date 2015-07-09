@@ -1,0 +1,37 @@
+---
+published_date: 2015-04-05 12:00 UTC
+tags:
+  - idea
+  - agile
+
+title: "Leading the transition to Agile in established media companies"
+subtitle: "Media Roundtable Session"
+image: "main-image.png"
+summary_text: "Who is leading the transition to digital truly well in media? Heads of industry from leading organisations such as Reed Learning, Cambridge English Language Assessment and Which? met together at this roundtable session to discuss key topics and issues in the shift to digital in media. This document summarises the three lightning talks, four discussions, and explores:"
+summary_list:
+  - "How can digital deliver Agile into a Waterfall organisation?"
+  - "What does good leadership look like?"
+  - "The 6 factors of resisting to change"
+  - "How to continuously engage stakeholders"
+
+quotes:
+  - name: "Melissa Sabella"
+    company: "Reed Learning"
+    text: "It’s not that people are intentionally holding back innovation. Every CEO wants to innovate but how do you actually get them to the point where they say yes?"
+  - name: "Richard Stobart"
+    company: "Unboxed Consulting"
+    text: "Drive down your ignorance as fast as you can by doing your biggest risk items first; try and reduce the risk – that’s what Agile is about."
+
+---
+
+h1 = current_page.data.title
+h2 = current_page.data.subtitle
+img src="#{current_page.data.image}" alt=""
+p = current_page.data.summary_text
+
+- current_page.data.summary_list.each do |list_item|
+  p = list_item
+
+- current_page.data.quotes.each do |quote|
+  p #{quote.name}, #{quote.company}
+  p = quote.text
