@@ -38,6 +38,10 @@ ready do
   data.tags.each do |tag|
     proxy "/#{tag.url}.html", '/templates/grid.html', locals: { query: { :tags.include => tag.url } }
   end
+
+  data.people.each do |person|
+    proxy "/people/#{person.name.gsub(' ', '-').downcase}", '/templates/person.html', locals: { person: person }
+  end
 end
 
 proxy '/index.html', '/templates/grid.html', locals: { query: {} }

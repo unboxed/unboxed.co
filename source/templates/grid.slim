@@ -4,9 +4,11 @@
 ul
   li
     = link_to 'All', '/index.html'
-- data.tags.each do |tag|
   li
-    = link_to tag.display_name, "/#{tag.url}.html"
+    = link_to 'People', '/people.html'
+  - data.tags.each do |tag|
+    li
+      = link_to tag.display_name, "/#{tag.url}.html"
 
 br
 

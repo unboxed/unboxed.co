@@ -7,8 +7,6 @@
   url: events
 - display_name: "Ideas"
   url: ideas
-- display_name: "People"
-  url: people
 - display_name: "Project stories"
   url: project-stories
 - display_name: "News"
