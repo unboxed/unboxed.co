@@ -8,3 +8,4 @@ gem 'pry'
 gem 'turbolinks', require: false
 gem 'middleman-deploy'
 gem 'rake'
+gem 'redcarpet'

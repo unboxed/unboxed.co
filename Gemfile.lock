@@ -115,6 +115,7 @@ GEM
     rb-fsevent (0.9.5)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
+    redcarpet (3.3.2)
     sass (3.4.15)
     slim (3.0.6)
       temple (~> 0.7.3)
@@ -154,5 +155,6 @@ DEPENDENCIES
   middleman-livereload
   pry
   rake
+  redcarpet
   slim
   turbolinks

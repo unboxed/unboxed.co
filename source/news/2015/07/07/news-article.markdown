@@ -12,13 +12,13 @@ Created with `middleman article "News article" -b news`
 
 Uses `sources/templates/news.markdown` as template:
 
-    ---
-    title: <%= @title %>
-    published_date: <%= @date %>
-    tags:
-      - "news"
-    ---
+```
+---
+title: <%= @title %>
+published_date: <%= @date %>
+tags:
+  - "news"
+---
 
-    # UBXD News
-
-Although this is not quite GitHub flavoured markdown :(
+# UBXD News
+```

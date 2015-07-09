@@ -14,16 +14,15 @@ Created with `middleman article "Blog post" -b blog`
 
 Uses `sources/templates/blog.markdown` as template:
 
-    ---
-    title: <%= @title %>
-    published_date: <%= @date %>
-    tags:
-      - "blog"
-    ---
+```
+---
+title: <%= @title %>
+published_date: <%= @date %>
+tags:
+  - "blog"
+---
 
-    # UBXD Blog
-
-
-Although this is not quite GitHub flavoured markdown :(
+# UBXD Blog
+```
 
 Updating blog post from GitHub

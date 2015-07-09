@@ -1,16 +1,12 @@
 require 'slim'
 
-ready do
-  data.tags.each do |tag|
-    proxy "/#{tag.url}.html", '/templates/grid.html', locals: { query: { :tags.include => tag.url } }
-  end
-end
-
-proxy '/index.html', '/templates/grid.html', locals: { query: {} }
-ignore '/templates/*'
-ignore '/**/README.md'
-
+set :relative_links, true
 set :layout, 'application_layout'
+set :css_dir, 'assets/stylesheets'
+set :js_dir, 'assets/javascripts'
+set :images_dir, 'assets/images'
+set :markdown_engine, :redcarpet
+set :markdown, fenced_code_blocks: true, smartypants: true
 
 activate :blog do |blog|
   blog.name = 'blog'
@@ -33,17 +29,22 @@ end
 activate :directory_indexes
 activate :relative_assets
 
-page 'blog/*', directory_index: false
-page 'news/*', directory_index: false
-
 configure :development do
   activate :livereload
 end
 
-set :relative_links, true
-set :css_dir, 'assets/stylesheets'
-set :js_dir, 'assets/javascripts'
-set :images_dir, 'assets/images'
+page 'blog/*', directory_index: false
+page 'news/*', directory_index: false
+
+ready do
+  data.tags.each do |tag|
+    proxy "/#{tag.url}.html", '/templates/grid.html', locals: { query: { :tags.include => tag.url } }
+  end
+end
+
+proxy '/index.html', '/templates/grid.html', locals: { query: {} }
+ignore '/templates/*'
+ignore '/**/README.md'
 
 # Methods defined in the helpers block are available in templates
 # helpers do
