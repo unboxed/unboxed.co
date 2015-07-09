@@ -3,7 +3,7 @@ title: Blog post
 date: 2015-07-07 08:57:56 UTC
 published_date: 2015-07-07 12:00:00 UTC
 tags:
-  - "blog"
+  - blog
 ---
 
 # UBXD Blog
@@ -19,7 +19,7 @@ Uses `sources/templates/blog.markdown` as template:
 title: <%= @title %>
 published_date: <%= @date %>
 tags:
-  - "blog"
+  - blog
 ---
 
 # UBXD Blog

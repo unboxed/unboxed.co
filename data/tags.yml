@@ -1,14 +1,47 @@
-- display_name: "News"
-  url: "news"
-- display_name: "Project stories"
-  url: "project-stories"
+# Content types
 - display_name: "Blog"
-  url: "blog"
-- display_name: "Government"
-  url: "government"
+  url: blog
+- display_name: "Courses"
+  url: courses
+- display_name: "Events"
+  url: events
+- display_name: "Ideas"
+  url: ideas
+- display_name: "People"
+  url: people
+- display_name: "Project stories"
+  url: project-stories
+- display_name: "News"
+  url: news
+- display_name: "Webinar"
+  url: webinar
+
+# Page tags
 - display_name: "Agile"
-  url: "agile"
-- display_name: "Health"
-  url: "health"
+  url: agile
+- display_name: "Conferences"
+  url: conferences
+- display_name: "Design"
+  url: design
+  # UX
+- display_name: "Development"
+  url: development
+  # CSS/3
+  # HTML5
+  # Gems
+  # git
+  # JavaScript
+  # jQuery
+  # Mobile/Software/Web development
+  # Ruby / (Ruby on) Rails
+  # TDD / Testing
 - display_name: "Education"
-  url: "education"
+  url: education
+- display_name: "Government"
+  url: government
+- display_name: "Health"
+  url: health
+- display_name: "Innovation"
+  url: innovation
+- display_name: "Lean"
+  url: lean

@@ -1,7 +1,7 @@
 require 'slim'
 
 set :relative_links, true
-set :layout, 'application_layout'
+set :layout, 'application'
 set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
@@ -11,7 +11,6 @@ set :markdown, fenced_code_blocks: true, smartypants: true
 activate :blog do |blog|
   blog.name = 'blog'
   blog.prefix = 'blog'
-  blog.layout = 'article_layout'
   blog.sources = "/{year}/{month}/{day}/{title}.html"
   blog.permalink = "{title}.html"
   blog.new_article_template = "source/templates/blog.markdown"
@@ -20,7 +19,6 @@ end
 activate :blog do |blog|
   blog.name = 'news'
   blog.prefix = 'news'
-  blog.layout = 'article_layout'
   blog.sources = "/{year}/{month}/{day}/{title}.html"
   blog.permalink = "{title}.html"
   blog.new_article_template = "source/templates/news.markdown"
@@ -33,8 +31,8 @@ configure :development do
   activate :livereload
 end
 
-page 'blog/*', directory_index: false
-page 'news/*', directory_index: false
+page 'blog/*'
+page 'news/*'
 
 ready do
   data.tags.each do |tag|
