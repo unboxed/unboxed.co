@@ -1,4 +1,3 @@
-//= require turbolinks
 //= require_tree .
 
 wow = new WOW({
