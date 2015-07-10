@@ -6,7 +6,7 @@ set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
 set :markdown_engine, :redcarpet
-set :markdown, fenced_code_blocks: true, smartypants: true
+set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true
 
 activate :blog do |blog|
   blog.name = 'blog'
