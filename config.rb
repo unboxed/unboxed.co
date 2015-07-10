@@ -11,7 +11,7 @@ set :markdown, fenced_code_blocks: true, smartypants: true
 activate :blog do |blog|
   blog.name = 'blog'
   blog.prefix = 'blog'
-  blog.sources = "/{year}/{month}/{day}/{title}.html"
+  blog.sources = "/{year}/{month}/{title}.html"
   blog.permalink = "{title}.html"
   blog.new_article_template = "source/templates/blog.markdown"
 end
@@ -19,7 +19,7 @@ end
 activate :blog do |blog|
   blog.name = 'news'
   blog.prefix = 'news'
-  blog.sources = "/{year}/{month}/{day}/{title}.html"
+  blog.sources = "/{year}/{month}/{title}.html"
   blog.permalink = "{title}.html"
   blog.new_article_template = "source/templates/news.markdown"
 end

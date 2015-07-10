@@ -6,6 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente veniam enim a
 
 ![Creating a blog post](http://giant.gfycat.com/ScientificSecondhandDuiker.gif)
 
+
 ## Updating a post
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente veniam enim aspernatur est expedita in, doloremque ipsam, placeat exercitationem perferendis, maiores eius officiis aliquam suscipit. Enim saepe ut quae, consequuntur.
@@ -13,3 +14,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente veniam enim a
 ## Deleting a post
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente veniam enim aspernatur est expedita in, doloremque ipsam, placeat exercitationem perferendis, maiores eius officiis aliquam suscipit. Enim saepe ut quae, consequuntur.
+
