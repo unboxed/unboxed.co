@@ -1,7 +1,6 @@
 ---
 title: Digital Healthcare Roundtable Session
-date: 2015-07-08 09:30:00 UTC
-published_date: 2015-07-08 12:00:00 UTC
+date: 2015-07-08 12:00:00 UTC
 tags:
   - blog
   - health

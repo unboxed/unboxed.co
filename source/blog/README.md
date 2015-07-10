@@ -42,8 +42,7 @@ The blog template contains some required information such as the published date,
 
 Replace:
 - `<%= @title %>` with the title you wish to show for the browser window.
-- `<%= @date %>` with today's date.
-- `published_date: YYYY-MM-DD HH:MM:SS UTC` with the date you wish the blog post to be published.
+- `<%= @date %>` with publishing date, using the format `YYYY-MM-DD HH:MM:SS UTC`
 
 ## Writing the blog post
 

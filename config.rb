@@ -1,4 +1,5 @@
 require 'slim'
+Slim::Engine.disable_option_validator! # https://github.com/middleman/middleman/issues/1514
 
 set :relative_links, true
 set :layout, 'application'

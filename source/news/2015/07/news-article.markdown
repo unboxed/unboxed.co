@@ -1,7 +1,6 @@
 ---
 title: News article
-date: 2015-07-07 08:58:14 UTC
-published_date: 2015-07-07 13:00:00 UTC
+date: 2015-07-07 13:00:00 UTC
 tags:
   - news
 ---
@@ -15,7 +14,7 @@ Uses `sources/templates/news.markdown` as template:
 ```
 ---
 title: <%= @title %>
-published_date: <%= @date %>
+date: <%= @date %>
 tags:
   - news
 ---
