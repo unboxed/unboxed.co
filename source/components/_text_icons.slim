@@ -1,0 +1,10 @@
+.component.component-text-icons
+  section class="component-text"
+    h2 class="component-text__title" = title
+    p class="component-text__paragraph" = paragraph
+  aside
+    ul class="component-icons"
+      - icons.each do |icon|
+        li class="component-icons__icon revealAnimated"
+          img class="component-icons__icon-image" src="#{icon[:image]}" alt=""
+          span class="component-icons__icon-text" = icon[:text]

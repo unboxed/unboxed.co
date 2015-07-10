@@ -1,3 +1,5 @@
+@import 'reset';
+
 $tablet: 580px;
 $desktop: 1180px;
 
@@ -10,6 +12,8 @@ html {
   background-color: #3B0737;
 }
 
+@import 'animation';
 @import 'breakpoint';
 @import 'shared/*';
 @import 'styles/*';
+@import 'components/*';
