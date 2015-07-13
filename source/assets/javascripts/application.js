@@ -11,4 +11,6 @@ animationsWhenVisible = new WOW({
   live: true
 });
 
-animationsWhenVisible.init();
+document.addEventListener('page:change', function() {
+  animationsWhenVisible.init();
+});
