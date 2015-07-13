@@ -1,13 +1,31 @@
 # Blog posts
 
-Creating a blog post consists of four main steps:
+To create a blog post, create the markdown file within [this folder structure](#file-and-folder-structure).
 
-1. [Making the file](#making-the-file)
-2. [Copying in the template](#copying-in-the-template)
-3. [Writing the blog post](#writing-the-blog-post)
-4. [Saving the file](#saving-the-file)
+The [file name](#file-name) will be the URL (without the `.markdown` extension).
 
-## Making the file
+![](https://cloud.githubusercontent.com/assets/885223/8651131/fc532534-296e-11e5-8ffc-63c4c991cae8.png)
+
+Copy in the following template and replace `Blog title` and `YYYY-MM-DD HH:MM:SS UTC` with your blog title and publishing date.
+
+```
+---
+title: Blog title
+date: YYYY-MM-DD HH:MM:SS UTC
+tags:
+  - blog
+---
+```
+
+Blog posts are written in markdown. Click [here for some help](https://guides.github.com/features/mastering-markdown/#syntax).
+
+---
+
+### File name
+
+The file name will be the URL of that blog post, e.g. the file `url-for-blog-post.markdown` will be visible at http://example.com/blog/url-for-blog-post (without the `.markdown` extension).
+
+### File and folder structure
 
 Blog posts are structured by years and months:
 
@@ -22,6 +40,8 @@ Blog posts are structured by years and months:
         +-- 03
 ```
 
+#### Creating a folder
+
 If this folder structure does not already exist for the year or month, it can easily be created in GitHub:
 
 ![screen shot 2015-07-10 at 11 47 24](https://cloud.githubusercontent.com/assets/885223/8617206/7d2a7c0c-26f9-11e5-9ab6-9429de98ad0c.png)
@@ -31,31 +51,3 @@ If this folder structure does not already exist for the year or month, it can ea
 then type `/`
 
 ![screen shot 2015-07-10 at 11 47 52](https://cloud.githubusercontent.com/assets/885223/8617208/7d722b7e-26f9-11e5-88ab-3584f753f1f3.png)
-
-### Naming the file
-
-The filename will be the URL of that blog post, e.g. the file `url-for-blog-post.markdown` will be visible at http://example.com/blog/url-for-blog-post
-
-## Copying in the template
-
-The blog template contains some required information such as the published date, tags and the page title. Copy the latest blog template from the file at [/source/templates/blog.markdown](https://raw.githubusercontent.com/unboxed/ubxd_web_refresh/master/source/templates/blog.markdown)
-
-Replace:
-- `<%= @title %>` with the title you wish to show for the browser window.
-- `<%= @date %>` with publishing date, using the format `YYYY-MM-DD HH:MM:SS UTC`
-
-## Writing the blog post
-
-Blog posts use markdown (see [markdown basics reference](https://help.github.com/articles/markdown-basics/)). You can preview the blog post before saving the file to check headings, content and embedded content are what you expect it to be.
-
-## Saving the file
-
-To save the file, you need to commit the change. You can either "commit directly to the master branch" which will be on production within a few minutes, or "create a new branch" to review your changes and ask other people for feedback before it goes to production.
-
-It's recommended to create a pull request for every change you make to the website:
-
-![screen shot 2015-07-10 at 11 58 50](https://cloud.githubusercontent.com/assets/885223/8617396/490c9e8a-26fb-11e5-8899-a0516f1b1d79.png)
-
-If you create a pull request, please name it with the convention of `blog/<name-of-blog>` where `<name-of-blog>` should be subsituted.
-
-Press "Propose new file" which will redirect you to a page to "open a pull request". Finally press "Create pull request" and share the link to those who want to give you feedback
