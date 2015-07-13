@@ -1,8 +1,9 @@
 ---
 title: Willa's Blog title
-date: 2015-07-10 HH:MM:SS UTC
-tags: ux, design, ponies
-  - blog
+date: 2015-07-10 12:12:12 UTC
+tags: 
+      - development
+      - blog
 ---
 
 ##GitHub.com ##
