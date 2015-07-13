@@ -27,17 +27,14 @@ The file name will be the URL of that blog post, e.g. the file `url-for-blog-pos
 
 ### File and folder structure
 
-Blog posts are structured by years and months:
+Blog posts are structured by years:
 
 ```
 +-- blog
     +-- 2013
     +-- 2014
     +-- 2015
-        +-- 01
-            +-- url-for-blog-post.markdown
-        +-- 02
-        +-- 03
+        +-- url-for-blog-post.markdown
 ```
 
 #### Creating a folder
