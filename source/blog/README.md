@@ -1,50 +1,25 @@
-# Blog posts
 
-To create a blog post, create the markdown file within [this folder structure](#file-and-folder-structure).
+## Creating a blog post
 
-The [file name](#file-name) will be the URL (without the `.markdown` extension).
+[Markdown reference](https://guides.github.com/features/mastering-markdown/#syntax)
 
-![](https://cloud.githubusercontent.com/assets/885223/8651131/fc532534-296e-11e5-8ffc-63c4c991cae8.png)
+![File structure](https://cloud.githubusercontent.com/assets/885223/8670396/b25c067a-2a14-11e5-9824-fdca1a69e039.png)
 
-Copy in the following template and replace `Blog title` and `YYYY-MM-DD HH:MM:SS UTC` with your blog title and publishing date.
+- File name is the URL: `blog-post-url.md` (remember the `.md` extension). Will be shown as `/blog/blog-post-url`
+- File location must be in a year (e.g. [`2015`](https://github.com/unboxed/ubxd_web_refresh/tree/master/source/blog/2015))
+
+### Template
 
 ```
 ---
 title: Blog title
-date: YYYY-MM-DD HH:MM:SS UTC
+date: YYYY-MM-DD 00:00:00 UTC
 tags:
   - blog
 ---
 ```
 
-Blog posts are written in markdown. Click [here for some help](https://guides.github.com/features/mastering-markdown/#syntax).
+- Replace `Blog title`
+- Update `YYYY-MM-DD` to the publishing date.
 
----
-
-### File name
-
-The file name will be the URL of that blog post, e.g. the file `url-for-blog-post.markdown` will be visible at http://example.com/blog/url-for-blog-post (without the `.markdown` extension).
-
-### File and folder structure
-
-Blog posts are structured by years:
-
-```
-+-- blog
-    +-- 2013
-    +-- 2014
-    +-- 2015
-        +-- url-for-blog-post.markdown
-```
-
-#### Creating a folder
-
-If this folder structure does not already exist for the year or month, it can easily be created in GitHub:
-
-![screen shot 2015-07-10 at 11 47 24](https://cloud.githubusercontent.com/assets/885223/8617206/7d2a7c0c-26f9-11e5-9ab6-9429de98ad0c.png)
-
-![screen shot 2015-07-10 at 11 47 38](https://cloud.githubusercontent.com/assets/885223/8617207/7d587dbe-26f9-11e5-839c-2c9a002f225e.png)
-
-then type `/`
-
-![screen shot 2015-07-10 at 11 47 52](https://cloud.githubusercontent.com/assets/885223/8617208/7d722b7e-26f9-11e5-88ab-3584f753f1f3.png)
+![Editing file](http://giant.gfycat.com/AmpleMagnificentColt.gif)
