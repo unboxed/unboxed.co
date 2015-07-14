@@ -1,0 +1,41 @@
+.flex-row {
+  @include display-flex;
+  flex-wrap: nowrap;
+  -webkit-flex-wrap: nowrap;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+
+.flex-row--text-left {
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+
+.flex-row--text-right {
+  justify-content: flex-start;
+  -webkit-justify-content: flex-start;
+}
+
+.flex-row {
+  @include breakpoint($tablet) {
+    flex-direction: row;
+    -webkit-flex-direction: row;
+  }
+}
+
+.flex-row--tablet-reverse {
+  @include breakpoint($tablet) {
+    flex-direction: row-reverse;
+    -webkit-flex-direction: row-reverse;
+  }
+}
+
+.flex-row__column {
+  @include breakpoint($tablet) {
+    width: 50%;
+  }
+
+  &.text-block {
+    max-width: 590px;
+  }
+}

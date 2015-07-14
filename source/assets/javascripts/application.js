@@ -6,7 +6,7 @@ Turbolinks.enableTransitionCache();
 animationsWhenVisible = new WOW({
   boxClass: 'revealAnimated',
   animateClass: 'animated',
-  offset: 160,
+  offset: 210,
   mobile: false,
   live: true
 });

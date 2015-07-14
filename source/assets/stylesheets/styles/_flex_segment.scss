@@ -1,0 +1,11 @@
+.flex-strip {
+  @include display-flex;
+  @extend %container;
+  flex-wrap: nowrap;
+  -webkit-flex-wrap: nowrap;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  justify-content: center;
+  -webkit-justify-content: center;
+  min-height: 420px;
+}

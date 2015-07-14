@@ -1,19 +1,13 @@
 @import 'reset';
+@import 'vendor/*';
 
 $tablet: 580px;
-$desktop: 1180px;
+$max-container: 1180px;
 
 html {
   font-size: 16px;
   font-family: sans-serif;
 }
 
-.project-story_sh24 {
-  background-color: #3B0737;
-}
-
-@import 'animation';
-@import 'breakpoint';
 @import 'shared/*';
 @import 'styles/*';
-@import 'components/*';

@@ -2,27 +2,38 @@
   @include display-flex;
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
-  height: 340px;
+  height: 420px;
 }
 
-.image-block__main-image {
+.image-block__1-image {
   object-fit: cover;
-  flex-grow: 2;
-  -webkit-flex-grow: 2;
-  height: 60%;
+  height: 420px;
   width: 100%;
 }
 
-.image-block__image {
+.image-block__3-image {
   object-fit: cover;
   flex-grow: 1;
   -webkit-flex-grow: 1;
   height: 40%;
   width: 50%;
-}
 
-.image-block__full-image {
-  object-fit: cover;
-  height: 340px;
-  width: 100%;
+  @include breakpoint($max-container * 1.5) {
+    height: 100%;
+    width: 33%;
+  }
+
+  &:first-of-type {
+    height: 60%;
+    width: 100%;
+    flex-grow: 2;
+    -webkit-flex-grow: 2;
+
+    @include breakpoint($max-container * 1.5) {
+      height: 100%;
+      width: 33%;
+      flex-grow: 1;
+      -webkit-flex-grow: 1;
+    }
+  }
 }

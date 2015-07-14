@@ -1,26 +1,28 @@
 .header {
   background-color: #3B0737;
-  position: relative;
+}
+
+.header__container {
+  @extend %container;
+  display: flex;
   height: 300px;
-  max-width: $desktop;
-  margin: 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .header__brand {
   color: #9F2D99;
   font-size: 1.5rem;
   font-weight: 600;
-  position: absolute;
-  right: 16px;
-  top: 16px;
+  text-align: right;
+  margin-right: 16px;
+  margin-top: 16px;
 }
 
 .header__case-study {
   max-width: 340px;
-  position: absolute;
-  bottom: 32px;
-  right: 32px;
-  left: 32px;
+  margin-bottom: 32px;
+  margin-left: 32px;
 }
 
 .header__case-study-title {

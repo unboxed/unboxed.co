@@ -40,49 +40,51 @@ sections:
 ---
 
 .header
-  header class="header__brand" UBXD
+  .header__container
+    header class="header__brand" UBXD
+    section class="header__case-study"
+      h1 class="header__case-study-title" = current_page.data.title
+      p class="header__case-study-subtitle" = current_page.data.subtitle
 
-  section class="header__case-study"
-    h1 class="header__case-study-title" = current_page.data.title
-    p class="header__case-study-subtitle" = current_page.data.subtitle
+img class="hero-image" src="#{current_page.data.hero_image}" alt=""
 
-.section__1-column
-  img class="block__full-image" src="#{current_page.data.hero_image}" alt=""
+.white-background
+  .flex-row.flex-row--text-left
+    section class="flex-row__column text-block"
+      h2 class="text-block__title" = current_page.data.sections.challenge.title
+      p class="text-block__paragraph" = current_page.data.sections.challenge.content
+    aside class="flex-row__column image-block"
+      - current_page.data.sections.challenge.images.each_with_index do |image, index|
+        img class="image-block__3-image" src="#{image}" alt=""
 
-.section__2-columns.block__white-background
-  section class="section__2-columns--50 text-block"
-    h2 class="text-block__title" = current_page.data.sections.challenge.title
-    p class="text-block__paragraph" = current_page.data.sections.challenge.content
-  aside class="section__2-columns--50 image-block"
-    - current_page.data.sections.challenge.images.each_with_index do |image, index|
-      img class="image-block__#{'main-' if index == 0}image" src="#{image}" alt=""
+.yellow-background
+  .flex-strip
+    section class="text-block"
+      h2 class="text-block__title" = current_page.data.sections.idea.title
+      p class="text-block__paragraph" = current_page.data.sections.idea.content
+    aside
+      ul class="list-block"
+        - current_page.data.sections.idea.steps.each do |step|
+          li class="list-block__list-item animated__list-item revealAnimated animated bounceIn"
+            img class="list-block__image" src="#{step.image}" alt=""
+            .list-block__text = step.text
 
-.section__1-column.block__yellow-background
-  section class="text-block"
-    h2 class="text-block__title" = current_page.data.sections.idea.title
-    p class="text-block__paragraph" = current_page.data.sections.idea.content
-  aside
-    ul class="list-block"
-      - current_page.data.sections.idea.steps.each do |step|
-        li class="list-block__list-item animated__list-item revealAnimated animated bounceIn"
-          img class="list-block__image" src="#{step.image}" alt=""
-          .list-block__text = step.text
+.grey-background
+  .flex-row.flex-row--text-right
+    aside class="flex-row__column image-block animated__prototype-container"
+      .animated__prototype.revealAnimated.animated.slideInUp data-wow-offset="300"
+        img class="image-block__1-image project-story-sh24__prototype" src="#{current_page.data.sections.prototype.image}" alt=""
+    section class="flex-row__column text-block"
+      h2 class="text-block__title text-block__title--white" = current_page.data.sections.prototype.title
+      p class="text-block__paragraph text-block__paragraph--white" = current_page.data.sections.prototype.content
 
-.section__2-columns.block__grey-background
-  aside class="section__2-columns--50 image-block animated__prototype-container"
-    img class="image-block__full-image animated__prototype revealAnimated animated slideInUp" src="#{current_page.data.sections.prototype.image}" alt=""
+img class="hero-image project-story-sh24__woman-with-phone" src="#{current_page.data.sections.break.image}" alt=""
 
-  section class="section__2-columns--50 text-block"
-    h2 class="text-block__title text-block__title--white" = current_page.data.sections.prototype.title
-    p class="text-block__paragraph text-block__paragraph--white" = current_page.data.sections.prototype.content
+.white-background
+  .flex-row.flex-row--text-left.flex-row--tablet-reverse
+    section class="flex-row__column text-block"
+      h2 class="text-block__title" = current_page.data.sections.impact.title
+      p class="text-block__paragraph" = current_page.data.sections.impact.content
 
-.section__1-column
-  img class="block__full-image project-story-sh24__woman-with-phone" src="#{current_page.data.sections.break.image}" alt=""
-
-.section__2-columns.block__white-background
-  section class="section__2-columns--50 text-block"
-    h2 class="text-block__title" = current_page.data.sections.impact.title
-    p class="text-block__paragraph" = current_page.data.sections.impact.content
-
-  aside class="section__2-columns--50-desktop-first image-block"
-    img class="image-block__full-image" src="#{current_page.data.sections.impact.image}" alt=""
+    aside class="flex-row__column image-block"
+      img class="image-block__1-image" src="#{current_page.data.sections.impact.image}" alt=""

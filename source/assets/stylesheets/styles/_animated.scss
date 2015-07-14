@@ -1,27 +1,24 @@
 .animated__list-item {
+  animation-duration: 1s;
   -webkit-animation-duration: 1s;
 }
 
 .animated__list-item:nth-of-type(1) {
+  animation-delay: 0;
   -webkit-animation-delay: 0;
 }
 
 .animated__list-item:nth-of-type(2) {
+  animation-delay: .25s;
   -webkit-animation-delay: .25s;
 }
 
 .animated__list-item:nth-of-type(3) {
+  animation-delay: .5s;
   -webkit-animation-delay: .5s;
 }
 
 .animated__list-item:nth-of-type(4) {
+  animation-delay: .75s;
   -webkit-animation-delay: .75s;
-}
-
-.animated__prototype-container {
-  overflow: hidden;
-}
-
-.animated__prototype {
-  -webkit-animation-delay: 1.0s;
 }
