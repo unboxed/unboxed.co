@@ -46,7 +46,7 @@ sections:
       h1 class="header__case-study-title" = current_page.data.title
       p class="header__case-study-subtitle" = current_page.data.subtitle
 
-img class="hero-image" src="#{current_page.data.hero_image}" alt=""
+img class="hero-image" src="#{current_page.data.hero_image}" srcset="#{current_page.data.hero_image} 2x" alt=""
 
 .white-background
   .flex-row.flex-row--text-left
@@ -55,7 +55,7 @@ img class="hero-image" src="#{current_page.data.hero_image}" alt=""
       p class="text-block__paragraph" = current_page.data.sections.challenge.content
     aside class="flex-row__column image-block"
       - current_page.data.sections.challenge.images.each_with_index do |image, index|
-        img class="image-block__3-image" src="#{image}" alt=""
+        img class="image-block__3-image" src="#{image}" srcset="#{image} 2x" alt=""
 
 .yellow-background
   .flex-strip
@@ -66,19 +66,19 @@ img class="hero-image" src="#{current_page.data.hero_image}" alt=""
       ul class="list-block"
         - current_page.data.sections.idea.steps.each do |step|
           li class="list-block__list-item animated__list-item revealAnimated animated bounceIn"
-            img class="list-block__image" src="#{step.image}" alt=""
+            img class="list-block__image" src="#{step.image}" srcset="#{step.image} 2x" alt=""
             .list-block__text = step.text
 
 .grey-background
-  .flex-row.flex-row--text-right
-    aside class="flex-row__column image-block animated__prototype-container"
-      .animated__prototype.revealAnimated.animated.slideInUp data-wow-offset="300"
-        img class="image-block__1-image project-story-sh24__prototype" src="#{current_page.data.sections.prototype.image}" alt=""
-    section class="flex-row__column text-block"
+  .project-story-sh24-prototype
+    section class="project-story-sh24-prototype__text-block text-block"
       h2 class="text-block__title text-block__title--white" = current_page.data.sections.prototype.title
       p class="text-block__paragraph text-block__paragraph--white" = current_page.data.sections.prototype.content
+    aside class="project-story-sh24-prototype__image-block animated__prototype-container"
+      .project-story-sh24-prototype__image-wrapper.revealAnimated.animated.slideInUp data-wow-offset="300"
+        img class="project-story-sh24-prototype__image" src="#{current_page.data.sections.prototype.image}" srcset="#{current_page.data.sections.prototype.image} 2x" alt=""
 
-img class="hero-image project-story-sh24__woman-with-phone" src="#{current_page.data.sections.break.image}" alt=""
+img class="hero-image project-story-sh24__woman-with-phone" src="#{current_page.data.sections.break.image}" srcset="#{current_page.data.sections.break.image} 2x" alt=""
 
 .white-background
   .flex-row.flex-row--text-left.flex-row--tablet-reverse
@@ -87,4 +87,4 @@ img class="hero-image project-story-sh24__woman-with-phone" src="#{current_page.
       p class="text-block__paragraph" = current_page.data.sections.impact.content
 
     aside class="flex-row__column image-block"
-      img class="image-block__1-image" src="#{current_page.data.sections.impact.image}" alt=""
+      img class="image-block__1-image" src="#{current_page.data.sections.impact.image}" srcset="#{current_page.data.sections.impact.image} 2x" alt=""
