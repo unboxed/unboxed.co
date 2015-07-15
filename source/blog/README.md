@@ -1,12 +1,15 @@
-
 ## Creating a blog post
 
-[Markdown reference](https://guides.github.com/features/mastering-markdown/#syntax)
+### New file
 
-![File structure](https://cloud.githubusercontent.com/assets/885223/8670396/b25c067a-2a14-11e5-9824-fdca1a69e039.png)
+- File must be in a year (`YYYY`) folder, e.g. `2015`
+- File name will be the URL: `blog-post-url.md`
+  - Remember the `.md` extension
+  - Will be shown as `ubxd.com/blog/blog-post-url`
 
-- File name is the URL: `blog-post-url.md` (remember the `.md` extension). Will be shown as `/blog/blog-post-url`
-- File location must be in a year (e.g. [`2015`](https://github.com/unboxed/ubxd_web_refresh/tree/master/source/blog/2015))
+![Creating a new file](http://zippy.gfycat.com/FickleFortunateAtlanticbluetang.gif)
+
+![File structure](https://cloud.githubusercontent.com/assets/885223/8697821/3e5f4944-2af0-11e5-82df-8964a2426349.png)
 
 ### Template
 
@@ -20,6 +23,7 @@ tags:
 ```
 
 - Replace `Blog title`
-- Update `YYYY-MM-DD` to the publishing date.
+- Update `YYYY-MM-DD` to today's date
+- [Markdown reference](https://guides.github.com/features/mastering-markdown/#syntax)
 
-![Editing file](http://giant.gfycat.com/AmpleMagnificentColt.gif)
+![Using the editor](http://giant.gfycat.com/HighlevelGraveAmoeba.gif)
