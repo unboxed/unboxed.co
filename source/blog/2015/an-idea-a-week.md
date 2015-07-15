@@ -28,3 +28,4 @@ In order to share what is happening, we have various channels for communicating 
 
 Our team on the bench have daily stand ups to discuss new ideas. This week we are doing a brain dump and tomorrow we hope to plan our collaboration to build an MVP.
 
+Perhaps I just have an annoying habit of labelling things with stupid names.
