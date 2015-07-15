@@ -1,7 +1,10 @@
 ---
 title: An idea a week
 date: 2015-07-20 00:00:00 UTC
-tags: innovation, ideas, culture
+tags: 
+  - innovation
+  - ideas
+  - culture
   - blog
 ---
 
