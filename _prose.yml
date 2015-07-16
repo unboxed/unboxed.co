@@ -1,0 +1,19 @@
+prose:
+  rooturl: 'source/blog'
+  media: 'source/blog/images'
+  metadata:
+    source/blog:
+      - name: 'title'
+        field:
+          element: 'text'
+          label: 'title'
+      - name: 'date'
+        field:
+          element: 'hidden'
+          value: CURRENT_DATETIME
+      - name: 'published'
+        field:
+          element: 'checkbox'
+          label: 'Published?'
+          help: 'Unpublished by default'
+          value: false

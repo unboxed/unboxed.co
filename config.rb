@@ -37,7 +37,7 @@ page 'news/*'
 
 ready do
   data.tags.each do |tag|
-    proxy "/#{tag.url}.html", '/templates/grid.html', locals: { query: { :tags.include => tag.url } }
+    proxy "/#{tag.value}.html", '/templates/grid.html', locals: { query: { :tags.include => tag.value } }
   end
 
   data.people.each do |person|

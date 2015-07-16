@@ -8,7 +8,7 @@ ul
     = link_to 'People', '/people.html'
   - data.tags.each do |tag|
     li
-      = link_to tag.display_name, "/#{tag.url}.html"
+      = link_to tag.name, "/#{tag.value}.html"
 
 ul
 - data.people.each do |person|
