@@ -7,13 +7,10 @@ $sh24-prototype-desktop-break: 1100px;
 
 .project-story-sh24-prototype {
   @include breakpoint($max-container) {
-    @include display-flex;
-    flex-wrap: nowrap;
-    -webkit-flex-wrap: nowrap;
-    flex-direction: row-reverse;
-    -webkit-flex-direction: row-reverse;
-    justify-content: flex-end;
-    -webkit-justify-content: flex-end;
+    @include flexbox;
+    @include flex-wrap(nowrap);
+    @include flex-direction(row-reverse);
+    @include justify-content(flex-end);
     max-height: 420px;
   }
 }
@@ -37,9 +34,8 @@ $sh24-prototype-desktop-break: 1100px;
   -webkit-animation-delay: 1.0s;
 
   @include breakpoint($max-container) {
-    display: flex;
-    justify-content: flex-end;
-    -webkit-justify-content: flex-end;
+    @include flexbox;
+    @include justify-content(flex-end);
   }
 }
 
@@ -61,7 +57,4 @@ $sh24-prototype-desktop-break: 1100px;
     height: 420px;
     width: 100%;
   }
-
-  // @include breakpoint($sh24-prototype-desktop-break) {
-  // }
 }

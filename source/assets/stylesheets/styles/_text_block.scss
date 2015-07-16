@@ -3,11 +3,9 @@
   padding: 32px;
 
   @include breakpoint($tablet) {
-    @include display-flex;
-    justify-content: center;
-    -webkit-justify-content: center;
-    flex-direction: column;
-    -webkit-flex-direction: column;
+    @include flexbox;
+    @include flex-direction(column);
+    @include justify-content(center);
   }
 }
 

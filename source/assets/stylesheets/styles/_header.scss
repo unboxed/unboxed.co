@@ -3,11 +3,11 @@
 }
 
 .header__container {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(space-between);
   @extend %container;
-  display: flex;
   height: 300px;
-  flex-direction: column;
-  justify-content: space-between;
 }
 
 .header__brand {

@@ -1,9 +1,7 @@
 .list-block {
-  @include display-flex;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-  flex-wrap: wrap;
-  -webkit-flex-wrap: wrap;
+  @include flexbox;
+  @include flex-direction(row);
+  @include flex-wrap(wrap);
   padding: 16px 32px 32px;
   max-width: 334px;
   margin: 0 auto;
@@ -15,11 +13,9 @@
 }
 
 .list-block__list-item {
-  @include display-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
+  @include flexbox;
+  @include flex-direction(column);
+  @include flex-grow(1);
   padding-bottom: 16px;
 
   &:last-of-type {
@@ -29,34 +25,28 @@
 
 .list-block__image {
   $width: 96px;
-  flex-grow: 0;
-  -webkit-flex-grow: 0;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-  flex-basis: $width;
-  -webkit-flex-basis: $width;
+  @include flex-grow(0);
+  @include flex-shrink(0);
+  @include flex-basis($width);
   padding: 0 8px 16px;
   margin: 0 auto;
   width: $width;
 
   @include breakpoint($tablet) {
     $width: 112px;
-    flex-basis: $width;
-    -webkit-flex-basis: $width;
+    @include flex-basis($width);
     width: $width;
   }
 
   @include breakpoint(768px) {
     $width: 128px;
-    flex-basis: $width;
-    -webkit-flex-basis: $width;
+    @include flex-basis($width);
     width: $width;
   }
 }
 
 .list-block__text {
-  align-self: center;
-  -webkit-align-self: center;
+  @include align-self(center);
   line-height: 1.2;
   color: #414141;
   font-weight: 100;
