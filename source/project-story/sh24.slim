@@ -41,6 +41,16 @@ sections:
     title: "The team"
     content: "This is what we got out of the project and what we learned..."
     image: "team.jpg"
+links:
+  - title: "Revolutionary new STI-testing scheme launches in Southwark"
+    source: "southwarknews"
+    type: "news"
+  - title: "SH:24 sexual health service launches today"
+    source: "Design Council"
+    type: "news"
+  - title: "Visit the site and check it out for yourself"
+    source: "SH:24"
+    type: "link"
 ---
 
 .header
@@ -100,3 +110,11 @@ img class="hero-image project-story-sh24__woman-with-phone" src="#{current_page.
       p class="text-block__large-paragraph" = current_page.data.sections.team.content
     aside class="flex-column__row"
       img class="flex-column__image project-story-sh24__team-image" src="#{current_page.data.sections.team.image}" srcset="#{current_page.data.sections.team.image} 2x" alt=""
+
+.grid
+  - current_page.data.links.each do |link|
+    a class="grid__tile tile" href="#"
+      .grid__content
+        .tile__type = link.type
+        h2.tile__title = link.title
+      .tile__source = link.source

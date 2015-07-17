@@ -1,0 +1,40 @@
+.tile {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(space-between);
+  padding: 8px 16px 16px;
+
+  &:hover {
+    background-color: #FBFBFB;
+  }
+}
+
+.tile__title {
+  font-size: 20px;
+  margin-bottom: 12px;
+  color: #555555;
+
+  @include breakpoint($tablet) {
+    margin-bottom: 16px;
+  }
+}
+
+.tile__source {
+  font-size: 12px;
+  color: #555555;
+}
+
+.tile__type {
+  color: #9F2D99;
+  font-size: 12px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+
+  &:after {
+    content: " //";
+  }
+
+  @include breakpoint($tablet) {
+    margin-bottom: 12px;
+  }
+}
