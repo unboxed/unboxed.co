@@ -12,20 +12,8 @@
 .grid__tile {
   @include flex(1);
   display: block;
-  text-decoration: none;
-  border-bottom: 1px solid #E7E7E7;
-
-  &:last-of-type {
-    border-bottom: 0;
-  }
 
   @include breakpoint($tablet) {
-    border-bottom: 0;
-    border-right: 1px solid #E7E7E7;
     min-height: 140px;
-
-    &:last-of-type {
-      border-right: 0;
-    }
   }
 }

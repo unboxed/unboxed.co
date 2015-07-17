@@ -1,0 +1,133 @@
+.related-tile {
+  @include flexbox;
+  @include flex-direction(column);
+  text-decoration: none;
+
+  &:hover .related-tile__img-wrapper {
+    z-index: 3;
+  }
+}
+
+.related-tile__container {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(space-between);
+  padding: 8px 16px;
+  z-index: 2;
+
+  @include breakpoint($tablet) {
+    min-height: 180px;
+  }
+}
+
+.related-tile__type {
+  font-size: 12px;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+
+  &:after {
+    content: " //";
+  }
+
+  @include breakpoint($tablet) {
+    margin-bottom: 12px;
+  }
+}
+
+.related-tile__title {
+  font-size: 20px;
+  font-weight: 100;
+  margin-bottom: 24px;
+}
+
+.related-tile__author {
+  font-size: 12px;
+}
+
+.related-tile__img-wrapper {
+  @include breakpoint($tablet) {
+    height: 100px;
+  }
+}
+
+.related-tile__img {
+  display: block;
+  object-fit: cover;
+  height: 50vw;
+  width: 100%;
+
+  @include breakpoint($tablet) {
+    margin-top: -70px;
+    height: 170px;
+  }
+
+  &:last-of-type { //tmp fix
+    object-position: top;
+  }
+}
+
+.related-tile--white {
+  .related-tile__container {
+    background-color: #FFFFFF;
+  }
+
+  &:hover .related-tile__container {
+    background-color: darken(#FFFFFF, 2.5%);
+  }
+
+  .related-tile__type {
+    color: #9F2D99;
+  }
+
+  .related-tile__title {
+    color: #000000;
+  }
+
+  .related-tile__author {
+    color: #9F2D99;
+  }
+}
+
+.related-tile--blue {
+  .related-tile__container {
+    background-color: #29A5E7;
+  }
+
+  &:hover .related-tile__container {
+    background-color: darken(#29A5E7, 2.5%);
+  }
+
+  .related-tile__type {
+    color: #FFFFFF;
+  }
+
+  .related-tile__title {
+    color: #FFFFFF;
+  }
+
+  .related-tile__author {
+    color: #FFFFFF;
+  }
+}
+
+.related-tile--yellow {
+  .related-tile__container {
+    background-color: #FDB92C;
+  }
+
+  &:hover .related-tile__container {
+    background-color: darken(#FDB92C, 2.5%);
+  }
+
+  .related-tile__type {
+    color: #FFFFFF;
+  }
+
+  .related-tile__title {
+    color: #FFFFFF;
+  }
+
+  .related-tile__author {
+    color: #FFFFFF;
+  }
+}

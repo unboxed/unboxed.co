@@ -45,12 +45,33 @@ links:
   - title: "Revolutionary new STI-testing scheme launches in Southwark"
     source: "southwarknews"
     type: "news"
+    primary: false
   - title: "SH:24 sexual health service launches today"
     source: "Design Council"
     type: "news"
+    primary: false
   - title: "Visit the site and check it out for yourself"
     source: "SH:24"
     type: "link"
+    primary: true
+related:
+  title: "Had enough or are you thirsty for more..."
+  articles:
+    - title: "Agile. Being lean in the NHS"
+      author: "Martyn Evans"
+      type: "round table"
+      colour: "blue"
+      image: "nhs.jpg"
+    - title: "De-railed? Is Ruby Enterprise ready?"
+      author: "Murray Steele"
+      type: "blog"
+      colour: "yellow"
+      image: "murray-steele.jpg"
+    - title: "Groundbreaking redevelopment of Channel5.com"
+      author: "Channel5"
+      type: "project story"
+      colour: "white"
+      image: "channel5.jpg"
 ---
 
 .header
@@ -111,10 +132,25 @@ img class="hero-image project-story-sh24__woman-with-phone" src="#{current_page.
     aside class="flex-column__row"
       img class="flex-column__image project-story-sh24__team-image" src="#{current_page.data.sections.team.image}" srcset="#{current_page.data.sections.team.image} 2x" alt=""
 
-.grid
-  - current_page.data.links.each do |link|
-    a class="grid__tile tile" href="#"
-      .grid__content
-        .tile__type = link.type
-        h2.tile__title = link.title
-      .tile__source = link.source
+  .grid
+    - current_page.data.links.each do |link|
+      a class="grid__tile tile #{'tile--primary' if link.primary}" href="#"
+        .grid__content
+          .tile__type = link.type
+          h2.tile__title = link.title
+        .tile__source = link.source
+
+.footer
+  .footer__container
+    .related-articles
+      h2.related-articles__title = current_page.data.related.title
+      .grid
+        - current_page.data.related.articles.each do |article|
+          a class="grid__tile related-tile related-tile--#{article.colour}" href="#"
+            .related-tile__container
+              .related-tile__content
+                .related-tile__type = article.type
+                h2.related-tile__title = article.title
+              .related-tile__author = article.author
+            .related-tile__img-wrapper
+              img.related-tile__img src="#{article.image}"

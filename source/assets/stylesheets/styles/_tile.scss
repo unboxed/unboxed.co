@@ -2,26 +2,27 @@
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(space-between);
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #F0F0F0;
   padding: 8px 16px 16px;
+  text-decoration: none;
 
   &:hover {
     background-color: #FBFBFB;
   }
-}
 
-.tile__title {
-  font-size: 20px;
-  margin-bottom: 12px;
-  color: #555555;
+  &:last-of-type {
+    border-bottom: 0;
+  }
 
   @include breakpoint($tablet) {
-    margin-bottom: 16px;
-  }
-}
+    border-bottom: 0;
+    border-right: 1px solid #F0F0F0;
 
-.tile__source {
-  font-size: 12px;
-  color: #555555;
+    &:last-of-type {
+      border-right: 0;
+    }
+  }
 }
 
 .tile__type {
@@ -36,5 +37,41 @@
 
   @include breakpoint($tablet) {
     margin-bottom: 12px;
+  }
+}
+
+.tile__title {
+  font-size: 20px;
+  font-weight: 100;
+  margin-bottom: 12px;
+  color: #555555;
+
+  @include breakpoint($tablet) {
+    margin-bottom: 16px;
+  }
+}
+
+.tile__source {
+  font-size: 12px;
+  color: #555555;
+}
+
+.tile--primary {
+  background-color: #3A0636;
+
+  &:hover {
+    background-color: lighten(#3A0636, 2.5%);
+  }
+
+  .tile__title {
+    color: #CD27C3;
+  }
+
+  .tile__source {
+    color: #CD27C3;
+  }
+
+  .tile__type {
+    color: #FFFFFF;
   }
 }

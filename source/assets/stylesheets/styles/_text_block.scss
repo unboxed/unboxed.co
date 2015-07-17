@@ -26,6 +26,10 @@
   color: #555555;
   font-size: 1.7rem;
   font-weight: 100;
+
+  @include breakpoint($max-container) {
+    max-width: 310px;
+  }
 }
 
 .text-block__title--white,
