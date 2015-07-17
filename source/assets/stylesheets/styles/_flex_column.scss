@@ -1,0 +1,51 @@
+.flex-column {
+  @include breakpoint($max-container) {
+    @include flexbox;
+    @include flex-wrap(nowrap);
+    @include flex-direction(row);
+    @include justify-content(flex-end);
+    max-height: 420px;
+  }
+}
+
+.flex-column--text-right {
+  @include flex-direction(row-reverse);
+  @include justify-content(flex-end);
+
+  &.flex-column__image-wrapper {
+    @include justify-content(flex-end);
+  }
+}
+
+.flex-column__row {
+  @include breakpoint($max-container) {
+    width: 50%;
+
+    &.text-block {
+      max-width: 590px;
+    }
+  }
+}
+
+.flex-column__image-wrapper {
+  @include breakpoint($max-container) {
+    @include flexbox;
+    @include justify-content(flex-start);
+  }
+}
+
+.flex-column__image {
+  box-sizing: border-box;
+  display: block;
+  object-fit: contain;
+  width: 100%;
+
+  @include breakpoint($tablet) {
+    max-height: 420px;
+  }
+
+  @include breakpoint($max-container) {
+    height: 420px;
+    width: 100%;
+  }
+}

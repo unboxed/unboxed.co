@@ -37,6 +37,10 @@ sections:
     title: "The impact"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, praesentium provident similique, non rerum eum perspiciatis eius laborum, temporibus dolore maxime, debitis sapiente iure optio ipsam dolores. Aliquam, consequatur, maxime."
     image: "test-kits.jpg"
+  team:
+    title: "The team"
+    content: "This is what we got out of the project and what we learned..."
+    image: "team.jpg"
 ---
 
 .header
@@ -70,13 +74,13 @@ img class="hero-image" src="#{current_page.data.hero_image}" srcset="#{current_p
             .list-block__text = step.text
 
 .grey-background
-  .project-story-sh24-prototype
-    section class="project-story-sh24-prototype__text-block text-block"
+  .flex-column.flex-column--text-right
+    section class="flex-column__row text-block"
       h2 class="text-block__title text-block__title--white" = current_page.data.sections.prototype.title
       p class="text-block__paragraph text-block__paragraph--white" = current_page.data.sections.prototype.content
-    aside class="project-story-sh24-prototype__image-block animated__prototype-container"
-      .project-story-sh24-prototype__image-wrapper.revealAnimated.animated.slideInUp data-wow-offset="300"
-        img class="project-story-sh24-prototype__image" src="#{current_page.data.sections.prototype.image}" srcset="#{current_page.data.sections.prototype.image} 2x" alt=""
+    aside class="flex-column__row animated__container"
+      .flex-column__image-wrapper.animated__image.revealAnimated.animated.slideInUp data-wow-offset="300"
+        img class="flex-column__image project-story-sh24__prototype-image" src="#{current_page.data.sections.prototype.image}" srcset="#{current_page.data.sections.prototype.image} 2x" alt=""
 
 img class="hero-image project-story-sh24__woman-with-phone" src="#{current_page.data.sections.break.image}" srcset="#{current_page.data.sections.break.image} 2x" alt=""
 
@@ -88,3 +92,11 @@ img class="hero-image project-story-sh24__woman-with-phone" src="#{current_page.
 
     aside class="flex-row__column image-block"
       img class="image-block__1-image" src="#{current_page.data.sections.impact.image}" srcset="#{current_page.data.sections.impact.image} 2x" alt=""
+
+.light-grey-background
+  .flex-column
+    section class="flex-column__row text-block"
+      h2 class="text-block__title" = current_page.data.sections.team.title
+      p class="text-block__large-paragraph" = current_page.data.sections.team.content
+    aside class="flex-column__row"
+      img class="flex-column__image project-story-sh24__team-image" src="#{current_page.data.sections.team.image}" srcset="#{current_page.data.sections.team.image} 2x" alt=""

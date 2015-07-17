@@ -2,59 +2,28 @@
   object-position: right bottom;
 }
 
-$sh24-prototype-tablet-break: 700px;
-$sh24-prototype-desktop-break: 1100px;
-
-.project-story-sh24-prototype {
-  @include breakpoint($max-container) {
-    @include flexbox;
-    @include flex-wrap(nowrap);
-    @include flex-direction(row-reverse);
-    @include justify-content(flex-end);
-    max-height: 420px;
-  }
-}
-.project-story-sh24-prototype__text-block {
-  @include breakpoint($max-container) {
-    max-width: 590px;
-    width: 50%;
-  }
-}
-
-.project-story-sh24-prototype__image-block {
-  overflow: hidden;
-
-  @include breakpoint($max-container) {
-    width: 50%;
-  }
-}
-
-.project-story-sh24-prototype__image-wrapper {
-  animation-delay: 1.0s;
-  -webkit-animation-delay: 1.0s;
-
-  @include breakpoint($max-container) {
-    @include flexbox;
-    @include justify-content(flex-end);
-  }
-}
-
-.project-story-sh24-prototype__image {
-  padding: 0 32px;
-  box-sizing: border-box;
-  display: block;
+.project-story-sh24__prototype-image {
   object-fit: contain;
-  width: 100%;
-
-  @include breakpoint($tablet) {
-    max-height: 420px;
-  }
+  padding: 0 32px;
 
   @include breakpoint($max-container) {
     object-position: bottom right;
     padding-top: 32px;
     padding-right: 0;
-    height: 420px;
-    width: 100%;
+  }
+}
+
+.project-story-sh24__team-image {
+  object-fit: contain;
+  padding: 16px 32px 0;
+
+  @include breakpoint($tablet) {
+    padding-top: 32px;
+  }
+
+  @include breakpoint($max-container) {
+    object-position: bottom left;
+    padding-top: 96px;
+    padding-left: 0;
   }
 }

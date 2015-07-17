@@ -1,3 +1,7 @@
+.animated__container {
+  overflow: hidden;
+}
+
 .animated__list-item {
   animation-duration: 1s;
   -webkit-animation-duration: 1s;
@@ -21,4 +25,9 @@
 .animated__list-item:nth-of-type(4) {
   animation-delay: .75s;
   -webkit-animation-delay: .75s;
+}
+
+.animated__image {
+  animation-delay: 1.0s;
+  -webkit-animation-delay: 1.0s;
 }
