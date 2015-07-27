@@ -1,0 +1,263 @@
+---
+date: 2015-07-27 00:00 UTC
+
+title: "SH:24"
+
+heading: "8 weeks to transform NHS sexual health service"
+heading_image: "post-it.jpg"
+
+introduction: "Unboxed moves fast with SH:24 to create an online testing service that paves the way for the transformation of clinic-based services in the NHS."
+introduction_image: "blood-lancets.jpg"
+
+highlights_title: "Highlights..."
+highlights:
+  - "**Prototype service created in 8 weeks**, launched to the public 8 weeks later"
+  - "**Digital and physical elements** of the service **developed together** by a single team"
+  - "**Designed and tested** in close collaboration **with clinicians** and potential service users"
+  - "Complex **stakeholder group** fully **engaged throughout** the whole process"
+
+launch:
+  title: "Live service launched in 16 weeks"
+  content: "With a vision to transform sexual health in South London and beyond, SH:24 asked Unboxed to help them bring their idea to life. After only eight weeks, a willing volunteer was able to order and complete an STI test at home without any clinical support. Another eight weeks later, a live service was launched."
+  image: "kit-guide.jpg"
+
+first_met_quote:
+  quote: "From the moment we met Unboxed, we felt they understood our approach and had a robust process for exploration and delivery."
+  source: "Chris Howroyd, Director, SH:24"
+
+service:
+  title: "A complete service with a digital core"
+  content: "Whilst the digital elements formed a critical part of the service, great care was taken to ensure that the physical elements were equally as effective. The packaging and instructions, supporting information and messaging went through numerous iterations to produce a well rounded service on which to build in future."
+  image: "kit-guide-opened.jpg"
+
+prototype_kit_image: "kit-boxed.jpg"
+
+learning:
+  title: "Learning from our users and partners"
+  content: "Our \"war-room\" close to the clinics gave us direct access to the service users and our clinical partners. From the earliest sketches, through prototypes and models, to the final production code and kits, we were able to validate our thinking on a daily basis to ensure a valuable and sustainable service from day one."
+  image: "team.jpg"
+
+timely_quote:
+  quote: "Unboxed brought people together rapidly and helped us to deliver a full service in an incredibly short space of time."
+  source: "Chris Howroyd, SH:24"
+
+packaging_image: "alpha-packaging.jpg"
+
+stakeholder_trust:
+  title: "Building trust amongst stakeholders"
+  content: "A complex stakeholder group was engaged through regular workshops and continuous open communication establishing the level of trust necessary to move at speed. The most serious obstacles to progress were tackled first giving SH:24 the greatest chance of success as they expand across London and the UK."
+  image: "workshop.jpg"
+
+team_quote:
+  quote: "A great team with exactly the right mix of skills we needed."
+  source: "Chris Howroyd, SH:24"
+
+proposition_image: "woman-with-phone.jpg"
+
+statistics:
+  title: "Key Stats"
+  design_and_build_title: "Design and build"
+  design_and_build:
+    - "**Live test results returned within 8 weeks** of our engagement"
+    - "**16 weeks** from inception **to live NHS approved service**"
+    - "**100+ users** engaged in the design process"
+  since_launch_title: "Since launch"
+  since_launch:
+    - "The website has received **5200 visitors (70% new)** and **26,000 page views**"
+    - "**1300 have ordered a test through SH:24**"
+    - "**60%** of people have **returned their test** which is much **higher than other online testing services**"
+    - "**95%** of people starting the order process **go right through to complete the order**"
+
+team:
+  title: "The team"
+  content: "This is what we got out of the project and what we learned..."
+  images:
+    - name: "Martyn Evans"
+      image: martyn-evans.png
+    - name: "Tom Sabin"
+      image: tom-sabin.png
+    - name: "Patrick Davenport"
+      image: "patrick-davenport.png"
+
+links:
+  - title: "Revolutionary new STI-testing scheme launches in Southwark"
+    source: "southwarknews"
+    type: "news"
+    primary: false
+  - title: "SH:24 sexual health service launches today"
+    source: "Design Council"
+    type: "news"
+    primary: false
+  - title: "Visit the site and check it out for yourself"
+    source: "SH:24"
+    type: "link"
+    primary: true
+
+related:
+  title: "Had enough or are you thirsty for more..."
+  articles:
+    - title: "Agile. Being lean in the NHS"
+      author: "Martyn Evans"
+      type: "round table"
+      colour: "blue"
+      image: "nhs.jpg"
+    - title: "De-railed? Is Ruby Enterprise ready?"
+      author: "Murray Steele"
+      type: "blog"
+      colour: "yellow"
+      image: "murray-steele.jpg"
+    - title: "Groundbreaking redevelopment of Channel5.com"
+      author: "Channel5"
+      type: "project story"
+      colour: "white"
+      image: "channel5.jpg"
+
+---
+
+<header>
+  <h1>UBXD</h1>
+
+  <h2>
+    <%= current_page.data.title %>
+  </h2>
+
+  <p>
+    <%= current_page.data.heading %>
+  </p>
+</header>
+
+<%= retina_image_tag current_page.data.heading_image %>
+
+<section>
+  <h3>
+    <%= current_page.data.introduction %>
+  </h3>
+
+  <%= retina_image_tag current_page.data.introduction_image %>
+</section>
+
+<section>
+  <h3>
+    <%= current_page.data.highlights_title %>
+  </h3>
+
+  <ul>
+    <% current_page.data.highlights.each do |highlight| %>
+      <li>
+        <%= markdown highlight %>
+      </li>
+    <% end %>
+  </ul>
+</section>
+
+<section>
+  <h3>
+    <%= current_page.data.launch.title %>
+  </h3>
+
+  <p>
+    <%= current_page.data.launch.content %>
+  </p>
+
+  <%= retina_image_tag current_page.data.launch.image %>
+</section>
+
+<blockquote>
+  <p>
+    <%= current_page.data.first_met_quote.quote %>
+  </p>
+  <footer>
+    <%= current_page.data.first_met_quote.source %>
+  </footer>
+</blockquote>
+
+<section>
+  <h3>
+    <%= current_page.data.service.title %>
+  </h3>
+
+  <p>
+    <%= current_page.data.service.content %>
+  </p>
+
+  <%= retina_image_tag current_page.data.service.image %>
+</section>
+
+<%= retina_image_tag current_page.data.prototype_kit_image %>
+
+<section>
+  <h3>
+    <%= current_page.data.learning.title %>
+  </h3>
+
+  <p>
+    <%= current_page.data.learning.content %>
+  </p>
+
+  <%= retina_image_tag current_page.data.learning.image %>
+</section>
+
+<blockquote>
+  <p>
+    <%= current_page.data.timely_quote.quote %>
+  </p>
+  <footer>
+    <%= current_page.data.timely_quote.source %>
+  </footer>
+</blockquote>
+
+<%= retina_image_tag current_page.data.packaging_image %>
+
+<section>
+  <h3>
+    <%= current_page.data.stakeholder_trust.title %>
+  </h3>
+
+  <p>
+    <%= current_page.data.stakeholder_trust.content %>
+  </p>
+
+  <%= retina_image_tag current_page.data.stakeholder_trust.image %>
+</section>
+
+<blockquote>
+  <p>
+    <%= current_page.data.team_quote.quote %>
+  </p>
+  <footer>
+    <%= current_page.data.team_quote.source %>
+  </footer>
+</blockquote>
+
+<%= retina_image_tag current_page.data.proposition_image %>
+
+<section>
+  <h3>
+    <%= current_page.data.statistics.title %>
+  </h3>
+
+  <h4>
+    <%= current_page.data.statistics.design_and_build_title %>
+  </h4>
+
+  <ul>
+    <% current_page.data.statistics.design_and_build.each do |statistic| %>
+      <li>
+        <%= markdown statistic %>
+      </li>
+    <% end %>
+  </ul>
+
+  <h4>
+    <%= current_page.data.statistics.since_launch_title %>
+  </h4>
+
+  <ul>
+    <% current_page.data.statistics.since_launch.each do |statistic| %>
+      <li>
+        <%= markdown statistic %>
+      </li>
+    <% end %>
+  </ul>
+
+</section>
