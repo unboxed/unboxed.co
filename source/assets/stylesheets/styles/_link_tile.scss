@@ -1,0 +1,60 @@
+.link-tile,
+.link-tile--primary {
+  text-decoration: none;
+}
+
+.link-tile {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(space-between);
+  background-color: $link-background-color;
+  box-sizing: border-box;
+  padding: 16px;
+  min-height: 130px;
+}
+
+.link-tile__type {
+  color: $link-type-color;
+  font-size: .8rem;
+  font-weight: 200;
+  line-height: 1.3;
+  text-transform: uppercase;
+  padding-bottom: 4px;
+
+  &:after {
+    content: "//"
+  }
+}
+
+.link-tile__title {
+  color: $link-text-color;
+  font-size: 1.1rem;
+  font-weight: 100;
+  line-height: 1.3;
+}
+
+.link-tile__source {
+  color: $link-text-color;
+  font-size: .8rem;
+  font-weight: 100;
+  line-height: 1.3;
+  padding-top: 16px;
+}
+
+.link-tile--primary {
+  background-color: $primary-link-background-color;
+
+  .link-tile__type {
+    color: $primary-link-type-color;
+  }
+
+  .link-tile__title {
+    color: lighten($primary-link-text-color, 15%);
+    font-weight: 200;
+  }
+
+  .link-tile__source {
+    color: lighten($primary-link-text-color, 15%);
+    font-weight: 200;
+  }
+}

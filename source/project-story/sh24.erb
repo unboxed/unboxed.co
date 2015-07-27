@@ -73,25 +73,28 @@ team:
   content: "This is what we got out of the project and what we learned..."
   images:
     - name: "Martyn Evans"
-      image: martyn-evans.png
+      image: "team/martyn-evans.png"
+      identifier: "sh24-martyn-evans"
     - name: "Tom Sabin"
-      image: tom-sabin.png
+      image: "team/tom-sabin.png"
+      identifier: "sh24-tom-sabin"
     - name: "Patrick Davenport"
-      image: "patrick-davenport.png"
+      image: "team/patrick-davenport.png"
+      identifier: "sh24-patrick-davenport"
 
 links:
   - title: "Revolutionary new STI-testing scheme launches in Southwark"
     source: "southwarknews"
     type: "news"
-    primary: false
+    is_primary: false
   - title: "SH:24 sexual health service launches today"
     source: "Design Council"
     type: "news"
-    primary: false
+    is_primary: false
   - title: "Visit the site and check it out for yourself"
     source: "SH:24"
     type: "link"
-    primary: true
+    is_primary: true
 
 related:
   title: "Had enough or are you thirsty for more..."
@@ -99,51 +102,60 @@ related:
     - title: "Agile. Being lean in the NHS"
       author: "Martyn Evans"
       type: "round table"
-      colour: "blue"
-      image: "nhs.jpg"
+      color: "blue"
+      image: "related/nhs.jpg"
     - title: "De-railed? Is Ruby Enterprise ready?"
       author: "Murray Steele"
       type: "blog"
-      colour: "yellow"
-      image: "murray-steele.jpg"
+      color: "orange"
+      image: "related/meeting.jpg"
     - title: "Groundbreaking redevelopment of Channel5.com"
-      author: "Channel5"
       type: "project story"
-      colour: "white"
-      image: "channel5.jpg"
+      color: "white"
+      image: "related/channel5.jpg"
 
 ---
 
-<header>
-  <h1>UBXD</h1>
+<header class="header">
+  <div class="header__container">
+    <h1 class="header__brand">
+      UBXD
+    </h1>
 
-  <h2>
-    <%= current_page.data.title %>
-  </h2>
+    <div class="header__case-study">
+      <h2 class="header__case-study-title">
+        <%= current_page.data.title %>
+      </h2>
 
-  <p>
-    <%= current_page.data.heading %>
-  </p>
+      <p class="header__case-study-subtitle">
+        <%= current_page.data.heading %>
+      </p>
+    </div>
+  </div>
 </header>
 
-<%= retina_image_tag current_page.data.heading_image %>
+<img class="full-image" <%= retina_src current_page.data.heading_image %> />
 
 <section>
-  <h3>
-    <%= current_page.data.introduction %>
-  </h3>
+  <div class="text-tile">
+    <h3 class="text-tile__large-paragraph">
+      <%= current_page.data.introduction %>
+    </h3>
+  </div>
 
-  <%= retina_image_tag current_page.data.introduction_image %>
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.introduction_image %> />
+  </div>
 </section>
 
-<section>
-  <h3>
+<section class="bitesize">
+  <h3 class="bitesize__title">
     <%= current_page.data.highlights_title %>
   </h3>
 
   <ul>
     <% current_page.data.highlights.each do |highlight| %>
-      <li>
+      <li class="bitesize__list-item">
         <%= markdown highlight %>
       </li>
     <% end %>
@@ -151,113 +163,219 @@ related:
 </section>
 
 <section>
-  <h3>
-    <%= current_page.data.launch.title %>
-  </h3>
+  <div class="text-tile">
+    <h3 class="text-tile__title">
+      <%= current_page.data.launch.title %>
+    </h3>
 
-  <p>
-    <%= current_page.data.launch.content %>
-  </p>
+    <p class="text-tile__paragraph">
+      <%= current_page.data.launch.content %>
+    </p>
+  </div>
 
-  <%= retina_image_tag current_page.data.launch.image %>
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.launch.image %> />
+  </div>
 </section>
 
-<blockquote>
-  <p>
+<blockquote class="quote">
+  <p class="quote__text">
     <%= current_page.data.first_met_quote.quote %>
   </p>
-  <footer>
+  <p class="quote__source">
     <%= current_page.data.first_met_quote.source %>
-  </footer>
+  </p>
 </blockquote>
 
 <section>
-  <h3>
-    <%= current_page.data.service.title %>
-  </h3>
+  <div class="text-tile">
+    <h3 class="text-tile__title">
+      <%= current_page.data.service.title %>
+    </h3>
 
-  <p>
-    <%= current_page.data.service.content %>
-  </p>
+    <p class="text-tile__paragraph">
+      <%= current_page.data.service.content %>
+    </p>
+  </div>
 
-  <%= retina_image_tag current_page.data.service.image %>
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.service.image %> />
+  </div>
 </section>
 
-<%= retina_image_tag current_page.data.prototype_kit_image %>
+<img class="full-image" <%= retina_src current_page.data.prototype_kit_image %> />
 
 <section>
-  <h3>
-    <%= current_page.data.learning.title %>
-  </h3>
+  <div class="text-tile">
+    <h3 class="text-tile__title">
+      <%= current_page.data.learning.title %>
+    </h3>
 
-  <p>
-    <%= current_page.data.learning.content %>
-  </p>
+    <p class="text-tile__paragraph">
+      <%= current_page.data.learning.content %>
+    </p>
+  </div>
 
-  <%= retina_image_tag current_page.data.learning.image %>
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.learning.image %> />
+  </div>
 </section>
 
-<blockquote>
-  <p>
+<blockquote class="quote">
+  <p class="quote__text">
     <%= current_page.data.timely_quote.quote %>
   </p>
-  <footer>
+  <p class="quote__source">
     <%= current_page.data.timely_quote.source %>
-  </footer>
+  </p>
 </blockquote>
 
-<%= retina_image_tag current_page.data.packaging_image %>
+<img class="full-image" <%= retina_src current_page.data.packaging_image %> />
 
 <section>
-  <h3>
-    <%= current_page.data.stakeholder_trust.title %>
-  </h3>
+  <div class="text-tile">
+    <h3 class="text-tile__title">
+      <%= current_page.data.stakeholder_trust.title %>
+    </h3>
 
-  <p>
-    <%= current_page.data.stakeholder_trust.content %>
-  </p>
+    <p class="text-tile__paragraph">
+      <%= current_page.data.stakeholder_trust.content %>
+    </p>
+  </div>
 
-  <%= retina_image_tag current_page.data.stakeholder_trust.image %>
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.stakeholder_trust.image %> />
+  </div>
 </section>
 
-<blockquote>
-  <p>
+<blockquote class="quote">
+  <p class="quote__text">
     <%= current_page.data.team_quote.quote %>
   </p>
-  <footer>
+  <p class="quote__source">
     <%= current_page.data.team_quote.source %>
-  </footer>
+  </p>
 </blockquote>
 
-<%= retina_image_tag current_page.data.proposition_image %>
+<img class="full-image" <%= retina_src current_page.data.proposition_image %> />
 
-<section>
-  <h3>
+<section class="bitesize">
+  <h3 class="bitesize__title">
     <%= current_page.data.statistics.title %>
   </h3>
 
-  <h4>
-    <%= current_page.data.statistics.design_and_build_title %>
-  </h4>
+  <section class="bitesize__section">
+    <h4 class="bitesize__sub-title">
+      <%= current_page.data.statistics.design_and_build_title %>
+    </h4>
 
-  <ul>
-    <% current_page.data.statistics.design_and_build.each do |statistic| %>
-      <li>
-        <%= markdown statistic %>
-      </li>
-    <% end %>
-  </ul>
+    <ul>
+      <% current_page.data.statistics.design_and_build.each do |statistic| %>
+        <li class="bitesize__list-item">
+          <%= markdown statistic %>
+        </li>
+      <% end %>
+    </ul>
+  </section>
 
-  <h4>
-    <%= current_page.data.statistics.since_launch_title %>
-  </h4>
+  <section class="bitesize__section">
+    <h4 class="bitesize__sub-title">
+      <%= current_page.data.statistics.since_launch_title %>
+    </h4>
 
-  <ul>
-    <% current_page.data.statistics.since_launch.each do |statistic| %>
-      <li>
-        <%= markdown statistic %>
-      </li>
-    <% end %>
-  </ul>
-
+    <ul>
+      <% current_page.data.statistics.since_launch.each do |statistic| %>
+        <li class="bitesize__list-item">
+          <%= markdown statistic %>
+        </li>
+      <% end %>
+    </ul>
+  </section>
 </section>
+
+<section>
+  <% current_page.data.links.each do |link| %>
+    <a class="link-tile <%= 'link-tile--primary' if link.is_primary %>" href="#">
+      <div>
+        <div class="link-tile__type">
+          <%= link.type %>
+        </div>
+        <div class="link-tile__title">
+          <%= link.title %>
+        </div>
+      </div>
+      <div class="link-tile__source">
+        <%= link.source %>
+      </div>
+    </a>
+  <% end %>
+</section>
+
+<section class="team">
+  <h2 class="text-tile__title">
+    <%= current_page.data.team.title %>
+  </h2>
+  <p class="text-tile__paragraph">
+    <%= current_page.data.team.content %>
+  </p>
+
+  <div class="team__headshots">
+    <% current_page.data.team.images.each do |image| %>
+      <div class="team__<%= image.identifier %>">
+        <img class="team__headshot" src="<%= image.image %>" alt="<%= image.name %>" />
+        <span class="team__badge">
+          <%= image.name.split(' ').join('<br />') %>
+        </span>
+      </div>
+    <% end %>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-introduction">
+    <h2 class="footer-introduction__title">
+      <%= current_page.data.related.title %>
+    </h2>
+  </div>
+
+  <% current_page.data.related.articles.each do |article| %>
+    <a class="related-tile related-tile--<%= article.color %>" href="#">
+      <img class="related-tile__image" src="<%= article.image %>" alt"">
+      <div class="related-tile__text-content">
+        <div>
+          <div class="related-tile__type">
+            <%= article.type %>
+          </div>
+          <div class="related-tile__title">
+            <%= article.title %>
+          </div>
+        </div>
+        <% if article.author %>
+          <div class="related-tile__author">
+            <%= article.author %>
+          </div>
+        <% end %>
+      </div>
+    </a>
+  <% end %>
+
+  <div class="footer-social-icons">
+    <div>
+      <div class="footer-social_icons__icon-container">
+        <div class="footer-social_icons__icon">
+          <%= image_tag 'twitter.png', class: 'footer-social-icons__image' %>
+        </div>
+      </div>
+      <div class="footer-social_icons__icon-container">
+        <div class="footer-social_icons__icon">
+          <%= image_tag 'facebook.png', class: 'footer-social-icons__image' %>
+        </div>
+      </div>
+      <div class="footer-social_icons__icon-container">
+        <div class="footer-social_icons__icon">
+          <%= image_tag 'linkedin.png', class: 'footer-social-icons__image' %>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

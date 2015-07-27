@@ -1,0 +1,32 @@
+.footer-social-icons {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(center);
+  background-color: $footer-social-icons-background-color;
+  box-sizing: border-box;
+  height: 70px;
+  padding: 16px;
+  text-align: right;
+}
+
+.footer-social_icons__icon-container {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 8px;
+}
+
+.footer-social_icons__icon {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(center);
+  background-color: $footer-social-icon-background-color;
+  border-radius: 50%;
+  height: 28px;
+  text-align: center;
+  width: 28px;
+}
+
+.footer-social-icons__image {
+  @include align-self(center);
+  width: 16px;
+}

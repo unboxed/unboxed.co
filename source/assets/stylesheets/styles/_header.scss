@@ -1,5 +1,5 @@
 .header {
-  background-color: #3B0737;
+  background-color: $header-background-color;
 }
 
 .header__container {
@@ -7,34 +7,31 @@
   @include flex-direction(column);
   @include justify-content(space-between);
   @extend %container;
-  height: 300px;
+  height: 240px;
 }
 
 .header__brand {
-  color: #9F2D99;
-  font-size: 1.5rem;
+  color: $header-text-color;
+  font-size: 1.4rem;
   font-weight: 600;
   text-align: right;
-  margin-right: 16px;
   padding-top: 16px;
 }
 
 .header__case-study {
-  max-width: 340px;
-  margin-bottom: 32px;
-  margin-left: 32px;
+  padding-bottom: 28px;
 }
 
 .header__case-study-title {
-  color: #9F2D99;
-  font-weight: 600;
-  font-size: 2.2rem;
+  color: $header-text-color;
+  font-size: 1.7rem;
+  font-weight: 500;
   line-height: 1.6;
 }
 
 .header__case-study-subtitle {
-  color: #E0DEE1;
-  font-size: 1.5rem;
-  font-weight: 100;
+  color: $header-text-color;
+  font-size: 1.2rem;
+  font-weight: 200;
   line-height: 1.2;
 }

@@ -1,5 +1,4 @@
-require 'slim'
-Slim::Engine.disable_option_validator! # https://github.com/middleman/middleman/issues/1514
+require 'pry'
 
 set :relative_links, true
 set :layout, 'application'
@@ -20,6 +19,17 @@ activate :relative_assets
 
 configure :development do
   activate :livereload
+end
+
+helpers do
+  def retina_src(path)
+    retina_path = path.gsub(/\./, '@2x.')
+    %(src="#{path}" srcset="#{retina_path} 2x")
+  end
+
+  def markdown(text)
+    Markdown.new(text).to_html
+  end
 end
 
 page 'blog/*'

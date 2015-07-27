@@ -1,133 +1,120 @@
 .related-tile {
   @include flexbox;
-  @include flex-direction(column);
   text-decoration: none;
+}
 
-  &:hover .related-tile__img-wrapper {
-    z-index: 3;
+.related-tile__image {
+  @include flex(0 0 130px);
+  height: 130px;
+  width: 130px;
+}
+
+.related-tile:first-of-type {
+  @include flex-direction(column-reverse);
+
+  .related-tile__image {
+    @include flex(0 0 auto);
+    width: 100%;
+    height: 240px;
+  }
+
+  .related-tile__title {
+    font-size: 1.5rem;
+  }
+
+  .related-tile__author {
+    font-weight: 600;
   }
 }
 
-.related-tile__container {
+.related-tile__text-content {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(space-between);
-  padding: 8px 16px;
-  z-index: 2;
-
-  @include breakpoint($tablet) {
-    min-height: 180px;
-  }
+  box-sizing: border-box;
+  padding: 16px;
+  min-height: 130px;
 }
 
 .related-tile__type {
-  font-size: 12px;
-  margin-bottom: 8px;
+  font-size: .8rem;
+  font-weight: 200;
+  line-height: 1.3;
   text-transform: uppercase;
+  padding-bottom: 4px;
 
   &:after {
-    content: " //";
-  }
-
-  @include breakpoint($tablet) {
-    margin-bottom: 12px;
+    content: "//"
   }
 }
 
 .related-tile__title {
-  font-size: 20px;
+  font-size: 1.1rem;
   font-weight: 100;
-  margin-bottom: 24px;
+  line-height: 1.3;
 }
 
 .related-tile__author {
-  font-size: 12px;
-}
-
-.related-tile__img-wrapper {
-  @include breakpoint($tablet) {
-    height: 100px;
-  }
-}
-
-.related-tile__img {
-  display: block;
-  object-fit: cover;
-  height: 50vw;
-  width: 100%;
-
-  @include breakpoint($tablet) {
-    margin-top: -70px;
-    height: 170px;
-  }
-
-  &:last-of-type { //tmp fix
-    object-position: top;
-  }
+  font-size: .8rem;
+  font-weight: 100;
+  line-height: 1.3;
+  padding-top: 16px;
 }
 
 .related-tile--white {
-  .related-tile__container {
-    background-color: #FFFFFF;
-  }
-
-  &:hover .related-tile__container {
-    background-color: darken(#FFFFFF, 2.5%);
+  .related-tile__text-content {
+    background-color: $white-tile-background-color;
   }
 
   .related-tile__type {
-    color: #9F2D99;
+    color: $white-tile-type-color;
   }
 
   .related-tile__title {
-    color: #000000;
+    color: $white-tile-text-color;
   }
 
   .related-tile__author {
-    color: #9F2D99;
+    color: $white-tile-text-color;
   }
 }
 
 .related-tile--blue {
-  .related-tile__container {
-    background-color: #29A5E7;
-  }
-
-  &:hover .related-tile__container {
-    background-color: darken(#29A5E7, 2.5%);
+  .related-tile__text-content {
+    background-color: $blue-tile-background-color;
   }
 
   .related-tile__type {
-    color: #FFFFFF;
+    color: $blue-tile-type-color;
   }
 
   .related-tile__title {
-    color: #FFFFFF;
+    color: $blue-tile-text-color;
+    font-weight: 200;
   }
 
   .related-tile__author {
-    color: #FFFFFF;
+    color: $blue-tile-text-color;
+    font-weight: 200;
   }
 }
 
-.related-tile--yellow {
-  .related-tile__container {
-    background-color: #FDB92C;
-  }
-
-  &:hover .related-tile__container {
-    background-color: darken(#FDB92C, 2.5%);
+.related-tile--orange {
+  .related-tile__text-content {
+    background-color: $orange-tile-background-color;
   }
 
   .related-tile__type {
-    color: #FFFFFF;
+    color: $orange-tile-type-color;
   }
 
   .related-tile__title {
-    color: #FFFFFF;
+    color: $orange-tile-text-color;
+    font-weight: 200;
   }
 
   .related-tile__author {
-    color: #FFFFFF;
+    color: $orange-tile-text-color;
+    font-weight: 200;
   }
 }
