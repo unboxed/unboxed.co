@@ -319,33 +319,35 @@ related:
     </div>
   </section>
 
-  <footer class="component">
+  <footer>
     <div class="footer-introduction">
       <h2 class="footer-introduction__title">
         <%= current_page.data.related.title %>
       </h2>
     </div>
 
-    <% current_page.data.related.articles.each do |article| %>
-      <a class="related-tile related-tile--<%= article.color %>" href="#">
-        <img class="related-tile__image" src="<%= article.image %>" alt"">
-        <div class="related-tile__text-content">
-          <div>
-            <div class="related-tile__type">
-              <%= article.type %>
+    <div class="component">
+      <% current_page.data.related.articles.each do |article| %>
+        <a class="related-tile related-tile--<%= article.color %>" href="#">
+          <img class="related-tile__image" src="<%= article.image %>" alt"">
+          <div class="related-tile__text-content">
+            <div>
+              <div class="related-tile__type">
+                <%= article.type %>
+              </div>
+              <div class="related-tile__title">
+                <%= article.title %>
+              </div>
             </div>
-            <div class="related-tile__title">
-              <%= article.title %>
-            </div>
+            <% if article.author %>
+              <div class="related-tile__author">
+                <%= article.author %>
+              </div>
+            <% end %>
           </div>
-          <% if article.author %>
-            <div class="related-tile__author">
-              <%= article.author %>
-            </div>
-          <% end %>
-        </div>
-      </a>
-    <% end %>
+        </a>
+      <% end %>
+    </div>
 
     <div class="footer-social-icons">
       <div>

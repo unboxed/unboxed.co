@@ -1,3 +1,8 @@
+// Subsitute for flexbox's justify-content
+.header__case-study {
+  margin-top: 70px;
+}
+
 // To support full coloured div
 .link-tile {
   display: block;
@@ -9,14 +14,18 @@
   margin-right: 16px;
 }
 
-// Flexbox not supported for reordering the content. Fallback to left floated images
-.related-tile:first-of-type .related-tile__image {
-  height: 130px;
-  width: 130px;
+// Incorrect border-box box-sizing with 16px padding
+.related-tile__text-content {
+  min-height: 98px;
 }
 
 // Place icons in the middle of its container
 .footer-social_icons__icon {
   padding-top: 6px;
   height: 22px;
+}
+
+// To support full coloured div
+.footer-social-icons {
+  display: block;
 }
