@@ -6,6 +6,9 @@
     <title><%= current_page.data.title || "UBXD" %></title>
     <%= stylesheet_link_tag "application" %>
     <%= javascript_include_tag "application" %>
+    <!--[if lt IE 9]>
+      <script src="assets/javascripts/html5shiv.min.js"></script>
+    <![endif]-->
   </head>
 
   <body class="<%= page_classes %>">
