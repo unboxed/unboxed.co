@@ -7,7 +7,13 @@
   @include flex-direction(column);
   @include justify-content(space-between);
   @extend %container;
+  box-sizing: border-box;
   height: 240px;
+  padding: 0 20px;
+
+  @include breakpoint($tablet) {
+    height: 320px;
+  }
 }
 
 .header__brand {
@@ -20,6 +26,10 @@
 
 .header__case-study {
   padding-bottom: 28px;
+
+  @include breakpoint($tablet) {
+    padding-bottom: 30px;
+  }
 }
 
 .header__case-study-title {
@@ -27,6 +37,11 @@
   font-size: 1.7em;
   font-weight: 500;
   line-height: 1.6;
+
+  @include breakpoint($tablet) {
+    font-size: 2.3em;
+    line-height: 1.5;
+  }
 }
 
 .header__case-study-subtitle {
@@ -34,4 +49,10 @@
   font-size: 1.2em;
   font-weight: 200;
   line-height: 1.2;
+  max-width: 220px;
+
+  @include breakpoint($tablet) {
+    font-size: 1.7em;
+    max-width: 320px;
+  }
 }

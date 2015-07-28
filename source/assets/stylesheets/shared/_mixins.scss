@@ -1,0 +1,27 @@
+// https://github.com/matthieua/sass-css3-mixins/blob/master/css3-mixins.sass
+
+@mixin clearfix {
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+
+  &:after {
+    clear: both;
+  }
+}
+
+@mixin css3-prefix($property, $value) {
+   -webkit-#{$property}: #{$value};
+    -khtml-#{$property}: #{$value};
+      -moz-#{$property}: #{$value};
+       -ms-#{$property}: #{$value};
+        -o-#{$property}: #{$value};
+           #{$property}: #{$value};
+}
+
+@mixin columns($count: 3, $gap: 10) {
+  @include css3-prefix('column-count', $count);
+  @include css3-prefix('column-gap', $gap);
+}

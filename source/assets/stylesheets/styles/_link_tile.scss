@@ -11,6 +11,16 @@
   box-sizing: border-box;
   padding: 16px;
   min-height: 130px;
+
+  @include breakpoint($tablet) {
+    float: left;
+    min-height: 190px;
+    width: calc(100%/3);
+
+    &:hover {
+      background-color: darken($link-background-color, 5%);
+    }
+  }
 }
 
 .link-tile__type {
@@ -56,5 +66,11 @@
   .link-tile__source {
     color: lighten($primary-link-text-color, 15%);
     font-weight: 200;
+  }
+
+  @include breakpoint($tablet) {
+    &:hover {
+      background-color: lighten($primary-link-background-color, 5%);
+    }
   }
 }

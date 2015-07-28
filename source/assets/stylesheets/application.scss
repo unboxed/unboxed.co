@@ -1,8 +1,7 @@
 @import 'reset';
 @import 'vendor/*';
 
-$tablet: 580px;
-$max-container: 1180px;
+$tablet: 640px;
 
 html {
   font-size: 16px;
@@ -15,3 +14,7 @@ strong {
 
 @import 'shared/*';
 @import 'styles/*';
+
+body {
+  background: $body-background-color;
+}

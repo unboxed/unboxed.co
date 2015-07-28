@@ -3,4 +3,8 @@
   height: 200px;
   object-fit: cover;
   width: 100%;
+
+  @include breakpoint($tablet) {
+    height: 320px;
+  }
 }

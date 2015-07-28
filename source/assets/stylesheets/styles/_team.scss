@@ -3,7 +3,7 @@
   box-sizing: border-box;
   padding: 28px 20px 0;
   position: relative;
-  min-height: 309px;
+  min-height: 320px;
 }
 
 .team__title {
@@ -12,6 +12,10 @@
   font-weight: 100;
   line-height: 1.3;
   padding-bottom: 16px;
+
+  @include breakpoint($tablet) {
+    padding-bottom: 8px;
+  }
 }
 
 .team__paragraph {
@@ -19,6 +23,11 @@
   font-size: 1.05em;
   font-weight: 100;
   line-height: 1.3;
+
+  @include breakpoint($tablet) {
+    font-size: 1.7em;
+    max-width: 230px;
+  }
 }
 
 .team__image {

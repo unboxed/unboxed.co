@@ -1,5 +1,8 @@
 %container {
-  padding: 0 20px;
   margin: 0 auto;
-  max-width: $max-container;
+  max-width: 320px;
+
+  @include breakpoint($tablet) {
+    max-width: 640px;
+  }
 }

@@ -2,6 +2,11 @@
   background-color: $footer-introduction-background-color;
   padding: 16px;
   min-height: 90px;
+
+  @include breakpoint($tablet) {
+    padding: 20px 30px;
+    min-height: 70px;
+  }
 }
 
 .footer-introduction__title {
@@ -10,4 +15,9 @@
   font-weight: 100;
   line-height: 1.2;
   max-width: 220px;
+
+  @include breakpoint($tablet) {
+    font-size: 1.6em;
+    max-width: 250px;
+  }
 }

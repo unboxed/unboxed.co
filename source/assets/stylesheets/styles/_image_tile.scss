@@ -1,4 +1,8 @@
 .image-tile__image {
   display: block;
   width: 100%;
+
+  @include breakpoint($tablet) {
+    min-height: 320px;
+  }
 }

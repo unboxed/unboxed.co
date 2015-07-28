@@ -125,240 +125,246 @@ related:
   </div>
 </header>
 
-<img class="full-image" <%= retina_src current_page.data.heading_image %> />
+<div class="container">
+  <img class="full-image" <%= retina_src current_page.data.heading_image %> />
 
-<section>
-  <div class="text-tile">
-    <h3 class="text-tile__large-paragraph">
-      <%= current_page.data.introduction %>
-    </h3>
-  </div>
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h3 class="text-tile__large-paragraph">
+        <%= current_page.data.introduction %>
+      </h3>
+    </div>
 
-  <div class="image-tile">
-    <img class="image-tile__image" <%= retina_src current_page.data.introduction_image %> />
-  </div>
-</section>
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.introduction_image %> />
+    </div>
+  </section>
 
-<section class="bitesize">
-  <h3 class="bitesize__title">
-    <%= current_page.data.highlights_title %>
-  </h3>
-
-  <ul>
-    <% current_page.data.highlights.each do |highlight| %>
-      <li class="bitesize__list-item">
-        <%= markdown highlight %>
-      </li>
-    <% end %>
-  </ul>
-</section>
-
-<section>
-  <div class="text-tile">
-    <h3 class="text-tile__title">
-      <%= current_page.data.launch.title %>
+  <section class="bitesize">
+    <h3 class="bitesize__title">
+      <%= current_page.data.highlights_title %>
     </h3>
 
-    <p class="text-tile__paragraph">
-      <%= current_page.data.launch.content %>
-    </p>
-  </div>
-
-  <div class="image-tile">
-    <img class="image-tile__image" <%= retina_src current_page.data.launch.image %> />
-  </div>
-</section>
-
-<blockquote class="quote">
-  <p class="quote__text">
-    <%= current_page.data.first_met_quote.quote %>
-  </p>
-  <p class="quote__source">
-    <%= current_page.data.first_met_quote.source %>
-  </p>
-</blockquote>
-
-<section>
-  <div class="text-tile">
-    <h3 class="text-tile__title">
-      <%= current_page.data.service.title %>
-    </h3>
-
-    <p class="text-tile__paragraph">
-      <%= current_page.data.service.content %>
-    </p>
-  </div>
-
-  <div class="image-tile">
-    <img class="image-tile__image" <%= retina_src current_page.data.service.image %> />
-  </div>
-</section>
-
-<img class="full-image" <%= retina_src current_page.data.prototype_kit_image %> />
-
-<section>
-  <div class="text-tile">
-    <h3 class="text-tile__title">
-      <%= current_page.data.learning.title %>
-    </h3>
-
-    <p class="text-tile__paragraph">
-      <%= current_page.data.learning.content %>
-    </p>
-  </div>
-
-  <div class="image-tile">
-    <img class="image-tile__image" <%= retina_src current_page.data.learning.image %> />
-  </div>
-</section>
-
-<blockquote class="quote">
-  <p class="quote__text">
-    <%= current_page.data.timely_quote.quote %>
-  </p>
-  <p class="quote__source">
-    <%= current_page.data.timely_quote.source %>
-  </p>
-</blockquote>
-
-<img class="full-image" <%= retina_src current_page.data.packaging_image %> />
-
-<section>
-  <div class="text-tile">
-    <h3 class="text-tile__title">
-      <%= current_page.data.stakeholder_trust.title %>
-    </h3>
-
-    <p class="text-tile__paragraph">
-      <%= current_page.data.stakeholder_trust.content %>
-    </p>
-  </div>
-
-  <div class="image-tile">
-    <img class="image-tile__image" <%= retina_src current_page.data.stakeholder_trust.image %> />
-  </div>
-</section>
-
-<blockquote class="quote">
-  <p class="quote__text">
-    <%= current_page.data.team_quote.quote %>
-  </p>
-  <p class="quote__source">
-    <%= current_page.data.team_quote.source %>
-  </p>
-</blockquote>
-
-<img class="full-image" <%= retina_src current_page.data.proposition_image %> />
-
-<section class="bitesize">
-  <h3 class="bitesize__title">
-    <%= current_page.data.statistics.title %>
-  </h3>
-
-  <section class="bitesize__section">
-    <h4 class="bitesize__sub-title">
-      <%= current_page.data.statistics.design_and_build_title %>
-    </h4>
-
-    <ul>
-      <% current_page.data.statistics.design_and_build.each do |statistic| %>
+    <ul class="bitesize__list">
+      <% current_page.data.highlights.each do |highlight| %>
         <li class="bitesize__list-item">
-          <%= markdown statistic %>
+          <%= markdown highlight %>
         </li>
       <% end %>
     </ul>
   </section>
 
-  <section class="bitesize__section">
-    <h4 class="bitesize__sub-title">
-      <%= current_page.data.statistics.since_launch_title %>
-    </h4>
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h3 class="text-tile__title">
+        <%= current_page.data.launch.title %>
+      </h3>
 
-    <ul>
-      <% current_page.data.statistics.since_launch.each do |statistic| %>
-        <li class="bitesize__list-item">
-          <%= markdown statistic %>
-        </li>
-      <% end %>
-    </ul>
+      <p class="text-tile__paragraph">
+        <%= current_page.data.launch.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.launch.image %> />
+    </div>
   </section>
-</section>
 
-<section>
-  <% current_page.data.links.each do |link| %>
-    <a class="link-tile <%= 'link-tile--primary' if link.is_primary %>" href="#">
-      <div>
-        <div class="link-tile__type">
-          <%= link.type %>
-        </div>
-        <div class="link-tile__title">
-          <%= link.title %>
-        </div>
-      </div>
-      <div class="link-tile__source">
-        <%= link.source %>
-      </div>
-    </a>
-  <% end %>
-</section>
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.first_met_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.first_met_quote.source %>
+    </p>
+  </blockquote>
 
-<section class="team">
-  <h2 class="team__title">
-    <%= current_page.data.team.title %>
-  </h2>
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h3 class="text-tile__title">
+        <%= current_page.data.service.title %>
+      </h3>
 
-  <p class="team__paragraph">
-    <%= current_page.data.team.content %>
-  </p>
+      <p class="text-tile__paragraph">
+        <%= current_page.data.service.content %>
+      </p>
+    </div>
 
-  <img class="team__image" <%= retina_src current_page.data.team.image %> />
-</section>
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.service.image %> />
+    </div>
+  </section>
 
-<footer>
-  <div class="footer-introduction">
-    <h2 class="footer-introduction__title">
-      <%= current_page.data.related.title %>
-    </h2>
-  </div>
+  <img class="full-image" <%= retina_src current_page.data.prototype_kit_image %> />
 
-  <% current_page.data.related.articles.each do |article| %>
-    <a class="related-tile related-tile--<%= article.color %>" href="#">
-      <img class="related-tile__image" src="<%= article.image %>" alt"">
-      <div class="related-tile__text-content">
-        <div>
-          <div class="related-tile__type">
-            <%= article.type %>
-          </div>
-          <div class="related-tile__title">
-            <%= article.title %>
-          </div>
-        </div>
-        <% if article.author %>
-          <div class="related-tile__author">
-            <%= article.author %>
-          </div>
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h3 class="text-tile__title">
+        <%= current_page.data.learning.title %>
+      </h3>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.learning.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.learning.image %> />
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.timely_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.timely_quote.source %>
+    </p>
+  </blockquote>
+
+  <img class="full-image" <%= retina_src current_page.data.packaging_image %> />
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h3 class="text-tile__title">
+        <%= current_page.data.stakeholder_trust.title %>
+      </h3>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.stakeholder_trust.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.stakeholder_trust.image %> />
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.team_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.team_quote.source %>
+    </p>
+  </blockquote>
+
+  <img class="full-image" <%= retina_src current_page.data.proposition_image %> />
+
+  <section class="bitesize">
+    <h3 class="bitesize__title">
+      <%= current_page.data.statistics.title %>
+    </h3>
+
+    <section class="bitesize__section">
+      <h4 class="bitesize__sub-title">
+        <%= current_page.data.statistics.design_and_build_title %>
+      </h4>
+
+      <ul>
+        <% current_page.data.statistics.design_and_build.each do |statistic| %>
+          <li class="bitesize__list-item">
+            <%= markdown statistic %>
+          </li>
         <% end %>
-      </div>
-    </a>
-  <% end %>
+      </ul>
+    </section>
 
-  <div class="footer-social-icons">
-    <div>
-      <div class="footer-social_icons__icon-container">
-        <div class="footer-social_icons__icon">
-          <%= image_tag 'twitter.png', class: 'footer-social-icons__image' %>
+    <section class="bitesize__section">
+      <h4 class="bitesize__sub-title">
+        <%= current_page.data.statistics.since_launch_title %>
+      </h4>
+
+      <ul>
+        <% current_page.data.statistics.since_launch.each do |statistic| %>
+          <li class="bitesize__list-item">
+            <%= markdown statistic %>
+          </li>
+        <% end %>
+      </ul>
+    </section>
+  </section>
+
+  <section class="component">
+    <% current_page.data.links.each do |link| %>
+      <a class="link-tile <%= 'link-tile--primary' if link.is_primary %>" href="#">
+        <div>
+          <div class="link-tile__type">
+            <%= link.type %>
+          </div>
+          <div class="link-tile__title">
+            <%= link.title %>
+          </div>
         </div>
-      </div>
-      <div class="footer-social_icons__icon-container">
-        <div class="footer-social_icons__icon">
-          <%= image_tag 'facebook.png', class: 'footer-social-icons__image' %>
+        <div class="link-tile__source">
+          <%= link.source %>
         </div>
-      </div>
-      <div class="footer-social_icons__icon-container">
-        <div class="footer-social_icons__icon">
-          <%= image_tag 'linkedin.png', class: 'footer-social-icons__image' %>
+      </a>
+    <% end %>
+  </section>
+
+  <section class="component team">
+    <div class="component__tile">
+      <h2 class="team__title">
+        <%= current_page.data.team.title %>
+      </h2>
+
+      <p class="team__paragraph">
+        <%= current_page.data.team.content %>
+      </p>
+    </div>
+
+    <div class="component__tile">
+      <img class="team__image" <%= retina_src current_page.data.team.image %> />
+    </div>
+  </section>
+
+  <footer class="component">
+    <div class="footer-introduction">
+      <h2 class="footer-introduction__title">
+        <%= current_page.data.related.title %>
+      </h2>
+    </div>
+
+    <% current_page.data.related.articles.each do |article| %>
+      <a class="related-tile related-tile--<%= article.color %>" href="#">
+        <img class="related-tile__image" src="<%= article.image %>" alt"">
+        <div class="related-tile__text-content">
+          <div>
+            <div class="related-tile__type">
+              <%= article.type %>
+            </div>
+            <div class="related-tile__title">
+              <%= article.title %>
+            </div>
+          </div>
+          <% if article.author %>
+            <div class="related-tile__author">
+              <%= article.author %>
+            </div>
+          <% end %>
         </div>
+      </a>
+    <% end %>
+
+    <div class="footer-social-icons">
+      <div>
+        <a class="footer-social_icons__icon-container" href="#">
+          <div class="footer-social_icons__icon">
+            <%= image_tag 'twitter.png', class: 'footer-social-icons__image' %>
+          </div>
+        </a>
+        <a class="footer-social_icons__icon-container" href="#">
+          <div class="footer-social_icons__icon">
+            <%= image_tag 'facebook.png', class: 'footer-social-icons__image' %>
+          </div>
+        </a>
+        <a class="footer-social_icons__icon-container" href="#">
+          <div class="footer-social_icons__icon">
+            <%= image_tag 'linkedin.png', class: 'footer-social-icons__image' %>
+          </div>
+        </a>
       </div>
     </div>
-  </div>
-</footer>
+  </footer>
+</div>
