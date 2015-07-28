@@ -1,0 +1,81 @@
+.team {
+  background-color: $team-background-color;
+  box-sizing: border-box;
+  padding: 28px 20px 0;
+  position: relative;
+  min-height: 309px;
+}
+
+.team__title {
+  color: $tile-title-color;
+  font-size: 1.7rem;
+  font-weight: 100;
+  line-height: 1.3;
+  padding-bottom: 16px;
+}
+
+.team__paragraph {
+  color: $tile-text-color;
+  font-size: 1.05rem;
+  font-weight: 100;
+  line-height: 1.3;
+}
+
+.team__headshots {
+  @include flexbox;
+  @include justify-content(center);
+  @include align-items(flex-end);
+  margin-top: 30px;
+}
+
+.team__headshot {
+  display: block;
+  width: 100%;
+}
+
+.team__sh24-martyn-evans {
+  margin-right: -20px;
+  position: relative;
+}
+
+.team__sh24-tom-sabin {
+  z-index: 2;
+  position: relative;
+}
+
+.team__sh24-patrick-davenport {
+  margin-left: -14px;
+  position: relative;
+}
+
+.team__badge {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(center);
+
+  background-color: $team-badge-background-color;
+  border-radius: 50%;
+  color: $team-badge-text-color;
+  font-size: 0.65rem;
+  text-align: center;
+  line-height: 1.2;
+
+  height: 60px;
+  width: 60px;
+  position: absolute;
+}
+
+.team__sh24-martyn-evans .team__badge {
+  bottom: 24px;
+  left: 0;
+}
+
+.team__sh24-tom-sabin .team__badge {
+  bottom: 10px;
+  right: 20%;
+}
+
+.team__sh24-patrick-davenport .team__badge {
+  right: 0;
+  bottom: 24px;
+}

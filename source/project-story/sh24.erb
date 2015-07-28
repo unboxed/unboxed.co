@@ -1,0 +1,381 @@
+---
+date: 2015-07-27 00:00 UTC
+
+title: "SH:24"
+
+heading: "8 weeks to transform NHS sexual health service"
+heading_image: "post-it.jpg"
+
+introduction: "Unboxed moves fast with SH:24 to create an online testing service that paves the way for the transformation of clinic-based services in the NHS."
+introduction_image: "blood-lancets.jpg"
+
+highlights_title: "Highlights..."
+highlights:
+  - "**Prototype service created in 8 weeks**, launched to the public 8 weeks later"
+  - "**Digital and physical elements** of the service **developed together** by a single team"
+  - "**Designed and tested** in close collaboration **with clinicians** and potential service users"
+  - "Complex **stakeholder group** fully **engaged throughout** the whole process"
+
+launch:
+  title: "Live service launched in 16 weeks"
+  content: "With a vision to transform sexual health in South London and beyond, SH:24 asked Unboxed to help them bring their idea to life. After only eight weeks, a willing volunteer was able to order and complete an STI test at home without any clinical support. Another eight weeks later, a live service was launched."
+  image: "kit-guide.jpg"
+
+first_met_quote:
+  quote: "From the moment we met Unboxed, we felt they understood our approach and had a robust process for exploration and delivery."
+  source: "Chris Howroyd, Director, SH:24"
+
+service:
+  title: "A complete service with a digital core"
+  content: "Whilst the digital elements formed a critical part of the service, great care was taken to ensure that the physical elements were equally as effective. The packaging and instructions, supporting information and messaging went through numerous iterations to produce a well rounded service on which to build in future."
+  image: "kit-guide-opened.jpg"
+
+prototype_kit_image: "kit-boxed.jpg"
+
+learning:
+  title: "Learning from our users and partners"
+  content: "Our \"war-room\" close to the clinics gave us direct access to the service users and our clinical partners. From the earliest sketches, through prototypes and models, to the final production code and kits, we were able to validate our thinking on a daily basis to ensure a valuable and sustainable service from day one."
+  image: "team.jpg"
+
+timely_quote:
+  quote: "Unboxed brought people together rapidly and helped us to deliver a full service in an incredibly short space of time."
+  source: "Chris Howroyd, SH:24"
+
+packaging_image: "alpha-packaging.jpg"
+
+stakeholder_trust:
+  title: "Building trust amongst stakeholders"
+  content: "A complex stakeholder group was engaged through regular workshops and continuous open communication establishing the level of trust necessary to move at speed. The most serious obstacles to progress were tackled first giving SH:24 the greatest chance of success as they expand across London and the UK."
+  image: "workshop.jpg"
+
+team_quote:
+  quote: "A great team with exactly the right mix of skills we needed."
+  source: "Chris Howroyd, SH:24"
+
+proposition_image: "woman-with-phone.jpg"
+
+statistics:
+  title: "Key Stats"
+  design_and_build_title: "Design and build"
+  design_and_build:
+    - "**Live test results returned within 8 weeks** of our engagement"
+    - "**16 weeks** from inception **to live NHS approved service**"
+    - "**100+ users** engaged in the design process"
+  since_launch_title: "Since launch"
+  since_launch:
+    - "The website has received **5200 visitors (70% new)** and **26,000 page views**"
+    - "**1300 have ordered a test through SH:24**"
+    - "**60%** of people have **returned their test** which is much **higher than other online testing services**"
+    - "**95%** of people starting the order process **go right through to complete the order**"
+
+team:
+  title: "The team"
+  content: "This is what we got out of the project and what we learned..."
+  images:
+    - name: "Martyn Evans"
+      image: "team/martyn-evans.png"
+      identifier: "sh24-martyn-evans"
+    - name: "Tom Sabin"
+      image: "team/tom-sabin.png"
+      identifier: "sh24-tom-sabin"
+    - name: "Patrick Davenport"
+      image: "team/patrick-davenport.png"
+      identifier: "sh24-patrick-davenport"
+
+links:
+  - title: "Revolutionary new STI-testing scheme launches in Southwark"
+    source: "southwarknews"
+    type: "news"
+    is_primary: false
+  - title: "SH:24 sexual health service launches today"
+    source: "Design Council"
+    type: "news"
+    is_primary: false
+  - title: "Visit the site and check it out for yourself"
+    source: "SH:24"
+    type: "link"
+    is_primary: true
+
+related:
+  title: "Had enough or are you thirsty for more..."
+  articles:
+    - title: "Agile. Being lean in the NHS"
+      author: "Martyn Evans"
+      type: "round table"
+      color: "blue"
+      image: "related/nhs.jpg"
+    - title: "De-railed? Is Ruby Enterprise ready?"
+      author: "Murray Steele"
+      type: "blog"
+      color: "orange"
+      image: "related/meeting.jpg"
+    - title: "Groundbreaking redevelopment of Channel5.com"
+      type: "project story"
+      color: "white"
+      image: "related/channel5.jpg"
+
+---
+
+<header class="header">
+  <div class="header__container">
+    <h1 class="header__brand">
+      UBXD
+    </h1>
+
+    <div class="header__case-study">
+      <h2 class="header__case-study-title">
+        <%= current_page.data.title %>
+      </h2>
+
+      <p class="header__case-study-subtitle">
+        <%= current_page.data.heading %>
+      </p>
+    </div>
+  </div>
+</header>
+
+<img class="full-image" <%= retina_src current_page.data.heading_image %> />
+
+<section>
+  <div class="text-tile">
+    <h3 class="text-tile__large-paragraph">
+      <%= current_page.data.introduction %>
+    </h3>
+  </div>
+
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.introduction_image %> />
+  </div>
+</section>
+
+<section class="bitesize">
+  <h3 class="bitesize__title">
+    <%= current_page.data.highlights_title %>
+  </h3>
+
+  <ul>
+    <% current_page.data.highlights.each do |highlight| %>
+      <li class="bitesize__list-item">
+        <%= markdown highlight %>
+      </li>
+    <% end %>
+  </ul>
+</section>
+
+<section>
+  <div class="text-tile">
+    <h3 class="text-tile__title">
+      <%= current_page.data.launch.title %>
+    </h3>
+
+    <p class="text-tile__paragraph">
+      <%= current_page.data.launch.content %>
+    </p>
+  </div>
+
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.launch.image %> />
+  </div>
+</section>
+
+<blockquote class="quote">
+  <p class="quote__text">
+    <%= current_page.data.first_met_quote.quote %>
+  </p>
+  <p class="quote__source">
+    <%= current_page.data.first_met_quote.source %>
+  </p>
+</blockquote>
+
+<section>
+  <div class="text-tile">
+    <h3 class="text-tile__title">
+      <%= current_page.data.service.title %>
+    </h3>
+
+    <p class="text-tile__paragraph">
+      <%= current_page.data.service.content %>
+    </p>
+  </div>
+
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.service.image %> />
+  </div>
+</section>
+
+<img class="full-image" <%= retina_src current_page.data.prototype_kit_image %> />
+
+<section>
+  <div class="text-tile">
+    <h3 class="text-tile__title">
+      <%= current_page.data.learning.title %>
+    </h3>
+
+    <p class="text-tile__paragraph">
+      <%= current_page.data.learning.content %>
+    </p>
+  </div>
+
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.learning.image %> />
+  </div>
+</section>
+
+<blockquote class="quote">
+  <p class="quote__text">
+    <%= current_page.data.timely_quote.quote %>
+  </p>
+  <p class="quote__source">
+    <%= current_page.data.timely_quote.source %>
+  </p>
+</blockquote>
+
+<img class="full-image" <%= retina_src current_page.data.packaging_image %> />
+
+<section>
+  <div class="text-tile">
+    <h3 class="text-tile__title">
+      <%= current_page.data.stakeholder_trust.title %>
+    </h3>
+
+    <p class="text-tile__paragraph">
+      <%= current_page.data.stakeholder_trust.content %>
+    </p>
+  </div>
+
+  <div class="image-tile">
+    <img class="image-tile__image" <%= retina_src current_page.data.stakeholder_trust.image %> />
+  </div>
+</section>
+
+<blockquote class="quote">
+  <p class="quote__text">
+    <%= current_page.data.team_quote.quote %>
+  </p>
+  <p class="quote__source">
+    <%= current_page.data.team_quote.source %>
+  </p>
+</blockquote>
+
+<img class="full-image" <%= retina_src current_page.data.proposition_image %> />
+
+<section class="bitesize">
+  <h3 class="bitesize__title">
+    <%= current_page.data.statistics.title %>
+  </h3>
+
+  <section class="bitesize__section">
+    <h4 class="bitesize__sub-title">
+      <%= current_page.data.statistics.design_and_build_title %>
+    </h4>
+
+    <ul>
+      <% current_page.data.statistics.design_and_build.each do |statistic| %>
+        <li class="bitesize__list-item">
+          <%= markdown statistic %>
+        </li>
+      <% end %>
+    </ul>
+  </section>
+
+  <section class="bitesize__section">
+    <h4 class="bitesize__sub-title">
+      <%= current_page.data.statistics.since_launch_title %>
+    </h4>
+
+    <ul>
+      <% current_page.data.statistics.since_launch.each do |statistic| %>
+        <li class="bitesize__list-item">
+          <%= markdown statistic %>
+        </li>
+      <% end %>
+    </ul>
+  </section>
+</section>
+
+<section>
+  <% current_page.data.links.each do |link| %>
+    <a class="link-tile <%= 'link-tile--primary' if link.is_primary %>" href="#">
+      <div>
+        <div class="link-tile__type">
+          <%= link.type %>
+        </div>
+        <div class="link-tile__title">
+          <%= link.title %>
+        </div>
+      </div>
+      <div class="link-tile__source">
+        <%= link.source %>
+      </div>
+    </a>
+  <% end %>
+</section>
+
+<section class="team">
+  <h2 class="text-tile__title">
+    <%= current_page.data.team.title %>
+  </h2>
+  <p class="text-tile__paragraph">
+    <%= current_page.data.team.content %>
+  </p>
+
+  <div class="team__headshots">
+    <% current_page.data.team.images.each do |image| %>
+      <div class="team__<%= image.identifier %>">
+        <img class="team__headshot" src="<%= image.image %>" alt="<%= image.name %>" />
+        <span class="team__badge">
+          <%= image.name.split(' ').join('<br />') %>
+        </span>
+      </div>
+    <% end %>
+  </div>
+</section>
+
+<footer>
+  <div class="footer-introduction">
+    <h2 class="footer-introduction__title">
+      <%= current_page.data.related.title %>
+    </h2>
+  </div>
+
+  <% current_page.data.related.articles.each do |article| %>
+    <a class="related-tile related-tile--<%= article.color %>" href="#">
+      <img class="related-tile__image" src="<%= article.image %>" alt"">
+      <div class="related-tile__text-content">
+        <div>
+          <div class="related-tile__type">
+            <%= article.type %>
+          </div>
+          <div class="related-tile__title">
+            <%= article.title %>
+          </div>
+        </div>
+        <% if article.author %>
+          <div class="related-tile__author">
+            <%= article.author %>
+          </div>
+        <% end %>
+      </div>
+    </a>
+  <% end %>
+
+  <div class="footer-social-icons">
+    <div>
+      <div class="footer-social_icons__icon-container">
+        <div class="footer-social_icons__icon">
+          <%= image_tag 'twitter.png', class: 'footer-social-icons__image' %>
+        </div>
+      </div>
+      <div class="footer-social_icons__icon-container">
+        <div class="footer-social_icons__icon">
+          <%= image_tag 'facebook.png', class: 'footer-social-icons__image' %>
+        </div>
+      </div>
+      <div class="footer-social_icons__icon-container">
+        <div class="footer-social_icons__icon">
+          <%= image_tag 'linkedin.png', class: 'footer-social-icons__image' %>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

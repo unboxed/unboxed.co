@@ -1,8 +1,0 @@
-.flex-strip {
-  @include flexbox;
-  @include flex-wrap(nowrap);
-  @include flex-direction(column);
-  @include justify-content(center);
-  @extend %container;
-  min-height: 420px;
-}
