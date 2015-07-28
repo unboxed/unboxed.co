@@ -6,8 +6,12 @@
     <title><%= current_page.data.title || "UBXD" %></title>
     <%= stylesheet_link_tag "application" %>
     <%= javascript_include_tag "application" %>
+    <!--[if IE 9]>
+      <%= stylesheet_link_tag "ie9_flexbox_fallback" %>
+    <![endif]-->
     <!--[if lt IE 9]>
-      <script src="assets/javascripts/html5shiv.min.js"></script>
+      <%= javascript_include_tag "html5shiv" %>
+      <%= stylesheet_link_tag "ie8_flexbox_fallback" %>
     <![endif]-->
   </head>
 
