@@ -5,7 +5,6 @@
 .component__tile {
   @include breakpoint($tablet) {
     float: left;
-    overflow: auto;
     width: 50%;
   }
 }

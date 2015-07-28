@@ -1,15 +1,15 @@
 @import 'reset';
 @import 'vendor/*';
 
-$tablet: 640px;
+$tablet: 660px;
 
 html {
   font-size: 16px;
-  font-family: "Helvetica Neue", "Helvetica", sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', sans-serif;
 }
 
 strong {
-  font-weight: bold;
+  font-weight: 400;
 }
 
 @import 'shared/*';
