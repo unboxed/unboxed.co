@@ -35,7 +35,7 @@ prototype_kit_image: "kit-boxed.jpg"
 learning:
   title: "Learning from our users and partners"
   content: "Our \"war-room\" close to the clinics gave us direct access to the service users and our clinical partners. From the earliest sketches, through prototypes and models, to the final production code and kits, we were able to validate our thinking on a daily basis to ensure a valuable and sustainable service from day one."
-  image: "team.jpg"
+  image: "team-discussions.jpg"
 
 timely_quote:
   quote: "Unboxed brought people together rapidly and helped us to deliver a full service in an incredibly short space of time."
@@ -71,16 +71,7 @@ statistics:
 team:
   title: "The team"
   content: "This is what we got out of the project and what we learned..."
-  images:
-    - name: "Martyn Evans"
-      image: "team/martyn-evans.png"
-      identifier: "sh24-martyn-evans"
-    - name: "Tom Sabin"
-      image: "team/tom-sabin.png"
-      identifier: "sh24-tom-sabin"
-    - name: "Patrick Davenport"
-      image: "team/patrick-davenport.png"
-      identifier: "sh24-patrick-davenport"
+  image: "team.png"
 
 links:
   - title: "Revolutionary new STI-testing scheme launches in Southwark"
@@ -312,23 +303,15 @@ related:
 </section>
 
 <section class="team">
-  <h2 class="text-tile__title">
+  <h2 class="team__title">
     <%= current_page.data.team.title %>
   </h2>
-  <p class="text-tile__paragraph">
+
+  <p class="team__paragraph">
     <%= current_page.data.team.content %>
   </p>
 
-  <div class="team__headshots">
-    <% current_page.data.team.images.each do |image| %>
-      <div class="team__<%= image.identifier %>">
-        <img class="team__headshot" src="<%= image.image %>" alt="<%= image.name %>" />
-        <span class="team__badge">
-          <%= image.name.split(' ').join('<br />') %>
-        </span>
-      </div>
-    <% end %>
-  </div>
+  <img class="team__image" <%= retina_src current_page.data.team.image %> />
 </section>
 
 <footer>
