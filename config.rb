@@ -1,5 +1,3 @@
-require 'pry'
-
 set :relative_links, true
 set :layout, 'application'
 set :css_dir, 'assets/stylesheets'
@@ -7,12 +5,6 @@ set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true
-
-activate :blog do |blog|
-  blog.prefix = 'blog'
-  blog.permalink = "{title}.html"
-  blog.new_article_template = "source/templates/blog.md"
-end
 
 activate :directory_indexes
 activate :relative_assets
@@ -32,7 +24,6 @@ helpers do
   end
 end
 
-page 'blog/*'
 ignore '/templates/*'
 ignore '/**/README.md'
 
