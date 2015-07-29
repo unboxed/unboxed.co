@@ -77,15 +77,18 @@ links:
   - title: "Revolutionary new STI-testing scheme launches in Southwark"
     source: "southwarknews"
     type: "news"
-    is_primary: false
+    link: "http://www.southwarknews.co.uk/news/revolutionary-new-sti-testing-scheme-launches-in-southwark/"
+    color: "white"
   - title: "SH:24 sexual health service launches today"
     source: "Design Council"
     type: "news"
-    is_primary: false
+    link: "http://www.designcouncil.org.uk/news-opinion/sh24-sexual-health-service-launches-today"
+    color: "white"
   - title: "Visit the site and check it out for yourself"
     source: "SH:24"
     type: "link"
-    is_primary: true
+    link: "https://sh24.org.uk/"
+    color: "purple"
 
 related:
   title: "Had enough or are you thirsty for more..."
@@ -93,15 +96,18 @@ related:
     - title: "Agile. Being lean in the NHS"
       author: "Martyn Evans"
       type: "round table"
+      link: "https://www.unboxedconsulting.com/blog/digital-healthcare-roundtable-session"
       color: "blue"
       image: "related/nhs.jpg"
     - title: "De-railed? Is Ruby Enterprise ready?"
       author: "Murray Steele"
       type: "blog"
+      link: "https://www.unboxedconsulting.com/ideas/guide-is-ruby-enterprise-ready"
       color: "orange"
       image: "related/meeting.jpg"
     - title: "Groundbreaking redevelopment of Channel5.com"
       type: "project story"
+      link: "https://www.unboxedconsulting.com/project-stories/channel-5"
       color: "white"
       image: "related/channel5.jpg"
 
@@ -287,7 +293,7 @@ related:
 
   <section class="component">
     <% current_page.data.links.each do |link| %>
-      <a class="link-tile <%= 'link-tile--primary' if link.is_primary %>" href="#">
+      <a class="link-tile link-tile--<%= link.color %>" href="<%= link.link %>" target="_blank">
         <div>
           <div class="link-tile__type">
             <%= link.type %>
@@ -328,7 +334,7 @@ related:
 
     <div class="component">
       <% current_page.data.related.articles.each do |article| %>
-        <a class="related-tile related-tile--<%= article.color %>" href="#">
+        <a class="related-tile related-tile--<%= article.color %>" href="<%= article.link %>" target="_blank">
           <img class="related-tile__image" src="<%= article.image %>" alt"">
           <div class="related-tile__text-content">
             <div>

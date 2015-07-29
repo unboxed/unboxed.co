@@ -19,7 +19,7 @@
 .header__brand {
   color: $header-text-color;
   font-size: 1.4em;
-  font-weight: 600;
+  font-weight: 800;
   text-align: right;
   padding-top: 16px;
 }
@@ -35,7 +35,7 @@
 .header__case-study-title {
   color: $header-text-color;
   font-size: 1.7em;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.6;
 
   @include breakpoint($tablet) {
