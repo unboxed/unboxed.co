@@ -16,6 +16,10 @@
   }
 }
 
+.header__brand-link {
+  text-decoration: none;
+}
+
 .header__brand {
   color: $header-text-color;
   font-size: 1.4em;
