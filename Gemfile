@@ -6,4 +6,3 @@ gem 'pry'
 gem 'middleman-deploy'
 gem 'rake'
 gem 'redcarpet'
-gem 'turbolinks', '~> 2.5.3', require: false
