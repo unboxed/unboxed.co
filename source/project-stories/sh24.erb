@@ -1,11 +1,10 @@
 ---
-head_meta_title: "SH:24 Project Story"
-date: 2015-07-27 00:00 UTC
+title: "SH:24 Project Story"
 
-title: "SH:24"
-
-heading: "8 weeks to transform NHS sexual health service"
-heading_image: "post-it.jpg"
+header:
+  title: "SH:24"
+  subtitle: "8 weeks to transform NHS sexual health service"
+  image: "post-it.jpg"
 
 introduction: "Unboxed moves fast with SH:24 to create an online testing service that paves the way for the transformation of clinic-based services in the NHS."
 introduction_image: "blood-lancets.jpg"
@@ -124,18 +123,18 @@ related:
 
     <div class="header__case-study">
       <h2 class="header__case-study-title">
-        <%= current_page.data.title %>
+        <%= current_page.data.header.title %>
       </h2>
 
       <p class="header__case-study-subtitle">
-        <%= current_page.data.heading %>
+        <%= current_page.data.header.subtitle %>
       </p>
     </div>
   </div>
 </header>
 
 <div class="container">
-  <img class="full-image" <%= retina_src current_page.data.heading_image %> />
+  <img class="full-image" <%= retina_src current_page.data.header.image %> />
 
   <section class="component">
     <div class="component__tile text-tile">
