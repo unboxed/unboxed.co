@@ -21,6 +21,7 @@
 
   @include breakpoint($tablet) {
     @include flex(0 0 auto);
+    object-fit: cover;
     height: 150px;
     margin-top: -60px;
     width: 100%;
