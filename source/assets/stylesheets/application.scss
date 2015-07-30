@@ -1,11 +1,14 @@
 @import 'reset';
 @import 'vendor/*';
-
-$tablet: 660px;
+@import 'variables';
 
 html {
   font-size: 16px;
   font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', sans-serif;
+}
+
+body {
+  background: $body-background-color;
 }
 
 strong {
@@ -14,7 +17,3 @@ strong {
 
 @import 'shared/*';
 @import 'styles/*';
-
-body {
-  background: $body-background-color;
-}

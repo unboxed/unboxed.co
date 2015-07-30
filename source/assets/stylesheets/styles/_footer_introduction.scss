@@ -3,7 +3,7 @@
   padding: 16px;
   min-height: 90px;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     padding: 20px 30px;
     min-height: 70px;
   }
@@ -16,7 +16,7 @@
   line-height: 1.2;
   max-width: 220px;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     font-size: 1.6em;
     max-width: 250px;
   }

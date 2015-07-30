@@ -1,3 +1,8 @@
+$mobile-font-breakpoint: 400px;
+$max-mobile-container: 480px;
+$tablet-breakpoint: 660px;
+$max-tablet-container: 960px;
+
 $blue: #29A5E7;
 $dark-purple: #3B0737;
 $light-purple: #9F2B9A;
@@ -13,7 +18,7 @@ $white: #FFFFFF;
 $body-background-color: $light-gray;
 $header-background-color: $light-gray;
 $header-text-color: $light-purple;
-$text-tile-background-color: $white;
+$component-background-color: $white;
 $bitesize-background-color: $yellow;
 $bitesize-text-color: $black;
 $tile-title-color: $light-purple;

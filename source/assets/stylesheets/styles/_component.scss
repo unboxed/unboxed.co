@@ -1,9 +1,10 @@
 .component {
+  background-color: $component-background-color;
   @include clearfix;
 }
 
 .component__tile {
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     float: left;
     width: 50%;
   }

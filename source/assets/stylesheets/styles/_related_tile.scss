@@ -2,7 +2,7 @@
   @include flexbox;
   text-decoration: none;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     @include flex-direction(column-reverse);
     float: left;
     width: 33.33%;
@@ -17,11 +17,11 @@
 .related-tile__image {
   @include flex(0 0 130px);
   height: 130px;
+  object-fit: cover;
   width: 130px;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     @include flex(0 0 auto);
-    object-fit: cover;
     height: 150px;
     margin-top: -60px;
     width: 100%;
@@ -29,7 +29,7 @@
 }
 
 .related-tile:first-of-type {
-  @include breakpoint(max-width $tablet - 1) {
+  @include breakpoint(max-width $tablet-breakpoint - 1) {
     @include flex-direction(column-reverse);
 
     .related-tile__image {
@@ -57,7 +57,7 @@
   min-height: 130px;
   width: 100%;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     min-height: 190px;
     z-index: 2;
   }

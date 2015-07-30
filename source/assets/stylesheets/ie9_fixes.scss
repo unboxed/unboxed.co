@@ -49,3 +49,9 @@
 .header__case-study {
   margin-top: 60px;
 }
+
+.bitesize__list-item {
+  @media (min-width: 640px) {
+    padding-top: 20px;
+  }
+}

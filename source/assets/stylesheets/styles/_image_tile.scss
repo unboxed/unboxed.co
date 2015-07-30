@@ -2,7 +2,7 @@
   display: block;
   width: 100%;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     min-height: 320px;
   }
 }

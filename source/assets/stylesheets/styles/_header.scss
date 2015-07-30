@@ -11,7 +11,7 @@
   height: 240px;
   padding: 0 20px;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     height: 320px;
   }
 }
@@ -31,7 +31,7 @@
 .header__case-study {
   padding-bottom: 28px;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     padding-bottom: 30px;
   }
 }
@@ -42,7 +42,7 @@
   font-weight: 600;
   line-height: 1.6;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     font-size: 2.3em;
     line-height: 1.5;
   }
@@ -55,7 +55,7 @@
   line-height: 1.2;
   max-width: 220px;
 
-  @include breakpoint($tablet) {
+  @include breakpoint($tablet-breakpoint) {
     font-size: 1.7em;
     max-width: 320px;
   }
