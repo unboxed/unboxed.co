@@ -5,7 +5,6 @@
   @include breakpoint($tablet-breakpoint) {
     box-sizing: border-box;
     padding: 30px;
-    min-height: 170px;
   }
 }
 
@@ -40,5 +39,6 @@
 
   @include breakpoint($tablet-breakpoint) {
     font-size: .8em;
+    padding-bottom: 8px;
   }
 }
