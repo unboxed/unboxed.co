@@ -1,3 +1,7 @@
+@import 'vendor/*';
+@import 'variables';
+@import 'shared/*';
+
 // Subsitute for flexbox's justify-content
 .header__case-study {
   margin-top: 70px;
@@ -14,7 +18,7 @@
   float: left;
   margin-right: 16px;
 
-  @media (min-width: 640px) {
+  @include breakpoint($tablet-breakpoint) {
     float: none;
   }
 }
@@ -24,7 +28,7 @@
   height: 130px;
   width: 130px;
 
-  @media (min-width: 640px) {
+  @include breakpoint($tablet-breakpoint) {
     height: 150px;
     width: 100%;
   }
@@ -51,7 +55,7 @@
 }
 
 .bitesize__list-item {
-  @media (min-width: 640px) {
+  @include breakpoint($tablet-breakpoint) {
     padding-top: 20px;
   }
 }
