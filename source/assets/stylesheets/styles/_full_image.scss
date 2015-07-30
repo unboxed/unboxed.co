@@ -6,5 +6,10 @@
 
   @include breakpoint($tablet-breakpoint) {
     height: 320px;
+    height: 47vw;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    height: 450px;
   }
 }
