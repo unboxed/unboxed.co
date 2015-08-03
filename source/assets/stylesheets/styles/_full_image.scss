@@ -1,8 +1,14 @@
 .full-image {
   display: block;
+  min-height: 200px;
   height: 200px;
+  height: 47vw;
   object-fit: cover;
   width: 100%;
+
+  @include breakpoint($max-mobile-container) {
+    height: 226px;
+  }
 
   @include breakpoint($tablet-breakpoint) {
     height: 320px;

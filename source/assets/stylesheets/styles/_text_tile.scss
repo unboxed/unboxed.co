@@ -17,12 +17,12 @@
   padding-bottom: 16px;
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 4vw;
+    font-size: 3.68vw;
     padding-bottom: 1.6vw;
   }
 
   @include breakpoint($max-tablet-container) {
-    font-size: 2.4em;
+    font-size: 2.2em;
     padding-bottom: 16px;
   }
 }

@@ -4,7 +4,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     @include clearfix;
-    padding: 30px;
+    padding: 30px 30px 40px;
   }
 }
 
@@ -16,13 +16,13 @@
   padding: 8px 0 16px;
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 3.5vw;
-    padding-bottom: 18px;
+    font-size: 3.68vw;
+    padding-bottom: 2vw;
   }
 
   @include breakpoint($max-tablet-container) {
-    font-size: 2.1em;
-    padding-bottom: 24px;
+    font-size: 2.2em;
+    padding-bottom: 20px;
   }
 }
 
@@ -95,10 +95,10 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 2.17vw;
+    font-size: 1.96vw;
   }
 
   @include breakpoint($max-tablet-container) {
-    font-size: 1.3em;
+    font-size: 1.18em;
   }
 }

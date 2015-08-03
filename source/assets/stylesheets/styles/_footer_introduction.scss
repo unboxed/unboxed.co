@@ -3,7 +3,7 @@
   padding: 16px;
 
   @include breakpoint($tablet-breakpoint) {
-    padding: 20px 20px;
+    padding: 16px 20px;
   }
 }
 
@@ -17,6 +17,6 @@
   @include breakpoint($tablet-breakpoint) {
     font-size: 2em;
     max-width: 250px;
-    padding-bottom: 8px;
+    padding-bottom: 4px;
   }
 }
