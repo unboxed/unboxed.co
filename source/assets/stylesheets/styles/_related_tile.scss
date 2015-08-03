@@ -6,7 +6,6 @@
     @include flex-direction(column-reverse);
     float: left;
     width: 33.33%;
-    width: calc(100%/3);
 
     &:hover .related-tile__image {
       z-index: 3;
