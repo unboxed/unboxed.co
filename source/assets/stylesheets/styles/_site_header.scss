@@ -2,6 +2,7 @@
   background-color: $header-background-color;
   position: fixed;
   width: 100%;
+  z-index: 4;
 }
 
 .site-header--active-scroll {
