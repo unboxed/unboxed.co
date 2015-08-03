@@ -7,7 +7,7 @@
     <%= favicon_tag "favicon.ico" %>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
     <%= stylesheet_link_tag "application" %>
-    <%#= javascript_include_tag "application" %>
+    <%= javascript_include_tag "application" %>
     <%= stylesheet_link_tag "ie10_fixes" %>
     <!--[if IE 9]>
       <%= stylesheet_link_tag "ie9_fixes" %>
@@ -19,6 +19,16 @@
   </head>
 
   <body class="<%= page_classes %>">
+    <div class="site-header">
+      <div class="site-header__container">
+        <a class="site-header__link" href="https://www.unboxedconsulting.com/">
+          <h1 class="site-header__brand">
+            Unboxed
+          </h1>
+        </a>
+      </div>
+    </div>
+
     <%= yield %>
   </body>
 

@@ -1,58 +1,32 @@
-.header {
+.page-header {
   background-color: $header-background-color;
 }
 
-.header__container {
-  @include flexbox;
-  @include flex-direction(column);
-  @include justify-content(space-between);
+.page-header__container {
   @extend %container;
   box-sizing: border-box;
-  min-height: 240px;
-  padding: 0 20px;
-
-  @include breakpoint($tablet-breakpoint) {
-    min-height: 320px;
-  }
-}
-
-.header__brand-link {
-  text-decoration: none;
-}
-
-.header__brand {
-  color: $header-brand-color;
-  font-size: 1.4em;
-  font-weight: 800;
-  text-align: right;
-  padding-top: 16px;
-}
-
-.header__case-study {
-  padding-bottom: 20px;
+  padding: 50px 20px 20px;
 
   @include breakpoint($tablet-breakpoint) {
     padding-bottom: 30px;
+    padding-top: 70px;
   }
 }
 
-.header__case-study-title {
+.page-header__introduction {
   color: $header-text-color;
   font-size: 1.95em;
   font-weight: 200;
   line-height: 1.2;
   padding: 30px 0 14px;
-
-  @include breakpoint(330px) {
-    max-width: 70%;
-  }
+  max-width: 75%;
 
   @include breakpoint($mobile-font-breakpoint) {
     font-size: 7.8vw;
   }
 
   @include breakpoint($max-mobile-container) {
-    font-size: 2em;
+    font-size: 2.34em;
   }
 
   @include breakpoint($tablet-breakpoint) {
@@ -65,7 +39,7 @@
   }
 }
 
-.header__case-study-subtitle {
+.page-header__client {
   color: $header-text-color;
   font-size: 1.2em;
   font-weight: 600;

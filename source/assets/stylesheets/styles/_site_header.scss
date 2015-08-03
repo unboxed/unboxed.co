@@ -1,0 +1,25 @@
+.site-header {
+  background-color: $header-background-color;
+  position: fixed;
+  width: 100%;
+}
+
+.site-header--active-scroll {
+  border-bottom: 1px solid darken($light-gray, 10%);
+}
+
+.site-header__container {
+  @extend %container;
+  padding: 16px 20px;
+  text-align: right;
+}
+
+.site-header__link {
+  text-decoration: none;
+}
+
+.site-header__brand {
+  color: $header-brand-color;
+  font-size: 1.4em;
+  font-weight: 800;
+}
