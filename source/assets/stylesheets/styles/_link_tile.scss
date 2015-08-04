@@ -20,22 +20,22 @@
 }
 
 .link-tile--site-link {
-  display: none;
+  background-color: $site-link-background-color;
+  min-height: 80px;
+
+  .link-tile__type {
+    color: $site-link-type-color;
+  }
+
+  .link-tile__title {
+    color: $site-link-text-color;
+  }
 
   @include breakpoint($tablet-breakpoint) {
-    display: block;
-    background-color: $site-link-background-color;
+    min-height: 190px;
 
     &:hover {
       background-color: darken($site-link-background-color, 6%);
-    }
-
-    .link-tile__type {
-      color: $site-link-type-color;
-    }
-
-    .link-tile__title {
-      color: $site-link-text-color;
     }
   }
 }
