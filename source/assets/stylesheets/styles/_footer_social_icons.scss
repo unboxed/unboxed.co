@@ -9,13 +9,13 @@
   text-align: right;
 }
 
-.footer-social_icons__icon-container {
+.footer-social-icons__icon-container {
   display: inline-block;
   vertical-align: top;
   margin-left: 8px;
 }
 
-.footer-social_icons__icon {
+.footer-social-icons__icon {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(center);

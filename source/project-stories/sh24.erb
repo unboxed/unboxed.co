@@ -56,12 +56,12 @@ proposition_image: "woman-with-phone.jpg"
 
 statistics:
   title: "Key Stats"
-  design_and_build_title: "Design and build"
+  design_and_build_title: "Design and build:"
   design_and_build:
     - "**Live test results returned within 8 weeks** of our engagement"
     - "**16 weeks** from inception **to live NHS approved service**"
     - "**100+ users** engaged in the design process"
-  since_launch_title: "Since launch"
+  since_launch_title: "Since launch:"
   since_launch:
     - "The website has received **5200 visitors (70% new)** and **26,000 page views**"
     - "**1300 have ordered a test through SH:24**"
@@ -73,22 +73,19 @@ team:
   content: "This is what we got out of the project and what we learned..."
   image: "team.png"
 
+site:
+  link: "https://sh24.org.uk/"
+  text: "Visit the site and check it out for yourself"
+
 links:
   - title: "Revolutionary new STI-testing scheme launches in Southwark"
     source: "southwarknews"
     type: "news"
     link: "http://www.southwarknews.co.uk/news/revolutionary-new-sti-testing-scheme-launches-in-southwark/"
-    color: "white"
   - title: "SH:24 sexual health service launches today"
     source: "Design Council"
     type: "news"
     link: "http://www.designcouncil.org.uk/news-opinion/sh24-sexual-health-service-launches-today"
-    color: "white"
-  - title: "Visit the site and check it out for yourself"
-    source: "SH:24"
-    type: "link"
-    link: "https://sh24.org.uk/"
-    color: "purple"
 
 related:
   title: "Related"
@@ -300,24 +297,6 @@ related:
     </section>
   </section>
 
-  <section class="component">
-    <% current_page.data.links.each do |link| %>
-      <a class="link-tile link-tile--<%= link.color %>" href="<%= link.link %>" target="_blank">
-        <div>
-          <div class="link-tile__type">
-            <%= link.type %>
-          </div>
-          <div class="link-tile__title">
-            <%= link.title %>
-          </div>
-        </div>
-        <div class="link-tile__source">
-          <%= link.source %>
-        </div>
-      </a>
-    <% end %>
-  </section>
-
   <section class="component team">
     <div class="component__tile">
       <h2 class="team__title">
@@ -334,54 +313,89 @@ related:
     </div>
   </section>
 
-  <footer>
-    <div class="footer-introduction">
-      <h2 class="footer-introduction__title">
-        <%= current_page.data.related.title %>
-      </h2>
+  <a class="site-link" href="<%= current_page.data.site.link %>">
+    <div class="site-link__type">
+      link
     </div>
-
-    <div class="component">
-      <% current_page.data.related.articles.each do |article| %>
-        <a class="related-tile related-tile--<%= article.color %>" href="<%= article.link %>">
-          <img class="related-tile__image" src="<%= article.image %>" alt"">
-          <div class="related-tile__text-content">
-            <div>
-              <div class="related-tile__type">
-                <%= article.type %>
-              </div>
-              <div class="related-tile__title">
-                <%= article.title %>
-              </div>
-            </div>
-            <% if article.author %>
-              <div class="related-tile__author">
-                <%= article.author %>
-              </div>
-            <% end %>
-          </div>
-        </a>
-      <% end %>
+    <div class="site-link__text">
+      <%= current_page.data.site.text %>
     </div>
+  </a>
 
-    <div class="footer-social-icons">
+  <section class="component">
+    <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
       <div>
-        <a class="footer-social_icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="footer-social_icons__icon">
+        <div class="link-tile__type">
+          link
+        </div>
+        <div class="link-tile__title">
+          <%= current_page.data.site.text %>
+        </div>
+      </div>
+    </a>
+    <% current_page.data.links.each do |link| %>
+      <a class="link-tile" href="<%= link.link %>" target="_blank">
+        <div>
+          <div class="link-tile__type">
+            <%= link.type %>
+          </div>
+          <div class="link-tile__title">
+            <%= link.title %>
+          </div>
+        </div>
+        <div class="link-tile__source">
+          <%= link.source %>
+        </div>
+      </a>
+    <% end %>
+  </section>
+
+  <div class="footer-introduction">
+    <h2 class="footer-introduction__title">
+      <%= current_page.data.related.title %>
+    </h2>
+  </div>
+
+  <footer class="component">
+    <% current_page.data.related.articles.each do |article| %>
+      <a class="related-tile related-tile--<%= article.color %>" href="<%= article.link %>">
+        <img class="related-tile__image" src="<%= article.image %>" alt"">
+        <div class="related-tile__text-content">
+          <div>
+            <div class="related-tile__type">
+              <%= article.type %>
+            </div>
+            <div class="related-tile__title">
+              <%= article.title %>
+            </div>
+          </div>
+          <% if article.author %>
+            <div class="related-tile__author">
+              <%= article.author %>
+            </div>
+          <% end %>
+        </div>
+      </a>
+    <% end %>
+
+    <section class="footer-social-icons">
+      <div>
+        <a class="footer-social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+          <div class="footer-social-icons__icon">
             <%= image_tag 'twitter.png', class: 'footer-social-icons__image' %>
           </div>
         </a>
-        <a class="footer-social_icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="footer-social_icons__icon">
+        <a class="footer-social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+          <div class="footer-social-icons__icon">
             <%= image_tag 'facebook.png', class: 'footer-social-icons__image' %>
           </div>
         </a>
-        <a class="footer-social_icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="footer-social_icons__icon">
+        <a class="footer-social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+          <div class="footer-social-icons__icon">
             <%= image_tag 'linkedin.png', class: 'footer-social-icons__image' %>
           </div>
         </a>
       </div>
-    </div>
+    </section>
   </footer>
 </div>
