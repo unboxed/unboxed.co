@@ -2,6 +2,7 @@
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(space-between);
+  background-color: $link-background-color;
   box-sizing: border-box;
   padding: 16px;
   text-decoration: none;
@@ -11,11 +12,38 @@
     float: left;
     min-height: 190px;
     width: 33.33%;
+
+    &:hover {
+      background-color: darken($link-background-color, 6%);
+    }
+  }
+}
+
+.link-tile--site-link {
+  background-color: $site-link-background-color;
+  min-height: 80px;
+
+  .link-tile__type {
+    color: $site-link-type-color;
+  }
+
+  .link-tile__title {
+    color: $site-link-text-color;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 190px;
+
+    &:hover {
+      background-color: darken($site-link-background-color, 6%);
+    }
   }
 }
 
 .link-tile__type {
+  color: $link-type-color;
   font-size: .8em;
+  font-weight: 200;
   line-height: 1.3;
   text-transform: uppercase;
   padding-bottom: 4px;
@@ -26,62 +54,32 @@
 }
 
 .link-tile__title {
-  font-size: 1.1em;
+  color: $link-text-color;
+  font-size: 1em;
+  font-weight: 100;
   line-height: 1.3;
+
+  @include breakpoint($mobile-font-breakpoint) {
+    font-size: 4.5vw;
+  }
+
+  @include breakpoint($max-mobile-container) {
+    font-size: 1.3em;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 2.17vw;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    font-size: 1.3em;
+  }
 }
 
 .link-tile__source {
+  color: $link-text-color;
   font-size: .8em;
+  font-weight: 100;
   line-height: 1.3;
   padding-top: 16px;
-}
-
-.link-tile--white {
-  background-color: $link-background-color;
-
-  .link-tile__type {
-    color: $link-type-color;
-    font-weight: 200;
-  }
-
-  .link-tile__title {
-    color: $link-text-color;
-    font-weight: 100;
-  }
-
-  .link-tile__source {
-    color: $link-text-color;
-    font-weight: 100;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    &:hover {
-      background-color: darken($link-background-color, 6%);
-    }
-  }
-}
-
-.link-tile--purple {
-  background-color: $primary-link-background-color;
-
-  .link-tile__type {
-    color: $primary-link-type-color;
-    font-weight: 200;
-  }
-
-  .link-tile__title {
-    color: lighten($primary-link-text-color, 15%);
-    font-weight: 200;
-  }
-
-  .link-tile__source {
-    color: lighten($primary-link-text-color, 15%);
-    font-weight: 200;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    &:hover {
-      background-color: darken($primary-link-background-color, 6%);
-    }
-  }
 }

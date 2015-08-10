@@ -56,12 +56,12 @@ proposition_image: "woman-with-phone.jpg"
 
 statistics:
   title: "Key Stats"
-  design_and_build_title: "Design and build"
+  design_and_build_title: "Design and build:"
   design_and_build:
     - "**Live test results returned within 8 weeks** of our engagement"
     - "**16 weeks** from inception **to live NHS approved service**"
     - "**100+ users** engaged in the design process"
-  since_launch_title: "Since launch"
+  since_launch_title: "Since launch:"
   since_launch:
     - "The website has received **5200 visitors (70% new)** and **26,000 page views**"
     - "**1300 have ordered a test through SH:24**"
@@ -73,22 +73,19 @@ team:
   content: "This is what we got out of the project and what we learned..."
   image: "team.png"
 
+site:
+  link: "https://sh24.org.uk/"
+  text: "Visit the site and check it out for yourself"
+
 links:
   - title: "Revolutionary new STI-testing scheme launches in Southwark"
     source: "southwarknews"
     type: "news"
     link: "http://www.southwarknews.co.uk/news/revolutionary-new-sti-testing-scheme-launches-in-southwark/"
-    color: "white"
   - title: "SH:24 sexual health service launches today"
     source: "Design Council"
     type: "news"
     link: "http://www.designcouncil.org.uk/news-opinion/sh24-sexual-health-service-launches-today"
-    color: "white"
-  - title: "Visit the site and check it out for yourself"
-    source: "SH:24"
-    type: "link"
-    link: "https://sh24.org.uk/"
-    color: "purple"
 
 related:
   title: "Related"
@@ -115,9 +112,9 @@ related:
 
 <header class="page-header">
   <div class="page-header__container">
-    <h2 class="page-header__introduction">
+    <h1 class="page-header__introduction">
       <%= current_page.data.header.introduction %>
-    </h2>
+    </h1>
 
     <p class="page-header__client">
       <%= current_page.data.header.client %>
@@ -126,7 +123,7 @@ related:
 </header>
 
 <div class="container">
-  <img class="full-image" <%= retina_src current_page.data.header.image %> id="siteHeaderWaypoint" />
+  <img class="full-image" <%= retina_src current_page.data.header.image %> id="siteHeaderWaypoint" alt="Sexual Health post it" />
 
   <script>
   new Waypoint({
@@ -145,20 +142,20 @@ related:
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h3 class="text-tile__large-paragraph">
+      <h2 class="text-tile__large-paragraph">
         <%= current_page.data.introduction %>
-      </h3>
+      </h2>
     </div>
 
     <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.introduction_image %> />
+      <img class="image-tile__image" <%= retina_src current_page.data.introduction_image %> alt="Blood lancets" />
     </div>
   </section>
 
   <section class="bitesize">
-    <h3 class="bitesize__title">
+    <h2 class="bitesize__title">
       <%= current_page.data.highlights_title %>
-    </h3>
+    </h2>
 
     <ul class="bitesize__list">
       <% current_page.data.highlights.each do |highlight| %>
@@ -171,9 +168,9 @@ related:
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h3 class="text-tile__title">
+      <h2 class="text-tile__title">
         <%= current_page.data.launch.title %>
-      </h3>
+      </h2>
 
       <p class="text-tile__paragraph">
         <%= current_page.data.launch.content %>
@@ -181,7 +178,7 @@ related:
     </div>
 
     <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.launch.image %> />
+      <img class="image-tile__image" <%= retina_src current_page.data.launch.image %> alt="Alpha instructions closeup" />
     </div>
   </section>
 
@@ -196,9 +193,9 @@ related:
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h3 class="text-tile__title">
+      <h2 class="text-tile__title">
         <%= current_page.data.service.title %>
-      </h3>
+      </h2>
 
       <p class="text-tile__paragraph">
         <%= current_page.data.service.content %>
@@ -206,17 +203,17 @@ related:
     </div>
 
     <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.service.image %> />
+      <img class="image-tile__image" <%= retina_src current_page.data.service.image %> alt="Using the alpha instructions" />
     </div>
   </section>
 
-  <img class="full-image" <%= retina_src current_page.data.prototype_kit_image %> />
+  <img class="full-image" <%= retina_src current_page.data.prototype_kit_image %> alt="Alpha packaging prototype" />
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h3 class="text-tile__title">
+      <h2 class="text-tile__title">
         <%= current_page.data.learning.title %>
-      </h3>
+      </h2>
 
       <p class="text-tile__paragraph">
         <%= current_page.data.learning.content %>
@@ -224,7 +221,7 @@ related:
     </div>
 
     <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.learning.image %> />
+      <img class="image-tile__image" <%= retina_src current_page.data.learning.image %> alt="User learning" />
     </div>
   </section>
 
@@ -237,13 +234,13 @@ related:
     </p>
   </blockquote>
 
-  <img class="full-image" <%= retina_src current_page.data.packaging_image %> />
+  <img class="full-image" <%= retina_src current_page.data.packaging_image %> alt="Kit kackaging" />
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h3 class="text-tile__title">
+      <h2 class="text-tile__title">
         <%= current_page.data.stakeholder_trust.title %>
-      </h3>
+      </h2>
 
       <p class="text-tile__paragraph">
         <%= current_page.data.stakeholder_trust.content %>
@@ -251,7 +248,7 @@ related:
     </div>
 
     <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.stakeholder_trust.image %> />
+      <img class="image-tile__image" <%= retina_src current_page.data.stakeholder_trust.image %> alt="Stakeholders" />
     </div>
   </section>
 
@@ -264,17 +261,17 @@ related:
     </p>
   </blockquote>
 
-  <img class="full-image" <%= retina_src current_page.data.proposition_image %> />
+  <img class="full-image" <%= retina_src current_page.data.proposition_image %> alt="Woman with her phone" />
 
   <section class="bitesize">
-    <h3 class="bitesize__title">
+    <h2 class="bitesize__title">
       <%= current_page.data.statistics.title %>
-    </h3>
+    </h2>
 
     <section class="bitesize__section">
-      <h4 class="bitesize__sub-title">
+      <h3 class="bitesize__sub-title">
         <%= current_page.data.statistics.design_and_build_title %>
-      </h4>
+      </h3>
 
       <ul>
         <% current_page.data.statistics.design_and_build.each do |statistic| %>
@@ -286,9 +283,9 @@ related:
     </section>
 
     <section class="bitesize__section">
-      <h4 class="bitesize__sub-title">
+      <h3 class="bitesize__sub-title">
         <%= current_page.data.statistics.since_launch_title %>
-      </h4>
+      </h3>
 
       <ul>
         <% current_page.data.statistics.since_launch.each do |statistic| %>
@@ -300,9 +297,35 @@ related:
     </section>
   </section>
 
+  <section class="component team">
+    <div class="component__tile">
+      <h3 class="team__title">
+        <%= current_page.data.team.title %>
+      </h3>
+
+      <p class="team__paragraph">
+        <%= current_page.data.team.content %>
+      </p>
+    </div>
+
+    <div class="component__tile">
+      <img class="team__image" <%= retina_src current_page.data.team.image %> alt="Team headshots" />
+    </div>
+  </section>
+
   <section class="component">
+    <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
+      <div>
+        <div class="link-tile__type">
+          link
+        </div>
+        <div class="link-tile__title">
+          <%= current_page.data.site.text %>
+        </div>
+      </div>
+    </a>
     <% current_page.data.links.each do |link| %>
-      <a class="link-tile link-tile--<%= link.color %>" href="<%= link.link %>" target="_blank">
+      <a class="link-tile" href="<%= link.link %>" target="_blank">
         <div>
           <div class="link-tile__type">
             <%= link.type %>
@@ -318,70 +341,53 @@ related:
     <% end %>
   </section>
 
-  <section class="component team">
-    <div class="component__tile">
-      <h2 class="team__title">
-        <%= current_page.data.team.title %>
-      </h2>
 
-      <p class="team__paragraph">
-        <%= current_page.data.team.content %>
-      </p>
-    </div>
-
-    <div class="component__tile">
-      <img class="team__image" <%= retina_src current_page.data.team.image %> />
-    </div>
-  </section>
-
-  <footer>
+  <footer class="component">
     <div class="footer-introduction">
-      <h2 class="footer-introduction__title">
+      <h3 class="footer-introduction__title">
         <%= current_page.data.related.title %>
-      </h2>
+      </h3>
     </div>
 
-    <div class="component">
-      <% current_page.data.related.articles.each do |article| %>
-        <a class="related-tile related-tile--<%= article.color %>" href="<%= article.link %>">
-          <img class="related-tile__image" src="<%= article.image %>" alt"">
-          <div class="related-tile__text-content">
-            <div>
-              <div class="related-tile__type">
-                <%= article.type %>
-              </div>
-              <div class="related-tile__title">
-                <%= article.title %>
-              </div>
+    <% current_page.data.related.articles.each do |article| %>
+      <a class="related-tile related-tile--<%= article.color %>" href="<%= article.link %>">
+        <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
+        <div class="related-tile__text-content">
+          <div>
+            <div class="related-tile__type">
+              <%= article.type %>
             </div>
-            <% if article.author %>
-              <div class="related-tile__author">
-                <%= article.author %>
-              </div>
-            <% end %>
+            <div class="related-tile__title">
+              <%= article.title %>
+            </div>
           </div>
-        </a>
-      <% end %>
-    </div>
+          <% if article.author %>
+            <div class="related-tile__author">
+              <%= article.author %>
+            </div>
+          <% end %>
+        </div>
+      </a>
+    <% end %>
 
-    <div class="footer-social-icons">
+    <section class="footer-social-icons">
       <div>
-        <a class="footer-social_icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="footer-social_icons__icon">
-            <%= image_tag 'twitter.png', class: 'footer-social-icons__image' %>
+        <a class="footer-social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+          <div class="footer-social-icons__icon">
+            <%= image_tag 'twitter.png', class: 'footer-social-icons__image', alt: 'Twitter' %>
           </div>
         </a>
-        <a class="footer-social_icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="footer-social_icons__icon">
-            <%= image_tag 'facebook.png', class: 'footer-social-icons__image' %>
+        <a class="footer-social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+          <div class="footer-social-icons__icon">
+            <%= image_tag 'facebook.png', class: 'footer-social-icons__image', alt: 'Facebook' %>
           </div>
         </a>
-        <a class="footer-social_icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="footer-social_icons__icon">
-            <%= image_tag 'linkedin.png', class: 'footer-social-icons__image' %>
+        <a class="footer-social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+          <div class="footer-social-icons__icon">
+            <%= image_tag 'linkedin.png', class: 'footer-social-icons__image', alt: 'LinkedIn' %>
           </div>
         </a>
       </div>
-    </div>
+    </section>
   </footer>
 </div>

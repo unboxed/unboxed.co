@@ -12,6 +12,23 @@
   color: $quote-text-color;
   font-size: .98em;
   line-height: 1.3;
+  position: relative;
+  quotes: "“" "”";
+
+  &:before, &:after {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  }
+
+  &:before {
+    content: open-quote;
+    display: block;
+    position: absolute;
+    left: -10px;
+  }
+
+  &:after {
+    content: close-quote;
+  }
 
   @include breakpoint($mobile-font-breakpoint) {
     font-weight: 400;
