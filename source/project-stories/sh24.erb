@@ -4,7 +4,7 @@ title: "SH:24 Project Story"
 header:
   client: "SH:24"
   introduction: "8 weeks to transform NHS sexual health service"
-  image: "/project-stories/sh24/post-it.jpg"
+  image: "/assets/images/project-story/sh24-post-it.jpg"
 
 introduction: "Unboxed moves fast with SH:24 to create an online testing service that paves the way for the transformation of clinic-based services in the NHS."
 introduction_image: "/project-stories/sh24/blood-lancets.jpg"
@@ -106,13 +106,12 @@ related:
       type: "project story"
       link: "https://www.unboxedconsulting.com/project-stories/channel-5"
       color: "white"
-      image: "/project-stories/sh24/related/channel5.jpg"
-
+      image: "/assets/images/project-story/channel5-woman.jpg"
 ---
 
 <header class="page-header">
   <div class="page-header__container">
-    <h1 class="page-header__introduction">
+    <h1 class="page-header__title">
       <%= current_page.data.header.introduction %>
     </h1>
 
@@ -130,7 +129,7 @@ related:
     element: $('#siteHeaderWaypoint'),
     handler: function(direction) {
       var siteHeader = $('.site-header');
-      if (direction === "down") {
+      if (direction === 'down') {
         siteHeader.addClass('site-header--active-scroll');
       } else {
         siteHeader.removeClass('site-header--active-scroll');
