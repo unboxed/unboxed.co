@@ -44,6 +44,7 @@ project_stories:
   <% current_page.data.project_stories.each_with_index do |project_story, index| %>
     <% class_name = index == 0 ? "grid-large-tile" : "grid-tile" %>
     <a class="<%= class_name %>" href="<%= project_story.link %>">
+      <img class="<%= class_name %>__image" src="<%= project_story.image %>" alt="<%= project_story.client %>">
       <div class="<%= class_name %>__content">
         <div>
           <div class="<%= class_name %>__type">
@@ -57,7 +58,6 @@ project_stories:
           <%= project_story.client %>
         </div>
       </div>
-      <img class="<%= class_name %>__image" src="<%= project_story.image %>" alt="<%= project_story.client %>">
     </a>
   <% end %>
 </div>

@@ -1,6 +1,7 @@
 .grid-large-tile {
+  @include flexbox;
+  @include flex-direction(column-reverse);
   background-color: $grid-tile-background-color;
-  display: block;
   text-decoration: none;
   margin: 20px 0 40px;
 }

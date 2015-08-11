@@ -1,12 +1,11 @@
 .grid-tile {
   @include flexbox;
-  @include flex-direction(row-reverse);
   background-color: $grid-tile-background-color;
   border: 1px solid $grid-tile-border-color;
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
-    @include flex-direction(column);
+    @include flex-direction(column-reverse);
     box-sizing: border-box;
     float: left;
     margin-bottom: 20px;
@@ -73,13 +72,11 @@
 }
 
 .grid-tile__image {
-  @include flex(0 0 130px);
   height: 130px;
   object-fit: cover;
   width: 130px;
 
   @include breakpoint($tablet-breakpoint) {
-    @include flex(0 0 auto);
     height: 150px;
     width: 100%;
   }
