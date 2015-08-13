@@ -32,6 +32,11 @@ configure :build do
   activate :minify_javascript
 end
 
+after_build do |builder|
+  builder.source_paths << File.dirname(__FILE__)
+  builder.copy_file('data/_redirects', 'build/_redirects')
+end
+
 activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = 'gh-pages'
