@@ -76,10 +76,6 @@
   .bitesize__list-item {
     @include breakpoint($tablet-breakpoint) {
       padding-bottom: 0;
-
-      &:nth-of-type(2n) {
-        padding-top: 20px;
-      }
     }
   }
 }
