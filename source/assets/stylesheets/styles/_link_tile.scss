@@ -10,7 +10,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
-    min-height: 190px;
+    min-height: 160px;
     width: 33.33%;
 
     &:hover {
@@ -32,7 +32,7 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 190px;
+    min-height: 160px;
 
     &:hover {
       background-color: darken($site-link-background-color, 6%);
