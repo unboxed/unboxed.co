@@ -3,8 +3,28 @@
 @import 'shared/*';
 
 // To support full coloured div
+.grid-large-tile {
+  display: block;
+}
+
+// To support full coloured div
 .link-tile {
   display: block;
+}
+
+// To support full coloured div
+.grid-tile {
+  display: block;
+}
+
+// Flexbox is not supported, float images to left instead
+.grid-tile__image {
+  float: left;
+  margin-right: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: none;
+  }
 }
 
 // Flexbox is not supported, float images to left instead
