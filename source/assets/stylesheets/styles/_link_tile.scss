@@ -3,18 +3,29 @@
   @include flex-direction(column);
   @include justify-content(space-between);
   background-color: $link-background-color;
+  border-bottom: 1px solid $light-gray;
   box-sizing: border-box;
   padding: 16px;
   text-decoration: none;
   min-height: 130px;
 
+  &:last-of-type {
+    border-bottom: none;
+  }
+
   @include breakpoint($tablet-breakpoint) {
+    border-right: 1px solid $light-gray;
+    border-bottom: 0;
     float: left;
-    min-height: 160px;
+    min-height: 165px;
     width: 33.33%;
 
     &:hover {
       background-color: darken($link-background-color, 6%);
+    }
+
+    &:last-of-type {
+      border-right: none;
     }
   }
 }
@@ -32,7 +43,7 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 160px;
+    min-height: 165px;
 
     &:hover {
       background-color: darken($site-link-background-color, 6%);

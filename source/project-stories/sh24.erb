@@ -7,9 +7,9 @@ header:
   image: "/assets/images/project-story/sh24-post-it.jpg"
 
 introduction:
-  title: "The vision"
+  title: "The project"
   content: "SH:24 asked Unboxed to help them develop an online STI testing service. The vision was that a self service testing kit, ordered online could tackle long queues at inaccessible sexual health centres and dramatically increase public access to sexual health service."
-  image: "/project-stories/sh24/blood-lancets.jpg"
+  image: "/project-stories/sh24/team.png"
 
 statistics_title: "Key stats"
 statistics:
@@ -61,15 +61,13 @@ conclusion:
   title: "Strong take up proved the concept rapidly"
   design_and_build_title: "Design and build:"
   design_and_build:
-    - "Live STI test results were returned to the NHS within 8 weeks of our engagement. Over 100 users were engaged in the design process and within 16 weeks of inception, SH:24 was a live NHS approved service."
+    - "Live STI test results were returned to the NHS within 8 weeks of our engagement."
+    - "Over 100 users were engaged in the design process and within 16 weeks of inception, SH:24 was a live NHS approved service."
   since_launch_title: "Since launch:"
   since_launch:
-    - "The website has now received 5,200 visitors (70% new) and 26,000 page views. 1300 have ordered a test through SH:24. Sixty percent of people have returned their test which is much higher than other online testing services. 95% of people starting the order process go right through to complete the order."
-
-team:
-  title: "The team"
-  content: "This is what we got out of the project and what we learned..."
-  image: "/project-stories/sh24/team.png"
+    - "The website has now received 5,200 visitors (70% new) and 26,000 page views."
+    - "1300 have ordered a test through SH:24. Sixty percent of people have returned their test which is much higher than other online testing services."
+    - "95% of people starting the order process go right through to complete the order."
 
 site:
   link: "https://sh24.org.uk/"
@@ -92,18 +90,15 @@ related:
       author: "Martyn Evans"
       type: "round table"
       link: "https://www.unboxedconsulting.com/blog/digital-healthcare-roundtable-session"
-      color: "blue"
       image: "/project-stories/sh24/related/nhs.jpg"
     - title: "De-railed? Is Ruby Enterprise ready?"
       author: "Murray Steele"
       type: "blog"
       link: "https://www.unboxedconsulting.com/ideas/guide-is-ruby-enterprise-ready"
-      color: "orange"
       image: "/project-stories/sh24/related/meeting.jpg"
     - title: "Groundbreaking redevelopment of Channel5.com"
       type: "project story"
       link: "https://www.unboxedconsulting.com/project-stories/channel-5"
-      color: "white"
       image: "/assets/images/project-story/channel5-woman.jpg"
 ---
 
@@ -326,22 +321,6 @@ related:
     <% end %>
   </section>
 
-  <section class="component team">
-    <div class="component__tile">
-      <h3 class="team__title">
-        <%= current_page.data.team.title %>
-      </h3>
-
-      <p class="team__paragraph">
-        <%= current_page.data.team.content %>
-      </p>
-    </div>
-
-    <div class="component__tile">
-      <img class="team__image" <%= retina_src current_page.data.team.image %> alt="Team headshots" />
-    </div>
-  </section>
-
   <footer class="component">
     <div class="footer-introduction">
       <h3 class="footer-introduction__title">
@@ -350,7 +329,7 @@ related:
     </div>
 
     <% current_page.data.related.articles.each do |article| %>
-      <a class="related-tile related-tile--<%= article.color %>" href="<%= article.link %>">
+      <a class="related-tile" href="<%= article.link %>">
         <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
         <div class="related-tile__text-content">
           <div>
