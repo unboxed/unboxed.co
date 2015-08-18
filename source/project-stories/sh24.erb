@@ -37,7 +37,9 @@ service:
   image: "/project-stories/sh24/prototyping-instructions.jpg"
   image_description: "Early prototype of kit instructions"
 
-prototype_kit_image: "/project-stories/sh24/kit-boxed.jpg"
+blood_instruction_video:
+  youtube_id: "7tY0vW2Ix3A"
+  thumbnail: "/project-stories/sh24/video-still.jpg"
 
 learning:
   title: "'Moving in' next door to users and partners"
@@ -211,7 +213,12 @@ related:
     </div>
   </section>
 
-  <img class="full-image" <%= retina_src current_page.data.prototype_kit_image %> alt="Alpha packaging prototype" />
+  <img class="full-image" <%= retina_src current_page.data.blood_instruction_video.thumbnail %> alt="Blood instructions video" id="bloodInstructionVideoThumbnail" />
+
+  <script>
+    var $embed = $('<div class="full-video"><iframe id="bloodInstructionVideo" src="https://www.youtube.com/embed/<%= current_page.data.blood_instruction_video.youtube_id %>?rel=0&amp&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>');
+    $("#bloodInstructionVideoThumbnail").replaceWith($embed);
+  </script>
 
   <section class="component">
     <div class="component__tile text-tile">
