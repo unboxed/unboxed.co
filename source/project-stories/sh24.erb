@@ -213,7 +213,9 @@ related:
     </div>
   </section>
 
-  <img class="full-image" <%= retina_src current_page.data.blood_instruction_video.thumbnail %> alt="Blood instructions video" id="bloodInstructionVideoThumbnail" />
+  <a href="https://www.youtube.com/watch?v=<%= current_page.data.blood_instruction_video.youtube_id %>" target="_blank">
+    <img class="full-image" <%= retina_src current_page.data.blood_instruction_video.thumbnail %> alt="Blood instructions video" id="bloodInstructionVideoThumbnail" />
+  </a>
 
   <script>
     var $embed = $('<div class="full-video"><iframe id="bloodInstructionVideo" src="https://www.youtube.com/embed/<%= current_page.data.blood_instruction_video.youtube_id %>?rel=0&amp&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>');
