@@ -32,7 +32,7 @@ first_met_quote:
   source: "Chris Howroyd, Director, SH:24"
 
 service:
-  title: "Creating a brand new physical service with a digital core"
+  title: "A new physical service with a digital core"
   content: "Whilst the digital elements formed a critical part of the service, we took great care to ensure that the experience of the physical product was equally as effective. The packaging and instructions, supporting information and messaging went through numerous iterations – for example the home blood sampling process changed radically and the instructions were tested and recreated several times."
   image: "/project-stories/sh24/prototyping-instructions.jpg"
   image_description: "Early prototype of kit instructions"
@@ -51,7 +51,9 @@ timely_quote:
   quote: "Unboxed brought people together rapidly and helped us to deliver a full service in an incredibly short space of time."
   source: "Chris Howroyd, SH:24"
 
-packaging_image: "/project-stories/sh24/alpha-packaging.jpg"
+sh24_banner:
+  image: "/project-stories/sh24/woman-with-phone.jpg"
+  image_description: "SH:24 banner image"
 
 stakeholder_trust:
   title: "Building trust amongst stakeholders"
@@ -64,8 +66,8 @@ team_quote:
   source: "Chris Howroyd, SH:24"
 
 proposition:
-  image: "/project-stories/sh24/woman-with-phone.jpg"
-  image_description: "Woman using her smartphone"
+  image: "/project-stories/sh24/team.png"
+  image_description: "The Unboxed team"
 
 conclusion:
   title: "Strong take up proved the concept rapidly"
@@ -247,7 +249,7 @@ related:
     </p>
   </blockquote>
 
-  <img class="full-image" <%= retina_src current_page.data.packaging_image %> alt="Kit kackaging" />
+  <img class="full-image" <%= retina_src current_page.data.sh24_banner.image %> alt="<%= current_page.data.sh24_banner.image_description %>" />
 
   <section class="component">
     <div class="component__tile text-tile">

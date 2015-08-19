@@ -4,7 +4,7 @@
   min-height: 320px;
 
   @include breakpoint($tablet-breakpoint) {
-    padding: 30px;
+    padding: 30px 30px 20px;
     min-height: 320px;
   }
 }
