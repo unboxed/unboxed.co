@@ -1,4 +1,9 @@
 @media screen and (min-width:0\0) {
+  // To fix Flexbox overflow bug
+  .grid-tile__content {
+    max-width: calc(100% - 130px);
+  }
+
   .related-tile__image {
     margin-top: 0;
   }
