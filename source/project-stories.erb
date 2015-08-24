@@ -6,26 +6,32 @@ project_stories:
     client: "SH:24"
     image: "/assets/images/project-story/sh24-post-it.jpg"
     link: "/project-stories/sh24/"
-  - title: "Government e-petitions application built from start to finish in 8-weeks"
+
+  - title: "Government e-petitions application built in 8-weeks"
     client: "e-petitions"
     image: "/assets/images/project-story/parliament.jpg"
     link: "https://www.unboxedconsulting.com/project-stories/e-petitions"
-  - title: "Offshore partnership creates 47% increase in online trade bookings"
+
+  - title: "Offshore partnership creates 47% increase in online bookings"
     client: "Contiki"
     image: "/assets/images/project-story/contiki.jpg"
     link: "https://www.unboxedconsulting.com/project-stories/contiki-holidays"
+
   - title: "Ground breaking redevelopment of Channel5.com"
     client: "Channel 5"
     image: "/assets/images/project-story/channel5-woman.jpg"
     link: "https://www.unboxedconsulting.com/project-stories/channel-5"
-  - title: "Recruitment site revitalisation for major scientific publishing group"
+
+  - title: "Revitalisation for major scientific publishing group"
     client: "Nature Jobs"
     image: "/assets/images/project-story/nature.jpg"
     link: "https://www.unboxedconsulting.com/project-stories/naturejobs"
+
   - title: "Unboxed leads Agile overhaul of Plymouth University website."
     client: "Plymouth University"
     image: "/assets/images/project-story/plymouth-university.jpg"
     link: "https://www.unboxedconsulting.com/project-stories/plymouth-university"
+
   - title: "Embedding Agile methodology at a major university."
     client: "Plymouth University"
     image: "/assets/images/project-story/plymouth-university-agile.jpg"
@@ -46,13 +52,8 @@ project_stories:
     <a class="<%= class_name %>" href="<%= project_story.link %>">
       <img class="<%= class_name %>__image" src="<%= project_story.image %>" alt="<%= project_story.client %>">
       <div class="<%= class_name %>__content">
-        <div>
-          <div class="<%= class_name %>__type">
-            project story
-          </div>
-          <div class="<%= class_name %>__title">
-            <%= project_story.title %>
-          </div>
+        <div class="<%= class_name %>__title">
+          <%= project_story.title %>
         </div>
         <div class="<%= class_name %>__client">
           <%= project_story.client %>
