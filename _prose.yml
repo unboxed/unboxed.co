@@ -1,0 +1,40 @@
+prose:
+  rooturl: 'source/blog'
+  ignore: '.keep'
+  media: 'source/blog/images'
+  metadata:
+    source/blog:
+      - name: 'layout'
+        field:
+          element: 'hidden'
+          value: 'blog'
+
+      - name: 'title'
+        field:
+          element: 'text'
+          label: 'title'
+
+      - name: 'date'
+        field:
+          element: 'hidden'
+          value: CURRENT_DATETIME
+
+      - name: 'published'
+        field:
+          element: 'hidden'
+          value: true
+
+      - name: 'tags'
+        field:
+          element: 'multiselect'
+          label: 'Tags'
+          help: 'Choose relevant tags'
+          alterable: false
+          options: [
+            'Agile',
+            'Culture',
+            'Design',
+            'Events',
+            'Innovation',
+            'Lean',
+            'Rails' ]
