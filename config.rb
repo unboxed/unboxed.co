@@ -6,6 +6,10 @@ set :images_dir, 'assets/images'
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true
 
+activate :blog do |blog|
+  blog.prefix = 'blog'
+  blog.permalink = "{title}.html"
+end
 activate :directory_indexes
 activate :relative_assets
 
@@ -19,7 +23,7 @@ helpers do
     %(src="#{path}" srcset="#{retina_path} 2x")
   end
 
-  def markdown(text)
+  def render_markdown(text)
     Markdown.new(text).to_html
   end
 end
