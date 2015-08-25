@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title><%= current_page.data.title || "UBXD" %></title>
+    <%= favicon_tag "favicon.ico" %>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <%= stylesheet_link_tag "application" %>
+    <%= javascript_include_tag "application" %>
+    <%= stylesheet_link_tag "ie10_fixes" %>
+    <!--[if IE 9]>
+      <%= stylesheet_link_tag "ie9_fixes" %>
+    <![endif]-->
+    <!--[if lt IE 9]>
+      <%= javascript_include_tag "html5shiv" %>
+      <%= stylesheet_link_tag "ie8_fixes" %>
+    <![endif]-->
+  </head>
+
+  <body class="<%= page_classes %>">
+    <div class="site-header">
+      <div class="site-header__brand">
+        <a class="site-header__link" href="https://www.unboxedconsulting.com/">
+          Unboxed
+        </a>
+      </div>
+    </div>
+
+    <div class="page-content">
+      <%= yield %>
+    </div>
+  </body>
+
+</html>
