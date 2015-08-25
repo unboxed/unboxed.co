@@ -10,6 +10,7 @@ activate :blog do |blog|
   blog.layout = 'blog'
   blog.prefix = 'blog'
   blog.permalink = "{title}.html"
+  blog.new_article_template = 'source/templates/blog.md'
 end
 activate :directory_indexes
 activate :relative_assets
