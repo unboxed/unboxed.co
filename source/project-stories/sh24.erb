@@ -159,7 +159,7 @@ related:
     <ul class="bitesize__list">
       <% current_page.data.highlights.each do |highlight| %>
         <li class="bitesize__list-item">
-          <%= markdown highlight %>
+          <%= render_markdown highlight %>
         </li>
       <% end %>
     </ul>
@@ -275,7 +275,7 @@ related:
       <ul>
         <% current_page.data.statistics.design_and_build.each do |statistic| %>
           <li class="bitesize__list-item">
-            <%= markdown statistic %>
+            <%= render_markdown statistic %>
           </li>
         <% end %>
       </ul>
@@ -289,7 +289,7 @@ related:
       <ul>
         <% current_page.data.statistics.since_launch.each do |statistic| %>
           <li class="bitesize__list-item">
-            <%= markdown statistic %>
+            <%= render_markdown statistic %>
           </li>
         <% end %>
       </ul>
