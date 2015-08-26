@@ -29,6 +29,7 @@
 
     <div class="page-content">
       <%= yield %>
+      <%= partial 'disqus', locals: { disqus_identifier: current_page.data.disqus_identifier } %>
     </div>
   </body>
 
