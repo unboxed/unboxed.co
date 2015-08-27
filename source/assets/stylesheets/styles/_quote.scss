@@ -15,15 +15,12 @@
   position: relative;
   quotes: "“" "”";
 
-  &:before, &:after {
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  }
 
   &:before {
     content: open-quote;
     display: block;
     position: absolute;
-    left: -10px;
+    left: -8px;
   }
 
   &:after {
@@ -33,10 +30,18 @@
   @include breakpoint($mobile-font-breakpoint) {
     font-weight: 400;
     font-size: 4.5vw;
+
+    &:before {
+      left: -8px;
+    }
   }
 
   @include breakpoint($max-mobile-container) {
-    font-size: 1.3em;
+    font-size: 1.35em;
+
+    &:before {
+      left: -10px;
+    }
   }
 
   @include breakpoint($tablet-breakpoint) {
@@ -46,6 +51,10 @@
 
   @include breakpoint($max-tablet-container) {
     font-size: 1.8em;
+
+    &:before {
+      left: -14px;
+    }
   }
 }
 

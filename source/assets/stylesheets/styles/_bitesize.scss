@@ -72,16 +72,6 @@
   @include breakpoint($tablet-breakpoint) {
     @include columns(2, 20px);
   }
-
-  .bitesize__list-item {
-    @include breakpoint($tablet-breakpoint) {
-      padding-bottom: 0;
-
-      &:nth-of-type(2n) {
-        padding-top: 20px;
-      }
-    }
-  }
 }
 
 .bitesize__list-item {

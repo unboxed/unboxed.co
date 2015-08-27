@@ -15,8 +15,12 @@
   max-width: 220px;
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 2em;
+    font-size: 3.68vw;
     max-width: 250px;
     padding-bottom: 4px;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    font-size: 2.2em;
   }
 }
