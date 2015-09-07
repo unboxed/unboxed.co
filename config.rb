@@ -12,6 +12,7 @@ activate :blog do |blog|
   blog.permalink = "{title}.html"
   blog.new_article_template = 'source/templates/blog.md'
 end
+activate :similar, algorithm: :related_blog_articles
 activate :directory_indexes
 activate :relative_assets
 
