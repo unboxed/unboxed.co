@@ -8,12 +8,12 @@ header:
   image_description: "Sexual Health - how do we make it easier to access NHS services?"
 
 introduction:
-  title: "The project"
+  title: "Digital healthcare innovation"
   content: "SH:24 asked Unboxed to help them develop an online STI testing service. The vision was that a self service testing kit, ordered online could tackle long queues at inaccessible sexual health centres and dramatically increase public access to sexual health service."
   image: "/project-stories/sh24/kit-instructions.jpg"
   image_description: "Using a web prototype for instructions"
 
-statistics_title: "Key stats"
+statistics_title: "SH:24 in numbers"
 statistics:
   - "8 weeks to successful prototype"
   - "100+ users involved in design"
@@ -52,7 +52,7 @@ timely_quote:
   source: "Chris Howroyd, SH:24"
 
 sh24_banner:
-  image: "/project-stories/sh24/woman-with-phone.jpg"
+  image: "/project-stories/sh24/sh24-proposition.jpg"
   image_description: "SH:24 banner image"
 
 stakeholder_trust:
@@ -65,9 +65,25 @@ team_quote:
   quote: "A great team with exactly the right mix of skills we needed."
   source: "Chris Howroyd, SH:24"
 
-proposition:
+team:
   image: "/project-stories/sh24/team.png"
   image_description: "The Unboxed team"
+  people:
+    - short_name: "jon"
+      full_name: "Jon Normington"
+      link: "/people/jon-normington"
+    - short_name: "martyn"
+      full_name: "Martyn Evans"
+      link: "/people/martyn-evans"
+    - short_name: "tom"
+      full_name: "Tom Sabin"
+      link: "/people/tom-sabin"
+    - short_name: "kips"
+      full_name: "Kips Davenport"
+      link: "/people/patrick-davenport"
+    - short_name: "neil"
+      full_name: "Neil van Beinum"
+      link: "/people/neil-van-beinum"
 
 conclusion:
   title: "Strong take up proved the concept rapidly"
@@ -220,7 +236,7 @@ related:
   </a>
 
   <script>
-    var $embed = $('<div class="full-video"><iframe id="bloodInstructionVideo" src="https://www.youtube.com/embed/<%= current_page.data.blood_instruction_video.youtube_id %>?rel=0&amp&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></div>');
+    var $embed = $('<div class="full-video"><iframe id="bloodInstructionVideo" src="https://www.youtube.com/embed/<%= current_page.data.blood_instruction_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
     $("#bloodInstructionVideoThumbnail").replaceWith($embed);
   </script>
 
@@ -249,7 +265,9 @@ related:
     </p>
   </blockquote>
 
-  <img class="full-image" <%= retina_src current_page.data.sh24_banner.image %> alt="<%= current_page.data.sh24_banner.image_description %>" />
+  <a href="<%= current_page.data.site.link %>" target="_blank">
+    <img class="full-image" <%= retina_src current_page.data.sh24_banner.image %> alt="<%= current_page.data.sh24_banner.image_description %>" />
+  </a>
 
   <section class="component">
     <div class="component__tile text-tile">
@@ -276,7 +294,17 @@ related:
     </p>
   </blockquote>
 
-  <img class="full-image" <%= retina_src current_page.data.proposition.image %> alt="<%= current_page.data.proposition.image_description %>" />
+  <div class="sh24-team">
+    <h2 class="sh24-team__title">
+      Unboxed team
+    </h2>
+
+    <% current_page.data.team.people.each do |person| %>
+      <a class="sh24-team__headshot-container" href="<%= person.link %>">
+        <img class="sh24-team__headshot sh24-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+      </a>
+    <% end %>
+  </div>
 
   <section class="bitesize">
     <h2 class="bitesize__title">
