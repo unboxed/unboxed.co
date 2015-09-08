@@ -1,0 +1,272 @@
+.blog-header__container {
+  background-color: $header-background-color;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 16px;
+}
+
+.blog-header__article-header {
+  border-bottom: 1px solid;
+  border-color: $article-header-border-color;
+  margin: 0 auto;
+  max-width: $max-tablet-container;
+  padding: 63px 0;
+}
+
+.blog-header__article-title {
+  font-size: 2.1em;
+  font-weight: bold;
+  padding-bottom: 50px;
+  padding-left: 70px;
+}
+
+.blog-header__article-author {
+  color: $author-name-color;
+  display: inline;
+  font-size: 1em;
+  letter-spacing: 0.02em;
+  padding-left: 70px;
+  text-decoration: none;
+}
+
+.blog-header__article-published-date {
+  color: $article-published-date;
+  display: inline;
+  font-size: 0.8em;
+  padding-left: 10px;
+
+  &:before {
+    content: "-";
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+.blog-article {
+  background-color: $article-background-color;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 40px;
+}
+
+.blog-article__container {
+  margin: 0 auto;
+  max-width: $max-tablet-container;
+}
+
+.blog-article__content {
+  padding: 0 75px 60px;
+
+  p,
+  ul,
+  ol {
+    font-weight: 100;
+    line-height: 1.5;
+    padding-bottom: 26px;
+  }
+
+  a {
+    color: $article-link-text-color;
+    font-weight: 400;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  strong {
+    font-weight: 400;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  blockquote {
+    &:before {
+      background-color: $blockquote-white-background-color;
+      content: '';
+      display: block;
+      height: 30px;
+    }
+
+    background-color: $blockquote-background-color;
+    margin: -30px;
+
+    p {
+      padding: 30px 60px;
+    }
+
+    margin-bottom: 26px;
+  }
+
+  img {
+    box-sizing: border-box;
+    padding: 20px 0;
+    width: 100%;
+  }
+
+  li {
+    font-weight: 100;
+    line-height: 1.4;
+    margin-left: 40px;
+  }
+
+  ul li {
+    list-style-type: disc;
+  }
+
+  ol li {
+    list-style-type: decimal;
+  }
+
+  h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding-bottom: 20px;
+  }
+
+  h3 {
+    color: $header-brand-color;
+    font-size: 1.2em;
+    font-weight: 100;
+    line-height: 1.2;
+    padding-bottom: 14px;
+  }
+}
+
+.blog-author {
+  background-color: $author-section-background-color;
+  border-top: 3px solid;
+  border-color: $author-section-border-color;
+  width: 100%;
+}
+
+.blog-author__container {
+  background-color: $author-container-background-color;
+  margin: 0 auto;
+  max-width: 860px;
+}
+
+.blog-author__image {
+  float: left;
+  margin-left: 80px;
+  margin-top: 30px;
+  width: 10%;
+
+  img {
+    display: inline;
+    height: 100px;
+    width: 100px;
+  }
+}
+
+.blog-author__right-section {
+  float: left;
+  margin-left: 70px;
+  margin-top: 30px;
+  width: 60%;
+}
+
+.blog-author__header {
+  padding: 30px;
+}
+
+.blog-author__name {
+  color: $author-name-color;
+  font-size: 0.9em;
+}
+
+.blog-author__bio {
+  font-weight: 100;
+  line-height: 1.5;
+  margin-bottom: 50px;
+  padding-top: 30px;
+}
+
+.blog-author__clear {
+  clear: both;
+}
+
+.blog-comments {
+  background-color: $comments-section-background-color;
+  width: 100%;
+  border-top: 3px solid;
+  border-color: $comments-section-border-color;
+}
+
+.blog-comments__container {
+  background-color: $comments-container-background-color;
+  margin: 0 auto;
+  max-width: 860px;
+}
+
+.disqus-thread {
+  padding: 40px 60px 40px;
+}
+
+@media (max-width: $tablet-breakpoint) {
+
+  .blog-article {
+    margin: 0 auto;
+    padding: 10px 30px;
+  }
+
+  .blog-article__content {
+    padding: 30px;
+  }
+
+  .blog-header__article-title {
+    padding-bottom: 20px;
+    padding-left: 50px;
+    line-height: 1.2em;
+  }
+
+  .blog-header__article-author {
+    padding-left: 50px;
+  }
+
+  .blog-author__image {
+    margin-left: 30px;
+    width: auto;
+  }
+
+  .blog-author__right-section {
+    margin-left: 30px;
+  }
+}
+
+@media (max-width: $mobile-breakpoint) {
+
+  .blog-header__article-header {
+    padding: 50px 10px;
+    line-height: 1.2;
+  }
+
+  .blog-header__article-title {
+    padding-left: 10px;
+  }
+
+  .blog-header__article-author {
+    padding-left: 10px;
+  }
+
+  .blog-author {
+    padding-left: 10px;
+  }
+
+  .blog-author__image {
+    margin-left: 0;
+  }
+
+  .blog-article__content {
+    padding: 10px 30px 30px 5px;
+  }
+
+  .disqus-thread {
+    padding: 10px 30px;
+  }
+}

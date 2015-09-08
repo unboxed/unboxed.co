@@ -18,17 +18,58 @@
     <![endif]-->
   </head>
 
-  <body class="<%= page_classes %>">
-    <div class="site-header">
+    <body class="<%= page_classes %>">
+    <header class="site-header">
       <div class="site-header__brand">
         <a class="site-header__link" href="https://www.unboxedconsulting.com/">
-          Unboxed
+        Unboxed
         </a>
       </div>
-    </div>
+    </header>
 
-    <div class="page-content">
-      <%= yield %>
+    <div class="blog-page">
+      <header class="blog-header__container">
+        <div class="blog-header__article-header">
+          <h1 class="blog-header__article-title">
+            <%= current_page.data.title %>
+          </h1>
+          <a class="blog-header__article-author" href="">
+            <%= current_page.data.author %>
+          </a>
+
+          <p class="blog-header__article-published-date">
+            <span>
+            <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
+          </span>
+          </p>
+        </div>
+      </header>
+
+      <section class="blog-article">
+        <article class="blog-article__container">
+          <div class="blog-article__content">
+            <%= yield %>
+          </div>
+        </article>
+      </section>
+
+      <section class="blog-author">
+        <div class="blog-author__container">
+          <div class="blog-author__image">
+            <img src="<%= data.people.graeme.image %>" alt="blog author"/>
+          </div>
+          <aside class="blog-author__right-section">
+            <p class="blog-author__name">
+              <span><%= data.people.graeme.name %></span>
+            </p>
+            <div class="blog-author__bio">
+              <%= data.people.graeme.bio %>
+            </div>
+          </aside>
+          <div class="blog-author__clear"></div>
+        </div>
+      </section>
+
       <%= partial 'disqus', locals: { disqus_identifier: current_page.data.disqus_identifier } %>
       <ul>
         <% current_article.similar_articles.first(3).each do |article| %>
@@ -36,6 +77,7 @@
         <% end %>
       </ul>
     </div>
+
   </body>
 
 </html>
