@@ -71,13 +71,37 @@
       </section>
 
       <%= partial 'disqus', locals: { disqus_identifier: current_page.data.disqus_identifier } %>
-      <ul>
-        <% current_article.similar_articles.first(3).each do |article| %>
-          <li><%= article.title %></li>
-        <% end %>
-      </ul>
-    </div>
 
+      <section class="blog-related">
+        <p class="blog-related__header">Related</p>
+        <div class="blog-related__container">
+          <% blog.articles.sample(3).each do |article| %>
+            <div class="blog-related__item">
+              <div class="blog-related__item-tag">
+                <div class="blog-related__item-tag-link"><a href="">agile</a></div>
+                <div class="blog-related__item-tag-link"><a href="">rails</a></div>
+              </div>
+              <div class="blog-related__item-date" id="articlePublishedDate" data-date="<%= article.date %>">
+              <span>
+                <%= Time.parse(article.date.to_s).strftime("%e %b %Y") %>
+              </span>
+              </div>
+
+              <script type="text/javascript">
+                date = document.querySelector('#articlePublishedDate').getAttribute('data-date');
+                document.querySelector('#articlePublishedDate span').outerHTML = moment(new Date(date)).fromNow();
+              </script>
+
+              <a class="blog-related__item-title" href="<%= article.url %>">
+                <div class="blog-related__item-text">
+                  <%= article.title %>
+                </div>
+              </a>
+            </div>
+          <% end %>
+        </div>
+      </section>
+    </div>
   </body>
 
 </html>
