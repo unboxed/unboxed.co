@@ -30,6 +30,11 @@
     <div class="page-content">
       <%= yield %>
       <%= partial 'disqus', locals: { disqus_identifier: current_page.data.disqus_identifier } %>
+      <ul>
+        <% current_article.similar_articles.first(3).each do |article| %>
+          <li><%= article.title %></li>
+        <% end %>
+      </ul>
     </div>
   </body>
 
