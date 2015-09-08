@@ -111,11 +111,12 @@
   li {
     font-weight: 100;
     line-height: 1.4;
-    margin-left: 40px;
-  }
+    margin-left: 3px;
 
-  ul li {
-    list-style-type: disc;
+      &:before {
+        content: "•";
+        padding-right: 5px;
+      }
   }
 
   ol li {

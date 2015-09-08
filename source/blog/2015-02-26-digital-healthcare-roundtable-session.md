@@ -60,42 +60,32 @@ With the presentations wrapped up, the session then moved on, gathering ideas fo
 
 ## Discussion 1: Scale
 
- • Planning to scale from the start
-
- • How do you create value from the start for patients?
-
- • Scale and risk
-
- • Is it hard to achieve scale?
+ - Planning to scale from the start
+ - How do you create value from the start for patients?
+ - Scale and risk
+ - Is it hard to achieve scale?
   
 
 ## Discussion 2: Creating space for investigation
 
- • Encouraging ideas and solutions to develop  
-
- • Incubating ideas and solutions  
-
- • Changing the way in which we bring ideas forward  
+ - Encouraging ideas and solutions to develop
+ - Incubating ideas and solutions
+ - Changing the way in which we bring ideas forward
   
 
 ## Discussion 3: Sharing platforms
 
- • Generic platforms vs. customer-built platforms  
-
- • Shared infrastructure  
-
- • Working together reusing infrastructure  
-
- • Code share  
+ - Generic platforms vs. customer-built platforms
+ - Shared infrastructure
+ - Working together reusing infrastructure
+ - Code share
   
 
 ## Discussion 4: Immediate measurable value
 
- • How do we measure value?  
-
- • How do we deliver value quickly to patients and providers?  
-
- • Reducing the data to convince commissioners of value  
+ - How do we measure value?
+ - How do we deliver value quickly to patients and providers?
+ - Reducing the data to convince commissioners of value
   
 
 
