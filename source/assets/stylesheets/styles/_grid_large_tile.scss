@@ -3,7 +3,11 @@
   @include flex-direction(column-reverse);
   background-color: $grid-tile-background-color;
   text-decoration: none;
-  margin: 20px 0 40px;
+  margin: 20px 0;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 40px;
+  }
 }
 
 .grid-large-tile__content {

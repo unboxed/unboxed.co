@@ -71,9 +71,12 @@
   height: 130px;
   object-fit: cover;
   width: 130px;
+  max-width: 130px;
 
   @include breakpoint($tablet-breakpoint) {
+    @include flex(0 0 auto);
     height: 150px;
     width: 100%;
+    max-width: 100%;
   }
 }
