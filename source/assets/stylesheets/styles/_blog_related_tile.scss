@@ -13,7 +13,7 @@
 
 .blog-related__container {
   margin: 0 auto;
-  max-width: 760px;
+  max-width: $blog-container_width;
 }
 
 .blog-related__item {
@@ -84,7 +84,11 @@
 
 @media (max-width: $tablet-breakpoint) {
   .blog-related__header {
-    padding-left: 20px
+    padding-left: 40px
+  }
+  
+  .blog-related__item {
+    padding-left: 40px;
   }
 }
 

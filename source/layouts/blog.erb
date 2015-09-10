@@ -36,12 +36,19 @@
           <a class="blog-header__article-author" href="">
             <%= current_page.data.author %>
           </a>
-
           <p class="blog-header__article-published-date">
             <span>
             <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
           </span>
           </p>
+          <div class="blog-header__article-tags blog-header__article-tag-border">
+          <% data.tags.each do |tag| %>
+            <div class="blog-header__article-tag-link
+              <%= "blog-header__article-tag-active blog-header__article-tag-border-active" if current_article.tags.include?(tag) %>">
+                <a href=""><%= tag %></a>
+              </div>
+            <% end %>
+          </div>
         </div>
       </header>
 
@@ -77,10 +84,13 @@
         <div class="blog-related__container">
           <% blog.articles.sample(3).each do |article| %>
             <div class="blog-related__item">
-              <div class="blog-related__item-tag">
-                <div class="blog-related__item-tag-link"><a href="">agile</a></div>
-                <div class="blog-related__item-tag-link"><a href="">rails</a></div>
-              </div>
+              <% if current_page.data.tags %>
+                <div class="blog-related__item-tag">
+                  <% current_page.data.tags.each do |tag| %>
+                    <div class="blog-related__item-tag-link"><a href=""><%= tag %></a></div>
+                  <% end %>
+                </div>
+              <% end %>
               <div class="blog-related__item-date" id="articlePublishedDate" data-date="<%= article.date %>">
               <span>
                 <%= Time.parse(article.date.to_s).strftime("%e %b %Y") %>
