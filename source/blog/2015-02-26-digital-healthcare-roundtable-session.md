@@ -6,6 +6,7 @@ title: "Digital Healthcare Roundtable Session"
 author: "Graeme McCubbin"
 tags:
 - Agile
+- Innovation
 ---
 
 Wednesday 18th February saw the Digital Healthcare Roundtable Session take place at Unboxed Consulting.  

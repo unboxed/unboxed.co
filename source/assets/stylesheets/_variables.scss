@@ -1,6 +1,6 @@
 $mobile-font-breakpoint: 400px;
 $max-mobile-container: 480px;
-$mobile-breakpoint: 500px;
+$mobile-breakpoint: 550px;
 $tablet-breakpoint: 660px;
 $max-tablet-container: 960px;
 
@@ -62,8 +62,10 @@ $white-tile-type-color: $light-purple;
 
 // Blog article
 
+$blog-container_width: 760px;
+
 $article-header-border-color: $light-gray;
-$article-published-date: $dark-gray;
+$article-published-date: $medium-gray;
 $article-background-color: $white;
 $article-link-text-color: darken($blue, 10%);
 $author-name-color: $medium-purple;
@@ -75,7 +77,7 @@ $comments-section-border-color: $light-gray;
 $comments-container-background-color: $white;
 $header-brand-color: $medium-purple;
 $tag-link-text-color: $medium-purple;
-$tag-paragraph-color: $dark-gray;
+$tag-paragraph-color: $medium-gray;
 $related-article-link: $black;
 $blockquote-background-color: lighten($light-gray, 5%);
 $blockquote-white-background-color: $white;
