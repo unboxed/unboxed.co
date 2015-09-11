@@ -1,3 +1,5 @@
+@import 'variables';
+
 // To support full coloured div
 .grid-large-tile {
   display: block;
@@ -43,4 +45,15 @@
 // To support full coloured div
 .social-icons {
   display: block;
+}
+
+// To set a blog article width
+.blog-header__article-header,
+.blog-article__container,
+.blog-author__container,
+.blog-comments__container,
+.blog-related__container,
+.blog-related__header {
+  margin: 0 auto;
+  max-width: $max-mobile-container;
 }
