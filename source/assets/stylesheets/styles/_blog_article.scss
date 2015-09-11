@@ -91,6 +91,12 @@
     margin-bottom: 26px;
   }
 
+  hr {
+    margin: 20px;
+    border: 0;
+    border-bottom: 3px solid $light-gray;
+  }
+
   pre,
   code {
     background-color: $article-code-background-color;
@@ -156,11 +162,5 @@
     @include breakpoint($max-tablet-container) {
       font-size: 1.2em;
     }
-  }
-
-  hr {
-    margin: 20px;
-    border: 0;
-    border-bottom: 3px solid $light-gray;
   }
 }
