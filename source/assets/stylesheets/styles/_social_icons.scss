@@ -9,24 +9,40 @@
   text-align: right;
 }
 
-.footer-social-icons__icon-container {
+.blog-social-icons {
+  background-color: $white;
+  padding: 0 45px 20px;
+}
+
+.blog-social-icons__container {
+  box-sizing: border-box;
+  text-align: right;
+
+  @include breakpoint($blog-container-width) {
+    max-width: 760px;
+    margin: 0 auto;
+    padding-right: 40px;
+  }
+}
+
+.social-icons__icon-container {
   display: inline-block;
   vertical-align: top;
   margin-left: 8px;
 }
 
-.footer-social-icons__icon {
+.social-icons__icon {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(center);
-  background-color: $footer-social-icon-background-color;
+  background-color: $social-icon-background-color;
   border-radius: 50%;
   height: 28px;
   text-align: center;
   width: 28px;
 }
 
-.footer-social-icons__image {
+.social-icons__image {
   @include align-self(center);
   width: 16px;
 }
