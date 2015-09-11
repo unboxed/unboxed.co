@@ -259,12 +259,9 @@
   clear: both;
 }
 
-.blog-comments {
+.blog-comments__container {
   border-top: 3px solid;
   border-color: $comments-section-border-color;
-}
-
-.blog-comments__container {
   background-color: $comments-container-background-color;
   padding: 30px;
 
