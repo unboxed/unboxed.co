@@ -1,52 +1,48 @@
-.blog-related {
-  background-color: $light-gray;
-  width: 100%;
-}
-
 .blog-related__header {
   font-size: 1.8em;
   letter-spacing: 0.02em;
-  margin: 0 auto;
-  max-width: 860px;
-  padding: 30px 0 30px 150px;
+  padding: 30px 20px;
+
+  @include breakpoint($blog-container-width) {
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: $blog-container-width;
+    padding-left: 30px;
+  }
 }
 
 .blog-related__container {
-  margin: 0 auto;
-  max-width: $blog-container_width;
+  @include breakpoint($blog-container-width) {
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: $blog-container-width;
+  }
 }
 
-.blog-related__item {
+.blog-related__tile {
   background-color: $white;
   box-sizing: border-box;
-  margin: 4px 0;
   min-height: 130px;
-  padding: 16px;
-  width: 100%;
-
-  &:before {
-    background-color: $white;
-    height: 0px;
-  }
+  padding: 20px;
 
   &:hover {
     background-color: darken($white, 5%);
   }
 }
 
-.blog-related__item-text {
+.blog-related__text {
   color: lighten($black, 5%);
   font-weight: 100;
   padding-top: 20px;
 }
 
-.blog-related__item-date {
+.blog-related__date {
   color: $dark-gray;
-  font-size: 0.8em;
   display: inline;
+  font-size: 0.8em;
 }
 
-.blog-related__item-title {
+.blog-related__title {
   color: $related-article-link;
   font-size: 1.2em;
   font-weight: 100;
@@ -54,8 +50,7 @@
   text-decoration: none;
 }
 
-
-.blog-related__item-tag {
+.blog-related__tag {
   display: inline-block;
 
   &:after {
@@ -65,11 +60,11 @@
   }
 }
 
-.blog-related__item-tag-link {
-  display: inline-block;
+.blog-related__tag-link {
   background-color: lighten($light-purple, 55%);
   border: 1px solid;
   border-color: darken($light-gray, 5%);
+  display: inline-block;
   padding-left: 10px;
   padding-right: 10px;
 
@@ -79,23 +74,5 @@
     line-height: 2em;
     text-decoration: none;
     text-transform: uppercase;
-  }
-}
-
-@media (max-width: $tablet-breakpoint) {
-  .blog-related__header {
-    padding-left: 40px
-  }
-  
-  .blog-related__item {
-    padding-left: 40px;
-  }
-}
-
-@media (max-width: $mobile-breakpoint) {
-  .blog-related__item {
-    border: 1px solid $light-gray;
-    margin: 0;
-    width: 100%;
   }
 }
