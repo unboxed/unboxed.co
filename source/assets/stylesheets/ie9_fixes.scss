@@ -49,12 +49,6 @@
   }
 }
 
-// Place icons in the middle of its container
-.footer-social_icons__icon {
-  padding-top: 6px;
-  height: 22px;
-}
-
 // To support full coloured div
 .related-tile {
   display: block;
@@ -63,7 +57,19 @@
 // To support full coloured div
 .footer-social-icons {
   display: block;
+  clear: left;
 }
+
+// Place icons in the middle of its container
+.footer-social_icons__icon {
+  padding-top: 6px;
+  height: 22px;
+}
+
+.footer-social-icons__image {
+  padding-top: 6px;
+}
+
 
 .header__case-study {
   margin-top: 60px;
