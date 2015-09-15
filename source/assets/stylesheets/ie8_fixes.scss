@@ -57,3 +57,12 @@
   margin: 0 auto;
   max-width: $max-mobile-container;
 }
+
+// To set the correct padding on 480px width
+.blog-comments__container {
+  padding: 0;
+}
+
+.disqus-thread {
+  padding: 40px 60px 40px;
+}
