@@ -2,10 +2,38 @@
   @include flexbox;
   text-decoration: none;
 
+  &:hover .related-tile__text-content {
+    background-color: darken($white-tile-background-color, 6%);
+  }
+
+  &:first-of-type {
+    .related-tile__text-content {
+      border-bottom: 0;
+    }
+
+    @include breakpoint(max-width $tablet-breakpoint - 1) {
+      @include flex-direction(column-reverse);
+
+      .related-tile__image {
+        @include flex(0 0 auto);
+        width: 100%;
+        height: 240px;
+      }
+
+      .related-tile__title {
+        font-size: 1.5em;
+      }
+    }
+  }
+
   @include breakpoint($tablet-breakpoint) {
     @include flex-direction(column-reverse);
     float: left;
     width: 33.33%;
+
+    &:last-of-type .related-tile__text-content {
+      border-right: 0;
+    }
   }
 }
 
@@ -22,41 +50,26 @@
   }
 }
 
-.related-tile:first-of-type {
-  @include breakpoint(max-width $tablet-breakpoint - 1) {
-    @include flex-direction(column-reverse);
-
-    .related-tile__image {
-      @include flex(0 0 auto);
-      width: 100%;
-      height: 240px;
-    }
-
-    .related-tile__title {
-      font-size: 1.5em;
-    }
-
-    .related-tile__author {
-      font-weight: 600;
-    }
-  }
-}
-
 .related-tile__text-content {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(space-between);
+  background-color: $white-tile-background-color;
+  border-bottom: 1px solid $light-gray;
   box-sizing: border-box;
   padding: 16px;
   min-height: 130px;
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 190px;
+    border-bottom: none;
+    border-right: 1px solid $light-gray;
+    min-height: 160px;
   }
 }
 
 .related-tile__type {
+  color: $white-tile-type-color;
   font-size: .8em;
   font-weight: 200;
   line-height: 1.3;
@@ -69,6 +82,7 @@
 }
 
 .related-tile__title {
+  color: $white-tile-text-color;
   font-size: 1em;
   font-weight: 100;
   line-height: 1.3;
@@ -87,88 +101,5 @@
 
   @include breakpoint($max-tablet-container) {
     font-size: 1.3em;
-  }
-}
-
-.related-tile__author {
-  font-size: .8em;
-  font-weight: 100;
-  line-height: 1.3;
-}
-
-.related-tile--white {
-  .related-tile__text-content {
-    background-color: $white-tile-background-color;
-  }
-
-  .related-tile__type {
-    color: $white-tile-type-color;
-  }
-
-  .related-tile__title {
-    color: $white-tile-text-color;
-  }
-
-  .related-tile__author {
-    color: $white-tile-text-color;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    &:hover .related-tile__text-content {
-      background-color: darken($white-tile-background-color, 6%);
-    }
-  }
-}
-
-.related-tile--blue {
-  .related-tile__text-content {
-    background-color: $blue-tile-background-color;
-  }
-
-  .related-tile__type {
-    color: $blue-tile-type-color;
-  }
-
-  .related-tile__title {
-    color: $blue-tile-text-color;
-    font-weight: 200;
-  }
-
-  .related-tile__author {
-    color: $blue-tile-text-color;
-
-    font-weight: 200;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    &:hover .related-tile__text-content {
-      background-color: darken($blue-tile-background-color, 6%);
-    }
-  }
-}
-
-.related-tile--orange {
-  .related-tile__text-content {
-    background-color: $orange-tile-background-color;
-  }
-
-  .related-tile__type {
-    color: $orange-tile-type-color;
-  }
-
-  .related-tile__title {
-    color: $orange-tile-text-color;
-    font-weight: 200;
-  }
-
-  .related-tile__author {
-    color: $orange-tile-text-color;
-    font-weight: 200;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    &:hover .related-tile__text-content {
-      background-color: darken($orange-tile-background-color, 6%);
-    }
   }
 }

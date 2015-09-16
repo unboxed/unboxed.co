@@ -36,16 +36,3 @@ after_build do |builder|
   builder.source_paths << File.dirname(__FILE__)
   builder.copy_file('data/_redirects', 'build/_redirects')
 end
-
-activate :deploy do |deploy|
-  deploy.method = :git
-  deploy.branch = 'gh-pages'
-
-  commit_message = 'Travis deployment'
-
-  if ENV["TRAVIS_BUILD_NUMBER"] then
-    commit_message += " (build \##{ENV["TRAVIS_BUILD_NUMBER"]})"
-  end
-
-  deploy.commit_message = commit_message
-end

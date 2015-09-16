@@ -1,21 +1,10 @@
 .full-image {
   display: block;
-  min-height: 200px;
-  height: 200px;
-  height: 47vw;
-  object-fit: cover;
+  // min-height: 200px;
+  // object-fit: cover;
   width: 100%;
+}
 
-  @include breakpoint($max-mobile-container) {
-    height: 226px;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 320px;
-    height: 47vw;
-  }
-
-  @include breakpoint($max-tablet-container) {
-    height: 450px;
-  }
+.full-image--top {
+  object-position: top;
 }
