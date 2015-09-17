@@ -1,21 +1,21 @@
 .blog-related__header {
   font-size: 1.8em;
   letter-spacing: 0.02em;
-  padding: 30px 20px;
+  padding: 30px 40px;
 
-  @include breakpoint($blog-container-width) {
+  @include breakpoint($max-tablet-container) {
     box-sizing: border-box;
     margin: 0 auto;
-    max-width: $blog-container-width;
-    padding-left: 30px;
+    max-width: $max-tablet-container;
+    padding-left: 40px;
   }
 }
 
 .blog-related__container {
-  @include breakpoint($blog-container-width) {
+  @include breakpoint($max-tablet-container) {
     box-sizing: border-box;
     margin: 0 auto;
-    max-width: $blog-container-width;
+    max-width: $max-tablet-container;
   }
 }
 
@@ -23,7 +23,7 @@
   background-color: $white;
   box-sizing: border-box;
   min-height: 130px;
-  padding: 20px;
+  padding: 40px;
 
   &:hover {
     background-color: darken($white, 5%);

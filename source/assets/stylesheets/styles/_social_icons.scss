@@ -18,8 +18,8 @@
   box-sizing: border-box;
   text-align: right;
 
-  @include breakpoint($blog-container-width) {
-    max-width: 760px;
+  @include breakpoint($max-tablet-container) {
+    max-width: $max-tablet-container;
     margin: 0 auto;
     padding-right: 40px;
   }
