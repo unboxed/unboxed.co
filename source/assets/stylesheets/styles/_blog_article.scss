@@ -1,20 +1,32 @@
-.blog-header__container {
-  background-color: $header-background-color;
-  box-sizing: border-box;
-  padding: 100px 30px 30px;
-  width: 100%;
+.blog-article {
+  background-color: $article-background-color;
 }
 
-.blog-header__article-header {
-  @include breakpoint($max-tablet-container) {
-    box-sizing: border-box;
-    margin: 0 auto;
+.blog-article__container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: $tablet-breakpoint;
+
+  @include breakpoint($tablet-breakpoint) {
     max-width: $max-tablet-container;
-    padding: 40px 0;
+    padding-bottom: 30px;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    max-width: $max-tablet-container;
   }
 }
 
-.blog-header__article-title {
+.blog-header{
+  box-sizing: border-box;
+  padding: 100px 30px 30px;
+
+  @include breakpoint($max-tablet-container) {
+    padding-bottom: 60px;
+  }
+}
+
+.blog-header__title {
   font-size: 2.1em;
   font-weight: bold;
   line-height: 1.3em;
@@ -26,10 +38,9 @@
   }
 }
 
-.blog-header__article-author {
+.blog-header__author {
   color: $author-name-color;
   display: inline;
-  font-size: 1em;
   letter-spacing: 0.02em;
   padding-left: 2px;
   text-decoration: none;
@@ -39,7 +50,7 @@
   }
 }
 
-.blog-header__article-published-date {
+.blog-header__published-date {
   color: $article-published-date;
   display: inline;
   font-size: 0.8em;
@@ -51,7 +62,7 @@
   }
 }
 
-.blog-header__article-tags {
+.blog-header__tags {
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
@@ -60,14 +71,14 @@
   }
 }
 
-.blog-header__article-tag-link {
+.blog-header__tag-link {
   @include breakpoint($tablet-breakpoint) {
     display: inline-block;
     padding-left: 1.1em;
     padding-right: 1.1em;
 
     a {
-      color: $medium-gray;
+      color: $tag-paragraph-color;
       line-height: 3em;
       text-decoration: none;
     }
@@ -83,54 +94,34 @@
   }
 }
 
-.blog-header__article-tag-active {
+.blog-header__tag-active {
   @include breakpoint($tablet-breakpoint) {
     a {
-      color: $light-purple;
+      color: $tag-link-active-color;
     }
   }
 }
 
-.blog-header__article-tag-border {
+.blog-header__tag-border {
   @include breakpoint($tablet-breakpoint) {
     border-bottom: 2px solid;
-    border-color: darken($light-gray, 10%);
+    border-color: $tag-link-border-color;
     position: relative;
   }
 }
 
-.blog-header__article-tag-border-active {
+.blog-header__tag-border-active {
   @include breakpoint($tablet-breakpoint) {
     border-bottom: 3px solid;
-    border-color: $medium-purple;
+    border-color: $tag-link-border-active-color;
     position: relative;
     top: 2px;
   }
 }
 
-
-.blog-article {
-  background-color: $article-background-color;
+.blog-content {
   box-sizing: border-box;
-  width: 100%;
-}
-
-.blog-article__container {
   padding: 0 30px 10px;
-
-  @include breakpoint($tablet-breakpoint) {
-    padding-top: 15px;
-  }
-
-  @include breakpoint($max-tablet-container) {
-    margin: 0 auto;
-    max-width: $max-tablet-container;
-    padding-bottom: 50px;
-  }
-}
-
-.blog-article__content {
-  box-sizing: border-box;
 
   p,
   ul,
@@ -218,18 +209,9 @@
 }
 
 .blog-author {
-  background-color: $author-section-background-color;
+  background-color: $author-container-background-color;
   border-top: 3px solid;
   border-color: $author-section-border-color;
-}
-
-.blog-author__container {
-  background-color: $author-container-background-color;
-
-  @include breakpoint($max-tablet-container) {
-    max-width: $max-tablet-container;
-    margin: 0 auto;
-  }
 }
 
 .blog-author__image {
@@ -248,7 +230,6 @@
     margin-left: 40px;
     margin-top: 50px;
     text-align: center;
-
     width: 20%;
   }
 
@@ -287,7 +268,7 @@
   clear: both;
 }
 
-.blog-comments__container {
+.blog-comments {
   border-top: 3px solid;
   border-color: $comments-section-border-color;
   background-color: $comments-container-background-color;
@@ -300,7 +281,7 @@
   }
 }
 
-.disqus-thread {
+.blog-comments__container {
   @include breakpoint($max-tablet-container) {
     padding: 40px 60px 40px;
   }
