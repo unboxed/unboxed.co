@@ -18,7 +18,7 @@
     <![endif]-->
   </head>
 
-    <body class="<%= page_classes %>">
+  <body class="<%= page_classes %>">
     <header class="site-header">
       <div class="site-header__brand">
         <a class="site-header__link" href="https://www.unboxedconsulting.com/">
@@ -27,41 +27,36 @@
       </div>
     </header>
 
-    <div class="blog-page">
-      <header class="blog-header__container">
-        <div class="blog-header__article-header">
-          <h1 class="blog-header__article-title">
+    <div class="blog-article">
+      <div class="blog-article__container">
+
+        <section class="blog-header">
+          <h1 class="blog-header__title">
             <%= current_page.data.title %>
           </h1>
-          <a class="blog-header__article-author" href="">
+          <a class="blog-header__author" href="">
             <%= current_page.data.author %>
           </a>
-          <p class="blog-header__article-published-date">
+          <p class="blog-header__published-date">
             <span>
-            <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
-          </span>
+              <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
+            </span>
           </p>
-          <div class="blog-header__article-tags blog-header__article-tag-border">
+          <div class="blog-header__tags blog-header__tag-border">
           <% data.tags.each do |tag| %>
-            <div class="blog-header__article-tag-link
-              <%= "blog-header__article-tag-active blog-header__article-tag-border-active" if current_article.tags.include?(tag) %>">
+            <div class="blog-header__tag-link
+              <%= "blog-header__tag-active blog-header__tag-border-active" if current_article.tags.include?(tag) %>">
                 <a href=""><%= tag %></a>
               </div>
             <% end %>
           </div>
-        </div>
-      </header>
+        </section>
 
-      <section class="blog-article">
-        <article class="blog-article__container">
-          <div class="blog-article__content">
-            <%= yield %>
-          </div>
-        </article>
-      </section>
+        <section class="blog-content">
+          <%= yield %>
+        </section>
 
-      <section class="blog-social-icons">
-        <div class="blog-social-icons__container">
+        <section class="blog-social-icons">
           <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
             <div class="social-icons__icon">
               <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
@@ -77,11 +72,13 @@
               <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
             </div>
           </a>
-        </div>
-      </section>
+        </section>
+      </div>
+    </div>
+
+    <div class="blog-article__container">
 
       <section class="blog-author">
-        <div class="blog-author__container">
           <div class="blog-author__image">
             <img src="<%= data.people.graeme.image %>" alt="blog author"/>
           </div>
@@ -94,7 +91,6 @@
             </div>
           </aside>
           <div class="blog-author__clear"></div>
-        </div>
       </section>
 
       <%= partial 'disqus', locals: { disqus_identifier: current_page.data.disqus_identifier } %>
@@ -102,8 +98,7 @@
       <% if current_article.similar_articles.any? %>
         <section class="blog-related">
           <p class="blog-related__header">Related</p>
-          <div class="blog-related__container">
-            <% current_article.similar_articles.first(3).each do |article| %>
+            <% blog.articles.sample(3).each do |article| %>
               <div class="blog-related__tile">
                 <% if current_page.data.tags %>
                   <div class="blog-related__tag">
@@ -113,9 +108,9 @@
                   </div>
                 <% end %>
                 <div class="blog-related__date" id="articlePublishedDate" data-date="<%= article.date %>">
-                <span>
-                  <%= Time.parse(article.date.to_s).strftime("%e %b %Y") %>
-                </span>
+                  <span>
+                    <%= Time.parse(article.date.to_s).strftime("%e %b %Y") %>
+                  </span>
                 </div>
 
                 <script type="text/javascript">
@@ -130,7 +125,6 @@
                 </a>
               </div>
             <% end %>
-          </div>
         </section>
       <% end %>
     </div>

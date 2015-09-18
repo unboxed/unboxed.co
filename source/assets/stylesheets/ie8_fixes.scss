@@ -47,22 +47,8 @@
   display: block;
 }
 
-// To set a blog article width
-.blog-header__article-header,
-.blog-article__container,
-.blog-author__container,
-.blog-comments__container,
-.blog-related__container,
-.blog-related__header {
+//To set a blog article width to match a project story
+.blog-article__container {
   margin: 0 auto;
   max-width: $max-mobile-container;
-}
-
-// To set the correct padding on 480px width
-.blog-comments__container {
-  padding: 0;
-}
-
-.disqus-thread {
-  padding: 40px 60px 40px;
 }
