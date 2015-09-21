@@ -29,6 +29,13 @@ helpers do
   def render_markdown(text)
     Markdown.new(text).to_html
   end
+
+  def get_author(article_author)
+    article_author = article_author.downcase
+    result = data.authors.select { |author| author.keys.first == article_author }
+    raise ArgumentError unless result.any?
+    result.first
+  end
 end
 
 ignore '/templates/*'

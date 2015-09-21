@@ -79,15 +79,16 @@
     <div class="blog-article__container">
 
       <section class="blog-author">
+        <% author = get_author(current_page.data.author) %>
         <div class="blog-author__image">
-          <img src="<%= data.people.graeme.image %>" alt="<%= current_page.data.author %>"/>
+          <img src="<%= author.image %>" alt="<%= current_page.data.author %>"/>
         </div>
         <aside class="blog-author__right-section">
           <p class="blog-author__name">
-            <span><%= data.people.graeme.name %></span>
+            <span><%= author.name %></span>
           </p>
           <div class="blog-author__bio">
-            <%= data.people.graeme.bio %>
+            <%= author.bio %>
           </div>
         </aside>
       </section>
