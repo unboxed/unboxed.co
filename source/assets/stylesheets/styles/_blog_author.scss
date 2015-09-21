@@ -1,0 +1,59 @@
+.blog-author {
+  background-color: $author-container-background-color;
+  border-top: 3px solid;
+  border-color: $author-section-border-color;
+}
+
+.blog-author__image {
+  float: left;
+  margin-left: 15px;
+  margin-top: 40px;
+  width: 20%;
+
+  img {
+    display: inline;
+    height: 152px;
+    width: 80px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-left: 40px;
+    margin-top: 50px;
+    text-align: center;
+    width: 20%;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    margin-left: 30px;
+    margin-top: 40px;
+    text-align: center;
+    width: 15%;
+  }
+}
+
+.blog-author__right-section {
+  float: left;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 65%;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-top: 50px;
+  }
+}
+
+.blog-author__name {
+  color: $author-name-color;
+  font-size: 0.9em;
+  padding-bottom: 30px;
+}
+
+.blog-author__bio {
+  font-weight: 100;
+  line-height: 1.5;
+}
+
+.blog-author__clear {
+  clear: both;
+}
