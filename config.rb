@@ -31,10 +31,8 @@ helpers do
   end
 
   def get_author(article_author)
-    article_author = article_author.downcase
-    result = data.authors.select { |author| author.keys.first == article_author }
-    raise ArgumentError unless result.any?
-    result.first
+    author = data.authors.detect { |author| author["name"].downcase == article_author.downcase }
+    author.nil? ? raise('No author found') : author
   end
 end
 
