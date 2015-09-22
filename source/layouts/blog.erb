@@ -46,7 +46,7 @@
           <% data.tags.each do |tag| %>
             <div class="blog-header__tag-link
               <%= "blog-header__tag-active blog-header__tag-border-active" if current_article.tags.include?(tag) %>">
-                <a href=""><%= tag %></a>
+                <span><%= tag %></span>
               </div>
             <% end %>
           </div>
