@@ -34,9 +34,9 @@
           <h1 class="blog-header__title">
             <%= current_page.data.title %>
           </h1>
-          <a class="blog-header__author" href="">
+          <span class="blog-header__author">
             <%= current_page.data.author %>
-          </a>
+          </span>
           <p class="blog-header__published-date">
             <span>
               <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
@@ -118,11 +118,11 @@
                   document.querySelector('#articlePublishedDate span').outerHTML = moment(new Date(date)).fromNow();
                 </script>
 
-                <a class="blog-related__title" href="<%= article.url %>">
+                <div class="blog-related__title">
                   <div class="blog-related__text">
                     <%= article.title %>
                   </div>
-                </a>
+                </div>
               </div>
             <% end %>
         </section>
