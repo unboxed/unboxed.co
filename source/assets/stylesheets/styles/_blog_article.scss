@@ -33,6 +33,18 @@
     }
   }
 
+  h4,
+  h5,
+  h6 {
+    font-weight: bold;
+    line-height: 1.6;
+    padding-bottom: 26px;
+
+    @include breakpoint($max-tablet-container) {
+      font-size: 1.2em;
+    }
+  }
+
   a {
     color: $article-link-text-color;
     font-weight: 400;
@@ -88,6 +100,17 @@
 
   ol li {
     list-style-type: decimal;
+  }
+
+  h1 {
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-bottom: 30px;
+    
+    @include breakpoint($max-mobile-container) {
+      padding-top: 30px;
+    }
   }
 
   h2 {
