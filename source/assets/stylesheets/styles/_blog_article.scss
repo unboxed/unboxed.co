@@ -1,0 +1,130 @@
+.blog-article {
+  background-color: $article-background-color;
+}
+
+.blog-article__container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: $tablet-breakpoint;
+
+  @include breakpoint($tablet-breakpoint) {
+    max-width: $max-tablet-container;
+    padding-bottom: 30px;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    max-width: $max-tablet-container;
+  }
+}
+
+.blog-content {
+  box-sizing: border-box;
+  padding: 0 30px 10px;
+
+  p,
+  ul,
+  ol {
+    font-weight: 100;
+    line-height: 1.6;
+    padding-bottom: 26px;
+
+    @include breakpoint($max-tablet-container) {
+      font-size: 1.2em;
+    }
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-weight: bold;
+    line-height: 1.6;
+    padding-bottom: 26px;
+
+    @include breakpoint($max-tablet-container) {
+      font-size: 1.2em;
+    }
+  }
+
+  a {
+    color: $article-link-text-color;
+    font-weight: 400;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  strong {
+    font-weight: 400;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  blockquote {
+    &:before {
+      background-color: $blockquote-white-background-color;
+      content: '';
+      display: block;
+      height: 30px;
+    }
+
+    background-color: $blockquote-background-color;
+    margin: -30px;
+
+    p {
+      padding: 30px 60px;
+    }
+
+    margin-bottom: 26px;
+  }
+
+  img {
+    box-sizing: border-box;
+    padding: 20px 0;
+    width: 100%;
+  }
+
+  li {
+    font-weight: 100;
+    line-height: 1.4;
+    margin-left: 3px;
+
+      &:before {
+        content: "•";
+        padding-right: 5px;
+      }
+  }
+
+  ol li {
+    list-style-type: decimal;
+  }
+
+  h1 {
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-bottom: 30px;
+    
+    @include breakpoint($max-mobile-container) {
+      padding-top: 30px;
+    }
+  }
+
+  h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding-bottom: 20px;
+  }
+
+  h3 {
+    color: $header-brand-color;
+    font-size: 1.2em;
+    font-weight: 100;
+    line-height: 1.2;
+    padding-bottom: 14px;
+  }
+}

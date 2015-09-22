@@ -1,0 +1,22 @@
+.blog-comments {
+  border-top: 3px solid;
+  border-color: $comments-section-border-color;
+  background-color: $comments-container-background-color;
+  padding: 30px;
+
+  a {
+    color: $disqus-anchor-color;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    margin: 0 auto;
+    max-width: $max-tablet-container;
+    padding: 0;
+  }
+}
+
+.blog-comments__container {
+  @include breakpoint($max-tablet-container) {
+    padding: 40px 60px 40px;
+  }
+}

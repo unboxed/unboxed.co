@@ -29,6 +29,11 @@ helpers do
   def render_markdown(text)
     Markdown.new(text).to_html
   end
+
+  def get_author(article_author)
+    author = data.authors.detect { |author| author["name"].downcase == article_author.downcase }
+    author.nil? ? raise('No author found') : author
+  end
 end
 
 ignore '/templates/*'
