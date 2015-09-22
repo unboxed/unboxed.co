@@ -4,6 +4,10 @@
   background-color: $comments-container-background-color;
   padding: 30px;
 
+  a {
+    color: $disqus-anchor-color;
+  }
+
   @include breakpoint($max-tablet-container) {
     margin: 0 auto;
     max-width: $max-tablet-container;
