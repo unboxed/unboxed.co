@@ -6,7 +6,7 @@
 
 .blog-author__image {
   float: left;
-  margin-left: 15px;
+  margin-left: 8px;
   margin-top: 30px;
   width: 20%;
 
@@ -14,6 +14,10 @@
     display: inline;
     height: 152px;
     width: 80px;
+  }
+
+  @include breakpoint($mobile-font-breakpoint) {
+    margin-left: 15px;
   }
 
   @include breakpoint($tablet-breakpoint) {
@@ -28,10 +32,14 @@
 }
 
 .blog-author__right-section {
-  margin-left: 110px;
+  margin-left: 96px;
   margin-top: 30px;
   padding-bottom: 30px;
   width: 65%;
+
+  @include breakpoint($mobile-font-breakpoint) {
+    margin-left: 110px;
+  }
 
   @include breakpoint($tablet-breakpoint) {
     margin-left: 150px;
