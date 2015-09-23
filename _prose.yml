@@ -19,11 +19,6 @@ prose:
           element: 'hidden'
           value: CURRENT_DATETIME
 
-      - name: 'disqus_identifier'
-        field:
-          element: 'hidden'
-          value: UUID
-
       - name: 'published'
         field:
           element: 'hidden'

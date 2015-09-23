@@ -93,7 +93,7 @@
         </aside>
       </section>
 
-      <%= partial 'disqus', locals: { disqus_identifier: current_page.data.disqus_identifier } %>
+      <%= partial 'disqus', locals: { article_slug: current_page.slug } %>
 
       <% if current_article.similar_articles.any? %>
         <section class="blog-related">
