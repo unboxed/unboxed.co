@@ -28,8 +28,13 @@
 
 .blog-related__date {
   color: $related-article-date-color;
-  display: inline;
   font-size: 0.8em;
+  padding-top: 10px;
+  padding-left: 3px;
+
+  @include breakpoint($max-tablet-container) {
+    display: inline;
+  }
 }
 
 .blog-related__title {
@@ -43,10 +48,12 @@
 .blog-related__tag {
   display: inline-block;
 
-  &:after {
-    color: $related-article-date-color;
-    content: "-";
-    padding-left: 3px;
+  @include breakpoint($max-tablet-container) {
+    &:after {
+      color: $related-article-date-color;
+      content: "-";
+      padding-left: 3px;
+    }
   }
 }
 
@@ -55,6 +62,7 @@
   border: 1px solid;
   border-color: $related-article-tag-border;
   display: inline-block;
+  margin-bottom: 5px;
   padding-left: 10px;
   padding-right: 10px;
 
