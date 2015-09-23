@@ -23,23 +23,27 @@
   color: $author-name-color;
   display: inline;
   letter-spacing: 0.02em;
-  padding-left: 2px;
   text-decoration: none;
 
   @include breakpoint($max-tablet-container) {
     font-size: 1.1em;
+    padding-left: 3px;
   }
 }
 
 .blog-header__published-date {
   color: $article-published-date;
-  display: inline;
   font-size: 0.8em;
+  padding-top: 10px;
 
-  &:before {
-    content: "-";
-    padding-left: 5px;
-    padding-right: 5px;
+  @include breakpoint($max-mobile-container) {
+    display: inline;
+
+    &:before {
+      content: "-";
+      padding-left: 5px;
+      padding-right: 5px;
+    }
   }
 }
 
