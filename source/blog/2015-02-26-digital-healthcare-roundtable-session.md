@@ -1,12 +1,10 @@
 ---
-layout: "blog"
-date: "2015-02-26 13:04:00 UTC"
+layout: 'blog'
+date: '2015-02-26 13:04:00 UTC'
 published: true
-title: "Digital Healthcare Roundtable Session"
-author: "Graeme McCubbin"
-tags:
-- Agile
-- Innovation
+title: 'Digital Healthcare Roundtable Session'
+author: 'Graeme McCubbin'
+
 ---
 
 Wednesday 18th February saw the Digital Healthcare Roundtable Session take place at Unboxed Consulting.
