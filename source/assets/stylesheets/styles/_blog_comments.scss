@@ -17,6 +17,6 @@
 
 .blog-comments__container {
   @include breakpoint($max-tablet-container) {
-    padding: 40px 60px 40px;
+    padding: 40px;
   }
 }
