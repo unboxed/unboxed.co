@@ -36,9 +36,9 @@
   h4,
   h5,
   h6 {
-    font-weight: bold;
+    font-weight: 500;
     line-height: 1.6;
-    padding-bottom: 26px;
+    padding-bottom: 20px;
 
     @include breakpoint($max-tablet-container) {
       font-size: 1.2em;
@@ -121,10 +121,9 @@
   }
 
   h3 {
-    color: $header-brand-color;
     font-size: 1.2em;
-    font-weight: 100;
+    font-weight: bold;
     line-height: 1.2;
-    padding-bottom: 14px;
+    padding-bottom: 20px;
   }
 }
