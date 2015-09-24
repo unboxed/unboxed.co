@@ -3,6 +3,8 @@ layout: 'blog'
 title: 'Media Roundtable Session - 20th May'
 date: '2015-05-21 16:00:00 UTC'
 author: 'Graeme McCubbin'
+tags:
+  - Agile
 
 ---
 

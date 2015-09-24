@@ -3,7 +3,8 @@ layout: 'blog'
 title: 'Webinar: Speed up problem and customer validation'
 date: '2015-07-02 17:15:00 UTC'
 author: 'Graeme McCubbin'
-
+tags:
+  - Agile
 ---
 
 [Martyn Evans](https://www.unboxedconsulting.com/people/martyn-evans) hosted the second in our [SpeedAgile](https://www.unboxedconsulting.com/news/the-speed-agile-webinar-series) webinar series: _Speed up problem and customer validation_ In this session, Martyn explored how to unlock development by quickly and deeply understand:
