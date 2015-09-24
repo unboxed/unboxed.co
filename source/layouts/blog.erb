@@ -100,9 +100,9 @@
           <p class="blog-related__header">Related</p>
             <% blog.articles.sample(3).each do |article| %>
               <div class="blog-related__tile">
-                <% if current_page.data.tags %>
+                <% if article.data.tags %>
                   <div class="blog-related__tag">
-                    <% current_page.data.tags.each do |tag| %>
+                    <% article.data.tags.each do |tag| %>
                       <div class="blog-related__tag-link"><a href=""><%= tag %></a></div>
                     <% end %>
                   </div>
@@ -118,11 +118,11 @@
                   document.querySelector('#articlePublishedDate span').outerHTML = moment(new Date(date)).fromNow();
                 </script>
 
-                <div class="blog-related__title">
+                <a class="blog-related__title" href="<%= article.url %>">
                   <div class="blog-related__text">
                     <%= article.title %>
                   </div>
-                </div>
+                </a>
               </div>
             <% end %>
         </section>
