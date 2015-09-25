@@ -49,6 +49,7 @@
     color: $article-link-text-color;
     font-weight: 400;
     text-decoration: none;
+    word-wrap: break-word;
 
     &:hover {
       text-decoration: underline;
