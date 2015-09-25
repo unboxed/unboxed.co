@@ -33,6 +33,14 @@
     }
   }
 
+  ol {
+    padding-left: 25px;
+
+      @include breakpoint($max-mobile-container) {
+        padding-left: 30px;
+      }
+  }
+
   h4,
   h5,
   h6 {
@@ -88,7 +96,7 @@
     width: 100%;
   }
 
-  li {
+  ul li {
     font-weight: 100;
     line-height: 1.4;
     margin-left: 3px;
