@@ -26,7 +26,7 @@
   ol {
     font-weight: 100;
     line-height: 1.6;
-    padding-bottom: 26px;
+    margin-bottom: 26px;
 
     @include breakpoint($max-tablet-container) {
       font-size: 1.2em;
