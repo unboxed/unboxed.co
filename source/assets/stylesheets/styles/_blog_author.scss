@@ -29,6 +29,7 @@
 
   @include breakpoint($max-tablet-container) {
     margin-left: 100px;
+    margin-top: 48px;
     text-align: center;
   }
 }
