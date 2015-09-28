@@ -59,10 +59,6 @@
 .blog-author__right-section-expanded {
   margin-left: 30px;
   width: 80%;
-
-  @include breakpoint($max-tablet-container) {
-    margin-left: 60px;
-  }
 }
 
 .blog-author__name {
