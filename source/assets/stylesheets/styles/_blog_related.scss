@@ -2,11 +2,7 @@
   color: $related-article-header-color;
   font-size: 1.8em;
   letter-spacing: 0.02em;
-  padding: 30px 40px;
-
-  @include breakpoint($max-tablet-container) {
-    padding-left: 40px;
-  }
+  padding: 30px;
 }
 
 .blog-related__tile {
@@ -14,7 +10,7 @@
   box-sizing: border-box;
   margin-bottom: 3px;
   min-height: 130px;
-  padding: 40px;
+  padding: 40px 30px;
 
   &:hover {
     background-color: darken($related-article-tile-color, 5%);
