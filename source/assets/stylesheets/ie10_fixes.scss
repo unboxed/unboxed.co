@@ -15,3 +15,10 @@
     margin-top: 0;
   }
 }
+
+// Fix too extended links on mobile - IE doesn't break nested elements
+.blog-content {
+  p {
+    -ms-word-wrap: break-word;
+  }
+}
