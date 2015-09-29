@@ -24,10 +24,12 @@
   @include breakpoint($tablet-breakpoint) {
     margin-left: 40px;
     text-align: center;
+    width: 15%;
   }
 
   @include breakpoint($max-tablet-container) {
     margin-left: 100px;
+    margin-top: 48px;
     text-align: center;
   }
 }
@@ -39,19 +41,24 @@
   width: 65%;
 
   @include breakpoint($mobile-font-breakpoint) {
-    margin-left: 110px;
+    margin-left: 130px;
   }
 
   @include breakpoint($tablet-breakpoint) {
-    margin-left: 150px;
+    margin-left: 200px;
     margin-top: 50px;
   }
 
   @include breakpoint($max-tablet-container) {
-    margin-left: 250px;
+    margin-left: 290px;
     margin-top: 50px;
     width: 60%;
   }
+}
+
+.blog-author__right-section-expanded {
+  margin-left: 30px;
+  width: 80%;
 }
 
 .blog-author__name {

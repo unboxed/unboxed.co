@@ -26,19 +26,27 @@
   ol {
     font-weight: 100;
     line-height: 1.6;
-    padding-bottom: 26px;
+    margin-bottom: 26px;
 
     @include breakpoint($max-tablet-container) {
       font-size: 1.2em;
     }
   }
 
+  ol {
+    padding-left: 25px;
+
+      @include breakpoint($max-mobile-container) {
+        padding-left: 30px;
+      }
+  }
+
   h4,
   h5,
   h6 {
-    font-weight: bold;
+    font-weight: 500;
     line-height: 1.6;
-    padding-bottom: 26px;
+    padding-bottom: 20px;
 
     @include breakpoint($max-tablet-container) {
       font-size: 1.2em;
@@ -49,6 +57,7 @@
     color: $article-link-text-color;
     font-weight: 400;
     text-decoration: none;
+    word-wrap: break-word;
 
     &:hover {
       text-decoration: underline;
@@ -87,7 +96,7 @@
     width: 100%;
   }
 
-  li {
+  ul li {
     font-weight: 100;
     line-height: 1.4;
     margin-left: 3px;
@@ -121,10 +130,13 @@
   }
 
   h3 {
-    color: $header-brand-color;
     font-size: 1.2em;
-    font-weight: 100;
+    font-weight: bold;
     line-height: 1.2;
-    padding-bottom: 14px;
+    padding-bottom: 20px;
+  }
+
+  iframe {
+    width: 100%;
   }
 }

@@ -2,18 +2,15 @@
   color: $related-article-header-color;
   font-size: 1.8em;
   letter-spacing: 0.02em;
-  padding: 30px 40px;
-
-  @include breakpoint($max-tablet-container) {
-    padding-left: 40px;
-  }
+  padding: 30px;
 }
 
 .blog-related__tile {
   background-color: $related-article-tile-color;
   box-sizing: border-box;
+  margin-bottom: 3px;
   min-height: 130px;
-  padding: 40px;
+  padding: 40px 30px;
 
   &:hover {
     background-color: darken($related-article-tile-color, 5%);
@@ -28,8 +25,13 @@
 
 .blog-related__date {
   color: $related-article-date-color;
-  display: inline;
   font-size: 0.8em;
+  padding-top: 10px;
+  padding-left: 3px;
+
+  @include breakpoint($max-tablet-container) {
+    display: inline;
+  }
 }
 
 .blog-related__title {
@@ -43,10 +45,12 @@
 .blog-related__tag {
   display: inline-block;
 
-  &:after {
-    color: $related-article-date-color;
-    content: "-";
-    padding-left: 3px;
+  @include breakpoint($max-tablet-container) {
+    &:after {
+      color: $related-article-date-color;
+      content: "-";
+      padding-left: 3px;
+    }
   }
 }
 
@@ -55,10 +59,11 @@
   border: 1px solid;
   border-color: $related-article-tag-border;
   display: inline-block;
+  margin-bottom: 5px;
   padding-left: 10px;
   padding-right: 10px;
 
-  a {
+  span {
     color: $related-article-tag-link-color;
     font-size: 0.6em;
     line-height: 2em;
