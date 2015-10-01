@@ -1,0 +1,27 @@
+.style-guide {
+  background-color: $white;
+}
+
+.style-guide__container {
+  margin-left: 40px;
+}
+
+.style-guide__container-small {
+  margin-bottom: 1px;
+  min-height: 200px;
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: $light-gray;
+  padding: 30px;
+  width: 600px;
+}
+
+.style-guide__title {
+  font-size: 2.5em;
+  padding: 60px 30px 30px;
+}
+
+.style-guide-heading {
+  color: $medium-purple;
+  font-size: 2em;
+}
