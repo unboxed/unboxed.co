@@ -34,11 +34,21 @@
   }
 
   ol {
+    list-style-type: decimal;
     padding-left: 25px;
 
-      @include breakpoint($max-mobile-container) {
-        padding-left: 30px;
-      }
+    @include breakpoint($max-mobile-container) {
+      padding-left: 30px;
+    }
+  }
+
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+
+    @include breakpoint($max-mobile-container) {
+      padding-left: 24px;
+    }
   }
 
   h4,
@@ -92,23 +102,8 @@
 
   img {
     box-sizing: border-box;
-    padding: 20px 0;
-    width: 100%;
-  }
-
-  ul li {
-    font-weight: 100;
-    line-height: 1.4;
-    margin-left: 3px;
-
-      &:before {
-        content: "•";
-        padding-right: 5px;
-      }
-  }
-
-  ol li {
-    list-style-type: decimal;
+    margin: 20px 0;
+    max-width: 100%;
   }
 
   h1 {
@@ -138,5 +133,6 @@
 
   iframe {
     width: 100%;
+    margin-bottom: 26px;
   }
 }
