@@ -3,14 +3,14 @@
   padding: 100px 30px 30px;
 
   @include breakpoint($max-tablet-container) {
-    padding: 150px 30px 60px;
+    padding: 150px 30px 40px;
   }
 }
 
 .blog-header__title {
-  font-size: 2.1em;
+  font-size: 1.8em;
   font-weight: bold;
-  line-height: 1.3em;
+  line-height: 1.2em;
   padding-bottom: 30px;
 
   @include breakpoint($max-tablet-container) {
