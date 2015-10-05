@@ -10,7 +10,7 @@ author: 'Graeme McCubbin'
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/180081375&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-## Topics covered included:
+# Topics covered included:
 
 * Understanding Beta, knowing what you’re trying to achieve
 * What you should be achieving in Alpha and Beta
@@ -19,7 +19,7 @@ author: 'Graeme McCubbin'
 * The risk of this stage
 * Using the feedback from your customers
 
-## Among the insights shared were:
+# Among the insights shared were:
 
 * Alpha is about getting to the start of Beta, understanding all the things that will de-rail you
 * What you want is a shared vision of what you’re building to be established and embedded within the team
@@ -29,7 +29,7 @@ author: 'Graeme McCubbin'
 
 <blockquote class="twitter-tweet tw-align-center"><p>&quot;If the team all understand the purpose, they&#39;ll all be pushing in the same direction&quot; <a href="https://twitter.com/richardstobart">@richardstobart</a> <a href="https://twitter.com/hashtag/GetToBeta?src=hash">#GetToBeta</a></p>&mdash; Unboxed Consulting (@Ubxd) <a href="https://twitter.com/Ubxd/status/540175628629467137">December 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Tips for successful Beta teams:
+# Tips for successful Beta teams:
 
 * Prepare the core elements and understand what you have to do in the Beta stage
 * Establish the purpose and culture of your team

@@ -8,7 +8,7 @@ tags:
 
 ---
 
-## 'Leading the transition to Agile in established media companies'
+# 'Leading the transition to Agile in established media companies'
 
 * 10 attendees ([see who attended](https://drive.google.com/file/d/0B2NhOcmmEbFZWi1odC1fVURBMXc/view?usp=sharing))
 * 3 lightning talks
@@ -28,9 +28,10 @@ Joined by heads of industry and thought-leaders in the media sector, the session
 
 <img src="http://bit.ly/1Gs0oxM" alt="Roundtable panel">
 
-## Lightning talk 1: ‘The Brain vs. Your Funding’
+# Lightning talk 1: 'The Brain vs. Your Funding'
 
 ## Melissa Sabella, Director, Product and Innovation - Reed Learning
+
 The session kicked off with Melissa, where she explored:
 
 * Agile builds versus poor knowledge structures
@@ -41,7 +42,7 @@ The session kicked off with Melissa, where she explored:
 Melissa's session slides:
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/mDLtOGAzSXeFdz" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/brain-funding-melissa-sabella" title="Brain funding - Melissa Sabella" target="_blank">Brain funding - Melissa Sabella</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed Consulting</a></strong> </div>
 
-## Lightning talk 2: 'The onion and the orange'
+# Lightning talk 2: 'The onion and the orange'
 
 ## Richard Stobart, CEO - Unboxed Consulting
 
@@ -53,7 +54,7 @@ The second lightning talk came from our very own CEO. Richard compared the old w
 
 <img src="http://bit.ly/1cvUAGS" alt="Richard talk">
 
-## Lightning talk 3
+# Lightning talk 3
 
 ## Richard Atherton, Management Consultant, Coach & Programme Manager
 
@@ -61,7 +62,7 @@ The final lightning talk came from Richard Atherton, where he revealed the top 6
 
 <img src="http://bit.ly/1EZGYec" alt="Image1">
 
-## Discussion section
+# Discussion section
 
 With the three lightning talks complete, it was time to move into the discussion part of the session. Attendees jotted down ideas on post-its of the topic they’d like to discuss in this section, which were then collated and grouped.
 
@@ -69,6 +70,7 @@ With the three lightning talks complete, it was time to move into the discussion
 
 <img src="http://bit.ly/1Ahkr12" alt="Post it session 2">
 
+</br>
 ## Discussion #1: 'Stakeholder engagement'
 
 <img src="http://bit.ly/1Anf1Bg" alt="Stakeholder engagement">
@@ -80,6 +82,7 @@ The first discussion explored:
 * Senior stakeholders making their mark in meetings
 * Having public Show & Tells where people can’t hide
 
+</br>
 ## Discussion #2: 'Leadership and bravery'
 
 <img src="http://bit.ly/1PyBhio" alt="Leadership and bravery">
@@ -92,6 +95,7 @@ Discussion two looked into:
 * Getting the whole team on the same page when it comes to objectives
 * Communication with key stakeholders
 
+</br>
 ## Discussion #3: 'Fitting to the budget and why lawyers don't like Agile'
 <img src="http://bit.ly/1HvQfP3" alt="Expert opinion vs the rest">
 
@@ -102,6 +106,7 @@ Discussion three addressed budgeting within projects, including:
 * Internal resource vs. external resource
 * Opening up and being transparent
 
+</br>
 ## Discussion #4: 'Expert opinion vs. the rest'
 
 <img src="http://bit.ly/1GrW41u" alt="Expert opinion vs the rest">
