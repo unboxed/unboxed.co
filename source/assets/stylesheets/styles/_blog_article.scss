@@ -17,10 +17,12 @@
   }
 }
 
-.blog-content {
+.blog-article__content {
   box-sizing: border-box;
   padding: 0 30px 10px;
+}
 
+.blog-content {
   h1 {
     color: $heading-brand-color;
     font-size: 1.3em;
