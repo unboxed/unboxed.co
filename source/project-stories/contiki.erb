@@ -7,13 +7,20 @@ header:
   image: "/project-stories/contiki/placeholder-img-big.jpg"
   image_description: "Placeholder Big"
 
+partnership:
+  title: "Offshoring partnership between Contiki and Unboxed"
+  results:
+    - "The site rebuild for the global tour operator's aging platform resulted in a significant increase in bookings"
+    - "Results: page sessions up by 7%, page views up by 28% and conversion rates up by 43% over the previous period"
+    - "Fully responsive design and a microservice architecture ready for the future"
+
 introduction:
   title: "Breathing life into a 10-year-old platform"
   content: "Contiki Holidays is a worldwide travel operation, specialising in trips for the 18-35 age demographic and booking over 150,000 departures per year. In an increasingly saturated market targeting a tech-savvy demographic, Contiki decided to revamp their web-based travel agent portal. The objectives focused on the site’s user experience (UX) through to the visitor-to-sale conversion. The pressure was on to build something special as the site was already 10 years old and in need of a revamp to bring it in line with the times and ensure relevance and ease of use for Contiki’s trade partners."
   image: "/project-stories/contiki/placeholder-img.jpg"
   image_description: "Placeholder"
 
-statistics_title: "Contiki Holidays in numbers"
+statistics_title: "Contiki in numbers"
 statistics:
   - "78% the increased likelihood of users willing to book online"
   - "43% online conversion rate increase from previous period"
@@ -25,9 +32,9 @@ agile:
   image: "/project-stories/contiki/placeholder-img.jpg"
   image_description: "Placeholder"
 
-met_objectives_quote:
-  quote: "Our ambitious business objectives around site performance and revenue generation were all overwhelmingly met."
-  source: "Simon Larkin, Contiki"
+project_quote:
+  quote: "The project was completed on time and on budget. Can’t ask for more than that!"
+  source: "Simon Larkin, Product Owner, Contiki"
 
 collaboration:
   title: "Offshore team collaboration delivering step change in site performance"
@@ -35,8 +42,8 @@ collaboration:
   image: "/project-stories/contiki/placeholder-img.jpg"
   image_description: "Placeholder"
 
-project_quote:
-  quote: "The project was completed on time and on budget. Can’t ask for more than that!"
+release_quote:
+  quote: "We had a straightforward and smooth production release with minimal fuss and no user support issues to finish the project off."
   source: "Simon Larkin, Contiki"
 
 objectives:
@@ -44,6 +51,10 @@ objectives:
   content: "With the new launched live site, the project’s pre-set objectives have all been met or exceeded. Page loading times have decreased on average by 56%, conversion rates have gone up by 43% and bookings made on the new site are up 47%. Seventy-five percent of users also rated a positive improvement on their previous experience on the site. Furthermore, technologies that were employed will dramatically cut the cost of any future improvements. The ‘Unboxed Way’ made the idea of successful offshoring development a reality for Contiki – a fully-integrated team with the capabilities to adapt to meet the design-led needs of the project."
   image: "/project-stories/contiki/placeholder-img.jpg"
   image_description: "Placeholder"
+
+objectives_quote:
+  quote: "Our ambitious business objectives around site performance and revenue generation were all overwhelmingly met."
+  source: "Simon Larkin, Contiki"
 
 team:
   image: "/project-stories/sh24/team.png"
@@ -62,12 +73,13 @@ team:
       full_name: "Heidi Geisler"
       link: "people/heidi-geisler"
 
-conclusion:
-  title: "Offshoring partnership between Contiki and Unboxed"
-  key_stats:
-    - "The site rebuild for the global tour operator's aging platform resulted in a significant increase in bookings"
-    - "Results: page sessions up by 7%, page views up by 28% and conversion rates up by 43% over the previous period"
-    - "Fully responsive design and a microservice architecture ready for the future"
+objectives_outcomes:
+  title: "Objectives vs outcomes"
+  objectives:
+    - "Improve usability and sales conversion for online trade"
+    - "Improve our ability to communicate core sales messages to the trade"
+    - "Improve the maintainability and future-proofing of the site, reducing on-going maintenance costs and implement a responsive framework for future mobile requirements"
+    - "Speed, ease and efficiency tangibly improved in the eyes of the user"
 
 site:
   link: "http://contiki.com/"
@@ -98,6 +110,9 @@ related:
       type: "project story"
       link: "https://www.unboxedconsulting.com/project-stories/channel-5"
       image: "/project-stories/sh24/related/channel-5.jpg"
+
+placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
+
 ---
 
 <header class="page-header">
@@ -133,6 +148,38 @@ related:
   <section class="component">
     <div class="component__tile text-tile">
       <h2 class="text-tile__title">
+        <%= current_page.data.partnership.title %>
+      </h2>
+
+      <ul>
+        <% current_page.data.partnership.results.each do |result| %>
+          <li><%= markdown result %></li>
+        <% end %>
+      </ul>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
+    </div>
+  </section>
+
+  <section class="bitesize">
+    <h2 class="bitesize__title">
+      <%= current_page.data.statistics_title %>
+    </h2>
+
+    <ul>
+      <% current_page.data.statistics.each do |statistic| %>
+        <li class="bitesize__list-item">
+          <%= markdown statistic %>
+        </li>
+      <% end %>
+    </ul>
+  </section>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
         <%= current_page.data.introduction.title %>
       </h2>
 
@@ -146,19 +193,14 @@ related:
     </div>
   </section>
 
-  <section class="bitesize">
-    <h2 class="bitesize__title">
-      <%= current_page.data.statistics_title %>
-    </h2>
-
-    <ul class="bitesize__list">
-      <% current_page.data.statistics.each do |statistic| %>
-        <li class="bitesize__list-item">
-          <%= markdown statistic %>
-        </li>
-      <% end %>
-    </ul>
-  </section>
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.project_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.project_quote.source %>
+    </p>
+  </blockquote>
 
   <section class="component">
     <div class="component__tile text-tile">
@@ -176,14 +218,7 @@ related:
     </div>
   </section>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.met_objectives_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.met_objectives_quote.source %>
-    </p>
-  </blockquote>
+  <img class="full-image" <%= retina_src current_page.data.placeholder_image %> />
 
   <section class="component">
     <div class="component__tile text-tile">
@@ -203,12 +238,14 @@ related:
 
   <blockquote class="quote">
     <p class="quote__text">
-      <%= current_page.data.project_quote.quote %>
+      <%= current_page.data.release_quote.quote %>
     </p>
     <p class="quote__source">
-      <%= current_page.data.project_quote.source %>
+      <%= current_page.data.release_quote.source %>
     </p>
   </blockquote>
+
+  <img class="full-image" <%= retina_src current_page.data.placeholder_image %> />
 
   <section class="component">
     <div class="component__tile text-tile">
@@ -226,6 +263,15 @@ related:
     </div>
   </section>
 
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.objectives_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.objectives_quote.source %>
+    </p>
+  </blockquote>
+
   <div class="sh24-team">
     <h2 class="sh24-team__title">
       Unboxed team
@@ -240,13 +286,14 @@ related:
 
   <section class="bitesize">
     <h2 class="bitesize__title">
-      <%= current_page.data.conclusion.title %>
+      <%= current_page.data.objectives_outcomes.title %>
     </h2>
 
-    <ul>
-      <% current_page.data.conclusion.key_stats.each do |statistic| %>
+    <ul class="bitesize__list">
+      <% current_page.data.objectives_outcomes.objectives.each do |objective| %>
         <li class="bitesize__list-item">
-          <%= markdown statistic %>
+          <%= markdown objective %>
+          <span>Objective met</span>
         </li>
       <% end %>
     </ul>
