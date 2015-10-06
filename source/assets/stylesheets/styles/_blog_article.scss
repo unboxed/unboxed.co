@@ -23,7 +23,8 @@
 
   p,
   ul,
-  ol {
+  ol,
+  blockquote {
     font-weight: 100;
     line-height: 1.6;
     margin-bottom: 20px;
@@ -63,6 +64,11 @@
     }
   }
 
+  blockquote {
+    border-left: 1px solid $article-blockquote-color;
+    padding-left: 16px;
+  }
+
   a {
     color: $article-link-text-color;
     font-weight: 400;
@@ -80,24 +86,6 @@
 
   em {
     font-style: italic;
-  }
-
-  blockquote {
-    &:before {
-      background-color: $blockquote-white-background-color;
-      content: '';
-      display: block;
-      height: 30px;
-    }
-
-    background-color: $blockquote-background-color;
-    margin: -30px;
-
-    p {
-      padding: 30px 60px;
-    }
-
-    margin-bottom: 26px;
   }
 
   img {
