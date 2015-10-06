@@ -63,11 +63,18 @@
 
 .blog-author__name {
   color: $author-name-color;
-  font-size: 0.9em;
   padding-bottom: 15px;
+
+  @include breakpoint($max-tablet-container) {
+    font-size: 1.2em;
+  }
 }
 
 .blog-author__bio {
   font-weight: 100;
   line-height: 1.5;
+
+  @include breakpoint($max-tablet-container) {
+    font-size: 1.2em;
+  }
 }
