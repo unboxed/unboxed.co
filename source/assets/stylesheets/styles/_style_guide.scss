@@ -1,7 +1,8 @@
 .style-guide {
   @extend %container;
   background-color: $white;
-  margin: 0 10px;
+  padding: 0 10px;
+  box-sizing: border-box;
 }
 
 .style-guide__title {
