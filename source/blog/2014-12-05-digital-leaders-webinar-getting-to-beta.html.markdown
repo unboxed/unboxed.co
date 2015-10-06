@@ -3,6 +3,8 @@ layout: 'blog'
 title: 'Digital Leaders Webinar: Getting to Beta'
 date: '2014-12-05 11:26:00 UTC'
 author: 'Graeme McCubbin'
+tags:
+  - Agile
 
 ---
 
