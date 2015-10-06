@@ -2,18 +2,14 @@
   background-color: $white;
 }
 
-.style-guide__container {
-  margin-left: 40px;
-}
-
 .style-guide__container-small {
-  margin-bottom: 1px;
-  min-height: 200px;
   border: 2px solid;
   border-radius: 10px;
   border-color: $light-gray;
+  box-sizing: border-box;
   padding: 30px;
-  width: 600px;
+  margin-bottom: 1px;
+  width: 100%;
 }
 
 .style-guide__title {
