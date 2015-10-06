@@ -151,7 +151,7 @@ placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
         <%= current_page.data.partnership.title %>
       </h2>
 
-      <ul>
+      <ul class="text-tile__list">
         <% current_page.data.partnership.results.each do |result| %>
           <li><%= markdown result %></li>
         <% end %>
