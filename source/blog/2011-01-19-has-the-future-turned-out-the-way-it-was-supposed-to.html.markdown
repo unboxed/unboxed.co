@@ -9,7 +9,7 @@ tags:
   - Rails
 ---
 
-<p><img alt="Does Not Compute?!" src="/uploaded_assets/inline-images/000/000/001/display_size_Has-the-Future...jpg?1295457190" style="width: 358px; height: 563px;" /><img alt="" src="file:///Users/tomdickinson/Library/Caches/TemporaryItems/moz-screenshot.png" /></p>
+<p><img alt="Does Not Compute?!" src="http://i1291.photobucket.com/albums/b548/grammccram/display_size_Has-the-Future.._zpsqjz3pohb.jpg" style="width: 358px; height: 563px;" /><img alt="" src="file:///Users/tomdickinson/Library/Caches/TemporaryItems/moz-screenshot.png" /></p>
 <p>Here at Unboxed, we&rsquo;ve recently received delivery of a brand new lava lamp - the novelty lights that are filled with lurid oils that hypnotically swirl around. Today, it seems to me that the lava lamp&rsquo;s retro styling makes them an object of desire heaped in the nostalgia of a different decade. The science of hot oil is pretty simple, however it&rsquo;s worth remembering that in the 1970&rsquo;s, they were a modernist designer&rsquo;s attempt to achieve the aesthetic of a space-age living room of the future. The kind of room seen in movies like Forbidden Planet and Barberella. All that was missing was some shiny silver jump suits - and some people even tried those out for size!<br />
 <br />
 When the lava lamp is placed on a crisp white desk in 2011, surrounded by our contemporary gadgets and gizmos; smooth aluminium laptops, iPhones and iPads, it poses the question: has the future turned out the way it was supposed to? When an image of what the future was envisaged to be, is juxtaposed with with our modern world, does it come close to that comic book ideal? Should we feel disappointed?<br />
