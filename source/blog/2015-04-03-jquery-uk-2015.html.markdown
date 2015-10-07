@@ -1,0 +1,25 @@
+---
+layout: "blog"
+date: "2015-04-03 12:40:00 UTC"
+published: true
+title: "jQuery UK 2015"
+author: "Neil Van Beinum"
+tags:
+  - Design
+---
+
+On the first Friday of March, I jumped onto an early train from Paddington, got out at Oxford and followed the trail of blue ‘j’s painted on a path along the Thames. I was led to the King’s Centre with about 700 others for the 2015 jQuery UK conference.
+
+The talks at this two-track conference covered a range of front end topics and I often had a hard time choosing which talk to attend. Fortunately all of the videos are now online. Here are three talks that stood out:
+
+###Mark Otto ([@mdo](https://twitter.com/mdo)) - [Mdo-ular CSS](http://jqueryuk.com/2015/videos.php?s=mdo-ular-css)###
+
+The emphasis of this talk was that ’simplicity conquers all’ when working with CSS. Mark recommends the use of a simple ‘component-subcomponent-modifer’ syntax when naming classes, flexible classes that can be applied to different elements, liberal use of comments giving context, and limited use of chained selectors and nested CSS via preprocessors. He notes that CSS naturally encourages inheritance and cascading and yet if you can resist overuse of these features and instead create modules that are independent and reusable, your styling will be much easier to work with.
+
+###Alice Barlett ([@alicebartlett](https://twitter.com/alicebartlett)) - [Bin Your &#60;select&#62;](http://jqueryuk.com/2015/videos.php?s=bin-your-)###
+
+This talk acted as a warning about some of our basic assumptions about usability on the web. Alice works at the UK’s Government Digital Services whose sites have a huge range of users, who sign up for key services such as a Carer’s Allowance. We were shown some quite moving videos of less technically confident users attempting - and failing - to input their birthday via select boxes on a web form. All users were, however, able to successfully input their data via keyboard. Following this research, GDS replaced these select boxes with large, simple text fields, which are analogous to what you’d see on a paper form.
+
+###Andy Hume ([@andyhume](https://twitter.com/andyhume)) - [Architecting Resilient Front-Ends](http://jqueryuk.com/2015/videos.php?s=architecting-resilient-front-ends)###
+
+Companies invest heavily in server infrastructure to keep their sites as reliable as possible. Yet, missing content due to a network outage during the browser’s parsing and rendering of your pages is equally as bad for business. Many aspects of the web are designed to be resilient (such as browsers dealing with various forms of invalid HTML) and the front end code for your site should be the same. Andy picks several points of potential blocking behaviour in the front end and suggests techniques you might consider to avoid them, including asynchronous loading of scripts, placing “critical CSS" in the head, and a way to ensure that text is displayed on your page when your fonts fail to load.

@@ -1,0 +1,37 @@
+---
+layout: "blog"
+date: "2014-08-29 13:30:00 UTC"
+published: true
+title: "UBXDDEV Vol. 3.2"
+author: "Murray Steele"
+tags:
+  - Rails
+---
+
+## Refactoring STI - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+
+https://about.futurelearn.com/blog/refactoring-rails-sti/
+
+[James Coglan](http://jcoglan.com/) writes on the Future Learn blog about how he converted their app from using an STI model to multiple separately defined models with a polymorphic join model.  It's a long article, but definitely worth reading the whole thing as James goes into great detail about how this wasn't a simple change, and they didn't want to do a single big-bang change.  To paraphrase a friend ([Tom Stuart](https://twitter.com/tomstuart/status/504950881859940352)), this article is a concrete example of how to "make the change easy (this is hard), then make the change", an approach worth thinking about for pretty much any change you want to make to a codebase, but particularly when you're paying off technical debt.
+
+## Class Table Inheritance - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+
+http://www.matchingnotes.com/class-table-inheritance-in-rails.html
+
+[James Croft](http://www.matchingnotes.com/) has written a follow up to the above article, showing how [Sequel](http://sequel.jeremyevans.net/) supports an alternative to STI called [Class Table Inheritance](http://martinfowler.com/eaaCatalog/classTableInheritance.html) which might have been less painful.  It's not clear to me that in the Future Learn case CTI would have been the right solution as I think their eventual solution correctly separates the Step domain concept from the Content domain concept, whereas with CTI those two domain concepts would remain mixed.  It does however fix the inefficient sparse table problem so it could be useful in other situations.  It's a shame that ActiveRecord doesn't support CTI directly (I've implemented it in the past and it was horrible), but it's nice to know that Sequel does support it.  Perhaps it's time to take a look at Sequel rather than ActiveRecord on your next project?
+
+## Consumer Rights vs. Dark Patterns
+
+[Alex](https://twitter.com/AlexanderBobin) says:
+
+> http://www.90percentofeverything.com/2014/08/26/some-dark-patterns-now-illegal-in-uk-interview-with-heather-burns/
+> "EU’s new consumer rights law bans certain dark patterns related to e-commerce across Europe"
+> 
+> Interesting for web developers and users alike. Take note RyanAir! It will be interesting to see if/how these new laws are enforced.
+
+[Henry](http://wwwunboxedconsulting.com/people/henry-turner) says:
+
+> Press release about the highlights of the legislation: http://europa.eu/rapid/press-release_MEMO-11-450_en.htm?locale=en
+> 
+> The actual thing: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011L0083&rid=1
+
