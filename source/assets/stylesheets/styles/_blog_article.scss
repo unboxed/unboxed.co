@@ -25,48 +25,31 @@
   ul,
   ol,
   blockquote {
+    font-size: 1em;
     font-weight: 100;
     line-height: 1.6;
     margin-bottom: 20px;
 
-    @include breakpoint($max-tablet-container) {
-      font-size: 1.2em;
+    @include breakpoint($tablet-breakpoint) {
+      font-size: 1.1em;
+    }
+  }
+
+  ul,
+  ol {
+    padding-left: 24px;
+
+    @include breakpoint($tablet-breakpoint) {
+      padding-left: 30px;
     }
   }
 
   ol {
     list-style-type: decimal;
-    padding-left: 25px;
-
-    @include breakpoint($max-mobile-container) {
-      padding-left: 30px;
-    }
   }
 
   ul {
     list-style-type: disc;
-    padding-left: 20px;
-
-    @include breakpoint($max-mobile-container) {
-      padding-left: 24px;
-    }
-  }
-
-  h4,
-  h5,
-  h6 {
-    font-weight: 500;
-    line-height: 1.6;
-    padding-bottom: 20px;
-
-    @include breakpoint($max-tablet-container) {
-      font-size: 1.2em;
-    }
-  }
-
-  blockquote {
-    border-left: 1px solid $article-blockquote-color;
-    padding-left: 16px;
   }
 
   a {
@@ -93,6 +76,16 @@
     display: block;
     margin: 0 auto;
     max-width: 100%;
+  }
+
+  blockquote {
+    border-left: 1px solid $article-blockquote-color;
+    padding-left: 16px;
+  }
+
+  iframe {
+    width: 100%;
+    margin-bottom: 26px;
   }
 
   h1 {
@@ -127,8 +120,15 @@
     padding-bottom: 20px;
   }
 
-  iframe {
-    width: 100%;
-    margin-bottom: 26px;
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+    line-height: 1.6;
+    padding-bottom: 20px;
+
+    @include breakpoint($max-tablet-container) {
+      font-size: 1.2em;
+    }
   }
 }
