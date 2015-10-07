@@ -163,14 +163,14 @@ placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
     </div>
   </section>
 
-  <section class="bitesize">
-    <h2 class="bitesize__title">
+  <section class="bitesize--navy">
+    <h2 class="bitesize__title--white">
       <%= current_page.data.statistics_title %>
     </h2>
 
     <ul>
       <% current_page.data.statistics.each do |statistic| %>
-        <li class="bitesize__list-item">
+        <li class="bitesize__list-item--white">
           <%= markdown statistic %>
         </li>
       <% end %>

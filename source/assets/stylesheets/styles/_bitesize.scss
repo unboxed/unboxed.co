@@ -8,6 +8,11 @@
   }
 }
 
+.bitesize--navy {
+  @extend .bitesize;
+  background-color: $bitesize-navy-background-color;
+}
+
 .bitesize__title {
   color: $bitesize-text-color;
   font-size: 1.7em;
@@ -25,6 +30,12 @@
     padding-bottom: 20px;
   }
 }
+
+.bitesize__title--white {
+  @extend .bitesize__title;
+  color: $white;
+}
+
 
 .bitesize__section {
   @include breakpoint($tablet-breakpoint) {
@@ -92,4 +103,9 @@
   @include breakpoint($max-tablet-container) {
     font-size: 1.18em;
   }
+}
+
+.bitesize__list-item--white {
+  @extend .bitesize__list-item;
+  color: $bitesize-white-text-color;
 }
