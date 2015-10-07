@@ -72,6 +72,12 @@ team:
     - short_name: "heidi"
       full_name: "Heidi Geisler"
       link: "people/heidi-geisler"
+    - short_name: "ben_j"
+      full_name: "Ben Janecke"
+      link: ""
+    - short_name: "gavin"
+      full_name: "Gavin van Lelyveld"
+      link: ""
 
 objectives_outcomes:
   title: "Objectives vs outcomes"
@@ -272,14 +278,14 @@ placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
     </p>
   </blockquote>
 
-  <div class="sh24-team">
-    <h2 class="sh24-team__title">
+  <div class="project-team">
+    <h2 class="project-team__title">
       Unboxed team
     </h2>
 
     <% current_page.data.team.people.each do |person| %>
-      <a class="sh24-team__headshot-container" href="<%= person.link %>">
-        <img class="sh24-team__headshot sh24-team__<%= person.short_name %>" src="/project-stories/contiki/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+      <a class="project-team__headshot-container--6" href="<%= person.link %>">
+        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/contiki/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
       </a>
     <% end %>
   </div>
