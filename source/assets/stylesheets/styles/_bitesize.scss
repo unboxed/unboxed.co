@@ -85,6 +85,19 @@
   }
 }
 
+.bitesize__list--bulleted {
+  @extend .bitesize__list;
+  list-style: disc;
+  padding-left: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    @include columns(2, 40px);
+    li:nth-child(2) {
+     padding-bottom: 50px;
+    }
+  }
+}
+
 .bitesize__list-item {
   color: $bitesize-text-color;
   font-size: 1em;
@@ -108,4 +121,13 @@
 .bitesize__list-item--white {
   @extend .bitesize__list-item;
   color: $bitesize-white-text-color;
+
+  p {
+    padding-bottom: 8px;
+  }
+  span {
+    font-size: 0.7em;
+    font-weight: 100;
+    letter-spacing: 0.07em;
+  }
 }

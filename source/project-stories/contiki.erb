@@ -284,14 +284,14 @@ placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
     <% end %>
   </div>
 
-  <section class="bitesize">
-    <h2 class="bitesize__title">
+  <section class="bitesize--navy">
+    <h2 class="bitesize__title--white">
       <%= current_page.data.objectives_outcomes.title %>
     </h2>
 
-    <ul class="bitesize__list">
+    <ul class="bitesize__list--bulleted">
       <% current_page.data.objectives_outcomes.objectives.each do |objective| %>
-        <li class="bitesize__list-item">
+        <li class="bitesize__list-item--white">
           <%= markdown objective %>
           <span>Objective met</span>
         </li>
