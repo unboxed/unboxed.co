@@ -14,7 +14,7 @@ The full audio of the session:<br/>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/192989378&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <br/>
 
-<h2 class="super_sub_heading">Topics covered included:</h2>
+<h2 "View public profile"">Topics covered included:</h2>
 • The role of culture and behaviour in transitioning to Agile<br/>
 • The importance of business engagement in Agile teams<br/>
 • Training and coaching for a new team - including pair programming, test-driven development, test automation and continuous integration<br/>
@@ -25,7 +25,7 @@ The full audio of the session:<br/>
 • Agile skeptics – some pointers for how to bring them along on the journey<br/>
 <br/>
 
-<h2 class="super_sub_heading">Amongst the insights shared were:</h2>
+<h2 "View public profile"">Amongst the insights shared were:</h2>
 
 <blockquote class="twitter-tweet" lang="en"><p>It&#39;s really important to realise it&#39;s the behavioural cuture we&#39;re trying to change <a href="https://twitter.com/hashtag/WaterfallToAgile?src=hash">#WaterfallToAgile</a></p>&mdash; Unboxed Consulting (@Ubxd) <a href="https://twitter.com/Ubxd/status/570616097214504960">February 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

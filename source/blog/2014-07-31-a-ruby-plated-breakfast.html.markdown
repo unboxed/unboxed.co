@@ -18,12 +18,12 @@ The morning began with a delicious standing breakfast, giving everyone the chanc
 
 Andrew then took to the floor to guide us through the upcoming changes in Ruby on Rails 4.2, including:
 
-<ul class="bullet_list qualities">
+<ul>
 <li>The Active Job framework
 <li>Action Pack
 <li>Active Support
 <li>Railties<p>
-</p></ul>
+</ul>
 
 The timeline of release was also discussed, which included the beta release, release candidate and final release dates.
 

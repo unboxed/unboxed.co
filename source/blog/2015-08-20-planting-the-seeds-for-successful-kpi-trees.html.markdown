@@ -18,7 +18,7 @@ A blend of senior digital stakeholders, product owners and digital creatives att
 <br/>
 <br/>
 
-<h2 class="super_sub_heading">Introduction - Get into pairs and draw 'how does electricity work?'</h2>
+<h2 "View public profile"">Introduction - Get into pairs and draw 'how does electricity work?'</h2>
 To get the attendees' in creative thinking mode and talking to one another, the morning began with an introduction exercise, mapping out a diagram of how attendees think electricity works.<br/>
 
 Armed with a partner, a large piece of paper, a Sharpie marker each and some 'interesting' concepts around electricity generation, the creative sparks began to fly:<br/>
@@ -39,7 +39,7 @@ Richard kicked off the morning’s first session - defining what a KPI is and ho
 The topic then branched into KPI trees:<br/>
 <br/>
 
-<h2 class="super_sub_heading">What is a KPI tree?</h2>
+<h2 "View public profile"">What is a KPI tree?</h2>
 >
 <i>‘A KPI Tree is a graphical method of managing KPIs.’</i>
 
@@ -55,7 +55,7 @@ An example KPI tree was shared:<br/>
 <br/>
 <br/>
 
-<h2 class="super_sub_heading">Why should you build a KPI tree for your organisation?:</h2>
+<h2 "View public profile"">Why should you build a KPI tree for your organisation?:</h2>
 
 * 'Management' or 'the business' speaks the language of KPIs, PIs and measurable/auditable value
 * 'Development' or 'innovation' speaks the language of delivering digital features, managing teams and technology
@@ -65,9 +65,9 @@ An example KPI tree was shared:<br/>
 </br>
 <br/>
 
-<h2 class="super_sub_heading">What are the benefits of KPI trees?:</h2>
+<h2 "View public profile"">What are the benefits of KPI trees?:</h2>
 
-* Sum up a complex situation 
+* Sum up a complex situation
 * Help build agreement
 * Easy to explain the approach
 * Keep in step with changes in strategy
@@ -78,7 +78,7 @@ An example KPI tree was shared:<br/>
 <p align="center"><img src="http://bit.ly/1WCgVpz" alt="Introduction 3"></p>
 <br/>
 
-<h2 class="super_sub_heading">Pre-requisites for setting your KPIs:</h2>
+<h2 "View public profile"">Pre-requisites for setting your KPIs:</h2>
 
 * Have a clear strategy and objectives
 * Make sure you have a pre-defined process for implementing this system
@@ -88,20 +88,20 @@ An example KPI tree was shared:<br/>
 <br/>
 <br/>
 
-<h2 class="super_sub_heading">Other insights:</h2>
+<h2 "View public profile"">Other insights:</h2>
 
-* Start at the top, have a business objective or strategy you’re trying to achieve then have a set of measures around that to help you achieve 
+* Start at the top, have a business objective or strategy you’re trying to achieve then have a set of measures around that to help you achieve
 * The KPI is not the <i>“thing”</i>, it’s just an indication of what the <i>“thing”</i> might be
 * If you’re a slave to the metric, you could be watching the wrong thing
 
-> 
+>
 <i>“There’s a huge volume of data and a tiny of proportion is valuable to you. You can spend a lot of time gathering a lot of data, but it’s probably not the most valuable thing you could be doing.”</i>
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">You could be collecting a huge amount of useless data. React as indicators change <a href="https://twitter.com/hashtag/LeanUXMasterclass?src=hash">#LeanUXMasterclass</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="http://t.co/iKeg7nz0Ja">pic.twitter.com/iKeg7nz0Ja</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/631389003435130880">August 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
-<h2 class="super_sub_heading">When building your KPI tree, think about your themes:</h2>
+<h2 "View public profile"">When building your KPI tree, think about your themes:</h2>
 
 * Themes are dimensions of all the elements that you’re going to start measuring
 * Think about the things you’re going to measure and group them into themes
@@ -112,7 +112,7 @@ An example KPI tree was shared:<br/>
 
 ## Session 2: Test and create your plan
 
-* What should you be measuring that you’re not measuring? 
+* What should you be measuring that you’re not measuring?
 * How are you sure that you’re moving towards your vision?
 * Is there a measure you can look at that will give you an indication that what you’re doing is moving you towards your strategic goal?
 <br/>
@@ -121,7 +121,7 @@ An example KPI tree was shared:<br/>
 <p align="center"><img src="http://bit.ly/1NCXKGi" alt="Introduction 2"></p>
 <br/>
 
-<h2 class="super_sub_heading">Tips on creating your KPI trees:</h2>
+<h2 "View public profile"">Tips on creating your KPI trees:</h2>
 
 * Keep it human – make your strategy something that everyone can understand and work towards
 * Publicise and radiate – share your KPIs with your team
@@ -131,7 +131,7 @@ An example KPI tree was shared:<br/>
 <br/>
 <br/>
 
-<h2 class="super_sub_heading">There are a number of tools that can be used to help with your KPI tree:</h2>
+<h2 "View public profile"">There are a number of tools that can be used to help with your KPI tree:</h2>
 
 * [Google Analytics](http://www.google.com/analytics/) / [Kiss Metrics](https://kissmetrics.com/) / [Mix Panel](https://mixpanel.com/)
 * [Flurry (Yahoo)](http://www.flurry.com) / [Positionly](https://positionly.com/) / [Klout](https://klout.com/) / [Delighted](https://delighted.com/)
@@ -146,10 +146,10 @@ With the seeds of each attendee's KPI tree planted, the session was complete, gi
 
 Reflecting on the session, some of the insights and actions taken away included:<br/>
 
-> 
+>
 <i>"I need to set some targets for my measures, instead of measuring for the sake of measuring"</i>
 
-> 
+>
 <i>"Reviewing my customer’s metrics to see if I can align them closer to the real goal is important"</i>
 
 >
@@ -161,6 +161,6 @@ Reflecting on the session, some of the insights and actions taken away included:
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Roundup <a href="https://twitter.com/hashtag/LeanUXMasterclass?src=hash">#LeanUXMasterclass</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="http://t.co/vIhhZSDj9Q">pic.twitter.com/vIhhZSDj9Q</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/631426068075925504">August 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
-<h2 class="super_sub_heading">The session slides:</h2>
+<h2 "View public profile"">The session slides:</h2>
 
 <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/ySIjyfEDhS1WHo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/planting-the-seeds-for-successful-kpi-trees" title="Planting the seeds for successful KPI trees" target="_blank">Planting the seeds for successful KPI trees</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed Consulting</a></strong> </div></p>

@@ -20,15 +20,15 @@ I engage much more with my work colleagues (both in public room and private one-
 Slack does have one big downfall however. It's too easy to use. Often I've found myself having conversations online which should have been had in person. It's all too easy to forget that before we had email and IM services, we actually had to talk to one another. Here are a few things to bear in mind:<br/>
 <br/>
 
-<h2 class="super_sub_heading">1) Purely text-based services provide no emotion, and no intent</h2>
+<h2 "View public profile"">1) Purely text-based services provide no emotion, and no intent</h2>
 It's very easy to misinterpret something simple when you can't see someone's face, and this should not be underestimated. You can make a hugely different impression on someone just by lacking any hint of the emotion associated with what you said. Admittedly, there are some occasions where it may not be possible to have a face-to-face conversation, so why not use an emoticon (or an Emoji) to provide some context? Make it clear to the person you're addressing how you feel just like you would in person, and leave very little room for misunderstanding. Alternatively, why not use something like Google Hangouts or Skype where possible? If you can't be there in person, then sharing your facial expressions via the internet and a webcam comes a close second, but can never be as good as them standing or sitting next to you.<br/>
 <br/>
 
-<h2 class="super_sub_heading">2) Sometimes there are things which aren't appropriate for an online conversation</h2>
+<h2 "View public profile"">2) Sometimes there are things which aren't appropriate for an online conversation</h2>
 As an extreme example, a chat about something personal or about someone's performance should be had in person. Facial expressions and clarity can make all the difference between it going well for the person involved or going badly. Next time you're having a conversation with someone online, ask yourself whether it is particularly sensitive, and if you would feel comfortable having it with them face-to-face. If not, should you be having it at all?<br/>
 <br/>
 
-<h2 class="super_sub_heading">3) Occasionally I find that a text-based conversation just doesn't have the same feeling about it</h2>
+<h2 "View public profile"">3) Occasionally I find that a text-based conversation just doesn't have the same feeling about it</h2>
 If I'm discussing a technical problem with someone, the syntax highlighting for example on Slack can be a great tool. However, there really is nothing quite like standing at a whiteboard and discussing some code or architecture with the archaic method of pen to paper. The instant feedback from someone (or even just their facial expression) can be a much more powerful tool to judge reactions, rather than giving that person time to think via the asynchronous nature of an IM client.
 
 <p align="center"><img src="http://bit.ly/1IZyADG" alt=“Chris"></p>

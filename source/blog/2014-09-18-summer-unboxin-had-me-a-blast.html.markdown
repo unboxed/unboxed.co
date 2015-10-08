@@ -19,7 +19,7 @@ I’ve been made very welcome this summer, and have come to feel very much part 
 <b>What were your highlights of spending the summer with us?</b><br/>
 There have been so many highlights from my summer here; but I’d have to say the main highlights have been:<br/>
 
-<ul class="bullet_list qualities">
+<ul>
 <li>Being totally immersed in Rails and Agile every single day
 <li>Writing code, working in a team with a project and being given great responsibility, right from day one
 <li>Working with great mentors and pairing partners - it's a really fantastic way to learn and get stuck in
@@ -27,7 +27,7 @@ There have been so many highlights from my summer here; but I’d have to say th
 <li>Working as part of an Agile team on a client project
 <li>Digging much deeper into version control with git and finally experiencing real TDD
 <li>Tutoring at Codebar on Wednesday evenings
-</p></ul>
+</ul>
 
 I’ve also loved having the chance to explore London on the weekends, something I’ll miss!<br/>
 

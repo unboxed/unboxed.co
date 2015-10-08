@@ -27,7 +27,7 @@ Petition Map has been built to work on both desktop and mobile so that petitions
 <p align="center"><img src="http://bit.ly/1NG8VkQ" alt="Petitions 4"></p>
 <br/>
 
-<h2 class="super_sub_heading">How to use Petition Maps</h2>
+<h2 "View public profile"">How to use Petition Maps</h2>
 Petition Map defaults to the most signed petition, but other popular petitions can easily be found using the searchable dropdown menu. It’s also possible to change the area that the map displays which is useful for more regional petitions (Northern Ireland is currently not supported at this time) i.e. Scotland:<br/>
 
 <p align="center"><img src="http://bit.ly/1OhzCwf" alt="Petitions 5"></p>
@@ -48,7 +48,7 @@ If you want to take a screenshot or you’re using a device with a low resolutio
 <p align="center"><img src="http://bit.ly/1FPRdU9" alt="Petitions 8"></p>
 
 
-<h2 class="super_sub_heading">Technology</h2>
+<h2 "View public profile"">Technology</h2>
 A recent addition to the Petitions site now allows developers to request data in JSON format (by appending .json to any petition url). As well as the total number of signatures, each petition holds an array of signatures by country and constituency with the latter being the data used by Petition Map.<br/>
 
 The [ONS code](https://en.wikipedia.org/wiki/ONS_coding_system) of each is used to match the Petition data with the constituency boundaries. I used boundary data in TopoJSON format, an extension of GeoJSON, which was was sourced from [here](https://github.com/martinjc/UK-GeoJson).<br/>

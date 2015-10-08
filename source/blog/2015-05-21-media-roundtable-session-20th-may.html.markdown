@@ -7,7 +7,7 @@ author: "Graeme McCubbin"
 
 ---
 
-<h2 class="super_sub_heading">'Leading the transition to Agile in established media companies'</h2>
+<h2 "View public profile"">'Leading the transition to Agile in established media companies'</h2>
 
 * 10 attendees ([see who attended](https://drive.google.com/file/d/0B2NhOcmmEbFZWi1odC1fVURBMXc/view?usp=sharing))
 * 3 lightning talks
@@ -30,7 +30,7 @@ Joined by heads of industry and thought-leaders in the media sector, the session
 <br/>
 
 ## Lightning talk 1: ‘The Brain vs. Your Funding’
-<h2 class="super_sub_heading">Melissa Sabella, Director, Product and Innovation - Reed Learning</h2>
+<h2 "View public profile"">Melissa Sabella, Director, Product and Innovation - Reed Learning</h2>
 The session kicked off with Melissa, where she explored:
 
 * Agile builds versus poor knowledge structures
@@ -45,7 +45,7 @@ Melissa's session slides:
 
 
 ## Lightning talk 2: 'The onion and the orange'
-<h2 class="super_sub_heading">Richard Stobart, CEO - Unboxed Consulting</h2>
+<h2 "View public profile"">Richard Stobart, CEO - Unboxed Consulting</h2>
 
 The second lightning talk came from our very own CEO. Richard compared the old way of building systems (‘oranges’) with the new way (‘onions’): <i>“As we build up the layers, it comes more like an onion”</i>. Also explored was:
 
@@ -53,16 +53,16 @@ The second lightning talk came from our very own CEO. Richard compared the old w
 * Addressing the highest risks first
 * Lining up a project in terms of value
 
-<p align="center"><img src="http://bit.ly/1cvUAGS" alt="Richard talk"></p> 
+<p align="center"><img src="http://bit.ly/1cvUAGS" alt="Richard talk"></p>
 <br/>
 
 
 ## Lightning talk 3
-<h2 class="super_sub_heading">Richard Atherton, Management Consultant, Coach & Programme Manager</h2>
+<h2 "View public profile"">Richard Atherton, Management Consultant, Coach & Programme Manager</h2>
 
 The final lightning talk came from Richard Atherton, where he revealed the top 6 factors to resisting change in an organisational team. He also took thoughts from the audience on any additional factors.
 
-<p align="center"><img src="http://bit.ly/1EZGYec" alt="Image1"></p> 
+<p align="center"><img src="http://bit.ly/1EZGYec" alt="Image1"></p>
 <br/>
 
 ## Discussion section
@@ -71,10 +71,10 @@ With the three lightning talks complete, it was time to move into the discussion
 
 <img src="http://bit.ly/1Hk2cVE" alt="Post it session">
 
-<p align="center"><img src="http://bit.ly/1Ahkr12" alt="Post it session 2"></p> 
+<p align="center"><img src="http://bit.ly/1Ahkr12" alt="Post it session 2"></p>
 <br/>
 
-<h2 class="super_sub_heading">Discussion #1: 'Stakeholder engagement'</h2>
+<h2 "View public profile"">Discussion #1: 'Stakeholder engagement'</h2>
 <img src="http://bit.ly/1Anf1Bg" alt="Stakeholder engagement">
 
 The first discussion explored:
@@ -86,7 +86,7 @@ The first discussion explored:
 <br/>
 <br/>
 
-<h2 class="super_sub_heading">Discussion #2: 'Leadership and bravery'</h2>
+<h2 "View public profile"">Discussion #2: 'Leadership and bravery'</h2>
 <img src="http://bit.ly/1PyBhio" alt="Leadership and bravery">
 
 Discussion two looked into:
@@ -99,7 +99,7 @@ Discussion two looked into:
 <br/>
 <br/>
 
-<h2 class="super_sub_heading">Discussion #3: 'Fitting to the budget and why lawyers don't like Agile'</h2>
+<h2 "View public profile"">Discussion #3: 'Fitting to the budget and why lawyers don't like Agile'</h2>
 <img src="http://bit.ly/1HvQfP3" alt="Expert opinion vs the rest">
 
 Discussion three addressed budgeting within projects, including:
@@ -111,7 +111,7 @@ Discussion three addressed budgeting within projects, including:
 <br/>
 <br/>
 
-<h2 class="super_sub_heading">Discussion #4: 'Expert opinion vs. the rest'</h2>
+<h2 "View public profile"">Discussion #4: 'Expert opinion vs. the rest'</h2>
 <img src="http://bit.ly/1GrW41u" alt="Expert opinion vs the rest">
 
 The final discussion covered:

@@ -19,30 +19,30 @@ I think the answer is:<br/>
 <br/>
 In a [PRINCE2](https://www.prince2.com) world, you have:<br/>
 
-<p align="center"><img src="http://bit.ly/1Ml9VHn" alt="PRINCE2"></p> 
+<p align="center"><img src="http://bit.ly/1Ml9VHn" alt="PRINCE2"></p>
 
-<h2 class="super_sub_heading">1. An IT project manager</h2>
+<h2 "View public profile"">1. An IT project manager</h2>
 They generally deliver the solution.<br/>
 <br/>
 
-<h2 class="super_sub_heading">2. A business project manager</h2>
+<h2 "View public profile"">2. A business project manager</h2>
 They deliver the business components required to support the solution, re-structure the business process, get everyone set up to start using the solution and make sure the training is in place.<br/>
 <br/>
 
-<h2 class="super_sub_heading">3. A steering group</h2>
+<h2 "View public profile"">3. A steering group</h2>
 This group is there to pull the strings and make sure that the project is delivering against the business case.<br/>
 <br/>
 
 However, all these things fall apart at the end of a project. You do your <i>‘ta-da!’</i> release that delivers everything, everyone congratulates each other on a slightly late but effective delivery of the project, and then they go back to their day jobs.<br/>
 
 No one owns the delivery of the business case, which is why the project was initially justified.<br/>
-<br/> 
+<br/>
 
-<h2 class="super_sub_heading">The solution</h2>
+<h2 "View public profile"">The solution</h2>
 
 Choose a Product Owner.<br/>
 
-<p align="center"><img src="http://bit.ly/1BKwHCk" alt="Product Owner"></p> 
+<p align="center"><img src="http://bit.ly/1BKwHCk" alt="Product Owner"></p>
 
 Give them the budget to deliver what they need to deliver to make the business case work.<br/>
 
@@ -61,7 +61,7 @@ Make sure your project is set up with a Product Owner (or a business project man
 
 It’s important to view your project as a set of features, some of which are:<br/>
 
-<p align="center"><img src="http://bit.ly/1GksEUs" alt="Value and cost"></p> 
+<p align="center"><img src="http://bit.ly/1GksEUs" alt="Value and cost"></p>
 
 It’s also important to understand the return on your investment for each feature. You don't want to deliver the features that are going to cost you a lot and not deliver any value.<br/>
 

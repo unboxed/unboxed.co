@@ -15,12 +15,12 @@ We’ve all heard many times that the cost of identifying a bug in production is
 If you take an approach of <i>“some bugs are acceptable to roll into production”</i> then effectively what you’re saying is <i>“I’d rather spend more money later than less money now fixing this problem”</i>. If you do that more than once or twice then you start to build your house on sand.<br/>
 <br/>
 
-<h2 class="super_sub_heading">In practice</h2>
+<h2 "View public profile"">In practice</h2>
 Imagine a developer working on a feature, relying on other components that have some well-known defects in them. They’re relying on these components to get their feature working. The developer thinks long and hard about their feature. They implement the code. They run the tests. Something breaks.<br/>
 
 The natural reaction is to think that the known problems in the dependent components are more likely to be the problem, rather than an unknown problem in the developer’s code. They’ve spent a long time on that code. They’ve thought it all through. It should work.<br/>
 
-The developer knows that the component they’re depending on is flaky, so go ahead and commit this code, knowing there’s a bug in the other feature. That’s not their problem.<br/> 
+The developer knows that the component they’re depending on is flaky, so go ahead and commit this code, knowing there’s a bug in the other feature. That’s not their problem.<br/>
 
 <p align="center"><img src="http://bit.ly/1gUUeg3" alt="Zero-defect strategy"></p>
 
@@ -29,13 +29,13 @@ This problem becomes exacerbated. The developer is not being absolutely 100% pur
 Their bit of code will work in <b>certain</b> scenarios, but not in <b>this</b> scenario because it’s know there’s a problem. So the code isn’t actually tested for that scenario, even though it’s been written so that one day - if that feature is fixed - that code will probably work (or it may not).<br/>
 <br/>
 
-<h2 class="super_sub_heading">The situation</h2>
+<h2 "View public profile"">The situation</h2>
 Eventually the whole code base, over time, becomes riddled with holes. Everyone has justified that these holes are acceptable. Every time a new feature is built, it’s being built on a very fragile code base. Only the well-travelled code base paths are bug-free. All other paths are full of pit holes that aren’t understood.<br/>
 
 Maintaining a huge code base, full of pit holes, is very expensive.<br/>
 <br/>
 
-<h2 class="super_sub_heading">The solution</h2>
+<h2 "View public profile"">The solution</h2>
 The buggy code should be removed. Either fixed or acknowledged that it’s not going to use a feature and remove it. Otherwise a whole load of 'debt' is built up. Not even technical debt, just feature debt.<br/>
 <br/>
 The easiest thing to do is nip it in the bud. You should be saying:<br/>
