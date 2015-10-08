@@ -18,7 +18,6 @@ Being a front-end specialist I am always keen on different approaches which make
 <p>SASS really is a great tool, but its syntax differs so much from the original CSS that it is unfamiliar and results in a high learning curve for new developers.</p>
 <p>There is a new kid on the block. <a href="http://lesscss.org">Less</a>, created by <a href="http://twitter.com/cloudhead">Alexis Sellier</a>, is a new attempt at a CSS pre-compiler. Less allows you to do the same as SASS and more importantly its syntax <strong>resembles CSS</strong>, which you are already familiar with, making it exceptionally easy to pick up.</p>
 <p>Less is exactly what CSS would be if it was a programming language. It extends CSS with constants, mixins, operations and nested rules adding a big boost to your CSS development. It provides <strong>constants</strong> to define widely used values which you can re-use. Making global changes across your style definitions becomes a matter of changing one line of code. It&#39;s saving us from a lot of headaches!</p>
-<div class="code_example">
 <pre>
 <code class="less"><span>@brand_color</span>: #4D926F;
 #header {
@@ -28,9 +27,7 @@ h2 {
   color: <span>@brand_color</span>;
 }
 </code></pre>
-</div>
 <p>You can also apply the same philosophy to whole classes using <strong>mixins</strong> to embed all properties to another ones. That is quite handy if you are applying behavioural definitions to multiple elements.</p>
-<div class="code_example">
 <pre>
 <code class="less">.rounded_corners {
   -moz-border-radius: 8px;
@@ -44,9 +41,7 @@ h2 {
   <span>.rounded_corners</span>;
 }
 </code></pre>
-</div>
 <p>Adding <strong>expressions</strong> into the mixture makes Less even more fun. Expressions come in handy if certain elements in your stylesheet are proportional to others allowing you to deal with complex relationships between properties. You can add, subtract, divide and multiply different values:</p>
-<div class="code_example">
 <pre>
 <code class="less">@the-border: 1px;
 @base-color: #111;
@@ -55,13 +50,11 @@ h2 {
   border-left: @the-border;
   border-right: <span>@the-border * 2</span>;
 }
-#footer { 
-  color: <span>(@base-color + #111) * 1.5</span>; 
+#footer {
+  color: <span>(@base-color + #111) * 1.5</span>;
 }
 </code></pre>
-</div>
 <p>Less is also really great at code maintainability. Rather than constructing long selector names to specify inheritance, in Less you can simply <strong>nest selectors</strong> inside other ones. This makes inheritance clear and style sheets shorter and well-constructed.</p>
-<div class="code_example">
 <pre>
 <code class="less">#header {
   color: red;
@@ -71,7 +64,6 @@ h2 {
   }</span>
 }
 </code></pre>
-</div>
 <p>Less is under heavy development and there is also a <a href="http://github.com/cloudhead/more">Rails plugin</a> for it which automatically parses your applications .less files through Less and outputs CSS files.</p>
 <p>Head over to <a href="http://github.com/cloudhead/less">github</a> and start experimenting with it. At Unboxed we&#39;ve already started making some changes to Less to reduce its dependencies and made it more robust when included in an application. You can check out <a href="http://github.com/unboxed/less">our changes</a> to Less on our github account.</p>
 <p>As you can probably see now it is really a great tool and makes CSS development a piece of cake in Ruby/Rails applications. One small caveat, though; Less won&#39;t deal with your IE6 problems. You still have to sort them out yourself.</p>

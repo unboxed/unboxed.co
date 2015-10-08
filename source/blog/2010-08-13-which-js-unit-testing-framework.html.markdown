@@ -12,7 +12,7 @@ tags:
 <p>Summarisation of my ideal Framework follows. I am looking for a browser based JS testing framework. The ideal syntax looks like Rspec. It supports nesting of &quot;describe&quot; blocks and installation has to be simple. It should be well documented with a lot of examples.</p>
 <h3>Assumption:</h3>
 <div>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>browser based</li>
 <li>simple integration</li>
 <li>easy configuration</li>
@@ -26,25 +26,21 @@ tags:
 <p>FireUnit is a Firefox / Firebug extension written by John Resig and Jan Odvarko. After you install the extension, all you have to do is to write the test and run it in the HTML file.</p>
 <p><span>Short example of syntax follow:</span></p>
 <p>
-<style lang="text/css" type="text/css">
-.gist-syntax pre { font-size: 13px; }</style>
 </p>
 <script src="http://gist.github.com/519104.js?file=gistfile1.js" type="text/javascript"></script><p><a href="/uploads/Image/fireunit.jpg" target="_blank"><img alt="fireunit" height="137" src="/uploads/Image/fireunit.jpg" width="358" /></a></p>
 <p>You can also simulate browser events which is great.</p>
 <p>
-<style lang="text/css" type="text/css">
-.gist-syntax pre { font-size: 13px; }</style>
 </p>
 <script src="http://gist.github.com/519129.js?file=gistfile1.js" type="text/javascript"></script><p>On the other hand FireUnit doesn&#39;t have proper documentation for the API. So if you would like to know what you can do with FireUnit you have to look at the code directly. Also the last commit at <a href="http://github.com/jeresig/fireunit" target="_blank" title="FireUnit's github page - http://github.com/jeresig/fireunit">FireUnit&#39;s github page</a> is from October 2009 so there is no current developer community.</p>
 <h3>Summary:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>easy to configurate / install</li>
 <li>easy to integrate</li>
 <li>browser event emulation</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>Dependency on Firefox/Firebug</li>
 <li>Lack of documentation</li>
 <li>No longer actively being developed</li>
@@ -58,13 +54,13 @@ tags:
 <p><a href="/uploads/Image/qunit.jpg" target="_blank"><img alt="qunit" height="128" src="/uploads/Image/qunit.jpg" vspace="/uploads/Image/fireunit.jpg" width="358" /></a></p>
 <h3>Summary Qunit:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>easy to integrate</li>
 <li>well documented</li>
 <li>used for testing jQuery</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>non-Rspec-like syntax</li>
 </ul>
 <p>&nbsp;</p>
@@ -75,12 +71,12 @@ tags:
 <p>It looks almost perfect but it&#39;s still only wrapper and it&#39;s using jQuery. That means that you have to use 4 files to run it. Also some of the matchers are using object type specification for comparing. I just don&#39;t understand why I need that. I just want to compare two values and I don&#39;t want to specify their type.</p>
 <h3>Summary QUnit + SpecIt:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>easy to integrate</li>
 <li>well documented</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>too many dependencies (jQuery, QUnit)</li>
 <li>matchers with object type specification</li>
 </ul>
@@ -92,13 +88,13 @@ tags:
 <p>JSSpec has the handy feature of allowing the re-running only a specific test. Another useful part of JSSpec are predefined constants for rendering engine (JSSpec.Browser.Webkit), platform (JSSpec.Browser.Mac) or browser (JSSpec.Browser.IE6).</p>
 <h3>Summary JSSpec:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>easy to integrate</li>
 <li>re-running specific tests</li>
 <li>very Rspec like including matchers</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>Don&#39;t allow nesting of descriptions</li>
 </ul>
 <p>&nbsp;</p>
@@ -107,7 +103,7 @@ tags:
 <p><a href="https://rubygems.org/gems/jspec" target="_blank" title="JSpec JavaScript Testing Framework">https://rubygems.org/gems/jspec</a></p>
 <p>JSpec written by TJ Holowaychuk is different from previous frameworks. Firstly you can install it as a gem or download as a whole package. These versions are different, while the gem version didn&#39;t contain jspec&#39;s files because he copied them to /Library/Ruby/Gems/1.8/gems/jspec-4.3.2/ (might be different on your system), the package (zip or tar) version contains everything. Because running JSpec could be little bit tricky I describe the basics here.</p>
 <p><span>After installing gem, create you directory for project</span></p>
-<pre style="font-size: 1.3em; margin-bottom: 5px;">
+<pre>
   jspec init name_of_project
   Jspec contains one test by default so after command
   jspec run
@@ -116,7 +112,7 @@ tags:
 <p><a href="/uploads/Image/jspec.jpg" target="_blank"><img alt="jspec" border="1" height="163" hspace="/uploads/Image/qunit.jpg" src="/uploads/Image/jspec.jpg" vspace="/uploads/Image/qunit2.jpg" width="358" /></a></p>
 <p>but if you don&#39;t have Safari set as a default browser than you can see this error: <span style="color: rgb(221, 17, 68);">NETWORK_ERR: XMLHttpRequest Exception 101</span></p>
 <p><span>to fix that just run</span></p>
-<pre style="font-size: 1.3em; margin-bottom: 5px;">
+<pre>
   jspec run --browser Safari
 </pre>
 <p>The test code is located at spec/spec.js or at unit/spec.js - depends on the version you have installed. JSPEC syntax is very clean and Rspec like.</p>
@@ -125,14 +121,14 @@ tags:
 <p>There are lot of matchers from JSpec and jQuery. JSpec also allows you to stub methods, mock the XHR object, use Fixtures or JSON Fixtures. You also can add your own matchers. JSpec is the most advanced testing framework that I ever seen before. On the JSpec website there are lots of examples and some screencasts so you can learn more if you are interested.</p>
 <h3>Summary JSpec:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>basic support for method stubbing</li>
 <li>XHR mocking</li>
 <li>matchers(jQuery, your own)</li>
 <li>very good documentation with examples</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>maybe to complex?</li>
 </ul>
 <p>&nbsp;</p>
@@ -144,13 +140,13 @@ tags:
 <p>As you can see it&#39;s not really nice. In spite of complicated configuration YUI provide lot of handy features like mocking, errors handling, asynchronous tests, DOM event simulation and various types of handlers.</p>
 <h3>Summary YUI 3:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>lot of great functions</li>
 <li>tear down support</li>
 <li>good documentation</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>bad formatting of result</li>
 <li>more complicated syntax / setup</li>
 </ul>
@@ -163,14 +159,14 @@ tags:
 <p>JsUnitTest contains all the assert matchers that you would expect and it provide lot of examples how to use them.</p>
 <h3>Summary JsUnitTest:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>easy to configure</li>
 <li>tear down support</li>
 <li>lot of useful examples</li>
 <li>TextMate bundle.</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>no documentation - you have to look at the github project page</li>
 </ul>
 <p>&nbsp;</p>
@@ -185,12 +181,12 @@ tags:
 <p><span>Test template:</span> <script src="http://gist.github.com/520783.js?file=gistfile1.js" type="text/javascript"></script><span>Example of custom matcher:</span> <script src="http://gist.github.com/520784.js?file=gistfile1.js" type="text/javascript"></script></p>
 <h3>Gem version</h3>
 <p>After installation of Gem:</p>
-<pre style="font-size: 1.3em; margin-bottom: 5px;">
+<pre>
  gem install jasmine
  script/generate jasmine
 </pre>
 <p><span>You can run test in browser by:</span></p>
-<pre style="font-size: 1.3em; margin-bottom: 5px;">
+<pre>
  rake jasmine
 </pre>
 <p>This will start the Jasmin server on http://localhost:8888/ where the output is the same as above.</p>
@@ -198,13 +194,13 @@ tags:
 <p>Jasmine looks pretty good, you can write your own matchers, you can use stabbing (createSpyObj method) and mocking (createSpy method), it&#39;s well documented but it could have more examples in documentation.</p>
 <h3>Summary Jasmine:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>gem or standalone version</li>
 <li>customisable matchers</li>
 <li>describe blocks</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>only few examples</li>
 </ul>
 <p>&nbsp;</p>
@@ -218,12 +214,12 @@ tags:
 <p>What is little bit sad is, that you have to download whole source code, because there is no prepared package, also I was unable to find documentation. The biggest thing is that last commit is from 2008 so this means the jQuery is out of date.</p>
 <h3>Summary Screw.Unit:</h3>
 <h4>Pros:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px; margin-bottom: 5px;">
+<ul>
 <li>customisable matchers</li>
 <li>extendable by subscribing to certain event</li>
 </ul>
 <h4>Cons:</h4>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>out of date</li>
 <li>missing documentation</li>
 </ul>

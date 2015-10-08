@@ -16,8 +16,8 @@ tags:
 <p>A very simple problem I often find is what I should name different elements, and if I should use ids or classes. After often hearing the two <a href="http://twitter.com/ubxd">@ubxd</a> CSS heroes Attila and Will have lengthy debates on the best way of doing things, &nbsp;I think the real answer is that there isn&#39;t one.</p>
 <p>So I decided to look around the web, see what other people are doing, see what the top websites of the world were doing. &nbsp;I downloaded the top 1 million websites from <a href="http://www.alexa.com/topsites">Alexa</a>, and wrote a quick app that scrapes these sites, and tracks the top names used for ids and classes.</p>
 <p>So here are the results (I stopped at 20000 results):</p>
-<div>
-<table style="float: left; width: 150px;">
+<div style="margin: 0 auto; width: 380px;">
+<table style="float: left; width: 190px;">
 <tbody>
 <tr>
 <td colspan="3" style="text-align: left;">
@@ -145,7 +145,7 @@ active</td>
 </tr>
 </tbody>
 </table>
-<table style="width: 150px; float: left;">
+<table style="width: 190px; float: left;">
 <tbody>
 <tr>
 <td colspan="3" style="text-align: left;">
@@ -277,7 +277,7 @@ navigation</td>
 <div style="clear: left;">&nbsp;</div>
 <p><a href="http://www.flickr.com/photos/stephenhackett/"><img alt="" src="http://farm2.static.flickr.com/1296/3424929417_b83f4bd2f8.jpg" width="500" /></a></p>
 <p>So, not that interesting I&#39;m afraid. &nbsp;But what is interesting?</p>
-<ul style="font-size: 1.3em; line-height: 1.5em; margin-left: 20px;">
+<ul>
 <li>Some of top ids are elements in HTML5 for example &quot;footer&quot;, &quot;header&quot; and &quot;nav&quot; so we&#39;re making some progression in standards.</li>
 <li>The use of <em>id</em> and <em>class</em> seems to be used interchangeably, there really is <em>no</em> common standard.</li>
 <li>We see heaps of sites using &quot;footer&quot; and &quot;header&quot; as a class name. Is that ok?</li>

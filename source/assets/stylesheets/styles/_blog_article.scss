@@ -24,6 +24,7 @@
   p,
   ul,
   ol,
+  table,
   blockquote {
     font-size: 1em;
     font-weight: 100;
@@ -88,6 +89,29 @@
   iframe {
     width: 100%;
     margin-bottom: 26px;
+  }
+
+  pre,
+  code {
+    background-color: $article-code-background-color;
+    color: $article-code-text-color;
+    font-family: monospace;
+  }
+
+  pre {
+    font-size: 1em;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+  }
+
+  th, td {
+    border: 1px solid $article-table-color;
+    padding: 4px 6px;
+    width: auto;
+  }
+
+  th {
+    background-color: $article-table-color;
   }
 
   h1 {
