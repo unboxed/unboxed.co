@@ -24,6 +24,11 @@ prose:
           element: 'hidden'
           value: true
 
+      - name: 'author'
+        field:
+          element: 'text'
+          label: 'Author'
+
       - name: 'tags'
         field:
           element: 'multiselect'
