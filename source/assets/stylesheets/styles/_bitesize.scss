@@ -93,7 +93,7 @@
   @include breakpoint($tablet-breakpoint) {
     @include columns(2, 40px);
     li:nth-child(2) {
-     padding-bottom: 50px;
+     padding-bottom: 60px;
     }
   }
 }
