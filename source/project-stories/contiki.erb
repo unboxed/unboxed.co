@@ -85,6 +85,7 @@ objectives_outcomes:
     - "To improve usability and sales conversion"
     - "Improve our ability to communicate core sales messages to the trade"
     - "Improve the maintainability and future proofing of the site reducing on-going maintenance costs and implement a responsive framework for future mobile requirements"
+  objective_smashed:
     - "Speed, ease and efficiency are the order of the day"
 
 site:
@@ -298,6 +299,14 @@ placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
           <span>Objective met</span>
         </li>
       <% end %>
+      <ul class="bitesize__list--bulleted-one-column">
+        <% current_page.data.objectives_outcomes.objective_smashed.each do |objective| %>
+          <li class="bitesize__list-item--white">
+            <%= markdown objective %>
+            <span>Objective smashed!</span>
+          </li>
+        <% end %>
+      </ul>
     </ul>
   </section>
 

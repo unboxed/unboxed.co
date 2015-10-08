@@ -93,8 +93,17 @@
   @include breakpoint($tablet-breakpoint) {
     @include columns(2, 40px);
     li:nth-child(2) {
-     padding-bottom: 60px;
+     padding-bottom: 70px;
     }
+  }
+}
+
+.bitesize__list--bulleted-one-column {
+  @extend .bitesize__list--bulleted;
+  padding-left: 0px;
+
+  @include breakpoint($tablet-breakpoint) {
+    @include columns(1, 0px);
   }
 }
 
@@ -106,7 +115,7 @@
   padding-bottom: 16px;
 
   &:last-of-type {
-    padding-bottom: 8px;
+    padding-bottom: 16px;
   }
 
   @include breakpoint($tablet-breakpoint) {
@@ -125,9 +134,10 @@
   p {
     padding-bottom: 8px;
   }
+
   span {
     font-size: 0.7em;
-    font-weight: 100;
+    font-weight: 300;
     letter-spacing: 0.07em;
   }
 }
