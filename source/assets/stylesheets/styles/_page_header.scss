@@ -39,14 +39,6 @@
   }
 }
 
-.page-header__title--fullsize {
-  @extend .page-header__title;
-
-  @include breakpoint($tablet-breakpoint) {
-    max-width: 100%;
-  }
-}
-
 .page-header__client {
   color: $header-text-color;
   font-size: 1.2em;
