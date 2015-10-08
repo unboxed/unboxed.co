@@ -6,11 +6,13 @@
 }
 
 .blog-related__tile {
+  display: block;
   background-color: $related-article-tile-color;
   box-sizing: border-box;
   margin-bottom: 3px;
   min-height: 130px;
   padding: 40px 30px;
+  text-decoration: none;
 
   &:hover {
     background-color: darken($related-article-tile-color, 5%);
@@ -20,7 +22,6 @@
 .blog-related__text {
   color: $related-article-text-color;
   font-weight: 100;
-  padding-top: 20px;
 }
 
 .blog-related__date {
@@ -40,6 +41,7 @@
   font-weight: 100;
   line-height: 1.3;
   text-decoration: none;
+  padding-top: 20px;
 }
 
 .blog-related__tag {
