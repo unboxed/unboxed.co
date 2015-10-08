@@ -1,0 +1,34 @@
+---
+layout: "blog"
+date: "2013-04-12 13:40:00 UTC"
+published: true
+title: "Dev Links"
+author: "Grant Speelman"
+tags:
+  - Rails
+---
+
+##[Matt Peperell](/people/matt-peperell) 
+### wysiwyg for responsive sites
+This week's work on Apps for Good has been challenging in a number of ways.  One of the largest time-sinks has been the responsive design.  Here's [a WYSIWYG editor for responsive design](http://webflow.com/).
+
+### Growing a Language
+Here's one from the archives that recently surfaced on Twitter. It's a talk by Guy Steele on designing a programming language which can easily be grown and extended by the userbase.
+http://www.youtube.com/watch?v=_ahvzDzKdB0
+
+### Geocities meet bootstrap
+Who remembers geocities?  Here's a link to remind you of those days.  
+http://divshot.github.io/geo-bootstrap/ - a geocities-like theme applied to the [twitter bootstrap library](http://twitter.github.io/bootstrap/)
+
+##[Joerg Diekmann](/people/joerg-diekmann) 
+### Forecast-cli
+forecast-cli (https://npmjs.org/package/forecast-cli)
+Get a weather forecast in your terminal - written by Joerg.
+### Memorizing a programming language
+Memorizing a programming language using spaced repetition software (http://sivers.org/srs)
+
+##[Richard Archer](/people/richard-archer) 
+### JavaScript Inheritance
+There are plenty of ways to explain the concepts of JavaScript Inheritance - it's just a case of finding the right one to suit your audience at the time. In this post Alex Sexton puts most of them together in one post; just choose the one that works best for you.
+http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/
+

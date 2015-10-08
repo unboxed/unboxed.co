@@ -77,24 +77,25 @@
     </div>
 
     <div class="blog-article__container">
-
-      <section class="blog-author">
-        <% author = get_author(current_page.data.author) %>
-        <% if author.image %>
-          <div class="blog-author__image">
-            <img src="<%= author.image %>" alt="<%= current_page.data.author %>"/>
-          </div>
-        <% end %>
-        <aside class="blog-author__right-section
-          <%= "blog-author__right-section-expanded" if author.image.nil?  %>">
-          <p class="blog-author__name">
-            <span><%= author.name %></span>
-          </p>
-          <div class="blog-author__bio">
-            <%= author.bio %>
-          </div>
-        </aside>
-      </section>
+      <% author = get_author(current_page.data.author) %>
+      <% if author %>
+        <section class="blog-author">
+          <% if author.image %>
+            <div class="blog-author__image">
+              <img src="<%= author.image %>" alt="<%= current_page.data.author %>"/>
+            </div>
+          <% end %>
+          <aside class="blog-author__right-section
+            <%= "blog-author__right-section-expanded" if author.image.nil?  %>">
+            <p class="blog-author__name">
+              <span><%= author.name %></span>
+            </p>
+            <div class="blog-author__bio">
+              <%= author.bio %>
+            </div>
+          </aside>
+        </section>
+      <% end %>
 
       <%= partial 'disqus', locals: { article_slug: current_page.slug } %>
 
