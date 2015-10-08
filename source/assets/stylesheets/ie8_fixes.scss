@@ -1,3 +1,5 @@
+@import 'variables';
+
 // To support full coloured div
 .grid-large-tile {
   display: block;
@@ -31,16 +33,22 @@
 }
 
 // Place icons in the middle of its container
-.footer-social_icons__icon {
+.social_icons__icon {
   padding-top: 6px;
   height: 22px;
 }
 
-.footer-social-icons__image {
+.social-icons__image {
   padding-top: 6px;
 }
 
 // To support full coloured div
-.footer-social-icons {
+.social-icons {
   display: block;
+}
+
+//To set a blog article width to match a project story
+.blog-article__container {
+  margin: 0 auto;
+  max-width: $max-mobile-container;
 }

@@ -1,0 +1,66 @@
+---
+layout: "blog"
+date: "2013-02-08 12:36:00 UTC"
+published: true
+title: "There's something in the woodshed"
+author: "Jolyon Pawlyn"
+tags:
+  - Rails
+---
+
+Gem of the week, courtesy of Eamon, is [rspec-instafail](https://github.com/grosser/rspec-instafail). 'Show failing specs instantly. Show passing spec as green dots as usual'. What a winner.
+
+## Brilliant UX from Facebook - [Pawel](/people/pawel)
+
+http://news.ycombinator.com/item?id=5175277 from Pawel
+
+## Explaining the SPDY protocol to 5 year olds - [Pawel](/people/pawel)
+
+http://www.reddit.com/r/webdev/comments/17zcih/spdy_protocol_explain_it_like_im_five/
+
+## 'Can you help me understand the benefits of require.js?' - [Richard](/people/richard-archer)
+
+https://gist.github.com/desandro/4686136
+
+For those of you looking into the benefits and drawbacks of using require.js on an upcoming project, the following was a discussion between various luminaries of the industry on use cases, its strengths, and weaknesses.
+
+##  CI for Homebrew appeal - [Attila](/people/attila-gyorffy)
+
+http://www.kickstarter.com/projects/homebrew/brew-test-bot
+
+The Homebrew community maintainers have started a Kickstarter campaign to cover the costs of a brew test-bot. Given that most contributions still have to be checked manually, acceptance is sometimes time consuming. The brew test-bot will be an automated review and testing system for the Homebrew OS X package manager to speed up handling community contributions. Sweet! The project is already funded, however if you feel like you could pledge a quid or two, please don't stop the funding. Imagine how much more we could do to make our favourite OS X package manager better...
+
+##  And a barnstorming contribution from [Steve](/people/steve-barnett)
+
+Diversity, in particular in the context of women and conferences, has been a hot topic this week.
+Check out these articles from [Sarah Parmenter](http://www.sazzy.co.uk/2013/02/speaking-up/), [Relly Annett-Baker](http://rel.ly/2013/02/also-speaking-up/), [Laura Kalbag](http://laurakalbag.com/women-and-conferences/), [Mel Choyce](http://choycedesign.com/2013/02/04/women-wordpress-the-web/), [Paul Watts](http://ladycoders.com/2013/01/28/how-to-be-inclusive/), [Rachel Andrew](http://www.rachelandrew.co.uk/archives/2013/02/05/women-speaking-and-online-abuse/), [Leslie Jensen-Inman](http://www.jenseninman.com/blog/13737040/speakingupitstime), [Jesse Wolgamott](http://jessewolgamott.com/blog/2013/02/05/the-one-where-i-have-to-explain-why-i-want-diversity-in-our-field/), [Ashe Dryden](http://ashedryden.com/blog/we-deserve-better-than-this), and [Cole Henley](http://cole007.net/blog/138/why-cant-we-all-just-get-along).
+
+http://www.discourse.org/
+Forum software from Jeff Atwood of Coding Horror, Stack Overflow, and Stack Exchange fame. One to watch.
+
+http://www.jisaacks.com/gitgutter
+GitGutter Sublime package for displaying a color coded gutter for code modifications.
+
+http://37signals.com/svn/posts/3388-three-charts-are-all-i-need
+Noah at 37signals on keeping it simple and selling the message, not the medium.
+
+http://alistapart.com/column/looking-beyond-user-centered-design
+Looking Beyond User-Centered Design by Cennydd Bowles, on A List Apart
+
+http://hhhhold.com/
+Feel the insanity of user-generated content in your project by putting simple hhhhold! URLs in your code
+
+### Silliness
+
+http://www.youtube.com/watch?v=Cx3wj74dgX4
+Squint Eastwood
+
+http://giphy.com/
+Search the best gifs on the web.
+
+http://mensweardog.tumblr.com/
+A dog. In menswear.
+
+https://github.com/joho/7xx-rfc
+RFC for the 7XX Range of HTTP Status codes - Developer Errors
+(Caution: contains F-bombs.)

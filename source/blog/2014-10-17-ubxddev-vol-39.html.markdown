@@ -1,0 +1,21 @@
+---
+layout: "blog"
+date: "2014-10-17 13:30:00 UTC"
+published: true
+title: "UBXDDEV Vol. 3.9"
+author: "Murray Steele"
+tags:
+  - Rails
+---
+
+## Fast Ruby - [Pedro](http://www.unboxedconsulting.com/people/pedro-moreira/)
+
+https://github.com/JuanitoFatas/fast-ruby
+
+This is a nice repo with code examples from [Erik Michaels-Ober's](https://github.com/sferik) “Writing Fast Ruby” talk, presented at [Baruco](http://www.baruco.org/) and [RubyconfPT](http://rubyconf.pt/) ([video](https://www.youtube.com/watch?v=fGFM_UrSp70) and [slides](https://speakerdeck.com/sferik/writing-fast-ruby)). I found the talk really interesting and it is great work by [Juanito Fatas](https://github.com/JuanitoFatas) in keeping the repo up to date with examples.
+
+## The effort of OSS - [Pedro](http://www.unboxedconsulting.com/people/pedro-moreira)
+
+https://github.com/basecamp/pow/issues/452#issuecomment-59448995
+
+As developers, we rely so much on an amazing body of work that is open-sourced: this a great reminder of the amount of work and personal investment that goes into creating/maintaining OSS projects.

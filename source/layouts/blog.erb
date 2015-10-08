@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title><%= current_page.data.title || "Unboxed" %></title>
+    <%= favicon_tag "favicon.ico" %>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <%= stylesheet_link_tag "application" %>
+    <%= javascript_include_tag "application" %>
+    <%= stylesheet_link_tag "ie10_fixes" %>
+    <!--[if IE 9]>
+      <%= stylesheet_link_tag "ie9_fixes" %>
+    <![endif]-->
+    <!--[if lt IE 9]>
+      <%= javascript_include_tag "html5shiv" %>
+      <%= stylesheet_link_tag "ie8_fixes" %>
+    <![endif]-->
+  </head>
+
+  <body class="<%= page_classes %>">
+    <header class="site-header">
+      <div class="site-header__brand">
+        <a class="site-header__link" href="https://www.unboxedconsulting.com/">
+        Unboxed
+        </a>
+      </div>
+    </header>
+
+    <div class="blog-article">
+      <div class="blog-article__container">
+
+        <section class="blog-header">
+          <h1 class="blog-header__title">
+            <%= current_page.data.title %>
+          </h1>
+          <span class="blog-header__author">
+            <%= current_page.data.author %>
+          </span>
+          <p class="blog-header__published-date">
+            <span>
+              <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
+            </span>
+          </p>
+          <div class="blog-header__tags blog-header__tag-border">
+          <% data.tags.each do |tag| %>
+            <div class="blog-header__tag-link
+              <%= "blog-header__tag-active blog-header__tag-border-active" if current_article.tags.include?(tag) %>">
+                <span><%= tag %></span>
+              </div>
+            <% end %>
+          </div>
+        </section>
+
+        <article class="blog-content">
+          <%= yield %>
+        </article>
+
+        <section class="blog-social-icons">
+          <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+            <div class="social-icons__icon">
+              <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
+            </div>
+          </a>
+          <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+            <div class="social-icons__icon">
+              <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
+            </div>
+          </a>
+          <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+            <div class="social-icons__icon">
+              <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
+            </div>
+          </a>
+        </section>
+      </div>
+    </div>
+
+    <div class="blog-article__container">
+      <% author = get_author(current_page.data.author) %>
+      <% if author %>
+        <section class="blog-author">
+          <% if author.image %>
+            <div class="blog-author__image">
+              <img src="<%= author.image %>" alt="<%= current_page.data.author %>"/>
+            </div>
+          <% end %>
+          <aside class="blog-author__right-section
+            <%= "blog-author__right-section-expanded" if author.image.nil?  %>">
+            <p class="blog-author__name">
+              <span><%= author.name %></span>
+            </p>
+            <div class="blog-author__bio">
+              <%= author.bio %>
+            </div>
+          </aside>
+        </section>
+      <% end %>
+
+      <%= partial 'disqus', locals: { article_slug: current_page.slug } %>
+
+      <% if current_article.similar_articles.any? %>
+        <section class="blog-related">
+        <p class="blog-related__header">Related</p>
+          <% current_article.similar_articles.first(3).each do |article| %>
+            <a class="blog-related__tile" href="<%= article.url %>">
+              <% if article.data.tags %>
+                <div class="blog-related__tag">
+                  <% article.data.tags.each do |tag| %>
+                    <div class="blog-related__tag-link"><span><%= tag %></span></div>
+                  <% end %>
+                </div>
+              <% end %>
+              <div class="blog-related__date" id="articlePublishedDate" data-date="<%= article.date %>">
+                <span>
+                  <%= Time.parse(article.date.to_s).strftime("%e %b %Y") %>
+                </span>
+              </div>
+
+              <script type="text/javascript">
+                date = document.querySelector('#articlePublishedDate').getAttribute('data-date');
+                document.querySelector('#articlePublishedDate span').outerHTML = moment(new Date(date)).fromNow();
+              </script>
+
+              <div class="blog-related__title">
+                <%= article.title %>
+              </div>
+            </a>
+          <% end %>
+        </section>
+      <% end %>
+    </div>
+  </body>
+
+  <script>
+    // Apply CSS height to every iframe in correct ratio to it's current width
+    function resizeIframes() {
+      // Loop over every iframe on the page
+      $('iframe').each(function() {
+        // Get the iframe's intended aspect ratio via it's inline dimensions
+        var ratio = $(this).attr('height') / $(this).attr('width');
+        // Apply a CSS height that is in correct ratio to it's current width
+        $(this).css('height', $(this).width() * ratio);
+      });
+    }
+
+    // Pop off an initial resize when the page loads
+    resizeIframes();
+
+    // Update iframes each time the window is resized
+    $(window).resize(function() {
+      resizeIframes();
+    });
+  </script>
+</html>

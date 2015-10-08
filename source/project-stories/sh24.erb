@@ -182,7 +182,7 @@ related:
     <ul class="bitesize__list">
       <% current_page.data.statistics.each do |statistic| %>
         <li class="bitesize__list-item">
-          <%= markdown statistic %>
+          <%= render_markdown statistic %>
         </li>
       <% end %>
     </ul>
@@ -319,7 +319,7 @@ related:
       <ul>
         <% current_page.data.conclusion.design_and_build.each do |statistic| %>
           <li class="bitesize__list-item">
-            <%= markdown statistic %>
+            <%= render_markdown statistic %>
           </li>
         <% end %>
       </ul>
@@ -333,7 +333,7 @@ related:
       <ul>
         <% current_page.data.conclusion.since_launch.each do |statistic| %>
           <li class="bitesize__list-item">
-            <%= markdown statistic %>
+            <%= render_markdown statistic %>
           </li>
         <% end %>
       </ul>
@@ -393,19 +393,19 @@ related:
 
     <section class="footer-social-icons">
       <div>
-        <a class="footer-social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="footer-social-icons__icon">
-            <%= image_tag 'twitter.png', class: 'footer-social-icons__image', alt: 'Twitter' %>
+        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
           </div>
         </a>
-        <a class="footer-social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="footer-social-icons__icon">
-            <%= image_tag 'facebook.png', class: 'footer-social-icons__image', alt: 'Facebook' %>
+        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
           </div>
         </a>
-        <a class="footer-social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="footer-social-icons__icon">
-            <%= image_tag 'linkedin.png', class: 'footer-social-icons__image', alt: 'LinkedIn' %>
+        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
           </div>
         </a>
       </div>
