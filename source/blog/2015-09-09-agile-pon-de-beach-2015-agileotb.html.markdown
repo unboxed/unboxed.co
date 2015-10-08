@@ -13,7 +13,7 @@ author: "Graeme McCubbin"
 
 <img src="http://bit.ly/1LRPO41" alt="The attendees">
 
-[Claire](https://www.unboxedconsulting.com/people/claire-kemp), [Jack](https://www.unboxedconsulting.com/people/jack-bracewell), [Martyn](https://www.unboxedconsulting.com/people/martyn-evans), [Ben](https://www.unboxedconsulting.com/people/ben-wong) and [Graeme](https://www.unboxedconsulting.com/people/graeme-mccubbin) (+200 others, but we don't have caricatures for them)<br/> 
+[Claire](https://www.unboxedconsulting.com/people/claire-kemp), [Jack](https://www.unboxedconsulting.com/people/jack-bracewell), [Martyn](https://www.unboxedconsulting.com/people/martyn-evans), [Ben](https://www.unboxedconsulting.com/people/ben-wong) and [Graeme](https://www.unboxedconsulting.com/people/graeme-mccubbin) (+200 others, but we don't have caricatures for them)<br/>
 
 2 days. 50 speakers. 40 sessions. 1 beach party. It was that time of year again: Agile On The Beach.<br/>
 
@@ -42,28 +42,31 @@ Each of us then took off to follow our individual talk schedules. Being a non-te
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Focus your team on what is going to deliver the value. <a href="https://twitter.com/hashtag/agileotb?src=hash">#agileotb</a></p>&mdash; Gram (@GramMcCram) <a href="https://twitter.com/GramMcCram/status/639381137731776512">September 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
-<h2 class="super_sub_heading">Lightning talks</h2>
-During the day, attendees were encouraged to submit their name for the final lightning talk session at the end of the first day. Names were pulled out during the last session. Claire was one of the lucky names to be pulled out, taking to the stage to share her talk titled <i>‘Redesigning the UX of Employment’</i>:<br/>
+<h2>Lightning talks</h2>
+
+<p>During the day, attendees were encouraged to submit their name for the final lightning talk session at the end of the first day. Names were pulled out during the last session. Claire was one of the lucky names to be pulled out, taking to the stage to share her talk titled <i>‘Redesigning the UX of Employment’</i>:</p>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">And <a href="https://twitter.com/ClaireKmp">@ClaireKmp</a> has taken to the stage. <a href="https://twitter.com/hashtag/agileotb?src=hash">#agileotb</a> <a href="http://t.co/dojdSEeh95">pic.twitter.com/dojdSEeh95</a></p>&mdash; Unboxed Consulting (@Ubxd) <a href="https://twitter.com/Ubxd/status/639479147450998784">September 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
 <h2 class="super_sub_heading">Party on the Beach</h2>
-With the first day of the conference officially closed, it was time for everyone to shuffle on down to the beach for the famous Agile on the Beach party...<br/>
+
+<p>With the first day of the conference officially closed, it was time for everyone to shuffle on down to the beach for the famous Agile on the Beach party...</p>
+
 <br/>
 
 <p align="center"><img src="http://bit.ly/1XCdpMB" alt="Beach wander"></p>
 
 <p align="center"><img src="http://bit.ly/1g3JvPc" alt="The beach"></p>
 
-In true British fashion, the sun did not have his hat on... but that didn’t matter. Spirits were high, laughter was rife, drinks were flowing, beach fires were blazing and some rather impressive sand sculptures were being carved in the main tent:<br/>
-<br/>
+<p>In true British fashion, the sun did not have his hat on... but that didn’t matter. Spirits were high, laughter was rife, drinks were flowing, beach fires were blazing and some rather impressive sand sculptures were being carved in the main tent:</p>
 
 <p align="center"><img src="http://bit.ly/1FrmbSc" alt="Sand sculptures"></p>
 <br/>
 
 <h2 class="super_sub_heading">Day two</h2>
-Day two was very much a continuation of the talk programme from the previous day, which opened with Jenni Jepson sharing the neuroscience of Agile leadership. She nailed it with this:
+
+<p>Day two was very much a continuation of the talk programme from the previous day, which opened with Jenni Jepson sharing the neuroscience of Agile leadership. She nailed it with this:</p>
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">&quot;Can I give you some feedback?&quot; asks <a href="https://twitter.com/jenniidk">@jenniidk</a> - This question provokes the runaway-from-a-bear response <a href="https://twitter.com/hashtag/agileotb?src=hash">#agileotb</a> <a href="http://t.co/O577X1nvHa">pic.twitter.com/O577X1nvHa</a></p>&mdash; Seb Rose (@sebrose) <a href="https://twitter.com/sebrose/status/639713543781224448">September 4, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

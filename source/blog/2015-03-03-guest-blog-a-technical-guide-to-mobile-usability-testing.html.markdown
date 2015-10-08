@@ -13,21 +13,19 @@ Setting aside the details of recruiting, script writing, and interviewing, from 
 
 First, as with all design projects, it is important to define your constraints. What is essential, and what is nice to have? For us, a couple of things emerged as essential:<br/>
 
-• <b>It needs to be a <i>mobile</i> lab.</b> To make mobile usability testing as useful as possible, we need to (duh!) be able to go where users are. We need to visit them in their offices or homes, or wherever they would normally use their devices. This means that we need a solution that is lightweight enough to take anywhere. Which leads to the second point.<br/>
-
-• <b>We need to be able to record all sessions (including user interactions).</b> If we’re going to be truly mobile, it is essential to record each session so that the rest of the team can view the session later. This should include video of the phone, where the user interacts, as well as a picture-in-picture view of the user’s face.<br/>
+* <b>It needs to be a <i>mobile</i> lab.</b> To make mobile usability testing as useful as possible, we need to (duh!) be able to go where users are. We need to visit them in their offices or homes, or wherever they would normally use their devices. This means that we need a solution that is lightweight enough to take anywhere. Which leads to the second point.<br/>
+* <b>We need to be able to record all sessions (including user interactions).</b> If we’re going to be truly mobile, it is essential to record each session so that the rest of the team can view the session later. This should include video of the phone, where the user interacts, as well as a picture-in-picture view of the user’s face.<br/>
 
 There are other things one can compromise on, but for mobile usability testing I believe these two points are non-negotiable. So with those requirements defined, I set out, full of hope, to find a good solution.<br/>
 
 <br/>
 <h2 class="super_sub_heading">Prototyping</h2>
+
 After reviewing and trying out every prototyping tool known to man, I settled on [Proto.io](https://proto.io) as a good solution for most projects. There are so many great options out there that it’s hard to go wrong on a choice of tool. That said, Proto.io has all of the key features that I believe are important to make a mobile usability test useful:<br/>
 
-• <b>Full interactivity.</b> To get the best feedback prototypes need to feel as real as possible. There are tools that allow for hot spots on static mockups to approximate a real app, but that’s not truly interactive. An app doesn’t feel real unless you can select dropdowns, type into text fields, and perform some basic functionality (even if it’s faked). Proto.io is the only tool that I’ve seen that allows for this much interactivity in a mobile prototype. The best part of this is their companion app that creates a true native experience that doesn’t require loading a URL in a mobile browser.<br/>
-
-• <b>Flexibility in the animations/transitions supported.</b> It’s important to try out many different solutions to see how they feel (to you and to users), and Proto.io supports any interaction you can throw at it (including the fairly scarce “long tap” action).<br/>
-
-• <b>Mix and match built-in components with your own assets.</b> Proto.io handles this pretty well, which means you can make the fidelity of the prototype as high as your heart desires.<br/>
+* <b>Full interactivity.</b> To get the best feedback prototypes need to feel as real as possible. There are tools that allow for hot spots on static mockups to approximate a real app, but that’s not truly interactive. An app doesn’t feel real unless you can select dropdowns, type into text fields, and perform some basic functionality (even if it’s faked). Proto.io is the only tool that I’ve seen that allows for this much interactivity in a mobile prototype. The best part of this is their companion app that creates a true native experience that doesn’t require loading a URL in a mobile browser.<br/>
+* <b>Flexibility in the animations/transitions supported.</b> It’s important to try out many different solutions to see how they feel (to you and to users), and Proto.io supports any interaction you can throw at it (including the fairly scarce “long tap” action).<br/>
+* <b>Mix and match built-in components with your own assets.</b> Proto.io handles this pretty well, which means you can make the fidelity of the prototype as high as your heart desires.<br/>
 
 This isn’t a post on how to use Proto.io, but Smashing Magazine recently published a great introduction called <i>[Mobile Prototyping With Proto.io](http://www.smashingmagazine.com/2015/02/19/mobile-prototyping-with-protoio/)</i>, and it’s definitely worth checking out.<br/>
 <br/>
@@ -57,9 +55,9 @@ We were stuck.<br/>
 
 The solution we came up with seems like quite a hack, but it ended up working really well, and I’ll definitely use it again. The setup (for Macs) is as follows:<br/>
 
-• First, you’ll have to purchase [iGlasses for Mac](http://www.ecamm.com/mac/iglasses/) to have better control over which camera is used by what software. Without this your Mac will get really confused. It’s not fun.<br/>
-• Open QuickTime, create a new movie recording, and set the camera input to the external camera (pointed to the mobile device). Don’t hit record, just let it sit there. You’re just using this as a viewer for the phone, not a recorder. Minimize all other windows.<br/>
-• Start up Silverback and create a new usability session as you normally would for a desktop app.<br/>
+* First, you’ll have to purchase [iGlasses for Mac](http://www.ecamm.com/mac/iglasses/) to have better control over which camera is used by what software. Without this your Mac will get really confused. It’s not fun.<br/>
+* Open QuickTime, create a new movie recording, and set the camera input to the external camera (pointed to the mobile device). Don’t hit record, just let it sit there. You’re just using this as a viewer for the phone, not a recorder. Minimize all other windows.<br/>
+* Start up Silverback and create a new usability session as you normally would for a desktop app.<br/>
 
 The Silverback recording will now record the desktop (which has the QuickTime viewer on the testing rig camera), as well as a picture-in-picture using the webcam. Voila!
 Here’s what it looks like when it’s all set up and recording:<br/>
@@ -72,12 +70,13 @@ With this setup we accomplished all our goals. Everything you see in that photo 
 I hope this guide will spark some ideas on how to get mobile usability testing going in your own work. And please, if you have a better solution for any of these steps, please let me know.<br/>
 
 <b>Further reading:</b><br/>
-• [Recording Mobile Device Usability Testing Sessions](http://www.thoughtworks.com/insights/blog/recording-mobile-device-usability-testing-sessions-–-guerrilla-style)<br/>
-• [How we built a research lab for mobile app testing in just a few hours](http://www.gv.com/lib/how-we-built-a-research-lab-for-mobile-app-testing-in-just-a-few-hours)<br/>
-• [Remote Usability Testing on Mobile Devices](http://blog.mailchimp.com/remote-usability-testing-on-mobile-devices/)<br/>
-• [How to Conduct a Usability test on a Mobile Device](http://www.measuringu.com/blog/mobile-usability-test.php)<br/>
-• [Eight Lessons in Mobile Usability Testing](http://uxmag.com/articles/eight-lessons-in-mobile-usability-testing)<br/>
-• [Secrets From Facebook’s Mobile UX Testing Team](http://www.fastcolabs.com/3007979/open-company/secrets-facebooks-mobile-ux-testing-team)<br/>
+
+* [Recording Mobile Device Usability Testing Sessions](http://www.thoughtworks.com/insights/blog/recording-mobile-device-usability-testing-sessions-–-guerrilla-style)<br/>
+* [How we built a research lab for mobile app testing in just a few hours](http://www.gv.com/lib/how-we-built-a-research-lab-for-mobile-app-testing-in-just-a-few-hours)<br/>
+* [Remote Usability Testing on Mobile Devices](http://blog.mailchimp.com/remote-usability-testing-on-mobile-devices/)<br/>
+* [How to Conduct a Usability test on a Mobile Device](http://www.measuringu.com/blog/mobile-usability-test.php)<br/>
+* [Eight Lessons in Mobile Usability Testing](http://uxmag.com/articles/eight-lessons-in-mobile-usability-testing)<br/>
+* [Secrets From Facebook’s Mobile UX Testing Team](http://www.fastcolabs.com/3007979/open-company/secrets-facebooks-mobile-ux-testing-team)<br/>
 <br>
 
 <i><b>About Rian:</b><br/>

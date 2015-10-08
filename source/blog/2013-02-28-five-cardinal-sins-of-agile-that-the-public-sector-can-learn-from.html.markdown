@@ -10,16 +10,17 @@ author: "Richard Stobart"
 Agile for government can be a very different kettle of fish than Agile in the private sector. It’s an alien context, it’s resistant to change and it’s used to playing by different rules. All the same, Agile offers fantastic opportunities for government software development, and the good news is that the public sector can learn from some of the mistakes made elsewhere.
 
 #1. Treating the Scrum Master as a traditional Project Manager
-The Scrum Master has two main responsibilities: 
-1)	Ensuring the team lives and breathes the values and practices of Scrum, and
-2)	Removing the impediments that prevent team members making fast progress.
+The Scrum Master has two main responsibilities:
+
+1. Ensuring the team lives and breathes the values and practices of Scrum, and
+2. Removing the impediments that prevent team members making fast progress.
 
 This dynamic is absolutely central to maintaining a high-performing, self-organising Agile team. On the other hand, if a Scrum Master is more familiar with a traditional command-and-control approach then they may find themselves doing one or more of the following:
-<ul>
-<li>Assigning specific tasks to team members</li>
-<li>Interfering with estimates</li>
-<li>Committing to things on behalf of the team</li>
-<li>Taking over the daily stand-up as an update for the Scrum Master</li>
+
+* Assigning specific tasks to team members
+* Interfering with estimates
+* Committing to things on behalf of the team
+* Taking over the daily stand-up as an update for the Scrum Master
 
 #2. Implementing the processes but not the technical practices
 Just because Scrum doesn’t mandate technical practices doesn’t mean they’re not important. Technical practices help to ensure that the quality of the code base remains high – and that changes can be made efficiently and with immediate feedback. Without these practices then you risk gradual stagnation as a more complicated code base starts to bog down new development. Worse, there may be a reluctance to make changes to existing code in case you break something. Since a core Agile principle is ‘embracing change’, that’s not going to do you any favours.
@@ -33,5 +34,5 @@ Agile processes adapt and evolve as they go, along with the product being develo
 Retrospectives need to continue even if things are going really well. Circumstances will always change and taking a regular pause for feedback should help to catch any problems that are beginning to creep in – before they take root.
 
 #5. The team is Agile but the Business isn’t
-This is particularly relevant for government software development, since public sector procurement takes place against a backdrop of top-down bureaucracy and entrenched ideas. For Agile to be truly effective it needs the right sort of engagement from the business. That includes a strong Product Owner who can make difficult decisions and a stakeholder community that has fully bought into the approach. All too often when new teams are starting out on the Agile journey they underestimate the challenges of convincing the business to support them in what they are doing. Moving to Agile delivery is as much about changing culture as it is about changing project processes. 
+This is particularly relevant for government software development, since public sector procurement takes place against a backdrop of top-down bureaucracy and entrenched ideas. For Agile to be truly effective it needs the right sort of engagement from the business. That includes a strong Product Owner who can make difficult decisions and a stakeholder community that has fully bought into the approach. All too often when new teams are starting out on the Agile journey they underestimate the challenges of convincing the business to support them in what they are doing. Moving to Agile delivery is as much about changing culture as it is about changing project processes.
 

@@ -43,7 +43,10 @@ author: "Graeme McCubbin"
 
 <blockquote class="twitter-tweet tw-align-center"><p>Don&#39;t rush to beta. But don&#39;t dillydally in alpha. Happy medium. 8 weeks intense alpha to de-risk <a href="https://twitter.com/hashtag/gettobeta?src=hash">#gettobeta</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a></p>&mdash; Carrie Bedingfield (@CBedingfield) <a href="https://twitter.com/CBedingfield/status/540178309121056768">December 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
+
 Tweet us at [@Ubxd](https://twitter.com/Ubxd) with the hashtag #GetToBeta if you have any questions or to get in on the conversation:<br/>
+
 <br/>
 <blockquote class="twitter-tweet tw-align-center"><p><a href="https://twitter.com/JohnSherer">@JohnSherer</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://twitter.com/CBedingfield">@CBedingfield</a> Larger than the Alpha team. Typically alpha has 3-5 and beta would grow to 7+</p>&mdash; Richard Stobart (@richardstobart) <a href="https://twitter.com/richardstobart/status/540181925038940160">December 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
 We're holding the next Digital Leaders Webinar series in the new year, we'd love to hear from you, email us at [courses@unboxedconsulting.com](courses@unboxedconsulting.com) to register your interest in attending.

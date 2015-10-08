@@ -11,20 +11,20 @@ tags:
 Goodafternoon and a very happy New Year to you all.
 
 
-###Automatic Generation and Evaluation of Recombination Games (Lizard)
+## Automatic Generation and Evaluation of Recombination Games (Lizard)
 A dissertation I stumpled upon recently which details, mathematically, what makes a game fun. Very interesting read if you have the time
 http://dev.pubs.doc.ic.ac.uk/phd-game-design/phd-game-design.pdf
 
 
-### Rails app security (Murray)
-Over the festive break I saw some people talking about the secret token that rails apps use to secure their sessions, and how most apps check that into source control and use the same one for all environments.  
+## Rails app security (Murray)
+Over the festive break I saw some people talking about the secret token that rails apps use to secure their sessions, and how most apps check that into source control and use the same one for all environments.
 
 This gist is a good start on describing the problem and describing potential solutions: https://gist.github.com/59b8b18bdcfe0af63e3b
 
 Most of the apps we work on won't be hugely exploitable by this as they're not in public repos, but I don't think we should have to think about it as a special case for apps that are public.  It's not as if we don't already have processes for managing this; we don't commit other, more obvious, secrets like database.yml or API keys, instead we leave it up to our deployment process to set up the correct production copy.  We should extend that process to cover session secrets too.
 
 
-### Song of github (Murray)
+## Song of github (Murray)
 
 This is amazing: http://song-of-github.herokuapp.com - it takes your github contributions chart and converts it to piano noises.  Sort of like those [piano rolls](http://en.wikipedia.org/wiki/Piano_rolls) used in [player pianos](http://en.wikipedia.org/wiki/Player_piano).  Full disclosure - I have a history of liking software that converts data in one format into data in another format - https://github.com/h-lame/stegosaurus.
 
@@ -39,13 +39,13 @@ This will change everything
 https://developer.mozilla.org/en-US/docs/Firefox_18_for_developers
 
 
-##"Beyond Media Queries: An Anatomy of an Adaptive Web Experience" (Tom S)
+## "Beyond Media Queries: An Anatomy of an Adaptive Web Experience" (Tom S)
 Just watched this conference on vimeo about adaptive web experience which was quite interesting - http://vimeo.com/55076713
 
 ##Nice visualisation of complex numbers and Julia Fractals: (TtT)
 http://acko.net/blog/how-to-fold-a-julia-fractal/
 
-##Approximately 1 Million links (Steve)
+## Approximately 1 Million links (Steve)
 
 You suck at Powerpoint: 5 shocking design mistakes you need to avoid
 http://www.slideshare.net/jessedee/you-suck-at-powerpoint-2

@@ -8,12 +8,10 @@ tags:
   - Rails
 ---
 
-<p>&nbsp;</p>
 <p>My last post was about pair programming. Recently I start working on a small project where I can&#39;t pair with anyone. So I started thinking &nbsp;&quot;what could I use from pairing even When I&#39;m not ? &quot;.</p>
 <p>My first thought was to act as if I was, so I would have to act as 2 different people. I should change my t-shirt and wear a hat or just put on glasses and change my hairstyle every time I change from one persona to another, but this could look really strange and potentially have detrimental consequences.</p>
 <p>Another thought was, &quot;Hey what are the advantages of pair programming which don&#39;t depend on the other person directly&quot; ? The answer is a better understanding of code, cleaner code and faster development. But how exactly would I achieve this? Let&#39;s find out!</p>
-<p>&nbsp;</p>
-<p><strong><span class="Apple-style-span" style="font-size: 11.6667px;">Better understanding of code</span></strong></p>
+<p><strong>Better understanding of code</strong></p>
 <p>Better understanding of code is based on the fact that you explain your implementation to your partner. You can still do this, and very often you are actually doing it without noticing.</p>
 <p>If you are speaking or just mumbling to yourself out loud then your brain is using different parts then if you were just &quot;thinking&quot; about the problem. So if you ask yourself out loud &quot;Why doesn&#39;t this work?&quot; or &quot;Ok this points to that if the value is....&quot; then it is same as if you were speaking to someone else. Even if you ask yourself &quot;What would Mr X do?&quot;. Than you force yourself to look at the problem from a different perspective it would also help you.</p>
 <p><strong>Faster development</strong></p>

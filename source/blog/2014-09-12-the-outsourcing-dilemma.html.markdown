@@ -22,6 +22,7 @@ If you deliver using Agile, resourcing large digital programmes with an outsourc
 It’s time to solve this problem.<br/>
 
 The options to date have been binary:<br/>
+
 1. Grow your permanent team and supplement with contractors<br/>
 2. Outsource the project – onshore (aka Expensive) or offshore (aka Fail)
 
@@ -30,11 +31,13 @@ The pros and cons are well documented and familiar.<br/>
 Most digital programmes need to outsource at least part of their development pipeline.<br/>
 
 Bad reasons to outsource: ‘efficiency’<br/>
+
 ✗ Saving money - Outsourcing often costs more<br/>
 ✗ Speeding up development - Outsourcing is surprisingly slow<br/>
 ✗ Replacing existing people (and reducing costs)<br/>
 
 Good reasons to outsource: augmenting<br/>
+
 ✓ Lacking the skills or capacity in-house<br/>
 ✓ Focus: getting round internal politics or project pipeline<br/>
 ✓ Speed (it might take six months to recruit)<br/>

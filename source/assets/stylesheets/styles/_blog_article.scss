@@ -63,10 +63,12 @@
     }
   }
 
+  b,
   strong {
     font-weight: 400;
   }
 
+  i,
   em {
     font-style: italic;
   }
@@ -130,5 +132,11 @@
     @include breakpoint($max-tablet-container) {
       font-size: 1.2em;
     }
+  }
+
+  hr {
+    margin: 20px;
+    border: 0;
+    border-bottom: 3px solid $light-gray;
   }
 }

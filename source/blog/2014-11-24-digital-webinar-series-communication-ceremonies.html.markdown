@@ -12,30 +12,37 @@ author: "Graeme McCubbin"
 ![webinar1](http://i1291.photobucket.com/albums/b548/grammccram/fdd183d1-fc48-45c4-a2b7-e27e26c84e20_zps11e39c22.png)<br/>
 
 <h2 class="super_sub_heading">Topics covered included:</h2>
-• How to put the audience at ease<br/>
-• How to encourage feedback<br/>
-• Who to invite and what to<br/>
-• Passive, continual and transparent communication<br/>
+
+* How to put the audience at ease<br/>
+* How to encourage feedback<br/>
+* Who to invite and what to<br/>
+* Passive, continual and transparent communication<br/>
 <br/>
+
 <h2 class="super_sub_heading">Among the insights shared were:</h2>
-• Get the Product Owner to run the Show and Tell - get them to cover what was delivered and what you plan to deliver next, actively encourage feedback<br/>
-• Show the features you have delivered, those you planned and didn't deliver, and those you're doing next<br/>
-• Rehearse your show and tell - create a story from the stories, make it quick and easy to understand<br/>
-• Present journeys of upcoming stories so stakeholders can see what’s coming visually<br/>
-• Looking for signs of success<br/>
-• Watch the Product Owner’s language change from 'the product' to 'our product' - that's when there is ownership<br/>
-• Get your same team fully committed to your project by committing to and delivering a retrospective every two weeks, without fail<br/>
+
+* Get the Product Owner to run the Show and Tell - get them to cover what was delivered and what you plan to deliver next, actively encourage feedback<br/>
+* Show the features you have delivered, those you planned and didn't deliver, and those you're doing next<br/>
+* Rehearse your show and tell - create a story from the stories, make it quick and easy to understand<br/>
+* Present journeys of upcoming stories so stakeholders can see what’s coming visually<br/>
+* Looking for signs of success<br/>
+* Watch the Product Owner’s language change from 'the product' to 'our product' - that's when there is ownership<br/>
+* Get your same team fully committed to your project by committing to and delivering a retrospective every two weeks, without fail<br/>
 </br>
+
 <h2 class="super_sub_heading">Tips for the most successful two-weekly retrospectives included:</h2>
-• Start retrospective with the [Retrospective Prime Directive](http://www.retrospectives.com/pages/retroPrimeDirective.html)<br/>
-• Make it short, sharp and FULL of trust + collaboration<br/>
-• Have passive communication mechanisms in the form of information radiators<br/>
-• Task board<br/>
-• Burn down for the sprint<br/>
-• Burn up for the backlog<br/>
-• Have your customer journey as wireframes and work in progress up on the walls - anyone who is interested can come and interact<br/>
+
+* Start retrospective with the [Retrospective Prime Directive](http://www.retrospectives.com/pages/retroPrimeDirective.html)<br/>
+* Make it short, sharp and FULL of trust + collaboration<br/>
+* Have passive communication mechanisms in the form of information radiators<br/>
+* Task board<br/>
+* Burn down for the sprint<br/>
+* Burn up for the backlog<br/>
+* Have your customer journey as wireframes and work in progress up on the walls - anyone who is interested can come and interact<br/>
+
 <br/>
 Here is the full audio of the webinar session:<br/>
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/177686655&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <br/>

@@ -19,20 +19,24 @@ The session brought together a handpicked and diverse group of healthcare expert
 ![healthcare1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-24%20at%2011.51.23_zpskt1lvghp.png)
 
 With everyone comfortably seated, the discussion was opened, addressing the initial questions:<br/>
-• <i>Why is healthcare still so clunky?</i><br/>
-• <i>How can we dramatically improve the patient experience and the patient outcomes using the power of technology?</i><br/>
-<br/>
+
+* <i>Why is healthcare still so clunky?</i><br/>
+* <i>How can we dramatically improve the patient experience and the patient outcomes using the power of technology?</i><br/>
+
 The session's three speakers each presented:<br/>
 <br/>
 <h2 class="super_sub_heading">Presenter 1: Kumar Jacob MBE, Principal Consultant at KJx</h2>
+
 Kumar is currently leading an initiative to bring to life the innovative use of technology in mental healthcare.<br/>
 <br/>
 
 <h2 class="super_sub_heading">Presenter 2: Thomas Whicher, Co-Founder at DrDoctor</h2>
+
 With a background in operational improvement, Tom worked in several hospitals delivering multimillion-pound savings, before setting up DrDoctor.<br/>
 <br/>
 
 <h2 class="super_sub_heading">Presenter 3: Ian Drysdale, CTO at GoodGym</h2>
+
 As CTO of GoodGym, Ian is using software and design to address problems associated with ageing.<br/>
 <br/>
 
@@ -47,29 +51,33 @@ The four most popular topics were then identified and brought to the group discu
 
 <br/>
 <h2 class="super_sub_heading">Discussion 1: Scale</h2>
-• Planning to scale from the start<br/>
-• How do you create value from the start for patients?<br/>
-• Scale and risk<br/>
-• Is it hard to achieve scale?<br/>
+
+* Planning to scale from the start<br/>
+* How do you create value from the start for patients?<br/>
+* Scale and risk<br/>
+* Is it hard to achieve scale?<br/>
 <br/>
 
 <h2 class="super_sub_heading">Discussion 2: Creating space for investigation</h2>
-• Encouraging ideas and solutions to develop<br/>
-• Incubating ideas and solutions<br/>
-• Changing the way in which we bring ideas forward<br/>
+
+* Encouraging ideas and solutions to develop<br/>
+* Incubating ideas and solutions<br/>
+* Changing the way in which we bring ideas forward<br/>
 <br/>
 
 <h2 class="super_sub_heading">Discussion 3: Sharing platforms</h2>
-• Generic platforms vs. customer-built platforms<br/>
-• Shared infrastructure<br/>
-• Working together reusing infrastructure<br/>
-• Code share<br/>
+
+* Generic platforms vs. customer-built platforms<br/>
+* Shared infrastructure<br/>
+* Working together reusing infrastructure<br/>
+* Code share<br/>
 <br/>
 
 <h2 class="super_sub_heading">Discussion 4: Immediate measurable value</h2>
-• How do we measure value?<br/>
-• How do we deliver value quickly to patients and providers?<br/>
-• Reducing the data to convince commissioners of value<br/>
+
+* How do we measure value?<br/>
+* How do we deliver value quickly to patients and providers?<br/>
+* Reducing the data to convince commissioners of value<br/>
 <br/>
 
 With the final discussion done, this exciting, energetic session came to a close. We had achieved our goal: to deliberately set up a whole load of conversations that were unfinished on the day, sparking ongoing conversation.<br/>

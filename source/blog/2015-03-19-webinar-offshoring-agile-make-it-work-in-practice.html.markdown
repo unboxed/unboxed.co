@@ -15,27 +15,29 @@ tags:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/196626765&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <br/>
-<h2 class="super_sub_heading">Topics covered included:</h2>
-• Communication, culture and trust in an Agile environment<br/>
-• How do we build relationships with people we don't have face-to-face contact with?<br/>
-• What can be done to enhance and improve communication<br/>
-• Tooling<br/>
-• Video conferencing<br/>
-• Remote pairing working within distributed development teams<br/>
-• Facilitation of meetings<br/>
+<h2>Topics covered included:</h2>
+
+* Communication, culture and trust in an Agile environment<br/>
+* How do we build relationships with people we don't have face-to-face contact with?<br/>
+* What can be done to enhance and improve communication<br/>
+* Tooling<br/>
+* Video conferencing<br/>
+* Remote pairing working within distributed development teams<br/>
+* Facilitation of meetings<br/>
 <br/>
 
-<h2 class="super_sub_heading">Amongst these topics, Carlo shared insights:</h2>
-• There has always been a greater demand of software developers than the available supply<br/>
-• There is a measurable bias in all online communications<br/>
-• In remote communication, we lose the opportunity for small talk<br/>
-• Both sides of conversation need approximately 30 megabits per second<br/>
-• Video conferencing has had a big impact on the clarity of communication<br/>
-• The idea of pairing becomes important when it comes to team composition<br/>
-• More open and inclusive platforms, than email, make for a better channel of communication around decisions in projects<br/>
-• High-quality communication equipment can make a massive difference to meetings with multiple people in the room<br/>
-• Having a conversation with someone not in the same room is much more cognitively taxing than the equivalent conversation in the same room<br/>
-• Make sure that people are prepared for meetings - use live online tools such as Trello, Whiteboard and Google Presentation, so people can <b>know</b> when you're referring to something in the discussion<br/>
+<h2>Amongst these topics, Carlo shared insights:</h2>
+
+* There has always been a greater demand of software developers than the available supply<br/>
+* There is a measurable bias in all online communications<br/>
+* In remote communication, we lose the opportunity for small talk<br/>
+* Both sides of conversation need approximately 30 megabits per second<br/>
+* Video conferencing has had a big impact on the clarity of communication<br/>
+* The idea of pairing becomes important when it comes to team composition<br/>
+* More open and inclusive platforms, than email, make for a better channel of communication around decisions in projects<br/>
+* High-quality communication equipment can make a massive difference to meetings with multiple people in the room<br/>
+* Having a conversation with someone not in the same room is much more cognitively taxing than the equivalent conversation in the same room<br/>
+* Make sure that people are prepared for meetings - use live online tools such as Trello, Whiteboard and Google Presentation, so people can <b>know</b> when you're referring to something in the discussion<br/>
 
 <blockquote class="twitter-tweet" lang="en"><p>Buy the best quality bandwidth you can afford to allow true real-time communication. <a href="https://twitter.com/hashtag/OffshoringAgile?src=hash">#OffshoringAgile</a> <a href="https://twitter.com/ironicbuddha">@ironicbuddha</a></p>&mdash; Unboxed Consulting (@Ubxd) <a href="https://twitter.com/Ubxd/status/578227917529952256">March 18, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
