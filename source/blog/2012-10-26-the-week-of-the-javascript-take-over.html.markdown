@@ -65,8 +65,6 @@ Just because
 Ever heard of a tri-state boolean with 5 possible values, 3 of which are unsupported?
 I hadn't until a few minutes ago. Details located at [http://msdn.microsoft.com/en-us/library/aa432714(office.12).aspx](http://msdn.microsoft.com/en-us/library/aa432714\(office.12\).aspx). Another one to file under the sick-and-wrong category.
 
-![Nope](/uploads/Image/nope.gif)
-
 Here's another link - this time one to file under the "impressive" folder:
 ## How to Sort One Million 8-digit Numbers in 1MB of RAM
 
@@ -94,10 +92,10 @@ Sadly [http://rubyweaver.js-designz.net/](http://rubyweaver.js-designz.net/) nee
 
 I think these are self-explanatory:
 
-# Fortran on a Mac
+## Fortran on a Mac
 
 [http://hpc.sourceforge.net/](http://hpc.sourceforge.net/)
-# Spacewar!
+## Spacewar!
 
 1962's hottest game, running on a DEC PDP-1 emulator
 [http://spacewar.oversigma.com/](http://spacewar.oversigma.com/)

@@ -22,13 +22,13 @@ Features need to include all the dependencies required to make that feature work
 A feature needs to be deployable to production. If a feature is incomplete, and you don’t want to roll it out to your full customer base, then you need to include a feature switch. This switch makes it available to a certain sub-set of customers. Or only make the process available to a set of users that you choose. So you need to be able to put the feature in production.<br/>
 <br/>
 
-<h2 "View public profile"">Product Owner involvement</h2>
+<h2>Product Owner involvement</h2>
 Make sure that the Product Owner, the person responsible for driving value from a feature once it’s delivered, has accepted the feature in a User Acceptance Test (UAT). Or if you happen to be UAT-ing in production, then they must accept the feature in production, before it’s toggled as available.<br/>
 
 <p align="center"><img src="http://bit.ly/1MvZEKp" alt="Product owner"></p>
 <br>
 
-<h2 "View public profile"">Automated testing</h2>
+<h2>Automated testing</h2>
 Make sure these acceptance criteria have automated tests to confirm (later on as the feature advances and is changed) that you don’t break anything already being used in production. Your UAT criteria should also be automated.<br/>
 <br/>
 
@@ -38,7 +38,7 @@ Make sure these acceptance criteria have automated tests to confirm (later on as
 <br/>
 <br/>
 
-<h2 "View public profile"">Non-functional testing</h2>
+<h2>Non-functional testing</h2>
 Make sure you have [zero-known defects](https://www.unboxedconsulting.com/blog/why-should-you-have-a-zero-defect-strategy) in this feature. But one thing that’s often controversial is non-functional testing:<br/>
 
 * Volume testing
@@ -54,7 +54,7 @@ You want a variance, to make sure this newly added feature hasn’t broken anyth
 The other way to do this is to automate all your environment creation and run up a full-sized production environment for your volume tests (for a short period of time) and run all your volume tests at the continuous integration stage, or system test stage, to make sure nothing is broken at scale. If scaling is important to your application, this is well worth the investment and time.<br/>
 <br/>
 
-<h2 "View public profile"">Housekeeping</h2>
+<h2>Housekeeping</h2>
 Don’t forget the housekeeping too. Make sure that:<br/>
 
 * All of the tests pass based on the latest pull
@@ -70,5 +70,5 @@ Don’t forget the housekeeping too. Make sure that:<br/>
 * A release note is updated with this feature (ideally you generate these based on all the stories that are marked as <i>‘done’</i> for that tag)<br/>
 <br/>
 
-<h2 "View public profile"">Do as Government Digital Service (GDS) would do</h2>
+<h2>Do as Government Digital Service (GDS) would do</h2>
 As GDS would do, get the sponsor to test the new feature in production. This is an optional step, but if you want to celebrate success on each feature, and you want absolute buy-in from this, then it’s a valuable investment.

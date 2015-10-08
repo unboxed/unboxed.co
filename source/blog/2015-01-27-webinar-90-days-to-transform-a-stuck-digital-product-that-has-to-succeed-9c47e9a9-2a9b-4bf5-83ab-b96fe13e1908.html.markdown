@@ -14,7 +14,7 @@ tags:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/187985628&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <br/>
 
-<h2 "View public profile"">Topics covered included:</h2>
+<h2>Topics covered included:</h2>
 • Roadmapping<br/>
 • What not to do and how to untie your hands so you’re doing things as effectively and efficiently as possible<br/>
 • Aligning your team – empowering them and removing the blockers<br/>
@@ -25,7 +25,7 @@ tags:
 
 Among the insights shared were:<br/>
 
-<h2 "View public profile"">Get your teams structured in a more efficient way:</h2>
+<h2>Get your teams structured in a more efficient way:</h2>
 • Imagine your development team as being an efficient sausage machine, and your functional requirements that go into that machine are, as quickly as possible, being produced as sausages<br/>
 
 ![webinar1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-01-27%20at%2011.44.18_zpsodhucwcd.png)<br/>

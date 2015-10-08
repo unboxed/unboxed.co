@@ -21,15 +21,15 @@ In a [PRINCE2](https://www.prince2.com) world, you have:<br/>
 
 <p align="center"><img src="http://bit.ly/1Ml9VHn" alt="PRINCE2"></p>
 
-<h2 "View public profile"">1. An IT project manager</h2>
+<h2>1. An IT project manager</h2>
 They generally deliver the solution.<br/>
 <br/>
 
-<h2 "View public profile"">2. A business project manager</h2>
+<h2>2. A business project manager</h2>
 They deliver the business components required to support the solution, re-structure the business process, get everyone set up to start using the solution and make sure the training is in place.<br/>
 <br/>
 
-<h2 "View public profile"">3. A steering group</h2>
+<h2>3. A steering group</h2>
 This group is there to pull the strings and make sure that the project is delivering against the business case.<br/>
 <br/>
 
@@ -38,7 +38,7 @@ However, all these things fall apart at the end of a project. You do your <i>‘
 No one owns the delivery of the business case, which is why the project was initially justified.<br/>
 <br/>
 
-<h2 "View public profile"">The solution</h2>
+<h2>The solution</h2>
 
 Choose a Product Owner.<br/>
 

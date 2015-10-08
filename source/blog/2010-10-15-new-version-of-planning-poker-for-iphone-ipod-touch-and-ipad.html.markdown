@@ -25,5 +25,5 @@ tags:
 <p>Our Planning Poker application wont make your estimates more accurate. But we hope it makes the process a bit easier and more fun.</p>
 <p>If you haven&#39;t got an iPhone, or just prefer a set of physical cards we can help there too. <a href="http://www.unboxedconsulting.com/contact">Contact us</a> if you want more details.</p>
 <p>The key thing to remember:</p>
-<p style="text-align: center;"><span style="font-size: x-large;">It&#39;s an Estimate</span></p>
+<p>It&#39;s an Estimate</span></p>
 

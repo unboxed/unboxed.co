@@ -12,7 +12,7 @@ tags:
 <h2>Getting started</h2>
 <p>There are several mature testing frameworks out there. I have my preference, but it&#39;s up to you to decide which framework meets your needs.</p>
 <p>For your consideration:</p>
-<ul style="list-style-type:disc;padding-left:2em">
+<ul>
 <li><a href="http://qunitjs.com/">QUnit</a></li>
 <li><a href="http://visionmedia.github.com/mocha/">Mocha</a></li>
 <li><a href="http://pivotal.github.com/jasmine/">Jasmine</a></li>
@@ -85,7 +85,7 @@ test(&#39;The user is presented with a list of added items&#39;, function () {
 <p>There we go, our first test passes. Now onto more complicated matters.</p>
 <h3>Getting asynchronous</h3>
 <p>Now lets alter our listView module to load some data from the server. This presents us with two problems:</p>
-<ol style="list-style-type:decimal;padding-left:2em">
+<ol>
 <li>We don&#39;t want to request data from a real server. This would be slow and means we can&#39;t test our code in isolation.</li>
 <li>The request could return at any time and our test doesn&#39;t know when to expect it.</li>
 </ol>

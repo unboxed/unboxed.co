@@ -19,7 +19,7 @@ First, as with all design projects, it is important to define your constraints. 
 There are other things one can compromise on, but for mobile usability testing I believe these two points are non-negotiable. So with those requirements defined, I set out, full of hope, to find a good solution.<br/>
 
 <br/>
-<h2 "View public profile"">Prototyping</h2>
+<h2>Prototyping</h2>
 
 After reviewing and trying out every prototyping tool known to man, I settled on [Proto.io](https://proto.io) as a good solution for most projects. There are so many great options out there that it’s hard to go wrong on a choice of tool. That said, Proto.io has all of the key features that I believe are important to make a mobile usability test useful:<br/>
 
@@ -30,7 +30,7 @@ After reviewing and trying out every prototyping tool known to man, I settled on
 This isn’t a post on how to use Proto.io, but Smashing Magazine recently published a great introduction called <i>[Mobile Prototyping With Proto.io](http://www.smashingmagazine.com/2015/02/19/mobile-prototyping-with-protoio/)</i>, and it’s definitely worth checking out.<br/>
 <br/>
 
-<h2 "View public profile"">Mobile usability testing rig</h2>
+<h2>Mobile usability testing rig</h2>
 If you’re going to record a mobile device, you’re going to need a camera and a rig. So I got lost in mobile usability testing rig guides for days. I was on the verge of giving up and just go with remote testing instead, because it just seemed like such a hassle. But I persisted because I realized it just isn’t a good option for testing prototypes. If you’d like to do part IDI (in-depth interview) and part usability testing, you need a way to be in the room with users and dig deep into certain areas.<br/>
 
 I’ve seen some crazy setups — my favorite and weirdest is probably MailChimp’s <i>[“hug your laptop”](http://blog.mailchimp.com/remote-usability-testing-on-mobile-devices/)</i> idea. It’s a brilliant hack, but I’m worried about the ability of non-tech savvy users to get comfortable with this, so I needed another solution.<br/>
@@ -45,7 +45,7 @@ One of the more annoying issues you’ll have to sort out is focus and brightnes
 With that out of the way, it was on to the next challenge — how to record the sessions.<br/>
 <br/>
 
-<h2 "View public profile"">Recording mobile usability tests</h2>
+<h2>Recording mobile usability tests</h2>
 
 Recording proved much harder than I expected it to be. It turns out it’s easy to record a desktop screen and a built-in camera (see Silverback, Morae). It’s also easy to record a mobile screen natively (see [Camtasia](http://www.techsmith.com/camtasia.html)) — but of course that doesn’t record taps on the screen so you can’t tell what a user is doing (there are tools that can do that kind of interactive recording, but it uses a custom browser, and in most cases we need to test native apps, hence the need for an external camera).<br/>
 

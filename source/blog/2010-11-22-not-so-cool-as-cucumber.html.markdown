@@ -8,12 +8,12 @@ tags:
   - Rails
 ---
 
-<p style="margin: 0pt;"><strong>The problem</strong></p>
+<p><strong>The problem</strong></p>
 <p>There&#39;s just one tiny validation to add to a user model. The impact on the application code is small whereas the impact on the test code is enormous. The change takes a day to implement.</p>
-<p style="margin: 0pt;"><strong>The context</strong></p>
+<p><strong>The context</strong></p>
 <p>A large code base, Rails 2.3.2, Test::Unit, Cucumber and an unhealthily long test suite execution courtesy of Cucumber.</p>
-<p style="margin: 0pt;"><strong>Possible solutions</strong></p>
-<ol style="font-size: 1.3em; line-height: 1.5em; list-style-type: decimal; padding-left: 20px; color: rgb(51, 51, 51); margin-bottom: 16px;">
+<p><strong>Possible solutions</strong></p>
+<ol>
 <li>Decide that tests are so last year and scrap the lot.</li>
 <li>Decide that Cucumber is too dangerous to handle and is best left for crudit&eacute;s, salad and Pimms.</li>
 <li>Decide that Rails ain&#39;t cut out for building large web sites and start over with PHP or Python.</li>

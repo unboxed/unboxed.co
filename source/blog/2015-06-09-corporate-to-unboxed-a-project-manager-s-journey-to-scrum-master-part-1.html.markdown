@@ -24,7 +24,7 @@ The projects I’ve been involved with have delivered a lot of value, but if som
 In my first week at Unboxed, two main things have really struck me:<br/>
 <br/>
 
-<h2 "View public profile"">1. People’s engagement</h2>
+<h2>1. People’s engagement</h2>
 Participating in Unboxed sprint planning sessions, retrospectives and daily stand-ups has allowed me to witness what a fully engaged agile team looks like.<br/>
 
 <p align="center"><img src="http://bit.ly/1Igpq1O" alt="Unboxed team"></p>
@@ -45,7 +45,7 @@ Here the project teams sit together, talk through the challenges and changes the
 Not only refreshing to be a part of, but I’m convinced software of value is delivered each sprint.<br/>
 <br/>
 
-<h2 "View public profile"">2. Autonomy for everyone</h2>
+<h2>2. Autonomy for everyone</h2>
 I’ve seen this manifest in a number of ways over the last week.<br/>
 
 As a project manager, I was responsible for the telling the team what to do. So, even though we had daily stand-up meetings, there was still a significant feeling of the team reporting back to the PM on what they were doing, with me free to swoop in and interfere if I thought it necessary (for example if the wrong thing was being worked on).<br/>

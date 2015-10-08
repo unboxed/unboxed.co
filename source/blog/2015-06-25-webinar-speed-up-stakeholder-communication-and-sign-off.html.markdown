@@ -17,7 +17,7 @@ In this 30-minute webinar, Richard explored:<br/>
 * Helping slice through a complex stakeholder decision-making unit<br/>
 <br/>
 
-<h2 "View public profile"">Listen to the full audio of the session:</h2>
+<h2>Listen to the full audio of the session:</h2>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/211792639&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <br/>
 
@@ -25,7 +25,7 @@ The session slides:<br/>
 <p align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/uwGzMUPmwOOdCD" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/speed-up-stakeholders" title="Speed up stakeholder communication and sign off" target="_blank">Speed up stakeholder communication and sign off</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed Consulting</a></strong> </div></p>
 <br/>
 
-<h2 "View public profile"">Topics covered included:</h2>
+<h2>Topics covered included:</h2>
 
 * Getting communication going between stakeholders at the start of the process and getting sign off at the end<br/>
 * Beginning a journey with stakeholders<br/>
@@ -37,7 +37,7 @@ The session slides:<br/>
 * Measuring though t-shirt sizing for value<br/>
 <br/>
 
-<h2 "View public profile"">Other insights shared:</h2>
+<h2>Other insights shared:</h2>
 
 * Take your stakeholders on a journey, increase their level of comfort and build trust so they trust what you say – as this relationship builds and improves, then get them excited<br/>
 * Go as fast as you can, take risks but land safely<br/>
@@ -60,7 +60,7 @@ The session slides:<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">You want a feature to be small enough so it can be justified to the other stakeholders in the room. <a href="https://twitter.com/richardstobart">@richardstobart</a> <a href="https://twitter.com/hashtag/SpeedAgile?src=hash">#SpeedAgile</a></p>&mdash; Unboxed Consulting (@Ubxd) <a href="https://twitter.com/Ubxd/status/613730146105827329">June 24, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
-<h2 "View public profile"">Join us for our next sessions:</h2>
+<h2>Join us for our next sessions:</h2>
 We still have two more sessions in the <i>SpeedAgile</i> webinar series over the next few weeks – [get your place now](https://www.unboxedconsulting.com/news/the-speed-agile-webinar-series).<br/>
 
 If you have any questions on this topic, or any topic similar to this, tweet us with the hashtag [<i>#AgileSpeed</i>](https://twitter.com/hashtag/speedagile?src=hash&vertical=default&f=tweets) at [@Ubxd](https://twitter.com/ubxd), or tweet Richard directly at [@richardstobart](https://twitter.com/richardstobart) – we’d love to hear from you.

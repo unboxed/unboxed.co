@@ -18,7 +18,7 @@ Whilst I’ve always had a process of sorts it’s never been the same every tim
 I don’t think I can talk about digital products (i.e. apps, websites or interfaces) without mentioning the devices that we use to access them.<br/>
 <br/>
 
-<h2 "View public profile"">Before we think about the future of digital, let’s talk devices</h2>
+<h2>Before we think about the future of digital, let’s talk devices</h2>
 Devices have, in many ways become a commodity, most of us have at least one and they are about as powerful as we need them to be for us to get things done. Whether you need a 7.5” screen to do those things on is another matter. Whatever size you go for there is no doubt that they are our lifeline to the <i>'world within the world’</i>.<br/>
 <br/>
 ![image1](http://i1291.photobucket.com/albums/b548/grammccram/cfad3e2f-62a8-40d5-8255-d132ac395ebf_zpshowlh5gh.png)<br/>
