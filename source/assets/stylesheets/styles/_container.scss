@@ -4,5 +4,6 @@
 
 .container--blog {
   box-sizing: border-box;
-  padding: 6px;
+  overflow: auto;
+  padding: 6px 0 6px 6px;
 }
