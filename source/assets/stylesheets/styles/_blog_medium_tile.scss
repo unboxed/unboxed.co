@@ -20,17 +20,17 @@
   &:hover {
     background-color: $light-gray;
 
-    .blog-medium-tile__bottom_content {
+    .blog-medium-tile__bottom-content {
       border-top: 3px solid darken($light-gray, 5%);
     }
   }
 }
 
-.blog-medium-tile__top_content {
+.blog-medium-tile__top-content {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(space-between);
-  padding: 14px 14px 0 14px;
+  padding: 14px;
   min-height: 140px;
 }
 
@@ -62,16 +62,24 @@
   font-size: .8em;
 }
 
-.blog-medium-tile__bottom_content {
+.blog-medium-tile__bottom-content {
   border-top: 3px solid $light-gray;
-  margin-top: 14px;
-  padding: 14px;
 }
 
-.blog-medium-tile__article_body {
+.blog-medium-tile__article-body {
   color: $dark-gray;
   font-size: .95em;
   line-height: 1.15em;
   font-weight: lighter;
   word-wrap: break-word;
+  padding: 14px;
+}
+
+.blog-medium-tile__article-image {
+  box-sizing: border-box;
+  display: block;
+  height: 213px;
+  object-fit: cover;
+  padding: 4px;
+  width: 100%;
 }
