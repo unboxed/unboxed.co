@@ -35,8 +35,12 @@
 
 .project-team__headshot-container--6 {
   @extend .project-team__headshot-container;
-  padding-left: 10px;
+  padding-left: 5px;
   width: 15%;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-left: 10px;
+  }
 }
 
 .project-team__headshot {
