@@ -1,0 +1,33 @@
+.blog-tile {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(space-between);
+  background-color: $white;
+  border: 1px solid darken($light-gray, 5%);
+  box-sizing: border-box;
+  margin-bottom: 6px;
+  min-height: 180px;
+  padding: 14px 14px 14px;
+  text-decoration: none;
+  width: 100%;
+}
+
+.blog-tile__title {
+  color: $dark-gray;
+  font-size: 1.3em;
+  font-weight: lighter;
+  line-height: 1.3em;
+  margin-bottom: 6px;
+}
+
+.blog-tile__author {
+  color: $dark-gray;
+  font-size: .8em;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.blog-tile__date {
+  color: $dark-gray;
+  font-size: .8em;
+}
