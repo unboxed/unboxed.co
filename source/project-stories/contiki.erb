@@ -23,11 +23,18 @@ introduction:
   image: "/project-stories/contiki/team-meeting.jpg"
   image_description: "Team meeting"
 
-statistics_title: "Contiki in numbers"
-statistics:
-  - "78% the increased likelihood of users willing to book online"
-  - "43% conversion rate increase from previous period"
-  - "47% increase in bookings over previous period"
+statistics_1:
+  title: "Contiki in numbers"
+  number: "78%"
+  text: "the increased likelihood of users willing to book online"
+
+statistics_2:
+  number: "43%"
+  text: "conversion rate increase from previous period"
+
+statistics_3:
+  number: "47%"
+  text: "increase in bookings over previous period"
 
 agile:
   title: "Agile key in move to iterative customer-led design development"
@@ -169,19 +176,17 @@ placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
     </div>
   </section>
 
-  <section class="bitesize--navy">
+  <section class="bitesize--dark-gray">
     <h2 class="bitesize__title--white">
-      <%= current_page.data.statistics_title %>
+      <%= current_page.data.statistics_1.title %>
     </h2>
 
-    <ul>
-      <% current_page.data.statistics.each do |statistic| %>
-        <li class="bitesize__list-item--white">
-          <%= markdown statistic %>
-        </li>
-      <% end %>
-    </ul>
+    <div class="bitesize__tile--one">
+      <p class="bitesize__text--large"><%= current_page.data.statistics_1.number %><p>
+      <p class="bitesize__text--small"><%=current_page.data.statistics_1.text %></p>
+    </div>
   </section>
+
 
   <section class="component">
     <div class="component__tile text-tile">
@@ -224,7 +229,14 @@ placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
     </div>
   </section>
 
-  <img class="full-image" <%= retina_src current_page.data.placeholder_image %> />
+  <section class="bitesize--dark-gray">
+    <div class="bitesize__tile--two">
+      <p class="bitesize__text--large"><%= current_page.data.statistics_2.number %><p>
+      <p class="bitesize__text--small"><%=current_page.data.statistics_2.text %></p>
+      <p class="bitesize__text--large"><%= current_page.data.statistics_3.number %><p>
+      <p class="bitesize__text--small"><%=current_page.data.statistics_3.text %></p>
+    </div>
+  </section>
 
   <section class="component">
     <div class="component__tile text-tile">
@@ -290,7 +302,7 @@ placeholder_image: "/project-stories/contiki/placeholder-img-big.jpg"
     <% end %>
   </div>
 
-  <section class="bitesize--navy">
+  <section class="bitesize--dark-gray">
     <h2 class="bitesize__title--white">
       <%= current_page.data.objectives_outcomes.title %>
     </h2>
