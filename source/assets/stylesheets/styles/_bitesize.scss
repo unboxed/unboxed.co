@@ -145,9 +145,14 @@
 .bitesize__text--large {
   color: $bitesize-white-text-color;
   font-size: 2em;
-  padding-bottom: 5px;
+  padding-bottom: 10px;
   padding-top: 20px;
   text-align: center;
+
+  i {
+    font-size: 0.85em;
+    padding-right: 5px;
+  }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 5.18vw;
@@ -155,6 +160,10 @@
 
   @include breakpoint($max-tablet-container) {
     font-size: 3.8em;
+
+    i {
+      padding-right: 12px;
+    }
   }
 }
 
