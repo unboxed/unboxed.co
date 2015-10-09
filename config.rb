@@ -10,7 +10,7 @@ activate :blog do |blog|
   blog.layout = 'blog'
   blog.prefix = 'blog'
   blog.permalink = "{title}.html"
-  blog.new_article_template = 'source/templates/blog.md'
+  blog.new_article_template = 'templates/blog.md'
 end
 activate :similar, algorithm: :related_blog_articles
 activate :directory_indexes
@@ -36,6 +36,7 @@ helpers do
 end
 
 ignore '/templates/*'
+ignore '/partials/*'
 ignore '/**/README.md'
 
 configure :build do

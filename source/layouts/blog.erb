@@ -97,7 +97,7 @@
         </section>
       <% end %>
 
-      <%= partial 'disqus', locals: { article_slug: current_page.slug } %>
+      <%= partial 'layouts/disqus', locals: { article_slug: current_page.slug } %>
 
       <% if current_article.similar_articles.any? %>
         <section class="blog-related">
