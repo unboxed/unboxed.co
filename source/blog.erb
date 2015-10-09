@@ -8,18 +8,18 @@
 
 <div class="container container--blog" id="siteHeaderWaypoint">
   <% blog.articles.each do |article| %>
-    <a class="blog-tile" href="<%= article.url %>">
-      <div class="blog-tile__content">
-        <div class="blog-tile__title">
+    <a class="blog-small-tile" href="<%= article.url %>">
+      <div class="blog-small-tile__content">
+        <div class="blog-small-tile__title">
           <%= article.title %>
         </div>
 
-        <div class="blog-tile__bottom-content">
-          <div class="blog-tile__author">
+        <div>
+          <div class="blog-small-tile__author">
             <%= article.data.author %>
           </div>
 
-          <div class="blog-tile__date">
+          <div class="blog-small-tile__date">
             <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
           </div>
         </div>

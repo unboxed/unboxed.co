@@ -1,4 +1,4 @@
-.blog-tile {
+.blog-small-tile {
   box-sizing: border-box;
   margin-bottom: 6px;
   text-decoration: none;
@@ -10,7 +10,7 @@
   }
 }
 
-.blog-tile__content {
+.blog-small-tile__content {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(space-between);
@@ -18,7 +18,7 @@
   background-color: $white;
   padding: 14px 14px 14px;
   border: 1px solid darken($light-gray, 5%);
-  min-height: 180px;
+  min-height: 190px;
   width: 100%;
 
   &:hover {
@@ -26,7 +26,7 @@
   }
 }
 
-.blog-tile__title {
+.blog-small-tile__title {
   color: $dark-gray;
   font-size: 1.14em;
   font-weight: lighter;
@@ -42,14 +42,14 @@
   }
 }
 
-.blog-tile__author {
+.blog-small-tile__author {
   color: $dark-gray;
   font-size: .8em;
   font-weight: bold;
   margin-bottom: 6px;
 }
 
-.blog-tile__date {
+.blog-small-tile__date {
   color: $dark-gray;
   font-size: .8em;
 }
