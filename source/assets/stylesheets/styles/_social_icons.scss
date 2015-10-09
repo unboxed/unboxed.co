@@ -10,21 +10,21 @@
 }
 
 .blog-social-icons {
-  padding: 0 20px 10px;
   box-sizing: border-box;
+  padding: 0 20px 10px;
   text-align: right;
 
   @include breakpoint($max-tablet-container) {
-    max-width: $max-tablet-container;
     margin: 0 auto;
+    max-width: $max-tablet-container;
     padding-right: 40px;
   }
 }
 
 .social-icons__icon-container {
   display: inline-block;
-  vertical-align: top;
   margin-left: 8px;
+  vertical-align: top;
 }
 
 .social-icons__icon {

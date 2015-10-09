@@ -1,27 +1,3 @@
-.blog-article {
-  background-color: $article-background-color;
-}
-
-.blog-article__container {
-  box-sizing: border-box;
-  margin: 0 auto;
-  max-width: $tablet-breakpoint;
-
-  @include breakpoint($tablet-breakpoint) {
-    max-width: $max-tablet-container;
-    padding-bottom: 30px;
-  }
-
-  @include breakpoint($max-tablet-container) {
-    max-width: $max-tablet-container;
-  }
-}
-
-.blog-article__content {
-  box-sizing: border-box;
-  padding: 0 30px 10px;
-}
-
 .blog-content {
   h1 {
     color: $heading-brand-color;
@@ -58,7 +34,7 @@
   h5,
   h6 {
     font-size: 1em;
-    font-weight: bold;
+    font-weight: normal;
     line-height: 1.2;
     margin-bottom: 20px;
 
@@ -101,7 +77,6 @@
 
   a {
     color: $article-link-text-color;
-    font-weight: 400;
     text-decoration: none;
     word-wrap: break-word;
 
@@ -135,12 +110,6 @@
   iframe {
     width: 100%;
     margin-bottom: 26px;
-  }
-
-  hr {
-    margin: 20px;
-    border: 0;
-    border-bottom: 3px solid $light-gray;
   }
 
   pre,
