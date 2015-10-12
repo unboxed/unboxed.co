@@ -61,6 +61,22 @@ links:
     type: "news"
     link: "http://plymouthsoftware.com/news/london-based-agile-specialists-unboxed-consulting-choose-plymouth-software"
 
+related:
+  title: "Related"
+  articles:
+    - title: "Plymouth University projects featured in Education Technology"
+      type: "news"
+      link: "https://www.unboxedconsulting.com/news/plymouth-university-projects-featured-in-education-technology"
+      image: "/project-stories/plymouth/related/education-technology.jpg"
+    - title: "Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
+      type: "blog"
+      link: "https://www.unboxedconsulting.com/blog/digital-leaders-discover-the-new-rules-of-outsourcing-agile-teams-session"
+      image: "/project-stories/plymouth/related/agile-session.jpg"
+    - title: "Plymouth University Gets Agile"
+      type: "project story"
+      link: "https://www.unboxedconsulting.com/project-stories/plymouth-university-gets-agile"
+      image: "/project-stories/plymouth/related/plymouth-agile.jpg"
+
 ---
 
 <header class="page-header">
@@ -220,4 +236,48 @@ links:
       </a>
     <% end %>
   </section>
+
+  <footer class="component">
+    <div class="footer-introduction">
+      <h3 class="footer-introduction__title">
+        <%= current_page.data.related.title %>
+      </h3>
+    </div>
+
+    <% current_page.data.related.articles.each do |article| %>
+      <a class="related-tile" href="<%= article.link %>">
+        <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
+        <div class="related-tile__text-content">
+          <div>
+            <div class="related-tile__type">
+              <%= article.type %>
+            </div>
+            <div class="related-tile__title">
+              <%= article.title %>
+            </div>
+          </div>
+        </div>
+      </a>
+    <% end %>
+
+    <section class="footer-social-icons">
+      <div>
+        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
+          </div>
+        </a>
+        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
+          </div>
+        </a>
+        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
+          </div>
+        </a>
+      </div>
+    </section>
+  </footer>
 </div>
