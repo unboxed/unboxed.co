@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-11-04 15:02:00 UTC"
 published: true
 title: "Post Halloween Developer Newsletter - 4th October"
@@ -23,7 +24,7 @@ Starlogs is a toy for github projects.  Give it a project owner and project, and
 
 ## What is your type - [Ben J](http://www.unboxedconsulting.com/people/ben-janecke)
 
-[What is your type](http://www.pentagram.com/what-type-are-you/) Go through an epic journey to find out your type. 
+[What is your type](http://www.pentagram.com/what-type-are-you/) Go through an epic journey to find out your type.
 
 ## CSS3 features that you can actually use - Lee R
 

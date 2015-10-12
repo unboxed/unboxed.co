@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-07-19 14:00:00 UTC"
 published: true
 title: "Happy Ashes!"

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-12-17 15:58:00 UTC"
 published: true
 title: "This week's Dev Newsletter"

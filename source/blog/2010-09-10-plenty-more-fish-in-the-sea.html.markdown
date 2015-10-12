@@ -9,7 +9,7 @@ tags:
 ---
 
 <p><img alt="" height="343" src="/uploads/Image/Plenty-More-Fish.jpg" width="358" /></p>
-<p>&nbsp;</p>
+
 <p>It dawned on me this week that sometimes seeking out new business can be a bit like asking out a girl out on a hot date! Cold sweats, nervous shivers, butterflies in the stomach; a total nightmare... right?!</p>
 <p><br />
 This week I went along to the <a href="http://www.freshbusinessthinking.com/" target="_blank">freshbusinessthinking.com</a> event in London. Thousands of directors and reps from SMEs all over the UK, all in one room, at the same time - yowzer! Practically a speed dating extravaganza; latt&eacute;s were drunk, details were exchanged, telephone numbers and business cards being passed around willy nilly with no protection and not even a kiss goodbye. The thought in everyones&rsquo; minds was: could this person be good for me, could I be good for them, and darn they&rsquo;ve got beautiful eyes!<br />

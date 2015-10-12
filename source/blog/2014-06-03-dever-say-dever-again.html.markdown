@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-06-03 10:22:00 UTC"
 published: true
 title: "Dever say Dever again"
@@ -15,7 +16,7 @@ Welcome!  Welcome to our rebooted Dev Newsletter.
 
 [http://techbelly.ghost.io/empathy/](http://techbelly.ghost.io/empathy/)
 
-I always enjoy chatting to [Ben Griffiths](https://twitter.com/beng) about technology and development practices.  He has a warm and human take on things that is often lacking in other discussions online, so it's great to see him start blogging again.  [His article on the empathy required to be a developer](http://techbelly.ghost.io/empathy/) is a topic I've thought about a lot, particularly in the context the tools we use.  
+I always enjoy chatting to [Ben Griffiths](https://twitter.com/beng) about technology and development practices.  He has a warm and human take on things that is often lacking in other discussions online, so it's great to see him start blogging again.  [His article on the empathy required to be a developer](http://techbelly.ghost.io/empathy/) is a topic I've thought about a lot, particularly in the context the tools we use.
 
 One tool I use a lot is ``git blame``.  I use it [when trying to work out why a line of code](http://mislav.uniqpath.com/2014/02/hidden-documentation/) is the way it is, but I really wish it wasn't called blame; blame implies that we want to find [whose fault it is](https://twitter.com/search?q=git%20blame%20punch), but as Ben says in his article maybe you just don't understand yet the reason's why the previous developer made those choices.  We should embrace [collective code ownership](http://www.extremeprogramming.org/rules/collective.html) and not look to blame someone, but [look for understanding](https://twitter.com/srbaker/status/445227065630277632).
 

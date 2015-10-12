@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-09-19 13:45:00 UTC"
 published: true
 title: "UBXDDEV Vol. 3.5"
@@ -30,7 +31,7 @@ This article from [Sandi Metz](http://www.sandimetz.com/) really got me thinking
 
 ## Responsive web-design - [Alex](http://www.unboxedconsulting.com/people/alex-bobin)
 
-http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions 
+http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
 
 Another case for doing your responsive web design properly. iPhone 6 and iPhone 6 Plus bring new resolutions and pixel densities to the table.
 

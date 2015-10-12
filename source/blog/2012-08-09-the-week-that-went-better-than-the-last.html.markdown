@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-08-09 23:00:00 UTC"
 published: true
 title: "The Week That Went Better Than The Last"
@@ -15,7 +16,7 @@ Bender is full of rage. Beware Bender's wrath!
 To follow with last weeks inconsistency. This week we ae back to ActiveSupport. I found myself this week looking into creating signed messages for email unsubscribe links and I came accross the ActiveSupport::MessageVerifier. Not so much of a method but a class for generating signed messages and verifying them.
 
 Create a new verifier
-	
+
 	@verifier = ActiveSupport::MessageVerifier.new(Rails.application.config.secret_token)
 
 in your view
@@ -30,7 +31,7 @@ in your controller
 	rescue ActiveSupport::MessageVerifier::InvalidSignature
 	  # not verified
 	end
-	
+
 You can also pass options to the MessageVerifier on initialisation. These are the digest which defaults to SHA1 and the serialiser which defaults to Marshal.
 
 
@@ -66,8 +67,8 @@ refactored to
 	def client
 	  HTTPClient.new.tap { |c| c.set_auth(base, username, password) }
 	end
-	
-	
+
+
 ## The Slow Web (Andrew M)
 [http://blog.jackcheng.com/post/25160553986/the-slow-web](http://blog.jackcheng.com/post/25160553986/the-slow-web)
 
@@ -80,10 +81,10 @@ Developer magazine written by developers for developers. How lovely!
 There are loads of application dev. tutorials and articles. They also have a free to download magazine for tablets.
 
 ## The Unboxed CSS Validator (Jolyon P)
-We have updated the Unboxed CSS validator and made a small change to the [be_valid_asset gem](https://github.com/unboxed/be_valid_asset) (version 1.2.2) so that now if vendor specific extensions are used in css files,  validation will pass. 
+We have updated the Unboxed CSS validator and made a small change to the [be_valid_asset gem](https://github.com/unboxed/be_valid_asset) (version 1.2.2) so that now if vendor specific extensions are used in css files,  validation will pass.
 
 To run css validation against all your stylesheets, try something like:
-  
+
 	describe "css" do
       it "should all be valid" do
         Dir[Rails.root.join("app/assets/stylesheets/**/*.css")].each do |css_file|
@@ -93,8 +94,8 @@ To run css validation against all your stylesheets, try something like:
         end
       end
     end
- 
- 
+
+
 ## Drag and Drop Grids (Andrew M)
 [http://gridster.net/](http://gridster.net/)
 I have been trying to find some cool and interesting ways to do layouts of late for my own personal portfolio when I came accross Dragster a JQuery Drag and drop grid plugin. http://gridster.net/ Similar thinking, I believe, to some of the original ideas proposed for the Unboxed website a fair while back now.

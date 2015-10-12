@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-01-09 14:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 5th January 2015"
@@ -58,5 +59,5 @@ This survey downloaded CSS files from over 8,000 domains and aggregated some dat
 
 [Carrie](http://www.unboxedconsulting.com/people/carrie-bedingfield): http://gabinaureche.com/TheaterJS/
 
-[Dom](http://www.unboxedconsulting.com/people/dominic-mason): [retro games machines pixel art](http://thecuriousbrain.com/?p=56883) 
+[Dom](http://www.unboxedconsulting.com/people/dominic-mason): [retro games machines pixel art](http://thecuriousbrain.com/?p=56883)
 

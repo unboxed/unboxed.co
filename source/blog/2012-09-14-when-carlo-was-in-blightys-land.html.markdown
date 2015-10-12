@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-09-14 15:59:00 UTC"
 published: true
 title: "When Carlo was in Blighty's Land"
@@ -36,16 +37,16 @@ http://ilian.i-n-i.org/simple-site-checker/
 And if you are building an API (Jolyon@kweekweek) HTTP Status Codes Site
 During the development of Simple Site Checker he realised that it would be useful for test purposes if there is a website returning all possible HTTP status codes. Thanks to Google App Engine and webapp2 framework building such website was a piece of cake.
 
-The site can be found at 
+The site can be found at
 
 http://httpstatuscodes.appspot.com.
 
 The beleaguered Mr Peperell contributes:
 
-In the same vein as RailsCasts is the site VimCasts.org. The episode I found which drew my attention to this site is the episode 
-http://vimcasts.org/episodes/vimgolf-prime-numbers/ . 
+In the same vein as RailsCasts is the site VimCasts.org. The episode I found which drew my attention to this site is the episode
+http://vimcasts.org/episodes/vimgolf-prime-numbers/ .
 
-This describes one of the entries (an interesting one, rather than the winning one) for a vimgolf.com challenge entitled "How to insert the first 100 prime numbers". 
+This describes one of the entries (an interesting one, rather than the winning one) for a vimgolf.com challenge entitled "How to insert the first 100 prime numbers".
 [editor: seriously? can't they use a real language?]
 
 His second link is merely to give prominence to a blog post from a couple of years ago detailing a way to integrate google docs with the editor : http://blog.milford.io/2010/06/sweet-use-vim-with-google-docs/
@@ -60,7 +61,7 @@ I failed to find a simple step by step guide to setting up automated deployments
 
 2) For the project that you want to deploy automatically, go to the Jenkins config and add the post build action 'Post build task'
 
-3) If building multiple project branches, click 'Add' and specify the log text that will trigger a deployment. eg '(origin/development)' if you want to deploy after a branch named 'development' has successfully completed running tests 
+3) If building multiple project branches, click 'Add' and specify the log text that will trigger a deployment. eg '(origin/development)' if you want to deploy after a branch named 'development' has successfully completed running tests
 
 4) In the script box, add 'bash -l -e jenkins_deploy.sh'. This script should be checked into the root of your Rails app. See example below
 

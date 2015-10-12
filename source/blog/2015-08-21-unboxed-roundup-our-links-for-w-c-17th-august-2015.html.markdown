@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-08-21 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 17th August 2015"
@@ -12,7 +13,7 @@ tags:
 
 http://alistapart.com//article/understanding-emotional-response
 
-This article gives psychological insight about what people’s emotional responses at work are really telling us, and how to react best to them. 
+This article gives psychological insight about what people’s emotional responses at work are really telling us, and how to react best to them.
 
 ## Big data: cutting through the waffle(s) - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
 

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-12-07 15:21:00 UTC"
 published: true
 title: "Cucumbers, Missed High Fives, Dancing Hungarians and more..."
@@ -30,15 +31,15 @@ Here's a link from Hungary, but no Hungarian language needed. It's a traditional
 
 [http://youtu.be/ywWBy6J5gz8](http://youtu.be/ywWBy6J5gz8)
 
-If you're curious to see other sorting algorithms be visualised then the related videos should sate your appetite. For those who wonder, the algorithm used internally by Ruby is the Heap sort. Sadly that group haven't danced that one yet. 
+If you're curious to see other sorting algorithms be visualised then the related videos should sate your appetite. For those who wonder, the algorithm used internally by Ruby is the Heap sort. Sadly that group haven't danced that one yet.
 
 ### 24 Ways to Impress your friends (Steve Barnett) ###
 
-An advent calendar for web geeks  
+An advent calendar for web geeks
 [http://24ways.org/](http://24ways.org/)
 
 ### UXmas (Steve B) ###
-Wishing you a great experience through the festive season: 
+Wishing you a great experience through the festive season:
 [http://uxmas.com/](http://uxmas.com/)
 
 ### Focal Point (Steve Barnett) ###
@@ -58,7 +59,7 @@ http://techiferous.com/2010/07/roadmap-for-learning-rails/)
 
 ### Driving in Russia (Steve B) ###
 
-We've all seen those "Police, Camera, Action" programs on the T.V. well for some reason this 13 minute video somehow got left out!! 
+We've all seen those "Police, Camera, Action" programs on the T.V. well for some reason this 13 minute video somehow got left out!!
 
 [http://kottke.org/12/12/driving-in-russia](http://kottke.org/12/12/driving-in-russia)
 
@@ -77,6 +78,6 @@ That awkward moment when you completely misjudge a high five.
 
 For the geek who already has the latest tech, I'm here to tell you, you haven't! while browsing the web a couple of days ago I stumbled across what I would like Santa Claus to bring me this Christmas!
 
-Kuratas is the first  fully functioning gigantic boardable robot and has brought my childhood dream of owning my own Gundam just one step closer!!! 
+Kuratas is the first  fully functioning gigantic boardable robot and has brought my childhood dream of owning my own Gundam just one step closer!!!
 
 [http://suidobashijuko.jp/](http://suidobashijuko.jp/)

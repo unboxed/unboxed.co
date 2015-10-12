@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-11-23 14:42:00 UTC"
 published: true
 title: "Return Of The ActiveSupport method of the week (Mark Morrison style)"
@@ -40,14 +41,14 @@ JavaScript image transformation and object detection. Check out the face detecti
 
 ***Lee found some front end goodness (and a trove of Rails 4 bits)***
 ## CSS Comb
-Not sure if I've submitted this one before but its quite a nice tool for anyone not so great at CSS to help tidy up after themselves and also has a sublime plugin 
+Not sure if I've submitted this one before but its quite a nice tool for anyone not so great at CSS to help tidy up after themselves and also has a sublime plugin
 [http://csscomb.com](http://csscomb.com)
 
 ## Rails 4 links compilation
-A whole load of Rails 4 links and articles all in one place 
+A whole load of Rails 4 links and articles all in one place
 [http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/](http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/)
 
-An interesting talk by Ilya Grigorik on some of the things we may or may not already know about using Chrome in development 
+An interesting talk by Ilya Grigorik on some of the things we may or may not already know about using Chrome in development
 [http://www.igvita.com/2012/11/14/wait-chrome-devtools-could-do-that/](http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/)
 
 ***Matt P was looking into those pesky cukes***

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-03-13 14:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 9th March 2015"
@@ -57,7 +58,7 @@ Chrome on mobile is developing a standard for displaying a banner prompting the 
 
 ## Track of the Week - [Patrick D](http://www.unboxedconsulting.com/people/patrick-davenport)
 
-<iframe src="https://player.vimeo.com/video/75174796" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/75174796" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ["Shallows"  by Daughter](https://vimeo.com/75174796).
 
 I’ve been slightly addicted to this album over the past year and i’m still not bored of it

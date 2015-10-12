@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-11-30 15:08:00 UTC"
 published: true
 title: "This week: Faster Rails tests, Interactive Video,  Lovely Interfaces and the history of BBC News online"
@@ -22,7 +23,7 @@ If you want to be on top of your application, you can use StatBoard to keep an e
 For a free, self-hosted version of Airbrake you may want to take a look into Whoops. [http://www.whoopsapp.com/](http://www.whoopsapp.com/)
 
 ###Popcorn - Annotated Interactive Video on the web (Andrew)###
-I was looking through the collection of TED videos on my iPad and I came across a talk on Popcorn. A platform for creating interactive video with links and interactive content just like the rest of the web. 
+I was looking through the collection of TED videos on my iPad and I came across a talk on Popcorn. A platform for creating interactive video with links and interactive content just like the rest of the web.
 [https://popcorn.webmaker.org/](https://popcorn.webmaker.org/)
 
 ###The History of BBC News Online (Jolyon)###

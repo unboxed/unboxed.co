@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-10-11 08:05:00 UTC"
 published: true
 title: "The best dev newsletter you will read today "
@@ -25,7 +26,7 @@ Do you 'thrive under pressure'? If so you'll have no problems beating my abysmal
 http://toys.usvsth3m.com/javascript-under-pressure/
 
 ##10x Engineer myth busting - [Ben Wong](http://www.unboxedconsulting.com/people/ben-wong)
-Dispelling the 10x developer myth https://medium.com/about-work/6aedba30ecfe 
+Dispelling the 10x developer myth https://medium.com/about-work/6aedba30ecfe
 
 ##Making remote teams work - Sven
 

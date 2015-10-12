@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-11-09 15:51:00 UTC"
 published: true
 title: "The week with no ActiveSupport favourite method"
@@ -43,7 +44,7 @@ For the lazy developer-designers amongst us:  [http://fortawesome.github.com/Fon
 
 
 ## Python-based programming game (MattP)
-[CheckiO](http://www.checkio.org/) is the world to traven where you will need your programming skills.  Play solo or get peer reviews and improve your code.  
+[CheckiO](http://www.checkio.org/) is the world to traven where you will need your programming skills.  Play solo or get peer reviews and improve your code.
 
 ## vimack plugin (MattP)
 ack is a tool like grep, optimized for programmers.  [vimack](https://github.com/mileszs/ack.vim#readme) is a plugin to integrate ack into your vim-life.

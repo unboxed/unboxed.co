@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-02-27 14:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 23rd February 2015"
@@ -18,13 +19,13 @@ This little utility will parse a website and break it down to some CSS statistic
 
 http://videlalvaro.github.io/2015/02/programming-myths.html
 
-This article / talk-transcript from [Alvaro Videla](http://videlalvaro.github.io/) is a deep-dive on the history of a particular statement that programmers just "know" is correct: "don't use goto's".  The problem is, most of us can't really explain why we shouldn't use gotos and so the statement becomes a myth.  Alvaro goes back to the source to explain where the statement came from, the history and context surrounding it, and why we shouldn't let ourselves get caught up in myths.  
+This article / talk-transcript from [Alvaro Videla](http://videlalvaro.github.io/) is a deep-dive on the history of a particular statement that programmers just "know" is correct: "don't use goto's".  The problem is, most of us can't really explain why we shouldn't use gotos and so the statement becomes a myth.  Alvaro goes back to the source to explain where the statement came from, the history and context surrounding it, and why we shouldn't let ourselves get caught up in myths.
 
 The historical context Alvaro provides reminded me of [The Future of Programming](http://worrydream.com/dbx/) by [Brett Victor](http://worrydream.com) which is also excellent and well worth your time.
 
 ## Staring into the nil abyss - [Pedro](http://www.unboxedconsulting.com/people/pedro-moreira)
 
-* http://www.sandimetz.com/blog/2014/12/19/suspicions-of-nil / 
+* http://www.sandimetz.com/blog/2014/12/19/suspicions-of-nil /
 * https://robots.thoughtbot.com/if-you-gaze-into-nil-nil-gazes-also-into-you
 
 I found myself in a curious situation dealing with a legacy codebase this week. Dealing with `nil` is something we do everyday as Ruby developers and these two blog posts work well together when considering approaches to handling it.

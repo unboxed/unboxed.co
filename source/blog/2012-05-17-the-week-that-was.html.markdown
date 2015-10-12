@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-05-17 23:00:00 UTC"
 published: true
 title: "The Week That Was"
@@ -34,14 +35,14 @@ Finally, Yehuda actually spends most of his talk speaking about the past 5 years
 
 Anyway, there are loads of other talks to watch online and I'd say that these 3 keynotes aren't worth your time. There are some good points in them, but not enough to warrant spending the ~2hrs it would take to watch all 3; seek out some write-ups and notes and you'll get all the good points much quicker.
 
-### CanCan - Grant 
+### CanCan - Grant
 
-I really love this library and usually use it by default on all my personal projects plus I usually update my controller generators to use this by default. 
+I really love this library and usually use it by default on all my personal projects plus I usually update my controller generators to use this by default.
 So I recommend we use this on all our new projects :)
 
 [CanCan](https://github.com/ryanb/cancan) is an authorization library for Ruby on Rails which restricts what resources a given user is allowed to access. All permissions are defined in a single location (the Ability class) and not duplicated across controllers, views, and database queries.
 
-## Markup and Javascript 
+## Markup and Javascript
 
 ### Maps - Joerge boy
 
@@ -93,7 +94,7 @@ I've been documenting [Non-functional Requirements](https://wiki.unboxedconsulti
 
 ### Rating Systems - Matt P
 
-Imagine you have a site with some form of voting or rating sytem.  How should you sort the rated items? Your probable initial guess of "just calculate the average" is wrong - see why by reading [this](http://evanmiller.org/how-not-to-sort-by-average-rating.html) 
+Imagine you have a site with some form of voting or rating sytem.  How should you sort the rated items? Your probable initial guess of "just calculate the average" is wrong - see why by reading [this](http://evanmiller.org/how-not-to-sort-by-average-rating.html)
 (This one happily contains a ruby fragment)
 
 ## DBs

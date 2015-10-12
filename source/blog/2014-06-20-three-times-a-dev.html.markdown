@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-06-20 13:30:00 UTC"
 published: true
 title: "Three times a dev"
@@ -30,13 +31,13 @@ CSS can often feel like an inelegant tool, especially if you've ever tried to ve
 
 [http://www.pagelayers.com](http://www.pagelayers.com)
 
-This seems a useful tool for web designers: 
+This seems a useful tool for web designers:
 
-> Page Layers is a website screenshot app for Mac OS X. It converts web pages to 
-> Photoshop files with separate layers for all page elements. It enables you to open 
+> Page Layers is a website screenshot app for Mac OS X. It converts web pages to
+> Photoshop files with separate layers for all page elements. It enables you to open
 > web pages in Photoshop and saves you lots of time when re-designing or improving
-> existing web page designs. Just open any page in the embedded browser and save 
+> existing web page designs. Just open any page in the embedded browser and save
 > the page as PSD with layers or as plain PNG image. Every web page element (every
 > image, link, block, ...) will be rendered as separate, named layer. Layer groups will be
-> created according to the site structure. It is the only Mac OS X browser screenshot 
+> created according to the site structure. It is the only Mac OS X browser screenshot
 > app you will ever need, unique in its capability to capture web pages with layers.

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-05-24 23:00:00 UTC"
 published: true
 title: "The Week Of Winning"
@@ -46,7 +47,7 @@ A nugget from the StoryWeb specs:
 
 Those example names come down to: "is_recommendable_to_recipient? for a workgroup should be true" and "is_recommendable_to_recipient? for a workgroup should be false".  That's not super helpful when examining the specdoc output.  Take a moment to name your specs with care, so that I don't have to read the code within them to work out why it "should be true".  For me, better names would be:
 
-"is_recommendable_to_recipient? for a workgroup should be true if the workgroup does not belong to the story" and 
+"is_recommendable_to_recipient? for a workgroup should be true if the workgroup does not belong to the story" and
 "is_recommendable_to_recipient? for a workgroup should be false if the workgroup belongs to the story"
 
 Of course, there may be shorter ways to express this, and they would be fine too, but my point stands.  The names of all the specs, when read together should be enough to describe the behaviour of the object under spec without me reading the contents of the spec.

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-01-16 14:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 12th January 2015"

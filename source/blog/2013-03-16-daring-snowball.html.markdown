@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-03-16 07:13:00 UTC"
 published: true
 title: "Daring Snowball"
@@ -30,7 +31,7 @@ On the other hand however, Vagrant core is still free and the provider interface
 Node 0.10.0 is out - Pawel
 ==
 
-A new version of Node.js is out with a new [stable release](http://blog.nodejs.org/2013/03/11/node-v0-10-0-stable). Version 0.10.0 has quite a few API fixes and tweaks and general polishing up, and is geared towards ease of use, and backwards compatibility. 
+A new version of Node.js is out with a new [stable release](http://blog.nodejs.org/2013/03/11/node-v0-10-0-stable). Version 0.10.0 has quite a few API fixes and tweaks and general polishing up, and is geared towards ease of use, and backwards compatibility.
 
 Rebuilding Rails - Pawel
 ==

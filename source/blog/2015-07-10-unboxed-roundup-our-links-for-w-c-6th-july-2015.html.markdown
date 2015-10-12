@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-07-10 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 6th July 2015"
@@ -28,7 +29,7 @@ Originally created by Josh Duck, this periodic table is a fresh take on the atom
 
 ## Pick meaningful colour names for your sass variables - [Tom R](http://tomrussell.co.uk/)
 
-http://www.color-blindness.com/color-name-hue/ 
+http://www.color-blindness.com/color-name-hue/
 
 Ever struggled with sass variables like `$light-grey, $lighter-grey, $lighter-lighter-grey, $even-lighter-grey`? Come up with meaningful and appropriate names for your sass variables using this One Cool Website
 

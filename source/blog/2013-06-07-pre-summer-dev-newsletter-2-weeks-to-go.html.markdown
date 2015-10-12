@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-06-07 14:05:00 UTC"
 published: true
 title: "Pre Summer Dev Newsletter (2 weeks to go)"
@@ -11,7 +12,7 @@ tags:
 ---
 
 ## Are coders worth it?
-An interesting article which questions the value of the work we do. 
+An interesting article which questions the value of the work we do.
 
 http://www.aeonmagazine.com/living-together/james-somers-web-developer-money/
 

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-06-21 13:45:00 UTC"
 published: true
 title: "All this has happened before, and all this will happen again"
@@ -54,8 +55,8 @@ An article on discussing the causes of and attempting to minimise the divergence
 Another infographic visualisation - this one on focussing on some commonly used programming languages.
 
 Be honest: how many of you knew that Ada is 130 years old?
- 
+
 ## A "Heads up!" to heroku users - [Matt](http://www.unboxedconsulting.com/people/matt-peperell)
 [https://blog.heroku.com/archives/2013/6/17/ruby-2-default-new-aps](https://blog.heroku.com/archives/2013/6/17/ruby-2-default-new-aps)
- 
+
 As of Tuesday, the wellknown Rails-friendly cloud service now defaults to Ruby version 2 for new deploys.  (Older versions of ruby will be preserved for exisiting apps)

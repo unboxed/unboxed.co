@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-03-01 15:26:00 UTC"
 published: true
 title: "This week's developer newsletter - cats, conferences, and cascading style sheets"
@@ -40,7 +41,7 @@ The above can be refactored to the below example. It's a little contrived but ov
 	    association.has_many :posts
 	  end
 	end
-	
+
 
 ## CSS: Damn it! I am doing it in tables -[Rob P](http://www.unboxedconsulting.com/people/robert-pataki)
 These days devs use CSS preprocessors and [Source Mapping](http://bricss.net/post/33788072565/using-sass-source-maps-in-webkit-inspector) for debugging. However there are others, who want to go back to the stone age and simply use tables. Crazy world...

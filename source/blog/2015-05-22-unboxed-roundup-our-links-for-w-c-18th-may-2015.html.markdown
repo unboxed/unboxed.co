@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-05-22 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 18th May 2015"
@@ -14,7 +15,7 @@ tags:
 
 * http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
 
-> I really like this article. It brings into the open something that many teams experience and I feel it's healthy - discussions. Questioning things from the different perspectives of a multidisciplinary team make our product services/products stronger. However, many times these discussions might be too long and sometimes unproductive. Knowing how much you care about what you're supporting and sensing or even asking the other party seems to me like a great idea. 
+> I really like this article. It brings into the open something that many teams experience and I feel it's healthy - discussions. Questioning things from the different perspectives of a multidisciplinary team make our product services/products stronger. However, many times these discussions might be too long and sometimes unproductive. Knowing how much you care about what you're supporting and sensing or even asking the other party seems to me like a great idea.
 I also love the fact that the author remind us that when we get into this type of discussions is because we care, good to keep in mind.<br/>
 <br/>
 

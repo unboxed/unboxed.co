@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-10-30 10:37:00 UTC"
 published: true
 title: "Agile Newsletter - 30 Oct"

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-05-29 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 25th May 2015"
@@ -7,7 +8,7 @@ author: "Graeme McCubbin"
 
 ---
 
-## The Perils of Semantic Coupling - [Patrick V](https://www.unboxedconsulting.com/people/patrick-vine) 
+## The Perils of Semantic Coupling - [Patrick V](https://www.unboxedconsulting.com/people/patrick-vine)
 
 * http://www.michaelnygard.com/blog/2015/04/the-perils-of-semantic-coupling/
 
@@ -15,7 +16,7 @@ author: "Graeme McCubbin"
 
 
 <br/>
-## Remote or co-located pairing - [Alex B](https://www.unboxedconsulting.com/people/alex-bobin) 
+## Remote or co-located pairing - [Alex B](https://www.unboxedconsulting.com/people/alex-bobin)
 
 * https://screenhero.com
 

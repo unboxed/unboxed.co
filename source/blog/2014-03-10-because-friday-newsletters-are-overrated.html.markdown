@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-03-10 07:21:00 UTC"
 published: true
 title: "Because Friday newsletters are overrated"
@@ -51,7 +52,7 @@ Spelunking into 3rd-party libraries and system code is impossible without a soli
 The [Enterprise version of Passenger](http://vimeo.com/45923773) has some debugging and resource management facilities which really make digging into live code much simpler. In the case of a production system, that alone is probably worth the license fee.
 
 ### Tools to stay focussed with
- 
+
 [Hospital Records](https://www.hospitalrecords.com/shop/release/hospital-records/nhs243-hospital-we-are-18) - simply brilliant Drum n Bass to while away those 8pm debugging sessions ;)
 
 

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-06-21 23:00:00 UTC"
 published: true
 title: "The Week In Dev"
