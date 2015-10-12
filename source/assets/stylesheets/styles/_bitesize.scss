@@ -13,6 +13,11 @@
   background-color: $bitesize-dark-gray-background-color;
 }
 
+.bitesize--blue {
+  @extend .bitesize;
+  background-color: $bitesize-blue-background-color;
+}
+
 .bitesize__title {
   color: $bitesize-text-color;
   font-size: 1.7em;
@@ -184,6 +189,12 @@
     font-size: 1.18em;
     line-height: 1.5;
     max-width: 65%;
+  }
+}
+
+.bitesize__text--wide {
+  @include breakpoint($tablet-breakpoint) {
+    max-width: 90%;
   }
 }
 
