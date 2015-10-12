@@ -37,6 +37,20 @@ team:
 team_quote:
   quote: "Unboxed Consulting excelled in that they were able to put a team down in Plymouth to skill up our in-house team, something that many suppliers are unwilling to do."
   source: "Paul Westmore, Plymouth University"
+site:
+  link: "https://www.plymouth.ac.uk/"
+  text: "Visit the site and check it out for yourself"
+
+links:
+  - title: "Custom Built Website offers Complete Flexibility for University of Plymouth"
+    source: "MEMSET"
+    type: "news"
+    link: "https://www.memset.com/gov/working-with-memset/case-studies/university-plymouth"
+  - title: "London-based Agile Specialists, Unboxed, choose Software Plymouth"
+    source: "Plymouth Software"
+    type: "news"
+    link: "http://plymouthsoftware.com/news/london-based-agile-specialists-unboxed-consulting-choose-plymouth-software"
+
 ---
 
 <header class="page-header">
@@ -135,5 +149,33 @@ team_quote:
       <p class="bitesize__text--large"><%= current_page.data.statistics_2.number %></p>
       <p class="bitesize__text--small bitesize__text--wide"><%= current_page.data.statistics_2.text %></p>
     </div>
+  </section>
+
+  <section class="component">
+    <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
+      <div>
+        <div class="link-tile__type">
+          link
+        </div>
+        <div class="link-tile__title">
+          <%= current_page.data.site.text %>
+        </div>
+      </div>
+    </a>
+    <% current_page.data.links.each do |link| %>
+      <a class="link-tile" href="<%= link.link %>" target="_blank">
+        <div>
+          <div class="link-tile__type">
+            <%= link.type %>
+          </div>
+          <div class="link-tile__title">
+            <%= link.title %>
+          </div>
+        </div>
+        <div class="link-tile__source">
+          <%= link.source %>
+        </div>
+      </a>
+    <% end %>
   </section>
 </div>
