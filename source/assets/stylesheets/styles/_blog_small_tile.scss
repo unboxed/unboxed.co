@@ -1,10 +1,11 @@
 .blog-small-tile {
   box-sizing: border-box;
+  display: block;
   margin-bottom: 6px;
+  padding-right: 6px;
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
-    padding-right: 6px;
     float: left;
     width: 33.33%;
   }

@@ -1,10 +1,11 @@
 .blog-medium-tile {
   box-sizing: border-box;
+  display: block;
   margin-bottom: 6px;
+  padding-right: 6px;
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
-    padding-right: 6px;
     float: left;
     width: 33.33%;
   }
@@ -73,6 +74,14 @@
   font-weight: lighter;
   word-wrap: break-word;
   padding: 14px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.7vw;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    font-size: 1.02em;
+  }
 }
 
 .blog-medium-tile__article-image {
