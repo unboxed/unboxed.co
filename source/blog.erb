@@ -10,6 +10,8 @@
   <% blog.articles.each do |article| %>
     <% if article.data.weekly_roundup %>
       <%= partial 'blog_small_tile', locals: { article: article } %>
+    <% elsif article.data.main_image %>
+      <%= partial 'blog_large_tile', locals: { article: article } %>
     <% else %>
       <%= partial 'blog_medium_tile', locals: { article: article } %>
     <% end %>
