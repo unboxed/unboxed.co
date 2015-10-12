@@ -6,7 +6,13 @@
   </div>
 </div>
 
-<div class="container container--blog" id="siteHeaderWaypoint">
+<div class="container container--blog js-packery" id="siteHeaderWaypoint"
+  data-packery-options='{
+    "itemSelector": ".blog-tile",
+    "columnWidth": ".blog-tile",
+    "percentPosition": true,
+    "transitionDuration": 0
+  }'>
   <% blog.articles.each do |article| %>
     <% if article.data.weekly_roundup %>
       <%= partial 'blog_small_tile', locals: { article: article } %>
