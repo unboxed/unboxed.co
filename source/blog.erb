@@ -8,23 +8,7 @@
 
 <div class="container container--blog" id="siteHeaderWaypoint">
   <% blog.articles.each do |article| %>
-    <a class="blog-small-tile" href="<%= article.url %>">
-      <div class="blog-small-tile__content">
-        <div class="blog-small-tile__title">
-          <%= article.title %>
-        </div>
-
-        <div>
-          <div class="blog-small-tile__author">
-            <%= article.data.author %>
-          </div>
-
-          <div class="blog-small-tile__date">
-            <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
-          </div>
-        </div>
-      </div>
-    </a>
+    <%= partial 'blog_medium_tile', locals: { article: article } %>
   <% end %>
 </div>
 

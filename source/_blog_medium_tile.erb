@@ -1,0 +1,29 @@
+<a class="blog-medium-tile" href="<%= article.url %>">
+  <div class="blog-medium-tile__container">
+    <div class="blog-medium-tile__top-content">
+      <div class="blog-medium-tile__title">
+        <%= truncate(article.title, length: 70) %>
+      </div>
+
+      <div>
+        <div class="blog-medium-tile__author">
+          <%= article.data.author %>
+        </div>
+
+        <div class="blog-medium-tile__date">
+          <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
+        </div>
+      </div>
+    </div>
+
+    <div class="blog-medium-tile__bottom-content">
+      <% if article.data.main_image %>
+        <img class="blog-medium-tile__article-image" src="<%= article.data.main_image %>" alt="Article image">
+      <% else %>
+        <p class="blog-medium-tile__article-body">
+          <%= truncate(strip_tags(article.body), length: 300) %>
+        </p>
+      <% end %>
+    </div>
+  </div>
+</a>
