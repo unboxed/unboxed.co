@@ -5,6 +5,29 @@ header:
   client: "Plymouth University"
   introduction: "Unboxed leads Agile overhaul of Plymouth University website"
 
+introduction:
+  title: "New website led by Unboxed"
+  content: "With the arrival of expensive tuition fees, universities have had to become more commercially oriented. Plymouth University realised that prospective students learn about them primarily through their website, and that the current site did not reflect their quality. A team from Unboxed worked alongside developers from the University to rapidly overhaul the website, adding functionality in two-week sprints."
+
+design_testing:
+  title: "​​Every design fully tested with students before build"
+  content: "Since the University and students had different ideas about what was required, the team ran sessions with all stakeholders but with particular emphasis on the main users (students). They then worked to deliver the most important features first, iterating to add further functionality on the basis of the evidence gathered for what would be most effective."
+
+benefits_quote:
+  quote: "Unboxed Consulting have created a far more attractive and appealing shop-window, which we are starting to see the benefits of."
+  source: "Paul Westmore, Interim CIO, Plymouth University"
+
+agile:
+  title: "Advanced Agile deployed for maximum value captured"
+  content: "In line with the most powerful elements of Agile philosophy, the new site was released almost immediately, alongside the old site. No clunky, delayed, high stress site changeover. New functionality was being released early and often, directly in line with user feedback. Our team co-located with Plymouth University, living in a specially rented flat in Plymouth."
+
+team:
+  title: "Curation team given new efficiency tools, creating long term value"
+  content: "We worked with the team responsible for maintaining the website’s 10,000+ pages of content and adding new material. Kanban tools were taught to improve efficiency and give performance metrics, with the result that duration of the commissioning and uploading process dropped dramatically. The Ruby on Rails skills of the internal team so they can maintain the site efficiently going forward."
+
+team_quote:
+  quote: "Unboxed Consulting excelled in that they were able to put a team down in Plymouth to skill up our in-house team, something that many suppliers are unwilling to do."
+  source: "Paul Westmore, Plymouth University"
 ---
 
 <header class="page-header">
@@ -18,3 +41,72 @@ header:
     </p>
   </div>
 </header>
+
+<div class="container">
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.introduction.content %>
+      </p>
+    </div>
+  </section>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.design_testing.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.design_testing.content %>
+      </p>
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.benefits_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.benefits_quote.source %>
+    </p>
+  </blockquote>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.agile.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.agile.content %>
+      </p>
+    </div>
+  </section>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.team.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.team.content %>
+      </p>
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.team_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.team_quote.source %>
+    </p>
+  </blockquote>
+</div>
