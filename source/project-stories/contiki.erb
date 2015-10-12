@@ -53,7 +53,7 @@ collaboration:
   image_description: "Sketch of a design"
 
 release_quote:
-  quote: "“We had a straightforward and smooth product release, with minimal fuss or user support issues."
+  quote: "We had a straightforward and smooth product release, with minimal fuss or user support issues."
   source: "Simon Larkin, Contiki"
 
 objectives:
@@ -163,7 +163,7 @@ related:
     <div class="component__tile text-tile">
       <ul class="text-tile__list">
         <% current_page.data.partnership.results.each do |result| %>
-          <li><%= markdown result %></li>
+          <li><%= render_markdown(result) %></li>
         <% end %>
       </ul>
     </div>
@@ -305,14 +305,14 @@ related:
     <ul class="bitesize__list--bulleted">
       <% current_page.data.objectives_outcomes.objectives.each do |objective| %>
         <li class="bitesize__list-item--white">
-          <%= markdown objective %>
+          <%= render_markdown(objective) %>
           <span>Objective met</span>
         </li>
       <% end %>
       <ul class="bitesize__list--bulleted-one-column">
         <% current_page.data.objectives_outcomes.objective_smashed.each do |objective| %>
           <li class="bitesize__list-item--white">
-            <%= markdown objective %>
+            <%= render_markdown(objective) %>
             <span>Objective smashed!</span>
           </li>
         <% end %>
