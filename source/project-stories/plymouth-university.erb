@@ -13,6 +13,10 @@ introduction:
   image: "/project-stories/plymouth-university/plymouth-website.jpg"
   image_description: "Plymouth website screenshot"
 
+plymouth_cio_video:
+  youtube_id: "nTSKD1PG1e4"
+  thumbnail: "/project-stories/plymouth-university/video-still.jpg"
+
 design_testing:
   title: "​​Every design fully tested with students before build"
   content: "Since the University and students had different ideas about what was required, the team ran sessions with all stakeholders but with particular emphasis on the main users (students). They then worked to deliver the most important features first, iterating to add further functionality on the basis of the evidence gathered for what would be most effective."
@@ -142,6 +146,17 @@ related:
       <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
     </div>
   </section>
+
+  <a href="https://www.youtube.com/watch?v=<%= current_page.data.plymouth_cio_video.youtube_id %>" target="_blank">
+    <img class="full-image" <%= retina_src current_page.data.plymouth_cio_video.thumbnail %> alt="Plymouth University CIO video" id="plymouthCioVideoThumbnail" />
+  </a>
+
+  <script>
+    if (Modernizr.video || Modernizr.flash) {
+      var $embed = $('<div class="full-video"><iframe id="plymouthCioVideoThumbnail" src="https://www.youtube.com/embed/<%= current_page.data.plymouth_cio_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
+      $("#plymouthCioVideoThumbnail").replaceWith($embed);
+    }
+  </script>
 
   <section class="component">
     <div class="component__tile text-tile">
