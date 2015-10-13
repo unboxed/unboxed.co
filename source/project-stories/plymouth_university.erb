@@ -51,6 +51,24 @@ site:
   link: "https://www.plymouth.ac.uk/"
   text: "Visit the site and check it out for yourself"
 
+team:
+  people:
+    - short_name: "attila"
+      full_name: "Attila Gyorffy"
+      link: "/people/attila-gyorffy"
+    - short_name: "chris"
+      full_name: "Chris Carter"
+      link: "/people/chris-carter"
+    - short_name: "alan"
+      full_name: "Alan Thomas"
+      link: "/people/alan-thomas"
+    - short_name: "richard"
+      full_name: "Richard Stobart"
+      link: "/people/richard-stobart"
+    - short_name: "sarah"
+      full_name: "Sarah Beck"
+      link: "/people/sarah-beck"
+
 links:
   - title: "Custom Built Website offers Complete Flexibility for University of Plymouth"
     source: "MEMSET"
@@ -201,6 +219,18 @@ related:
       <%= current_page.data.team_quote.source %>
     </p>
   </blockquote>
+
+  <div class="project-team">
+    <h2 class="project-team__title">
+      Unboxed team
+    </h2>
+
+    <% current_page.data.team.people.each do |person| %>
+      <a class="project-team__headshot-container" href="<%= person.link %>">
+        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+      </a>
+    <% end %>
+  </div>
 
   <section class="bitesize--blue">
     <div class="bitesize__tile--one">
