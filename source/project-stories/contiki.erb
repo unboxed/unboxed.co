@@ -67,9 +67,7 @@ team_quote:
   source: "Simon Larkin, Contiki"
 
 team:
-  image: "/project-stories/sh24/team.png"
-  image_description: "The Unboxed team"
-  people:
+  people_active:
     - short_name: "carlo"
       full_name: "Carlo Kruger"
       link: "/people/carlo-kruger"
@@ -82,9 +80,10 @@ team:
     - short_name: "heidi"
       full_name: "Heidi Geisler"
       link: "people/heidi-geisler"
+  people_archived:
     - short_name: "ben_j"
       full_name: "Ben Janecke"
-      link: ""
+      link: "people/ben-janecke"
     - short_name: "gavin"
       full_name: "Gavin van Lelyveld"
       link: ""
@@ -290,10 +289,16 @@ related:
       Unboxed team
     </h2>
 
-    <% current_page.data.team.people.each do |person| %>
-      <a class="project-team__headshot-container--6" href="<%= person.link %>">
+    <% current_page.data.team.people_active.each do |person| %>
+      <a class="project-team__headshot-container project-team__container--6" href="<%= person.link %>">
         <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/contiki/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
       </a>
+    <% end %>
+
+    <% current_page.data.team.people_archived.each do |person| %>
+      <div class="project-team__headshot-container project-team__container--6">
+        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/contiki/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+      </div>
     <% end %>
   </div>
 
