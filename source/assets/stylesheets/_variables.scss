@@ -11,7 +11,6 @@ $orange: #FDAD2B;
 $yellow: #FED336;
 
 $black: #000000;
-$very-dark-gray: #333333;
 $dark-gray: #3B3B3B;
 $medium-gray: #767676;
 $light-gray: #F7F7F7;
@@ -60,7 +59,7 @@ $white-tile-text-color: $black;
 $white-tile-type-color: $light-purple;
 
 // Contiki
-$bitesize-dark-gray-background-color: $very-dark-gray;
+$bitesize-dark-gray-background-color: lighten($black, 20%);
 $bitesize-white-text-color: $white;
 
 // Blog article
