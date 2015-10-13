@@ -56,6 +56,7 @@ site:
   text: "Visit the site and check it out for yourself"
 
 team:
+  title: "Unboxed team"
   people:
     - short_name: "attila"
       full_name: "Attila Gyorffy"
@@ -237,7 +238,7 @@ related:
 
   <section class="project-team">
     <h2 class="project-team__title">
-      Unboxed team
+      <%= current_page.data.team.title %>
     </h2>
 
     <% current_page.data.team.people.each do |person| %>
