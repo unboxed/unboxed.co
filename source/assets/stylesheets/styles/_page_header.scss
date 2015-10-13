@@ -31,7 +31,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 4vw;
-    max-width: 80%;
+    max-width: 75%;
   }
 
   @include breakpoint($max-tablet-container) {

@@ -3,7 +3,7 @@ $max-mobile-container: 480px;
 $tablet-breakpoint: 660px;
 $max-tablet-container: 960px;
 
-$blue: #29A5E7;
+$blue: #5993c6;
 $dark-purple: #3B0737;
 $medium-purple: #8F0B8A;
 $light-purple: #9F2B9A;
@@ -61,6 +61,9 @@ $white-tile-type-color: $light-purple;
 // Contiki
 $bitesize-dark-gray-background-color: lighten($black, 20%);
 $bitesize-white-text-color: $white;
+
+// Plymouth University
+$bitesize-blue-background-color: $blue;
 
 // Blog article
 
