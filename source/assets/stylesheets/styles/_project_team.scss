@@ -1,4 +1,4 @@
-.sh24-team {
+.project-team {
   background: $team-background-color;
   overflow: auto;
   padding: 20px 20px 0;
@@ -9,7 +9,7 @@
 
 }
 
-.sh24-team__title {
+.project-team__title {
   color: $tile-title-color;
   font-size: 1.7em;
   font-weight: 100;
@@ -27,13 +27,20 @@
   }
 }
 
-.sh24-team__headshot-container {
+.project-team__headshot-container {
   display: block;
   float: left;
+}
+
+.project-team__container--5 {
   width: 20%;
 }
 
-.sh24-team__headshot {
+.project-team__container--6 {
+  width: 16.66%;
+}
+
+.project-team__headshot {
   display: block;
   width: 100%;
 }

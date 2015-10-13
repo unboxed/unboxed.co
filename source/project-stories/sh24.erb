@@ -294,17 +294,17 @@ related:
     </p>
   </blockquote>
 
-  <div class="sh24-team">
-    <h2 class="sh24-team__title">
+  <section class="project-team">
+    <h2 class="project-team__title">
       Unboxed team
     </h2>
 
     <% current_page.data.team.people.each do |person| %>
-      <a class="sh24-team__headshot-container" href="<%= person.link %>">
-        <img class="sh24-team__headshot sh24-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+      <a class="project-team__headshot-container project-team__container--5" href="<%= person.link %>">
+        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
       </a>
     <% end %>
-  </div>
+  </section>
 
   <section class="bitesize">
     <h2 class="bitesize__title">

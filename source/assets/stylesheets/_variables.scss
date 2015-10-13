@@ -58,6 +58,10 @@ $white-tile-background-color: $white;
 $white-tile-text-color: $black;
 $white-tile-type-color: $light-purple;
 
+// Contiki
+$bitesize-dark-gray-background-color: lighten($black, 20%);
+$bitesize-white-text-color: $white;
+
 // Blog article
 
 $article-header-border-color: $light-gray;
