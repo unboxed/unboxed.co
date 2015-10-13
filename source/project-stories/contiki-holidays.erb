@@ -67,6 +67,7 @@ team_quote:
   source: "Simon Larkin, Contiki"
 
 team:
+  title: "Unboxed team"
   people:
     - short_name: "carlo"
       full_name: "Carlo Kruger"
@@ -285,7 +286,7 @@ related:
 
   <section class="project-team">
     <h2 class="project-team__title">
-      Unboxed team
+      <%= current_page.data.team.title %>
     </h2>
 
     <% current_page.data.team.people.each do |person| %>
