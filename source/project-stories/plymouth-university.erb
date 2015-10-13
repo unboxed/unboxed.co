@@ -241,7 +241,7 @@ related:
     </h2>
 
     <% current_page.data.team.people.each do |person| %>
-      <a class="project-team__headshot-container" href="<%= person.link %>">
+      <a class="project-team__headshot-container project-team__container--5" href="<%= person.link %>">
         <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
       </a>
     <% end %>
