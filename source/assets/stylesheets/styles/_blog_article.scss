@@ -1,0 +1,168 @@
+.blog-article {
+  background-color: $article-background-color;
+}
+
+.blog-article__container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: $tablet-breakpoint;
+
+  @include breakpoint($tablet-breakpoint) {
+    max-width: $max-tablet-container;
+    padding-bottom: 30px;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    max-width: $max-tablet-container;
+  }
+}
+
+.blog-article__content {
+  box-sizing: border-box;
+  padding: 0 30px 10px;
+}
+
+.blog-content {
+  h1 {
+    color: $heading-brand-color;
+    font-size: 1.3em;
+    line-height: 1.4;
+    margin-bottom: 20px;
+
+    @include breakpoint($max-mobile-container) {
+      font-size: 1.5em;
+    }
+  }
+
+  h2 {
+    font-size: 1.2em;
+    line-height: 1.3;
+    margin-bottom: 20px;
+
+    @include breakpoint($max-mobile-container) {
+      font-size: 1.4em;
+    }
+  }
+
+  h3 {
+    font-size: 1.1em;
+    line-height: 1.2;
+    margin-bottom: 20px;
+
+    @include breakpoint($max-mobile-container) {
+      font-size: 1.3em;
+    }
+  }
+
+  h4,
+  h5,
+  h6 {
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 20px;
+
+    @include breakpoint($max-tablet-container) {
+      font-size: 1.2em;
+    }
+  }
+
+  p,
+  ul,
+  ol,
+  table,
+  blockquote {
+    font-size: 1em;
+    font-weight: 100;
+    line-height: 1.6;
+    margin-bottom: 20px;
+
+    @include breakpoint($tablet-breakpoint) {
+      font-size: 1.1em;
+    }
+  }
+
+  ul,
+  ol {
+    padding-left: 24px;
+
+    @include breakpoint($tablet-breakpoint) {
+      padding-left: 30px;
+    }
+  }
+
+  ol {
+    list-style-type: decimal;
+  }
+
+  ul {
+    list-style-type: disc;
+  }
+
+  a {
+    color: $article-link-text-color;
+    font-weight: 400;
+    text-decoration: none;
+    word-wrap: break-word;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  b,
+  strong {
+    font-weight: 400;
+  }
+
+  i,
+  em {
+    font-style: italic;
+  }
+
+  img {
+    box-sizing: border-box;
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 100%;
+  }
+
+  blockquote {
+    border-left: 1px solid $article-blockquote-color;
+    padding-left: 16px;
+  }
+
+  iframe {
+    width: 100%;
+    margin-bottom: 26px;
+  }
+
+  hr {
+    margin: 20px;
+    border: 0;
+    border-bottom: 3px solid $light-gray;
+  }
+
+  pre,
+  code {
+    background-color: $article-code-background-color;
+    color: $article-code-text-color;
+    font-family: monospace;
+  }
+
+  pre {
+    font-size: 1em;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+  }
+
+  th, td {
+    border: 1px solid $article-table-color;
+    padding: 4px 6px;
+    width: auto;
+  }
+
+  th {
+    background-color: $article-table-color;
+  }
+}

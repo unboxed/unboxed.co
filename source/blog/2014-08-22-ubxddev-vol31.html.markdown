@@ -1,0 +1,42 @@
+---
+layout: "blog"
+weekly_roundup: true
+date: "2014-08-22 13:30:00 UTC"
+published: true
+title: "UBXDDEV Vol3.1"
+author: "Murray Steele"
+tags:
+  - Rails
+---
+
+## Sublime Text Tips - [Charlie](http://www.unboxedconsulting.com/people/charlie-egan)
+
+https://www.udemy.com/sublime-text-workflow/
+
+This is a really great outline of the capabilities & features of [Sublime Text](http://www.sublimetext.com/).
+
+## Database Optimisation - [Henry](http://www.unboxedconsulting.com/people/henry-turner)
+
+To be taken under consideration... but the [lol_dba gem](https://github.com/plentz/lol_dba) installed and ran in seconds and gave me a couple of good clues for database column indexes my current project could benefit from.
+
+## Dev along with [Pedro](http://www.unboxedconsulting.com/people/pedro-moreira)
+
+### OO Videos
+
+These two videos from Hashrocket's Lunch n' Learn series featuring Sandi Metz (https://www.youtube.com/watch?v=HGT8bKSS6XQ&list=UUk7lIUwfv3OAWCfk3rreAAg and https://www.youtube.com/watch?v=qT5iriwidRg&list=UUk7lIUwfv3OAWCfk3rreAAg) go into a lot of interesting points regarding OO and testing.
+
+### Testing webhooks
+
+http://thepugautomatic.com/2014/06/headless-rails-for-tasks-and-tests/
+
+I usually enjoy reading Henrik Nyh’s blog and he has been on a roll recently.
+This post contains some good tips on using ActionDispatch::Integration::Session to test things like receiving webhooks in your feature tests.
+
+### Time for a boolean
+
+The [time\_for\_a\_boolean gem](https://github.com/calebthompson/time_for_a_boolean) by Caleb Thompson presents some food for thought regarding database design and boolean fields.  While I haven’t used the gem, I will be exploring adding an *_at datetime field along with boolean attributes that reflect state.
+
+## Panamax: Docker Management for Humans - [Ben W](http://www.unboxedconsulting.com/people/ben-wong/)
+
+[panamax.io](http://panamax.io) is something to try if you can’t be bothered to get containers working by yourself.
+

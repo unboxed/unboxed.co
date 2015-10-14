@@ -66,8 +66,7 @@ team_quote:
   source: "Chris Howroyd, SH:24"
 
 team:
-  image: "/project-stories/sh24/team.png"
-  image_description: "The Unboxed team"
+  title: "Unboxed team"
   people:
     - short_name: "jon"
       full_name: "Jon Normington"
@@ -182,7 +181,7 @@ related:
     <ul class="bitesize__list">
       <% current_page.data.statistics.each do |statistic| %>
         <li class="bitesize__list-item">
-          <%= markdown statistic %>
+          <%= render_markdown statistic %>
         </li>
       <% end %>
     </ul>
@@ -294,17 +293,17 @@ related:
     </p>
   </blockquote>
 
-  <div class="sh24-team">
-    <h2 class="sh24-team__title">
-      Unboxed team
+  <section class="project-team">
+    <h2 class="project-team__title">
+      <%= current_page.data.team.title %>
     </h2>
 
     <% current_page.data.team.people.each do |person| %>
-      <a class="sh24-team__headshot-container" href="<%= person.link %>">
-        <img class="sh24-team__headshot sh24-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+      <a class="project-team__headshot-container project-team__container--5" href="<%= person.link %>">
+        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
       </a>
     <% end %>
-  </div>
+  </section>
 
   <section class="bitesize">
     <h2 class="bitesize__title">
@@ -319,7 +318,7 @@ related:
       <ul>
         <% current_page.data.conclusion.design_and_build.each do |statistic| %>
           <li class="bitesize__list-item">
-            <%= markdown statistic %>
+            <%= render_markdown statistic %>
           </li>
         <% end %>
       </ul>
@@ -333,7 +332,7 @@ related:
       <ul>
         <% current_page.data.conclusion.since_launch.each do |statistic| %>
           <li class="bitesize__list-item">
-            <%= markdown statistic %>
+            <%= render_markdown statistic %>
           </li>
         <% end %>
       </ul>
@@ -393,19 +392,19 @@ related:
 
     <section class="footer-social-icons">
       <div>
-        <a class="footer-social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="footer-social-icons__icon">
-            <%= image_tag 'twitter.png', class: 'footer-social-icons__image', alt: 'Twitter' %>
+        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
           </div>
         </a>
-        <a class="footer-social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="footer-social-icons__icon">
-            <%= image_tag 'facebook.png', class: 'footer-social-icons__image', alt: 'Facebook' %>
+        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
           </div>
         </a>
-        <a class="footer-social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="footer-social-icons__icon">
-            <%= image_tag 'linkedin.png', class: 'footer-social-icons__image', alt: 'LinkedIn' %>
+        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
           </div>
         </a>
       </div>

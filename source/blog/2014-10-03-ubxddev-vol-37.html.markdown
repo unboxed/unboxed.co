@@ -1,0 +1,35 @@
+---
+layout: "blog"
+weekly_roundup: true
+date: "2014-10-03 13:30:00 UTC"
+published: true
+title: "UBXDDEV Vol. 3.7"
+author: "Murray Steele"
+tags:
+  - Rails
+---
+
+## Containers discussion - [Jim](https://github.com/j1mr10rd4n)
+
+https://www.usenix.org/system/files/login/articles/login_1410_02-bottomley.pdf
+
+A nice description of containers, comparing and contrasting them to hypervisors, from the guys at Parallels.
+
+## Intro to HTTP - [Neil](http://www.unboxedconsulting.com/people/neil-van-beinum)
+
+A tasty five-part series providing an introduction to HTTP
+
+1. http://odetocode.com/Articles/741.aspx  Resources
+2. http://odetocode.com/Articles/742.aspx  Messages
+3. http://odetocode.com/Articles/743.aspx  Connections
+4. http://odetocode.com/Articles/744.aspx  Architecture
+5. http://odetocode.com/Articles/745.aspx  Security
+
+## Rails 4.2 - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+
+1. http://revelry.co/2014/09/15/rails-4-2-overview-part-1-of-2/
+2. http://revelry.co/2014/09/18/rails-4-2-overview-part-2-of-2/
+
+A good overview of what's coming in Rails 4.2.  The 2nd beta version came out a few days ago at the end of September, so we can probably expect the final version to drop in the next month or two.
+
+

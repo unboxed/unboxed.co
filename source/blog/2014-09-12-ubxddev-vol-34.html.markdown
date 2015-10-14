@@ -1,0 +1,48 @@
+---
+layout: "blog"
+weekly_roundup: true
+date: "2014-09-12 13:30:00 UTC"
+published: true
+title: "UBXDDEV Vol. 3.4"
+author: "Murray Steele"
+tags:
+  - Rails
+---
+
+## HTML5 flowchart - [Neil](https://twitter.com/NeilvanBeinum)
+
+http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
+
+A flowchart to help when choosing an appropriate HTML5 sectioning element.
+
+## Speed-up tests - [Jolyon](http://www.unboxedconsulting.com/people/jolyon-pawlyn)
+
+As applications grow in size and complexity the need to minimise test execution time becomes critical.  [Speed Up Tests by Selectively Avoiding Factory Girl]
+(http://robots.thoughtbot.com/speed-up-tests-by-selectively-avoiding-factory-girl) covers some useful techniques like using `FactoryGirl.build_stubbed` and warns that `FactoryGirl.build` still results in persisted associated models.
+
+## DRY article - [Patrick V.](http://www.unboxedconsulting.com/people/patrick-vine)
+
+http://verraes.net/2014/08/dry-is-about-knowledge/
+
+A great article on DRY and how you should focus on not repeating knowledge.  It isn't too long, but nicely captures the idea of DRY being about knowledge not lines of code.
+
+## Bootstrap links - [Neil](https://twitter.com/NeilvanBeinum)
+
+A couple of well written posts introducing the 'mobile first' and grid layout concepts in Bootstrap 3.
+
+1. http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
+2. http://www.helloerik.com/bootstrap-3-grid-introduction
+
+## Tech leadership - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+
+https://www.skillsmatter.com/skillscasts/5707-how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title
+
+[Mazz Mosley](http://houseofmnowster.com/) gave this excellent talk about tech leadership at the [September LRUG meeting](http://lrug.org/meetings/2014/08/27/september-2014-meeting/).  It's a great talk about what leadership is, and how to get better at it; just because you're good at coding, doesn't mean you'll automatically be good at leading a team of coders.  Even if you're not at the leadership stage of your career, I still think it's worth watching as it'll help you prepare for when you are, and help you understand where your current tech leaders might be struggling.
+
+## Collection pipeline - [Patrick V.](http://www.unboxedconsulting.com/people/patrick-vine)
+
+I've been enjoying programming with a collection pipeline style more and
+more.  Recently Martin Fowler published a bliki on the topic which is
+rather long, but worth the read if you're interested in learning more.  It
+can be found at  with [http://martinfowler.com/articles/collection-pipeline/](http://martinfowler.com/articles/collection-pipeline/) examples in Ruby and Clojure.
+

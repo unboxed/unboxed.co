@@ -1,0 +1,329 @@
+---
+title: "Plymouth University Project Story"
+
+header:
+  client: "Plymouth University"
+  introduction: "Unboxed leads Agile overhaul of Plymouth University website"
+  image: "/project-stories/plymouth-university/plymouth-building.jpg"
+  image_description: "Plymouth university building"
+
+introduction:
+  title: "New website led by Unboxed"
+  content: "With the arrival of expensive tuition fees, universities have had to become more commercially oriented. Plymouth University realised that prospective students learn about them primarily through their website, and that the current site did not reflect their quality. A team from Unboxed worked alongside developers from the University to rapidly overhaul the website, adding functionality in two-week sprints."
+  image: "/project-stories/plymouth-university/plymouth-website.jpg"
+  image_description: "Plymouth website screenshot"
+
+plymouth_cio_video:
+  youtube_id: "nTSKD1PG1e4"
+  thumbnail: "/project-stories/plymouth-university/video-still.jpg"
+
+design_testing:
+  title: "​​Every design fully tested with students before build"
+  content: "Since the University and students had different ideas about what was required, the team ran sessions with all stakeholders but with particular emphasis on the main users (students). They then worked to deliver the most important features first, iterating to add further functionality on the basis of the evidence gathered for what would be most effective."
+  image: "/project-stories/plymouth-university/design-testing.jpg"
+  image_description: "Design sessions with Plymouth University students"
+
+benefits_quote:
+  quote: "Unboxed Consulting have created a far more attractive and appealing shop-window, which we are starting to see the benefits of."
+  source: "Paul Westmore, Interim CIO, Plymouth University"
+
+agile:
+  title: "Advanced Agile deployed for maximum value captured"
+  content: "In line with the most powerful elements of Agile philosophy, the new site was released almost immediately, alongside the old site. No clunky, delayed, high stress site changeover. New functionality was being released early and often, directly in line with user feedback. Our team co-located with Plymouth University, living in a specially rented flat in Plymouth."
+  image: "/project-stories/plymouth-university/design-sketch.jpg"
+  image_description: "One of the first sketches of Plymouth University website"
+
+statistics_1:
+  title: "Plymouth University in numbers"
+  number: "10,000+"
+  text: "webpages of content maintained"
+
+statistics_2:
+  number: "50+"
+  text: "Rank increase in the Sitemorse 2015 Q3/UK Universities and Higher Education list"
+
+team_value:
+  title: "Curation team given new efficiency tools, creating long term value"
+  content: "We worked with the team responsible for maintaining the website’s 10,000+ pages of content and adding new material. Kanban tools were taught to improve efficiency and give performance metrics, with the result that duration of the commissioning and uploading process dropped dramatically. The Ruby on Rails skills of the internal team so they can maintain the site efficiently going forward."
+  image: "/project-stories/plymouth-university/team-meeting.jpg"
+  image_description: "Meeting of Plymouth Website project team"
+
+team_quote:
+  quote: "Unboxed Consulting excelled in that they were able to put a team down in Plymouth to skill up our in-house team, something that many suppliers are unwilling to do."
+  source: "Paul Westmore, Plymouth University"
+site:
+  link: "https://www.plymouth.ac.uk/"
+  text: "Visit the site and check it out for yourself"
+
+team:
+  title: "Unboxed team"
+  people:
+    - short_name: "attila"
+      full_name: "Attila Gyorffy"
+      link: "/people/attila-gyorffy"
+    - short_name: "chris"
+      full_name: "Chris Carter"
+      link: "/people/chris-carter"
+    - short_name: "alan"
+      full_name: "Alan Thomas"
+      link: "/people/alan-thomas"
+    - short_name: "richard"
+      full_name: "Richard Stobart"
+      link: "/people/richard-stobart"
+    - short_name: "sarah"
+      full_name: "Sarah Beck"
+      link: "/people/sarah-beck"
+
+links:
+  - title: "Custom Built Website offers Complete Flexibility for University of Plymouth"
+    source: "MEMSET"
+    type: "news"
+    link: "https://www.memset.com/gov/working-with-memset/case-studies/university-plymouth"
+  - title: "London-based Agile Specialists, Unboxed, choose Software Plymouth"
+    source: "Plymouth Software"
+    type: "news"
+    link: "http://plymouthsoftware.com/news/london-based-agile-specialists-unboxed-consulting-choose-plymouth-software"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Plymouth University projects featured in Education Technology"
+      type: "news"
+      link: "https://www.unboxedconsulting.com/news/plymouth-university-projects-featured-in-education-technology"
+      image: "/project-stories/plymouth-university/related/education-technology.jpg"
+    - title: "Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
+      type: "blog"
+      link: "https://www.unboxedconsulting.com/blog/digital-leaders-discover-the-new-rules-of-outsourcing-agile-teams-session"
+      image: "/project-stories/plymouth-university/related/agile-session.jpg"
+    - title: "Plymouth University Gets Agile"
+      type: "project story"
+      link: "https://www.unboxedconsulting.com/project-stories/plymouth-university-gets-agile"
+      image: "/project-stories/plymouth-university/related/plymouth-agile.jpg"
+
+---
+
+<header class="page-header">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.header.introduction %>
+    </h1>
+
+    <p class="page-header__client">
+      <%= current_page.data.header.client %>
+    </p>
+  </div>
+</header>
+
+<div class="container">
+  <img class="full-image" <%= retina_src current_page.data.header.image %> id="siteHeaderWaypoint" alt="" />
+
+  <script>
+    new Waypoint({
+      element: $('#siteHeaderWaypoint'),
+      handler: function(direction) {
+        var siteHeader = $('.site-header');
+        if (direction === 'down') {
+          siteHeader.addClass('site-header--active-scroll');
+        } else {
+          siteHeader.removeClass('site-header--active-scroll');
+        }
+      },
+      offset: 54
+    });
+  </script>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.introduction.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
+    </div>
+  </section>
+
+  <a href="https://www.youtube.com/watch?v=<%= current_page.data.plymouth_cio_video.youtube_id %>" target="_blank">
+    <img class="full-image" <%= retina_src current_page.data.plymouth_cio_video.thumbnail %> alt="Plymouth University CIO video" id="plymouthCioVideoThumbnail" />
+  </a>
+
+  <script>
+    if (Modernizr.video || Modernizr.flash) {
+      var $embed = $('<div class="full-video"><iframe id="plymouthCioVideoThumbnail" src="https://www.youtube.com/embed/<%= current_page.data.plymouth_cio_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
+      $("#plymouthCioVideoThumbnail").replaceWith($embed);
+    }
+  </script>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.design_testing.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.design_testing.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.design_testing.image %> alt="<%= current_page.data.design_testing.image_description %>" />
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.benefits_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.benefits_quote.source %>
+    </p>
+  </blockquote>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.agile.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.agile.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.agile.image %> alt="<%= current_page.data.agile.image_description %>" />
+    </div>
+  </section>
+
+  <section class="bitesize--blue">
+    <h2 class="bitesize__title--white">
+      <%= current_page.data.statistics_1.title %>
+    </h2>
+
+    <div class="bitesize__tile--one">
+      <p class="bitesize__text--large"><%= current_page.data.statistics_1.number %></p>
+      <p class="bitesize__text--small"><%= current_page.data.statistics_1.text %></p>
+    </div>
+  </section>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.team_value.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.team_value.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.team_value.image %> alt="<%= current_page.data.team_value.image_description %>" />
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.team_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.team_quote.source %>
+    </p>
+  </blockquote>
+
+  <section class="project-team">
+    <h2 class="project-team__title">
+      <%= current_page.data.team.title %>
+    </h2>
+
+    <% current_page.data.team.people.each do |person| %>
+      <a class="project-team__headshot-container project-team__container--5" href="<%= person.link %>">
+        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+      </a>
+    <% end %>
+  </section>
+
+  <section class="bitesize--blue">
+    <div class="bitesize__tile--one">
+      <p class="bitesize__text--large"><%= current_page.data.statistics_2.number %></p>
+      <p class="bitesize__text--small bitesize__text--wide"><%= current_page.data.statistics_2.text %></p>
+    </div>
+  </section>
+
+  <section class="component">
+    <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
+      <div>
+        <div class="link-tile__type">
+          link
+        </div>
+        <div class="link-tile__title">
+          <%= current_page.data.site.text %>
+        </div>
+      </div>
+    </a>
+    <% current_page.data.links.each do |link| %>
+      <a class="link-tile" href="<%= link.link %>" target="_blank">
+        <div>
+          <div class="link-tile__type">
+            <%= link.type %>
+          </div>
+          <div class="link-tile__title">
+            <%= link.title %>
+          </div>
+        </div>
+        <div class="link-tile__source">
+          <%= link.source %>
+        </div>
+      </a>
+    <% end %>
+  </section>
+
+  <footer class="component">
+    <div class="footer-introduction">
+      <h3 class="footer-introduction__title">
+        <%= current_page.data.related.title %>
+      </h3>
+    </div>
+
+    <% current_page.data.related.articles.each do |article| %>
+      <a class="related-tile" href="<%= article.link %>">
+        <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
+        <div class="related-tile__text-content">
+          <div>
+            <div class="related-tile__type">
+              <%= article.type %>
+            </div>
+            <div class="related-tile__title">
+              <%= article.title %>
+            </div>
+          </div>
+        </div>
+      </a>
+    <% end %>
+
+    <section class="footer-social-icons">
+      <div>
+        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
+          </div>
+        </a>
+        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
+          </div>
+        </a>
+        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
+          </div>
+        </a>
+      </div>
+    </section>
+  </footer>
+</div>

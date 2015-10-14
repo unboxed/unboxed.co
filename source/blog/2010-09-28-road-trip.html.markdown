@@ -1,0 +1,22 @@
+---
+layout: "blog"
+date: "2010-09-28 00:00:00 UTC"
+published: true
+title: "Road Trip"
+author: "Borja Arias"
+tags:
+  - Rails
+---
+
+<p>At Unboxed we also build iPhone applications. Our largest project so far has been inTouch, an application for a medical products sales company based in the US...This is the story of two men that crossed the pond with a mission; Attend the Customer Company's sales conference to launch the application and get it installed on more than 300 devices for the sales crew.<br />
+&nbsp;<br />
+For an agile company like Unboxed, which relies on a close collaboration with the customer to get the most out of the agile approach, this remotely driven project proved to be at least very challenging.&nbsp;But we got to New Jersey with a ready-to-release product.&nbsp;Our main goal was to present the application to the final users and help with they installation process. The majority of those users had never heard of the project. Only a representative few of them had been involved with it, providing us with valuable information about their company's work flow. In a situation like this, not everyone we had to talk to during that week felt interested in what they heard, they didn't know if what their company was handing them was going to be useful for them, or they might just be apathic. <br />
+&nbsp;<br />
+We had to support the company's IT team on the installation of the application on all the users' devices. Loads of them were ancient, running prehistoric versions of the iOS which needed to be upgraded. The company, concerned about the sensitive nature of the data that the application would be handling, wanted us to configure the lock screens for the devices, which can be achieved with an external application. So we had to come up with a process, an assembly chain a device would be put in as the user handed it, and that would return a device with the application installed, configured to synchronise using the owner's account details and protected with a lock screen.&nbsp;This process involved 7 people working restless on different stages of the process,<br />
+&nbsp;<br />
+Working with us we had the customer's IT team. They &nbsp;understood what had to be done, in the time that had to be done and worked with dedication. But it wasn't a walk in the park at the beginning. Whenever a team face a tough problem, to be worked out in little time, there are voices that claim, that it's too much, that it's never going to happen, that it's impossible. But at the same time there are also people who understand the nature of the problem and they just roll up their shirts' sleeves and get to it. In addition to the installation process we needed to set up the servers to use the production data that would be feeding the application. Unfortunately this didn't happen until we were at their headquarters. Therefore, there were some development related tasks that had to be done before we could roll out the application. Again, this is far from being the best case scenario but the coordination of tasks within such big companies is a challenging factor.<br />
+&nbsp;<br />
+When our time there was coming to an end, Richard Stobart gave a presentation to introduce the application to the sales crew. Some of the men who worked with Unboxed to provide us with the customer company's business&nbsp;work-flow information were invited to tell the attendees how the application would help them in their day job.&nbsp;For me, one of the developers who worked on the iPhone application, I had the opportunity to see and meet the people that would be using the components I worked on for so long. This components weren't programming arrays anymore, nor TableViewControllers to list the products or hospitals, they had become concepts that those men and women could understand, they saw and recognised them, they were the kind of concepts they work with, they used to have to make a phone call to check prices for a product, and now they had all that information at their finger tips. They were even cheering in excitement at some point, when they heard about a particular feature that specially fitted their needs.<br />
+&nbsp;<br />
+I had the chance to experience that because I was there, but their excitement was the result of the rest of the team's work, Nigel, Steve, Dominic and all those who contributed to this project.<br />
+&nbsp;</p>

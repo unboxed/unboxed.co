@@ -1,0 +1,20 @@
+---
+layout: "blog"
+date: "2010-07-25 00:00:00 UTC"
+published: true
+title: "Scrum in the Deep End"
+author: "Karen van Vlaanderen"
+tags:
+  - Rails
+---
+
+<p><span>As a new employee of Unboxed, and being new to scrum, I thought I would tell you about my 3 month experience as a ScrumMaster thus far. Thanks to Unboxed, I have been thrown into the deep end of the world of agile, London culture, fine whiskey, and a top digital media project with Channel Five. &nbsp;</span></p>
+<p><span>So how did I end up here? After nearly 2 years of fighting against the tide of the Waterfall, I left my system design role at Oracle Netherlands for the greener, less flat, pastures of Cape Town where I took a position as a Channel Manager for a local software distributor. Soon I realised the world of development was where I really felt at home. It was a sweet romance the way I found Unboxed and Unboxed found me. Since then, a new world of Agile development, Ruby on Rails enthusiasts, and Scrum has given me hours of joy and agony in almost equal proportions.</span></p>
+<p><span>My first 2 days at Unboxed were spent on a ScrumMaster course given by Peter Stevens and Peter Hundermark, which was incredibly helpful in rapidly bringing me up to speed with the basics - and more.&nbsp; Scrum makes perfect sense &ndash; software development projects that work, having the most possible features per buck spent.&nbsp; The development cycle is broken into short timeboxes that are designed to manage the planning, implementation, review and learning through the development process. The key I am learning as a ScrumMaster, is to manage the team&rsquo;s energy through this process and to try and assist in creating an environment of immediate feedback and continuous learning.&nbsp;</span></p>
+<p><span>And by the 3</span><span><sup>rd</sup></span><span> day back at the office, I had the basics down and a solid foundation upon which to build my knowledge. I needed this, as my first day on the Channel Five project was release planning and I had never played planning poker before (the question mark card came in handy).</span></p>
+<p><span>To enrich my learning and soak in much implicit knowledge, Unboxed sent me to London for 2 weeks to work on site at Channel Five and get to know my London colleagues. What a blast &ndash; nights out on London town, long lunches in Covent Garden, and even longer lunches in Brick Lane (the half fried chicken place was it?), usually with the extra benefit of a good workout getting there and back (thanks Austin).&nbsp; I also did some work.</span></p>
+<p><span>&nbsp;I took the opportunity to get in touch with fellow ScrumMasters Matt Frank and Austin Fagan, who shared their project experiences with me. Its great to not only indulge in books on scrum, but to learn from others&rsquo; experiences, and I have really enjoyed immersing myself in the world of scrum. Being a committee member of the Scrum User Group of South Africa (www.scrum.org.za) has helped me to do just this, and at the same time, contribute to the community and have a hand in strengthening it. Reading through online forums (LinkedIn Certified ScrumMasters for example) and blogs has been great for those moments where I&rsquo;ve needed a bit of guidance &ndash; for some tips on ScrumMastering, check out this blog:</span><span> <a href="http://blogs.danube.com/a-scrummasters-checklist"><span>http://blogs.danube.com/a-scrummasters-checklist</span></a></span><span>. </span><span>Picking up the Rails book and doing some pairing is also on my list of things to do.</span></p>
+<p><span>It&rsquo;s been a steep, yet enjoyable, learning curve on my first project.&nbsp; But being exposed to a fantastic product owner and an experienced, truly self-organising team has made the process of learning a lot easier, and at Unboxed I have been lucky enough to observe the way in which scrum should be done.&nbsp;</span></p>
+<p><span>The roller coaster ride is not about to end though, as the Cape Town office slowly kicks into gear. When the time comes to rock and roll down here, I&rsquo;ll be ready to take on the next challenge.</span></p>
+<p>&nbsp;</p>
+

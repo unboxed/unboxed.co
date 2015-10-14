@@ -1,0 +1,36 @@
+---
+layout: "blog"
+weekly_roundup: true
+date: "2014-09-05 13:30:00 UTC"
+published: true
+title: "UBXDDEV Vol. 3.3"
+author: "Murray Steele"
+tags:
+  - Rails
+---
+
+## It's just CSS - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+
+http://codepen.io/samthejarvis/pen/rpIKz
+
+[The tweet I saw this link in](https://twitter.com/jonikorpi/status/507538058959659008) sums this link up perfectly: I don't understand CSS anymore.  I was also amazed that although this link is just some CSS, it made the fans on my laptop spin up to process it!
+
+## What's next for Rack? - [Pedro](http://www.unboxedconsulting.com/people/pedro-moreira)
+
+https://github.com/tenderlove/the_metal
+
+It was recently [announced that Rack was "done" and there would be no Rack 2.0](https://groups.google.com/forum/#!msg/rack-devel/P8oOycVBaH0/1bm4eERJWPQJ).  With the_metal, [Aaron Patterson](http://www.tenderlovemaking.com/) spikes into the future of Rack and presents his ideas for what a new Rack could be.  Comes with a lot of “thinking out loud in code” warnings but nevertheless quite worth a look.
+
+## A bit of history from 2004 - [Alex](https://twitter.com/AlexanderBobin)
+
+["How Gmail Happened: The Inside Story of Its Launch 10 Years Ago"](http://time.com/43263/gmail-10th-anniversary/) - A nice reminder that great things come from small beginnings.
+
+## Build Quality In - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+
+http://blog.buildqualityin.com/
+
+We're encouraging a devops culture here at Unboxed and this ebook collection of devops and continuous delivery war stories sounds like it will be really useful.  When I'm investigating new technologies or ways of doing things I find it helpful to hear first-hand stories about what does and doesn't work.
+
+Even if you are a devops pro this book could be useful to you because the articles seem to come from a wide-range of experiences.  Just because you're comfortable working at a certain scale doesn't mean you'll necessarily have any idea how things work at a different scale; what works when a system is big doesn't always work when the system is small (or vice-versa).
+
+

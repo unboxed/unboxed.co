@@ -1,0 +1,57 @@
+---
+layout: "blog"
+weekly_roundup: true
+date: "2014-09-26 13:30:00 UTC"
+published: true
+title: "UBXDDEV Vol. 3.6"
+author: "Murray Steele"
+tags:
+  - Rails
+---
+
+## Ruby Kaigi writeups - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+
+* http://brewhouse.io/blog/2014/09/18/ruby-kaigi-2014-day-1
+* http://brewhouse.io/blog/2014/09/19/ruby-kaigi-2014-day-2
+* http://brewhouse.io/blog/2014/09/26/ruby-kaigi-2014-day-3
+
+Write ups of the [Ruby Kaigi](http://rubykaigi.org/2014) conference by [Godfrey Chan](https://twitter.com/chancancode).  Unlike most of the ruby conferences I read about or attend, Ruby Kaigi seems to be more focussed on the development of ruby itself rather than development with ruby.  It's really interesting to see what is coming in future versions of ruby that might make the language more performant.  I also liked the sound of Matz's talk from the day 2 write up; it's encouraging to see that ruby is far from stagnant.
+
+## Vertical align CSS property - [Neil](http://www.unboxedconsulting.com/people/neil-van-beinum)
+
+http://christopheraue.net/2014/03/05/vertical-align/
+
+An in-depth look at the CSS vertical-align property, how it works, and why it might not behave as you expect.
+
+## Overkill - [Karl](http://www.unboxedconsulting.com/people/karl-entwistle)
+
+https://www.youtube.com/watch?v=qLpvc5r6Bb0
+
+This talk by [Katrina Owen](http://www.kytrinyx.com/) presents a simple problem that provides a good training exercise for some best practices.  She covers:
+
+* refactoring
+* [Sandi Metz's](http://www.sandimetz.com/) “squint test”
+* single responsibly principle
+* race conditions
+* code “smells”
+* how best to name things for the problem domain and not the primitives they’re represented in.
+
+Overall It’s a nicely paced, smooth and well rehearsed talk. Worth a watch!
+
+## A tuple OVER window functions - [Pedro](http://www.unboxedconsulting.com/people/pedro-moreira)
+
+1. http://robots.thoughtbot.com/postgres-window-functions
+2. http://robots.thoughtbot.com/active-record-eager-loading-with-query-objects-and-decorators
+
+These two articles go over using Postgres window functions: the first introduces the concept, including useful links to PG docs; and the second is a more practical example of using in the context of a rails app. I created a demo rails to check performance on this, using FactoryGirl to generate thousands of records, and was quite impressed by the performance gain.
+
+## Some new frontend tools - [Tom S](http://www.unboxedconsulting.com/people/tom-sabin)
+
+### [ScrollIt.js](https://github.com/cmpolis/scrollIt.js) (jQuery)
+
+A jQuery plugin for a “sticky” vertical navigation. Works by adding data attributes to an existing navigation rather than building a new using JS (as some other plugins do).
+
+### [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=en) (Chrome extension)
+
+A chrome extension that allows you to overlay images to a webpage, a perfect addition to the front end toolkit. Best used when trying to match up to design **layouts** (web pages shouldn’t be pixel perfect, a responsive page is much more important!)
+

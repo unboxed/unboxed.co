@@ -9,24 +9,36 @@
   text-align: right;
 }
 
-.footer-social-icons__icon-container {
-  display: inline-block;
-  vertical-align: top;
-  margin-left: 8px;
+.blog-social-icons {
+  box-sizing: border-box;
+  padding: 0 20px 10px;
+  text-align: right;
+
+  @include breakpoint($max-tablet-container) {
+    margin: 0 auto;
+    max-width: $max-tablet-container;
+    padding-right: 40px;
+  }
 }
 
-.footer-social-icons__icon {
+.social-icons__icon-container {
+  display: inline-block;
+  margin-left: 8px;
+  vertical-align: top;
+}
+
+.social-icons__icon {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(center);
-  background-color: $footer-social-icon-background-color;
+  background-color: $social-icon-background-color;
   border-radius: 50%;
   height: 28px;
   text-align: center;
   width: 28px;
 }
 
-.footer-social-icons__image {
+.social-icons__image {
   @include align-self(center);
   width: 16px;
 }

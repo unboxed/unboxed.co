@@ -1,0 +1,31 @@
+.style-guide {
+  @extend %container;
+  background-color: $white;
+  padding: 0 10px;
+  box-sizing: border-box;
+}
+
+.style-guide__title {
+  font-size: 2.5em;
+  padding: 60px 30px 30px;
+}
+
+.style-guide__container {
+  border: 2px solid;
+  border-radius: 10px;
+  border-color: $light-gray;
+  box-sizing: border-box;
+  margin-bottom: 5px;
+  width: 100%;
+}
+
+.style-guide__container-title {
+  background-color: lighten($light-gray, 2%);
+  border-bottom: 1px solid $light-gray;
+  padding: 30px 30px 16px;
+}
+
+.style-guide__container-body {
+  padding: 30px;
+  overflow: auto;
+}

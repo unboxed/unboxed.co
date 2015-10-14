@@ -1,0 +1,42 @@
+---
+layout: "blog"
+weekly_roundup: true
+date: "2014-09-19 13:45:00 UTC"
+published: true
+title: "UBXDDEV Vol. 3.5"
+author: "Murray Steele"
+tags:
+  - Rails
+---
+
+## Holy crap, marketing is scary - [Tom R](http://www.unboxedconsulting.com/people/tom-russell)
+
+http://mysocialsherpa.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/
+
+A guy uses Facebook to target a single person with an advertising campaign that makes him question his sanity. This is privacy on the internet, peeps!
+
+## A talk about [React](http://facebook.github.io/react/) - [Alex](http://www.unboxedconsulting.com/people/alex-bobin)
+
+http://2013.jsconf.eu/speakers/pete-hunt-react-rethinking-best-practices.html
+
+I really enjoyed this conceptual talk on React. The big take away is React's data flow and state structure. They have created a framework which tries to simplify how data and state flows around an application and better suits developers' mental models for understanding it. It's much close aligned with traditional server and verb based interactions where a change is sent to the server and a whole page is re-rendered (but smarter).
+
+He also argues that splitting out your views and view-models in modern JS apps is not a real separation of concerns, only a separation of technologies.
+
+## Code shapes - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+
+http://www.sandimetz.com/blog/2014/9/9/shape-at-the-bottom-of-all-things
+
+This article from [Sandi Metz](http://www.sandimetz.com/) really got me thinking.  I don't know that I buy the specific refactoring approach in the article (Sandi herself says it's a contrived and simple example), but I do think there's something in the general idea that code tells us more than just what it does.  Often I've worked on some code where there's a missing object but I've not been able to see it clearly.  My normal solution to this problem is to talk through the code with a person not on the project and either their fresh opinion on the code or forcing myself to explain it is usually enough to reveal what's missing.  This article has made me keen to try reading the code differently to reveal these missing objects without the intermediate step.
+
+## Responsive web-design - [Alex](http://www.unboxedconsulting.com/people/alex-bobin)
+
+http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
+
+Another case for doing your responsive web design properly. iPhone 6 and iPhone 6 Plus bring new resolutions and pixel densities to the table.
+
+## Ruby 2.1.3 - [Richard S](http://www.unboxedconsulting.com/people/richard-stobart)
+
+https://www.ruby-lang.org/en/news/2014/09/19/ruby-2-1-3-is-released/
+
+The newest version of our favourite language is out!
