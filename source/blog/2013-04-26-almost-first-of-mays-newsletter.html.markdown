@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-04-26 12:36:00 UTC"
 published: true
 title: "Almost April's last newsletter"
@@ -29,7 +30,7 @@ Flickr use them — http://code.flickr.net/2009/12/02/flipping-out/
 
 as do Etsy. — http://codeascraft.etsy.com/2011/02/04/how-does-etsy-manage-development-and-operations/
 
-##[Matt Peperell](/people/matt-peperell) 
+##[Matt Peperell](/people/matt-peperell)
 ###The single most useful thing in bash
 Or so the title of [this blog post](https://coderwall.com/p/oqtj8w) claims. Ever wanted to scroll through partial matches in your bash history? Now you can.
 
@@ -46,7 +47,7 @@ Here's a software tool  to tell you when you're falling foul of the recommendati
 https://github.com/bbatsov/rubocop
 
 ###The Underhanded C Contest
-Normally we aim to write well-behaved software.  Here's a chance to be a first-world anarchist, and write some software which is subtly ill-behaved.  This year's challenge is a social networking application. The competition runs until June 4th. 
+Normally we aim to write well-behaved software.  Here's a chance to be a first-world anarchist, and write some software which is subtly ill-behaved.  This year's challenge is a social networking application. The competition runs until June 4th.
 
 http://underhanded.xcott.com/?page_id=5
 

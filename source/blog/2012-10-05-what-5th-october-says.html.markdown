@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-10-05 15:00:00 UTC"
 published: true
 title: "What 5th October says"
@@ -30,8 +31,8 @@ A good writeup from Soundcloud about how they grew their stack to cope with dema
 
 [http://backstage.soundcloud.com/2012/08/evolution-of-soundclouds-architecture/](http://backstage.soundcloud.com/2012/08/evolution-of-soundclouds-architecture/)
 
-#Caltrava is a new open source JavaScript-based 
- 
+#Caltrava is a new open source JavaScript-based
+
 Caltrava is a new open source JavaScript-based framework for developing cross-platform mobile applications. It's been built by a couple of Thoughtworkers. I think it looks rather promising...[have a look and decide for yourself:](http://overwatering.org/blog/2012/10/announcing-calatrava/)
 
 #Follow snoopdogg on Instagram

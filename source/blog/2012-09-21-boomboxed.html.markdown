@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-09-21 15:04:00 UTC"
 published: true
 title: "Boomboxed"
@@ -56,7 +57,7 @@ A redis tutorial you can get through before your tea is done:<br>
 [http://simonwillison.net/static/2010/redis-tutorial/](http://simonwillison.net/static/2010/redis-tutorial/)
 
 ##What the new iPhone 5 and iOS 6 promises for HTML5 developers (Rob P)
-This is a great in-depth article about the features of the new iPhone 5. Definitely recommended. 
+This is a great in-depth article about the features of the new iPhone 5. Definitely recommended.
 
 **Article:**<br>
 [http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers](http://www.mobilexweb.com/blog/iphone-5-ios-6-html5-developers)

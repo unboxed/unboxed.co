@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-07-11 14:10:00 UTC"
 published: true
 title: "Six of one, half a dev of another"

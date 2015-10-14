@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-06-13 11:42:00 UTC"
 published: true
 title: "You only dev twice"
@@ -18,9 +19,9 @@ A useful Chrome extension to find out what JS libraries are being used on the we
 
 [http://blogs.atlassian.com/2014/06/happened-git-2-0-full-goodies/](http://blogs.atlassian.com/2014/06/happened-git-2-0-full-goodies/)
 
-``git log --show-linear-break`` is pretty cool. From the man page: 
+``git log --show-linear-break`` is pretty cool. From the man page:
 
-> When --graph is not used, all history branches are flattened which can make it hard to 
+> When --graph is not used, all history branches are flattened which can make it hard to
 > see that the two consecutive commits do not belong to a linear branch. This option puts
 > a barrier in between them in that case.
 
@@ -55,7 +56,7 @@ Either way, I think it's a useful piece of writing and I'd like to see more arti
 
 #### [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 
-[Sandi Metz](http://www.sandimetz.com/) talks you through her refactor of [Jim Weirichs’ Gilded Rose Code Kata](https://github.com/jimweirich/gilded_rose_kata). Sandi’s approach is extremely pragmatic and the talk is mostly focused on object orientation. If you haven’t seen it yet you should watch this talk; if nothing else it's a nice satisfying example of how to approach and conquer some really complicated interwoven logic. 
+[Sandi Metz](http://www.sandimetz.com/) talks you through her refactor of [Jim Weirichs’ Gilded Rose Code Kata](https://github.com/jimweirich/gilded_rose_kata). Sandi’s approach is extremely pragmatic and the talk is mostly focused on object orientation. If you haven’t seen it yet you should watch this talk; if nothing else it's a nice satisfying example of how to approach and conquer some really complicated interwoven logic.
 
 #### [Closing Keynote by Aaron Patterson](https://www.youtube.com/watch?v=BTTygyxuGj8)
 

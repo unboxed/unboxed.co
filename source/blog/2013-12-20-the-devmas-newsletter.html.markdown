@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-12-20 16:22:00 UTC"
 published: true
 title: "The Devmas Newsletter "

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-02-01 14:13:00 UTC"
 published: true
 title: "A New Hope"
@@ -51,7 +52,7 @@ A nice way to allow users to do reporting from a rails app
 
 ## Code is Art Man...  - [(Murray)](/people/murray-steele)
 
-http://instacode.linology.info/ 
+http://instacode.linology.info/
 
 ## Static Analysis of Rails Apps - [(Matt P)](/people/matt-peperell)
 
@@ -130,6 +131,6 @@ An amazing(ly simple) project at MIT for multi-screen display.
 
 http://googlestreetscene.com/
 
-Moments from cinema captured by Google Street View cameras. 
+Moments from cinema captured by Google Street View cameras.
 
 

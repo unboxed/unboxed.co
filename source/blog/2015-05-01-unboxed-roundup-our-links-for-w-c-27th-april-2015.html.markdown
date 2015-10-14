@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-05-01 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 27th April 2015"
@@ -40,7 +41,7 @@ The word on the street is that something static like is being considered for Rub
 
 ## Track of the Week - [Carmen B](http://www.unboxedconsulting.com/people/carmen-brion)
 
-It was hard to choose one, it's so many I love, but I decided to go for one of my favourite [Foo Fighter's songs 'Monkey Wench'](https://www.youtube.com/watch?v=I7rCNiiNPxA). 
+It was hard to choose one, it's so many I love, but I decided to go for one of my favourite [Foo Fighter's songs 'Monkey Wench'](https://www.youtube.com/watch?v=I7rCNiiNPxA).
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/I7rCNiiNPxA" frameborder="0" allowfullscreen></iframe>
 

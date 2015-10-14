@@ -4,6 +4,7 @@ date: "2015-09-14 10:35:00 UTC"
 published: true
 title: "Thinking product at Mind the Product 2015"
 author: "Martyn Evans"
+main_image: "http://i60.tinypic.com/x5r30n.jpg"
 tags:
   - Innovation
 ---

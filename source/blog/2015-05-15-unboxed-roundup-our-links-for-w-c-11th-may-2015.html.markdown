@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-05-15 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 11th May 2015"
@@ -38,7 +39,7 @@ https://www.linkedin.com/pulse/20140206114808-15893932-how-adobe-got-rid-of-trad
 
 It's great to see a corporate starting to do something about year performance reviews, considering all the data and research indicating how damaging they are to team work and overall company performance: “nourishes short-term performance, annihilates long-term planning, builds fear, demolishes teamwork, nourishes rivalry and politics.”
 
-Having a coaching and advice model seems not only more efficient, but more 'human'. 
+Having a coaching and advice model seems not only more efficient, but more 'human'.
 
 ## Is a Twitter message too big? - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
 

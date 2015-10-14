@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-09-27 12:50:00 UTC"
 published: true
 title: "Dev Newsletter: 27th September"
@@ -30,7 +31,7 @@ I really enjoyed [this talk](http://adactio.com/articles/6510/) by [Jeremy Keith
 As an aside, I really like how Jeremy has presented his talk; it's available as video, slides, transcript and audio. More like this please!
 
 ## We are people, not machines! - MattP
-You've heard of robots.txt.  humans.txt is an analogue of that. It's to describe, in a plain text format, those who contributed to the making of a site. 
+You've heard of robots.txt.  humans.txt is an analogue of that. It's to describe, in a plain text format, those who contributed to the making of a site.
 http://humanstxt.org/ has details, and naturally a humans.txt file at http://humanstxt.org/humans.txt
 
 ## JQuery auto complete with Capybara 2 - Lee R

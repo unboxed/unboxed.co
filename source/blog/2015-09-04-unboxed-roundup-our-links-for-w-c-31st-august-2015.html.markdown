@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-09-04 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 31st August 2015"
@@ -20,7 +21,7 @@ No need for clean space between connected devices. To me this is both amazing an
 
 ## Git extension bug and committed private data that cost someone over $6500 - [Jon N](http://www.unboxedconsulting.com/people/jon-normington)
 
-https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours 
+https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours
 
 This post about a github extension used by Visual Studio 2015 that essentially cost this guy over $6500 on AWS because of two things: he trusted the GUI to do what it said and committed private keys to the repository. Interesting little read...
 

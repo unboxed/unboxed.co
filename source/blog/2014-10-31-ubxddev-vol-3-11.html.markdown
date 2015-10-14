@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-10-31 14:30:00 UTC"
 published: true
 title: "UBXDDEV Vol. 3.11"

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-10-18 10:29:00 UTC"
 published: true
 title: "The blog post title!"
@@ -37,12 +38,12 @@ I'm a fan of vim, and I make no secret of that fact. So as I've given a link for
 
 # CSS Triangles - MattP
 [http://codepen.io/chriscoyier/full/lotjh](http://codepen.io/chriscoyier/full/lotjh)
-                                                                                                                                                                                                                                         
+
 How do you make a triangle in pure CSS? Find out here.
 
 # Santoku - MattP
-[https://github.com/mattpep/santoku](https://github.com/mattpep/santoku)                                                                                                                                                                 
-                                                                                                                                                                                                                                         
+[https://github.com/mattpep/santoku](https://github.com/mattpep/santoku)
+
 Heroku applications are deployed by pushing to a git remote. Why can't this technique be used to deploy to a chef server? Well, using santoku as an update hook, you can!  There's not much too it; I wrote it last weekend when on a train journey to visit family. I've started using it here at Unboxed Consulting.
 
 ---

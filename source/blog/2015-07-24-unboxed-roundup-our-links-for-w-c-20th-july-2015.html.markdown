@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-07-24 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 20th July 2015"
@@ -24,7 +25,7 @@ http://www.lukew.com/ff/entry.asp?1950=
 
 https://kapeli.com/dash
 
-This might not be anything new but, Googl'ing for commands to something 
+This might not be anything new but, Googl'ing for commands to something
 you can't quite remember is pretty annoying, and especially when learning a new language like Ember.js.  I recently found and have been trying to use [Dash](https://kapeli.com/dash) instead of reverting to google and getting irrelevent results.
 
 Dash is a program which has collated over 150 documents from postgres to Ember to even cheatsheets from Sublime Text to Capybara which can be useful for picking up new things and even allows you to download docs for a specific version - which in Ember.js is pretty cool, as well as annotating the docs.  In addition it also allows you to create you own cheatsheets and custom docs.

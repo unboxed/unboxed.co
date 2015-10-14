@@ -1,0 +1,17 @@
+<a class="blog-tile blog-small-tile" href="<%= article.url %>">
+  <div class="blog-small-tile__content">
+    <div class="blog-small-tile__title">
+      <%= truncate(article.title, length: 70) %>
+    </div>
+
+    <div>
+      <div class="blog-small-tile__author">
+        <%= article.data.author %>
+      </div>
+
+      <div class="blog-small-tile__date">
+        <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
+      </div>
+    </div>
+  </div>
+</a>

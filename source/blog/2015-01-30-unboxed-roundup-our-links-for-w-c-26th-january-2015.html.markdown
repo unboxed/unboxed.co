@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-01-30 14:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 26th January 2015"
@@ -38,6 +39,6 @@ In http://www.se-radio.net/2014/10/episode-213-james-lewis-on-microservices/, So
 
 Choosing a single track is a pretty difficult exercise for me. If you’ve seen/read “High Fidelity”: yeah, it does escalate to epic proportions. After much looking at playlists on my phone, played stats on Rdio and iTunes, I just went with the one track I played through to the end while trying to choose. In the end it came down to Zola Jesus or Sleater-Kinney, that have a new album out - which is great news, since I feel we need their voice and attitude to shed light on the current zeitgeist. Anyway, here is Zola Jesus. Have a great weekend!
 
-<iframe src="//player.vimeo.com/video/30014047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="//player.vimeo.com/video/30014047" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 [Zola Jesus - Vessel](http://vimeo.com/30014047) from [Souterrain Transmissions](http://vimeo.com/stransmissions) on [Vimeo](https://vimeo.com).

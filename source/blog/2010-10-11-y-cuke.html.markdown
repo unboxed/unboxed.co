@@ -9,7 +9,7 @@ tags:
 ---
 
 <p><img alt="" height="318" src="/uploads/Image/iCuke.jpg" width="320" /></p>
-<p>&nbsp;&nbsp; We, the interns (Lawrence, Raunak and Andrew) have been here at Unboxed Consulting now for a little over 3 months. As a little introduction to ourselves and what we have learned, we felt a short blog article about our experience would be fitting. We would like to discuss what we have been learning over the course of the internship.<br />
+<p>We, the interns (Lawrence, Raunak and Andrew) have been here at Unboxed Consulting now for a little over 3 months. As a little introduction to ourselves and what we have learned, we felt a short blog article about our experience would be fitting. We would like to discuss what we have been learning over the course of the internship.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
 &nbsp; Our first project on arriving at Unboxed, was to create a game which would generate a random response based on user input. Obviously, with very little in the way of industry experience, much of this project involved learning structured management processes and Agile approaches to project development such as pair programming, scrum, planning poker and daily stand-ups. This project also covered areas of good programming practice, test-driven development as well as learning Ruby on Rails and other programming languages such as Javascript, AJAX, CSS and HTML. Our random game has quickly developed from a static Rails application to a fully database driven, RESTful application to allow for dynamic creation of random games.<br />
 <br />

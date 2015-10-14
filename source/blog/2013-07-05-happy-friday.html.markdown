@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-07-05 07:33:00 UTC"
 published: true
 title: "Happy Friday!"
@@ -33,7 +34,7 @@ Go and see the summer science exhibition, learn about particle physics, quantum 
 
 ## Web MIDI Support in Chrome Canary - [Andy M](http://www.unboxedconsulting.com/people/andrew-mitchell)
 [https://plus.google.com/app/basic/stream/z12gwvgzxoatx1haq04cipfxekn3s1pi3qg0k](https://plus.google.com/app/basic/stream/z12gwvgzxoatx1haq04cipfxekn3s1pi3qg0k)
-I have been working a lot with web audio of late and one of the ares that has been lacking so far is support for MIDI (Musical Instrument Digital Interface). In the past we have had to use browser plugins and other tricks to get access to raw control data from MIDI applications and hardware. There is no MIDI output yet but at least we can get access to data from enabled devices. So hardware control for the browser anyone? 
+I have been working a lot with web audio of late and one of the ares that has been lacking so far is support for MIDI (Musical Instrument Digital Interface). In the past we have had to use browser plugins and other tricks to get access to raw control data from MIDI applications and hardware. There is no MIDI output yet but at least we can get access to data from enabled devices. So hardware control for the browser anyone?
 
 ##BrowserStack [Alan Thomas](http://www.unboxedconsulting.com/people/alan-thomas)
 

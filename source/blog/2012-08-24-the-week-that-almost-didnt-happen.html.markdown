@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-08-24 15:10:00 UTC"
 published: true
 title: "The week that almost didn't happen"
@@ -42,7 +43,7 @@ These words are often [attributed to Jamie Zawinski](http://regex.info/blog/2006
 [http://rubular.com/](http://rubular.com/)
 
 ##Corkamix (Matt P)
-Yet another file which is valid in multiple formats. This one is interesting compared to the others because it centers around binary file formats rather than plain-text source code. The project is located at 
+Yet another file which is valid in multiple formats. This one is interesting compared to the others because it centers around binary file formats rather than plain-text source code. The project is located at
 [http://code.google.com/p/corkami/downloads/detail?name=CorkaMIX.zip](http://code.google.com/p/corkami/downloads/detail?name=CorkaMIX.zip)  - it's simultaneously a valid:
  * Windows Portable Executable binary
  * Adobe Reader PDF document

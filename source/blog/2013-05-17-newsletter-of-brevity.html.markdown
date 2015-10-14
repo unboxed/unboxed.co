@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-05-17 13:18:00 UTC"
 published: true
 title: "Newsletter of Brevity"
@@ -25,7 +26,7 @@ I've always been confused by the different git workflows.  Not quite sure how th
 For those into devops, read Bryan Berry's [First Month with Chef](http://devopsanywhere.blogspot.co.uk/2011/10/month-with-chef.html).  The pirate and ninja analogy is poignant.
 
 ## Code smells in CSS ([Matt P](/people/matt-peperell))
-Yay. Another style guide. &lt;/deadpan&gt;. No, wait - this one is actually interesting; it's descriptive not just prescriptive. 
+Yay. Another style guide. &lt;/deadpan&gt;. No, wait - this one is actually interesting; it's descriptive not just prescriptive.
 http://csswizardry.com/2012/11/code-smells-in-css/
 
 ## JavaScript 1k ([Matt P](/people/matt-peperell))

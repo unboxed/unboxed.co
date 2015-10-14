@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-08-14 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 10th August 2015"
@@ -21,7 +22,7 @@ Experiment successfully achieves 'teleportation'.
 
 https://www.fsf.org/blogs/community/who-actually-reads-the-code
 
-A short post about leaving code easter eggs to determine who actually reads code in  an OSS project. 
+A short post about leaving code easter eggs to determine who actually reads code in  an OSS project.
 
 ## List of languages that compile to JS - [Charlie E](http://www.unboxedconsulting.com/people/charlie-egan)
 

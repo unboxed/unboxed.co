@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-11-29 15:04:00 UTC"
 published: true
 title: "The Not As Short As Some and Not Late At All One"

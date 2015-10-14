@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-12-21 16:54:00 UTC"
 published: true
 title: "Post-end-of-the-world newsletter - yay we're still here "

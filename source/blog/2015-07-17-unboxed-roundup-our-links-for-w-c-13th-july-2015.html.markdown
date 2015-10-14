@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-07-17 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 13th July 2015"
@@ -30,10 +31,10 @@ http://devblog.avdi.org/2015/07/08/ruby-is-defined-by-terrible-tools/
 
 [![Pluto](http://imgs.xkcd.com/comics/pluto.png)](http://xkcd.com/1551/)
 
-xkcd has been performing some scientific analysis on the distant planet 
+xkcd has been performing some scientific analysis on the distant planet
 
 ## No Man’s Sky - [Tom S](http://www.unboxedconsulting.com/people/tom-sabin)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2KlmY7zxAp0" frameborder="0" allowfullscreen></iframe>
 
-PBS Game/Show discusses the biggest game in history. With over 18,446,744,073,709,551,616 worlds to explore, I wondered how it was not only made, but also tested. Interesting to see that they have bots that send gameplay videos back to the team - making sure that the algorithms they write are producing beautiful worlds. 
+PBS Game/Show discusses the biggest game in history. With over 18,446,744,073,709,551,616 worlds to explore, I wondered how it was not only made, but also tested. Interesting to see that they have bots that send gameplay videos back to the team - making sure that the algorithms they write are producing beautiful worlds.

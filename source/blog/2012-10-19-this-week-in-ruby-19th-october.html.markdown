@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-10-19 15:12:00 UTC"
 published: true
 title: "This Week in Ruby, 19th October"
@@ -48,7 +49,7 @@ http://ahrengot.com/tutorials/greensock-javascript-animation/
 Using remote js forms? You will find simply disabling the button on click will likely disable the button before submitting the form, which is well… annoying but reasonable. Instead use the following to force your submit to disable the link until the form is submitted.
 
     :disable_with => 'Please wait..'
-    
+
 
 # Javascript, does it require classes? (Andrew)
 

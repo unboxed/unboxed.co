@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-02-10 13:23:00 UTC"
 published: true
 title: "Migrating data, games on the web platform, better calendars and active record relation counting."
@@ -13,9 +14,9 @@ A [gem](https://github.com/ajvargo/data-migrate) by [Andrew J Vargo](https://git
 
 ## A better Calendar for all - Francesca Granato
 
-A note from Francesca : "I think the design is strong, the screen real estate is well-used, the UI is almost entirely gesture-based and the underlying premise of the app challenges the way we use calendars on our phones. Its worth checking out (although it isn't free). " 
+A note from Francesca : "I think the design is strong, the screen real estate is well-used, the UI is almost entirely gesture-based and the underlying premise of the app challenges the way we use calendars on our phones. Its worth checking out (although it isn't free). "
 
-This is an awesome app and we could gain a lot from looking at it's gesture based interface. 
+This is an awesome app and we could gain a lot from looking at it's gesture based interface.
 
 [Promotional Video](http://vimeo.com/83492387)
 
@@ -25,7 +26,7 @@ This is an awesome app and we could gain a lot from looking at it's gesture base
 
 ## Games on the web platform - [Henry Turner](https://www.unboxedconsulting.com/people/henry-turner)
 
-The web platform is becoming more and more powerful. [Artillery](http://blog.artillery.com/2013/09/project-atlas-and-the-artillery-platform.html) is a platform for the development of in-browser games. 
+The web platform is becoming more and more powerful. [Artillery](http://blog.artillery.com/2013/09/project-atlas-and-the-artillery-platform.html) is a platform for the development of in-browser games.
 
 Check it out [here](http://blog.artillery.com/2013/09/project-atlas-and-the-artillery-platform.html)
 

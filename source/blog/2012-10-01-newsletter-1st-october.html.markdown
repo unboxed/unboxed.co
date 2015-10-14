@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-10-01 10:22:00 UTC"
 published: true
 title: "Newsletter, 1st October"

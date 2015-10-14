@@ -2,7 +2,7 @@
 layout: "blog"
 date: "2009-09-16 00:00:00 UTC"
 published: true
-title: "Question: What do WAGs, Dutch \"total\" football, and Agile have to teach us about effective software development and delivery?"
+title: "What do WAGs, Dutch \"total\" football, and Agile have to teach us about effective software dev. & delivery?"
 author: "Tym Moore"
 tags:
   - Rails

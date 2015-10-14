@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-06-26 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 22nd June 2015"
@@ -34,14 +35,14 @@ Another tool to throw in the toolkit, this SASS mixin provides a very simple way
 
     $tablet: 569px;
     $desktop: 737px;
-    
+
     aside {
       @include span(12 of 12);
-    
+
       @include breakpoint($tablet) {
         @include span(last 6 of 12);
       }
-    
+
       @include breakpoint($desktop) {
         @include span(last 4 of 12);
       }

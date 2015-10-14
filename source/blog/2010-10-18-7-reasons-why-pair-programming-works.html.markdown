@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-<p>I was wondering why a lot of people still don&#39;t want to pair program. So I wrote down my most important reasons why you should pair program. Btw if you don&#39;t know what&nbsp; pair programming is, <a href="http://en.wikipedia.org/wiki/Pair_programming">here is the explanation</a>.</p>
+<p>I was wondering why a lot of people still don&#39;t want to pair program. So I wrote down my most important reasons why you should pair program. Btw if you don&#39;t know what pair programming is, <a href="http://en.wikipedia.org/wiki/Pair_programming">here is the explanation</a>.</p>
 <p><strong>Faster learning</strong> - if you pair program with a more experienced developer you will learn much faster than you would alone.</p>
 <p><strong>Faster development</strong> - Even though sometimes pair programming may be slower (pair senior / junior), in general it&#39;s faster. Two people working on the same issue have different ideas on how to solve the problem or they can suggest better and faster solutions.</p>
 <p><strong>Learn new things</strong> - It doesn&#39;t matter if you pair with a skilled or beginner developer. Every person thinks differently so you will learn new techniques or even just different approaches on how to solve the problem.</p>

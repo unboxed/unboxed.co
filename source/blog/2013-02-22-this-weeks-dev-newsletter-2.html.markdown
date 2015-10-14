@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-02-22 14:04:00 UTC"
 published: true
 title: "This week's dev newsletter"
@@ -8,14 +9,14 @@ tags:
   - Rails
 ---
 
-OpenHack - Murray 
+OpenHack - Murray
 ==
 A new coding meetup for London - it's part of a global meetup idea called [openhack](http://openhack.github.com/).  The goal is to have meetings that are just focused on getting together to hack on code, open to all programmers regardless of ability or language preference.  The london organisaers are trying to gauge interest before having the first meeting, if it sounds like the kind of thing you'd be interested in follow [@OpenHackLDN](https://twitter.com/OpenHackLDN) and get involved.
 
 
 Inside test frameworks - Murray
 ==
-http://interblah.net/how-rspec-works & http://interblah.net/how-minitest-works 
+http://interblah.net/how-rspec-works & http://interblah.net/how-minitest-works
 
 Two blog posts that go into great detail about what actually happens when you run your tests in minitest or rspec.  The author is writing his own testing framework, [kintama](http://interblah.net/kintama) and these posts are part of him exploring what he's done and explaining why his approach is different.  It's not about how the tests you write work (e.g. it's not about assert_blah vs. should blah() ), but more about how the frameworks actually end up running your tests, and what that means for the flexibility of the tests you write.
 
@@ -53,28 +54,28 @@ Steve responded to the request for submissions with his usual deluge. They fall 
 Web Dev, Design, etc.
 ---------------------
 https://www.newfangled.com/the_web_development_process_from_start_to_finish
-The web development process from start to finish 
+The web development process from start to finish
 
 http://www.markboulton.co.uk/journal/theinbetween
 The In-between by Mark Boulton.
-Also see this follow up by Jeremy Keith: http://adactio.com/journal/6044/ 
+Also see this follow up by Jeremy Keith: http://adactio.com/journal/6044/
 
 http://jimramsden.com/notes/no-more-mobile
 No more "mobile."
 
 http://designinstruct.com/web-design/usability-photos/
-Usability Mistakes to Avoid When Using Photos in Your Website 
+Usability Mistakes to Avoid When Using Photos in Your Website
 
 http://clearleft.com/thinks/front-enddesignprinciples/
-Front-end design principles from the very clever folk at Clear Left 
+Front-end design principles from the very clever folk at Clear Left
 
 http://www.sentenzadesktop.com/
-Build Mac OS X applications with HTML5, CSS3 and JavaScript 
+Build Mac OS X applications with HTML5, CSS3 and JavaScript
 
 http://www.jsdb.io/
 A collection of the best clientside javascripts
 
-http://gridassault.com/ 
+http://gridassault.com/
 A gallery of grid-based designs.
 
 
@@ -94,6 +95,6 @@ http://ashow.zefrank.com/episodes/105
 The human test (volume 1.1.1)
 
 http://www.warrenellis.com/?p=14653
-Boiling Spacetime: How Time Works In The Graphic Novel 
+Boiling Spacetime: How Time Works In The Graphic Novel
 
 

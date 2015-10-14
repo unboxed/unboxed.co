@@ -2,7 +2,7 @@
 layout: "blog"
 date: "2015-03-19 10:30:00 UTC"
 published: true
-title: "Webinar – ‘Offshoring Agile: Make it work in practice’"
+title: "Webinar: Offshoring Agile: Make it work in practice"
 author: "Graeme McCubbin"
 tags:
   - Agile

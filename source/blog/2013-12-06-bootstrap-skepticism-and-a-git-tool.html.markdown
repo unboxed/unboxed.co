@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-12-06 13:29:00 UTC"
 published: true
 title: "Bootstrap, skepticism and a git tool"
@@ -12,7 +13,7 @@ tags:
 
 ## A bit of help with you development workflow - [Richard Stobart](http://www.unboxedconsulting.com/people/richard-stobart)
 
-[Phabricator](http://phabricator.org) is an open source tool for managing your development workflow.  People who use it sing its praises.  It manages the code review process with "lightweight, asynchronous web-based workflows where reviewers/auditors inspect code independently, from their own machines".  Git it, install it, use it, have better code. 
+[Phabricator](http://phabricator.org) is an open source tool for managing your development workflow.  People who use it sing its praises.  It manages the code review process with "lightweight, asynchronous web-based workflows where reviewers/auditors inspect code independently, from their own machines".  Git it, install it, use it, have better code.
 
 ## Bootstrap 3.0.3 released - [Pawel Janiak](http://www.unboxedconsulting.com/people/pawel-janiak)
 

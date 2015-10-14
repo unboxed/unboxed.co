@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-11-02 15:06:00 UTC"
 published: true
 title: "Dev Newsletter: 2 November 2012"
@@ -11,7 +12,7 @@ tags:
 We've got a lot to get through this week, so let's get started;
 
 ## 2012 Rails Rumble winners… (Lee)
-We start off this week's post with the results of the recent Rails Rumble contest: 
+We start off this week's post with the results of the recent Rails Rumble contest:
 [http://railsrumble.com/entries/winners](http://railsrumble.com/entries/winners)
 
 ## .. and the winners' perferred choice of gem
@@ -50,7 +51,7 @@ Nice case study of the steps taken by the OP to optimise the performance of his 
 Well that was exciting wasn't it? Let's take a little break. Just sit back, put your feet up and enjoy the contributed [kitten GIF gallery](http://imgur.com/a/RnF6j) for a few minutes. We'll wait for you here, see you in a bit. Just ignore that some people can't tell the difference between gifs and jpgs…
 
 ## ::Wireframing App Of The Week::
-Continuing our semi-regular feature: [wireframe.cc](http://wireframe.cc) 
+Continuing our semi-regular feature: [wireframe.cc](http://wireframe.cc)
 
 ## book: "Ruby Under a Microscope" (Matt Peperell)
 Typically when using a program language we don't about the details of the underlying implementation.  But what about those cases when we do care? The newly published book "__Ruby Under a Microscope__" should sate those needs. Available in _PDF_, _EPUB_ and _MOBI_ formats, you can find details at [http://patshaughnessy.net/ruby-under-a-microscope](http://patshaughnessy.net/ruby-under-a-microscope)
@@ -62,7 +63,7 @@ Typically when using a program language we don't about the details of the underl
 <iframe width="560" height="315" src="http://www.youtube.com/embed/PN8Eg1K9xjE" frameborder="0" allowfullscreen></iframe>
 
 ## editor plugin: Emmet
-Previously known as the web development toolkit _Zen Coding_, [Emmet](http://docs.emmet.io/) has been released with improved parsing and range of snippets. Basically, it's a way to type CSS-like expressions in your editor and produce expanded markup. It is compatible with most major editors. 
+Previously known as the web development toolkit _Zen Coding_, [Emmet](http://docs.emmet.io/) has been released with improved parsing and range of snippets. Basically, it's a way to type CSS-like expressions in your editor and produce expanded markup. It is compatible with most major editors.
 
 ## …and something for the Vim users
 In the interests of balance, I found something for Vim as well; [Vundle](https://github.com/gmarik/vundle) - think Bundler for Vim and you're basically there.

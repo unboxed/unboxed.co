@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-07-08 23:00:00 UTC"
 published: true
 title: "Better Late Than Never"
@@ -17,7 +18,7 @@ Don't copy jQuery onto your website - let Google host it for you.  Here are 3 re
 Last weekend there were huge outages on various parts of the internet. Two primary causes, independent of one another, were responsible.
 
 #Issue 1:
-the Leap Second which happened at 23:59:60 June 30th caused lockup or load to skyrocket in a large number of Linux machines.  This caused a few of our machines to keel over, but was also quite a wide-impacting bug; companies affected include Twitter, LinkedIn, AWS, Pinterest, Instagram, Stumbleon and Reddit. For those who care, technical information (including Kernel internals) can be found at 
+the Leap Second which happened at 23:59:60 June 30th caused lockup or load to skyrocket in a large number of Linux machines.  This caused a few of our machines to keel over, but was also quite a wide-impacting bug; companies affected include Twitter, LinkedIn, AWS, Pinterest, Instagram, Stumbleon and Reddit. For those who care, technical information (including Kernel internals) can be found at
 [http://serverfault.com/questions/403732/anyone-else-experiencing-high-rates-of-linux-server-crashes-during-a-leap-second](http://serverfault.com/questions/403732/anyone-else-experiencing-high-rates-of-linux-server-crashes-during-a-leap-second)
 
 #Issue 2:

@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2012-10-26 15:02:00 UTC"
 published: true
 title: "The Week of the JavaScript take over"

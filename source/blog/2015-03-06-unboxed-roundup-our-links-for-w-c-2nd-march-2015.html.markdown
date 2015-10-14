@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-03-06 14:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 2nd March 2015"
@@ -22,7 +23,7 @@ I've used this game to teach the concepts of limiting work in progress in a very
 
 ## Track of the Week - [Claire](http://www.unboxedconsulting.com/people/claire-kemp)
 
-This song got me through some of the most difficult times in the last couple of years. I blasted it in the car on the way back from Oxford after Liv's surgeon told me she got the whole tumour out and Liv was in recovery. I would also stick it on for the 4 % inclines in my training runs. 
+This song got me through some of the most difficult times in the last couple of years. I blasted it in the car on the way back from Oxford after Liv's surgeon told me she got the whole tumour out and Liv was in recovery. I would also stick it on for the 4 % inclines in my training runs.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/7WwZekfd0Bs" frameborder="0" allowfullscreen></iframe>
 

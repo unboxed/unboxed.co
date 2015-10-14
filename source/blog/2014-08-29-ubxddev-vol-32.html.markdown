@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-08-29 13:30:00 UTC"
 published: true
 title: "UBXDDEV Vol. 3.2"
@@ -26,12 +27,12 @@ http://www.matchingnotes.com/class-table-inheritance-in-rails.html
 
 > http://www.90percentofeverything.com/2014/08/26/some-dark-patterns-now-illegal-in-uk-interview-with-heather-burns/
 > "EU’s new consumer rights law bans certain dark patterns related to e-commerce across Europe"
-> 
+>
 > Interesting for web developers and users alike. Take note RyanAir! It will be interesting to see if/how these new laws are enforced.
 
 [Henry](http://wwwunboxedconsulting.com/people/henry-turner) says:
 
 > Press release about the highlights of the legislation: http://europa.eu/rapid/press-release_MEMO-11-450_en.htm?locale=en
-> 
+>
 > The actual thing: http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32011L0083&rid=1
 

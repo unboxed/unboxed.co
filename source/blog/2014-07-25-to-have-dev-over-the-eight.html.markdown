@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-07-25 13:30:00 UTC"
 published: true
 title: "To have dev over the eight"

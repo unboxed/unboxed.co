@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-10-25 10:33:00 UTC"
 published: true
 title: "How do you like them links?!"
@@ -36,9 +37,9 @@ Who knew that ruby had a === operator? it's not like the triple-equals operator 
 
 ## Software Archaeology Conference - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
 
-[The First International Conference on Software Archaeology](http://www.ticosa.org/) looks like an interesting conference coming to London early next year.  This appeals to me because: 
+[The First International Conference on Software Archaeology](http://www.ticosa.org/) looks like an interesting conference coming to London early next year.  This appeals to me because:
 
-  1. I generally refer to digging into external code as archaeology, 
+  1. I generally refer to digging into external code as archaeology,
   2. It's not a conference about a specific technology; it's good to be exposed to approaches used by other people working with other tech-stacks and in different fields,
   3. One of my close friends is an *actual* archaeologist and I'd like to blow his mind by saying I'm going to an archaeology conference
 
@@ -48,7 +49,7 @@ The [Better Specs](http://betterspecs.org) site gives us a handy best practice s
 
 ## ES 6 features and their impact on existing JS frameworks - Veronika Hillebrand
 
-[Here are the slides for an interesting talk](http://bengillies.tiddlyspace.com/bags/bengillies_public/tiddlers/The%20Evolution%20of%20Web%20Frameworks_%20ES6%20and%20Beyond.pdf) on the upcoming ES6 additions. Sadly you'll miss out on very funny grumpy delivery of the live talk, but the slides are full of exciting features that make you eagerly anticipate the advent of ES6 until you realise you will never be able to fully embrace ES6 because you have to support legacy browsers. 
+[Here are the slides for an interesting talk](http://bengillies.tiddlyspace.com/bags/bengillies_public/tiddlers/The%20Evolution%20of%20Web%20Frameworks_%20ES6%20and%20Beyond.pdf) on the upcoming ES6 additions. Sadly you'll miss out on very funny grumpy delivery of the live talk, but the slides are full of exciting features that make you eagerly anticipate the advent of ES6 until you realise you will never be able to fully embrace ES6 because you have to support legacy browsers.
 
 This talk was part of a JavaScript meet up called [jsChannel](http://www.meetup.com/JSChannel-London/)
 

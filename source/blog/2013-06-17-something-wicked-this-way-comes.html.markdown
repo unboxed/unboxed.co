@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-06-17 15:17:00 UTC"
 published: true
 title: "Something wicked this way comes"
@@ -12,7 +13,7 @@ tags:
 ---
 
 ##Jony Ive Redesigns Things [Rob](http://www.unboxedconsulting.com/people/robert-pataki)
-WWDCXIII was pretty much all about the new iOS7 (a very nice write up on iOS7 can be read here: [http://mattgemmell.com/2013/06/12/ios-7/](http://mattgemmell.com/2013/06/12/ios-7/)). 
+WWDCXIII was pretty much all about the new iOS7 (a very nice write up on iOS7 can be read here: [http://mattgemmell.com/2013/06/12/ios-7/](http://mattgemmell.com/2013/06/12/ios-7/)).
 
 So it seems it all started with redesigning iOS. Then Jony Ive couldn't stop and he keeps redesigning everything...
 

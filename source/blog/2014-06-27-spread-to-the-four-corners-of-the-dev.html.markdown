@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-06-27 12:30:00 UTC"
 published: true
 title: "Spread to the four corners of the dev"
@@ -41,13 +42,13 @@ Text fields are the [recommended option for users to input dates](https://www.go
 	var day   = $('#date_day'),
 	    month = $('#date_month'),
 	    year  = $('#date_year');
-	
+
 	day.mask('AA', {
 	  onComplete: function () {
 	    month.focus();
 	  }
 	});
-	
+
 	month.mask('AA', {
 	  onComplete: function () {
 	    year.focus();
@@ -91,31 +92,31 @@ been using it when developing on Rails 2 and it is a joy.
 I went to the [June Front End London meetup](http://lanyrd.com/2014/front-end-london-june/) last night, and came away full of new ideas and things to look into.  I've collected some of them below:
 
 > ### Top Codepens of 2013
-> 
+>
 > [http://codepen.io/2013/popular/](http://codepen.io/2013/popular/)
-> 
+>
 > Great selection of what the combination of HTML, CSS and JS can do. Far too many to goggle at.
-> 
+>
 > ### Effeckt.css
-> 
+>
 > [http://h5bp.github.io/Effeckt.css](http://h5bp.github.io/Effeckt.css)
-> 
+>
 > A library for performant CSS transitions and animations , still in development.
-> 
+>
 > ### Can haz ur cursor?
-> 
+>
 > [http://simurai.com/projects/cursor-monster/](http://simurai.com/projects/cursor-monster/)
-> 
+>
 > Feed the monster your cursor.
-> 
+>
 > ### We Are Data (Watchdogs)
-> 
+>
 > [http://wearedata.watchdogs.com/](http://wearedata.watchdogs.com/start.php?locale=en-EN&city=london)
-> 
+>
 > Visualise a bunch of open data on an interactive map:
-> 
+>
 > ![image](https://dl.dropboxusercontent.com/u/2217931/dev-newsletter-wearedata.png)
-> 
+>
 > - Social posts (tweets/instagram/foursquare/flickr)
 > - CCTV cameras, traffic lights, ATMs
 > - London Underground stations, positions of tubes

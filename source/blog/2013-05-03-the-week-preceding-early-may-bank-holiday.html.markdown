@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2013-05-03 14:18:00 UTC"
 published: true
 title: "The Week Preceding Early May Bank Holiday"
@@ -32,7 +33,7 @@ http://www.leanblog.org/2013/02/toyota-respect-for-people-or-humanity-and-lean/
 * “respect for people is the attitude that regards people’s ability to think most.”
 * Respect is not about being nice, nor is it about having great “people skills.” It’s about challenging people to perform to their peak ability, not being superficially nice.
 
-## Use GitX?  Forget it, try GitXXX - Will 
+## Use GitX?  Forget it, try GitXXX - Will
 Some lovely person has forked GitX and added all the features we all thought should have been there in the first place.  You can now push, pull, rebase, cherry-pick, view source, blame, and history for a repo, use a beautiful new sidebar.  It even does a limited kind of syntax highlighting.  Forget git towers, it's GitX all the way now.
 
 It's here: http://brotherbard.com/blog/

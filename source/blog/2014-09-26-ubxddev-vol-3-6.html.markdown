@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-09-26 13:30:00 UTC"
 published: true
 title: "UBXDDEV Vol. 3.6"
@@ -24,9 +25,9 @@ An in-depth look at the CSS vertical-align property, how it works, and why it mi
 
 ## Overkill - [Karl](http://www.unboxedconsulting.com/people/karl-entwistle)
 
-https://www.youtube.com/watch?v=qLpvc5r6Bb0 
+https://www.youtube.com/watch?v=qLpvc5r6Bb0
 
-This talk by [Katrina Owen](http://www.kytrinyx.com/) presents a simple problem that provides a good training exercise for some best practices.  She covers: 
+This talk by [Katrina Owen](http://www.kytrinyx.com/) presents a simple problem that provides a good training exercise for some best practices.  She covers:
 
 * refactoring
 * [Sandi Metz's](http://www.sandimetz.com/) “squint test”

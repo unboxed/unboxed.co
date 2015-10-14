@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2014-07-04 12:30:00 UTC"
 published: true
 title: "Workin' dev to five, what a way to make a livin'"
@@ -12,7 +13,7 @@ tags:
 
 [http://library.uniteddiversity.coop/Ecological\_Building/A\_Pattern\_Language.pdf](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf) (warning - 45 MB PDF)
 
-My Dad, a town planner and landscape architect, often bemoans how the software industry has utilised the concept of patterns better than his own from which the term came. If you haven’t seen [A Pattern Language by Christopher Alexander](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf) it’s pretty interesting to flick through and see what he was trying to achieve. 
+My Dad, a town planner and landscape architect, often bemoans how the software industry has utilised the concept of patterns better than his own from which the term came. If you haven’t seen [A Pattern Language by Christopher Alexander](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf) it’s pretty interesting to flick through and see what he was trying to achieve.
 
 ## Rails 404 pages - [Andrew W](http://www.unboxedconsulting.com/people/andrew-white)
 

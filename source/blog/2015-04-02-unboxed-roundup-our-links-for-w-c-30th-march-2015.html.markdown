@@ -1,5 +1,6 @@
 ---
 layout: "blog"
+weekly_roundup: true
 date: "2015-04-02 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 30th March 2015"
@@ -24,7 +25,7 @@ This article is a long post-mortem by the owner of a handful of restaurants, mos
 
 http://www.brianstorti.com/stop-using-tail/
 
-Using 'tail -f' to monitor log files is useful but it's hard to search the log. This post suggests the use of 'less +F' so that you can easily switch between logging and navigation.  
+Using 'tail -f' to monitor log files is useful but it's hard to search the log. This post suggests the use of 'less +F' so that you can easily switch between logging and navigation.
 
 ## A JS physics engine for touch interactions - [Henry T](http://www.unboxedconsulting.com/people/henry-turner)
 
@@ -34,7 +35,7 @@ Hopefully little pieces like this will make non-native apps easier to use and wr
 
 ## Why everything breaks when you reach 25 employees - [Tadas T](https://twitter.com/tadas_t)
 
-https://getlighthouse.com/blog/company-growth-everything-breaks-25-employees/ 
+https://getlighthouse.com/blog/company-growth-everything-breaks-25-employees/
 
 This article analyses the reasons behind the chaos caused by the initial company growth stage. Having witnessed this effect myself I found this article very insightful. Understanding the possible reasons behind it will hopefully help to address the problems better next time.
 
@@ -42,5 +43,5 @@ This article analyses the reasons behind the chaos caused by the initial company
 
 There are so many tracks that deeply move me, but not so many that always make me laugh. But I know I can always count on these guys:
 
-<iframe src="https://player.vimeo.com/video/26317618" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+<iframe src="https://player.vimeo.com/video/26317618" width="500" height="282" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 [Flight of the Conchords - Hurt Feelings](https://vimeo.com/26317618)
