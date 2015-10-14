@@ -7,9 +7,18 @@
   }
 }
 
+.blog-header__breadcrumb {
+  text-decoration: none;
+  color: $article-breadcrumb-link-color;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 .blog-header__title {
   font-size: 1.8em;
-  font-weight: bold;
+  font-weight: 100;
   line-height: 1.2em;
   padding-bottom: 30px;
 
