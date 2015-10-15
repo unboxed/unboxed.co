@@ -57,10 +57,10 @@ site:
 
 team:
   title: "Unboxed team"
-  people:
+  people_archived:
     - short_name: "attila"
       full_name: "Attila Gyorffy"
-      link: "/people/attila-gyorffy"
+  people_active:
     - short_name: "chris"
       full_name: "Chris Carter"
       link: "/people/chris-carter"
@@ -241,7 +241,13 @@ related:
       <%= current_page.data.team.title %>
     </h2>
 
-    <% current_page.data.team.people.each do |person| %>
+    <% current_page.data.team.people_archived.each do |person| %>
+      <div class="project-team__headshot-container project-team__container--5">
+        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+      </div>
+    <% end %>
+
+    <% current_page.data.team.people_active.each do |person| %>
       <a class="project-team__headshot-container project-team__container--5" href="<%= person.link %>">
         <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
       </a>
