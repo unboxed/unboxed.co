@@ -1,8 +1,11 @@
 .style-guide {
   @extend %container;
   background-color: $white;
-  padding: 0 10px;
   box-sizing: border-box;
+
+  @include breakpoint($max-mobile-container) {
+    padding: 0 10px;
+  }
 }
 
 .style-guide__title {
@@ -11,12 +14,15 @@
 }
 
 .style-guide__container {
-  border: 2px solid;
-  border-radius: 10px;
-  border-color: $light-gray;
-  box-sizing: border-box;
-  margin-bottom: 5px;
   width: 100%;
+
+  @include breakpoint($max-mobile-container) {
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: $light-gray;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+  }
 }
 
 .style-guide__container-title {
@@ -26,6 +32,10 @@
 }
 
 .style-guide__container-body {
-  padding: 30px;
   overflow: auto;
+  padding-bottom: 30px;
+
+  @include breakpoint($max-mobile-container) {
+    padding: 30px;
+  }
 }
