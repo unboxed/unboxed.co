@@ -39,3 +39,8 @@
     padding: 30px;
   }
 }
+
+.style-guide__container-body--blog {
+  @extend .style-guide__container-body;
+  padding: 30px;
+}
