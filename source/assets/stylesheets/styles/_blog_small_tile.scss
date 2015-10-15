@@ -12,18 +12,22 @@
 }
 
 .blog-small-tile__content {
-  @include flexbox;
-  @include flex-direction(column);
-  @include justify-content(space-between);
   box-sizing: border-box;
   background-color: $white;
   padding: 14px 14px 14px;
   border: 1px solid darken($light-gray, 5%);
-  min-height: 190px;
   width: 100%;
 
   &:hover {
     background-color: $light-gray;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+    @include flex-direction(column);
+    @include justify-content(space-between);
+
+    min-height: 190px;
   }
 }
 
@@ -32,10 +36,11 @@
   font-size: 1.14em;
   font-weight: lighter;
   line-height: 1.3em;
-  margin-bottom: 6px;
+  margin-bottom: 20px;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 2.17vw;
+    margin-bottom: 6px;
   }
 
   @include breakpoint($max-tablet-container) {
