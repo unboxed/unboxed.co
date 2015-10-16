@@ -4,36 +4,23 @@ prose:
   media: 'source/blog/images'
   metadata:
     source/blog:
-      - name: 'layout'
-        field:
-          element: 'hidden'
-          value: 'blog'
 
       - name: 'title'
         field:
           element: 'text'
           label: 'title'
 
-      - name: 'date'
-        field:
-          element: 'hidden'
-          value: CURRENT_DATETIME
-
-      - name: 'published'
-        field:
-          element: 'hidden'
-          value: true
-
       - name: 'author'
         field:
           element: 'text'
-          label: 'Author'
+          label: '* Author'
+          help: 'Full name of the author (e.g. Graeme McCubbin) (required)'
 
       - name: 'tags'
         field:
           element: 'multiselect'
           label: 'Tags'
-          help: 'Choose relevant tags'
+          help: 'Choose relevant tags (optional)'
           alterable: false
           options: [
             'Agile',
@@ -43,3 +30,27 @@ prose:
             'Innovation',
             'Lean',
             'Rails' ]
+
+      - name: 'main_image'
+        field:
+          element: 'text'
+          label: 'Main blog image URL'
+          help: 'The image that is shown on the blog listing page (optional)'
+
+      - name: 'date'
+        field:
+          element: 'text'
+          value: CURRENT_DATETIME
+          label: '* Date published'
+          help: 'Must be in the format YYYY-MM-DD HH-MM (required)'
+
+      - name: 'published'
+        field:
+          element: 'checkbox'
+          value: true
+          label: 'Published?'
+
+      - name: 'layout'
+        field:
+          element: 'hidden'
+          value: 'blog'
