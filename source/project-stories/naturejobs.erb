@@ -11,10 +11,14 @@ collaboration:
     - "Streamlined website development by gaining stakeholder buy-in"
     - "Constant engagement between Unboxed and Naturejobs throughout process"
     - "Reduced overheads by removing unused legacy features from large website"
+  image: "/project-stories/naturejobs/naturejobs-website.jpg"
+  image_description: "Naturejobs website screenshot"
 
 technology:
   title: "Upgrading the platform to use latest core technologies"
   content: "Core technologies were dated, with versions of software language and frameworks reaching end of life. This severely limited Naturejobs’ opportunity to utilise the latest framework innovations and increased security risk. We successfully planned and delivered upgrades of Ruby software, Rails framework and further business features."
+  image: "/project-stories/naturejobs/team-meeting.jpg"
+  image_description: "Naturejobs team meeting"
 
 collaboration_quote:
   quote: "Unboxed Consulting were part of the team we were used to working with, I didn’t feel like we were customers."
@@ -23,6 +27,8 @@ collaboration_quote:
 user_journey:
   title: "UX enhanced to benefit user journey"
   content: "With feedback of long and complicated user journeys on the current website, along with a high drop off rate, the user experience from start to finish was investigated and refined. Unnecessary stages in the user journey were removed, greatly reducing the drop-off rate. Every iteration was tested and assessed against real user data, resulting in a smoother and more concise journey."
+  image: "/project-stories/naturejobs/ux-sketch.jpg"
+  image_description: "UX design sketch"
 
 metrics:
   title: "Establishing valuable metrics for success"
@@ -80,6 +86,10 @@ team:
         <% end %>
       </ul>
     </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.collaboration.image %> alt="<%= current_page.data.collaboration.image_description %>" />
+    </div>
   </section>
 
   <section class="component">
@@ -91,6 +101,10 @@ team:
       <p class="text-tile__paragraph">
         <%= current_page.data.technology.content %>
       </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.technology.image %> alt="<%= current_page.data.technology.image_description %>" />
     </div>
   </section>
 
@@ -112,6 +126,10 @@ team:
       <p class="text-tile__paragraph">
         <%= current_page.data.user_journey.content %>
       </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.user_journey.image %> alt="<%= current_page.data.user_journey.image_description %>" />
     </div>
   </section>
 
