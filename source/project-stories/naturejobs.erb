@@ -30,6 +30,10 @@ user_journey:
   image: "/project-stories/naturejobs/ux-sketch.jpg"
   image_description: "UX design sketch"
 
+head_of_product_video:
+  youtube_id: "VGu9hWOYIT0"
+  thumbnail: "/project-stories/naturejobs/video-still.jpg"
+
 metrics:
   title: "Establishing valuable metrics for success"
   content: "To gauge the site’s success, Naturejobs had previously been measuring page views and similar metrics. Customer feedback and studied site Analytics were reviewed to learn what users wanted and valued. Relevant metrics were then established, such as the number of CV uploads achieved and job searches conducted. From this, Naturejobs were able to remove many redundant and unused features, resulting in a reduction of their maintenance overheads."
@@ -162,6 +166,17 @@ related:
       <img class="image-tile__image" <%= retina_src current_page.data.user_journey.image %> alt="<%= current_page.data.user_journey.image_description %>" />
     </div>
   </section>
+
+  <a href="https://www.youtube.com/watch?v=<%= current_page.data.head_of_product_video.youtube_id %>" target="_blank">
+    <img class="full-image" <%= retina_src current_page.data.head_of_product_video.thumbnail %> alt="Naturejobs Head of Product Management video" id="naturejobsHeadofproductVideoThumbnail" />
+  </a>
+
+  <script>
+    if (Modernizr.video || Modernizr.flash) {
+      var $embed = $('<div class="full-video"><iframe id="naturejobsHeadofproductVideoThumbnail" src="https://www.youtube.com/embed/<%= current_page.data.head_of_product_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
+      $("#naturejobsHeadofproductVideoThumbnail").replaceWith($embed);
+    }
+  </script>
 
   <section class="component">
     <div class="component__tile text-tile">
