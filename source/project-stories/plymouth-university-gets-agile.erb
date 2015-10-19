@@ -1,0 +1,330 @@
+---
+title: "Plymouth University Gets Agile Project Story"
+
+header:
+  client: "Plymouth University Gets Agile"
+  introduction: "Embedding Agile methodology at a major university"
+  image: "/project-stories/plymouth-university-gets-agile/sprint-retrospective.jpg"
+  image_description: "Sprint retrospective"
+
+introduction:
+  title: "Software development and IT services revolutionised through increased productivity, transparency and confidence"
+  content:
+    - "Ad hoc and unsatisfactory software development overhauled"
+    - "University engaged by improved transparency"
+    - "Results prompted other departments to become more Agile"
+  image: "/project-stories/plymouth-university-gets-agile/sprint-mood-board.jpg"
+  image_description: "Sprint mood board"
+
+working_closely_highlight: "The Unboxed team worked closely with Plymouth University to bring the theory of Agile to reality."
+
+process_structure:
+  title: "Bringing structure to the software production process"
+  content: "The university's software services worked on an ad hoc basis, with little oversight or integration with other departments. We were enlisted to create a robust but flexible development process, building a structure for development where there had been none."
+  image: "/project-stories/plymouth-university-gets-agile/project-team.jpg"
+  image_description: "Project team"
+
+agile_quote:
+  quote: "A lot of organisations claim to be Agile, but they just cherry pick techniques. Unboxed have a complete vision for delivering Agile."
+  source: "Paul Westmore, Interim CIO, Plymouth University"
+
+transparency:
+  title: "Inspiring confidence through transparency"
+  content: "Whereas the development service was previously left at arm's length by the university, instilling Agile processes better integrated it with other stakeholders. Regular show-and-tells allowed ongoing feedback, hugely improving the quality of software and reputation. As a direct result, other departments requested Agile training from Unboxed, immediately seeing the advantages in terms of efficiency and productivity."
+  image: "/project-stories/plymouth-university-gets-agile/sprint-actions.jpg"
+  image_description: "Sprint actions"
+
+mood_board:
+  image: "/project-stories/plymouth-university-gets-agile/mood-board.jpg"
+  image_description: "Mood board"
+
+pride:
+  title: "Creating pride in the development service"
+  content: "A further benefit was that the clear structure gave control back to the development team and allowed them to participate in a process that the university bought into fully. We continue to work with Plymouth University to embed Agile processes throughout their IT services – work that the teams have described as engaging and fun as well as extremely valuable."
+  image: "/project-stories/plymouth-university-gets-agile/university-meeting.jpg"
+  image_description: "University meeting"
+
+textbook_to_real_world_quote:
+  quote: "Unboxed have really thought through how to apply a textbook implementation to real-world situations."
+  source: "Paul Westmore, Plymouth University"
+
+show_and_tells_highlight: "Show-and-tells opened the platform to share thoughts and feelings within the team, resulting in actions to go forward."
+
+site:
+  link: "https://www.plymouth.ac.uk/"
+  text: "Visit the site and check it out for yourself"
+
+team:
+  title: "Unboxed team"
+  people:
+    - short_name: "attila"
+      full_name: "Attila Gyorffy"
+
+    - short_name: "chris"
+      full_name: "Chris Carter"
+      link: "/people/chris-carter"
+
+    - short_name: "alan"
+      full_name: "Alan Thomas"
+      link: "/people/alan-thomas"
+
+    - short_name: "sarah"
+      full_name: "Sarah Beck"
+      link: "/people/sarah-beck"
+
+    - short_name: "glenn"
+      full_name: "Glenn Smith"
+
+    - short_name: "richard"
+      full_name: "Richard Stobart"
+      link: "/people/richard-stobart"
+
+links:
+  - title: "Plymouth University gets Agile"
+    source: "Education Technology"
+    type: "news"
+    link: "http://edtechnology.co.uk/Article/plymouth_university_gets_agile"
+
+  - title: "Plymouth University confirm sponsorship for Agile on the Beach"
+    source: "Agile on the Beach"
+    type: "news"
+    link: "http://agileonthebeach.com/plymouth-university-confirm-sponsorship-for-agile-on-the-beach/"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Plymouth University projects featured in Education Technology"
+      type: "news"
+      link: "https://www.unboxedconsulting.com/news/plymouth-university-projects-featured-in-education-technology"
+      image: "/project-stories/plymouth-university-gets-agile/related/whitepaper.jpg"
+
+    - title: "Richard Stobart wins awards for the best Agile Mentor at Agile Awards"
+      type: "news"
+      link: "https://www.unboxedconsulting.com/news/richard-stobart-wins-award-for-the-best-agile-mentor-at-agile-awards"
+      image: "/project-stories/plymouth-university-gets-agile/related/richard-stobart-agile-awards.jpg"
+
+    - title: "Plymouth University"
+      type: "project story"
+      link: "https://www.unboxedconsulting.com/project-stories/plymouth-university"
+      image: "/project-stories/plymouth-university-gets-agile/related/plymouth-logo.jpg"
+
+---
+
+<header class="page-header">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.header.introduction %>
+    </h1>
+
+    <p class="page-header__client">
+      <%= current_page.data.header.client %>
+    </p>
+  </div>
+</header>
+
+<div class="container">
+  <img class="full-image" <%= retina_src current_page.data.header.image %> id="siteHeaderWaypoint" alt="<%= current_page.data.header.image_description %>" />
+
+  <script>
+    new Waypoint({
+      element: $('#siteHeaderWaypoint'),
+      handler: function(direction) {
+        var siteHeader = $('.site-header');
+        if (direction === 'down') {
+          siteHeader.addClass('site-header--active-scroll');
+        } else {
+          siteHeader.removeClass('site-header--active-scroll');
+        }
+      },
+      offset: 54
+    });
+  </script>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <ul class="text-tile__list">
+        <% current_page.data.introduction.content.each do |item| %>
+          <li><%= item %></li>
+        <% end %>
+      </ul>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
+    </div>
+  </section>
+
+  <section class="bitesize--hotpink">
+    <h2 class="bitesize__title--white">
+      <%= current_page.data.working_closely_highlight %>
+    </h2>
+  </section>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.process_structure.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.process_structure.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.process_structure.image %> alt="<%= current_page.data.process_structure.image_description %>" />
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.agile_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.agile_quote.source %>
+    </p>
+  </blockquote>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.transparency.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.transparency.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.transparency.image %> alt="<%= current_page.data.transparency.image_description %>" />
+    </div>
+  </section>
+
+  <img class="full-image" <%= retina_src current_page.data.mood_board.image %> alt="<%= current_page.data.mood_board.image_description %>">
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.pride.title %>
+      </h2>
+
+      <p class="text-tile__paragraph">
+        <%= current_page.data.pride.content %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.pride.image %> alt="<%= current_page.data.pride.image_description %>" />
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <p class="quote__text">
+      <%= current_page.data.textbook_to_real_world_quote.quote %>
+    </p>
+    <p class="quote__source">
+      <%= current_page.data.textbook_to_real_world_quote.source %>
+    </p>
+  </blockquote>
+
+  <section class="project-team">
+    <h2 class="project-team__title">
+      <%= current_page.data.team.title %>
+    </h2>
+
+    <% current_page.data.team.people.each do |person| %>
+      <% if person.link %>
+        <a class="project-team__headshot-container project-team__container--6" href="<%= person.link %>">
+          <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university-gets-agile/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+        </a>
+      <% else %>
+        <div class="project-team__headshot-container project-team__container--6">
+          <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university-gets-agile/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+        </div>
+      <% end %>
+    <% end %>
+  </section>
+
+  <section class="bitesize--hotpink">
+    <h2 class="bitesize__title--white">
+      <%= current_page.data.show_and_tells_highlight %>
+    </h2>
+  </section>
+
+  <section class="component">
+    <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
+      <div>
+        <div class="link-tile__type">
+          link
+        </div>
+        <div class="link-tile__title">
+          <%= current_page.data.site.text %>
+        </div>
+      </div>
+    </a>
+    <% current_page.data.links.each do |link| %>
+      <a class="link-tile" href="<%= link.link %>" target="_blank">
+        <div>
+          <div class="link-tile__type">
+            <%= link.type %>
+          </div>
+          <div class="link-tile__title">
+            <%= link.title %>
+          </div>
+        </div>
+        <div class="link-tile__source">
+          <%= link.source %>
+        </div>
+      </a>
+    <% end %>
+  </section>
+
+  <footer class="component">
+    <div class="footer-introduction">
+      <h3 class="footer-introduction__title">
+        <%= current_page.data.related.title %>
+      </h3>
+    </div>
+
+    <% current_page.data.related.articles.each do |article| %>
+      <a class="related-tile" href="<%= article.link %>">
+        <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
+        <div class="related-tile__text-content">
+          <div>
+            <div class="related-tile__type">
+              <%= article.type %>
+            </div>
+            <div class="related-tile__title">
+              <%= article.title %>
+            </div>
+          </div>
+        </div>
+      </a>
+    <% end %>
+
+    <section class="footer-social-icons">
+      <div>
+        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
+          </div>
+        </a>
+        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
+          </div>
+        </a>
+        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+          <div class="social-icons__icon">
+            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
+          </div>
+        </a>
+      </div>
+    </section>
+  </footer>
+</div>
