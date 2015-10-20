@@ -14,14 +14,14 @@
 .blog-medium-tile__container {
   box-sizing: border-box;
   background-color: $white;
-  border: 1px solid darken($light-gray, 5%);
+  border: 1px solid $blog-tile__border-color;
   width: 100%;
 
   &:hover {
-    background-color: $light-gray;
+    background-color: $blog-tile__hover-color;
 
     .blog-medium-tile__bottom-content {
-      border-top: 3px solid darken($light-gray, 5%);
+      border-top: 3px solid $blog-tile__border-color;
     }
   }
 
@@ -29,7 +29,7 @@
     min-height: 386px;
 
     &:hover .blog-medium-tile__bottom-content {
-      border-top: 3px solid darken($light-gray, 5%);
+      border-top: 3px solid $blog-tile__border-color;
     }
   }
 }
@@ -47,7 +47,7 @@
 }
 
 .blog-medium-tile__title {
-  color: $dark-gray;
+  color: $blog-tile__text-color;
   font-size: 1.14em;
   font-weight: lighter;
   line-height: 1.3em;
@@ -64,25 +64,25 @@
 }
 
 .blog-medium-tile__author {
-  color: $dark-gray;
+  color: $blog-tile__text-color;
   font-size: .8em;
   font-weight: bold;
   margin-bottom: 6px;
 }
 
 .blog-medium-tile__date {
-  color: $dark-gray;
+  color: $blog-tile__text-color;
   font-size: .8em;
 }
 
 .blog-medium-tile__bottom-content {
   @include breakpoint($tablet-breakpoint) {
-    border-top: 3px solid $light-gray;
+    border-top: 3px solid $blog-tile__hover-color;
   }
 }
 
 .blog-medium-tile__article-body {
-  color: $dark-gray;
+  color: $blog-tile__text-color;
   font-size: .95em;
   line-height: 1.15em;
   font-weight: lighter;

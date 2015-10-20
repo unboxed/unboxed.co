@@ -1,5 +1,5 @@
 .site-link {
-  background-color: $site-link-background-color;
+  background-color: $site-link__background-color;
   display: block;
   padding: 16px;
   text-decoration: none;
@@ -10,7 +10,7 @@
 }
 
 .site-link__type {
-  color: $site-link-type-color;
+  color: $site-link__type-color;
   font-size: .8em;
   font-weight: 200;
   line-height: 1.3;
@@ -23,7 +23,7 @@
 }
 
 .site-link__text {
-  color: $site-link-text-color;
+  color: $site-link__text-color;
   font-size: 1em;
   font-weight: 100;
   line-height: 1.3;

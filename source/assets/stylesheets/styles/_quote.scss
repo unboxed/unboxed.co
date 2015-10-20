@@ -1,5 +1,5 @@
 .quote {
-  background-color: $quote-background-color;
+  background-color: $quote__background-color;
   padding: 20px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -9,7 +9,7 @@
 }
 
 .quote__text {
-  color: $quote-text-color;
+  color: $quote__text-color;
   font-size: .98em;
   font-weight: 200;
   line-height: 1.3;
@@ -57,7 +57,7 @@
 }
 
 .quote__source {
-  color: $quote-source-color;
+  color: $quote__source-color;
   font-size: 1em;
   font-weight: 200;
   padding-top: 20px;
