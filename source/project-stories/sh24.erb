@@ -69,22 +69,30 @@ team_quote:
 
 team:
   title: "Unboxed team"
-  people_active:
+  people:
     - short_name: "jon"
       full_name: "Jon Normington"
+      image: "/project-stories/sh24/team/jon.png"
       link: "/people/jon-normington"
+
     - short_name: "martyn"
       full_name: "Martyn Evans"
+      image: "/project-stories/sh24/team/martyn.png"
       link: "/people/martyn-evans"
+
     - short_name: "tom"
       full_name: "Tom Sabin"
+      image: "/project-stories/sh24/team/tom.png"
       link: "/people/tom-sabin"
+
     - short_name: "neil"
       full_name: "Neil van Beinum"
+      image: "/project-stories/sh24/team/neil.png"
       link: "/people/neil-van-beinum"
-  people_archived:
+
     - short_name: "kips"
       full_name: "Kips Davenport"
+      image: "/project-stories/sh24/team/kips.png"
 
 conclusion:
   title: "Strong take up proved the concept rapidly"
@@ -180,23 +188,7 @@ related:
 
   <%= partial 'project-stories/quote', locals: { section: current_page.data.team_quote } %>
 
-  <section class="project-team">
-    <h2 class="project-team__title">
-      <%= current_page.data.team.title %>
-    </h2>
-
-    <% current_page.data.team.people_active.each do |person| %>
-      <a class="project-team__headshot-container project-team__container--5" href="<%= person.link %>">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </a>
-    <% end %>
-
-    <% current_page.data.team.people_archived.each do |person| %>
-      <div class="project-team__headshot-container project-team__container--5">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </div>
-    <% end %>
-  </section>
+  <%= partial 'project-stories/project_team' %>
 
   <section class="highlight--yellow">
     <h2 class="highlight__title">

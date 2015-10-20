@@ -58,21 +58,29 @@ site:
 
 team:
   title: "Unboxed team"
-  people_archived:
+  people:
     - short_name: "attila"
       full_name: "Attila Gyorffy"
-  people_active:
+      image: "/project-stories/plymouth-university/team/attila.png"
+
     - short_name: "chris"
       full_name: "Chris Carter"
+      image: "/project-stories/plymouth-university/team/chris.png"
       link: "/people/chris-carter"
+
     - short_name: "alan"
       full_name: "Alan Thomas"
+      image: "/project-stories/plymouth-university/team/alan.png"
       link: "/people/alan-thomas"
+
     - short_name: "richard"
       full_name: "Richard Stobart"
+      image: "/project-stories/plymouth-university/team/richard.png"
       link: "/people/richard-stobart"
+
     - short_name: "sarah"
       full_name: "Sarah Beck"
+      image: "/project-stories/plymouth-university/team/sarah.png"
       link: "/people/sarah-beck"
 
 links:
@@ -80,6 +88,7 @@ links:
     source: "MEMSET"
     type: "news"
     link: "https://www.memset.com/gov/working-with-memset/case-studies/university-plymouth"
+
   - title: "London-based Agile Specialists, Unboxed, choose Software Plymouth"
     source: "Plymouth Software"
     type: "news"
@@ -92,10 +101,12 @@ related:
       type: "news"
       link: "https://www.unboxedconsulting.com/news/plymouth-university-projects-featured-in-education-technology"
       image: "/project-stories/plymouth-university/related/education-technology.jpg"
+
     - title: "Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
       type: "blog"
       link: "/blog/digital-leaders-discover-the-new-rules-of-outsourcing-agile-teams-session"
       image: "/project-stories/plymouth-university/related/agile-session.jpg"
+
     - title: "Plymouth University Gets Agile"
       type: "project story"
       link: "/project-stories/plymouth-university-gets-agile"
@@ -143,23 +154,7 @@ related:
 
   <%= partial 'project-stories/quote', locals: { section: current_page.data.team_quote } %>
 
-  <section class="project-team">
-    <h2 class="project-team__title">
-      <%= current_page.data.team.title %>
-    </h2>
-
-    <% current_page.data.team.people_archived.each do |person| %>
-      <div class="project-team__headshot-container project-team__container--5">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </div>
-    <% end %>
-
-    <% current_page.data.team.people_active.each do |person| %>
-      <a class="project-team__headshot-container project-team__container--5" href="<%= person.link %>">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </a>
-    <% end %>
-  </section>
+  <%= partial 'project-stories/project_team' %>
 
   <section class="highlight--blue">
     <div class="highlight__tile--one">

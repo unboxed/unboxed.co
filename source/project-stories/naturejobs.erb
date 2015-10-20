@@ -50,25 +50,31 @@ team:
   people:
     - short_name: "pedro"
       full_name: "Pedro Moreira"
+      image: "/project-stories/naturejobs/team/pedro.png"
 
     - short_name: "jon"
       full_name: "Jon Normington"
+      image: "/project-stories/naturejobs/team/jon.png"
       link: "people/jon-normington"
 
     - short_name: "alan"
       full_name: "Alan Thomas"
+      image: "/project-stories/naturejobs/team/alan.png"
       link: "people/alan-thomas"
 
     - short_name: "jolie"
       full_name: "Jolie Lanser"
+      image: "/project-stories/naturejobs/team/jolie.png"
       link: "people/jolie-lanser"
 
     - short_name: "steve"
       full_name: "Steve Lennon"
+      image: "/project-stories/naturejobs/team/steve.png"
       link: "people/steve-lennon"
 
     - short_name: "tom"
       full_name: "Tom Sabin"
+      image: "/project-stories/naturejobs/team/tom.png"
       link: "people/tom-sabin"
 
 site:
@@ -80,6 +86,7 @@ links:
     source: "Placeholder"
     type: "news"
     link: "#"
+
   - title: "Placeholde"
     source: "Placeholde"
     type: "news"
@@ -92,10 +99,12 @@ related:
       type: "news"
       link: "#"
       image:
+
     - title: "Placeholder"
       type: "blog"
       link: "https://www.unboxedconsulting.com/blog/lean-machine"
       image:
+
     - title: "Placeholder"
       type: "project story"
       link: "#"
@@ -129,23 +138,7 @@ related:
 
   <%= partial 'project-stories/quote', locals: { section: current_page.data.mentality_quote } %>
 
-  <section class="project-team">
-    <h2 class="project-team__title">
-      <%= current_page.data.team.title %>
-    </h2>
-
-    <% current_page.data.team.people.each do |person| %>
-      <% if person.link %>
-        <a class="project-team__headshot-container project-team__container--6" href="<%= person.link %>">
-          <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/naturejobs/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-        </a>
-      <% else %>
-        <div class="project-team__headshot-container project-team__container--6">
-          <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/naturejobs/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-        </div>
-      <% end %>
-    <% end %>
-  </section>
+  <%= partial 'project-stories/project_team' %>
 
   <section class="component">
     <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
