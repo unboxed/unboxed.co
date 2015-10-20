@@ -1,0 +1,15 @@
+<section class="component">
+  <div class="component__tile text-tile">
+    <h2 class="text-tile__title">
+      <%= section.title %>
+    </h2>
+
+    <p class="text-tile__paragraph">
+      <%= section.content %>
+    </p>
+  </div>
+
+  <div class="component__tile image-tile">
+    <img class="image-tile__image" <%= retina_src section.image %> alt="<%= section.image_description %>" />
+  </div>
+</section>
