@@ -1,11 +1,10 @@
 .blog-comments {
-  border-top: 3px solid;
-  border-color: $comments-section-border-color;
-  background-color: $comments-container-background-color;
+  background-color: $blog-comments__background-color;
+  border-top: 3px solid $blog-comments__border-color;
   padding: 30px;
 
   a {
-    color: $disqus-anchor-color;
+    color: $blog-comments__link-color;
   }
 
   @include breakpoint($max-tablet-container) {

@@ -152,7 +152,7 @@
   }
 }
 
-.highlight__text--large {
+.highlight__large-text {
   color: $highlight-white-text-color;
   font-size: 2em;
   padding-bottom: 10px;
@@ -176,7 +176,7 @@
   }
 }
 
-.highlight__text--small {
+.highlight__small-text {
   color: $highlight-white-text-color;
   font-size: 1em;
   font-weight: 100;
@@ -197,8 +197,23 @@
   }
 }
 
-.highlight__text--wide {
+.highlight__wide-text {
+  color: $highlight-white-text-color;
+  font-size: 1em;
+  font-weight: 100;
+  line-height: 1.3;
+  padding-bottom: 20px;
+  text-align: center;
+
   @include breakpoint($tablet-breakpoint) {
+    font-size: 1.96vw;
+    margin: 0 auto;
+    max-width: 80%;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    font-size: 1.18em;
+    line-height: 1.5;
     max-width: 90%;
   }
 }

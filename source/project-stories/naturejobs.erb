@@ -44,22 +44,26 @@ mentality_quote:
 
 team:
   title: "Unboxed team"
-  people_archived:
+  people:
     - short_name: "pedro"
       full_name: "Pedro Moreira"
-  people_active:
-    - short_name: "steve"
-      full_name: "Steve Lennon"
-      link: "people/steve-lennon"
+
     - short_name: "jon"
       full_name: "Jon Normington"
       link: "people/jon-normington"
-    - short_name: "jolie"
-      full_name: "Jolie Lanser"
-      link: "people/jolie-lanser"
+
     - short_name: "alan"
       full_name: "Alan Thomas"
       link: "people/alan-thomas"
+
+    - short_name: "jolie"
+      full_name: "Jolie Lanser"
+      link: "people/jolie-lanser"
+
+    - short_name: "steve"
+      full_name: "Steve Lennon"
+      link: "people/steve-lennon"
+
     - short_name: "tom"
       full_name: "Tom Sabin"
       link: "people/tom-sabin"
@@ -204,16 +208,16 @@ related:
       <%= current_page.data.team.title %>
     </h2>
 
-    <% current_page.data.team.people_archived.each do |person| %>
-      <div class="project-team__headshot-container project-team__container--6">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/naturejobs/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </div>
-    <% end %>
-
-    <% current_page.data.team.people_active.each do |person| %>
-      <a class="project-team__headshot-container project-team__container--6" href="<%= person.link %>">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/naturejobs/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </a>
+    <% current_page.data.team.people.each do |person| %>
+      <% if person.link %>
+        <a class="project-team__headshot-container project-team__container--6" href="<%= person.link %>">
+          <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/naturejobs/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+        </a>
+      <% else %>
+        <div class="project-team__headshot-container project-team__container--6">
+          <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/naturejobs/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
+        </div>
+      <% end %>
     <% end %>
   </section>
 

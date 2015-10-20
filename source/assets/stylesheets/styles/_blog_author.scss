@@ -1,7 +1,7 @@
 .blog-author {
-  background-color: $author-container-background-color;
+  background-color: $blog-author__background-color;
   border-top: 3px solid;
-  border-color: $author-section-border-color;
+  border-color: $blog-author__border-color;
   min-height: 200px;
 }
 
@@ -62,7 +62,7 @@
 }
 
 .blog-author__name {
-  color: $author-name-color;
+  color: $blog-author__author-color;
   padding-bottom: 15px;
 
   @include breakpoint($max-tablet-container) {
