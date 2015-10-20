@@ -31,6 +31,28 @@
       <%= yield %>
     </div>
 
+    <div class="container">
+      <section class="footer-social-icons">
+        <div>
+          <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
+            <div class="social-icons__icon">
+              <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
+            </div>
+          </a>
+          <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
+            <div class="social-icons__icon">
+              <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
+            </div>
+          </a>
+          <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
+            <div class="social-icons__icon">
+              <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
+            </div>
+          </a>
+        </div>
+      </section>
+    </div>
+
     <script>
       var $waypointElement = $('[data-header-waypoint]');
 
