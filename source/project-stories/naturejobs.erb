@@ -130,75 +130,7 @@ related:
 
   <%= partial 'project-stories/project_team' %>
 
-  <section class="component">
-    <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
-      <div>
-        <div class="link-tile__type">
-          link
-        </div>
-        <div class="link-tile__title">
-          <%= current_page.data.site.text %>
-        </div>
-      </div>
-    </a>
-    <% current_page.data.links.each do |link| %>
-      <a class="link-tile" href="<%= link.link %>" target="_blank">
-        <div>
-          <div class="link-tile__type">
-            <%= link.type %>
-          </div>
-          <div class="link-tile__title">
-            <%= link.title %>
-          </div>
-        </div>
-        <div class="link-tile__source">
-          <%= link.source %>
-        </div>
-      </a>
-    <% end %>
-  </section>
+  <%= partial 'project-stories/link_tiles' %>
 
-  <footer class="component">
-    <div class="footer-introduction">
-      <h3 class="footer-introduction__title">
-        <%= current_page.data.related.title %>
-      </h3>
-    </div>
-
-    <% current_page.data.related.articles.each do |article| %>
-      <a class="related-tile" href="<%= article.link %>">
-        <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
-        <div class="related-tile__text-content">
-          <div>
-            <div class="related-tile__type">
-              <%= article.type %>
-            </div>
-            <div class="related-tile__title">
-              <%= article.title %>
-            </div>
-          </div>
-        </div>
-      </a>
-    <% end %>
-
-    <section class="footer-social-icons">
-      <div>
-        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
-          </div>
-        </a>
-      </div>
-    </section>
-  </footer>
+  <%= partial 'project-stories/related_tiles' %>
 </div>
