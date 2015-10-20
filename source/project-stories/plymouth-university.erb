@@ -15,7 +15,8 @@ introduction:
 
 plymouth_cio_video:
   youtube_id: "nTSKD1PG1e4"
-  thumbnail: "/project-stories/plymouth-university/video-still.jpg"
+  image: "/project-stories/plymouth-university/video-still.jpg"
+  image_description: "Plymouth University CIO video"
 
 design_testing:
   title: "​​Every design fully tested with students before build"
@@ -114,8 +115,8 @@ related:
   </div>
 </header>
 
-<div class="container">
-  <img class="full-image" <%= retina_src current_page.data.header.image %> id="siteHeaderWaypoint" alt="<%= current_page.data.header.image_description %>" />
+<div class="container" id="siteHeaderWaypoint">
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
 
   <script>
     new Waypoint({
@@ -148,14 +149,14 @@ related:
     </div>
   </section>
 
-  <a href="https://www.youtube.com/watch?v=<%= current_page.data.plymouth_cio_video.youtube_id %>" target="_blank">
-    <img class="full-image" <%= retina_src current_page.data.plymouth_cio_video.thumbnail %> alt="Plymouth University CIO video" id="plymouthCioVideoThumbnail" />
+  <a href="https://www.youtube.com/watch?v=<%= current_page.data.plymouth_cio_video.youtube_id %>" target="_blank" data-video>
+    <%= partial 'project-stories/full_image', locals: { section: current_page.data.plymouth_cio_video } %>
   </a>
 
   <script>
     if (Modernizr.video || Modernizr.flash) {
-      var $embed = $('<div class="full-video"><iframe id="plymouthCioVideoThumbnail" src="https://www.youtube.com/embed/<%= current_page.data.plymouth_cio_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
-      $("#plymouthCioVideoThumbnail").replaceWith($embed);
+      var $embed = $('<div class="full-video"><iframe src="https://www.youtube.com/embed/<%= current_page.data.plymouth_cio_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
+      $("[data-video] img").replaceWith($embed);
     }
   </script>
 
