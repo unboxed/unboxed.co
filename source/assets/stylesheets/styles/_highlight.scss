@@ -1,5 +1,4 @@
-.highlight {
-  background-color: $highlight-background-color;
+%highlight {
   padding: 20px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -8,24 +7,31 @@
   }
 }
 
+.highlight--yellow {
+  @extend %highlight;
+  background-color: $highlight__yellow-background-color;
+  color: $highlight__yellow-text-color;
+}
+
 .highlight--dark-gray {
-  @extend .highlight;
-  background-color: $highlight-dark-gray-background-color;
+  @extend %highlight;
+  background-color: $highlight__dark-gray-background-color;
+  color: $highlight__dark-gray-text-color;
 }
 
 .highlight--blue {
-  @extend .highlight;
-  background-color: $highlight-blue-background-color;
+  @extend %highlight;
+  background-color: $highlight__blue-background-color;
+  color: $highlight__blue-text-color;
 }
 
 .highlight--hotpink {
-  @extend .highlight;
-  background-color: $highlight-hotpink-background-color;
-  color: $white;
+  @extend %highlight;
+  background-color: $highlight__hotpink-background-color;
+  color: $highlight__hotpink-text-color;
 }
 
 .highlight__title {
-  color: $highlight-text-color;
   font-size: 1.7em;
   font-weight: 100;
   line-height: 1.3;
@@ -40,11 +46,6 @@
     font-size: 2.2em;
     padding-bottom: 20px;
   }
-}
-
-.highlight__title--white {
-  @extend .highlight__title;
-  color: $white;
 }
 
 .highlight__section {
@@ -73,7 +74,6 @@
 }
 
 .highlight__sub-title {
-  color: $highlight-text-color;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.3;
@@ -118,7 +118,6 @@
 }
 
 .highlight__list-item {
-  color: $highlight-text-color;
   font-size: 1em;
   font-weight: 100;
   line-height: 1.3;
@@ -137,31 +136,19 @@
   }
 }
 
-.highlight__list-item--white {
-  @extend .highlight__list-item;
-  color: $highlight-white-text-color;
-
-  p {
-    padding-bottom: 8px;
-  }
-
-  span {
-    font-size: 0.7em;
-    font-weight: 300;
-    letter-spacing: 0.07em;
-  }
+.highlight__small-list-item {
+  display: block;
+  font-size: 0.7em;
+  font-weight: 300;
+  letter-spacing: 0.07em;
+  padding-top: 12px;
 }
 
 .highlight__large-text {
-  color: $highlight-white-text-color;
   font-size: 2em;
   padding-bottom: 10px;
   padding-top: 20px;
   text-align: center;
-
-  .large-arrow {
-    padding-right: 5px;
-  }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 5.18vw;
@@ -169,15 +156,18 @@
 
   @include breakpoint($max-tablet-container) {
     font-size: 3.8em;
+  }
+}
 
-    .large-arrow {
-      padding-right: 12px;
-    }
+.highlight__large-arrow {
+  padding-right: 5px;
+
+  @include breakpoint($max-tablet-container) {
+    padding-right: 12px;
   }
 }
 
 .highlight__small-text {
-  color: $highlight-white-text-color;
   font-size: 1em;
   font-weight: 100;
   line-height: 1.3;
@@ -198,7 +188,6 @@
 }
 
 .highlight__wide-text {
-  color: $highlight-white-text-color;
   font-size: 1em;
   font-weight: 100;
   line-height: 1.3;

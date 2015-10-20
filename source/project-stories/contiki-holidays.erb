@@ -171,12 +171,12 @@ related:
   </section>
 
   <section class="highlight--dark-gray">
-    <h2 class="highlight__title--white">
+    <h2 class="highlight__title">
       <%= current_page.data.statistics_1.title %>
     </h2>
 
     <div class="highlight__tile--one">
-      <p class="highlight__large-text"><i class="fa fa-arrow-up large-arrow"></i><%= current_page.data.statistics_1.number %><p>
+      <p class="highlight__large-text"><i class="fa fa-arrow-up highlight__large-arrow"></i><%= current_page.data.statistics_1.number %><p>
       <p class="highlight__small-text"><%=current_page.data.statistics_1.text %></p>
     </div>
   </section>
@@ -301,22 +301,22 @@ related:
   </section>
 
   <section class="highlight--dark-gray">
-    <h2 class="highlight__title--white">
+    <h2 class="highlight__title">
       <%= current_page.data.objectives_outcomes.title %>
     </h2>
 
     <ul class="highlight__list--bulleted">
       <% current_page.data.objectives_outcomes.objectives.each do |objective| %>
-        <li class="highlight__list-item--white">
+        <li class="highlight__list-item">
           <%= render_markdown(objective) %>
-          <span>Objective met</span>
+          <span class="highlight__small-list-item">Objective met</span>
         </li>
       <% end %>
       <ul class="highlight__list--bulleted-one-column">
         <% current_page.data.objectives_outcomes.objective_smashed.each do |objective| %>
-          <li class="highlight__list-item--white">
+          <li class="highlight__list-item">
             <%= render_markdown(objective) %>
-            <span>Objective smashed!</span>
+            <span class="highlight__small-list-item">Objective smashed!</span>
           </li>
         <% end %>
       </ul>
