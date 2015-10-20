@@ -166,16 +166,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.service } %>
 
-  <a href="https://www.youtube.com/watch?v=<%= current_page.data.blood_instruction_video.youtube_id %>" target="_blank" data-video>
-    <%= partial 'project-stories/full_image', locals: { section: current_page.data.blood_instruction_video } %>
-  </a>
-
-  <script>
-    if (Modernizr.video || Modernizr.flash) {
-      var $embed = $('<div class="full-video"><iframe src="https://www.youtube.com/embed/<%= current_page.data.blood_instruction_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
-      $("[data-video] img").replaceWith($embed);
-    }
-  </script>
+  <%= partial 'project-stories/full_video', locals: { section: current_page.data.blood_instruction_video } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.learning } %>
 
