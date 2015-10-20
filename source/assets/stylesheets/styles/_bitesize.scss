@@ -18,6 +18,12 @@
   background-color: $bitesize-blue-background-color;
 }
 
+.bitesize--hotpink {
+  @extend .bitesize;
+  background-color: $bitesize-background-color;
+  color: $white;
+}
+
 .bitesize__title {
   color: $bitesize-text-color;
   font-size: 1.7em;
@@ -40,7 +46,6 @@
   @extend .bitesize__title;
   color: $white;
 }
-
 
 .bitesize__section {
   @include breakpoint($tablet-breakpoint) {
