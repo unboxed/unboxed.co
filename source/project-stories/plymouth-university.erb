@@ -94,11 +94,11 @@ related:
       image: "/project-stories/plymouth-university/related/education-technology.jpg"
     - title: "Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
       type: "blog"
-      link: "https://www.unboxedconsulting.com/blog/digital-leaders-discover-the-new-rules-of-outsourcing-agile-teams-session"
+      link: "/blog/digital-leaders-discover-the-new-rules-of-outsourcing-agile-teams-session"
       image: "/project-stories/plymouth-university/related/agile-session.jpg"
     - title: "Plymouth University Gets Agile"
       type: "project story"
-      link: "https://www.unboxedconsulting.com/project-stories/plymouth-university-gets-agile"
+      link: "/project-stories/plymouth-university-gets-agile"
       image: "/project-stories/plymouth-university/related/plymouth-agile.jpg"
 
 ---
@@ -133,21 +133,7 @@ related:
     });
   </script>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.introduction.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.introduction.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
   <a href="https://www.youtube.com/watch?v=<%= current_page.data.plymouth_cio_video.youtube_id %>" target="_blank" data-video>
     <%= partial 'project-stories/full_image', locals: { section: current_page.data.plymouth_cio_video } %>
@@ -160,21 +146,7 @@ related:
     }
   </script>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.design_testing.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.design_testing.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.design_testing.image %> alt="<%= current_page.data.design_testing.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.design_testing } %>
 
   <blockquote class="quote">
     <p class="quote__text">
@@ -185,21 +157,7 @@ related:
     </p>
   </blockquote>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.agile.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.agile.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.agile.image %> alt="<%= current_page.data.agile.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.agile } %>
 
   <section class="highlight--blue">
     <h2 class="highlight__title">
@@ -212,21 +170,7 @@ related:
     </div>
   </section>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.team_value.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.team_value.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.team_value.image %> alt="<%= current_page.data.team_value.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.team_value } %>
 
   <blockquote class="quote">
     <p class="quote__text">

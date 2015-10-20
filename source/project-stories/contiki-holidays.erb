@@ -181,22 +181,7 @@ related:
     </div>
   </section>
 
-
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.introduction.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.introduction.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
   <blockquote class="quote">
     <p class="quote__text">
@@ -207,21 +192,7 @@ related:
     </p>
   </blockquote>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.agile.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.agile.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.agile.image %> alt="<%= current_page.data.agile.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.agile } %>
 
   <section class="highlight--dark-gray">
     <div class="highlight__tile--two">
@@ -232,21 +203,7 @@ related:
     </div>
   </section>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.collaboration.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.collaboration.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.collaboration.image %> alt="<%= current_page.data.collaboration.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.collaboration } %>
 
   <blockquote class="quote">
     <p class="quote__text">
@@ -257,21 +214,7 @@ related:
     </p>
   </blockquote>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.objectives.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.objectives.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.objectives.image %> alt="<%= current_page.data.objectives.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.objectives } %>
 
   <blockquote class="quote">
     <p class="quote__text">

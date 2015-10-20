@@ -38,6 +38,8 @@ head_of_product_video:
 metrics:
   title: "Establishing valuable metrics for success"
   content: "To gauge the site’s success, Naturejobs had previously been measuring page views and similar metrics. Customer feedback and studied site Analytics were reviewed to learn what users wanted and valued. Relevant metrics were then established, such as the number of CV uploads achieved and job searches conducted. From this, Naturejobs were able to remove many redundant and unused features, resulting in a reduction of their maintenance overheads."
+  image: ""
+  image_description: ""
 
 mentality_quote:
   quote: "The mentality was: 'We want to build great products together.'"
@@ -131,21 +133,7 @@ related:
     </div>
   </section>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.technology.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.technology.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.technology.image %> alt="<%= current_page.data.technology.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.technology } %>
 
   <blockquote class="quote">
     <p class="quote__text">
@@ -156,21 +144,7 @@ related:
     </p>
   </blockquote>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.user_journey.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.user_journey.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.user_journey.image %> alt="<%= current_page.data.user_journey.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.user_journey } %>
 
   <a href="https://www.youtube.com/watch?v=<%= current_page.data.head_of_product_video.youtube_id %>" target="_blank" data-video>
     <%= partial 'project-stories/full_image', locals: { section: current_page.data.head_of_product_video } %>
@@ -183,17 +157,7 @@ related:
     }
   </script>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.metrics.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.metrics.content %>
-      </p>
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.metrics } %>
 
   <blockquote class="quote">
     <p class="quote__text">

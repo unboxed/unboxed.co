@@ -159,21 +159,7 @@ related:
     });
   </script>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.introduction.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.introduction.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
   <section class="highlight--yellow">
     <h2 class="highlight__title">
@@ -189,21 +175,7 @@ related:
     </ul>
   </section>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.launch.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.launch.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.launch.image %> alt="<%= current_page.data.launch.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.launch } %>
 
   <blockquote class="quote">
     <p class="quote__text">
@@ -214,21 +186,7 @@ related:
     </p>
   </blockquote>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.service.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.service.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.service.image %> alt="<%= current_page.data.service.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.service } %>
 
   <a href="https://www.youtube.com/watch?v=<%= current_page.data.blood_instruction_video.youtube_id %>" target="_blank" data-video>
     <%= partial 'project-stories/full_image', locals: { section: current_page.data.blood_instruction_video } %>
@@ -241,21 +199,7 @@ related:
     }
   </script>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.learning.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.learning.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.learning.image %> alt="<%= current_page.data.learning.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.learning } %>
 
   <blockquote class="quote">
     <p class="quote__text">
@@ -270,21 +214,7 @@ related:
     <%= partial 'project-stories/full_image', locals: { section: current_page.data.sh24_banner } %>
   </a>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.stakeholder_trust.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.stakeholder_trust.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.stakeholder_trust.image %> alt="<%= current_page.data.stakeholder_trust.image_description %> " />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.stakeholder_trust } %>
 
   <blockquote class="quote">
     <p class="quote__text">

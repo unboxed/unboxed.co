@@ -105,7 +105,7 @@ related:
 
     - title: "Plymouth University"
       type: "project story"
-      link: "https://www.unboxedconsulting.com/project-stories/plymouth-university"
+      link: "/project-stories/plymouth-university"
       image: "/project-stories/plymouth-university-gets-agile/related/plymouth-logo.jpg"
 
 ---
@@ -164,21 +164,7 @@ related:
     </h2>
   </section>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.process_structure.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.process_structure.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.process_structure.image %> alt="<%= current_page.data.process_structure.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.process_structure } %>
 
   <blockquote class="quote">
     <p class="quote__text">
@@ -189,39 +175,11 @@ related:
     </p>
   </blockquote>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.transparency.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.transparency.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.transparency.image %> alt="<%= current_page.data.transparency.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.transparency } %>
 
   <%= partial 'project-stories/full_image', locals: { section: current_page.data.mood_board } %>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.pride.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.pride.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.pride.image %> alt="<%= current_page.data.pride.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.pride } %>
 
   <blockquote class="quote">
     <p class="quote__text">
