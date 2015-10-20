@@ -32,7 +32,8 @@ user_journey:
 
 head_of_product_video:
   youtube_id: "VGu9hWOYIT0"
-  thumbnail: "/project-stories/naturejobs/video-still.jpg"
+  image: "/project-stories/naturejobs/video-still.jpg"
+  image_description: "Naturejobs Head of Product Management video"
 
 metrics:
   title: "Establishing valuable metrics for success"
@@ -171,14 +172,14 @@ related:
     </div>
   </section>
 
-  <a href="https://www.youtube.com/watch?v=<%= current_page.data.head_of_product_video.youtube_id %>" target="_blank">
-    <img class="full-image" <%= retina_src current_page.data.head_of_product_video.thumbnail %> alt="Naturejobs Head of Product Management video" id="naturejobsHeadofproductVideoThumbnail" />
+  <a href="https://www.youtube.com/watch?v=<%= current_page.data.head_of_product_video.youtube_id %>" target="_blank" data-video>
+    <%= partial 'project-stories/full_image', locals: { section: current_page.data.head_of_product_video } %>
   </a>
 
   <script>
     if (Modernizr.video || Modernizr.flash) {
-      var $embed = $('<div class="full-video"><iframe id="naturejobsHeadofproductVideoThumbnail" src="https://www.youtube.com/embed/<%= current_page.data.head_of_product_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
-      $("#naturejobsHeadofproductVideoThumbnail").replaceWith($embed);
+      var $embed = $('<div class="full-video"><iframe src="https://www.youtube.com/embed/<%= current_page.data.head_of_product_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
+      $("[data-video] img").replaceWith($embed);
     }
   </script>
 

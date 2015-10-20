@@ -122,8 +122,8 @@ related:
   </div>
 </header>
 
-<div class="container">
-  <img class="full-image" <%= retina_src current_page.data.header.image %> id="siteHeaderWaypoint" alt="<%= current_page.data.header.image_description %>" />
+<div class="container" id="siteHeaderWaypoint">
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
 
   <script>
     new Waypoint({
@@ -205,7 +205,7 @@ related:
     </div>
   </section>
 
-  <img class="full-image" <%= retina_src current_page.data.mood_board.image %> alt="<%= current_page.data.mood_board.image_description %>">
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.mood_board } %>
 
   <section class="component">
     <div class="component__tile text-tile">
