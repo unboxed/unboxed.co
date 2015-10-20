@@ -1,6 +1,6 @@
 .blog-content {
   h1 {
-    color: $heading-brand-color;
+    color: $blog-content__heading-color;
     font-size: 1.3em;
     line-height: 1.4;
     margin-bottom: 20px;
@@ -76,7 +76,7 @@
   }
 
   a {
-    color: $article-link-text-color;
+    color: $blog-content__link-color;
     text-decoration: none;
     word-wrap: break-word;
 
@@ -103,7 +103,7 @@
   }
 
   blockquote {
-    border-left: 1px solid $article-blockquote-color;
+    border-left: 1px solid $blog-content__blockquote-border-color;
     padding-left: 16px;
   }
 
@@ -114,8 +114,8 @@
 
   pre,
   code {
-    background-color: $article-code-background-color;
-    color: $article-code-text-color;
+    background-color: $blog-content__code-background-color;
+    color: $blog-content__code-text-color;
     font-family: monospace;
   }
 
@@ -126,12 +126,12 @@
   }
 
   th, td {
-    border: 1px solid $article-table-color;
+    border: 1px solid $blog-content__table-border-color;
     padding: 4px 6px;
     width: auto;
   }
 
   th {
-    background-color: $article-table-color;
+    background-color: $blog-content__table-background-color;
   }
 }
