@@ -57,21 +57,21 @@ $related-tile__background-color: $white;
 $related-tile__text-color: $black;
 $related-tile__type-color: $light-purple;
 
-// SH:24
-$highlight-background-color: $yellow;
-$highlight-text-color: $black;
+// Project story - SH:24
+$highlight__yellow-background-color: $yellow;
+$highlight__yellow-text-color: $black;
 
-// Contiki
-$highlight-dark-gray-background-color: lighten($black, 20%);
-$highlight-white-text-color: $white;
+// Project story - Contiki
+$highlight__dark-gray-background-color: lighten($black, 20%);
+$highlight__dark-gray-text-color: $white;
 
-// Plymouth University
-$highlight-blue-background-color: $blue;
-$highlight-text-color: $black;
+// Project story - Plymouth University
+$highlight__blue-background-color: $blue;
+$highlight__blue-text-color: $white;
 
-// Plymouth University Gets Agile
-$highlight-hotpink-background-color: $hotpink;
-$highlight-text-color: $black;
+// Project story - Plymouth University Gets Agile
+$highlight__hotpink-background-color: $hotpink;
+$highlight__hotpink-text-color: $white;
 
 // Blog listing
 $blog-tile__border-color: darken($light-gray, 5%);
