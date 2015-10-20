@@ -4,7 +4,7 @@ title: "Contiki Holidays Project Story"
 header:
   client: "Contiki Holidays"
   introduction: "Powerful offshore partnership creates 47% increase in bookings for Contiki Tours"
-  image: "/project-stories/contiki/header-image.jpg"
+  image: "/project-stories/contiki-holidays/header-image.jpg"
   image_description: "Couple on the beach"
 
 partnership:
@@ -13,13 +13,13 @@ partnership:
     - "Offshore team led overhaul, vastly improving UX"
     - "Page sessions up 7%, page views up 28% and conversation rates up by 43%"
     - "Micro-service architecture ready for the future"
-  image: "/project-stories/contiki/yellow-screen.jpg"
+  image: "/project-stories/contiki-holidays/yellow-screen.jpg"
   image_description: "Contiki website screenshot"
 
 introduction:
   title: "10-year-old site needed more than a facelift to improve conversions"
   content: "Contiki Tours is a global travel operation, with 150k bookings for 18-35s per year. Contiki needed to revamp online platform to increase visitor-to sale conversion and meet expectations of tech-savvy audience. Something special was needed for the 10-year old site, already tweaked by several other agencies."
-  image: "/project-stories/contiki/team-meeting.jpg"
+  image: "/project-stories/contiki-holidays/team-meeting.jpg"
   image_description: "Team meeting"
 
 statistics_1:
@@ -38,7 +38,7 @@ statistics_3:
 agile:
   title: "Agile key in move to iterative customer-led design development"
   content: "Unboxed’s offshore Cape Town team, led Contiki through the Agile-based project – focusing on rapid delivery of customer features over ‘pixel perfect’ designs. The complete project team consisted of four developers, a Scrum Master, Contiki’s design team and the Product Owner and the total project duration was 16 weeks."
-  image: "/project-stories/contiki/design-presentation.jpg"
+  image: "/project-stories/contiki-holidays/design-presentation.jpg"
   image_description: "Presentation of a design"
 
 project_quote:
@@ -48,7 +48,7 @@ project_quote:
 collaboration:
   title: "A step change in site performance shifts dated business model"
   content: "The development and design teams worked side-by-side and communicated using ‘The Unboxed Way’ - frequent, high-bandwidth, clear and open channels. Contiki were able to re-prioritise their features on a weekly basis as new requirements emerged. Built in Ruby on Rails, with JavaScript elements and Unboxed’s own micro-service APIs, this is a site created to meet Contiki’s future business goals."
-  image: "/project-stories/contiki/sketch.jpg"
+  image: "/project-stories/contiki-holidays/sketch.jpg"
   image_description: "Sketch of a design"
 
 release_quote:
@@ -58,7 +58,7 @@ release_quote:
 objectives:
   title: "Pre-project objectives met – results dropped straight onto bottom line"
   content: "All project’s objectives have been met or exceeded. Page loading times have decreased by 56%, conversion rates are up 43% and bookings up 47%. The technologies employed are designed to dramatically cut the cost of future improvements."
-  image: "/project-stories/contiki/blue-screen.jpg"
+  image: "/project-stories/contiki-holidays/blue-screen.jpg"
   image_description: "Contiki website screenshot"
 
 team_quote:
@@ -67,24 +67,34 @@ team_quote:
 
 team:
   title: "Unboxed team"
-  people_active:
+  people:
     - short_name: "carlo"
       full_name: "Carlo Kruger"
+      image: "/project-stories/contiki-holidays/team/carlo.png"
       link: "/people/carlo-kruger"
+
     - short_name: "patrick"
       full_name: "Patrick Vine"
+      image: "/project-stories/contiki-holidays/team/patrick.png"
       link: "/people/patrick-vine"
+
     - short_name: "richard"
       full_name: "Richard Archer"
+      image: "/project-stories/contiki-holidays/team/richard.png"
       link: "/people/richard-archer"
+
     - short_name: "heidi"
       full_name: "Heidi Geisler"
+      image: "/project-stories/contiki-holidays/team/heidi.png"
       link: "/people/heidi-geisler"
-  people_archived:
+
     - short_name: "ben-j"
       full_name: "Ben Janecke"
+      image: "/project-stories/contiki-holidays/team/ben-j.png"
+
     - short_name: "gavin"
       full_name: "Gavin van Lelyveld"
+      image: "/project-stories/contiki-holidays/team/gavin.png"
 
 objectives_outcomes:
   title: "Objectives vs outcomes"
@@ -104,6 +114,7 @@ links:
     source: "IOL"
     type: "news"
     link: "http://beta.iol.co.za/travel/world/europe/contiki-offers-more-of-europe-in-2016-1926911"
+
   - title: "Contiki Launches 2015-2017 USA & Canada Program"
     source: "GlobeNewswire"
     type: "news"
@@ -115,15 +126,17 @@ related:
     - title: "The new rules of outsourcing"
       type: "white paper"
       link: "https://www.unboxedconsulting.com/ideas/the-new-rules-of-outsourcing-how-to-develop-great-software-with-a-partner"
-      image: "/project-stories/contiki/related/whitepaper.jpg"
+      image: "/project-stories/contiki-holidays/related/whitepaper.jpg"
+
     - title: "Webinar - 'Offshoring Agile: Make it work in practice'"
       type: "webinar"
       link: "https://www.unboxedconsulting.com/blog/webinar-offshoring-agile-make-it-work-in-practice"
-      image: "/project-stories/contiki/related/webinar-carlo.jpg"
+      image: "/project-stories/contiki-holidays/related/webinar-carlo.jpg"
+
     - title: "Unboxed Consulting leads Agile overhaul of Plymouth University website"
       type: "project story"
       link: "https://www.unboxedconsulting.com/project-stories/plymouth-university"
-      image: "/project-stories/contiki/related/plymouth-logo.jpg"
+      image: "/project-stories/contiki-holidays/related/plymouth-logo.jpg"
 ---
 
 <header class="page-header">
@@ -177,23 +190,7 @@ related:
 
   <%= partial 'project-stories/quote', locals: { section: current_page.data.team_quote } %>
 
-  <section class="project-team">
-    <h2 class="project-team__title">
-      <%= current_page.data.team.title %>
-    </h2>
-
-    <% current_page.data.team.people_active.each do |person| %>
-      <a class="project-team__headshot-container project-team__container--6" href="<%= person.link %>">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/contiki/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </a>
-    <% end %>
-
-    <% current_page.data.team.people_archived.each do |person| %>
-      <div class="project-team__headshot-container project-team__container--6">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/contiki/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </div>
-    <% end %>
-  </section>
+  <%= partial 'project-stories/project_team' %>
 
   <section class="highlight--dark-gray">
     <h2 class="highlight__title">
