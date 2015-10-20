@@ -173,14 +173,14 @@ related:
     </div>
   </section>
 
-  <section class="bitesize">
-    <h2 class="bitesize__title">
+  <section class="highlight">
+    <h2 class="highlight__title">
       <%= current_page.data.statistics_title %>
     </h2>
 
-    <ul class="bitesize__list">
+    <ul class="highlight__list">
       <% current_page.data.statistics.each do |statistic| %>
-        <li class="bitesize__list-item">
+        <li class="highlight__list-item">
           <%= render_markdown statistic %>
         </li>
       <% end %>
@@ -311,33 +311,33 @@ related:
     <% end %>
   </section>
 
-  <section class="bitesize">
-    <h2 class="bitesize__title">
+  <section class="highlight">
+    <h2 class="highlight__title">
       <%= current_page.data.conclusion.title %>
     </h2>
 
-    <section class="bitesize__section">
-      <h3 class="bitesize__sub-title">
+    <section class="highlight__section">
+      <h3 class="highlight__sub-title">
         <%= current_page.data.conclusion.design_and_build_title %>
       </h3>
 
       <ul>
         <% current_page.data.conclusion.design_and_build.each do |statistic| %>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             <%= render_markdown statistic %>
           </li>
         <% end %>
       </ul>
     </section>
 
-    <section class="bitesize__section">
-      <h3 class="bitesize__sub-title">
+    <section class="highlight__section">
+      <h3 class="highlight__sub-title">
         <%= current_page.data.conclusion.since_launch_title %>
       </h3>
 
       <ul>
         <% current_page.data.conclusion.since_launch.each do |statistic| %>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             <%= render_markdown statistic %>
           </li>
         <% end %>

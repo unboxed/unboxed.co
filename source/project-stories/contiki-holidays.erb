@@ -170,14 +170,14 @@ related:
     </div>
   </section>
 
-  <section class="bitesize--dark-gray">
-    <h2 class="bitesize__title--white">
+  <section class="highlight--dark-gray">
+    <h2 class="highlight__title--white">
       <%= current_page.data.statistics_1.title %>
     </h2>
 
-    <div class="bitesize__tile--one">
-      <p class="bitesize__text--large"><i class="fa fa-arrow-up large-arrow"></i><%= current_page.data.statistics_1.number %><p>
-      <p class="bitesize__text--small"><%=current_page.data.statistics_1.text %></p>
+    <div class="highlight__tile--one">
+      <p class="highlight__text--large"><i class="fa fa-arrow-up large-arrow"></i><%= current_page.data.statistics_1.number %><p>
+      <p class="highlight__text--small"><%=current_page.data.statistics_1.text %></p>
     </div>
   </section>
 
@@ -223,12 +223,12 @@ related:
     </div>
   </section>
 
-  <section class="bitesize--dark-gray">
-    <div class="bitesize__tile--two">
-      <p class="bitesize__text--large"><i class="fa fa-arrow-up large-arrow"></i><%= current_page.data.statistics_2.number %><p>
-      <p class="bitesize__text--small"><%=current_page.data.statistics_2.text %></p>
-      <p class="bitesize__text--large"><i class="fa fa-arrow-up large-arrow"></i><%= current_page.data.statistics_3.number %><p>
-      <p class="bitesize__text--small"><%=current_page.data.statistics_3.text %></p>
+  <section class="highlight--dark-gray">
+    <div class="highlight__tile--two">
+      <p class="highlight__text--large"><i class="fa fa-arrow-up large-arrow"></i><%= current_page.data.statistics_2.number %><p>
+      <p class="highlight__text--small"><%=current_page.data.statistics_2.text %></p>
+      <p class="highlight__text--large"><i class="fa fa-arrow-up large-arrow"></i><%= current_page.data.statistics_3.number %><p>
+      <p class="highlight__text--small"><%=current_page.data.statistics_3.text %></p>
     </div>
   </section>
 
@@ -300,21 +300,21 @@ related:
     <% end %>
   </section>
 
-  <section class="bitesize--dark-gray">
-    <h2 class="bitesize__title--white">
+  <section class="highlight--dark-gray">
+    <h2 class="highlight__title--white">
       <%= current_page.data.objectives_outcomes.title %>
     </h2>
 
-    <ul class="bitesize__list--bulleted">
+    <ul class="highlight__list--bulleted">
       <% current_page.data.objectives_outcomes.objectives.each do |objective| %>
-        <li class="bitesize__list-item--white">
+        <li class="highlight__list-item--white">
           <%= render_markdown(objective) %>
           <span>Objective met</span>
         </li>
       <% end %>
-      <ul class="bitesize__list--bulleted-one-column">
+      <ul class="highlight__list--bulleted-one-column">
         <% current_page.data.objectives_outcomes.objective_smashed.each do |objective| %>
-          <li class="bitesize__list-item--white">
+          <li class="highlight__list-item--white">
             <%= render_markdown(objective) %>
             <span>Objective smashed!</span>
           </li>
