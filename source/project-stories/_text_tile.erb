@@ -1,12 +1,22 @@
 <section class="component">
   <div class="component__tile text-tile">
-    <h2 class="text-tile__title">
-      <%= section.title %>
-    </h2>
+    <% if section.title %>
+      <h2 class="text-tile__title">
+        <%= section.title %>
+      </h2>
+    <% end %>
 
-    <p class="text-tile__paragraph">
-      <%= section.content %>
-    </p>
+    <% if section.content.is_a?(Array) %>
+      <ul class="text-tile__list">
+        <% section.content.each do |item| %>
+          <li><%= render_markdown(item) %></li>
+        <% end %>
+      </ul>
+    <% else %>
+      <p class="text-tile__paragraph">
+        <%= section.content %>
+      </p>
+    <% end %>
   </div>
 
   <div class="component__tile image-tile">

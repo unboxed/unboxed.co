@@ -8,7 +8,7 @@ header:
   image_description: "Couple on the beach"
 
 partnership:
-  results:
+  content:
     - "47% more bookings through rebuilding travel platform"
     - "Offshore team led overhaul, vastly improving UX"
     - "Page sessions up 7%, page views up 28% and conversation rates up by 43%"
@@ -156,19 +156,8 @@ related:
     });
   </script>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <ul class="text-tile__list">
-        <% current_page.data.partnership.results.each do |result| %>
-          <li><%= render_markdown(result) %></li>
-        <% end %>
-      </ul>
-    </div>
 
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.partnership.image %> alt="<%= current_page.data.partnership.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.partnership } %>
 
   <section class="highlight--dark-gray">
     <h2 class="highlight__title">
