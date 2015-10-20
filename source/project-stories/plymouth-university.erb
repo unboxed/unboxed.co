@@ -114,17 +114,7 @@ related:
 
 ---
 
-<header class="page-header">
-  <div class="page-header__container">
-    <h1 class="page-header__title">
-      <%= current_page.data.header.introduction %>
-    </h1>
-
-    <p class="page-header__client">
-      <%= current_page.data.header.client %>
-    </p>
-  </div>
-</header>
+<%= partial 'project-stories/page_header' %>
 
 <div class="container" data-header-waypoint>
   <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
