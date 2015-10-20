@@ -172,14 +172,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.project_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.project_quote.source %>
-    </p>
-  </blockquote>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.project_quote } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.agile } %>
 
@@ -194,25 +187,11 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.collaboration } %>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.release_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.release_quote.source %>
-    </p>
-  </blockquote>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.release_quote } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.objectives } %>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.team_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.team_quote.source %>
-    </p>
-  </blockquote>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.team_quote } %>
 
   <section class="project-team">
     <h2 class="project-team__title">

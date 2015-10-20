@@ -150,14 +150,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.process_structure } %>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.agile_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.agile_quote.source %>
-    </p>
-  </blockquote>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.agile_quote } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.transparency } %>
 
@@ -165,14 +158,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.pride } %>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.textbook_to_real_world_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.textbook_to_real_world_quote.source %>
-    </p>
-  </blockquote>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.textbook_to_real_world_quote } %>
 
   <section class="project-team">
     <h2 class="project-team__title">
