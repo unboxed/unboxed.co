@@ -20,22 +20,15 @@
   &:hover {
     background-color: $blog-tile__hover-color;
 
-    .blog-medium-tile__bottom-content {
-      border-top: 3px solid $blog-tile__border-color;
-    }
   }
 
   @include breakpoint($tablet-breakpoint) {
     min-height: 386px;
-
-    &:hover .blog-medium-tile__bottom-content {
-      border-top: 3px solid $blog-tile__border-color;
-    }
   }
 }
 
 .blog-medium-tile__top-content {
-  padding: 14px;
+  padding: 14px 14px 0;
 
   @include breakpoint($tablet-breakpoint) {
     @include flexbox;
@@ -47,7 +40,7 @@
 }
 
 .blog-medium-tile__title {
-  color: $blog-tile__text-color;
+  color: $blog-tile__title-color;
   font-size: 1.14em;
   font-weight: lighter;
   line-height: 1.3em;
@@ -75,22 +68,19 @@
   font-size: .8em;
 }
 
-.blog-medium-tile__bottom-content {
-  @include breakpoint($tablet-breakpoint) {
-    border-top: 3px solid $blog-tile__hover-color;
-  }
-}
-
 .blog-medium-tile__article-body {
   color: $blog-tile__text-color;
   font-size: .95em;
-  line-height: 1.15em;
   font-weight: lighter;
+  line-height: 1.3em;
+  margin: 14px;
+  padding-top: 8px;
   word-wrap: break-word;
-  padding: 14px;
 
   @include breakpoint($tablet-breakpoint) {
+    border-top: 1px solid $blog-tile__border-color;
     font-size: 1.7vw;
+    padding-top: 14px;
   }
 
   @include breakpoint($max-tablet-container) {

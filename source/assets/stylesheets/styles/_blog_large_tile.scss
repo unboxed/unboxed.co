@@ -43,7 +43,7 @@
 }
 
 .blog-large-tile__title {
-  color: $blog-tile__text-color;
+  color: $blog-tile__title-color;
   font-size: 1.14em;
   font-weight: lighter;
   line-height: 1.3em;
@@ -90,10 +90,10 @@
 .blog-large-tile__article-body {
   color: $blog-tile__text-color;
   font-size: .95em;
-  line-height: 1.15em;
   font-weight: lighter;
-  word-wrap: break-word;
+  line-height: 1.3em;
   padding: 14px;
+  word-wrap: break-word;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.7vw;
