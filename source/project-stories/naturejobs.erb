@@ -1,0 +1,130 @@
+---
+title: "Naturejobs"
+
+header:
+  client: "Naturejobs"
+  introduction: "Recruitment site revitalisation for major scientific publishing group"
+
+collaboration:
+  title: "Close, early engagement with stakeholders fosters confidence and aligns interests"
+  content:
+    - "Streamlined website development by gaining stakeholder buy-in"
+    - "Constant engagement between Unboxed and Naturejobs throughout process"
+    - "Reduced overheads by removing unused legacy features from large website"
+  image: "/project-stories/naturejobs/naturejobs-website.jpg"
+  image_description: "Naturejobs website screenshot"
+
+technology:
+  title: "Upgrading the platform to use latest core technologies"
+  content: "Core technologies were dated, with versions of software language and frameworks reaching end of life. This severely limited Naturejobs’ opportunity to utilise the latest framework innovations and increased security risk. We successfully planned and delivered upgrades of Ruby software, Rails framework and further business features."
+  image: "/project-stories/naturejobs/team-meeting.jpg"
+  image_description: "Naturejobs team meeting"
+
+collaboration_quote:
+  quote: "Unboxed Consulting were part of the team we were used to working with, I didn’t feel like we were customers."
+  source: "David Bright, Head of Product Management, Naturejobs"
+
+user_journey:
+  title: "UX enhanced to benefit user journey"
+  content: "With feedback of long and complicated user journeys on the current website, along with a high drop off rate, the user experience from start to finish was investigated and refined. Unnecessary stages in the user journey were removed, greatly reducing the drop-off rate. Every iteration was tested and assessed against real user data, resulting in a smoother and more concise journey."
+  image: "/project-stories/naturejobs/ux-sketch.jpg"
+  image_description: "UX design sketch"
+
+head_of_product_video:
+  youtube_id: "VGu9hWOYIT0"
+  image: "/project-stories/naturejobs/video-still.jpg"
+  image_description: "Naturejobs Head of Product Management video"
+
+metrics:
+  title: "Establishing valuable metrics for success"
+  content: "To gauge the site’s success, Naturejobs had previously been measuring page views and similar metrics. Customer feedback and studied site Analytics were reviewed to learn what users wanted and valued. Relevant metrics were then established, such as the number of CV uploads achieved and job searches conducted. From this, Naturejobs were able to remove many redundant and unused features, resulting in a reduction of their maintenance overheads."
+  image: ""
+  image_description: ""
+
+mentality_quote:
+  quote: "The mentality was: 'We want to build great products together.'"
+  source: "David Bright, Naturejobs"
+
+team:
+  title: "Unboxed team"
+  people:
+    - full_name: "Pedro Moreira"
+      image: "/project-stories/naturejobs/team/pedro.png"
+
+    - full_name: "Jon Normington"
+      image: "/project-stories/naturejobs/team/jon.png"
+      link: "people/jon-normington"
+
+    - full_name: "Alan Thomas"
+      image: "/project-stories/naturejobs/team/alan.png"
+      link: "people/alan-thomas"
+
+    - full_name: "Tom Sabin"
+      image: "/project-stories/naturejobs/team/tom.png"
+      link: "people/tom-sabin"
+
+    - full_name: "Jolie Lanser"
+      image: "/project-stories/naturejobs/team/jolie.png"
+      link: "people/jolie-lanser"
+
+    - full_name: "Steve Lennon"
+      image: "/project-stories/naturejobs/team/steve.png"
+      link: "people/steve-lennon"
+
+site:
+  link: "http://www.nature.com/naturejobs/science/"
+  text: "Visit the site and check it out for yourself"
+
+links:
+  - title: "Placeholder"
+    source: "Placeholder"
+    type: "news"
+    link: "#"
+
+  - title: "Placeholde"
+    source: "Placeholde"
+    type: "news"
+    link: "#"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Placeholder"
+      type: "news"
+      link: "#"
+      image:
+
+    - title: "Placeholder"
+      type: "blog"
+      link: "https://www.unboxedconsulting.com/blog/lean-machine"
+      image:
+
+    - title: "Placeholder"
+      type: "project story"
+      link: "#"
+      image:
+---
+
+<%= partial 'project-stories/page_header' %>
+
+<div class="container">
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.collaboration } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.technology } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.collaboration_quote } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.user_journey } %>
+
+  <%= partial 'project-stories/full_video', locals: { section: current_page.data.head_of_product_video } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.metrics } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.mentality_quote } %>
+
+  <%= partial 'project-stories/project_team' %>
+
+  <%= partial 'project-stories/link_tiles' %>
+
+  <%= partial 'project-stories/related_tiles' %>
+</div>
