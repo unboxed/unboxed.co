@@ -39,7 +39,9 @@ service:
 
 blood_instruction_video:
   youtube_id: "7tY0vW2Ix3A"
-  thumbnail: "/project-stories/sh24/video-still.jpg"
+  image: "/project-stories/sh24/video-still.jpg"
+  image_description: "Blood instructions video"
+
 
 learning:
   title: "'Moving in' next door to users and partners"
@@ -67,22 +69,25 @@ team_quote:
 
 team:
   title: "Unboxed team"
-  people_active:
-    - short_name: "jon"
-      full_name: "Jon Normington"
+  people:
+    - full_name: "Jon Normington"
+      image: "/project-stories/sh24/team/jon.png"
       link: "/people/jon-normington"
-    - short_name: "martyn"
-      full_name: "Martyn Evans"
+
+    - full_name: "Martyn Evans"
+      image: "/project-stories/sh24/team/martyn.png"
       link: "/people/martyn-evans"
-    - short_name: "tom"
-      full_name: "Tom Sabin"
+
+    - full_name: "Tom Sabin"
+      image: "/project-stories/sh24/team/tom.png"
       link: "/people/tom-sabin"
-    - short_name: "neil"
-      full_name: "Neil van Beinum"
+
+    - full_name: "Neil van Beinum"
+      image: "/project-stories/sh24/team/neil.png"
       link: "/people/neil-van-beinum"
-  people_archived:
-    - short_name: "kips"
-      full_name: "Kips Davenport"
+
+    - full_name: "Kips Davenport"
+      image: "/project-stories/sh24/team/kips.png"
 
 conclusion:
   title: "Strong take up proved the concept rapidly"
@@ -105,6 +110,7 @@ links:
     source: "southwarknews"
     type: "news"
     link: "http://www.southwarknews.co.uk/news/revolutionary-new-sti-testing-scheme-launches-in-southwark/"
+
   - title: "SH:24 sexual health service launches today"
     source: "Design Council"
     type: "news"
@@ -117,227 +123,88 @@ related:
       type: "round table"
       link: "https://www.unboxedconsulting.com/blog/digital-healthcare-roundtable-session"
       image: "/project-stories/sh24/related/lean-in-the-nhs.jpg"
+
     - title: "De-railed? Is Ruby Enterprise ready?"
       type: "White paper"
       link: "https://www.unboxedconsulting.com/ideas/guide-is-ruby-enterprise-ready"
       image: "/project-stories/sh24/related/ruby-enterprise-ready.jpg"
+
     - title: "Groundbreaking redevelopment of Channel5.com"
       type: "project story"
       link: "https://www.unboxedconsulting.com/project-stories/channel-5"
       image: "/project-stories/sh24/related/channel-5.jpg"
 ---
 
-<header class="page-header">
-  <div class="page-header__container">
-    <h1 class="page-header__title">
-      <%= current_page.data.header.introduction %>
-    </h1>
+<%= partial 'project-stories/page_header' %>
 
-    <p class="page-header__client">
-      <%= current_page.data.header.client %>
-    </p>
-  </div>
-</header>
+<div class="container" data-header-waypoint>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
 
-<div class="container">
-  <img class="full-image" <%= retina_src current_page.data.header.image %> id="siteHeaderWaypoint" alt="Sexual Health post it" />
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-  <script>
-  new Waypoint({
-    element: $('#siteHeaderWaypoint'),
-    handler: function(direction) {
-      var siteHeader = $('.site-header');
-      if (direction === 'down') {
-        siteHeader.addClass('site-header--active-scroll');
-      } else {
-        siteHeader.removeClass('site-header--active-scroll');
-      }
-    },
-    offset: 54
-  });
-  </script>
-
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.introduction.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.introduction.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
-    </div>
-  </section>
-
-  <section class="bitesize">
-    <h2 class="bitesize__title">
+  <section class="highlight--yellow">
+    <h2 class="highlight__title">
       <%= current_page.data.statistics_title %>
     </h2>
 
-    <ul class="bitesize__list">
+    <ul class="highlight__list">
       <% current_page.data.statistics.each do |statistic| %>
-        <li class="bitesize__list-item">
+        <li class="highlight__list-item">
           <%= render_markdown statistic %>
         </li>
       <% end %>
     </ul>
   </section>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.launch.title %>
-      </h2>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.launch } %>
 
-      <p class="text-tile__paragraph">
-        <%= current_page.data.launch.content %>
-      </p>
-    </div>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.first_met_quote } %>
 
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.launch.image %> alt="<%= current_page.data.launch.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.service } %>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.first_met_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.first_met_quote.source %>
-    </p>
-  </blockquote>
+  <%= partial 'project-stories/full_video', locals: { section: current_page.data.blood_instruction_video } %>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.service.title %>
-      </h2>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.learning } %>
 
-      <p class="text-tile__paragraph">
-        <%= current_page.data.service.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.service.image %> alt="<%= current_page.data.service.image_description %>" />
-    </div>
-  </section>
-
-  <a href="https://www.youtube.com/watch?v=<%= current_page.data.blood_instruction_video.youtube_id %>" target="_blank">
-    <img class="full-image" <%= retina_src current_page.data.blood_instruction_video.thumbnail %> alt="Blood instructions video" id="bloodInstructionVideoThumbnail" />
-  </a>
-
-  <script>
-    if (Modernizr.video || Modernizr.flash) {
-      var $embed = $('<div class="full-video"><iframe id="bloodInstructionVideo" src="https://www.youtube.com/embed/<%= current_page.data.blood_instruction_video.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
-      $("#bloodInstructionVideoThumbnail").replaceWith($embed);
-    }
-  </script>
-
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.learning.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.learning.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.learning.image %> alt="<%= current_page.data.learning.image_description %>" />
-    </div>
-  </section>
-
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.timely_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.timely_quote.source %>
-    </p>
-  </blockquote>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.timely_quote } %>
 
   <a href="<%= current_page.data.site.link %>" target="_blank">
-    <img class="full-image full-image--top" <%= retina_src current_page.data.sh24_banner.image %> alt="<%= current_page.data.sh24_banner.image_description %>" />
+    <%= partial 'project-stories/full_image', locals: { section: current_page.data.sh24_banner } %>
   </a>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.stakeholder_trust.title %>
-      </h2>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.stakeholder_trust } %>
 
-      <p class="text-tile__paragraph">
-        <%= current_page.data.stakeholder_trust.content %>
-      </p>
-    </div>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.team_quote } %>
 
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.stakeholder_trust.image %> alt="<%= current_page.data.stakeholder_trust.image_description %> " />
-    </div>
-  </section>
+  <%= partial 'project-stories/project_team' %>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.team_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.team_quote.source %>
-    </p>
-  </blockquote>
-
-  <section class="project-team">
-    <h2 class="project-team__title">
-      <%= current_page.data.team.title %>
-    </h2>
-
-    <% current_page.data.team.people_active.each do |person| %>
-      <a class="project-team__headshot-container project-team__container--5" href="<%= person.link %>">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </a>
-    <% end %>
-
-    <% current_page.data.team.people_archived.each do |person| %>
-      <div class="project-team__headshot-container project-team__container--5">
-        <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/sh24/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-      </div>
-    <% end %>
-  </section>
-
-  <section class="bitesize">
-    <h2 class="bitesize__title">
+  <section class="highlight--yellow">
+    <h2 class="highlight__title">
       <%= current_page.data.conclusion.title %>
     </h2>
 
-    <section class="bitesize__section">
-      <h3 class="bitesize__sub-title">
+    <section class="highlight__section">
+      <h3 class="highlight__sub-title">
         <%= current_page.data.conclusion.design_and_build_title %>
       </h3>
 
       <ul>
         <% current_page.data.conclusion.design_and_build.each do |statistic| %>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             <%= render_markdown statistic %>
           </li>
         <% end %>
       </ul>
     </section>
 
-    <section class="bitesize__section">
-      <h3 class="bitesize__sub-title">
+    <section class="highlight__section">
+      <h3 class="highlight__sub-title">
         <%= current_page.data.conclusion.since_launch_title %>
       </h3>
 
       <ul>
         <% current_page.data.conclusion.since_launch.each do |statistic| %>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             <%= render_markdown statistic %>
           </li>
         <% end %>
@@ -345,75 +212,8 @@ related:
     </section>
   </section>
 
-  <section class="component">
-    <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
-      <div>
-        <div class="link-tile__type">
-          link
-        </div>
-        <div class="link-tile__title">
-          <%= current_page.data.site.text %>
-        </div>
-      </div>
-    </a>
-    <% current_page.data.links.each do |link| %>
-      <a class="link-tile" href="<%= link.link %>" target="_blank">
-        <div>
-          <div class="link-tile__type">
-            <%= link.type %>
-          </div>
-          <div class="link-tile__title">
-            <%= link.title %>
-          </div>
-        </div>
-        <div class="link-tile__source">
-          <%= link.source %>
-        </div>
-      </a>
-    <% end %>
-  </section>
+  <%= partial 'project-stories/link_tiles' %>
 
-  <footer class="component">
-    <div class="footer-introduction">
-      <h3 class="footer-introduction__title">
-        <%= current_page.data.related.title %>
-      </h3>
-    </div>
+  <%= partial 'project-stories/related_tiles' %>
 
-    <% current_page.data.related.articles.each do |article| %>
-      <a class="related-tile" href="<%= article.link %>">
-        <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
-        <div class="related-tile__text-content">
-          <div>
-            <div class="related-tile__type">
-              <%= article.type %>
-            </div>
-            <div class="related-tile__title">
-              <%= article.title %>
-            </div>
-          </div>
-        </div>
-      </a>
-    <% end %>
-
-    <section class="footer-social-icons">
-      <div>
-        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
-          </div>
-        </a>
-      </div>
-    </section>
-  </footer>
 </div>

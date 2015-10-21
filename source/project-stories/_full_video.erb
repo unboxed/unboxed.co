@@ -1,0 +1,10 @@
+<a href="https://www.youtube.com/watch?v=<%= section.youtube_id %>" target="_blank" data-video>
+  <%= partial 'project-stories/full_image', locals: { section: section } %>
+</a>
+
+<script>
+  if (Modernizr.video || Modernizr.flash) {
+    var $embed = $('<div class="full-video"><iframe src="https://www.youtube.com/embed/<%= section.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>');
+    $("[data-video] img").replaceWith($embed);
+  }
+</script>

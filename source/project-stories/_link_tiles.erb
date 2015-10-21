@@ -1,0 +1,27 @@
+<section class="component">
+  <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
+    <div>
+      <div class="link-tile__type">
+        link
+      </div>
+      <div class="link-tile__title">
+        <%= current_page.data.site.text %>
+      </div>
+    </div>
+  </a>
+  <% current_page.data.links.each do |link| %>
+    <a class="link-tile" href="<%= link.link %>" target="_blank">
+      <div>
+        <div class="link-tile__type">
+          <%= link.type %>
+        </div>
+        <div class="link-tile__title">
+          <%= link.title %>
+        </div>
+      </div>
+      <div class="link-tile__source">
+        <%= link.source %>
+      </div>
+    </a>
+  <% end %>
+</section>

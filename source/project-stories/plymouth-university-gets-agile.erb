@@ -57,26 +57,26 @@ site:
 team:
   title: "Unboxed team"
   people:
-    - short_name: "attila"
-      full_name: "Attila Gyorffy"
+    - full_name: "Attila Gyorffy"
+      image: "/project-stories/plymouth-university-gets-agile/team/attila.png"
 
-    - short_name: "chris"
-      full_name: "Chris Carter"
+    - full_name: "Chris Carter"
+      image: "/project-stories/plymouth-university-gets-agile/team/chris.png"
       link: "/people/chris-carter"
 
-    - short_name: "alan"
-      full_name: "Alan Thomas"
+    - full_name: "Alan Thomas"
+      image: "/project-stories/plymouth-university-gets-agile/team/alan.png"
       link: "/people/alan-thomas"
 
-    - short_name: "sarah"
-      full_name: "Sarah Beck"
+    - full_name: "Sarah Beck"
+      image: "/project-stories/plymouth-university-gets-agile/team/sarah.png"
       link: "/people/sarah-beck"
 
-    - short_name: "glenn"
-      full_name: "Glenn Smith"
+    - full_name: "Glenn Smith"
+      image: "/project-stories/plymouth-university-gets-agile/team/glenn.png"
 
-    - short_name: "richard"
-      full_name: "Richard Stobart"
+    - full_name: "Richard Stobart"
+      image: "/project-stories/plymouth-university-gets-agile/team/richard.png"
       link: "/people/richard-stobart"
 
 links:
@@ -105,226 +105,45 @@ related:
 
     - title: "Plymouth University"
       type: "project story"
-      link: "https://www.unboxedconsulting.com/project-stories/plymouth-university"
+      link: "/project-stories/plymouth-university"
       image: "/project-stories/plymouth-university-gets-agile/related/plymouth-logo.jpg"
 
 ---
 
-<header class="page-header">
-  <div class="page-header__container">
-    <h1 class="page-header__title">
-      <%= current_page.data.header.introduction %>
-    </h1>
+<%= partial 'project-stories/page_header' %>
 
-    <p class="page-header__client">
-      <%= current_page.data.header.client %>
-    </p>
-  </div>
-</header>
+<div class="container" data-header-waypoint>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
 
-<div class="container">
-  <img class="full-image" <%= retina_src current_page.data.header.image %> id="siteHeaderWaypoint" alt="<%= current_page.data.header.image_description %>" />
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-  <script>
-    new Waypoint({
-      element: $('#siteHeaderWaypoint'),
-      handler: function(direction) {
-        var siteHeader = $('.site-header');
-        if (direction === 'down') {
-          siteHeader.addClass('site-header--active-scroll');
-        } else {
-          siteHeader.removeClass('site-header--active-scroll');
-        }
-      },
-      offset: 54
-    });
-  </script>
-
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.introduction.title %>
-      </h2>
-
-      <ul class="text-tile__list">
-        <% current_page.data.introduction.content.each do |item| %>
-          <li><%= item %></li>
-        <% end %>
-      </ul>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.introduction.image %> alt="<%= current_page.data.introduction.image_description %>" />
-    </div>
-  </section>
-
-  <section class="bitesize--hotpink">
-    <h2 class="bitesize__title--white">
+  <section class="highlight--hotpink">
+    <h2 class="highlight__title">
       <%= current_page.data.working_closely_highlight %>
     </h2>
   </section>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.process_structure.title %>
-      </h2>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.process_structure } %>
 
-      <p class="text-tile__paragraph">
-        <%= current_page.data.process_structure.content %>
-      </p>
-    </div>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.agile_quote } %>
 
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.process_structure.image %> alt="<%= current_page.data.process_structure.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.transparency } %>
 
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.agile_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.agile_quote.source %>
-    </p>
-  </blockquote>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.mood_board } %>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.transparency.title %>
-      </h2>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.pride } %>
 
-      <p class="text-tile__paragraph">
-        <%= current_page.data.transparency.content %>
-      </p>
-    </div>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.textbook_to_real_world_quote } %>
 
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.transparency.image %> alt="<%= current_page.data.transparency.image_description %>" />
-    </div>
-  </section>
+  <%= partial 'project-stories/project_team' %>
 
-  <img class="full-image" <%= retina_src current_page.data.mood_board.image %> alt="<%= current_page.data.mood_board.image_description %>">
-
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.pride.title %>
-      </h2>
-
-      <p class="text-tile__paragraph">
-        <%= current_page.data.pride.content %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <img class="image-tile__image" <%= retina_src current_page.data.pride.image %> alt="<%= current_page.data.pride.image_description %>" />
-    </div>
-  </section>
-
-  <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.textbook_to_real_world_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.textbook_to_real_world_quote.source %>
-    </p>
-  </blockquote>
-
-  <section class="project-team">
-    <h2 class="project-team__title">
-      <%= current_page.data.team.title %>
-    </h2>
-
-    <% current_page.data.team.people.each do |person| %>
-      <% if person.link %>
-        <a class="project-team__headshot-container project-team__container--6" href="<%= person.link %>">
-          <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university-gets-agile/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-        </a>
-      <% else %>
-        <div class="project-team__headshot-container project-team__container--6">
-          <img class="project-team__headshot project-team__<%= person.short_name %>" src="/project-stories/plymouth-university-gets-agile/team/<%= person.short_name %>.png" alt="<%= person.full_name %>" title="<%= person.full_name %>">
-        </div>
-      <% end %>
-    <% end %>
-  </section>
-
-  <section class="bitesize--hotpink">
-    <h2 class="bitesize__title--white">
+  <section class="highlight--hotpink">
+    <h2 class="highlight__title">
       <%= current_page.data.show_and_tells_highlight %>
     </h2>
   </section>
 
-  <section class="component">
-    <a class="link-tile link-tile--site-link" href="<%= current_page.data.site.link %>" target="_blank">
-      <div>
-        <div class="link-tile__type">
-          link
-        </div>
-        <div class="link-tile__title">
-          <%= current_page.data.site.text %>
-        </div>
-      </div>
-    </a>
-    <% current_page.data.links.each do |link| %>
-      <a class="link-tile" href="<%= link.link %>" target="_blank">
-        <div>
-          <div class="link-tile__type">
-            <%= link.type %>
-          </div>
-          <div class="link-tile__title">
-            <%= link.title %>
-          </div>
-        </div>
-        <div class="link-tile__source">
-          <%= link.source %>
-        </div>
-      </a>
-    <% end %>
-  </section>
+  <%= partial 'project-stories/link_tiles' %>
 
-  <footer class="component">
-    <div class="footer-introduction">
-      <h3 class="footer-introduction__title">
-        <%= current_page.data.related.title %>
-      </h3>
-    </div>
-
-    <% current_page.data.related.articles.each do |article| %>
-      <a class="related-tile" href="<%= article.link %>">
-        <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
-        <div class="related-tile__text-content">
-          <div>
-            <div class="related-tile__type">
-              <%= article.type %>
-            </div>
-            <div class="related-tile__title">
-              <%= article.title %>
-            </div>
-          </div>
-        </div>
-      </a>
-    <% end %>
-
-    <section class="footer-social-icons">
-      <div>
-        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
-          </div>
-        </a>
-      </div>
-    </section>
-  </footer>
+  <%= partial 'project-stories/related_tiles' %>
 </div>

@@ -9,7 +9,7 @@
 
 .blog-header__breadcrumb {
   text-decoration: none;
-  color: $article-breadcrumb-link-color;
+  color: $blog-header__link-color;
 
   &:hover {
     text-decoration: underline;
@@ -29,7 +29,7 @@
 }
 
 .blog-header__author {
-  color: $author-name-color;
+  color: $blog-header__link-color;
   display: inline;
   letter-spacing: 0.02em;
   text-decoration: none;
@@ -41,7 +41,7 @@
 }
 
 .blog-header__published-date {
-  color: $article-published-date;
+  color: $blog-header__text-color;
   font-size: 0.8em;
   padding-top: 10px;
 
@@ -72,7 +72,7 @@
     padding-right: 1em;
 
     span {
-      color: $tag-paragraph-color;
+      color: $blog-header__tag-color;
       line-height: 3em;
       text-decoration: none;
     }
@@ -91,23 +91,21 @@
 .blog-header__tag-active {
   @include breakpoint($tablet-breakpoint) {
     span {
-      color: $tag-link-active-color;
+      color: $blog-header__active-tag-color;
     }
   }
 }
 
 .blog-header__tag-border {
   @include breakpoint($tablet-breakpoint) {
-    border-bottom: 2px solid;
-    border-color: $tag-link-border-color;
+    border-bottom: 2px solid $blog-header__tag-underline-color;
     position: relative;
   }
 }
 
 .blog-header__tag-border-active {
   @include breakpoint($tablet-breakpoint) {
-    border-bottom: 3px solid;
-    border-color: $tag-link-border-active-color;
+    border-bottom: 3px solid $blog-header__active-tag-underline-color;
     position: relative;
     top: 2px;
   }
