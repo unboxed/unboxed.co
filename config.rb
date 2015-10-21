@@ -22,6 +22,7 @@ end
 
 helpers do
   def retina_src(path)
+    return %(src="#{path}") if path =~ /^http(s)?/
     retina_path = path.gsub(/\./, '@2x.')
     %(src="#{path}" srcset="#{retina_path} 2x")
   end

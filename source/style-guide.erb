@@ -44,18 +44,61 @@
       Project story text with image tile
     </div>
     <div class="style-guide__container-body">
-      <div class="component__tile text-tile">
-        <h2 class="text-tile__title">
-          Lorem ipsum dolor sit amet
-        </h2>
+      <%= partial 'project-stories/text_tile', locals: {
+        section: OpenStruct.new({
+          title: "Lorem ipsum dolor sit amet",
+          content: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
+          image: "http://placehold.it/480x463"
+        })
+      } %>
+    </div>
+  </div>
 
-        <p class="text-tile__paragraph">
-          Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!
-        </p>
-      </div>
-      <div class="component__tile image-tile">
-        <img class="image-tile__image" src="http://placehold.it/480x463" alt="" />
-      </div>
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Project story full image
+    </div>
+    <div class="style-guide__container-body">
+      <%= partial 'project-stories/full_image', locals: {
+        section: OpenStruct.new({
+          image: "http://placehold.it/960x480",
+          image_description: "Placehold.it"
+        })
+      } %>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Project story list with image tile
+    </div>
+    <div class="style-guide__container-body">
+      <%= partial 'project-stories/text_tile', locals: {
+        section: OpenStruct.new({
+          title: "Lorem ipsum dolor sit amet",
+          content: [
+            "Consectetur adipisicing elit.",
+            "Consequuntur sed aliquam vero repellendus impedit qui.",
+            "Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum",
+            "Corporis quidem vero, beatae eius voluptatem quod!"
+          ],
+          image: "http://placehold.it/480x463"
+        })
+      } %>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Project story quote
+    </div>
+    <div class="style-guide__container-body">
+      <%= partial 'project-stories/quote', locals: {
+        section: OpenStruct.new({
+          quote: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
+          source: "Lorem ipsum"
+        })
+      } %>
     </div>
   </div>
 
@@ -64,7 +107,7 @@
       Project story highlight section
     </div>
     <div class="style-guide__container-body">
-      <div class="highlight">
+      <div class="highlight--yellow">
         <h2 class="highlight__title">
           Lorem ipsum dolor sit amet
         </h2>
