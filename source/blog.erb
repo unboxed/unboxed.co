@@ -19,26 +19,26 @@
 </div>
 
 <script>
+  var $packeryContainer = $('[data-packery-target]');
+  var packeryOptions = {
+    transitionDuration: 0,
+    percentPosition: true,
+    itemSelector: '.blog-tile',
+    columnWidth: '.blog-small-tile'
+  };
 
   if (Modernizr.matchmedia) {
     var mq = matchMedia('(min-width: 660px)');
-    var $container = $('[data-packery-target]');
-    var packeryOptions = {
-      transitionDuration: 0,
-      percentPosition: true,
-      itemSelector: '.blog-tile',
-      columnWidth: '.blog-small-tile'
-    };
 
     if (mq.matches) {
-      $container.packery(packeryOptions);
+      $packeryContainer.packery(packeryOptions);
     }
 
     mq.addListener(function(mql) {
       if (mql.matches) {
-        $container.packery(packeryOptions);
+        $packeryContainer.packery(packeryOptions);
       } else {
-        $container.packery('destroy');
+        $packeryContainer.packery('destroy');
       }
     });
   }
@@ -55,4 +55,25 @@
     },
     offset: 54
   });
+
 </script>
+
+<!--[if IE 9]>
+  <script>
+
+    var packeryEnabled = false;
+
+    $(window).resize(function() {
+      if (window.innerWidth >= 660 && !packeryEnabled) {
+        $packeryContainer.packery(packeryOptions);
+        packeryEnabled = true;
+      } else if (window.innerWidth < 660 && packeryEnabled) {
+        $packeryContainer.packery('destroy');
+        packeryEnabled = false;
+      }
+    });
+
+  </script>
+<![endif]-->
+
+
