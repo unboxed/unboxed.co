@@ -29,11 +29,6 @@
   background-color: lighten($light-gray, 2%);
   border-bottom: 1px solid $light-gray;
   padding: 30px 30px 16px;
-  text-align: center;
-
-  @include breakpoint($tablet-breakpoint) {
-    text-align: left;
-  }
 }
 
 .style-guide__container-body {
