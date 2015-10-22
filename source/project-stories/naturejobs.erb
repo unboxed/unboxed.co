@@ -16,6 +16,8 @@ collaboration:
   image: "/project-stories/naturejobs/naturejobs-website.jpg"
   image_description: "Naturejobs website screenshot"
 
+waterfall_to_agile_highlight: "The team took a product which had previous been worked on in a waterfall way and applied an Agile approach to it."
+
 technology:
   title: "Upgrading the platform to use latest core technologies"
   content: "Core technologies were dated, with versions of software language and frameworks reaching end of life. This severely limited Naturejobs’ opportunity to utilise the latest framework innovations and increased security risk. We successfully planned and delivered upgrades of Ruby software, Rails framework and further business features."
@@ -40,12 +42,14 @@ head_of_product_video:
 metrics:
   title: "Establishing valuable metrics for success"
   content: "To gauge the site’s success, Naturejobs had previously been measuring page views and similar metrics. Customer feedback and studied site Analytics were reviewed to learn what users wanted and valued. Relevant metrics were then established, such as the number of CV uploads achieved and job searches conducted. From this, Naturejobs were able to remove many redundant and unused features, resulting in a reduction of their maintenance overheads."
-  image: ""
+  image: "/project-stories/naturejobs/workstation.jpg"
   image_description: ""
 
 mentality_quote:
   quote: "The mentality was: 'We want to build great products together.'"
   source: "David Bright, Naturejobs"
+
+feedback_highlight: "At the end of fortnightly sprints, the team were able to get feedback that built momentum and trust with stakeholders."
 
 team:
   title: "Unboxed team"
@@ -78,33 +82,33 @@ site:
   text: "Visit the site and check it out for yourself"
 
 links:
-  - title: "Placeholder"
-    source: "Placeholder"
+  - title: "Grow your career prospects with Naturejobs Expo 2015"
+    source: "Imperial College London"
     type: "news"
-    link: "#"
+    link: "http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/careers/news/news_2-7-2015-15-10-7"
 
-  - title: "Placeholde"
-    source: "Placeholde"
+  - title: "Naturejobs Career Expo - London 2013"
+    source: "Naturejobs"
     type: "news"
-    link: "#"
+    link: "http://www.nature.com/natureconferences/njce2013/index.html"
 
 related:
   title: "Related"
   articles:
-    - title: "Placeholder"
-      type: "news"
-      link: "#"
-      image:
+    - title: "Contiki Holidays"
+      type: "project story"
+      link: "/project-stories/contiki-holidays"
+      image: "/project-stories/naturejobs/related/contiki-logo.jpg"
 
-    - title: "Placeholder"
+    - title: "Lean Machine"
       type: "blog"
       link: "https://www.unboxedconsulting.com/blog/lean-machine"
-      image:
+      image: "/project-stories/naturejobs/related/naturejobs-team.jpg"
 
-    - title: "Placeholder"
+    - title: "Plymouth University"
       type: "project story"
-      link: "#"
-      image:
+      link: "/project-stories/plymouth-university"
+      image: "/project-stories/naturejobs/related/plymouth-university-logo.jpg"
 ---
 
 <%= partial 'project-stories/page_header' %>
@@ -113,6 +117,12 @@ related:
   <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.collaboration } %>
+
+  <section class="highlight--peach">
+    <h2 class="highlight__title">
+      <%= current_page.data.waterfall_to_agile_highlight %>
+    </h2>
+  </section>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.technology } %>
 
@@ -127,6 +137,12 @@ related:
   <%= partial 'project-stories/quote', locals: { section: current_page.data.mentality_quote } %>
 
   <%= partial 'project-stories/project_team' %>
+
+  <section class="highlight--peach">
+    <h2 class="highlight__title">
+      <%= current_page.data.feedback_highlight %>
+    </h2>
+  </section>
 
   <%= partial 'project-stories/link_tiles' %>
 
