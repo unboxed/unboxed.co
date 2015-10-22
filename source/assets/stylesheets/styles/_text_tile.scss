@@ -72,3 +72,11 @@
     font-size: 1.3em;
   }
 }
+
+.text-tile__padded-list {
+  @extend .text-tile__list;
+
+  li {
+    padding: 10px 0;
+  }
+}

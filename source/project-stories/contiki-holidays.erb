@@ -138,7 +138,26 @@ related:
 <div class="container" data-header-waypoint>
   <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.partnership } %>
+  <section class="component">
+    <div class="component__tile text-tile">
+      <% if current_page.data.partnership.title %>
+        <h2 class="text-tile__title">
+          <%= current_page.data.partnership.title %>
+        </h2>
+      <% end %>
+
+      <ul class="text-tile__padded-list">
+        <% current_page.data.partnership.content.each do |item| %>
+          <li><%= render_markdown(item) %></li>
+        <% end %>
+      </ul>
+    </div>
+
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" <%= retina_src current_page.data.partnership.image %> alt="<%= current_page.data.partnership.image_description %>" />
+    </div>
+  </section>
+
 
   <section class="highlight--dark-gray">
     <h2 class="highlight__title">
