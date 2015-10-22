@@ -15,11 +15,11 @@
   box-sizing: border-box;
   background-color: $white;
   padding: 14px 14px 14px;
-  border: 1px solid darken($light-gray, 5%);
+  border: 1px solid $blog-tile__border-color;
   width: 100%;
 
   &:hover {
-    background-color: $light-gray;
+    background-color: $blog-tile__hover-color;
   }
 
   @include breakpoint($tablet-breakpoint) {
@@ -32,7 +32,7 @@
 }
 
 .blog-small-tile__title {
-  color: $dark-gray;
+  color: $blog-tile__title-color;
   font-size: 1.14em;
   font-weight: lighter;
   line-height: 1.3em;
@@ -49,13 +49,13 @@
 }
 
 .blog-small-tile__author {
-  color: $dark-gray;
+  color: $blog-tile__text-color;
   font-size: .8em;
   font-weight: bold;
   margin-bottom: 6px;
 }
 
 .blog-small-tile__date {
-  color: $dark-gray;
+  color: $blog-tile__text-color;
   font-size: .8em;
 }

@@ -2,7 +2,7 @@
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(center);
-  background-color: $footer-social-icons-background-color;
+  background-color: $footer-social-icons__background-color;
   box-sizing: border-box;
   height: 70px;
   padding: 16px;
@@ -31,7 +31,7 @@
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(center);
-  background-color: $social-icon-background-color;
+  background-color: $social-icon__background-color;
   border-radius: 50%;
   height: 28px;
   text-align: center;

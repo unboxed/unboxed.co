@@ -3,89 +3,94 @@
 
   <div class="style-guide__container">
     <div class="style-guide__container-title">
-      Project story large grid tile
-    </div>
-    <div class="style-guide__container-body">
-      <div class="grid-large-tile">
-        <img class="grid-large-tile__image" src="http://placehold.it/960x450" alt="">
-        <div class="grid-large-tile__content">
-          <div class="grid-large-tile__title">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          </div>
-          <div class="grid-large-tile__client">
-            Expedita amet maiores
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="style-guide__container">
-    <div class="style-guide__container-title">
-      Project story small grid tile
-    </div>
-    <div class="style-guide__container-body">
-      <div class="grid-tile">
-        <img class="grid-tile__image" src="http://placehold.it/296x130" alt="">
-        <div class="grid-tile__content">
-          <div class="grid-tile__title">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-          </div>
-          <div class="grid-tile__client">
-            Expedita amet maiores
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="style-guide__container">
-    <div class="style-guide__container-title">
       Project story text with image tile
     </div>
     <div class="style-guide__container-body">
-      <div class="component__tile text-tile">
-        <h2 class="text-tile__title">
-          Lorem ipsum dolor sit amet
-        </h2>
-
-        <p class="text-tile__paragraph">
-          Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!
-        </p>
-      </div>
-      <div class="component__tile image-tile">
-        <img class="image-tile__image" src="http://placehold.it/480x463" alt="" />
-      </div>
+      <%= partial 'project-stories/text_tile', locals: {
+        section: OpenStruct.new({
+          title: "Lorem ipsum dolor sit amet",
+          content: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
+          image: "http://placehold.it/480x463"
+        })
+      } %>
     </div>
   </div>
 
   <div class="style-guide__container">
     <div class="style-guide__container-title">
-      Project story bitesize section
+      Project story full image
     </div>
     <div class="style-guide__container-body">
-      <div class="bitesize">
-        <h2 class="bitesize__title">
+      <%= partial 'project-stories/full_image', locals: {
+        section: OpenStruct.new({
+          image: "http://placehold.it/960x480",
+          image_description: "Placehold.it"
+        })
+      } %>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Project story list with image tile
+    </div>
+    <div class="style-guide__container-body">
+      <%= partial 'project-stories/text_tile', locals: {
+        section: OpenStruct.new({
+          title: "Lorem ipsum dolor sit amet",
+          content: [
+            "Consectetur adipisicing elit.",
+            "Consequuntur sed aliquam vero repellendus impedit qui.",
+            "Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum",
+            "Corporis quidem vero, beatae eius voluptatem quod!"
+          ],
+          image: "http://placehold.it/480x463"
+        })
+      } %>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Project story quote
+    </div>
+    <div class="style-guide__container-body">
+      <%= partial 'project-stories/quote', locals: {
+        section: OpenStruct.new({
+          quote: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
+          source: "Lorem ipsum"
+        })
+      } %>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Project story highlight section
+    </div>
+    <div class="style-guide__container-body">
+      <div class="highlight--yellow">
+        <h2 class="highlight__title">
           Lorem ipsum dolor sit amet
         </h2>
 
-        <ul class="bitesize__list">
-          <li class="bitesize__list-item">
+        <ul class="highlight__list">
+          <li class="highlight__list-item">
             Perspiciatis sapiente beatae eos.
           </li>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             Officiis incidunt nobis dicta
           </li>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             Tempora provident aliquam cumque
           </li>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             Obcaecati nisi
           </li>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             Amet doloribus nemo minima
           </li>
-          <li class="bitesize__list-item">
+          <li class="highlight__list-item">
             Veniam ipsa qui in.
           </li>
         </ul>

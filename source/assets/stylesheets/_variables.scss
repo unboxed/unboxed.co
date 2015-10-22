@@ -1,12 +1,15 @@
+// Breakpoints
 $mobile-font-breakpoint: 400px;
 $max-mobile-container: 480px;
 $tablet-breakpoint: 660px;
 $max-tablet-container: 960px;
 
+// Colour palette
 $blue: #5993c6;
 $dark-purple: #3B0737;
 $medium-purple: #8F0B8A;
 $light-purple: #9F2B9A;
+$hotpink: #DF1753;
 $orange: #FDAD2B;
 $yellow: #FED336;
 
@@ -17,83 +20,89 @@ $light-gray: #F7F7F7;
 $white: #FFFFFF;
 
 // Site
-$body-background-color: $light-gray;
-$header-background-color: $white;
-$header-brand-color: $medium-purple;
-$header-text-color: $dark-gray;
-$footer-social-icons-background-color: $light-gray;
-$social-icon-background-color: $medium-gray;
+$body__background-color: $light-gray;
+$site-header__brand-color: $medium-purple;
+$site-header__background-color: $white;
+$social-icon__background-color: $medium-gray;
 
-// Project story grid
-$grid-tile-background-color: $white;
-$grid-tile-border-color: $light-gray;
-$grid-tile-type-color: $light-purple;
-$grid-tile-text-color: $black;
+// Project story
+$page-header__background-color: $white;
+$page-header__text-color: $dark-gray;
+$component__background-color: $white;
+$text-tile__title-color: $light-purple;
+$text-tile__text-color: $black;
+$quote__background-color: lighten($light-gray, 1.2%);
+$quote__text-color: lighten($black, 10%);
+$quote__source-color: $medium-purple;
+$site-link__background-color: $dark-gray;
+$site-link__text-color: $white;
+$site-link__type-color: $white;
+$link-tile__background-color: $white;
+$link-tile__border-color: $light-gray;
+$link-tile__text-color: $black;
+$link-tile__type-color: $light-purple;
+$project-team__background-color: $white;
+$project-team__title-color: $light-purple;
+$project-team__text-color: $black;
+$footer-social-icons__background-color: $light-gray;
+$footer-introduction__background-color: $light-gray;
+$footer-introduction__text-color: $black;
+$related-tile__background-color: $white;
+$related-tile__text-color: $black;
+$related-tile__type-color: $light-purple;
 
-// SH:24
-$component-background-color: $white;
-$bitesize-background-color: $yellow;
-$bitesize-text-color: $black;
-$tile-title-color: $light-purple;
-$tile-text-color: $black;
-$quote-background-color: lighten($light-gray, 1.2%);
-$quote-text-color: lighten($black, 10%);
-$quote-source-color: $medium-purple;
-$site-link-background-color: $dark-gray;
-$site-link-text-color: $white;
-$site-link-type-color: $white;
-$link-background-color: $white;
-$link-text-color: $black;
-$link-type-color: $light-purple;
-$team-background-color: $white;
-$footer-introduction-background-color: $light-gray;
-$footer-introduction-text-color: $black;
-$blue-tile-background-color: $blue;
-$blue-tile-text-color: $white;
-$blue-tile-type-color: $white;
-$orange-tile-background-color: $orange;
-$orange-tile-text-color: $white;
-$orange-tile-type-color: $white;
-$white-tile-background-color: $white;
-$white-tile-text-color: $black;
-$white-tile-type-color: $light-purple;
+// Project story - SH:24
+$highlight__yellow-background-color: $yellow;
+$highlight__yellow-text-color: $black;
 
-// Contiki
-$bitesize-dark-gray-background-color: lighten($black, 20%);
-$bitesize-white-text-color: $white;
+// Project story - Contiki
+$highlight__dark-gray-background-color: lighten($black, 20%);
+$highlight__dark-gray-text-color: $white;
 
-// Plymouth University
-$bitesize-blue-background-color: $blue;
+// Project story - Plymouth University
+$highlight__blue-background-color: $blue;
+$highlight__blue-text-color: $white;
+
+// Project story - Plymouth University Gets Agile
+$highlight__hotpink-background-color: $hotpink;
+$highlight__hotpink-text-color: $white;
+
+// Blog listing
+$blog-tile__border-color: darken($light-gray, 5%);
+$blog-tile__hover-color: $light-gray;
+$blog-tile__title-color: $light-purple;
+$blog-tile__text-color: $dark-gray;
 
 // Blog article
+$blog-header__link-color: $medium-purple;
+$blog-header__text-color: $medium-gray;
+$blog-header__tag-color: $medium-gray;
+$blog-header__tag-underline-color: darken($light-gray, 10%);
+$blog-header__active-tag-color: $light-purple;
+$blog-header__active-tag-underline-color: $light-purple;
 
-$article-header-border-color: $light-gray;
-$article-published-date: $medium-gray;
-$article-background-color: $white;
-$article-breadcrumb-link-color: $medium-purple;
-$article-link-text-color: $medium-purple;
-$article-blockquote-color: $medium-purple;
-$author-name-color: $medium-purple;
-$author-section-background-color: $light-gray;
-$author-section-border-color: $light-gray;
-$author-container-background-color: $white;
-$comments-section-border-color: $light-gray;
-$comments-container-background-color: $white;
-$disqus-anchor-color: $light-purple;
-$tag-link-text-color: $medium-purple;
-$tag-link-active-color: $light-purple;
-$tag-link-border-color: darken($light-gray, 10%);
-$tag-link-border-active-color: $light-purple;
-$tag-paragraph-color: $medium-gray;
-$related-article-header-color: lighten($dark-gray, 10%);
-$related-article-tile-color: $white;
-$related-article-link-color: $black;
-$related-article-text-color: lighten($black, 5%);
-$related-article-date-color: $dark-gray;
-$related-article-tag-color: lighten($light-purple, 55%);
-$related-article-tag-border: darken($light-gray, 5%);
-$related-article-tag-link-color: darken($medium-purple, 10%);
-$heading-brand-color: $light-purple;
-$article-code-text-color: darken($dark-gray, 10%);
-$article-code-background-color: lighten($light-gray, 1%);
-$article-table-color: $light-gray;
+$blog-article__background-color: $white;
+
+$blog-content__heading-color: $light-purple;
+$blog-content__link-color: $medium-purple;
+$blog-content__blockquote-border-color: $medium-purple;
+$blog-content__code-background-color: lighten($light-gray, 1%);
+$blog-content__code-text-color: darken($dark-gray, 10%);
+$blog-content__table-background-color: $light-gray;
+$blog-content__table-border-color: $light-gray;
+
+$blog-author__background-color: $white;
+$blog-author__border-color: $light-gray;
+$blog-author__author-color: $medium-purple;
+
+$blog-comments__background-color: $white;
+$blog-comments__border-color: $light-gray;
+$blog-comments__link-color: $light-purple;
+
+$blog-related__title-color: $dark-gray;
+$blog-related__tile-background-color: $white;
+$blog-related__tile-hover-color: darken($blog-related__tile-background-color, 5%);
+$blog-related__text-color: $dark-gray;
+$blog-related__tag-background-color: lighten($light-purple, 55%);
+$blog-related__tag-border-color: darken($light-gray, 5%);
+$blog-related__tag-text-color: darken($medium-purple, 10%);

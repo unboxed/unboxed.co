@@ -6,7 +6,7 @@
   </div>
 </div>
 
-<div class="container container--blog" id="siteHeaderWaypoint" data-packery-target>
+<div class="container container--blog" data-header-waypoint data-packery-target>
   <% blog.articles.each do |article| %>
     <% if article.data.weekly_roundup %>
       <%= partial 'blog_small_tile', locals: { article: article } %>
@@ -19,40 +19,45 @@
 </div>
 
 <script>
+  var $packeryContainer = $('[data-packery-target]');
+  var packeryOptions = {
+    transitionDuration: 0,
+    percentPosition: true,
+    itemSelector: '.blog-tile',
+    columnWidth: '.blog-small-tile'
+  };
 
   if (Modernizr.matchmedia) {
     var mq = matchMedia('(min-width: 660px)');
-    var $container = $('[data-packery-target]');
-    var packeryOptions = {
-      transitionDuration: 0,
-      percentPosition: true,
-      itemSelector: '.blog-tile',
-      columnWidth: '.blog-small-tile'
-    };
 
     if (mq.matches) {
-      $container.packery(packeryOptions);
+      $packeryContainer.packery(packeryOptions);
     }
 
     mq.addListener(function(mql) {
       if (mql.matches) {
-        $container.packery(packeryOptions);
+        $packeryContainer.packery(packeryOptions);
       } else {
-        $container.packery('destroy');
+        $packeryContainer.packery('destroy');
       }
     });
   }
-
-  new Waypoint({
-    element: $('#siteHeaderWaypoint'),
-    handler: function(direction) {
-      var siteHeader = $('.site-header');
-      if (direction === 'down') {
-        siteHeader.addClass('site-header--active-scroll');
-      } else {
-        siteHeader.removeClass('site-header--active-scroll');
-      }
-    },
-    offset: 54
-  });
 </script>
+
+<!--[if IE 9]>
+  <script>
+
+    var packeryEnabled = false;
+
+    $(window).resize(function() {
+      if (window.innerWidth >= 660 && !packeryEnabled) {
+        $packeryContainer.packery(packeryOptions);
+        packeryEnabled = true;
+      } else if (window.innerWidth < 660 && packeryEnabled) {
+        $packeryContainer.packery('destroy');
+        packeryEnabled = false;
+      }
+    });
+
+  </script>
+<![endif]-->
