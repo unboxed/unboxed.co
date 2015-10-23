@@ -18,7 +18,13 @@
 
 .site-header__link {
   color: $site-header__brand-color;
+  font-family: 'Helvetica Neue', 'Open Sans', 'Helvetica', sans-serif;
   font-size: 1.4em;
-  font-weight: 400;
+  font-weight: 200;
   text-decoration: none;
+  text-transform: lowercase;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 2em;
+  }
 }
