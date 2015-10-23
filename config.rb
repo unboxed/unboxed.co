@@ -9,7 +9,9 @@ set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true
 activate :blog do |blog|
   blog.layout = 'blog'
   blog.prefix = 'blog'
+  blog.taglink = "{tag}.html"
   blog.permalink = "{title}.html"
+  blog.tag_template = 'blog/tag.html'
   blog.new_article_template = 'templates/blog.md'
 end
 activate :similar, algorithm: :related_blog_articles
