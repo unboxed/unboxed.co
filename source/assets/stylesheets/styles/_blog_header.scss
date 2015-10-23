@@ -1,9 +1,28 @@
 .blog-header {
-  box-sizing: border-box;
-  padding: 100px 30px 30px;
+  background-color: $blog-header__background-color;
+  padding-bottom: 20px;
 
-  @include breakpoint($max-tablet-container) {
-    padding: 150px 30px 40px;
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 20px;
+  }
+}
+
+.blog-header__container {
+  @extend .container;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.blog-header__title {
+  color: $blog-header__text-color;
+  font-size: 1.95em;
+  font-weight: 200;
+  line-height: 1.2;
+  padding-bottom: 8px;
+  padding-top: 30px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 2.4em;
   }
 }
 
@@ -16,97 +35,30 @@
   }
 }
 
-.blog-header__title {
-  font-size: 1.8em;
-  font-weight: 100;
-  line-height: 1.2em;
-  padding-bottom: 30px;
+.blog-header__subtitle {
+  padding-top: 20px;
 
-  @include breakpoint($max-tablet-container) {
-    font-size: 2.2em;
-    padding-bottom: 50px;
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.1em;
+    padding-left: 4px;
+    padding-top: 40px;
   }
 }
 
 .blog-header__author {
   color: $blog-header__link-color;
   display: inline;
-  letter-spacing: 0.02em;
-  text-decoration: none;
-
-  @include breakpoint($max-tablet-container) {
-    font-size: 1.1em;
-    padding-left: 3px;
-  }
 }
 
 .blog-header__published-date {
   color: $blog-header__text-color;
-  font-size: 0.8em;
-  padding-top: 10px;
+  display: inline;
 
-  @include breakpoint($max-mobile-container) {
-    display: inline;
-
+  @include breakpoint($tablet-breakpoint) {
     &:before {
       content: "-";
       padding-left: 5px;
       padding-right: 5px;
     }
-  }
-}
-
-.blog-header__tags {
-  display: none;
-
-  @include breakpoint($tablet-breakpoint) {
-    display: block;
-    padding-top: 40px;
-  }
-}
-
-.blog-header__tag-link {
-  @include breakpoint($tablet-breakpoint) {
-    display: inline-block;
-    padding-left: 1em;
-    padding-right: 1em;
-
-    span {
-      color: $blog-header__tag-color;
-      line-height: 3em;
-      text-decoration: none;
-    }
-  }
-
-  @include breakpoint($max-tablet-container) {
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-
-    span {
-      font-size: 1.1em;
-    }
-  }
-}
-
-.blog-header__tag-active {
-  @include breakpoint($tablet-breakpoint) {
-    span {
-      color: $blog-header__active-tag-color;
-    }
-  }
-}
-
-.blog-header__tag-border {
-  @include breakpoint($tablet-breakpoint) {
-    border-bottom: 2px solid $blog-header__tag-underline-color;
-    position: relative;
-  }
-}
-
-.blog-header__tag-border-active {
-  @include breakpoint($tablet-breakpoint) {
-    border-bottom: 3px solid $blog-header__active-tag-underline-color;
-    position: relative;
-    top: 2px;
   }
 }

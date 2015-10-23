@@ -1,23 +1,14 @@
 .blog-article {
   background-color: $blog-article__background-color;
+  margin-top: 54px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-top: 64px;
+  }
 }
 
 .blog-article__container {
+  @extend %container;
   box-sizing: border-box;
-  margin: 0 auto;
-  max-width: $tablet-breakpoint;
-
-  @include breakpoint($tablet-breakpoint) {
-    max-width: $max-tablet-container;
-    padding-bottom: 30px;
-  }
-
-  @include breakpoint($max-tablet-container) {
-    max-width: $max-tablet-container;
-  }
-}
-
-.blog-article__content {
-  box-sizing: border-box;
-  padding: 0 30px 10px;
+  padding: 0 20px 30px;
 }

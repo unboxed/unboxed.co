@@ -1,0 +1,33 @@
+.blog-tags {
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: block;
+    margin: 0 auto 20px;
+    padding: 20px 0;
+  }
+}
+
+.blog-tags__container {
+  @extend %container;
+  border-bottom: 2px solid $blog-tags__underline-color;
+}
+
+.blog-tags__tag {
+  border-bottom: 3px solid transparent;
+  color: $blog-tags__text-color;
+  display: inline-block;
+  font-size: .9em;
+  padding: 1em 20px;
+  text-decoration: none;
+
+  &:hover {
+    border-bottom: 3px solid $blog-tags__underline-color--active;
+    color: $blog-tags__text-color--active;
+  }
+}
+
+.blog-tags__tag--active {
+  border-bottom: 3px solid $blog-tags__underline-color--active;
+  color: $blog-tags__text-color--active;
+}

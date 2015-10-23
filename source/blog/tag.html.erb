@@ -1,4 +1,9 @@
-<div class="container">
-  <%= tagname %>
-  <%= articles.count %>
+<div class="blog-header">
+  <div class="blog-header__container">
+    <div class="blog-header__title">
+      <a class="blog-header__breadcrumb" href="/blog">Blog</a> / <%= tagname %>
+    </div>
+  </div>
 </div>
+
+<%= partial 'blog_grid', locals: { articles: articles } %>
