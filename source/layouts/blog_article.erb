@@ -30,7 +30,7 @@
           </div>
         </div>
 
-        <div class="blog-tags">
+        <div class="blog-article-tags blog-tags">
           <div class="blog-tags__container">
             <% data.tags.each do |tag| %>
               <a class="blog-tags__tag<%= " blog-tags__tag--active" if current_article.tags.include?(tag) %>"

@@ -1,13 +1,3 @@
-.blog-tags {
-  display: none;
-
-  @include breakpoint($tablet-breakpoint) {
-    display: block;
-    margin: 0 auto 20px;
-    padding: 20px 0;
-  }
-}
-
 .blog-tags__container {
   @extend %container;
   border-bottom: 2px solid $blog-tags__underline-color;
