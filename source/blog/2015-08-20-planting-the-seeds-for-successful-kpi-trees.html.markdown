@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-08-20 11:30:00 UTC"
 published: true
 title: "Planting the seeds for successful KPI trees"

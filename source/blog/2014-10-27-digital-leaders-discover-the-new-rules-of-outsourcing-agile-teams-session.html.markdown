@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-10-27 12:08:00 UTC"
 published: true
 title: "Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
@@ -28,7 +28,7 @@ Here is the “fox” from my partnership…<br/>
  ![outsource2]( http://i1291.photobucket.com/albums/b548/grammccram/aa149b6f-dda6-4dfb-b24d-2dc58f688a67_zpsfe5df3b6.png)
 
 So with the partnership activities complete, it was time for [Dom](http://www.unboxedconsulting.com/people/dominic-mason) to introduce the agenda: <br/>
- 
+
 ![outsource3]( http://i1291.photobucket.com/albums/b548/grammccram/2a870781-64be-4817-9d48-b873755d836e_zpsc044c166.jpg)
 
 James Tatam, Digital Media Director at Channel 5, was first to share his experience with us. James spoke of his philosophy on outsourcing: <br/>
@@ -50,7 +50,7 @@ Paul Westmore, Interim CIO of Plymouth University, delivered a content-rich pres
 Yoann Martin, Technical Director of Notonthehighstreet, shared what makes a successful outsourced partnership:<br/>
 
 ![outsource6]( http://i1291.photobucket.com/albums/b548/grammccram/d0f02e9c-95b4-49f4-884a-1ee1cd9c3889_zpsf2b0fc2d.jpg)
- 
+
 <i>"If you outsource, put the effort into building the relationship instead of building the process."</i><br/>
 
 <i>"Outsourcing provides the power to scale up and down creates diversity which is an amazing thing! More debate. More innovation."</i><br/>

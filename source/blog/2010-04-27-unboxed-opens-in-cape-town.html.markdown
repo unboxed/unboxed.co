@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-04-27 00:00:00 UTC"
 published: true
 title: "We open our office in Cape Town"

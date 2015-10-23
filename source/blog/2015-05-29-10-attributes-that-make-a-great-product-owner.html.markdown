@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-05-29 10:44:00 UTC"
 published: true
 title: "10 Attributes that make a great product owner"
@@ -53,5 +53,5 @@ Make sure your team has all the information they need. What? Why? When? Where? W
 
 A team that feels valued is a team that will work harder. Make sure you celebrate success. Buy your team a few drinks! (as appropriate!)
 
-<p align="center"><img src="http://bit.ly/1HUMXFg" alt="Steve Lennon"></p> 
+<p align="center"><img src="http://bit.ly/1HUMXFg" alt="Steve Lennon"></p>
 <br/>

@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-06-07 18:30:00 UTC"
 published: true
 title: "jQuery UK 2014"
@@ -59,7 +59,7 @@ In summary, conferences are awesome because...
 (Pubbage in Oxford)
 
 2) You see people speak who's name you're used to reading on API docs
- 
+
 ![Yehuda Katz talking about Why you should use Ember](https://lh3.googleusercontent.com/-7nLEdbR86Ik/U3nNAKVHUVI/AAAAAAAACYg/QPUWY9kpnZM/w1848-h1106-no/2014-05-19)
 
 (Yehuda Katz on Ember.js)

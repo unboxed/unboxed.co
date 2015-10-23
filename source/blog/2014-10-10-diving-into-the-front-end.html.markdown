@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-10-10 10:46:00 UTC"
 published: true
 title: "Diving Into the Front End"
@@ -18,7 +18,7 @@ We decided on a fairly flat structure for our partials in this project with sepa
 
 ##CSS extensions
 The SASS language extends CSS in number of useful ways. Here are a couple of simple things that helped me.
-  
+
 Media queries can be nested in the same rule:
 
     .component {
@@ -48,7 +48,7 @@ I also discovered a few neat tools while I was working on this project:
 
 [Uncss](https://github.com/giakki/uncss) analyses your HTML and CSS and strips out any unused styling rules. This can useful if you're including a front end framework but only using a few of its rules.
 
-[Ish](http://bradfrostweb.com/demo/ish) is a site which, given your URL, will display it at “small-ish” to “large-ish” resolutions, as well as slowly moving between them. The idea behind it is that it encourages you to design for all widths, not just the most common device sizes. 
+[Ish](http://bradfrostweb.com/demo/ish) is a site which, given your URL, will display it at “small-ish” to “large-ish” resolutions, as well as slowly moving between them. The idea behind it is that it encourages you to design for all widths, not just the most common device sizes.
 
 ##Note on using Bootstrap
 The Bootstrap front end framework includes many styling rules and classes. The admin section of our site is dependent on Bootstrap styling and its grid system. Bootstrap was also useful during the prototyping phase. However the customer-facing "front end" of the site was styled using very few Bootstrap classes. Most of the elements such as headings, buttons and forms had custom styles. The layout for this section was also relatively simple. My impression is that we gained finer control and cleaner markup for much of this section by using our own styling.

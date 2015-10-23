@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-02-06 08:54:00 UTC"
 published: true
 title: "Native Chrome apps on mobile"

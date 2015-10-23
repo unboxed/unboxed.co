@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-09-12 12:28:00 UTC"
 published: true
 title: "The Outsourcing Dilemma "

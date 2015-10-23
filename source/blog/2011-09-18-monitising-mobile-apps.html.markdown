@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2011-09-18 09:37:00 UTC"
 published: true
 title: "Monetising mobile apps"

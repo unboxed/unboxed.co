@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-03-30 12:00:00 UTC"
 published: true
 title: "UBXD Event: Kicking the cobwebs out of your stuck digital product pipeline"

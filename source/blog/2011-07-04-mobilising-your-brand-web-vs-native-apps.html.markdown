@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2011-07-04 10:37:00 UTC"
 published: true
 title: "Mobilising your brand - mobile web vs native apps"

@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2013-03-12 15:17:00 UTC"
 published: true
 title: "National Apprenticeship Week"
@@ -9,9 +9,9 @@ author: "Tillie McCarthy"
 
 ##[Tillie McCarthy](/people/tillie-mccarthy)
 
-I started as a Sales apprentice over three weeks ago. During these three weeks I’ve had many opportunities to learn new things, get involved with the team and gain new skills to help progress with my NVQ. The other apprentices and I spent a day learning about the agile process, specifically "The Unboxed Way" this helped a lot as it gave me a lot of knowledge on how the company was run. I've enjoyed my time here so far as everyone has been very welcoming and the atmosphere is great! 
+I started as a Sales apprentice over three weeks ago. During these three weeks I’ve had many opportunities to learn new things, get involved with the team and gain new skills to help progress with my NVQ. The other apprentices and I spent a day learning about the agile process, specifically "The Unboxed Way" this helped a lot as it gave me a lot of knowledge on how the company was run. I've enjoyed my time here so far as everyone has been very welcoming and the atmosphere is great!
 
-I feel apprentice programs are a super way to gain skills as it allows you to earn a wage while learning new things. It’s a great opportunity for young people who have just left school and want to go straight into the working world. 
+I feel apprentice programs are a super way to gain skills as it allows you to earn a wage while learning new things. It’s a great opportunity for young people who have just left school and want to go straight into the working world.
 
 ##[Shirin Ullah](/people/shirin-ullah)
 
@@ -28,4 +28,4 @@ I have been enjoying my time at Unboxed. I am shadowing a tester and learning ru
 
 ##[Ben Giffin](/people/benjamin-giffin)
 
-I have enjoyed working at Unboxed so far and have been working with [Elizabeth](/people/elizabeth-curson) on 2 projects; [Apps for Good](/case-studies/apps-for-good) and Contiki. I have settled in the office now and really enjoy the people who are around me. 
+I have enjoyed working at Unboxed so far and have been working with [Elizabeth](/people/elizabeth-curson) on 2 projects; [Apps for Good](/case-studies/apps-for-good) and Contiki. I have settled in the office now and really enjoy the people who are around me.

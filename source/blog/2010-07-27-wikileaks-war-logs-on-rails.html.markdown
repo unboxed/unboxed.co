@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-07-27 04:00:00 UTC"
 published: true
 title: "Wikileaks war logs on rails"

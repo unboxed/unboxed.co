@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-05-21 15:00:00 UTC"
 published: true
 title: "Media Roundtable Session - 20th May"
