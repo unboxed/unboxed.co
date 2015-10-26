@@ -27,12 +27,18 @@
 
 .blog-author__name {
   color: $blog-author__author-color;
+  display: inline-block;
   font-size: 1.1em;
   line-height: 1.2;
   margin-bottom: 20px;
+  text-decoration: none;
 
   @include breakpoint($max-mobile-container) {
     font-size: 1.3em;
+  }
+
+  &:hover {
+    text-decoration: underline;
   }
 }
 

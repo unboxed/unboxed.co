@@ -48,6 +48,15 @@
 .blog-header__author {
   color: $blog-header__link-color;
   display: inline;
+  text-decoration: none;
+}
+
+.blog-header__author--linked {
+  @extend .blog-header__author;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .blog-header__published-date {

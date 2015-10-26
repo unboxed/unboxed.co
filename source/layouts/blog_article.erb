@@ -1,3 +1,5 @@
+<% author = get_author(current_page.data.author) %>
+
 <!doctype html>
 <html lang="en">
   <%= partial 'layouts/head' %>
@@ -20,9 +22,15 @@
           </h1>
 
           <div class="blog-header__subtitle">
-            <div class="blog-header__author">
-              <%= current_page.data.author %>
-            </div>
+            <% if author %>
+              <a class="blog-header__author--linked" href="https://unboxedconsulting.com/people/<%= author.short_name %>">
+                <%= author.name %>
+              </a>
+            <% else %>
+              <div class="blog-header__author">
+                <%= current_page.data.author %>
+              </div>
+            <% end %>
 
             <div class="blog-header__published-date">
               <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
@@ -65,14 +73,13 @@
 
     <div class="blog-footer">
       <div class="blog-footer__container">
-        <% author = get_author(current_page.data.author) %>
         <% if author %>
           <section class="blog-author">
             <img class="blog-author__image" src="/assets/images/people/<%= author.short_name %>.png" alt="<%= author.name %>"/>
             <aside class="blog-author__right-section">
-              <p class="blog-author__name">
-                <span><%= author.name %></span>
-              </p>
+              <a class="blog-author__name" href="https://unboxedconsulting.com/people/<%= author.short_name %>">
+                <%= author.name %>
+              </a>
               <div class="blog-author__bio">
                 <%= simple_format author.bio %>
               </div>
