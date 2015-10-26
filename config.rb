@@ -34,7 +34,7 @@ helpers do
   end
 
   def get_author(article_author)
-    data.authors.detect { |author| author["name"].downcase == article_author.downcase }
+    data.people.detect { |author| author["name"].downcase == article_author.downcase }
   end
 end
 
