@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-07-06 08:30:00 UTC"
 published: true
 title: "Why a UX-er and a Developer trumps System and Business Analysts"
@@ -21,7 +21,7 @@ A talented system analyst should have the ability to:
 
 * Sketch prototypes
 * Think through the whole business process they’re putting in place
-* Go out and get feedback from customers 
+* Go out and get feedback from customers
 * Adjust what they’re building in terms of that feedback
 
 <p align="center"><img src="http://bit.ly/1Kd7JSQ" alt="Sketch"></p>

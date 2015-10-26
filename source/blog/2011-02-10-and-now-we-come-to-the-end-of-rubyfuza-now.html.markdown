@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2011-02-10 14:35:00 UTC"
 published: true
 title: "And now we come to the end of RubyFuza.. now"

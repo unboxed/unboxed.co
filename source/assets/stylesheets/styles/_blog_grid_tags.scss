@@ -1,0 +1,10 @@
+.blog-grid-tags {
+  @extend %container;
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: block;
+    box-sizing: border-box;
+    padding: 20px;
+  }
+}

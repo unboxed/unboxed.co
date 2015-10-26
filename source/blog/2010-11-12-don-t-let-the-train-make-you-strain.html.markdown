@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-11-12 00:00:00 UTC"
 published: true
 title: "Don't let the Train make you Strain"

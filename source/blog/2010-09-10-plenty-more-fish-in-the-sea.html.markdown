@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-09-10 00:00:00 UTC"
 published: true
 title: "Plenty more fish in the sea..."

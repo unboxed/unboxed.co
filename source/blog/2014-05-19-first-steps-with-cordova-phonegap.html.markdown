@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-05-19 13:51:00 UTC"
 published: true
 title: "First steps with Cordova / PhoneGap"

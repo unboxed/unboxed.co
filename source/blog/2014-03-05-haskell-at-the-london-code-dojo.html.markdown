@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-03-05 19:10:00 UTC"
 published: true
 title: "Haskell at the London Code Dojo"
@@ -18,13 +18,13 @@ So, examples of valid pairs are (black, black), (black, white), (yellow, red) et
 Haskell syntax is pretty mind bending for my mushy human brain but the implementation for the colours problem turned out to be pleasantly readable!
 
 	let colours = ["black", "white", "blue", "yellow", "red"]
-	
+
 	[(x,y) | x <- colours, y <- colours, x <= y ]
 
 Being a Ruby developer I thought I'd set myself a mini-mission and have a crack in my language of choice...
 
 	colours = ["black", "white", "blue", "yellow", "red"]
-	
+
 	colours.product(colours).map{|e| e.sort }.uniq
 
 Hmm. The Haskell version was easier to read and seemed more 'mathsy' and declaritive with it's x <= y. Was it using some magical evaluation technique?
@@ -32,7 +32,7 @@ Hmm. The Haskell version was easier to read and seemed more 'mathsy' and declari
 To understand the Haskell version better I went into the IRC room where they have a bot in there called @undo. It breaks up, or undoes, Haskell into it's de-sugared form. And...
 
 	@undo  [(x,y) | x <- colours, y <- colours, x <= y ]
-	
+
 became...
 
 	concatMap (\ x -> concatMap (\ y -> if x <= y then [(x, y)] else []) colours) colours

@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-08-12 14:33:00 UTC"
 published: true
 title: "The Agile LEGO village"
@@ -16,7 +16,7 @@ Alex Bobin, [Charlie Egan] (http://www.unboxedconsulting.com/people/charlie-egan
 
 ![Lego2](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0158_zpse95cc3fa.jpg)
 
-The day began with an insight into Agile terminology and exploring each different role to see how they all integrate together to make a truly Agile team. We were also taken through processes and methods of working in an Agile way. 
+The day began with an insight into Agile terminology and exploring each different role to see how they all integrate together to make a truly Agile team. We were also taken through processes and methods of working in an Agile way.
 
 The theoretical section was spread across the morning, then in the afternoon the LEGO was pulled out…
 

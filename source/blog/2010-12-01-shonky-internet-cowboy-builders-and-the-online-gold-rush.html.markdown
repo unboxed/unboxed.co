@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-12-01 00:00:00 UTC"
 published: true
 title: "Shonky Internet - Cowboy Builders and the Online Gold Rush"

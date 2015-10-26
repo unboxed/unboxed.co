@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-10-13 10:55:00 UTC"
 published: true
 title: "Cognitive Bias, Product Management and you"
@@ -42,7 +42,7 @@ To test this with a non-utilitarian item, students were then paid $5 to fold an 
 
 The final test was whether completing the process of building was important in the valuation of the object. It was shown that not being allowed to complete the project resulted in lower valuations of the object.
 
-The implication for product management is clear. When we complete a product, an irrational attachment and valuation of that product is created. 
+The implication for product management is clear. When we complete a product, an irrational attachment and valuation of that product is created.
 
 #[Sunk Cost Fallacy](http://en.wikipedia.org/wiki/Sunk_costs#Loss_aversion_and_the_sunk_cost_fallacy)
 I sometimes refer to this bias as "dysfunctional commitment". Whether it's the war in Vietnam, a poorly performing stock in your portfolio or a bad relationship, they all fall prey to the same bias.
@@ -87,7 +87,7 @@ At the dawn of management science, time and motion studies were some of the firs
 The study created a control group and group which were subjected to higher light levels. The group exposed to higher light levels showed measurable improvements in output. What confounded this was that the group exposed to lower light levels showed similar improvements.
 
 The real explanation for this was that the act of observation was itself responsible for the improvements. This has obvious implications for any UX practices which include the user being aware of being observed, such as usability studies. In fact, all qualitative methods are subject to the potential for this bias skewing data.
- 
+
 
 #[Fundamental Attribution Error](http://en.wikipedia.org/wiki/Fundamental_attribution_error)
 This is my favourite bias that I've researched. Our default mode of thinking seems heavily biased towards ascribing agency to action. This makes a lot of sense when you're avoiding predators on the savannah. This knee-jerk reaction kicks in with ease: if someone is driving erratically your immediate assumption is that they're a bad driver or perhaps drunk. A friend of mine's mom was pulled over by a police man for this and it pretty much saved her life. She was in fact in diabetic hypoglycaemia, a dangerous condition where blood sugar levels fall critically low and which can lead to a loss of consciousness.
@@ -97,7 +97,7 @@ Our default mode of interpreting behaviour is to assume that the person is respo
 In terms of the impact of this bias on UX, we must be cautious in attributing behaviour to the individual only. We must see their interaction with the product holistically taking into consideration all the elements that might influence them.
 
 #[Confirmation Bias](http://en.wikipedia.org/wiki/Confirmation_bias)
-It turns out, people don't like having their opinions contradicted. This is why the scientific method of falsiability is such a powerful tool. It forces one to engage with the need for constructing hypotheses that are falsifiable, as in its absence we would tend to only create positive tests. 
+It turns out, people don't like having their opinions contradicted. This is why the scientific method of falsiability is such a powerful tool. It forces one to engage with the need for constructing hypotheses that are falsifiable, as in its absence we would tend to only create positive tests.
 
 The other aspect of this bias is that we tend to interpret data in order to reinforce our existing opinion. So when analysing data we will tend to place greater store on those data points that support our view, and less on those contradicting.
 
@@ -105,7 +105,7 @@ In other words we need to pay particular attention when we judge any kind of met
 
 I know that UX practitioners are taught to be aware of confirmation bias in for example usability testing. There is however an additional few cognitive biases that should also be of concern.
 
-On the one hand we have the [Experimenters Bias](http://en.wikipedia.org/wiki/Experimenter%27s_bias). A great example of this was the horse [Clever Hans](http://en.wikipedia.org/wiki/Clever_Hans) who seemed able to calculate basic arithmetic. In fact he was responding to subtle body language cues from his observers. 
+On the one hand we have the [Experimenters Bias](http://en.wikipedia.org/wiki/Experimenter%27s_bias). A great example of this was the horse [Clever Hans](http://en.wikipedia.org/wiki/Clever_Hans) who seemed able to calculate basic arithmetic. In fact he was responding to subtle body language cues from his observers.
 
 Additionally [Demand Characteristics](http://en.wikipedia.org/wiki/Demand_characteristics) can cause study participants to take on roles such as "The Good Participant Role" (where they try to discern what the hypothesis under test is, so that they can confirm it).
 
@@ -119,7 +119,7 @@ Somethings you can try are:
 * Gather facts. It’s hard to know you’re improving if you’re not measuring.
 * Create a structure for making decisions. Define clear criteria to evaluate the merits of each option, and use them consistently.
 * Be mindful of subtle cues. Who’s included and who’s excluded?
-* Foster awareness. Hold yourself—and your colleagues—accountable. 
+* Foster awareness. Hold yourself—and your colleagues—accountable.
 
 
 Lastly, know that you have a finite reserve of willpower every day. Each decision you make draws on this reserve. Oatmeal or Rice Krispies? That's where it starts. So my best advice is keep your important decisions to the morning so that you have not expended all your available will power when making these decisions.

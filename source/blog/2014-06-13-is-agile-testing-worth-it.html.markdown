@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-06-13 10:08:00 UTC"
 published: true
 title: "Is agile testing worth it?"

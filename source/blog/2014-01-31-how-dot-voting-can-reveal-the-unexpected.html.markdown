@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-01-31 13:49:00 UTC"
 published: true
 title: "How dot voting can reveal the unexpected"
@@ -10,7 +10,7 @@ tags:
 
 While facilitating a stakeholder workshop recently, I ran two rounds of grouping and ordering. One I used dot voting, one didn’t. On reflection I was surprised with the results.
 
-The question asked during these processes following a pattern of, what are your top three things you do/don’t like about a tool.  The stakeholders wrote their three things on post-it notes, which where then collected and read out in random order, and the stakeholders agreed on their grouping. 
+The question asked during these processes following a pattern of, what are your top three things you do/don’t like about a tool.  The stakeholders wrote their three things on post-it notes, which where then collected and read out in random order, and the stakeholders agreed on their grouping.
 
 In the first round, we had three largely populated groups, and several smaller ones. Therefore we didn’t dot vote, as it was felt by the group, with me admittedly leading them, that these three groups represented the most important for the group overall.
 

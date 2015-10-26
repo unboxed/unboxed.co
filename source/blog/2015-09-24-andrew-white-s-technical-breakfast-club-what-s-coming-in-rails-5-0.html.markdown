@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-09-24 09:45:00 UTC"
 published: true
 title: "Andrew White’s Technical Breakfast Club - What's coming in Rails 5.0?"

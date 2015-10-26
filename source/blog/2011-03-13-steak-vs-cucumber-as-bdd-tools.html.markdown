@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2011-03-13 16:08:00 UTC"
 published: true
 title: "Steak vs Cucumber as BDD tools"

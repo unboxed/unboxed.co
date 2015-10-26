@@ -73,20 +73,22 @@ $highlight__peach-background-color: $peach;
 $highlight__peach-text-color: $white;
 
 // Blog listing
+$blog-header__background-color: $white;
+$blog-header__text-color: $dark-gray;
+$blog-header__link-color: $medium-purple;
+
 $blog-tile__border-color: darken($light-gray, 5%);
 $blog-tile__hover-color: $light-gray;
 $blog-tile__title-color: $light-purple;
 $blog-tile__text-color: $dark-gray;
 
 // Blog article
-$blog-header__link-color: $medium-purple;
-$blog-header__text-color: $medium-gray;
-$blog-header__tag-color: $medium-gray;
-$blog-header__tag-underline-color: darken($light-gray, 10%);
-$blog-header__active-tag-color: $light-purple;
-$blog-header__active-tag-underline-color: $light-purple;
-
 $blog-article__background-color: $white;
+
+$blog-tags__text-color: $medium-gray;
+$blog-tags__underline-color: darken($light-gray, 10%);
+$blog-tags__text-color--active: $light-purple;
+$blog-tags__underline-color--active: $light-purple;
 
 $blog-content__heading-color: $light-purple;
 $blog-content__link-color: $medium-purple;
@@ -95,6 +97,8 @@ $blog-content__code-background-color: lighten($light-gray, 1%);
 $blog-content__code-text-color: darken($dark-gray, 10%);
 $blog-content__table-background-color: $light-gray;
 $blog-content__table-border-color: $light-gray;
+
+$blog-footer__background-color: $light-gray;
 
 $blog-author__background-color: $white;
 $blog-author__border-color: $light-gray;

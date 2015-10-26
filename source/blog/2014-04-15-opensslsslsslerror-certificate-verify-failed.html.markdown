@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-04-15 14:28:00 UTC"
 published: true
 title: "OpenSSL::SSL::SSLError: certificate verify failed "
@@ -23,7 +23,7 @@ On the client's server https://google.com is working but https://facebook.com is
 
 <script src="https://gist.github.com/karlentwistle/10739717.js?file=Update install packages"></script>
 
-Normally this would utilise the package manager ‘apt’ to fix the issue. However, if you’re running Ubuntu 8.04 LTS you’re quickly going to find that the ‘Long Term Support’ is over. And all the packages are returning a 404. 
+Normally this would utilise the package manager ‘apt’ to fix the issue. However, if you’re running Ubuntu 8.04 LTS you’re quickly going to find that the ‘Long Term Support’ is over. And all the packages are returning a 404.
 
 You're on your own now...
 
@@ -66,7 +66,7 @@ With this in mind I append the contents of /etc/ca-certificates.conf with:
 
 <script src="https://gist.github.com/karlentwistle/10739717.js?file=append crt"></script>
 
-The final step is running [c_rehash](http://www.tin.org/bin/man.cgi?section=1&topic=c_rehash) within /etc/ssl/certs to scan directories and take a hash value of each '.pem' and '.crt' file in the directory. It then creates symbolic links for each of the files named by the hash value. Programs on the system (like curl or wget) expect to find the certificates they require in this c_rehash'ed format. 
+The final step is running [c_rehash](http://www.tin.org/bin/man.cgi?section=1&topic=c_rehash) within /etc/ssl/certs to scan directories and take a hash value of each '.pem' and '.crt' file in the directory. It then creates symbolic links for each of the files named by the hash value. Programs on the system (like curl or wget) expect to find the certificates they require in this c_rehash'ed format.
 
 <script src="https://gist.github.com/karlentwistle/10739717.js?file=rehash"></script>
 
@@ -74,7 +74,7 @@ The final step is running [c_rehash](http://www.tin.org/bin/man.cgi?section=1&to
 
 I go back to the doctor.rb and run it again.
 
-Success! We have the updated certificates available! 
+Success! We have the updated certificates available!
 
 <script src="https://gist.github.com/karlentwistle/10739717.js?file=successful ruby doctor"></script>
 

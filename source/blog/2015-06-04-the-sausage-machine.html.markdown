@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-06-04 15:00:00 UTC"
 published: true
 title: "The Sausage Machine"

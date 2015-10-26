@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2011-04-15 08:18:00 UTC"
 published: true
 title: "I'm a ScrumMaster. Huh?"

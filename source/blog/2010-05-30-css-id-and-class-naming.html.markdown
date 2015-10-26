@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-05-30 00:00:00 UTC"
 published: true
 title: "CSS id and class naming"
