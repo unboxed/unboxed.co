@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-08-04 15:30:00 UTC"
 published: true
 title: "What is the definition of ‘done’?"

@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-04-14 00:00:00 UTC"
 published: true
 title: "Agile in Enterprise"

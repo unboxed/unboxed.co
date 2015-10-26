@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-01-26 01:50:00 UTC"
 published: true
 title: "Sending S/MIME encrypted emails with Action Mailer"

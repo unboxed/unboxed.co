@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2013-02-21 12:18:00 UTC"
 published: true
 title: "New Apprentice - Shirin"

@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-03-07 15:00:00 UTC"
 published: true
 title: "The CAT experience"
@@ -13,7 +13,7 @@ tags:
 As a software tester within an agile environment I ascertained that it is not enough to reduce the project timeframes, discard the documentation and change the requirements document name for a project to be true agile. In order for an agile project to work well it requires a fundamentally different mind-set from everyone involved.
 
 I recently took the Certified Agile tester and got the certificate after sitting the exam. The course spans over 5 days, four days of training and a written and practical exam on the fifth day.
- 
+
 Through minimal theory and lots of practical exercises the CAT course gives a comprehensive introduction to Agile Methodology, Manifesto, comparison with traditional methods, its advantages, related ceremonies and relevance of traditional roles in Agile. It covers everything in nice depth and breadth. Course days consist of half day of theory going through the course material and the second half on each day is a practical exercise. It’s the practical sessions that stood out for me.
 
 The exam consists of practical and written exam. For practical exams, you are the tester, the team and the customer. You have to take builds, do Iteration Planning, prepare session charts, do the testing and Retrospective…. pretty much everything done in SCRUM. It is followed by a subjective theory exam…yes, it’s not multiple choices. I would not say it’s very difficult, provided you kept your ears open during the training sessions and went through the course material every day (which is a huge task seriously!!).

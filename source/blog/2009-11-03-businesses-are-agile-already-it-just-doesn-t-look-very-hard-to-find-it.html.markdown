@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2009-11-03 00:00:00 UTC"
 published: true
 title: "Businesses are agile already - IT just doesn't look very hard to find it!"

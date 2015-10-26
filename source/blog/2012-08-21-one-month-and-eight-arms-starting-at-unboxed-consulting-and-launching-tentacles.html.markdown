@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2012-08-21 09:40:00 UTC"
 published: true
 title: "One Month and Eight Arms: Starting at Unboxed Consulting and Launching tentacl.es"
@@ -7,7 +7,7 @@ author: "Tom Sabin"
 
 ---
 
-[Karlis](http://www.unboxedconsulting.com/people/karlis-venters), Shaban, Stefan and myself ([Tom](http://www.unboxedconsulting.com/people/tom-sabin)) have been taken on as part of Unboxed Consulting’s third internship programme. During our first few weeks we were given an introduction to Agile and Ruby on Rails. 
+[Karlis](http://www.unboxedconsulting.com/people/karlis-venters), Shaban, Stefan and myself ([Tom](http://www.unboxedconsulting.com/people/tom-sabin)) have been taken on as part of Unboxed Consulting’s third internship programme. During our first few weeks we were given an introduction to Agile and Ruby on Rails.
 
 The first week of training involved Agile and learning "The Unboxed Way" (taught by [Richard Stobart](http://www.unboxedconsulting.com/people/richard-stobart)). Afterwards, Chris Patuzzo took the Ruby and Ruby on Rails course. Our newly acquired knowledge enabled us to progress to a project of our own, which allowed us to put into practice what  we had recently been taught. We also had a few days covering front-end development by [Rob Pataki](http://www.unboxedconsulting.com/people/robert-pataki).
 

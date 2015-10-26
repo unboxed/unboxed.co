@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-11-04 00:00:00 UTC"
 published: true
 title: "A dev's point of view - agile helps focus."

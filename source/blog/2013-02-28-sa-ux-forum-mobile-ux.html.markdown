@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2013-02-28 09:31:00 UTC"
 published: true
 title: "SA UX Forum: Mobile UX"
@@ -18,7 +18,7 @@ Have a look at [Phil's readlist for his talk](http://readlists.com/b4e06725/) fo
 
 ### Native app vs Responsive web site
 
-Mobile context has changed: it's no longer about rushed, distracted, users. Now it's "no feature left behind": mobile users want everything desktop users do. See [Josh Clark's "Seven Deadly Mobile Myths" presentation](http://globalmoxie.com/jhc/prez/mobile-myths.pdf) (PDF, 6.4MB) for more on this. 
+Mobile context has changed: it's no longer about rushed, distracted, users. Now it's "no feature left behind": mobile users want everything desktop users do. See [Josh Clark's "Seven Deadly Mobile Myths" presentation](http://globalmoxie.com/jhc/prez/mobile-myths.pdf) (PDF, 6.4MB) for more on this.
 
 Responsive design is great, but still has some challenges. One of the biggest is images: how we deal with sending appropriately sized images to all the different devices, especially lower end ones. The [Responsive Images Community Group](http://responsiveimages.org/) is a great place to keep up with development in this area.
 

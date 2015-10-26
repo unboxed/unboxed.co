@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2012-04-13 23:32:00 UTC"
 published: true
 title: "Tackling the unknown with subdivision"

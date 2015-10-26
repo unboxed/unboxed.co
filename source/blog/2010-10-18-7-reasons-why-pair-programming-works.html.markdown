@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-10-18 00:00:00 UTC"
 published: true
 title: "7 reasons why pair programming works"

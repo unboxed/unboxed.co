@@ -1,0 +1,8 @@
+.blog-article-tags {
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: block;
+    padding: 20px 0 40px;
+  }
+}
