@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2012-10-22 14:06:00 UTC"
 published: true
 title: "Making JavaScript testing in the browser not suck with Sinon.js (Part 2)"
@@ -24,7 +24,7 @@ Mocks replace APIs with fake methods. We can use mocks to make expectations. Exp
 * Tests are easier to read
 
 Heres an example test utilising a mock:
-  
+
     module('TeaBreak');
 
     test('enjoy should save data', 1, function () {

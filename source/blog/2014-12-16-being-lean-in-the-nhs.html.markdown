@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-12-16 18:11:00 UTC"
 published: true
 title: "Being lean in the NHS"

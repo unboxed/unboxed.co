@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-06-15 09:00:00 UTC"
 published: true
 title: "Feature-based Benefits"

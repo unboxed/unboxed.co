@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-09-09 15:52:00 UTC"
 published: true
 title: "People Matter Most!"
@@ -14,7 +14,7 @@ One day someone in Falmouth was mulling over an SDLC exam question and thought:
 
  <i>"I like people. I want other people to like and recognise people for what they do and who they are. Let's have a party and discuss" </i>
 
-And so it came to be that [Agile on the Beach](http://agileonthebeach.com/) conference was born; a place where people learn how fashion systems that solve problems relevant to their own lives in a way that makes everybody feel good about themselves. They do this over pasties, cider, beach and a party! 
+And so it came to be that [Agile on the Beach](http://agileonthebeach.com/) conference was born; a place where people learn how fashion systems that solve problems relevant to their own lives in a way that makes everybody feel good about themselves. They do this over pasties, cider, beach and a party!
 
 ..... I went to that party, albeit as a gatecrasher.
 
@@ -29,7 +29,7 @@ Joe's ideas encouraged us to explore our agile future as a place where we "Talk 
 And work on [prioritising small parts of stories](https://speakerdeck.com/jbrains/the-next-decade-of-agile-software-development?slide=58). Doing this would generate a greater product foundation and support the progress of stories with highest priority for <i>more than ONE</i> stakeholder.
 
 
-Product and Design talks ran in a side room that was the most popular room in Falmouth! [@lissijean](https://twitter.com/lissijean) captured the audience with her cat meme-filled discussion on the Product Manager's role in design, which she defined as <i>focussing on the problem</i> and retaining the core value of a product in its development. Melissa explored the relevant expertise of UX, IA and Graphic designer roles in the different stages of production and highlighted the need to have a number of <i>user-centric</i> designers across all skill sets to ensure a high quality design team. 
+Product and Design talks ran in a side room that was the most popular room in Falmouth! [@lissijean](https://twitter.com/lissijean) captured the audience with her cat meme-filled discussion on the Product Manager's role in design, which she defined as <i>focussing on the problem</i> and retaining the core value of a product in its development. Melissa explored the relevant expertise of UX, IA and Graphic designer roles in the different stages of production and highlighted the need to have a number of <i>user-centric</i> designers across all skill sets to ensure a high quality design team.
 
 
 Our packed audience was then invited to turn to a neighbour and introduce themselves. What followed was a discussion on how <i> it takes 5 seconds</i> to make a first impression of a person. The same is true of websites and, knowing that first impressions last, <i>make sure that a user knows who you are and what they need to do within the first 5 seconds</i> of landing on your home page.
@@ -39,13 +39,13 @@ We all spilled out of that room to the beach party, barbecue, laughter and facia
 
 <b>DAY 2: PEOPLE DO THE WORK THAT MAKES MONEY</b>
 
-[@bbogsnes](https://twitter.com/bbogsnes) opened day 2 challenging calendar-driven budgeting and performance evaluation by making <i>people</i> the place to start any strategy related meetings. His points for considering control systems were illustrated by comparing the rules for a traffic light to those when navigating a roundabout. The driver is in control in the latter example but the environment in which the decisions are made is described using the military acronym VUCA (Volatile, Uncertain, Complex, Ambiguous) - not too dissimilar to the environment a manager would invoke by implementing Beyond Budgeting practices. 
+[@bbogsnes](https://twitter.com/bbogsnes) opened day 2 challenging calendar-driven budgeting and performance evaluation by making <i>people</i> the place to start any strategy related meetings. His points for considering control systems were illustrated by comparing the rules for a traffic light to those when navigating a roundabout. The driver is in control in the latter example but the environment in which the decisions are made is described using the military acronym VUCA (Volatile, Uncertain, Complex, Ambiguous) - not too dissimilar to the environment a manager would invoke by implementing Beyond Budgeting practices.
 
-Bjarte shared how Statoil is implementing their "Ambition to Action" model -setting dynamic and relevant budgets as required, encouraging autonomous and more efficient budget control and placing the people who do the work that a company bases its forecasts on at the centre of those discussions. 
+Bjarte shared how Statoil is implementing their "Ambition to Action" model -setting dynamic and relevant budgets as required, encouraging autonomous and more efficient budget control and placing the people who do the work that a company bases its forecasts on at the centre of those discussions.
 
-[@CodingCuppa's](https://twitter.com/CodingCuppa) talk struck a chord with our experience of growing and maintaining effective agile teams without diluting culture and compromising performance. The very wonderful news is that we tick all boxes when it came to lessons learned and seem to have a more rigorous approach than suggested, allowing for less opportunity to fail. 
+[@CodingCuppa's](https://twitter.com/CodingCuppa) talk struck a chord with our experience of growing and maintaining effective agile teams without diluting culture and compromising performance. The very wonderful news is that we tick all boxes when it came to lessons learned and seem to have a more rigorous approach than suggested, allowing for less opportunity to fail.
 
-<i>Go Team!</i>   
+<i>Go Team!</i>
 
 
 Mike, Joe and Becs [@PlymUni] (https://twitter.com/PlymUni) did a fantastic job selling their experience of implementing agile with Unboxed Consulting at their right hand. Their conversion and adoption has resulted in a number of meet ups allowing more people to imbibe the agile and lean paracetamol for the waterfall headache. What a great reward, witnessing our client's energy and proof of our ability to deliver great experiences.
@@ -63,7 +63,7 @@ Mike, Joe and Becs [@PlymUni] (https://twitter.com/PlymUni) did a fantastic job 
 
 <b><i>"Seagull Managers" : those who fly in, shout, sh*t all over you and fly off.</i></b>
 
-Late on Friday afternoon I felt a massive wave of warmth envelop me in the realisation that my self assumed title of Unboxed Consulting's <i>Gardener</i> is a real thing!! 
+Late on Friday afternoon I felt a massive wave of warmth envelop me in the realisation that my self assumed title of Unboxed Consulting's <i>Gardener</i> is a real thing!!
 
 
 <b><i>"You can't force a seed to grow, you can only nurture the environment and hope"</i></b>

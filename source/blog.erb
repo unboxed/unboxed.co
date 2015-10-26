@@ -1,63 +1,19 @@
-<div class="page-header">
-  <div class="page-header__container">
-    <div class="page-header__title">
+<div class="blog-header">
+  <div class="blog-header__container">
+    <div class="blog-header__title">
       Blog
     </div>
   </div>
 </div>
 
-<div class="container container--blog" data-header-waypoint data-packery-target>
-  <% blog.articles.each do |article| %>
-    <% if article.data.weekly_roundup %>
-      <%= partial 'blog_small_tile', locals: { article: article } %>
-    <% elsif article.data.main_image %>
-      <%= partial 'blog_large_tile', locals: { article: article } %>
-    <% else %>
-      <%= partial 'blog_medium_tile', locals: { article: article } %>
-    <% end %>
-  <% end %>
+<div class="blog-grid-tags">
+  <div class="blog-tags">
+    <div class="blog-tags__container">
+      <% data.tags.each do |tag| %>
+        <a class="blog-tags__tag" href="<%= tag_path(tag) %>"><%= tag %></a>
+      <% end %>
+    </div>
+  </div>
 </div>
 
-<script>
-  var $packeryContainer = $('[data-packery-target]');
-  var packeryOptions = {
-    transitionDuration: 0,
-    percentPosition: true,
-    itemSelector: '.blog-tile',
-    columnWidth: '.blog-small-tile'
-  };
-
-  if (Modernizr.matchmedia) {
-    var mq = matchMedia('(min-width: 660px)');
-
-    if (mq.matches) {
-      $packeryContainer.packery(packeryOptions);
-    }
-
-    mq.addListener(function(mql) {
-      if (mql.matches) {
-        $packeryContainer.packery(packeryOptions);
-      } else {
-        $packeryContainer.packery('destroy');
-      }
-    });
-  }
-</script>
-
-<!--[if IE 9]>
-  <script>
-
-    var packeryEnabled = false;
-
-    $(window).resize(function() {
-      if (window.innerWidth >= 660 && !packeryEnabled) {
-        $packeryContainer.packery(packeryOptions);
-        packeryEnabled = true;
-      } else if (window.innerWidth < 660 && packeryEnabled) {
-        $packeryContainer.packery('destroy');
-        packeryEnabled = false;
-      }
-    });
-
-  </script>
-<![endif]-->
+<%= partial 'blog_grid', locals: { articles: blog.articles } %>

@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-01-26 11:45:00 UTC"
 published: true
 title: "On being a remote worker"

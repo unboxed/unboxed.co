@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-09-14 10:35:00 UTC"
 published: true
 title: "Thinking product at Mind the Product 2015"

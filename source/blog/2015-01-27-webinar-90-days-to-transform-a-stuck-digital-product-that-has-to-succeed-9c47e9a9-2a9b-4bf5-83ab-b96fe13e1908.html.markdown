@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-01-27 17:38:00 UTC"
 published: true
 title: "Webinar: 90 days to transform a ‘stuck’ digital product that HAS to succeed..."

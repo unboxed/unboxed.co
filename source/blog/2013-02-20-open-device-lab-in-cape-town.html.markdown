@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2013-02-20 09:36:00 UTC"
 published: true
 title: "Open Device Lab in Cape Town"
@@ -29,6 +29,6 @@ In the months that followed, [other device labs](http://adactio.com/journal/5622
 
 After many months of bouncing around various venues around town, the Nomad Device Lab now has a permanent home at [Unboxed Consulting in Cape Town](http://www.unboxedconsulting.com/contact). At the time of writing, the lab is the only Open Device Lab in Cape Town. In fact, it's the only one in Africa!
 
-We would love to have you come by to test your work across [our range of devices](http://devicelab.co.za/the-lab.php#devicesinthelab) at our community lab. If you have any old devices lying around that aren't being used, it would be fantastic if you could donate them to the lab. 
+We would love to have you come by to test your work across [our range of devices](http://devicelab.co.za/the-lab.php#devicesinthelab) at our community lab. If you have any old devices lying around that aren't being used, it would be fantastic if you could donate them to the lab.
 
 Use of the lab is free, but please [let us know you're coming](mailto:alphen@unboxedconsulting.com?subject=Open Device Lab) so that we can make sure everything is fully prepped for testing and that the coffee is freshly brewed. Does your mobile site look okay on a Retina display iPad? Does your responsive site look good on feature phones or Symbian OS? Come by and find out, and get help and advice from us about Progressive Enhancement, Responsive Web Design, [SMACSS](http://www.smacss.com/), and lots of other Front End Web Dev goodness. We look forward to seeing you!

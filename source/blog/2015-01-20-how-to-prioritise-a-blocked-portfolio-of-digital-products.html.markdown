@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-01-20 11:30:00 UTC"
 published: true
 title: "How to prioritise a blocked portfolio of digital products"

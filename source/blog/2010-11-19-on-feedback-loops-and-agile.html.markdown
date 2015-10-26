@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-11-19 00:00:00 UTC"
 published: true
 title: " On Feedback Loops and Agile"
