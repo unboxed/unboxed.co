@@ -121,9 +121,14 @@
   }
 
   pre {
-    font-size: 1em;
+    font-size: .8em;
     margin-bottom: 20px;
     padding: 10px 20px;
+    overflow-x: scroll;
+
+    @include breakpoint($tablet-breakpoint) {
+      font-size: 1em;
+    }
   }
 
   th, td {
