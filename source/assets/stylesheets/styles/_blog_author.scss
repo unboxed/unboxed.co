@@ -1,11 +1,11 @@
 .blog-author {
   background-color: $blog-author__background-color;
   border-top: 3px solid $blog-author__border-color;
+  overflow: hidden;
   padding: 20px;
 
   @include breakpoint($tablet-breakpoint) {
     @include flexbox;
-    @include justify-content(center);
     @include align-items(center);
     padding: 30px 20px;
   }
