@@ -75,7 +75,9 @@
       <div class="blog-footer__container">
         <% if author %>
           <section class="blog-author">
-            <img class="blog-author__image" src="/assets/images/people/<%= author.short_name %>.png" alt="<%= author.name %>"/>
+            <% if sitemap.find_resource_by_path "/assets/images/people/#{author.short_name}.png" %>
+              <img class="blog-author__image" src="/assets/images/people/<%= author.short_name %>.png" alt="<%= author.name %>"/>
+            <% end %>
             <aside class="blog-author__right-section">
               <a class="blog-author__name" href="https://unboxedconsulting.com/people/<%= author.short_name %>">
                 <%= author.name %>
