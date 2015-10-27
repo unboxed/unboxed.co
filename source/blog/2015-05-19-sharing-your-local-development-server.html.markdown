@@ -14,13 +14,17 @@ I’ve recently been on a project, where for various reasons, we didn’t have a
 
 When you run your server, you probably use the command:
 
-> ``bundle exec rails s``
+```
+bundle exec rails s
+```
 
 With the above command if you try and share that with someone else via your local IP address, e.g. ``http://192.168.0.6:3000``, you’ll find that they are blocked.
 
 Instead you need to use:
 
-> ``bundle exec rails s -b 0.0.0.0``
+```
+bundle exec rails s -b 0.0.0.0
+```
 
 This happens, as of Rails 4, by default it only binds to localhost, asking it to bind to ``0.0.0.0`` means listen on all network interfaces.
 
@@ -42,11 +46,15 @@ You may also want to manage your site remotely, i.e. update it with the latest c
 
 Then you can ssh to your server with an already existing username on your machine:
 
-> ``ssh username@external-ip-address``
+```
+ssh username@external-ip-address
+```
 
 You’ll find that you probably won’t be able to do all the things you want, e.g. pull from github. In order to do this, you’ll need to make sure you have your private ssh key on your remote machine and use the ``–A`` parameter to use that:
 
-> ``ssh –A username@external-ip-address``
+```
+ssh –A username@external-ip-address
+```
 
 ## Setting up a local mail server
 
@@ -56,28 +64,40 @@ If you are using a Mac, then helpfully it comes with a (unconfigured) Postfix se
 
 Create a file to store your credentials:
 
-> ``sudo vim /etc/postfix/sasl_passwd``
+```
+sudo vim /etc/postfix/sasl_passwd
+```
 
 Then add inside something like this:
 
-> ``smtp.gmail.com:587 username@gmail.com:password``
+```
+smtp.gmail.com:587 username@gmail.com:password
+```
 
 If you are using Google Apps, replace ``gmail.com`` for your own domain.
 
 Now run:
 
-> ``sudo postmap /etc/postfix/sasl_passwd``
+```
+sudo postmap /etc/postfix/sasl_passwd
+```
 
 And finally prepare the postfix main configuration file:
 
-> ``sudo vim /etc/postfix/main.cf``
+```
+sudo vim /etc/postfix/main.cf
+```
 
 And add these lines:
 
-> ``mydomain_fallback = localhost mail_owner = postfix setgid_group = postdrop relayhost=smtp.gmail.com:587 smtp_sasl_auth_enable=yes smtp_sasl_password_maps=hash:/etc/postfix/sasl_passwd smtp_use_tls=yes smtp_tls_security_level=encrypt tls_random_source=dev:/dev/urandom``
+```
+mydomain_fallback = localhost mail_owner = postfix setgid_group = postdrop relayhost=smtp.gmail.com:587 smtp_sasl_auth_enable=yes smtp_sasl_password_maps=hash:/etc/postfix/sasl_passwd smtp_use_tls=yes smtp_tls_security_level=encrypt tls_random_source=dev:/dev/urandom
+```
 
 ## Start the Service
 
-> ``sudo postfix start``
+```
+sudo postfix start
+```
 
 You will probably want any email links to go out with your external IP address, so that others can just click on them, I found my settings in ``config.action_mailer.default_url_options``
