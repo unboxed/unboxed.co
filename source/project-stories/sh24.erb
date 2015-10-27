@@ -150,7 +150,7 @@ related:
     <ul class="highlight__list">
       <% current_page.data.statistics.each do |statistic| %>
         <li class="highlight__list-item">
-          <%= render_markdown statistic %>
+          <%= statistic %>
         </li>
       <% end %>
     </ul>
@@ -191,7 +191,7 @@ related:
       <ul>
         <% current_page.data.conclusion.design_and_build.each do |statistic| %>
           <li class="highlight__list-item">
-            <%= render_markdown statistic %>
+            <%= statistic %>
           </li>
         <% end %>
       </ul>
@@ -205,7 +205,7 @@ related:
       <ul>
         <% current_page.data.conclusion.since_launch.each do |statistic| %>
           <li class="highlight__list-item">
-            <%= render_markdown statistic %>
+            <%= statistic %>
           </li>
         <% end %>
       </ul>

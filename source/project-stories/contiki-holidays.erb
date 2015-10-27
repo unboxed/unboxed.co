@@ -146,9 +146,11 @@ related:
         </h2>
       <% end %>
 
-      <ul class="text-tile__padded-list">
+      <ul class="text-tile__list">
         <% current_page.data.partnership.content.each do |item| %>
-          <li><%= render_markdown(item) %></li>
+          <li class="text-tile__padded-list-item">
+            <%= item %>
+          </li>
         <% end %>
       </ul>
     </div>
@@ -203,14 +205,14 @@ related:
     <ul class="highlight__list--bulleted">
       <% current_page.data.objectives_outcomes.objectives.each do |objective| %>
         <li class="highlight__list-item">
-          <%= render_markdown(objective) %>
+          <%= objective %>
           <span class="highlight__small-list-item">Objective met</span>
         </li>
       <% end %>
       <ul class="highlight__list--bulleted-one-column">
         <% current_page.data.objectives_outcomes.objective_smashed.each do |objective| %>
           <li class="highlight__list-item">
-            <%= render_markdown(objective) %>
+            <%= objective %>
             <span class="highlight__small-list-item">Objective smashed!</span>
           </li>
         <% end %>

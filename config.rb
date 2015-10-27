@@ -29,10 +29,6 @@ helpers do
     %(src="#{path}" srcset="#{retina_path} 2x")
   end
 
-  def render_markdown(text)
-    Markdown.new(text).to_html
-  end
-
   def get_author(article_author)
     data.people.detect { |author| author["name"].downcase == article_author.downcase }
   end

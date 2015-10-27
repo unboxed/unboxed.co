@@ -9,7 +9,9 @@
     <% if section.content.is_a?(Array) %>
       <ul class="text-tile__list">
         <% section.content.each do |item| %>
-          <li><%= render_markdown(item) %></li>
+          <li class="text-tile__list-item">
+            <%= item %>
+          </li>
         <% end %>
       </ul>
     <% else %>
