@@ -26,7 +26,7 @@
 }
 
 .blog-author__name {
-  color: $blog-author__author-color;
+  color: $blog-author__link-color;
   display: inline-block;
   font-size: 1.1em;
   line-height: 1.2;
@@ -49,5 +49,21 @@
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.1em;
+  }
+}
+
+.blog-author__read-more {
+  color: $blog-author__link-color;
+  display: inline-block;
+  font-size: 1em;
+  margin-top: 20px;
+  text-decoration: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.1em;
+  }
+
+  &:hover {
+    text-decoration: underline;
   }
 }

@@ -85,6 +85,10 @@
               <div class="blog-author__bio">
                 <%= simple_format author.bio %>
               </div>
+
+              <a class="blog-author__read-more" href="/blog/author/<%= author.short_name %>">
+                Read more posts by <%= author.name %>
+              </a>
             </aside>
           </section>
         <% end %>

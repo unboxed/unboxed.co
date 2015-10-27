@@ -34,6 +34,11 @@ helpers do
   end
 end
 
+data.people.each do |person|
+  proxy "blog/author/#{person.short_name}.html", "blog_author_grid.html",
+    locals: { author_name: person.name }, ignore: true
+end
+
 ignore '/templates/*'
 ignore '/partials/*'
 ignore '/**/README.md'
