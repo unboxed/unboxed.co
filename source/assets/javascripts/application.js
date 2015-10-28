@@ -1,4 +1,4 @@
-//= require jquery
-//= require jquery.waypoints
-//= require modernizr
-//= require packery
+//= require jquery.min
+//= require jquery.waypoints.min
+//= require modernizr.min
+//= require packery.min
