@@ -28,10 +28,11 @@ helpers do
     retina_path = path.gsub(/\./, '@2x.')
     %(src="#{path}" srcset="#{retina_path} 2x")
   end
+end
 
-  def get_author(article_author)
-    data.people.detect { |author| author["name"].downcase == article_author.downcase }
-  end
+data.people.each do |person|
+  proxy "blog/author/#{person.short_name}.html", "blog_author_grid.html",
+    locals: { author_name: person.name }, ignore: true
 end
 
 ignore '/templates/*'

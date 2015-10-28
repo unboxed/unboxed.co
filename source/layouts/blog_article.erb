@@ -1,4 +1,4 @@
-<% author = get_author(current_page.data.author) %>
+<% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
 
 <!doctype html>
 <html lang="en">
@@ -85,6 +85,12 @@
               <div class="blog-author__bio">
                 <%= simple_format author.bio %>
               </div>
+
+              <% if blog.articles.select { |article| article.data.author == author.name }.size >= 2 %>
+                <a class="blog-author__read-more" href="/blog/author/<%= author.short_name %>">
+                  Read more posts by <%= author.name %>
+                </a>
+              <% end %>
             </aside>
           </section>
         <% end %>

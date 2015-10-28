@@ -1,4 +1,5 @@
 <div class="container container--blog" data-header-waypoint data-packery-target>
+  <div class="blog-tile__grid-sizer"></div>
   <% articles.each do |article| %>
     <% if article.data.weekly_roundup %>
       <%= partial 'blog_small_tile', locals: { article: article } %>
@@ -16,7 +17,7 @@
     transitionDuration: 0,
     percentPosition: true,
     itemSelector: '.blog-tile',
-    columnWidth: '.blog-small-tile'
+    columnWidth: '.blog-tile__grid-sizer'
   };
 
   if (Modernizr.matchmedia) {

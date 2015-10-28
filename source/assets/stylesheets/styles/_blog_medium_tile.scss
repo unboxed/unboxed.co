@@ -13,7 +13,7 @@
 
 .blog-medium-tile__container {
   box-sizing: border-box;
-  background-color: $white;
+  background-color: $blog-tile__background-color;
   border: 1px solid $blog-tile__border-color;
   width: 100%;
 
@@ -61,11 +61,27 @@
   font-size: .8em;
   font-weight: bold;
   margin-bottom: 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.335vw;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    font-size: .8em;
+  }
 }
 
 .blog-medium-tile__date {
   color: $blog-tile__text-color;
   font-size: .8em;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.335vw;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    font-size: .8em;
+  }
 }
 
 .blog-medium-tile__article-body {

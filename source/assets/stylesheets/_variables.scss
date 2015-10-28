@@ -77,6 +77,7 @@ $blog-header__background-color: $white;
 $blog-header__text-color: $dark-gray;
 $blog-header__link-color: $medium-purple;
 
+$blog-tile__background-color: $white;
 $blog-tile__border-color: darken($light-gray, 5%);
 $blog-tile__hover-color: $light-gray;
 $blog-tile__title-color: $light-purple;
@@ -102,7 +103,7 @@ $blog-footer__background-color: $light-gray;
 
 $blog-author__background-color: $white;
 $blog-author__border-color: $light-gray;
-$blog-author__author-color: $medium-purple;
+$blog-author__link-color: $medium-purple;
 
 $blog-comments__background-color: $white;
 $blog-comments__border-color: $light-gray;
