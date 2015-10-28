@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-11-08 00:00:00 UTC"
 published: true
 title: "In White Space... No One Can Hear You Scream!"

@@ -1,0 +1,18 @@
+<div class="blog-header">
+  <div class="blog-header__container">
+    <div class="blog-header__title">
+      <a class="blog-header__breadcrumb" href="/blog">Blog</a> / <%= tagname %>
+    </div>
+  </div>
+</div>
+
+<div class="blog-grid-tags blog-tags">
+  <div class="blog-tags__container">
+    <% data.tags.each do |tag| %>
+      <a class="blog-tags__tag<%= " blog-tags__tag--active" if tagname == tag %>"
+        href="<%= tag_path(tag) %>"><%= tag %></a>
+    <% end %>
+  </div>
+</div>
+
+<%= partial 'blog_grid', locals: { articles: articles } %>

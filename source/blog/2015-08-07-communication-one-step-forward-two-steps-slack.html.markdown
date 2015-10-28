@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-08-07 10:00:00 UTC"
 published: true
 title: "Communication - One Step Forward, Two Steps Slack?"

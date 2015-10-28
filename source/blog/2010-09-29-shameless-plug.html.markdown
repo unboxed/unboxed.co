@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-09-29 00:00:00 UTC"
 published: true
 title: "Shameless Plug"

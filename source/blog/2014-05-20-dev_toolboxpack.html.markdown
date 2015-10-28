@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2014-05-20 11:58:00 UTC"
 published: true
 title: "dev_toolbox.pack()"
@@ -13,7 +13,7 @@ In Ruby we have Rake, and therefore in JavaScript we have Grunt. But comparing t
 
 	module.exports = function (grunt) {
 	  grunt.loadNpmTasks("grunt-contrib-watch");
-	
+
 	  grunt.initConfig({
 	    watch: {
 	      html: {
@@ -24,7 +24,7 @@ In Ruby we have Rake, and therefore in JavaScript we have Grunt. But comparing t
 	      }
 	    }
 	  });
-	
+
 	  grunt.registerTask( "default", [ "watch:html" ] );
 	};
 
@@ -43,5 +43,5 @@ At the conference, the day after this workshop, I attended a talk by [Andi Smith
 * [grunt-uncss](https://github.com/addyosmani/grunt-uncss): remove any unused CSS from your stylesheets.
 * [grunt-concurrent](https://github.com/sindresorhus/grunt-concurrent): speed up your build time by running tasks concurrently. Obviously you'd want to do this on tasks that do not depend on each other.
 * [grunt-autoprefixer](https://github.com/nDmitry/grunt-autoprefixer): uses the [Can I Use](http://caniuse.com/) database to prefix vendor specific properties to CSS.
-* [load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks): if you have many Grunt plugins, the Gruntfile soon becomes polluted with declaring each plugin, one by one, at the top of the file. By using this module you can remove this cumbersome task and depend purely on your project's `package.json` file.* 
+* [load-grunt-tasks](https://github.com/sindresorhus/load-grunt-tasks): if you have many Grunt plugins, the Gruntfile soon becomes polluted with declaring each plugin, one by one, at the top of the file. By using this module you can remove this cumbersome task and depend purely on your project's `package.json` file.*
 * [shrinkwrap](https://www.npmjs.org/doc/cli/npm-shrinkwrap.html): lock down dependency versions.

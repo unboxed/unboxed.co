@@ -110,6 +110,7 @@
   iframe {
     width: 100%;
     margin-bottom: 26px;
+    z-index: 1;
   }
 
   pre,
@@ -120,9 +121,14 @@
   }
 
   pre {
-    font-size: 1em;
+    font-size: .8em;
     margin-bottom: 20px;
     padding: 10px 20px;
+    overflow-x: scroll;
+
+    @include breakpoint($tablet-breakpoint) {
+      font-size: 1em;
+    }
   }
 
   th, td {
@@ -133,5 +139,10 @@
 
   th {
     background-color: $blog-content__table-background-color;
+  }
+
+  audio {
+    margin-bottom: 10px;
+    max-width: 100%;
   }
 }

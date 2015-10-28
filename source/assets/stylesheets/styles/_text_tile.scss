@@ -73,10 +73,10 @@
   }
 }
 
-.text-tile__padded-list {
-  @extend .text-tile__list;
+.text-tile__list-item {
+  padding-bottom: 7px;
 
-  li {
-    padding: 10px 0;
+  &:last-of-type {
+    padding-bottom: 0;
   }
 }

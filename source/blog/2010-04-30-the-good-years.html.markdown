@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-04-30 00:00:00 UTC"
 published: true
 title: "The Good Years"

@@ -7,10 +7,12 @@ set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true
 
 activate :blog do |blog|
-  blog.layout = 'blog'
+  blog.layout = 'blog_article'
   blog.prefix = 'blog'
+  blog.taglink = "{tag}.html"
   blog.permalink = "{title}.html"
-  blog.new_article_template = 'templates/blog.md'
+  blog.tag_template = 'blog/tag.html'
+  blog.new_article_template = 'templates/blog_article.md'
 end
 activate :similar, algorithm: :related_blog_articles
 activate :directory_indexes
@@ -27,12 +29,8 @@ helpers do
     %(src="#{path}" srcset="#{retina_path} 2x")
   end
 
-  def render_markdown(text)
-    Markdown.new(text).to_html
-  end
-
   def get_author(article_author)
-    data.authors.detect { |author| author["name"].downcase == article_author.downcase }
+    data.people.detect { |author| author["name"].downcase == article_author.downcase }
   end
 end
 

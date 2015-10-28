@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2011-06-24 10:46:00 UTC"
 published: true
 title: "Pivotal Tracker Workflow"

@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-09-18 16:15:00 UTC"
 published: true
 title: "Replacing the Asset pipeline with Gulp"
@@ -27,12 +27,12 @@ Or we can switch from using the asset pipeline to using one of the newer alterna
 
 Here we will look at building a replacement for the asset pipeline using [gulp](http://gulpjs.com/)
 
-> _"gulp is a toolkit that will help you automate painful or time-consuming tasks in your development workflow"_ 
+> _"gulp is a toolkit that will help you automate painful or time-consuming tasks in your development workflow"_
 - gulpjs.com
 
 gulp is a good choice as you can get a lot done in just a few lines of code, it is performant and has a large library of plugins.
 
-> _"By harnessing the power of node's streams you get fast builds that don't write intermediary files to disk"_ 
+> _"By harnessing the power of node's streams you get fast builds that don't write intermediary files to disk"_
 - gulpjs.com
 
 

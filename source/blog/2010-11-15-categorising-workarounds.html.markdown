@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-11-15 00:00:00 UTC"
 published: true
 title: "Categorising Workarounds"

@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2011-03-09 08:45:00 UTC"
 published: true
 title: "Kanban in the Cape - Part 1"

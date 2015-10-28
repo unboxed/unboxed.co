@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-10-06 00:00:00 UTC"
 published: true
 title: "Newsletter - October 2010"

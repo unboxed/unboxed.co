@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2015-07-28 13:36:00 UTC"
 published: true
 title: "Why should you have a zero-defect strategy?"

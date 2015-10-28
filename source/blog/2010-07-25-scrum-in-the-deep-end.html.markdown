@@ -1,5 +1,5 @@
 ---
-layout: "blog"
+layout: "blog_article"
 date: "2010-07-25 00:00:00 UTC"
 published: true
 title: "Scrum in the Deep End"
