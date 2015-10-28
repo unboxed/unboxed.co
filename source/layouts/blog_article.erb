@@ -1,4 +1,4 @@
-<% author = get_author(current_page.data.author) %>
+<% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
 
 <!doctype html>
 <html lang="en">

@@ -28,10 +28,6 @@ helpers do
     retina_path = path.gsub(/\./, '@2x.')
     %(src="#{path}" srcset="#{retina_path} 2x")
   end
-
-  def get_author(article_author)
-    data.people.detect { |author| author["name"].downcase == article_author.downcase }
-  end
 end
 
 data.people.each do |person|
