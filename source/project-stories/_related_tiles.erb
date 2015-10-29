@@ -7,7 +7,6 @@
 
   <% current_page.data.related.articles.each do |article| %>
     <a class="related-tile" href="<%= article.link %>">
-      <img class="related-tile__image" src="<%= article.image %>" alt="<%= article.type %>">
       <div class="related-tile__text-content">
         <div>
           <div class="related-tile__type">

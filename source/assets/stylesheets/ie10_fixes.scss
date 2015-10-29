@@ -3,10 +3,6 @@
 @import 'shared/*';
 
 @media screen and (min-width:0\0) {
-  .related-tile__image {
-    margin-top: 0;
-  }
-
   @include breakpoint($tablet-breakpoint) {
     // IE10 Does not fully support flexbox, .blog-author renders as 100% regardless of its container's width.
     // see http://degradingdisgracefully.com/ie11-ie10-flexbox-overflow-bug/ for further details (solution doesn't

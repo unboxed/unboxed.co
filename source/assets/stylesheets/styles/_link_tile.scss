@@ -17,7 +17,7 @@
     border-right: 1px solid $link-tile__border-color;
     border-bottom: 0;
     float: left;
-    min-height: 165px;
+    min-height: 160px;
     width: 33.33%;
 
     &:hover {
@@ -43,7 +43,7 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 165px;
+    min-height: 160px;
 
     &:hover {
       background-color: darken($site-link__background-color, 6%);

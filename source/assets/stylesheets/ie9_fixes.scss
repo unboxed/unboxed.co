@@ -7,33 +7,6 @@
   display: block;
 }
 
-// Flexbox is not supported, float images to left instead
-.related-tile__image {
-  display: block;
-  float: left;
-  margin-right: 16px;
-
-  @include breakpoint($tablet-breakpoint) {
-    float: none;
-  }
-}
-
-// Flexbox not supported for reordering the content. Fallback to left floated images
-.related-tile:first-of-type .related-tile__image {
-  height: 130px;
-  width: 130px;
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 150px;
-    width: 100%;
-  }
-}
-
-// To support full coloured div
-.related-tile {
-  display: block;
-}
-
 // To support full coloured div
 .social-icons {
   display: block;
