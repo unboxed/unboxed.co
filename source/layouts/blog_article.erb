@@ -2,7 +2,7 @@
 
 <!doctype html>
 <html lang="en">
-  <%= partial 'layouts/head' %>
+  <%= partial 'layouts/head', locals: { title: "Blog - #{current_page.data.title}" } %>
 
   <body>
     <header class="site-header">

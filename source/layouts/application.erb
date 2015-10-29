@@ -1,6 +1,11 @@
 <!doctype html>
 <html lang="en">
-  <%= partial 'layouts/head' %>
+  <% if current_page.data.title
+    title = current_page.data.title
+  elsif content_for?(:title)
+    title = yield_content(:title)
+  end %>
+  <%= partial 'layouts/head', locals: { title: title } %>
 
   <body>
     <div class="site-header">
