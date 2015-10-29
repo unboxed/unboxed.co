@@ -5,6 +5,26 @@
   position: relative;
 }
 
+.site-navigation__scroll-hint {
+  background: -webkit-gradient(linear, left top, right top,
+                color-stop(0%, rgba(255,255,255,0)),
+                color-stop(50%, rgba(255,255,255,1))
+              );
+  height: 37px;
+  padding-left: 30px;
+  padding-right: 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 2;
+
+  &:after {
+    color: lighten($site-navigation__link-color, 40%);
+    content: '›';
+    font-size: 27px;
+  }
+}
+
 .site-navigation__container {
   height: 54px;
   overflow-x: scroll;
@@ -30,6 +50,10 @@
     position: absolute;
     left: 0;
     right: 0;
+  }
+
+  &:last-of-type {
+    margin-right: 35px;
   }
 }
 
