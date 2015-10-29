@@ -1,9 +1,9 @@
 .blog-article {
   background-color: $blog-article__background-color;
-  margin-top: 54px;
+  margin-top: 85px;
 
   @include breakpoint($tablet-breakpoint) {
-    margin-top: 64px;
+    margin-top: 95px;
   }
 }
 

@@ -1,0 +1,49 @@
+.site-navigation {
+  @extend %container;
+  height: 37px;
+  overflow: hidden;
+  position: relative;
+}
+
+.site-navigation__container {
+  height: 54px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 0 10px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.site-navigation__link {
+  color: $site-navigation__link-color;
+  display: inline-block;
+  font-size: 0.9em;
+  padding: 10px;
+  position: relative;
+  text-decoration: none;
+
+  &:hover:before {
+    border-bottom: 3px solid $site-navigation__underline-color--active;
+    bottom: -3px;
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+}
+
+.site-navigation__link--active {
+  color: $site-navigation__link-color--active;
+  position: relative;
+
+  &:before {
+    border-bottom: 3px solid $site-navigation__underline-color--active;
+    bottom: -3px;
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+  }
+}

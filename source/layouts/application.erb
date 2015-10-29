@@ -8,13 +8,7 @@
   <%= partial 'layouts/head', locals: { title: title } %>
 
   <body>
-    <div class="site-header">
-      <div class="site-header__brand">
-        <a class="site-header__link" href="https://www.unboxedconsulting.com/">
-          Unboxed
-        </a>
-      </div>
-    </div>
+    <%= partial 'layouts/site_header' %>
 
     <div class="page-content">
       <%= yield %>
@@ -54,7 +48,7 @@
               siteHeader.removeClass('site-header--active-scroll');
             }
           },
-          offset: 54
+          offset: 86
         });
       }
     </script>

@@ -6,15 +6,19 @@
   top: 0;
 }
 
-.site-header--active-scroll {
-  border-bottom: 1px solid darken($light-gray, 10%);
+.site-header--active-scroll:before {
+  border-bottom: 2px solid $site-header__underline-color;
+  bottom: 0;
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
 }
 
 .site-header__brand {
   @extend %container;
   box-sizing: border-box;
-  padding: 16px 20px;
-  text-align: right;
+  padding: 16px 20px 10px;
 }
 
 .site-header__link {
