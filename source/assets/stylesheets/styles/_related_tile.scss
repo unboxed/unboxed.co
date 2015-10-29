@@ -1,70 +1,27 @@
 .related-tile {
-  @include flexbox;
-  text-decoration: none;
-
-  &:hover .related-tile__text-content {
-    background-color: darken($related-tile__background-color, 6%);
-  }
-
-  &:first-of-type {
-    .related-tile__text-content {
-      border-bottom: 0;
-    }
-
-    @include breakpoint(max-width $tablet-breakpoint - 1) {
-      @include flex-direction(column-reverse);
-
-      .related-tile__image {
-        @include flex(0 0 auto);
-        width: 100%;
-        height: 240px;
-      }
-
-      .related-tile__title {
-        font-size: 1.5em;
-      }
-    }
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    @include flex-direction(column-reverse);
-    float: left;
-    width: 33.33%;
-
-    &:last-of-type .related-tile__text-content {
-      border-right: 0;
-    }
-  }
-}
-
-.related-tile__image {
-  @include flex(0 0 130px);
-  height: 130px;
-  object-fit: cover;
-  width: 130px;
-
-  @include breakpoint($tablet-breakpoint) {
-    @include flex(0 0 auto);
-    height: 150px;
-    width: 100%;
-  }
-}
-
-.related-tile__text-content {
-  @include flexbox;
-  @include flex-direction(column);
-  @include justify-content(space-between);
   background-color: $related-tile__background-color;
   border-bottom: 1px solid $light-gray;
   box-sizing: border-box;
-  padding: 16px;
+  display: block;
   min-height: 130px;
+  padding: 16px;
+  text-decoration: none;
   width: 100%;
+
+  &:hover {
+    background-color: darken($related-tile__background-color, 6%);
+  }
 
   @include breakpoint($tablet-breakpoint) {
     border-bottom: none;
     border-right: 1px solid $light-gray;
+    float: left;
     min-height: 160px;
+    width: 33.33%;
+
+    &:last-of-type {
+      border-right: 0;
+    }
   }
 }
 
