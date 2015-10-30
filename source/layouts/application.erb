@@ -32,25 +32,27 @@
   </head>
 
   <body>
-    <header class="site-header">
-      <div class="site-header__brand">
-        <a class="site-header__link" href="https://www.unboxedconsulting.com/">
-          Unboxed
-        </a>
-      </div>
-
-      <div class="site-navigation">
-        <div class="site-navigation__container">
-          <%= site_nav_link('Home', '/') %>
-          <%= site_nav_link('News', '/news') %>
-          <%= site_nav_link('Project stories', '/project-stories') %>
-          <%= site_nav_link('People', '/people') %>
-          <%= site_nav_link('Blog', '/blog') %>
-          <%= site_nav_link('Join Us', '/jobs') %>
-          <%= site_nav_link('Contact', '/contact') %>
+    <header class="site-header" data-site-header>
+      <div class="site-header__container">
+        <div class="site-brand">
+          <a class="site-brand__link" href="https://www.unboxedconsulting.com/">
+            Unboxed
+          </a>
         </div>
+
+        <div class="site-navigation">
+          <div class="site-navigation__container">
+            <%= site_nav_link('Home', '/') %>
+            <%= site_nav_link('News', '/news') %>
+            <%= site_nav_link('Project stories', '/project-stories') %>
+            <%= site_nav_link('People', '/people') %>
+            <%= site_nav_link('Blog', '/blog') %>
+            <%= site_nav_link('Join Us', '/jobs') %>
+            <%= site_nav_link('Contact', '/contact') %>
+          </div>
+        </div>
+      </header>
       </div>
-    </header>
 
     <div class="page-content">
       <%= yield %>
@@ -90,7 +92,7 @@
               siteHeader.removeClass('site-header--active-scroll');
             }
           },
-          offset: 86
+          offset: $('[data-site-header]').height()
         });
       }
     </script>

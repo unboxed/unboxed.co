@@ -3,6 +3,10 @@
   margin-top: 85px;
 
   @include breakpoint($tablet-breakpoint) {
-    margin-top: 95px;
+    margin-top: 105px;
+  }
+
+  @include breakpoint($max-tablet-container) {
+    margin-top: 64px;
   }
 }

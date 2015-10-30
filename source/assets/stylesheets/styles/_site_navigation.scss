@@ -6,10 +6,10 @@
 
   &:before {
     $gradient: linear-gradient(left, rgba(255,255,255,0) , rgba(255,255,255,1) 45%);
-    background: $gradient;
+    background: -webkit-#{$gradient};
     background: -moz-#{$gradient};
     background: -o-#{$gradient};
-    background: -webkit-#{$gradient};
+    background: $gradient;
     content: '';
     height: 37px;
     position: absolute;
@@ -28,6 +28,21 @@
     font-size: 27px;
     z-index: 2;
   }
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 47px;
+
+    &:after,
+    &:before {
+      content: none;
+      display: none;
+    }
+  }
+
+  @include breakpoint($max-tablet-container) {
+    height: 64px;
+    float: right;
+  }
 }
 
 .site-navigation__container {
@@ -37,6 +52,11 @@
   padding: 0 10px;
   position: relative;
   white-space: nowrap;
+
+  @include breakpoint($tablet-breakpoint) {
+    height: inherit;
+    overflow: auto;
+  }
 }
 
 .site-navigation__link {
@@ -63,6 +83,20 @@
 
   &:last-of-type {
     margin-right: 25px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1em;
+    padding: 14px 10px;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+
+  @include breakpoint($max-tablet-container) {
+    margin-top: 17px;
+    padding: 14px;
   }
 }
 
