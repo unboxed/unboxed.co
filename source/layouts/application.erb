@@ -43,7 +43,7 @@
     <script>
       var $waypointElement = $('[data-header-waypoint]');
 
-      if ($waypointElement) {
+      if ($waypointElement.length !== 0) {
         new Waypoint({
           element: $('[data-header-waypoint]'),
           handler: function(direction) {

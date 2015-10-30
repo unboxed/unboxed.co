@@ -115,23 +115,25 @@
   </div>
 
   <script>
-    // Apply CSS height to every iframe in correct ratio to it's current width
-    function resizeIframes() {
-      // Loop over every iframe on the page
-      $('iframe').each(function() {
-        // Get the iframe's intended aspect ratio via it's inline dimensions
-        var ratio = $(this).attr('height') / $(this).attr('width');
-        // Apply a CSS height that is in correct ratio to it's current width
-        $(this).css('height', $(this).width() * ratio);
+    var timer;
+    var $iframes = $('.blog-content iframe');
+
+    if ($iframes.length !== 0) {
+      function resizeIframes() {
+        $iframes.each(function() {
+          // Get the iframe's intended aspect ratio via it's inline dimensions
+          var ratio = $(this).attr('height') / $(this).attr('width');
+          // Apply a CSS height that is in correct ratio to it's current width
+          $(this).css('height', $(this).width() * ratio);
+        });
+      }
+
+      $(window).resize(function() {
+          clearTimeout(timer);
+          timer = setTimeout(resizeIframes, 100);
       });
-    }
 
-    // Pop off an initial resize when the page loads
-    resizeIframes();
-
-    // Update iframes each time the window is resized
-    $(window).resize(function() {
       resizeIframes();
-    });
+    }
   </script>
 <% end %>
