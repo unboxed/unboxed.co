@@ -32,7 +32,26 @@
   </head>
 
   <body>
-    <%= partial 'layouts/site_header' %>
+    <header class="site-header">
+      <div class="site-header__brand">
+        <a class="site-header__link" href="https://www.unboxedconsulting.com/">
+          Unboxed
+        </a>
+      </div>
+
+      <div class="site-navigation">
+        <div class="site-navigation__scroll-hint"></div>
+        <div class="site-navigation__container">
+          <a class="site-navigation__link" href="/">Home</a>
+          <a class="site-navigation__link" href="/news">News</a>
+          <a class="site-navigation__link" href="/project-stories">Project Stories</a>
+          <a class="site-navigation__link" href="/people">People</a>
+          <a class="site-navigation__link" href="/blog">Blog</a>
+          <a class="site-navigation__link" href="/jobs">Join Us</a>
+          <a class="site-navigation__link" href="/contact">Contact</a>
+        </div>
+      </div>
+    </header>
 
     <div class="page-content">
       <%= yield %>
