@@ -22,13 +22,8 @@ configure :development do
   activate :livereload
 end
 
-helpers do
-  def retina_src(path)
-    return %(src="#{path}") if path =~ /^http(s)?/
-    retina_path = path.gsub(/\./, '@2x.')
-    %(src="#{path}" srcset="#{retina_path} 2x")
-  end
-end
+require 'lib/helpers'
+helpers Helpers
 
 data.people.each do |person|
   proxy "blog/author/#{person.short_name}.html", "blog_author_grid.html",
