@@ -3,25 +3,30 @@
   height: 37px;
   overflow: hidden;
   position: relative;
-}
 
-.site-navigation__scroll-hint {
-  background: -webkit-gradient(linear, left top, right top,
-                color-stop(0%, rgba(255,255,255,0)),
-                color-stop(50%, rgba(255,255,255,1))
-              );
-  height: 37px;
-  padding-left: 30px;
-  padding-right: 10px;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: 2;
+  &:before {
+    $gradient: linear-gradient(left, rgba(255,255,255,0) , rgba(255,255,255,1) 45%);
+    background: $gradient;
+    background: -moz-#{$gradient};
+    background: -o-#{$gradient};
+    background: -webkit-#{$gradient};
+    content: '';
+    height: 37px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 40px;
+    z-index: 2;
+  }
 
   &:after {
+    position: absolute;
+    right: 8px;
+    top: 0;
     color: lighten($site-navigation__link-color, 40%);
     content: '›';
     font-size: 27px;
+    z-index: 2;
   }
 }
 
@@ -57,7 +62,7 @@
   }
 
   &:last-of-type {
-    margin-right: 35px;
+    margin-right: 25px;
   }
 }
 
