@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-05-13 21:20:00 UTC"
 published: true
 title: "Dealing with a moving target"

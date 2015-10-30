@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2012-11-26 18:25:00 UTC"
 published: true
 title: "Installing Sphinx 0.9 on Mountain Lion using Homebrew"

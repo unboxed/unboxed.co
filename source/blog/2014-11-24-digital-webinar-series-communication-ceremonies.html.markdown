@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-11-24 10:58:00 UTC"
 published: true
 title: "Digital Webinar Series: Communication Ceremonies"

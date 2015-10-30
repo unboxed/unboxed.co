@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2013-02-28 09:31:00 UTC"
 published: true
 title: "SA UX Forum: Mobile UX"

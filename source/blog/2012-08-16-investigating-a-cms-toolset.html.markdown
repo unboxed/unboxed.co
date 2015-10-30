@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2012-08-16 15:39:00 UTC"
 published: true
 title: "Investigating a CMS Toolset"

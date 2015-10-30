@@ -1,5 +1,4 @@
 ---
-layout: 'blog_article'
 title: 'Product Management versus Product Ownership'
 date: '2015-10-12 11:00:00 UTC'
 author: 'Martyn Evans'

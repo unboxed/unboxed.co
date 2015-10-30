@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-02-17 17:41:00 UTC"
 published: true
 title: "Git rebase"

@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-10-15 00:00:00 UTC"
 published: true
 title: "New version of Planning Poker for iPhone, iPod touch and iPad"

@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-10-10 11:47:00 UTC"
 published: true
 title: "Filling Gaps"

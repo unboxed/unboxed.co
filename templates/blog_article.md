@@ -1,5 +1,4 @@
 ---
-layout: 'blog_article'
 title: '<%= @title %>'
 date: '<%= @date %>'
 author: ''

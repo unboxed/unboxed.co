@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2009-10-22 00:00:00 UTC"
 published: true
 title: "Less is More"

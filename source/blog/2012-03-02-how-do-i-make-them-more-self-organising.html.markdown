@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2012-03-02 13:23:00 UTC"
 published: true
 title: "How do I make my Agile Team more self-organising?"

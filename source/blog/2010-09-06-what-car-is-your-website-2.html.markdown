@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-09-06 00:00:00 UTC"
 published: true
 title: "What car is your website?"

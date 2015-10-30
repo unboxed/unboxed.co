@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-10-13 10:55:00 UTC"
 published: true
 title: "Cognitive Bias, Product Management and you"

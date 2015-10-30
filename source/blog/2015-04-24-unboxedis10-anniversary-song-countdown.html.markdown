@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2015-04-24 12:00:00 UTC"
 published: true
 title: "Unboxedis10 anniversary song countdown"

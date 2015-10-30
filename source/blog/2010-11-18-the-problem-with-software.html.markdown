@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-11-18 00:00:00 UTC"
 published: true
 title: "The problem with software"

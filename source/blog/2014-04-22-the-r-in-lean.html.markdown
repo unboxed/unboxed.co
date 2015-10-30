@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-04-22 14:38:00 UTC"
 published: true
 title: "The \"r\" in lean"

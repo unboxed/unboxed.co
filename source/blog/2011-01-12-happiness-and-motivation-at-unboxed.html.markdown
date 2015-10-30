@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-01-12 10:38:00 UTC"
 published: true
 title: "Happiness and motivation"

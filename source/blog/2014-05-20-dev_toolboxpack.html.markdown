@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-05-20 11:58:00 UTC"
 published: true
 title: "dev_toolbox.pack()"

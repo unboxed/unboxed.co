@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-04-15 14:28:00 UTC"
 published: true
 title: "OpenSSL::SSL::SSLError: certificate verify failed "

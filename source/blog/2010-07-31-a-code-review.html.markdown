@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-07-31 00:00:00 UTC"
 published: true
 title: "A++ code review"

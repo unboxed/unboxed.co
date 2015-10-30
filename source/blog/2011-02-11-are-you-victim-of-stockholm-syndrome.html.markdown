@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-02-11 17:15:00 UTC"
 published: true
 title: "Are you victim of Stockholm syndrome?"

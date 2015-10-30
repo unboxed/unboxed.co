@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2013-02-06 10:06:00 UTC"
 published: true
 title: "Three common misconceptions about Agile in the public sector "

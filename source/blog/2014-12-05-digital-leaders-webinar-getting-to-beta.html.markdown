@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-12-05 11:26:00 UTC"
 published: true
 title: "Digital Leaders Webinar: Getting to Beta"

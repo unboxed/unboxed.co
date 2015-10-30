@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-04-28 15:06:00 UTC"
 published: true
 title: "Icon or Ican't be bothered."

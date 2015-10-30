@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-08-06 14:50:00 UTC"
 published: true
 title: "Lean Machine"

@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2015-04-21 09:15:00 UTC"
 published: true
 title: "The future of digital products and how we’ll design them in the future"

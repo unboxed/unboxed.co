@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-08-10 00:00:00 UTC"
 published: true
 title: "The abominable Rails 3 snowman doesn't like Rack-Test"

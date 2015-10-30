@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2015-06-24 14:00:00 UTC"
 published: true
 title: "Corporate to Unboxed, Part 2 - Advanced Scrum Master Training"

@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-08-20 00:00:00 UTC"
 published: true
 title: "I'm not working"
