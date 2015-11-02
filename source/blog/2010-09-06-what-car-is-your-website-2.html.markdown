@@ -7,8 +7,6 @@ tags:
   - Rails
 ---
 
-<p><img alt="A purple car" width="388" height="250" src="/uploads/Image/iStock_000002901349XSmall.jpg" /></p>
-<p>
 <p>I was driving the family back from Lucca in Tuscany to catch our flight from Genova when a thought struck me. Car manufacturers segment their markets looking for large niches. &nbsp;Large enough to attract enough customers worldwide but unique enough to differentiate themselves from the competition. &nbsp;I have sat with customers as they try to define the tone and style of their website. We often work with customers who are building a website from scratch so we are working from a blank canvas which in some ways makes things easier but usually the brand identity and site functionality emerge together.&nbsp;</p>
 <p>&ldquo;We want a quality brand and we want that to come across in our website&rdquo; our customer will say. This is where my new idea comes in.</p>
 <p>&ldquo;If your site was a car, what car would it be and what colour would it be?&rdquo; I proffer.&nbsp;</p>

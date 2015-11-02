@@ -8,7 +8,6 @@ tags:
   - Rails
 ---
 
-<p><img alt="" height="333" src="/uploads/Image/iphone_with_code.jpg" width="250" /></p>
 <p>Developing for the iPhone can be quite fun. You get very mature frameworks to work with that do an extensive use of design patterns and you also get a fancy an highly tuned platform to play with.<br />
 <br />
 But there&#39;s something I&#39;m missing from the ruby community: the must test culture. If you have a look at some of the cocoa open source projects pages on the Internet you&#39;ll find very hard to find fully or even partially unit tested apps. The community seems to lack that culture that makes ruby developers test. I don&#39;t believe this is due to language specifics. For example ruby doesn&#39;t check the types or doesn&#39;t have a compiler to look after you. That&#39;s just the blue print. You also need to test the bulk of your application. Thus, In my opinion the real and simple reason of this differences are trends, fashions, people looking at you dodgy because you didn&#39;t write tests or even people making you feel cool because you did write tests. &nbsp;Communities are big creatures with a lot of power but hard to put in motion.<br />

@@ -7,7 +7,6 @@ tags:
   - Rails
 ---
 
-<p><img alt="" height="563" src="/uploads/Image/Appetite-for-Agile.jpg" width="358" /></p>
 <p>This week I&rsquo;ve been musing over the most expensive, and delayed record in music history, the (sort of) Guns n&rsquo; Roses album Chinese Democracy.<br />
 <br />
 &lsquo;Sort of&rsquo; because it&rsquo;s not really Gn&rsquo;R at all, it&rsquo;s the band&rsquo;s last and only member, crazy-ego-maniac singer Axl Rose, and a cast of pretty much every session musician and hard rock guitarist working today... and Brian May.<br />

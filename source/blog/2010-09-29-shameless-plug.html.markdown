@@ -7,8 +7,6 @@ tags:
   - Rails
 ---
 
-<p><img alt="" height="321" src="/uploads/Image/Plug%20Smaller.jpg" width="358" /></p>
-
 <p>When it comes to marketing your company, sometimes the same old-school avenues and techniques to achieve commercial success seem a bit tired and gauche within an increasingly savvy (and dare I say cynical) industry. So why not take a small risk and have a lot of fun with some interesting new marketing ideas...<br />
 <br />
 I&rsquo;m not <em>necessarily</em> talking about a covert guerrilla campaign, or a giant hot air balloon in the shape of your logo, and I don&rsquo;t think we should all sneak out at bedtime and tag the highstreet like Banksy... but shaking it up a bit could be the secret to successfully separating you from the rest of the pack.<br />

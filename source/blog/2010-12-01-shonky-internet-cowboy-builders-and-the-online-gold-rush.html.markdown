@@ -7,7 +7,6 @@ tags:
   - Rails
 ---
 
-<p><img alt="" height="227" src="/uploads/Image/Shonky-Internet.jpg" width="356" /></p>
 <p>When I bite into my apple, I don&#39;t expect a cheeky worm to be wriggling around inside. I don&#39;t expect the wheels to fall off my speeding bicycle, I don&#39;t like it when shoes fall apart on the first wear, and I hate when my parachute doesn&#39;t open when I yank the cord.<br />
 <br />
 These pet hates, regarding faulty products and rubbish services - most people would agree - are unacceptable lapses in quality control and consumer care.<br />
