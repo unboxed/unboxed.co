@@ -53,10 +53,12 @@
   padding: 0 10px;
   position: relative;
   white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
 
   @include breakpoint($tablet-breakpoint) {
     height: inherit;
     overflow: auto;
+    -webkit-overflow-scrolling: auto;
   }
 }
 
