@@ -1,10 +1,6 @@
 .blog-article {
+  @extend %page-content-margins;
   background-color: $blog-article__background-color;
-  margin-top: 85px;
-
-  @include breakpoint($tablet-breakpoint) {
-    margin-top: 95px;
-  }
 }
 
 .blog-article__container {

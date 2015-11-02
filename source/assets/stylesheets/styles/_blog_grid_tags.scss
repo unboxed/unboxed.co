@@ -5,6 +5,6 @@
   @include breakpoint($tablet-breakpoint) {
     display: block;
     box-sizing: border-box;
-    padding: 20px;
+    padding: 0 20px 20px;
   }
 }

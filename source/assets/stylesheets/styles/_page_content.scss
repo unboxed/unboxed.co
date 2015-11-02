@@ -1,5 +1,4 @@
-.page-content {
-  background: $page-content__background-color;
+%page-content-margins {
   margin-top: 85px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -9,4 +8,9 @@
   @include breakpoint($max-tablet-container) {
     margin-top: 64px;
   }
+}
+
+.page-content {
+  @extend %page-content-margins;
+  background-color: $page-content__background-color;
 }

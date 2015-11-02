@@ -15,6 +15,11 @@
   width: 100%;
 }
 
+.site-header--blog {
+  @extend .site-header;
+  @extend .site-header--active-scroll;
+}
+
 .site-header__container {
   @extend %container;
 }
