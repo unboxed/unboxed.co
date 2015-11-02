@@ -67,6 +67,7 @@
   padding: 10px;
   position: relative;
   text-decoration: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
 
   &:hover {
     color: $site-navigation__link-color--active;
