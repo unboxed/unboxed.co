@@ -1,7 +1,7 @@
 ---
 date: "2015-02-26 13:04:00 UTC"
 published: true
-title: "Digital Healthcare Roundtable Session"
+title: "Roundtable: Digital Healthcare"
 author: "Graeme McCubbin"
 
 ---

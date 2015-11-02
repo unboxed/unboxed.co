@@ -1,7 +1,7 @@
 ---
 date: "2014-10-27 12:08:00 UTC"
 published: true
-title: "Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
+title: "Event: Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
 author: "Graeme McCubbin"
 tags:
   - Agile
