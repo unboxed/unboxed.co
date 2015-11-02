@@ -5,6 +5,7 @@
   position: relative;
 
   &:before {
+    background-image: url(/assets/images/site-navigation-gradient.png);
     $gradient: linear-gradient(left, rgba(255,255,255,0) , rgba(255,255,255,1) 45%);
     background: -webkit-#{$gradient};
     background: -moz-#{$gradient};
