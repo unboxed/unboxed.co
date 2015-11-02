@@ -71,11 +71,6 @@
   text-decoration: none;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 
-  &:hover {
-    color: $site-navigation__link-color--active;
-    border-bottom: 3px solid $site-navigation__underline-color--active;
-  }
-
   &:last-of-type {
     margin-right: 25px;
   }
@@ -93,6 +88,11 @@
     margin-top: 17px;
     padding: 14px;
   }
+}
+
+html:not(.ios-device) .site-navigation__link:hover {
+  color: $site-navigation__link-color--active;
+  border-bottom: 3px solid $site-navigation__underline-color--active;
 }
 
 .site-navigation__link--active {

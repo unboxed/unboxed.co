@@ -95,6 +95,10 @@
           offset: $('[data-site-header]').height()
         });
       }
+
+      if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
+        document.documentElement.className += " ios-device";
+      }
     </script>
   </body>
 </html>
