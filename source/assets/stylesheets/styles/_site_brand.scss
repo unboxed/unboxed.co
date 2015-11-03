@@ -3,7 +3,7 @@
   box-sizing: border-box;
   padding: 16px 20px 10px;
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($tablet-breakpoint) {
     float: left;
     padding: 16px 20px;
   }
@@ -17,7 +17,7 @@
   text-decoration: none;
   text-transform: lowercase;
 
-  @include breakpoint($tablet-breakpoint) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: 2em;
   }
 }

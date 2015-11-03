@@ -39,11 +39,6 @@
       display: none;
     }
   }
-
-  @include breakpoint($max-tablet-container) {
-    height: 64px;
-    float: right;
-  }
 }
 
 .site-navigation__container {
@@ -82,11 +77,6 @@
     &:last-of-type {
       margin-right: 0;
     }
-  }
-
-  @include breakpoint($max-tablet-container) {
-    margin-top: 17px;
-    padding: 14px;
   }
 }
 

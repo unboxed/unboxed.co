@@ -3,7 +3,7 @@
   max-width: $max-mobile-container;
 
   @include breakpoint($tablet-breakpoint) {
-    max-width: $max-tablet-container;
+    max-width: $desktop-breakpoint;
   }
 }
 

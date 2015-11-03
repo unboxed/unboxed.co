@@ -5,7 +5,7 @@
     margin-top: 105px;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     margin-top: 64px;
   }
 }
