@@ -1,6 +1,7 @@
 .site-navigation {
-  @extend %container;
   height: 37px;
+  margin: 0 auto;
+  max-width: $max-mobile-container;
   overflow: hidden;
   position: relative;
 
@@ -31,7 +32,11 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    height: 47px;
+    bottom: 0;
+    height: auto;
+    max-width: none;
+    position: absolute;
+    right: 0;
 
     &:after,
     &:before {
@@ -71,12 +76,17 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 1em;
-    padding: 14px 10px;
+    font-size: 0.8em;
+    padding: 14px 12px;
 
     &:last-of-type {
       margin-right: 0;
     }
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1em;
+    padding: 16px 14px;
   }
 }
 

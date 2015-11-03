@@ -22,4 +22,9 @@
 
 .site-header__container {
   @extend %container;
+
+  @include breakpoint($tablet-breakpoint) {
+    overflow: auto;
+    position: relative;
+  }
 }
