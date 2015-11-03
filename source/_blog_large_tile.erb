@@ -1,10 +1,8 @@
 <a class="blog-tile blog-large-tile" href="<%= article.url %>">
   <div class="blog-large-tile__container">
-    <% if article.data.main_image %>
-      <div class="blog-large-tile__article-image-container">
-        <img class="blog-large-tile__article-image" src="<%= article.data.main_image %>" alt="Article image">
-      </div>
-    <% end %>
+    <div class="blog-large-tile__article-image-container">
+      <img class="blog-large-tile__article-image" src="<%= article.data.main_image %>" alt="Article image">
+    </div>
 
     <div class="blog-large-tile__top-content">
       <div class="blog-large-tile__title">

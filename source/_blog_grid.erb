@@ -3,10 +3,10 @@
   <% articles.each do |article| %>
     <% if article.data.weekly_roundup %>
       <%= partial 'blog_small_tile', locals: { article: article } %>
-    <% elsif article.data.main_image %>
-      <%= partial 'blog_large_tile', locals: { article: article } %>
-    <% else %>
+    <% elsif article.data.main_image.to_s.empty? %>
       <%= partial 'blog_medium_tile', locals: { article: article } %>
+    <% else %>
+      <%= partial 'blog_large_tile', locals: { article: article } %>
     <% end %>
   <% end %>
 </div>
