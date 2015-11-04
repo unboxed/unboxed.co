@@ -3,6 +3,8 @@ date: "2013-02-28 14:35:00 UTC"
 published: true
 title: "Five Cardinal Sins of Agile that the public sector can learn from"
 author: "Richard Stobart"
+tags:
+  - Agile
 
 ---
 

@@ -3,6 +3,8 @@ date: "2013-03-15 10:18:00 UTC"
 published: true
 title: "Rich Archer's talk at Cape Town Front End Developers"
 author: "Steve Barnett"
+tags:
+  - Culture
 
 ---
 

@@ -3,6 +3,8 @@ date: "2015-06-09 08:30:00 UTC"
 published: true
 title: "Corporate to Unboxed, a Project Manager’s journey to Scrum Master - Part 1"
 author: "Matt Turrell"
+tags:
+  - Culture
 
 ---
 

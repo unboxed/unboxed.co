@@ -4,6 +4,8 @@ date: "2014-03-10 07:21:00 UTC"
 published: true
 title: "Because Friday newsletters are overrated"
 author: "Richard Archer"
+tags:
+  - Culture
 
 ---
 

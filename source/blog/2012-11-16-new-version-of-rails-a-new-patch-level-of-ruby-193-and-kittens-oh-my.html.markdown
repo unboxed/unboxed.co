@@ -4,6 +4,9 @@ date: "2012-11-16 18:19:00 UTC"
 published: true
 title: "New version of Rails, a new patch level of Ruby 1.9.3 and kittens, oh my!"
 author: "Attila Gyorffy"
+tags:
+  - Culture
+  - Rails
 
 ---
 

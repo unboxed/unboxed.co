@@ -3,6 +3,8 @@ date: "2013-03-12 10:00:00 UTC"
 published: true
 title: "Five facilitation techniques for promoting Agile for government"
 author: "Richard Stobart"
+tags:
+  - Agile
 
 ---
 

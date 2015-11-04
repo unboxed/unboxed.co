@@ -3,6 +3,8 @@ date: "2014-09-02 09:44:00 UTC"
 published: true
 title: "Only fools rush in"
 author: "Pedro Moreira"
+tags:
+  - Rails
 
 ---
 

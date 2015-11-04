@@ -3,6 +3,9 @@ date: "2014-09-18 14:22:00 UTC"
 published: true
 title: "Summer Unboxin' had me a blast"
 author: "Graeme McCubbin"
+tags:
+  - Culture
+  - Innovation
 
 ---
 

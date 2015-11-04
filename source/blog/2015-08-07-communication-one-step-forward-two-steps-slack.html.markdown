@@ -4,6 +4,8 @@ published: true
 title: "Communication - One Step Forward, Two Steps Slack?"
 author: "Chris Carter"
 main_image: "http://bit.ly/1T7CAl0"
+tags:
+  - Culture
 
 ---
 

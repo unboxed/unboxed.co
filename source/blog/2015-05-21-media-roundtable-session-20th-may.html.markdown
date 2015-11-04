@@ -3,6 +3,9 @@ date: "2015-05-21 15:00:00 UTC"
 published: true
 title: "Roundtable: Leading the transition to Agile in established media companies"
 author: "Graeme McCubbin"
+tags:
+  - Agile
+  - Culture
 
 ---
 

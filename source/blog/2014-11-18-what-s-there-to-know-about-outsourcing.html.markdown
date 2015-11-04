@@ -3,6 +3,9 @@ date: "2014-11-18 12:03:00 UTC"
 published: true
 title: "Event: What is there to know about outsourcing?"
 author: "Richard Stobart"
+tags:
+  - Agile
+  - Culture
 
 ---
 
