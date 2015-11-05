@@ -7,15 +7,15 @@
     color: $blog-comments__link-color;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     margin: 0 auto;
-    max-width: $max-tablet-container;
+    max-width: $desktop-breakpoint;
     padding: 0;
   }
 }
 
 .blog-comments__container {
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     padding: 30px;
   }
 }

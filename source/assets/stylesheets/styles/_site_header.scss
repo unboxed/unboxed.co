@@ -6,26 +6,25 @@
   top: 0;
 }
 
-.site-header--active-scroll {
-  border-bottom: 1px solid darken($light-gray, 10%);
+.site-header--active-scroll:before {
+  border-bottom: 2px solid $site-header__underline-color;
+  bottom: 0;
+  content: "";
+  display: block;
+  position: absolute;
+  width: 100%;
 }
 
-.site-header__brand {
+.site-header--blog {
+  @extend .site-header;
+  @extend .site-header--active-scroll;
+}
+
+.site-header__container {
   @extend %container;
-  box-sizing: border-box;
-  padding: 16px 20px;
-  text-align: right;
-}
-
-.site-header__link {
-  color: $site-header__brand-color;
-  font-family: 'Helvetica Neue', 'Open Sans', 'Helvetica', sans-serif;
-  font-size: 1.4em;
-  font-weight: 200;
-  text-decoration: none;
-  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 2em;
+    overflow: auto;
+    position: relative;
   }
 }

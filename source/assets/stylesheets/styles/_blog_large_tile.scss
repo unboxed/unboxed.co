@@ -54,7 +54,7 @@
     margin-bottom: 6px;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: 1.3em;
   }
 }
@@ -69,7 +69,7 @@
     font-size: 1.335vw;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: .8em;
   }
 }
@@ -82,7 +82,7 @@
     font-size: 1.335vw;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: .8em;
   }
 }
@@ -99,7 +99,7 @@
     font-size: 1.7vw;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: 1.02em;
   }
 }

@@ -38,7 +38,7 @@
     line-height: 1.2;
     margin-bottom: 20px;
 
-    @include breakpoint($max-tablet-container) {
+    @include breakpoint($desktop-breakpoint) {
       font-size: 1.2em;
     }
   }
