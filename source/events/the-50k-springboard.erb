@@ -58,7 +58,7 @@ speakers:
     <div class="event__detail">
       <i class="fa fa-users event__detail-icon"></i>
       <div>
-        <h3>
+        <h3 class="event__detail-title">
           <%= current_page.data.who_should_attend_title %>
         </h3>
         <p>
@@ -70,17 +70,17 @@ speakers:
     <time class="event__detail" datetime="<%= current_page.data.date_time %>">
       <i class="fa fa-calendar event__detail-icon"></i>
       <div>
-        <div>
+        <h3 class="event__detail-title">
           <%= current_page.data.date %>
-        </div>
-        <div>
+        </h3>
+        <p>
           <%= current_page.data.time %>
-        </div>
+        </p>
       </div>
     </time>
   </div>
 
-  <a class="event-location" href="https://www.google.com/maps/place/<%= current_page.data.location %>/">
+  <a class="event-location" href="https://www.google.com/maps/place/<%= current_page.data.location %>/" data-header-waypoint>
     <img class="event-location__map" src="http://maps.googleapis.com/maps/api/staticmap?size=375x100&markers=color:red%7C<%= current_page.data.location %>&sensor=false&scale=2" alt="Google Map of <%= current_page.data.location %>" target="_blank">
     <div class="event-location__overlay">
       <i class="fa fa-map-marker event-location__pin"></i>
