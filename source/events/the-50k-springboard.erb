@@ -96,14 +96,15 @@ speakers:
       <span class="event__cta-price"><%= current_page.data.cta.price %></span>
     </a>
 
-    <p>
+    <p class="event-content__text">
       <%= current_page.data.content.introduction %>
     </p>
 
-    <h4>
-      <%= current_page.data.content.find_out_title %>
+    <h4 class="event-content__title">
+      <%= current_page.data.content.find_out_title %>:
     </h4>
-    <ul>
+
+    <ul class="event-content__list">
       <% current_page.data.content.find_out.each do |item| %>
         <li>
           <%= item %>
@@ -111,10 +112,11 @@ speakers:
       <% end %>
     </ul>
 
-    <h4>
-      <%= current_page.data.content.responsible_for_title %>
+    <h4 class="event-content__title">
+      <%= current_page.data.content.responsible_for_title %>:
     </h4>
-    <ul>
+
+    <ul class="event-content__list">
       <% current_page.data.content.responsible_for.each do |item| %>
         <li>
           <%= item %>

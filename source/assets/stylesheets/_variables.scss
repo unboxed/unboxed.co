@@ -7,6 +7,7 @@ $desktop-breakpoint: 960px;
 // Colour palette
 $blue: #5993c6;
 $dark-purple: #3B0737;
+$another-purple: #7F2F7F; // we have 4 purples :(
 $medium-purple: #8F0B8A;
 $light-purple: #9F2B9A;
 $peach: #DD353C;
@@ -31,6 +32,14 @@ $social-icon__background-color: $medium-gray;
 $site-navigation__link-color: $medium-gray;
 $site-navigation__link-color--active: $medium-purple;
 $site-navigation__underline-color--active: $medium-purple;
+
+// Events
+$event__background-color: $white;
+$event__subtitle-color: $dark-gray;
+$event__detail-text-color: $medium-gray;
+$event__cta-background-color: $another-purple;
+$event__cta-text-color: $white;
+$event__text-color: $black;
 
 // Project story
 $page-header__background-color: $white;

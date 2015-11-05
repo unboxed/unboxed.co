@@ -1,5 +1,5 @@
 .event {
-  background-color: $white;
+  background-color: $event__background-color;
 }
 
 .event__container {
@@ -15,7 +15,7 @@
 }
 
 .event__subtitle {
-  color: $dark-gray;
+  color: $event__subtitle-color;
   font-size: 1.4em;
   font-weight: 200;
   line-height: 1.2em;
@@ -25,7 +25,7 @@
   @include align-items(center);
   @include flex-flow(center);
   @include flexbox;
-  color: $medium-gray;
+  color: $event__detail-text-color;
   font-size: 0.9em;
   line-height: 1.2em;
   margin-top: 20px;
@@ -36,7 +36,7 @@
 }
 
 .event__cta {
-  background-color: #7F2F7F; // we have 4 purples :(
+  background-color: $event__cta-background-color;
   text-align: center;
   padding: 16px 20px;
   box-sizing: border-box;
@@ -47,11 +47,11 @@
 }
 
 .event__cta-text {
-  color: $white;
+  color: $event__cta-text-color;
   font-weight: 600;
 }
 
 .event__cta-price {
-  color: $light-gray;
+  color: $event__cta-text-color;
   font-weight: 400;
 }
