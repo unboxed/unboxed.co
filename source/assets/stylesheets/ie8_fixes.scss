@@ -25,3 +25,8 @@
   margin: 0 auto;
   max-width: $max-mobile-container;
 }
+
+// Flexbox is not supported, fallback to block element
+.event__detail {
+  display: block;
+}
