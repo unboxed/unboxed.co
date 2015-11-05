@@ -10,9 +10,12 @@ who_should_attend:
 
 date: "Monday 30th November"
 time: "9am for 9.30am – 12.00pm"
+date_time: "2015-11-30 09:00"
 location: "Adam House, 7-10 Adam Street, London, WC2N 6AA"
-cta_text: "Get my place"
-cta_price: "for £95.00 + VAT"
+cta:
+  text: "Get my place"
+  price: "for £95.00 + VAT"
+  url: ""
 
 content:
   introduction: "How do you prove the concept for a large, new digital product and unlock a full budget, with just the first signed-off £50k... especially when you’re using Agile? Hear from those who have tried, tested and succeeded in doing so - Reed Learning, NHS SH:24 and BBC."
@@ -40,3 +43,84 @@ speakers:
 ---
 
 <% content_for(:title) { "Event - #{current_page.data.title}" } %>
+
+<div class="event">
+  <div class="event__container">
+    <h1 class="event__title">
+      <%= current_page.data.title %>:
+    </h1>
+
+    <h2 class="event__subtitle">
+      <%= current_page.data.subtitle %>
+    </h2>
+
+
+    <div class="event__detail">
+      <i class="fa fa-users event__detail-icon"></i>
+      <div>
+        <h3>
+          <%= current_page.data.who_should_attend_title %>
+        </h3>
+        <p>
+          <%= current_page.data.who_should_attend.join(', ') %>
+        </p>
+      </div>
+    </div>
+
+    <time class="event__detail" datetime="<%= current_page.data.date_time %>">
+      <i class="fa fa-calendar event__detail-icon"></i>
+      <div>
+        <div>
+          <%= current_page.data.date %>
+        </div>
+        <div>
+          <%= current_page.data.time %>
+        </div>
+      </div>
+    </time>
+  </div>
+
+  <a class="event-location" href="https://www.google.com/maps/place/<%= current_page.data.location %>/">
+    <img class="event-location__map" src="http://maps.googleapis.com/maps/api/staticmap?size=375x100&markers=color:red%7C<%= current_page.data.location %>&sensor=false&scale=2" alt="Google Map of <%= current_page.data.location %>" target="_blank">
+    <div class="event-location__overlay">
+      <i class="fa fa-map-marker event-location__pin"></i>
+      <address class="event-location__address">
+        <%= current_page.data.location %>
+      </address>
+    </div>
+  </a>
+
+  <div class="event__container">
+    <a class="event__cta" href="<%= current_page.data.cta.url %>">
+      <span class="event__cta-text"><%= current_page.data.cta.text %></span>
+      <span class="event__cta-price"><%= current_page.data.cta.price %></span>
+    </a>
+
+    <p>
+      <%= current_page.data.content.introduction %>
+    </p>
+
+    <h4>
+      <%= current_page.data.content.find_out_title %>
+    </h4>
+    <ul>
+      <% current_page.data.content.find_out.each do |item| %>
+        <li>
+          <%= item %>
+        </li>
+      <% end %>
+    </ul>
+
+    <h4>
+      <%= current_page.data.content.responsible_for_title %>
+    </h4>
+    <ul>
+      <% current_page.data.content.responsible_for.each do |item| %>
+        <li>
+          <%= item %>
+        </li>
+      <% end %>
+    </ul>
+  </div>
+</div>
+

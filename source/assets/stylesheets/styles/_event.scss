@@ -1,0 +1,57 @@
+.event {
+  background-color: $white;
+}
+
+.event__container {
+  @extend %container;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.event__title {
+  font-size: 1.4em;
+  font-weight: 400;
+  line-height: 1.2em;
+}
+
+.event__subtitle {
+  color: $dark-gray;
+  font-size: 1.4em;
+  font-weight: 200;
+  line-height: 1.2em;
+}
+
+.event__detail {
+  @include align-items(center);
+  @include flex-flow(center);
+  @include flexbox;
+  color: $medium-gray;
+  font-size: 0.9em;
+  line-height: 1.2em;
+  margin-top: 20px;
+}
+
+.event__detail-icon {
+  padding-right: 14px;
+}
+
+.event__cta {
+  background-color: #7F2F7F; // we have 4 purples :(
+  text-align: center;
+  padding: 16px 20px;
+  box-sizing: border-box;
+  width: 100%;
+  display: block;
+  text-decoration: none;
+  margin-bottom: 40px;
+}
+
+.event__cta-text {
+  color: $white;
+  font-weight: 600;
+}
+
+.event__cta-price {
+  color: $light-gray;
+  font-weight: 400;
+}
