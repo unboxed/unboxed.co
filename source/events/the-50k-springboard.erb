@@ -36,10 +36,21 @@ content:
     - "Creating the business case for a significant development budget"
 
 speakers:
-  - name: ""
-    role: ""
-    twitter: ""
-    bio: ""
+  - name: "Chris Howroyd"
+    role: "Role"
+    twitter: "chrishowroyd"
+    image: "https://placeimg.com/100/100/animals/2"
+    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sequi tenetur ea itaque necessitatibus incidunt reiciendis ratione perferendis sunt vel harum enim officiis facere iste veniam nulla, delectus, illo quisquam!"
+  - name: "Melissa Sabello"
+    role: "Role"
+    twitter: "???"
+    image: "https://placeimg.com/100/100/animals/4"
+    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sequi tenetur ea itaque necessitatibus incidunt reiciendis ratione perferendis sunt vel harum enim officiis facere iste veniam nulla, delectus, illo quisquam!"
+  - name: "Rich Atherton"
+    role: "Role"
+    twitter: "rathertonrich"
+    image: "https://placeimg.com/100/100/animals/5"
+    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sequi tenetur ea itaque necessitatibus incidunt reiciendis ratione perferendis sunt vel harum enim officiis facere iste veniam nulla, delectus, illo quisquam!"
 
 questions:
   title: "Any questions?"
@@ -135,6 +146,33 @@ questions:
         <% end %>
       </ul>
     </div>
+
+    <h4 class="event-content__title event-speaker__title">
+      Speakers
+    </h4>
+
+    <% current_page.data.speakers.each do |speaker| %>
+      <div class="event-speaker">
+        <div class="event-speaker__info">
+          <img class="event-speaker__image" src="<%= speaker.image %>" alt="<%= speaker.name %>">
+          <div>
+            <div class="event-speaker__info-text">
+              <%= speaker.name %>
+            </div>
+            <div class="event-speaker__info-text">
+              <%= speaker.role %>
+            </div>
+            <a class="event-speaker__twitter" href="https://twitter.com/intent/user?screen_name=<%= speaker.twitter %>">
+              @<%= speaker.twitter %>
+            </a>
+          </div>
+        </div>
+
+        <div class="event-speaker__text">
+          <%= speaker.bio %>
+        </div>
+      </div>
+    <% end %>
 
     <a class="event__cta" href="<%= current_page.data.cta.url %>">
       <span class="event__cta-text"><%= current_page.data.cta.text %></span>

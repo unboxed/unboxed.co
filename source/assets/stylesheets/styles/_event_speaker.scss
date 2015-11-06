@@ -1,0 +1,44 @@
+.event-speaker {
+  border-bottom: 1px solid darken($light-gray, 5%);
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+.event-speaker__title {
+  border-top: 1px solid darken($light-gray, 5%);
+  padding-top: 20px;
+}
+
+.event-speaker__info {
+  @include flexbox;
+  @include align-items(center);
+  margin-bottom: 20px;
+}
+
+.event-speaker__image {
+  display: block;
+  height: 100px;
+  margin-right: 20px;
+  width: 100px;
+}
+
+.event-speaker__info-text {
+  color: $event__text-color;
+  font-size: 1em;
+  font-weight: 100;
+  line-height: 1.6;
+}
+
+.event-speaker__twitter {
+  color: $event__text-color;
+  font-size: 1em;
+  font-weight: 100;
+  line-height: 1.6;
+}
+
+.event-speaker__text {
+  color: $event__text-color;
+  font-size: 1em;
+  font-weight: 100;
+  line-height: 1.3;
+}
