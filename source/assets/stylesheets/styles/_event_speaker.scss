@@ -2,6 +2,12 @@
   border-bottom: 1px solid darken($light-gray, 5%);
   margin-bottom: 20px;
   padding-bottom: 20px;
+
+  &:last-of-type {
+    border-bottom: 0;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+  }
 }
 
 .event-speaker__title {

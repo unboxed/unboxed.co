@@ -111,12 +111,12 @@ questions:
     </div>
   </a>
 
-  <div class="event__container">
-    <a class="event__cta" href="<%= current_page.data.cta.url %>">
-      <span class="event__cta-text"><%= current_page.data.cta.text %></span>
-      <span class="event__cta-price"><%= current_page.data.cta.price %></span>
-    </a>
+  <a class="event__cta" href="<%= current_page.data.cta.url %>">
+    <span class="event__cta-text"><%= current_page.data.cta.text %></span>
+    <span class="event__cta-price"><%= current_page.data.cta.price %></span>
+  </a>
 
+  <div class="event__container">
     <div class="event-content">
       <p class="event-content__text">
         <%= current_page.data.content.introduction %>
@@ -173,12 +173,14 @@ questions:
         </div>
       </div>
     <% end %>
+  </div>
 
-    <a class="event__cta" href="<%= current_page.data.cta.url %>">
-      <span class="event__cta-text"><%= current_page.data.cta.text %></span>
-      <span class="event__cta-price"><%= current_page.data.cta.price %></span>
-    </a>
+  <a class="event__cta" href="<%= current_page.data.cta.url %>">
+    <span class="event__cta-text"><%= current_page.data.cta.text %></span>
+    <span class="event__cta-price"><%= current_page.data.cta.price %></span>
+  </a>
 
+  <div class="event__container">
     <aside class="event-contact">
       <img class="event-contact__image" src="/assets/images/people/<%= current_page.data.questions.person.name %>.png" alt="<%= current_page.data.questions.person.first_name %>"/>
       <div>
