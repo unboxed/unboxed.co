@@ -28,7 +28,14 @@
   width: 100px;
 }
 
-.event-speaker__info-text {
+.event-speaker__name {
+  color: $event__text-color;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.event-speaker__role {
   color: $event__text-color;
   font-size: 1em;
   font-weight: 100;

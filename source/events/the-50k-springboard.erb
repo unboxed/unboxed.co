@@ -15,7 +15,7 @@ location: "Adam House, 7-10 Adam Street, London, WC2N 6AA"
 cta:
   text: "Get my place"
   price: "for £95.00 + VAT"
-  url: ""
+  url: "http://www.eventbrite.co.uk/e/the-50k-springboard-how-to-use-the-first-50k-of-a-digital-product-to-build-the-business-case-for-tickets-19361500770"
 
 content:
   introduction: "How do you prove the concept for a large, new digital product and unlock a full budget, with just the first signed-off £50k... especially when you’re using Agile? Hear from those who have tried, tested and succeeded in doing so - Reed Learning, NHS SH:24 and BBC."
@@ -36,21 +36,23 @@ content:
     - "Creating the business case for a significant development budget"
 
 speakers:
-  - name: "Chris Howroyd"
-    role: "Role"
-    twitter: "chrishowroyd"
-    image: "https://placeimg.com/100/100/animals/2"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sequi tenetur ea itaque necessitatibus incidunt reiciendis ratione perferendis sunt vel harum enim officiis facere iste veniam nulla, delectus, illo quisquam!"
+  - name: "Gillian Holdsworth"
+    role: "Programme Director at SH:24"
+    twitter: "PhulmayaGillian"
+    image: "/events/images/gillian-holdsworth.jpg"
+    bio: "Dr Gillian Holdsworth is a public health expert with substantial experience of living and working in Nepal and UK. A fluent Nepali speaker, she is a skilled leader, with an outstanding talent for collaborative working in multi-cultural settings and getting things done. Gillian is currently the public health lead for health protection and sexual health services in Lambeth and Southwark, London, UK. She is the programme director for SH:24, a new online sexual health service delivered in partnership with the NHS for residents of Lambeth and Southwark."
+
   - name: "Melissa Sabello"
-    role: "Role"
-    twitter: "???"
-    image: "https://placeimg.com/100/100/animals/4"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sequi tenetur ea itaque necessitatibus incidunt reiciendis ratione perferendis sunt vel harum enim officiis facere iste veniam nulla, delectus, illo quisquam!"
+    role: "Director, Product and Innovation at Reed Learning"
+    twitter: "msabella"
+    image: "/events/images/melissa-sabello.jpg"
+    bio: "Melissa is Director of Product and Innovation at Reed Learning. Her passion is developing creative products and services for education by working with organisations and learners to define their challenges and then delivering innovative solutions. She works with technology teams, marketing teams, sales people and executives internally to ensure that the voice of the customer is in everything they build."
+
   - name: "Rich Atherton"
-    role: "Role"
+    role: "Business Consultant"
     twitter: "rathertonrich"
-    image: "https://placeimg.com/100/100/animals/5"
-    bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta sequi tenetur ea itaque necessitatibus incidunt reiciendis ratione perferendis sunt vel harum enim officiis facere iste veniam nulla, delectus, illo quisquam!"
+    image: "/events/images/rich-atherton.jpg"
+    bio: "Richard is a consultant with 15 years’ experience. He has led or helped to deliver complex programmes at ITV, BBC and Universal International. He has a big interest in the human condition and organisational culture. He’s a fair-weather yogi and currently working on an Agile-meets-Yoga workshop concept."
 
 questions:
   title: "Any questions?"
@@ -156,10 +158,10 @@ questions:
         <div class="event-speaker__info">
           <img class="event-speaker__image" src="<%= speaker.image %>" alt="<%= speaker.name %>">
           <div>
-            <div class="event-speaker__info-text">
+            <div class="event-speaker__name">
               <%= speaker.name %>
             </div>
-            <div class="event-speaker__info-text">
+            <div class="event-speaker__role">
               <%= speaker.role %>
             </div>
             <a class="event-speaker__twitter" href="https://twitter.com/intent/user?screen_name=<%= speaker.twitter %>">
