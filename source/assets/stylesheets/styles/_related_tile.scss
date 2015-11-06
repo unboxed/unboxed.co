@@ -1,6 +1,6 @@
 .related-tile {
   background-color: $related-tile__background-color;
-  border-bottom: 1px solid $light-gray;
+  border-bottom: 1px solid $related-tile__border-color;
   box-sizing: border-box;
   display: block;
   min-height: 130px;
@@ -14,7 +14,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     border-bottom: none;
-    border-right: 1px solid $light-gray;
+    border-right: 1px solid $related-tile__border-color;
     float: left;
     min-height: 160px;
     width: 33.33%;
