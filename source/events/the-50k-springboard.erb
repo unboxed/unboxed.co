@@ -40,6 +40,16 @@ speakers:
     role: ""
     twitter: ""
     bio: ""
+
+questions:
+  title: "Any questions?"
+  person:
+    name: "graeme-mccubbin"
+    first_name: "Graeme"
+    role: "events person"
+  mailto:
+    to: "hello@unboxed.co"
+    subject: "Enquiry into 'The £50k Springboard event'"
 ---
 
 <% content_for(:title) { "Event - #{current_page.data.title}" } %>
@@ -96,33 +106,52 @@ speakers:
       <span class="event__cta-price"><%= current_page.data.cta.price %></span>
     </a>
 
-    <p class="event-content__text">
-      <%= current_page.data.content.introduction %>
-    </p>
+    <div class="event-content">
+      <p class="event-content__text">
+        <%= current_page.data.content.introduction %>
+      </p>
 
-    <h4 class="event-content__title">
-      <%= current_page.data.content.find_out_title %>:
-    </h4>
+      <h4 class="event-content__title">
+        <%= current_page.data.content.find_out_title %>:
+      </h4>
 
-    <ul class="event-content__list">
-      <% current_page.data.content.find_out.each do |item| %>
-        <li>
-          <%= item %>
-        </li>
-      <% end %>
-    </ul>
+      <ul class="event-content__list">
+        <% current_page.data.content.find_out.each do |item| %>
+          <li>
+            <%= item %>
+          </li>
+        <% end %>
+      </ul>
 
-    <h4 class="event-content__title">
-      <%= current_page.data.content.responsible_for_title %>:
-    </h4>
+      <h4 class="event-content__title">
+        <%= current_page.data.content.responsible_for_title %>:
+      </h4>
 
-    <ul class="event-content__list">
-      <% current_page.data.content.responsible_for.each do |item| %>
-        <li>
-          <%= item %>
-        </li>
-      <% end %>
-    </ul>
+      <ul class="event-content__list">
+        <% current_page.data.content.responsible_for.each do |item| %>
+          <li>
+            <%= item %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+
+    <a class="event__cta" href="<%= current_page.data.cta.url %>">
+      <span class="event__cta-text"><%= current_page.data.cta.text %></span>
+      <span class="event__cta-price"><%= current_page.data.cta.price %></span>
+    </a>
+
+    <aside class="event-contact">
+      <img class="event-contact__image" src="/assets/images/people/<%= current_page.data.questions.person.name %>.png" alt="<%= current_page.data.questions.person.first_name %>"/>
+      <div>
+        <p class="event-contact__title">
+          <%= current_page.data.questions.title %>
+        </p>
+        <p class="event-contact__text">
+          Get in touch with <a class="event-contact__link" href="mailto:<%= current_page.data.questions.mailto.to %>?Subject=<%= current_page.data.questions.mailto.subject %>" target="_top"><%= current_page.data.questions.person.first_name %></a>, our <%= current_page.data.questions.person.role %>.
+        </p>
+      </div>
+    </aside>
   </div>
 </div>
 
