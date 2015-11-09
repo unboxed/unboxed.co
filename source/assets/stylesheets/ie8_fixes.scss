@@ -5,17 +5,6 @@
   display: block;
 }
 
-// Flexbox is not supported, float images to left instead
-.related-tile__image {
-  float: left;
-  margin-right: 16px;
-}
-
-// Incorrect border-box box-sizing with 16px padding
-.related-tile__text-content {
-  min-height: 98px;
-}
-
 // Place icons in the middle of its container
 .social_icons__icon {
   padding-top: 6px;

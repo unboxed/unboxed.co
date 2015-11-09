@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-01-18 11:30:00 UTC"
 published: true
 title: "A thought on pair programming"

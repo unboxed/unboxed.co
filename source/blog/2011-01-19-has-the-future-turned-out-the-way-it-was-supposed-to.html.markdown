@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-01-19 17:07:00 UTC"
 published: true
 title: "Has the future turned out the way it was supposed to?"

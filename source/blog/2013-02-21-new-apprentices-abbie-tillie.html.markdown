@@ -1,9 +1,10 @@
 ---
-layout: "blog_article"
 date: "2013-02-21 12:14:00 UTC"
 published: true
 title: "New Apprentices - Abbie & Tillie"
 author: "Abbie Ferguson"
+tags:
+  - Culture
 
 ---
 

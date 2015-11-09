@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-09-09 15:52:00 UTC"
 published: true
 title: "People Matter Most!"

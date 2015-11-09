@@ -1,13 +1,13 @@
 ---
-layout: "blog_article"
 date: "2015-05-21 15:00:00 UTC"
 published: true
-title: "Media Roundtable Session - 20th May"
+title: "Roundtable: Leading the transition to Agile in established media companies"
 author: "Graeme McCubbin"
+tags:
+  - Agile
+  - Culture
 
 ---
-
-<h2>'Leading the transition to Agile in established media companies'</h2>
 
 * 10 attendees ([see who attended](https://drive.google.com/file/d/0B2NhOcmmEbFZWi1odC1fVURBMXc/view?usp=sharing))
 * 3 lightning talks

@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2009-11-23 00:00:00 UTC"
 published: true
 title: "The curious incident of the named scope and the non-existent array"

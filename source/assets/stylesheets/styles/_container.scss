@@ -3,7 +3,7 @@
   max-width: $max-mobile-container;
 
   @include breakpoint($tablet-breakpoint) {
-    max-width: $max-tablet-container;
+    max-width: $desktop-breakpoint;
   }
 }
 
@@ -12,6 +12,7 @@
 }
 
 .container--blog {
+  @extend .container;
   box-sizing: border-box;
-  padding: 6px 0 6px 6px;
+  padding-left: 6px;
 }

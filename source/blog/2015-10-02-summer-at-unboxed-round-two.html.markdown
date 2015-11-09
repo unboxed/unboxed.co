@@ -1,9 +1,10 @@
 ---
-layout: "blog_article"
 date: "2015-10-02 10:30:00 UTC"
 published: true
 title: "Summer at Unboxed - Round Two"
 author: "Charlie Egan"
+tags:
+  - "Culture"
 
 ---
 

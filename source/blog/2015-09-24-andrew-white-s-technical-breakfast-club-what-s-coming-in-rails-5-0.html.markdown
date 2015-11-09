@@ -1,10 +1,12 @@
 ---
-layout: "blog_article"
 date: "2015-09-24 09:45:00 UTC"
 published: true
-title: "Andrew White’s Technical Breakfast Club - What's coming in Rails 5.0?"
+title: "Event: Andrew White’s Technical Breakfast Club - What's coming in Rails 5.0?"
 author: "Graeme McCubbin"
 main_image: "http://bit.ly/1iCddwP"
+tags:
+  - Culture
+  - Rails
 
 ---
 

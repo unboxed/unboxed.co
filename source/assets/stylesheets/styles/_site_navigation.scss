@@ -1,0 +1,102 @@
+.site-navigation {
+  height: 37px;
+  margin: 0 auto;
+  max-width: $max-mobile-container;
+  overflow: hidden;
+  position: relative;
+
+  &:before {
+    background-image: url(/assets/images/site-navigation-gradient.png);
+    $gradient: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,1) 45%);
+    background: -webkit-#{$gradient};
+    background: -moz-#{$gradient};
+    background: -o-#{$gradient};
+    background: $gradient;
+    content: '';
+    height: 34px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 40px;
+    z-index: 2;
+  }
+
+  &:after {
+    position: absolute;
+    right: 8px;
+    top: 0;
+    color: lighten($site-navigation__link-color, 40%);
+    content: '›';
+    font-size: 27px;
+    z-index: 2;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    bottom: 0;
+    height: auto;
+    max-width: none;
+    position: absolute;
+    right: 0;
+
+    &:after,
+    &:before {
+      content: none;
+      display: none;
+    }
+  }
+}
+
+.site-navigation__container {
+  height: 54px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  padding: 0 10px;
+  position: relative;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+
+  @include breakpoint($tablet-breakpoint) {
+    height: inherit;
+    overflow: auto;
+    -webkit-overflow-scrolling: auto;
+  }
+}
+
+.site-navigation__link {
+  color: $site-navigation__link-color;
+  display: inline-block;
+  font-size: 0.9em;
+  padding: 10px;
+  position: relative;
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+
+  &:last-of-type {
+    margin-right: 25px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.8em;
+    padding: 14px 12px;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1em;
+    padding: 16px 14px;
+  }
+}
+
+html:not(.ios-device) .site-navigation__link:hover {
+  color: $site-navigation__link-color--active;
+  border-bottom: 3px solid $site-navigation__underline-color--active;
+}
+
+.site-navigation__link--active {
+  @extend .site-navigation__link;
+  color: $site-navigation__link-color--active;
+  border-bottom: 3px solid $site-navigation__underline-color--active;
+}

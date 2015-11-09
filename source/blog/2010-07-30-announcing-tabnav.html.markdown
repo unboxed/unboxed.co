@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-07-30 13:00:00 UTC"
 published: true
 title: "Announcing: Tabnav"

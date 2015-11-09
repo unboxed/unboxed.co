@@ -1,0 +1,11 @@
+<% content_for(:title) { "Blog - Posts by #{author_name}" } %>
+
+<div class="blog-header">
+  <div class="blog-header__container">
+    <div class="blog-header__title">
+      <a class="blog-header__breadcrumb" href="/blog">Blog</a> / <%= author_name %>
+    </div>
+  </div>
+</div>
+
+<%= partial 'blog_grid', locals: { articles: blog.articles.select { |article| article.data.author == author_name } } %>

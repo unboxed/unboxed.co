@@ -1,9 +1,11 @@
 ---
-layout: "blog_article"
 date: "2015-05-14 16:30:00 UTC"
 published: true
 title: "All aboard"
 author: "Claire Kemp"
+tags:
+  - Culture
+  - Innovation
 
 ---
 

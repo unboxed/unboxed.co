@@ -1,11 +1,12 @@
-<div class="container container--blog" data-header-waypoint data-packery-target>
+<div class="container--blog" data-packery-target>
+  <div class="blog-tile__grid-sizer"></div>
   <% articles.each do |article| %>
     <% if article.data.weekly_roundup %>
       <%= partial 'blog_small_tile', locals: { article: article } %>
-    <% elsif article.data.main_image %>
-      <%= partial 'blog_large_tile', locals: { article: article } %>
-    <% else %>
+    <% elsif article.data.main_image.to_s.empty? %>
       <%= partial 'blog_medium_tile', locals: { article: article } %>
+    <% else %>
+      <%= partial 'blog_large_tile', locals: { article: article } %>
     <% end %>
   <% end %>
 </div>
@@ -16,7 +17,7 @@
     transitionDuration: 0,
     percentPosition: true,
     itemSelector: '.blog-tile',
-    columnWidth: '.blog-small-tile'
+    columnWidth: '.blog-tile__grid-sizer'
   };
 
   if (Modernizr.matchmedia) {

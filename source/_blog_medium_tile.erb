@@ -17,13 +17,9 @@
     </div>
 
     <div class="blog-medium-tile__bottom-content">
-      <% if article.data.main_image %>
-        <img class="blog-medium-tile__article-image" src="<%= article.data.main_image %>" alt="Article image">
-      <% else %>
-        <p class="blog-medium-tile__article-body">
-          <%= truncate(strip_tags(article.body), length: 250) %>
-        </p>
-      <% end %>
+      <p class="blog-medium-tile__article-body">
+        <%= truncate(strip_tags(article.body), length: 250) %>
+      </p>
     </div>
   </div>
 </a>

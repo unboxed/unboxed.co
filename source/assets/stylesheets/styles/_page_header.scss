@@ -34,7 +34,7 @@
     max-width: 75%;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: 2.4em;
   }
 }
@@ -50,7 +50,7 @@
     font-size: 3vw;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: 1.8em;
   }
 }

@@ -1,5 +1,4 @@
 ---
-layout: 'blog_article'
 weekly_roundup: true
 title: 'Unboxed Roundup: Our links for w/c 19th October 2015'
 date: '2015-10-23 09:58:04 UTC'

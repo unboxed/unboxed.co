@@ -1,9 +1,11 @@
 ---
-layout: "blog_article"
 date: "2015-07-13 11:00:00 UTC"
 published: true
 title: "Are you managing the right risks?"
 author: "Richard Stobart"
+tags:
+  - Agile
+  - Culture
 
 ---
 

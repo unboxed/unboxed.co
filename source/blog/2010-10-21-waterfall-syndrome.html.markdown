@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-10-21 00:00:00 UTC"
 published: true
 title: "Waterfall Syndrome"

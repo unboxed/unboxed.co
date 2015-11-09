@@ -1,9 +1,11 @@
 ---
-layout: "blog_article"
 date: "2015-09-09 13:00:00 UTC"
 published: true
 title: "Agile pon de Beach 2015 - #AgileOTB"
 author: "Graeme McCubbin"
+tags:
+  - Agile
+  - Culture
 
 ---
 

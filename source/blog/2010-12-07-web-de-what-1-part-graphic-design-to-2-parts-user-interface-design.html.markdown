@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-12-07 00:00:00 UTC"
 published: true
 title: "Web De-What?! (1 Part Graphic Design to 2 Parts User-Interface Design). "
@@ -8,7 +7,6 @@ tags:
   - Rails
 ---
 
-<p><img alt="" height="393" src="/uploads/Image/Website-DeWhat.jpg" width="354" /></p>
 <p>Why is it that some things can look incredibly beautiful, but quickly lose it the moment you start interacting with them? Nope, I&#39;m not talking about an old flame I met down the local discotheque: I&#39;m referring to Website Design.<br />
 <br />
 Why do so many people - even experienced graphic designers - get it wrong?<br />

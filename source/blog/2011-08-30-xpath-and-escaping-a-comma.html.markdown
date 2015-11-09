@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-08-30 09:00:00 UTC"
 published: true
 title: "XPath and escaping a comma"

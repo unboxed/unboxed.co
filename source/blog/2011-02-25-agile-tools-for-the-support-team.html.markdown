@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2011-02-25 13:41:00 UTC"
 published: true
 title: "Agile Tools for the Support Team"

@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2012-06-12 14:33:00 UTC"
 published: true
 title: "Making JavaScript testing in the browser not suck with Sinon.js (Part 1)"

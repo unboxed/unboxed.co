@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 weekly_roundup: true
 date: "2012-08-24 15:10:00 UTC"
 published: true

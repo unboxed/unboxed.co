@@ -1,9 +1,10 @@
 ---
-layout: "blog_article"
 date: "2012-02-15 14:40:00 UTC"
 published: true
 title: "Forcing Facebook to Update Your Site's Metadata"
 author: "Alan Thomas"
+tags:
+  - Innovation
 
 ---
 

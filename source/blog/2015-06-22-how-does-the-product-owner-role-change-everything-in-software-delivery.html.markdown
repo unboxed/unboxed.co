@@ -1,9 +1,11 @@
 ---
-layout: "blog_article"
 date: "2015-06-22 08:00:00 UTC"
 published: true
 title: "How does the Product Owner role change everything in software delivery?"
 author: "Richard Stobart"
+tags:
+  - Agile
+  - Culture
 
 ---
 

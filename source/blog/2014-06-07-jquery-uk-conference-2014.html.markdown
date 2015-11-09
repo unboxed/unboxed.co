@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-06-07 18:30:00 UTC"
 published: true
 title: "jQuery UK 2014"

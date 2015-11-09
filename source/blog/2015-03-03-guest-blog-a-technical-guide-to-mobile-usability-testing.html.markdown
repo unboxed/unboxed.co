@@ -1,9 +1,10 @@
 ---
-layout: "blog_article"
 date: "2015-03-03 10:00:00 UTC"
 published: true
 title: "Guest blog: A technical guide to mobile usability testing"
 author: "Rian Van Der Merwe"
+tags:
+  - Testing
 
 ---
 

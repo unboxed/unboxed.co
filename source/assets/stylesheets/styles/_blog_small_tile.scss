@@ -13,7 +13,7 @@
 
 .blog-small-tile__content {
   box-sizing: border-box;
-  background-color: $white;
+  background-color: $blog-tile__background-color;
   padding: 14px 14px 14px;
   border: 1px solid $blog-tile__border-color;
   width: 100%;
@@ -43,7 +43,7 @@
     margin-bottom: 6px;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: 1.3em;
   }
 }
@@ -53,9 +53,25 @@
   font-size: .8em;
   font-weight: bold;
   margin-bottom: 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.335vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: .8em;
+  }
 }
 
 .blog-small-tile__date {
   color: $blog-tile__text-color;
   font-size: .8em;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.335vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: .8em;
+  }
 }

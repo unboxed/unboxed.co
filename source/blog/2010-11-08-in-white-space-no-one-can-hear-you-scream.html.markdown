@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-11-08 00:00:00 UTC"
 published: true
 title: "In White Space... No One Can Hear You Scream!"
@@ -8,7 +7,6 @@ tags:
   - Rails
 ---
 
-<p><img alt="" height="284" src="/uploads/Image/White-Space.jpg" width="358" /></p>
 <p>&nbsp;&ldquo;Simplicity is the ultimate sophistication.&rdquo; Leonardo Da Vinci<br />
 <br />
 On my travels through cyberspace this week I hit upon this spooky website...<br />

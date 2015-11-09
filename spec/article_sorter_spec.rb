@@ -1,4 +1,3 @@
-require 'pry'
 require './lib/related_blog_articles.rb'
 
 class BlogData

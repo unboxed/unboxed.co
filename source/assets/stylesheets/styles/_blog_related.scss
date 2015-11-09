@@ -9,7 +9,7 @@
   background-color: $blog-related__tile-background-color;
   box-sizing: border-box;
   display: block;
-  margin-bottom: 3px;
+  margin-top: 3px;
   min-height: 130px;
   padding: 30px 20px;
   text-decoration: none;
@@ -30,7 +30,7 @@
   padding-top: 10px;
   padding-left: 3px;
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     display: inline;
   }
 }
@@ -47,7 +47,7 @@
 .blog-related__tag {
   display: inline-block;
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     &:after {
       color: $blog-related__text-color;
       content: "-";

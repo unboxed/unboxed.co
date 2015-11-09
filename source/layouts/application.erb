@@ -1,15 +1,58 @@
 <!doctype html>
 <html lang="en">
-  <%= partial 'layouts/head' %>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>
+      <% if content_for?(:title)
+        title = yield_content(:title)
+      elsif current_page.data.title
+        title = current_page.data.title
+      end %>
+      <%= title ? "Unboxed - #{title}" : "Unboxed" %>
+    </title>
+    <%= favicon_tag "favicon.ico" %>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <%= stylesheet_link_tag "application" %>
+    <%= javascript_include_tag "application" %>
+    <%= stylesheet_link_tag "ie10_fixes" %>
+    <!--[if IE 9]>
+      <%= stylesheet_link_tag "ie9_fixes" %>
+    <![endif]-->
+    <!--[if lt IE 9]>
+      <%= javascript_include_tag "html5shiv.min" %>
+      <%= stylesheet_link_tag "ie8_fixes" %>
+    <![endif]-->
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-1228281-4', 'unboxed.co');
+      ga('send', 'pageview');
+    </script>
+    <script async src='//www.google-analytics.com/analytics.js'></script>
+  </head>
 
   <body>
-    <div class="site-header">
-      <div class="site-header__brand">
-        <a class="site-header__link" href="https://www.unboxedconsulting.com/">
-          Unboxed
-        </a>
+    <header class="site-header<%= '--blog' if is_matching_link?('/blog', current_page.url) %>" data-site-header>
+      <div class="site-header__container">
+        <div class="site-brand">
+          <a class="site-brand__link" href="https://www.unboxedconsulting.com/">
+            Unboxed
+          </a>
+        </div>
+
+        <div class="site-navigation">
+          <div class="site-navigation__container">
+            <%= site_nav_link('Home', '/') %>
+            <%= site_nav_link('News', '/news') %>
+            <%= site_nav_link('Project stories', '/project-stories') %>
+            <%= site_nav_link('People', '/people') %>
+            <%= site_nav_link('Blog', '/blog') %>
+            <%= site_nav_link('Join Us', '/jobs') %>
+            <%= site_nav_link('Contact', '/contact') %>
+          </div>
+        </div>
       </div>
-    </div>
+    </header>
 
     <div class="page-content">
       <%= yield %>
@@ -38,7 +81,7 @@
     <script>
       var $waypointElement = $('[data-header-waypoint]');
 
-      if ($waypointElement) {
+      if ($waypointElement.length !== 0) {
         new Waypoint({
           element: $('[data-header-waypoint]'),
           handler: function(direction) {
@@ -49,11 +92,13 @@
               siteHeader.removeClass('site-header--active-scroll');
             }
           },
-          offset: 54
+          offset: $('[data-site-header]').height()
         });
       }
+
+      if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
+        document.documentElement.className += " ios-device";
+      }
     </script>
-
   </body>
-
 </html>

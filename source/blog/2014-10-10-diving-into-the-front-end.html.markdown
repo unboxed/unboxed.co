@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-10-10 10:46:00 UTC"
 published: true
 title: "Diving Into the Front End"

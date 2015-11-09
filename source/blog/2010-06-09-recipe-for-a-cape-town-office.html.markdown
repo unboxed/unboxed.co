@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-06-09 00:00:00 UTC"
 published: true
 title: "Recipe for a Cape Town office"

@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-11-16 00:00:00 UTC"
 published: true
 title: "How does agile development fit with budgets and financial controls?"

@@ -17,7 +17,7 @@
     border-right: 1px solid $link-tile__border-color;
     border-bottom: 0;
     float: left;
-    min-height: 165px;
+    min-height: 160px;
     width: 33.33%;
 
     &:hover {
@@ -31,22 +31,22 @@
 }
 
 .link-tile--site-link {
-  background-color: $site-link__background-color;
+  background-color: $project-story-site-link__background-color;
   min-height: 80px;
 
   .link-tile__type {
-    color: $site-link__type-color;
+    color: $project-story-site-link__type-color;
   }
 
   .link-tile__title {
-    color: $site-link__text-color;
+    color: $project-story-site-link__text-color;
   }
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 165px;
+    min-height: 160px;
 
     &:hover {
-      background-color: darken($site-link__background-color, 6%);
+      background-color: darken($project-story-site-link__background-color, 6%);
     }
   }
 }
@@ -82,7 +82,7 @@
     font-size: 2.17vw;
   }
 
-  @include breakpoint($max-tablet-container) {
+  @include breakpoint($desktop-breakpoint) {
     font-size: 1.3em;
   }
 }

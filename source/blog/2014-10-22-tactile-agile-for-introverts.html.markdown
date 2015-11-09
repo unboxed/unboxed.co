@@ -1,13 +1,15 @@
 ---
-layout: "blog_article"
 date: "2014-10-22 16:58:00 UTC"
 published: true
-title: "Tactile agile for Introverts "
+title: "Tactile agile for Introverts"
 author: "Claire Kemp"
+tags:
+  - Agile
+  - Culture
 
 ---
 
-I have been a part of Unboxed Consulting since it was just a <i>twinkle</i> in [Richard’s] (https://www.unboxedconsulting.com/people/richard-stobart) eye. The times that I have been absent are directly related to family matters and there has never been a company that has attracted my attention enough to distract my unfailing love for what we do and believe in.
+I have been a part of Unboxed Consulting since it was just a <i>twinkle</i> in [Richard’s](https://www.unboxedconsulting.com/people/richard-stobart) eye. The times that I have been absent are directly related to family matters and there has never been a company that has attracted my attention enough to distract my unfailing love for what we do and believe in.
 
 
 That is why it was so strange when I rejoined in September 2013. It felt as if I had started working in an office full of strangers. I did not know how to engage with people - whether I shared friendships with them outside of work or had never met them before. As a person returning I was given even less of an introduction to how things worked than those who had joined whilst I was away.

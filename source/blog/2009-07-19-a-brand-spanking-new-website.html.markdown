@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2009-07-19 00:00:00 UTC"
 published: true
 title: "A Brand Spanking New Website!"

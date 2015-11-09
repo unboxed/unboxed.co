@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2013-05-15 09:32:00 UTC"
 published: true
 title: "Max attempts for a single delayed_job Job"

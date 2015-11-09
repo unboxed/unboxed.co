@@ -1,9 +1,12 @@
 ---
-layout: "blog_article"
 date: "2015-03-06 10:30:00 UTC"
 published: true
 title: "Webinar: Why & how to include developers in business & design meetings for better ideation"
 author: "Graeme McCubbin"
+tags:
+  - Agile
+  - Culture
+  - Design
 
 ---
 

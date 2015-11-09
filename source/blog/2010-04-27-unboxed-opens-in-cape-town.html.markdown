@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2010-04-27 00:00:00 UTC"
 published: true
 title: "We open our office in Cape Town"
@@ -10,11 +9,9 @@ tags:
 
 <p>This hit the newswires this week:&nbsp;Unboxed Consulting Continues Global Expansion Into South Africa -&nbsp;<i>A Record-breaking year drives global expansion plans&hellip;</i><b><i> </i></b></p>
 <p>Unboxed Consulting, a leading agile consulting and web development consultancy, has today announced that, following record breaking demand for its services, it is to open a new office in Cape Town, South Africa.&nbsp;This new office continues the company&rsquo;s global expansion with presence in North America, as well as its headquarters within &lsquo;The City&rsquo;, in London. The new office will be fully operational mid-May, opening with a team of eight.</p>
-<p><a href="/uploads/Image/P1000491.JPG"><img width="360" height="270" alt="" src="/uploads/Image/P1000491.JPG" /></a></p>
 <p>Richard Stobart, managing director, said of the expansion; &ldquo;Despite the global recession we have seen an increase in revenues and demand for our Agile consulting and development services from across a variety of sectors and regions over the last two years.&nbsp;As we get closer to our fifth birthday in April, we are very proud of the 30-strong company, our reputation and clientbase that we have built up &ndash; now more than ever before, customers of all sizes are seeing the speed with which Agile development practices can deliver value to their business.&rdquo;</p>
 <p>The new office will start immediate work on development projects for Unboxed Consulting&rsquo;s existing client base.</p>
 <p>Stobart added; &ldquo;There is great demand in South Africa for high quality software development, and Cape Town was a natural choice for us as a base.&nbsp;The city has developers of the high standard Unboxed Consulting customers are used to getting &ndash; our new and existing global customers will benefit from the skills the new team brings to the company.&rdquo;</p>
-<p><img width="360" height="270" alt="" src="/uploads/Image/P1000167.JPG" /></p>
 <p>The address for the new office is:<br />
 Unboxed Development<br />
 Seardel House,<br />

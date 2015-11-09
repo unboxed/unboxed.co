@@ -1,9 +1,10 @@
 ---
-layout: "blog_article"
 date: "2015-05-29 10:44:00 UTC"
 published: true
 title: "10 Attributes that make a great product owner"
 author: "Alan Thomas"
+tags:
+  - Agile
 
 ---
 

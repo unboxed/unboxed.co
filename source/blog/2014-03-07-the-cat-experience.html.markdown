@@ -1,5 +1,4 @@
 ---
-layout: "blog_article"
 date: "2014-03-07 15:00:00 UTC"
 published: true
 title: "The CAT experience"

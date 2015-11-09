@@ -2,7 +2,7 @@
 $mobile-font-breakpoint: 400px;
 $max-mobile-container: 480px;
 $tablet-breakpoint: 660px;
-$max-tablet-container: 960px;
+$desktop-breakpoint: 960px;
 
 // Colour palette
 $blue: #5993c6;
@@ -24,7 +24,13 @@ $white: #FFFFFF;
 $page-content__background-color: $light-gray;
 $site-header__brand-color: $medium-purple;
 $site-header__background-color: $white;
+$site-header__underline-color: darken($light-gray, 10%);
 $social-icon__background-color: $medium-gray;
+
+// Site navigation
+$site-navigation__link-color: $medium-gray;
+$site-navigation__link-color--active: $medium-purple;
+$site-navigation__underline-color--active: $medium-purple;
 
 // Project story
 $page-header__background-color: $white;
@@ -35,9 +41,9 @@ $text-tile__text-color: $black;
 $quote__background-color: lighten($light-gray, 1.2%);
 $quote__text-color: lighten($black, 10%);
 $quote__source-color: $medium-purple;
-$site-link__background-color: $dark-gray;
-$site-link__text-color: $white;
-$site-link__type-color: $white;
+$project-story-site-link__background-color: $dark-gray;
+$project-story-site-link__text-color: $white;
+$project-story-site-link__type-color: $white;
 $link-tile__background-color: $white;
 $link-tile__border-color: $light-gray;
 $link-tile__text-color: $black;
@@ -77,6 +83,7 @@ $blog-header__background-color: $white;
 $blog-header__text-color: $dark-gray;
 $blog-header__link-color: $medium-purple;
 
+$blog-tile__background-color: $white;
 $blog-tile__border-color: darken($light-gray, 5%);
 $blog-tile__hover-color: $light-gray;
 $blog-tile__title-color: $light-purple;
@@ -102,7 +109,7 @@ $blog-footer__background-color: $light-gray;
 
 $blog-author__background-color: $white;
 $blog-author__border-color: $light-gray;
-$blog-author__author-color: $medium-purple;
+$blog-author__link-color: $medium-purple;
 
 $blog-comments__background-color: $white;
 $blog-comments__border-color: $light-gray;

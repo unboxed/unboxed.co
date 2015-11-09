@@ -1,9 +1,11 @@
 ---
-layout: "blog_article"
 date: "2015-07-02 16:15:00 UTC"
 published: true
 title: "Webinar: Speed up problem and customer validation"
 author: "Graeme McCubbin"
+tags:
+  - Agile
+  - Culture
 
 ---
 

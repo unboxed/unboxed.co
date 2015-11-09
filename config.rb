@@ -4,7 +4,7 @@ set :css_dir, 'assets/stylesheets'
 set :js_dir, 'assets/javascripts'
 set :images_dir, 'assets/images'
 set :markdown_engine, :redcarpet
-set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true
+set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true, underline: true
 
 activate :blog do |blog|
   blog.layout = 'blog_article'
@@ -22,16 +22,12 @@ configure :development do
   activate :livereload
 end
 
-helpers do
-  def retina_src(path)
-    return %(src="#{path}") if path =~ /^http(s)?/
-    retina_path = path.gsub(/\./, '@2x.')
-    %(src="#{path}" srcset="#{retina_path} 2x")
-  end
+require 'lib/helpers'
+helpers Helpers
 
-  def get_author(article_author)
-    data.people.detect { |author| author["name"].downcase == article_author.downcase }
-  end
+data.people.each do |person|
+  proxy "blog/author/#{person.short_name}.html", "blog_author_grid.html",
+    locals: { author_name: person.name }, ignore: true
 end
 
 ignore '/templates/*'

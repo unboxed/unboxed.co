@@ -1,9 +1,12 @@
 ---
-layout: "blog_article"
 date: "2013-02-20 09:36:00 UTC"
 published: true
 title: "Open Device Lab in Cape Town"
 author: "Steve Barnett"
+tags:
+  - Culture
+  - Innovation
+  - Testing
 
 ---
 
