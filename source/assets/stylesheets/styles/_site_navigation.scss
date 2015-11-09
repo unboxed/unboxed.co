@@ -63,6 +63,7 @@
 }
 
 .site-navigation__link {
+  border-bottom: 3px solid transparent;
   color: $site-navigation__link-color;
   display: inline-block;
   font-size: 0.9em;
