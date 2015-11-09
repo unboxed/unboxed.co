@@ -1,12 +1,32 @@
-.event-location {
-  @extend %container;
+.event-location--mobile {
   display: block;
-  margin-bottom: 10px;
+  margin: 0 auto 10px;
+  max-width: $max-mobile-container;
   position: relative;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: none;
+  }
+}
+
+.event-location--tablet {
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: block;
+    position: relative;
+    width: 50%;
+  }
 }
 
 .event-location__map {
   width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+  }
 }
 
 .event-location__overlay {
@@ -19,16 +39,34 @@
   background: -o-#{$gradient};
   background: $gradient;
   bottom: 0;
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#0d000000',GradientType=1 ); /* IE6-9 */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#0d000000',GradientType=1 );
   left: 0;
   padding: 0 20px;
   position: absolute;
   right: 0;
   top: 0;
+
+  @include breakpoint($tablet-breakpoint) {
+    @include align-items(flex-end);
+    $gradient: linear-gradient(rgba(0,0,0,0.0),rgba(0,0,0,0.6));
+    background: -webkit-#{$gradient};
+    background: -moz-#{$gradient};
+    background: -o-#{$gradient};
+    background: $gradient;
+    padding-bottom: 20px;
+  }
+}
+
+.event-location__pinned-address {
+  @include breakpoint($tablet-breakpoint) {
+    @include align-items(center);
+    @include flex-flow(center);
+    @include flexbox;
+  }
 }
 
 .event-location__pin {
-  @extend .event__detail-icon;
+  @extend .event-info__detail-icon;
   color: $white;
 }
 
@@ -36,4 +74,8 @@
   color: $white;
   font-size: 0.8em;
   line-height: 1.2em;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.9em;
+  }
 }

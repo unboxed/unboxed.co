@@ -12,6 +12,11 @@
   font-size: 1.4em;
   font-weight: 400;
   line-height: 1.2em;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.8em;
+    margin-bottom: 6px;
+  }
 }
 
 .event__subtitle {
@@ -19,24 +24,10 @@
   font-size: 1.4em;
   font-weight: 200;
   line-height: 1.2em;
-}
 
-.event__detail {
-  @include align-items(center);
-  @include flex-flow(center);
-  @include flexbox;
-  color: $event__detail-text-color;
-  font-size: 0.9em;
-  line-height: 1.2em;
-  margin-top: 20px;
-}
-
-.event__detail-icon {
-  padding-right: 14px;
-}
-
-.event__detail-title {
-  font-weight: 600;
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.8em;
+  }
 }
 
 .event__cta {

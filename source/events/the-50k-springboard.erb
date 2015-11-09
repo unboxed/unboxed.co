@@ -76,47 +76,62 @@ questions:
     <h2 class="event__subtitle">
       <%= current_page.data.subtitle %>
     </h2>
-
-
-    <div class="event__detail">
-      <i class="fa fa-users event__detail-icon"></i>
-      <div>
-        <h3 class="event__detail-title">
-          <%= current_page.data.who_should_attend_title %>
-        </h3>
-        <p>
-          <%= current_page.data.who_should_attend.join(', ') %>
-        </p>
-      </div>
-    </div>
-
-    <time class="event__detail" datetime="<%= current_page.data.date_time %>">
-      <i class="fa fa-calendar event__detail-icon"></i>
-      <div>
-        <h3 class="event__detail-title">
-          <%= current_page.data.date %>
-        </h3>
-        <p>
-          <%= current_page.data.time %>
-        </p>
-      </div>
-    </time>
   </div>
 
-  <a class="event-location" href="https://www.google.com/maps/place/<%= current_page.data.location %>/" data-header-waypoint>
-    <img class="event-location__map" src="http://maps.googleapis.com/maps/api/staticmap?size=375x100&markers=color:red%7C<%= current_page.data.location %>&sensor=false&scale=2" alt="Google Map of <%= current_page.data.location %>" target="_blank">
-    <div class="event-location__overlay">
-      <i class="fa fa-map-marker event-location__pin"></i>
-      <address class="event-location__address">
-        <%= current_page.data.location %>
-      </address>
-    </div>
-  </a>
+  <div class="event-info">
+    <a class="event-location--tablet" href="https://www.google.com/maps/place/<%= current_page.data.location %>/" data-header-waypoint>
+      <img class="event-location__map" src="http://maps.googleapis.com/maps/api/staticmap?size=480x240&markers=color:red%7C<%= URI.escape current_page.data.location %>&sensor=false&scale=2&zoom=14" alt="Google Map of <%= current_page.data.location %>" target="_blank">
+      <div class="event-location__overlay">
+        <div class="event-location__pinned-address">
+          <i class="fa fa-map-marker event-location__pin"></i>
+          <address class="event-location__address">
+            <%= current_page.data.location %>
+          </address>
+        </div>
+      </div>
+    </a>
 
-  <a class="event__cta" href="<%= current_page.data.cta.url %>">
-    <span class="event__cta-text"><%= current_page.data.cta.text %></span>
-    <span class="event__cta-price"><%= current_page.data.cta.price %></span>
-  </a>
+    <div class="event-info__detail-container">
+      <div class="event-info__detail">
+        <i class="fa fa-users event-info__detail-icon"></i>
+        <div>
+          <h3 class="event-info__detail-title">
+            <%= current_page.data.who_should_attend_title %>
+          </h3>
+          <p>
+            <%= current_page.data.who_should_attend.join(', ') %>
+          </p>
+        </div>
+      </div>
+
+      <time class="event-info__detail" datetime="<%= current_page.data.date_time %>">
+        <i class="fa fa-calendar event-info__detail-icon"></i>
+        <div>
+          <h3 class="event-info__detail-title">
+            <%= current_page.data.date %>
+          </h3>
+          <p>
+            <%= current_page.data.time %>
+          </p>
+        </div>
+      </time>
+
+      <a class="event-location--mobile" href="https://www.google.com/maps/place/<%= current_page.data.location %>/" data-header-waypoint>
+        <img class="event-location__map" src="http://maps.googleapis.com/maps/api/staticmap?size=375x100&markers=color:red%7C<%= URI.escape current_page.data.location %>&sensor=false&scale=2&zoom=14" alt="Google Map of <%= current_page.data.location %>" target="_blank">
+        <div class="event-location__overlay">
+          <i class="fa fa-map-marker event-location__pin"></i>
+          <address class="event-location__address">
+            <%= current_page.data.location %>
+          </address>
+        </div>
+      </a>
+
+      <a class="event-info__cta" href="<%= current_page.data.cta.url %>">
+        <span class="event-info__cta-text"><%= current_page.data.cta.text %></span>
+        <span class="event-info__cta-price"><%= current_page.data.cta.price %></span>
+      </a>
+    </div>
+  </div>
 
   <div class="event__container">
     <div class="event-content">
