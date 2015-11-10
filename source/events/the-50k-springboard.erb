@@ -202,10 +202,12 @@ past_events:
     <% end %>
   </div>
 
-  <a class="event__cta" href="<%= current_page.data.cta.url %>">
-    <span class="event__cta-text"><%= current_page.data.cta.text %></span>
-    <span class="event__cta-price"><%= current_page.data.cta.price %></span>
-  </a>
+  <div class="event__container">
+    <a class="event__cta" href="<%= current_page.data.cta.url %>">
+      <span class="event__cta-text"><%= current_page.data.cta.text %></span>
+      <span class="event__cta-price"><%= current_page.data.cta.price %></span>
+    </a>
+  </div>
 
   <div class="event__container">
     <aside class="event-contact">

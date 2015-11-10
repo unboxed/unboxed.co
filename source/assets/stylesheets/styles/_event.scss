@@ -28,12 +28,12 @@
 .event__cta {
   @extend %container;
   background-color: $event__cta-background-color;
-  text-align: center;
-  padding: 16px 20px;
   box-sizing: border-box;
-  width: 100%;
   display: block;
+  padding: 16px 20px;
+  text-align: center;
   text-decoration: none;
+  width: 100%;
 }
 
 .event__cta-text {
