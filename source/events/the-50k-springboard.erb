@@ -63,6 +63,16 @@ questions:
   mailto:
     to: "hello@unboxed.co"
     subject: "Enquiry into 'The £50k Springboard event'"
+
+past_events:
+  - title: "Unstick your digital products"
+    link: "/blog/ubxd-event-kicking-the-cobwebs-out-of-your-stuck-digital-product-pipeline/"
+
+  - title: "Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
+    link: "/blog/digital-leaders-discover-the-new-rules-of-outsourcing-agile-teams-session/"
+
+  - title: "Roundtable: Digital Healthcare"
+    link: "/blog/digital-healthcare-roundtable-session/"
 ---
 
 <% content_for(:title) { "Event - #{current_page.data.title}" } %>
@@ -211,3 +221,26 @@ questions:
     </aside>
   </div>
 </div>
+
+<footer class="event__footer">
+  <div class="footer-introduction">
+    <h3 class="footer-introduction__title">
+      Past events
+    </h3>
+  </div>
+
+  <% current_page.data.past_events.each do |event| %>
+    <a class="related-tile" href="<%= event.link %>">
+      <div class="related-tile__text-content">
+        <div>
+          <div class="related-tile__type">
+            event
+          </div>
+          <div class="related-tile__title">
+            <%= event.title %>
+          </div>
+        </div>
+      </div>
+    </a>
+  <% end %>
+</footer>

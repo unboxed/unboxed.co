@@ -45,3 +45,8 @@
   color: $event__cta-text-color;
   font-weight: 400;
 }
+
+.event__footer {
+  @extend %container;
+  overflow: auto;
+}
