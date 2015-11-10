@@ -8,6 +8,10 @@
     margin-bottom: 20px;
     padding-bottom: 0;
   }
+
+  @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+  }
 }
 
 .event-speaker__title {
@@ -19,6 +23,12 @@
   @include flexbox;
   @include align-items(center);
   margin-bottom: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    @include align-items(flex-start);
+    min-width: 260px;
+    margin-bottom: 0;
+  }
 }
 
 .event-speaker__image {
@@ -26,6 +36,16 @@
   height: 100px;
   margin-right: 20px;
   width: 100px;
+
+  @include breakpoint($tablet-breakpoint) {
+    min-width: 100px;
+  }
+}
+
+.event-speaker__details {
+  @include breakpoint($tablet-breakpoint) {
+    max-width: 140px;
+  }
 }
 
 .event-speaker__name {
@@ -50,4 +70,8 @@
   color: $event__text-color;
   font-weight: 100;
   line-height: 1.3;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-left: 20px;
+  }
 }
