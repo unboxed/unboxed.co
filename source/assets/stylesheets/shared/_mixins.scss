@@ -1,4 +1,34 @@
-// https://github.com/matthieua/sass-css3-mixins/blob/master/css3-mixins.sass
+@mixin responsive-title {
+  font-size: 1.4em;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 3.68vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 2.2em;
+  }
+}
+
+@mixin responsive-text {
+  font-size: 1em;
+
+  @include breakpoint($mobile-font-breakpoint) {
+    font-size: 4.5vw;
+  }
+
+  @include breakpoint($max-mobile-container) {
+    font-size: 1.3em;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 2.17vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.3em;
+  }
+}
 
 @mixin clearfix {
   &:before,
@@ -12,6 +42,7 @@
   }
 }
 
+// https://github.com/matthieua/sass-css3-mixins/blob/master/css3-mixins.sass
 @mixin css3-prefix($property, $value) {
    -webkit-#{$property}: #{$value};
     -khtml-#{$property}: #{$value};

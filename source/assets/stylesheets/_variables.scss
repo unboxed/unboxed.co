@@ -97,7 +97,7 @@ $blog-header__link-color: $medium-purple;
 
 $blog-tile__background-color: $white;
 $blog-tile__border-color: darken($light-gray, 5%);
-$blog-tile__hover-color: $light-gray;
+$blog-tile__hover-color: darken($blog-tile__background-color, 5%);
 $blog-tile__title-color: $light-purple;
 $blog-tile__text-color: $dark-gray;
 

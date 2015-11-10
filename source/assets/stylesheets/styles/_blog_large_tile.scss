@@ -43,19 +43,14 @@
 }
 
 .blog-large-tile__title {
+  @include responsive-text;
   color: $blog-tile__title-color;
-  font-size: 1.14em;
   font-weight: lighter;
   line-height: 1.3em;
   margin-bottom: 20px;
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 2.17vw;
     margin-bottom: 6px;
-  }
-
-  @include breakpoint($desktop-breakpoint) {
-    font-size: 1.3em;
   }
 }
 
