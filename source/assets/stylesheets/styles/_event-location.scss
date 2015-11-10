@@ -53,6 +53,7 @@
     background: -moz-#{$gradient};
     background: -o-#{$gradient};
     background: $gradient;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0d000000', endColorstr='#cc000000',GradientType=0 );
     padding-bottom: 20px;
   }
 }

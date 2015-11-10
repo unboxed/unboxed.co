@@ -129,10 +129,12 @@ past_events:
       <a class="event-location--mobile" href="https://www.google.com/maps/place/<%= current_page.data.location %>/" data-header-waypoint>
         <img class="event-location__map" src="http://maps.googleapis.com/maps/api/staticmap?size=375x100&markers=color:red%7C<%= URI.escape current_page.data.location %>&sensor=false&scale=2&zoom=14" alt="Google Map of <%= current_page.data.location %>" target="_blank">
         <div class="event-location__overlay">
-          <i class="fa fa-map-marker event-location__pin"></i>
-          <address class="event-location__address">
-            <%= current_page.data.location %>
-          </address>
+          <div class="event-location__pinned-address">
+            <i class="fa fa-map-marker event-location__pin"></i>
+            <address class="event-location__address">
+              <%= current_page.data.location %>
+            </address>
+          </div>
         </div>
       </a>
 

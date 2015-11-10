@@ -32,3 +32,39 @@
     padding-top: 20px;
   }
 }
+
+// Flexbox is not supported, use alternative layout
+.event-info {
+  overflow: auto;
+}
+
+.event-info__detail-container {
+  float: right;
+}
+
+.event-location--tablet {
+  height: 176px;
+  float: left;
+}
+
+.event-location__pinned-address {
+  position: absolute;
+  bottom: 20px;
+}
+
+.event-speaker__image {
+  margin-bottom: 20px;
+}
+
+.event-speaker__details {
+  @include breakpoint($tablet-breakpoint) {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+.event-speaker__text {
+  @include breakpoint($tablet-breakpoint) {
+    padding-left: 0;
+  }
+}

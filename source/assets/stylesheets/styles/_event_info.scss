@@ -25,6 +25,7 @@
   @include flex-flow(center);
   @include flexbox;
   color: $event__detail-text-color;
+  display: block;
   font-size: 0.9em;
   line-height: 1.2em;
   margin-bottom: 20px;
@@ -32,6 +33,7 @@
 
 .event-info__detail-icon {
   padding-right: 14px;
+  float: left;
 }
 
 .event-info__detail-title {
