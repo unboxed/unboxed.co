@@ -14,7 +14,6 @@ date_time: "2015-11-30 09:00"
 location: "Adam House, 7-10 Adam Street, London, WC2N 6AA"
 cta:
   text: "Get my place"
-  price: "for £95.00 + VAT"
   url: "http://www.eventbrite.co.uk/e/the-50k-springboard-how-to-use-the-first-50k-of-a-digital-product-to-build-the-business-case-for-tickets-19361500770"
 
 content:
@@ -138,9 +137,8 @@ past_events:
         </div>
       </a>
 
-      <a class="event-info__cta" href="<%= current_page.data.cta.url %>">
-        <span class="event-info__cta-text"><%= current_page.data.cta.text %></span>
-        <span class="event-info__cta-price"><%= current_page.data.cta.price %></span>
+      <a class="event__cta" href="<%= current_page.data.cta.url %>">
+        <%= current_page.data.cta.text %>
       </a>
     </div>
   </div>
@@ -157,7 +155,7 @@ past_events:
 
       <ul class="event-content__list">
         <% current_page.data.content.find_out.each do |item| %>
-          <li>
+          <li class="event-content__list-item">
             <%= item %>
           </li>
         <% end %>
@@ -169,7 +167,7 @@ past_events:
 
       <ul class="event-content__list">
         <% current_page.data.content.responsible_for.each do |item| %>
-          <li>
+          <li class="event-content__list-item">
             <%= item %>
           </li>
         <% end %>
@@ -206,8 +204,7 @@ past_events:
 
   <div class="event__container">
     <a class="event__cta" href="<%= current_page.data.cta.url %>">
-      <span class="event__cta-text"><%= current_page.data.cta.text %></span>
-      <span class="event__cta-price"><%= current_page.data.cta.price %></span>
+      <%= current_page.data.cta.text %>
     </a>
   </div>
 
@@ -238,7 +235,7 @@ past_events:
       <div class="related-tile__text-content">
         <div>
           <div class="related-tile__type">
-            event
+            event summary
           </div>
           <div class="related-tile__title">
             <%= event.title %>

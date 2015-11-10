@@ -29,21 +29,13 @@
   @extend %container;
   background-color: $event__cta-background-color;
   box-sizing: border-box;
+  color: $event__cta-text-color;
   display: block;
+  font-weight: 600;
   padding: 16px 20px;
   text-align: center;
   text-decoration: none;
   width: 100%;
-}
-
-.event__cta-text {
-  color: $event__cta-text-color;
-  font-weight: 600;
-}
-
-.event__cta-price {
-  color: $event__cta-text-color;
-  font-weight: 400;
 }
 
 .event__footer {
