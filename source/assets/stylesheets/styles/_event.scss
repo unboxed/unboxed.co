@@ -5,7 +5,11 @@
 .event__container {
   @extend %container;
   box-sizing: border-box;
-  padding: 20px;
+  padding: 30px 20px 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 50px;
+  }
 }
 
 .event__title {
