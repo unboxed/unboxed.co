@@ -1,0 +1,38 @@
+.homepage-services {
+  overflow: auto;
+  padding: 20px;
+}
+
+.homepage-services--gray {
+}
+
+.homepage-services__service {
+  float: left;
+  padding-right: 40px;
+  width: 33.33%;
+  box-sizing: border-box;
+
+  &:last-of-type {
+    padding-right: 0;
+  }
+}
+
+.homepage-services__title {
+  @include responsive-title;
+  font-weight: 200;
+}
+
+.homepage-services__subtitle {
+  @include responsive-sub-title;
+  font-weight: 200;
+}
+
+.homepage-services__text {
+  @include responsive-text;
+  font-weight: 200;
+  line-height: 1.3em;
+}
+
+
+
+

@@ -1,0 +1,14 @@
+.homepage-introduction {
+}
+
+.homepage-introduction__container {
+  @extend %container;
+  box-sizing: border-box;
+  overflow: auto;
+  padding: 20px;
+}
+
+.homepage-introduction__text {
+  @include responsive-text;
+  font-weight: 200;
+}

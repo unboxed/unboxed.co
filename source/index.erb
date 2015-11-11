@@ -1,0 +1,190 @@
+---
+introduction:
+  title: "The best way to create and scale digital products"
+  text: "We lovingly design and build digital products in Ruby on Rails using Lean and Agile techniques. And we teach the Unboxed Way to organisations."
+
+projects:
+  - name: "SH:24"
+    description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
+    image: "https://www.unboxedconsulting.com/images/project_stories/overview/1_standard.jpg?1424970115"
+
+  - name: "Contiki Holidays"
+    description: "Powerful offshore partnership creates 47% increase in bookings for Contiki Tours"
+    image: "https://www.unboxedconsulting.com/images/project_stories/overview/10_standard.png?1434620380"
+
+  - name: "Naturejobs"
+    description: "Recruitment site revitalisation for major scientific publishing group"
+    image: "https://www.unboxedconsulting.com/images/project_stories/overview/2_standard.jpg?1424967476"
+---
+
+<div class="homepage-introduction">
+  <div class="homepage-introduction__container">
+    <p class="homepage-introduction__text">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab consectetur, eaque quasi, officia alias officiis cum. Unde modi facere odit est cum dolorem magni aperiam! Sapiente libero dignissimos, laboriosam eius!
+    </p>
+  </div>
+</div>
+
+<div class="homepage">
+  <div class="homepage-services">
+    <h2 class="homepage-services__title">
+      What we do
+    </h2>
+
+    <div class="homepage-services__service">
+      <h3 class="homepage-services__subtitle">
+        Grow your idea
+      </h3>
+      <p class="homepage-services__text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur hic voluptates repudiandae autem error dolores doloremque vero maiores culpa asperiores fugit possimus aspernatur ut totam ipsam.
+      </p>
+    </div>
+
+    <div class="homepage-services__service">
+      <h3 class="homepage-services__subtitle">
+        Build your digital product
+      </h3>
+      <p class="homepage-services__text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet commodi omnis hic culpa sit aperiam ea ipsa quod eum quia, ab voluptatum delectus officia aliquam provident, illum natus! Asperiores, nostrum.
+      </p>
+    </div>
+
+    <div class="homepage-services__service">
+      <h3 class="homepage-services__subtitle">
+        Change your culture
+      </h3>
+      <p class="homepage-services__text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat inventore, voluptatum necessitatibus harum iusto neque distinctio laboriosam impedit incidunt tenetur quibusdam quisquam nostrum, odio, nam id dolorem repellendus corporis quos.
+      </p>
+    </div>
+  </div>
+
+  <div class="homepage-services homepage-services--gray">
+    <h2 class="homepage-services__title">
+      What we also do
+    </h2>
+
+    <div class="homepage-services__service">
+      <h3 class="homepage-services__subtitle">
+        Rescue your product
+      </h3>
+      <p class="homepage-services__text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur hic voluptates repudiandae autem error dolores doloremque vero maiores culpa asperiores fugit possimus aspernatur ut totam ipsam.
+      </p>
+    </div>
+
+    <div class="homepage-services__service">
+      <h3 class="homepage-services__subtitle">
+        Your next phase
+      </h3>
+      <p class="homepage-services__text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet commodi omnis hic culpa sit aperiam ea ipsa quod eum quia, ab voluptatum delectus officia aliquam provident, illum natus! Asperiores, nostrum.
+      </p>
+    </div>
+
+    <div class="homepage-services__service">
+      <h3 class="homepage-services__subtitle">
+        Support you
+      </h3>
+      <p class="homepage-services__text">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat inventore, voluptatum necessitatibus harum iusto neque distinctio laboriosam impedit incidunt tenetur quibusdam quisquam nostrum, odio, nam id dolorem repellendus corporis quos.
+      </p>
+    </div>
+  </div>
+
+  <div class="homepage-latest">
+    <h2 class="homepage-latest__title">
+      Who we have partnered with
+    </h2>
+
+    <% current_page.data.projects.each do |project| %>
+      <a class="homepage-tile" href="#">
+        <div class="homepage-tile__content">
+          <img class="homepage-tile__image" src="<%= project.image %>" alt="<%= project.name %>">
+
+          <h3 class="homepage-tile__title">
+            <%= project.name %>
+          </h3>
+
+          <p class="homepage-tile__text">
+            <%= project.description %>
+          </p>
+        </div>
+      </a>
+    <% end %>
+  </div>
+
+  <div class="component">
+    <div class="component__tile">
+      <div class="homepage-contact">
+        <h2 class="homepage-contact__title">
+          What about you?
+        </h2>
+
+        <p class="homepage-contact__text">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat nulla itaque ex voluptatibus magni sunt alias, sequi, molestias aspernatur, enim asperiores numquam placeat dignissimos ipsa quam recusandae consectetur illum maxime!
+        </p>
+
+        <form action="//formspree.io/tom.sabin@unboxedconsulting.com" method="POST">
+          <input type="text" name="_gotcha" style="display:none" />
+          <input type="hidden" name="_subject" value="Homepage enquiry">
+          <input type="email" name="_replyto" placeholder="Your email" >
+          <textarea name="comment"></textarea>
+          <input type="submit" value="send">
+        </form>
+      </div>
+    </div>
+    <div class="component__tile image-tile">
+      <img class="image-tile__image" src="http://placehold.it/480/496" alt="" />
+    </div>
+  </div>
+
+  <div class="homepage-latest">
+    <h2 class="homepage-latest__title">
+      What we have been blogging about
+    </h2>
+
+    <% blog.articles.reject { |article| article.data.weekly_roundup? }.first(3).each do |article| %>
+      <a class="homepage-blog-tile" href="<%= article.url %>">
+        <div class="homepage-blog-tile__content">
+          <div class="homepage-blog-tile__title">
+            <%= truncate(article.title, length: 70) %>
+          </div>
+
+          <div>
+            <div class="homepage-blog-tile__author">
+              <%= article.data.author %>
+            </div>
+
+            <div class="homepage-blog-tile__date">
+              <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
+            </div>
+          </div>
+        </div>
+      </a>
+    <% end %>
+  </div>
+
+  <div class="homepage-newsletter">
+    <h2 class="homepage-newsletter__title">
+      Our newsletter
+    </h2>
+
+    <p class="homepage-newsletter__text">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio corrupti eos at perspiciatis. Quidem illo, recusandae, hic adipisci officiis itaque laboriosam minus est harum sequi odit accusamus. Recusandae ut, commodi.
+    </p>
+
+    <form action="//unboxedconsulting.us11.list-manage.com/subscribe/post?u=831facdc5caf30c092463f1c0&amp;id=e924413a0b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+      <div id="mc_embed_signup_scroll">
+        <input type="email" placeholder="your email" value="" name="EMAIL" id="mce-EMAIL">
+        <div id="mce-responses">
+          <div id="mce-error-response" style="display:none"></div>
+          <div id="mce-success-response" style="display:none"></div>
+        </div>
+        <div style="position:absolute;left:-5000px;"><input type="text" name="b_831facdc5caf30c092463f1c0_e924413a0b" tabindex="-1" value=""></div>
+        <input type="submit" value="subscribe" name="subscribe" id="mc-embedded-subscribe">
+      </div>
+    </form>
+  </div>
+</div>
+

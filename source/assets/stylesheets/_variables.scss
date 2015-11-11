@@ -1,5 +1,4 @@
 // Breakpoints
-$mobile-font-breakpoint: 400px;
 $max-mobile-container: 480px;
 $tablet-breakpoint: 660px;
 $desktop-breakpoint: 960px;
@@ -38,6 +37,9 @@ $social-icon__linkedin-color: darken($blue, 20%);
 $site-navigation__link-color: $medium-gray;
 $site-navigation__link-color--active: $purple;
 $site-navigation__underline-color--active: $purple;
+
+// Home page
+$homepage-tile__text-color: $dark-gray;
 
 // Events
 $event__background-color: $white;

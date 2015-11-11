@@ -1,0 +1,10 @@
+.homepage-latest {
+  overflow: auto;
+  padding: 20px 0 20px 6px;
+}
+
+.homepage-latest__title {
+  @include responsive-title;
+  font-weight: 200;
+  padding: 0 20px 0 14px;
+}

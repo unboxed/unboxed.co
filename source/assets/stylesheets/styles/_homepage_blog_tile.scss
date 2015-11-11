@@ -1,0 +1,37 @@
+.homepage-blog-tile {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    width: 33.33%;
+  }
+}
+
+.homepage-blog-tile__image {
+  background-color: $white;
+  border: 1px solid $blog-tile__border-color;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+}
+
+.homepage-blog-tile__content {
+  @extend .blog-small-tile__content;
+}
+
+.homepage-blog-tile__title {
+  @extend .blog-small-tile__title;
+}
+
+.homepage-blog-tile__author {
+  @extend .blog-small-tile__author;
+}
+
+.homepage-blog-tile__date {
+  @extend .blog-small-tile__date;
+}
+

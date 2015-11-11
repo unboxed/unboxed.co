@@ -1,0 +1,51 @@
+.homepage-tile {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    width: 33.33%;
+  }
+}
+
+.homepage-tile__image {
+  display: block;
+  width: 100%;
+}
+
+.homepage-tile__content {
+  box-sizing: border-box;
+  background-color: $blog-tile__background-color;
+  padding: 8px;
+  border: 1px solid $blog-tile__border-color;
+  width: 100%;
+
+  &:hover {
+    background-color: $blog-tile__hover-color;
+  }
+}
+
+.homepage-tile__title {
+  @include responsive-text;
+  color: $homepage-tile__text-color;
+  padding: 14px 6px;
+}
+
+.homepage-tile__text {
+  @include responsive-text;
+  color: $homepage-tile__text-color;
+  padding: 0 6px 6px;
+  font-weight: 200;
+  line-height: 1.2em;
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 11vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    min-height: 106px;
+  }
+}

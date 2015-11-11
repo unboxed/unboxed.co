@@ -1,0 +1,14 @@
+.homepage-contact {
+  padding: 20px;
+}
+
+.homepage-contact__title {
+  @include responsive-title;
+  font-weight: 200;
+}
+
+.homepage-contact__text {
+  @include responsive-text;
+  font-weight: 200;
+  line-height: 1.3em;
+}

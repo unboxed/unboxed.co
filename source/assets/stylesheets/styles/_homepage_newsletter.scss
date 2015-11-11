@@ -1,0 +1,14 @@
+.homepage-newsletter {
+  padding: 20px;
+}
+
+.homepage-newsletter__title {
+  @include responsive-title;
+  font-weight: 200;
+}
+
+.homepage-newsletter__text {
+  @include responsive-text;
+  font-weight: 200;
+  line-height: 1.3em;
+}

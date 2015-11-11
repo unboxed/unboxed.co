@@ -10,16 +10,20 @@
   }
 }
 
+@mixin responsive-sub-title {
+  font-size: 1.2em;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 2.834vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.7em;
+  }
+}
+
 @mixin responsive-text {
   font-size: 1em;
-
-  @include breakpoint($mobile-font-breakpoint) {
-    font-size: 4.5vw;
-  }
-
-  @include breakpoint($max-mobile-container) {
-    font-size: 1.3em;
-  }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 2.17vw;
