@@ -35,6 +35,7 @@ $event__background-color: $white;
 $event__subtitle-color: $dark-gray;
 $event__detail-text-color: $medium-gray;
 $event__cta-background-color: $purple;
+$event__cta-hover-color: darken($event__cta-background-color, 5%);
 $event__cta-text-color: $white;
 $event__text-color: $black;
 $event-content__title-color: $purple;

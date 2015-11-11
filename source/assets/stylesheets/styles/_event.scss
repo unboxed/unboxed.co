@@ -40,6 +40,10 @@
   text-align: center;
   text-decoration: none;
   width: 100%;
+
+  &:hover {
+    background-color: $event__cta-hover-color;
+  }
 }
 
 .event__footer {
