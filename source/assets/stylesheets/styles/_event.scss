@@ -1,15 +1,16 @@
 .event {
   background-color: $event__background-color;
+  padding-top: 10px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 30px;
+  }
 }
 
 .event__container {
   @extend %container;
   box-sizing: border-box;
-  padding: 30px 20px 20px;
-
-  @include breakpoint($tablet-breakpoint) {
-    padding-top: 50px;
-  }
+  padding: 20px;
 }
 
 .event__title {
