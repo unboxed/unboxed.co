@@ -7,6 +7,7 @@ $desktop-breakpoint: 960px;
 // Colour palette
 $blue: #5993c6;
 $dark-purple: #3B0737;
+$another-purple: #7F2F7F; // we have 4 purples :(
 $medium-purple: #8F0B8A;
 $light-purple: #9F2B9A;
 $peach: #DD353C;
@@ -32,6 +33,16 @@ $site-navigation__link-color: $medium-gray;
 $site-navigation__link-color--active: $medium-purple;
 $site-navigation__underline-color--active: $medium-purple;
 
+// Events
+$event__background-color: $white;
+$event__subtitle-color: $dark-gray;
+$event__detail-text-color: $medium-gray;
+$event__cta-background-color: $another-purple;
+$event__cta-text-color: $white;
+$event__text-color: $black;
+$event-content__title-color: $light-purple;
+$event-contact__link-color: $medium-purple;
+
 // Project story
 $page-header__background-color: $white;
 $page-header__text-color: $dark-gray;
@@ -55,6 +66,7 @@ $footer-social-icons__background-color: $light-gray;
 $footer-introduction__background-color: $light-gray;
 $footer-introduction__text-color: $black;
 $related-tile__background-color: $white;
+$related-tile__border-color: $light-gray;
 $related-tile__text-color: $black;
 $related-tile__type-color: $light-purple;
 
@@ -85,7 +97,7 @@ $blog-header__link-color: $medium-purple;
 
 $blog-tile__background-color: $white;
 $blog-tile__border-color: darken($light-gray, 5%);
-$blog-tile__hover-color: $light-gray;
+$blog-tile__hover-color: darken($blog-tile__background-color, 5%);
 $blog-tile__title-color: $light-purple;
 $blog-tile__text-color: $dark-gray;
 

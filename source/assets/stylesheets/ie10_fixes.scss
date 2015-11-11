@@ -10,6 +10,26 @@
     .blog-author {
       display: block;
     }
+
+    // IE10 Does not fully support flexbox, .blog-author renders as 100% regardless of its container's width.
+    // see http://degradingdisgracefully.com/ie11-ie10-flexbox-overflow-bug/ for further details (solution doesn't
+    // work for a responsive design)
+    .event-speaker {
+      display: block;
+    }
+
+    .event-speaker__details {
+      @include breakpoint($tablet-breakpoint) {
+        max-width: 100%;
+      }
+    }
+
+    .event-speaker__text {
+      @include breakpoint($tablet-breakpoint) {
+        margin-top: 20px;
+        padding-left: 0;
+      }
+    }
   }
 }
 
