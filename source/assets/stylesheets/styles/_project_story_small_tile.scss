@@ -1,21 +1,16 @@
-.project-story-large-tile {
+.project-story-small-tile {
   box-sizing: border-box;
   display: block;
   margin-bottom: 8px;
-  padding: 10px 10px 0;
+  padding: 0 10px;
   text-decoration: none;
-}
 
-.project-story-large-tile__container {
-  background-color: $white;
-  width: 100%;
-
-  &:hover {
-    background-color: $light-gray;
+  &:last-child {
+    margin-bottom: 0;
   }
 }
 
-.project-story-large-tile__image-container {
+.project-story-small-tile__image-container {
   box-sizing: border-box;
   position: relative;
   width: 50%;
@@ -41,7 +36,7 @@
   }
 }
 
-.project-story-large-tile__image {
+.project-story-small-tile__image {
   display: block;
   height: 130px;
   float: left;
@@ -50,7 +45,7 @@
   width: 90%;
 }
 
-.project-story-large-tile__content {
+.project-story-small-tile__content {
   display: inline-block;
   height: 130px;
   padding: 10px 0 10px 3px;
@@ -58,14 +53,14 @@
   width: 47%;
 }
 
-.project-story-large-tile__client {
+.project-story-small-tile__client {
   font-size: 1em;
   color: $purple;
   line-height: 1.1em;
   margin-bottom: 10px;
 }
 
-.project-story-large-tile__title {
+.project-story-small-tile__title {
   color: $medium-gray;
   font-size: 0.8em;
   line-height: 1.5em;
