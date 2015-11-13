@@ -8,8 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Bad service design is not a strategy
-- [Andrew W](http://www.unboxedconsulting.com/people/andrew-white)
+## Bad service design is not a strategy - [Andrew W](http://www.unboxedconsulting.com/people/andrew-white)
 
 https://medium.com/public-innovators-network/bad-service-design-is-not-a-strategy-b3024efd3e9d
 
