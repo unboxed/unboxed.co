@@ -38,6 +38,8 @@
 
 .project-story-small-tile__image-container {
   box-sizing: border-box;
+  float: left;
+  padding: 10px;
   position: relative;
   width: 50%;
 
@@ -50,14 +52,13 @@
     height: 0;
     position: absolute;
     top: 32px;
-    right: 5px;
+    right: 10px;
     width: 0;
   }
 
   @include breakpoint($max-mobile-container) {
     &:before {
-      border-width: 16px 18px 16px 16px;
-      right: 12px;
+      border-width: 14px 16px 14px 14px;
     }
   }
 
@@ -82,10 +83,8 @@
 .project-story-small-tile__image {
   display: block;
   height: 130px;
-  float: left;
   object-fit: cover;
-  padding: 10px;
-  width: 90%;
+  width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
     height: 70px;
