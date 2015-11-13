@@ -15,11 +15,20 @@
 }
 
 .project-story-large-tile__container {
-  background-color: $white;
+  background-color: $project-story-tile__background-color;
+  box-sizing: border-box;
   width: 100%;
 
   &:hover {
-    background-color: $light-gray;
+    background-color: $project-story-tile__hover-color;
+
+    .project-story-large-tile__image-container:before {
+      border-color: transparent $project-story-tile__hover-color transparent transparent;
+
+      @include breakpoint($tablet-breakpoint) {
+        border-color: transparent transparent $project-story-tile__hover-color transparent;
+      }
+    }
   }
 }
 
@@ -88,8 +97,8 @@
 }
 
 .project-story-large-tile__client {
+  color: $project-story-tile__client-color;
   font-size: 1em;
-  color: $purple;
   line-height: 1.1em;
   margin-bottom: 10px;
 
@@ -99,7 +108,7 @@
 }
 
 .project-story-large-tile__title {
-  color: $medium-gray;
+  color: $project-story-tile__title-color;
   font-size: 0.8em;
   line-height: 1.5em;
 
