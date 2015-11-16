@@ -31,8 +31,6 @@
     @include flexbox;
     @include flex-direction(column);
     @include justify-content(space-between);
-
-    min-height: 190px;
   }
 }
 
@@ -53,7 +51,11 @@
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
-    height: 70px;
+    height: 110px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 120px;
   }
 }
 

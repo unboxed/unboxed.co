@@ -22,10 +22,6 @@
   &:hover {
     background-color: $project-story-tile__hover-color;
   }
-
-  @include breakpoint($tablet-breakpoint) {
-    min-height: 386px;
-  }
 }
 
 .project-story-large-tile__image-container {
@@ -45,7 +41,11 @@
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
-    height: 180px;
+    height: 255px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 275px;
   }
 }
 
