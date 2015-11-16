@@ -14,4 +14,8 @@ module Helpers
   def is_matching_link?(href, current_url)
     href == current_url.match(/^(\/[^\/]*).*$/)[1]
   end
+
+  def atom_id(article)
+    "tag:unboxed.co,#{article.date.to_time.strftime('%Y-%m-%d')}:#{article.slug}"
+  end
 end

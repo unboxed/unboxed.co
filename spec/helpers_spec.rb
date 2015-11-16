@@ -17,5 +17,15 @@ describe Helpers do
       expect(is_matching_link?('/project-stories', '/project-stories/sh24')).to be_truthy
     end
   end
+
+  describe 'atom_id' do
+    let(:date) { Time.parse('2014-10-29 11:40:32') }
+    let(:slug) { 'i-like-hats' }
+    let(:article) { double("BlogArtcile", date: date, slug: slug) }
+
+    it 'includes the website name, the short timestamp of the article, the article slug' do
+      expect(atom_id(article)).to eq "tag:unboxed.co,2014-10-29:i-like-hats"
+    end
+  end
 end
 
