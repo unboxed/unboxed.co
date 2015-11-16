@@ -35,6 +35,7 @@ ignore '/partials/*'
 ignore '/**/README.md'
 
 page "/blog/feed.xml", layout: false
+page "/blog/feed.rss", layout: false
 
 configure :build do
   activate :minify_css
