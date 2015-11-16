@@ -23,6 +23,9 @@
       <%= javascript_include_tag "html5shiv.min" %>
       <%= stylesheet_link_tag "ie8_fixes" %>
     <![endif]-->
+    <% if content_for?(:head) %>
+      <%= yield_content(:head) %>
+    <% end %>
     <script>
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-1228281-4', 'unboxed.co');

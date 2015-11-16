@@ -1,5 +1,6 @@
 <% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
 <% content_for(:title) { "Blog - #{current_page.data.title}" } %>
+<% add_atom_feed_to_head %>
 
 <% wrap_layout :application do %>
   <section class="blog-article">
