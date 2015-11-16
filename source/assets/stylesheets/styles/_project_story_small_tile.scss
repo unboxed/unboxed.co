@@ -90,10 +90,12 @@
   line-height: 1.6em;
 
   @include breakpoint($tablet-breakpoint) {
-    line-height: 1.5em;
+    line-height: 1.4em;
+    padding-right: 10px;
   }
 
   @include breakpoint($desktop-breakpoint) {
+    line-height: 1.6em;
     padding-right: 30px;
   }
 }
