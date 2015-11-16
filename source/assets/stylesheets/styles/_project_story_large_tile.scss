@@ -1,15 +1,13 @@
 .project-story-large-tile {
   box-sizing: border-box;
   display: block;
-  margin-bottom: 8px;
-  padding: 10px 10px 0;
+  margin-bottom: 6px;
+  padding-right: 6px;
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
     margin-bottom: 0;
-    min-height: 386px;
-    padding-right: 0;
     width: 66%;
   }
 }
@@ -17,57 +15,26 @@
 .project-story-large-tile__container {
   background-color: $project-story-tile__background-color;
   box-sizing: border-box;
+  border: 1px solid $project-story-tile__border-color;
+  padding: 6px;
   width: 100%;
 
   &:hover {
     background-color: $project-story-tile__hover-color;
+  }
 
-    .project-story-large-tile__image-container:before {
-      border-color: transparent $project-story-tile__hover-color transparent transparent;
-
-      @include breakpoint($tablet-breakpoint) {
-        border-color: transparent transparent $project-story-tile__hover-color transparent;
-      }
-    }
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 386px;
   }
 }
 
 .project-story-large-tile__image-container {
   box-sizing: border-box;
   float: left;
-  padding: 10px;
-  position: relative;
   width: 50%;
-
-  &:before {
-    border-color: transparent $white transparent transparent;
-    border-style: solid;
-    border-width: 12px 14px 12px 12px;
-    content: '';
-    display: block;
-    height: 0;
-    position: absolute;
-    top: 32px;
-    right: 10px;
-    width: 0;
-  }
-
-  @include breakpoint($max-mobile-container) {
-    &:before {
-      border-width: 14px 16px 14px 14px;
-    }
-  }
 
   @include breakpoint($tablet-breakpoint) {
     width: 100%;
-
-    &:before {
-      border-color: transparent transparent $white transparent;
-      border-width: 12px 14px 12px 12px;
-      top: 167px;
-      left: 20px;
-      width: 0;
-    }
   }
 }
 
@@ -85,12 +52,12 @@
 .project-story-large-tile__content {
   display: inline-block;
   height: 130px;
-  padding: 10px 0 10px 3px;
+  padding-left: 8px;
   text-decoration: none;
   width: 47%;
 
   @include breakpoint($tablet-breakpoint) {
-    padding: 20px 10px 0;
+    padding: 20px 6px 0;
     width: 85%;
     min-height: 170px;
   }
@@ -99,7 +66,7 @@
 .project-story-large-tile__client {
   color: $project-story-tile__client-color;
   font-size: 1em;
-  line-height: 1.1em;
+  line-height: 1.2em;
   margin-bottom: 10px;
 
   @include breakpoint($tablet-breakpoint) {

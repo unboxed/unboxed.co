@@ -44,6 +44,7 @@ $event-contact__link-color: $purple;
 // Project stories
 $project-story-tile__background-color: $white;
 $project-story-tile__hover-color: darken($project-story-tile__background-color, 6%);
+$project-story-tile__border-color: darken($light-gray, 5%);
 $project-story-tile__client-color: $purple;
 $project-story-tile__title-color: $medium-gray;
 

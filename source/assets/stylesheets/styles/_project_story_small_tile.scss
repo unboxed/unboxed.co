@@ -1,8 +1,8 @@
 .project-story-small-tile {
   box-sizing: border-box;
   display: block;
-  margin-bottom: 8px;
-  padding: 0 10px;
+  margin-bottom: 6px;
+  padding-right: 6px;
   text-decoration: none;
 
   &:last-child {
@@ -10,80 +10,39 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    margin-bottom: 0;
-    float: left;
-    min-height: 190px;
-    padding-top: 10px;
-    padding-right: 0;
+    display: inline-block;
     width: 33%;
+    margin-right: -4px;
   }
 }
 
 .project-story-small-tile__container {
   background-color: $project-story-tile__background-color;
   box-sizing: border-box;
+  border: 1px solid $blog-tile__border-color;
+  padding: 6px;
   width: 100%;
 
   &:hover {
     background-color: $project-story-tile__hover-color;
-
-    .project-story-small-tile__image-container:before {
-      border-color: transparent $project-story-tile__hover-color transparent transparent;
-
-      @include breakpoint($tablet-breakpoint) {
-        border-color: transparent transparent $project-story-tile__hover-color transparent;
-      }
-    }
   }
 
   @include breakpoint($tablet-breakpoint) {
     @include flexbox;
     @include flex-direction(column);
     @include justify-content(space-between);
+
+    min-height: 190px;
   }
 }
 
 .project-story-small-tile__image-container {
   box-sizing: border-box;
   float: left;
-  padding: 10px;
-  position: relative;
   width: 50%;
-
-  &:before {
-    border-color: transparent $white transparent transparent;
-    border-style: solid;
-    border-width: 12px 14px 12px 12px;
-    content: '';
-    display: block;
-    height: 0;
-    position: absolute;
-    top: 32px;
-    right: 10px;
-    width: 0;
-  }
-
-  @include breakpoint($max-mobile-container) {
-    &:before {
-      border-width: 14px 16px 14px 14px;
-    }
-  }
 
   @include breakpoint($tablet-breakpoint) {
     width: 100%;
-
-    &:before {
-      border-color: transparent transparent $white transparent;
-      border-style: solid;
-      border-width: 12px 14px 12px 12px;
-      content: '';
-      display: block;
-      height: 0;
-      position: absolute;
-      top: 56px;
-      left: 20px;
-      width: 0;
-    }
   }
 }
 
@@ -101,25 +60,27 @@
 .project-story-small-tile__content {
   display: inline-block;
   height: 130px;
-  padding: 10px 0 10px 3px;
+  padding-left: 8px;
   text-decoration: none;
   width: 47%;
 
   @include breakpoint($tablet-breakpoint) {
     height: 95px;
-    padding: 5px 10px 0;
-    width: 80%;
+    padding: 8px 6px 0;
+    width: 100%;
   }
 }
 
 .project-story-small-tile__client {
   color: $project-story-tile__client-color;
   font-size: 1em;
-  line-height: 1.1em;
+  line-height: 1.4em;
   margin-bottom: 10px;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1em;
+    line-height: 1.3em;
+    padding-right: 10px;
   }
 }
 
@@ -129,11 +90,10 @@
   line-height: 1.6em;
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 1.5vw;
-    line-height: 1.3em;
+    line-height: 1.5em;
   }
 
   @include breakpoint($desktop-breakpoint) {
-    font-size: 0.8em;
+    padding-right: 30px;
   }
 }
