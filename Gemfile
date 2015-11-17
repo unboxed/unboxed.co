@@ -6,6 +6,7 @@ gem 'pry'
 gem 'redcarpet'
 gem 'middleman-blog'
 gem 'middleman-blog-similar'
+gem 'builder'
 
 group :test do
   gem 'rspec'
