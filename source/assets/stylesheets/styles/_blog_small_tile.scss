@@ -37,6 +37,7 @@
   font-weight: lighter;
   line-height: 1.3em;
   margin-bottom: 20px;
+  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 6px;
@@ -48,6 +49,7 @@
   font-size: .8em;
   font-weight: bold;
   margin-bottom: 6px;
+  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.335vw;
@@ -61,6 +63,7 @@
 .blog-small-tile__date {
   color: $blog-tile__text-color;
   font-size: .8em;
+  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.335vw;

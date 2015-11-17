@@ -59,11 +59,9 @@
 }
 
 .event-location__pinned-address {
-  @include breakpoint($tablet-breakpoint) {
-    @include align-items(center);
-    @include flex-flow(center);
-    @include flexbox;
-  }
+  @include align-items(center);
+  @include flex-flow(center);
+  @include flexbox;
 }
 
 .event-location__pin {

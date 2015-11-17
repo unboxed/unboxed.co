@@ -100,7 +100,7 @@
               <% end %>
               <div class="blog-related__date" id="articlePublishedDate" data-date="<%= article.date %>">
                 <span>
-                  <%= Time.parse(article.date.to_s).strftime("%e %b %Y") %>
+                  <%= Time.parse(article.date.to_s).strftime("%B %e, %Y") %>
                 </span>
               </div>
 

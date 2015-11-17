@@ -17,6 +17,7 @@
   @include responsive-title;
   font-weight: 400;
   line-height: 1.2em;
+  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 6px;
@@ -28,6 +29,7 @@
   color: $event__subtitle-color;
   font-weight: 200;
   line-height: 1.2em;
+  text-transform: lowercase;
 }
 
 .event__cta {

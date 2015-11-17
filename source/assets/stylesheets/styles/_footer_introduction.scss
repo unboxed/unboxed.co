@@ -13,6 +13,7 @@
   font-weight: 100;
   line-height: 1.2;
   max-width: 220px;
+  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     max-width: 250px;
