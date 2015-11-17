@@ -10,9 +10,8 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    display: inline-block;
+    float: left;
     width: 33%;
-    margin-right: -4px;
   }
 }
 
