@@ -39,9 +39,13 @@
 
 .project-story-small-tile__image {
   display: block;
-  height: 180px;
+  height: 125px;
   object-fit: cover;
   width: 100%;
+
+  @include breakpoint($max-mobile-container) {
+    height: 180px;
+  }
 
   @include breakpoint($tablet-breakpoint) {
     height: 110px;
@@ -54,14 +58,18 @@
 
 .project-story-small-tile__content {
   display: inline-block;
-  min-height: 75px;
+  min-height: 60px;
   padding-left: 8px;
   padding-top: 10px;
   text-decoration: none;
 
+  @include breakpoint($max-mobile-container) {
+    min-height: 75px;
+  }
+
   @include breakpoint($tablet-breakpoint) {
-    height: 95px;
-    padding: 8px 6px 0;
+    height: 103px;
+    padding: 0 6px;
     width: 100%;
   }
 }
@@ -76,6 +84,7 @@
     font-size: 1em;
     line-height: 1.3em;
     padding-right: 10px;
+    padding-top: 13px;
   }
 }
 
@@ -84,6 +93,11 @@
   font-size: 1em;
   font-weight: lighter;
   line-height: 1.3em;
+
+  @include breakpoint($max-mobile-container) {
+    font-size: 1.2em;
+    padding-right: 5px;
+  }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 0.85em;
