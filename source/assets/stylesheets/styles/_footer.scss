@@ -1,0 +1,40 @@
+.footer {
+  background-color: $dark-gray;
+  min-height: 280px;
+}
+
+.footer-container {
+  @extend %container;
+  box-sizing: border-box;
+  padding: 50px 20px 20px;
+}
+
+.footer-container__address {
+  float: left;
+  color: $white;
+  font-size: 0.85em;
+  font-weight: 100;
+  line-height: 1.5em;
+  width: 33%;
+}
+
+.footer-container__address-city {
+  font-weight: 400;
+  padding-bottom: 25px;
+}
+
+.footer-container__address-phone {
+  font-weight: 400;
+}
+
+.footer-container__registration-address {
+  font-size: 0.8em;
+  line-height: 1.4em;
+}
+
+.footer-container__company-name {
+  font-weight: 400;
+}
+
+
+

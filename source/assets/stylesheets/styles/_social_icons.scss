@@ -1,18 +1,27 @@
+.social-icons {
+  padding: 10px 0;
+}
+
 .social-icons__icon-container {
   display: inline-block;
-  margin-left: 8px;
+  margin-right: 10px;
   vertical-align: top;
 }
 
-.social-icons__icon {
+.social-icons__icon--twitter {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(center);
-  background-color: $social-icon__background-color;
+  background-color: $social-icon__twitter-color;
   border-radius: 50%;
   height: 28px;
   text-align: center;
   width: 28px;
+}
+
+.social-icons__icon--linkedin {
+  @extend .social-icons__icon--twitter;
+  background-color: $social-icon__linkedin-color;
 }
 
 .social-icons__image {

@@ -6,6 +6,7 @@ $desktop-breakpoint: 960px;
 
 // Colour palette
 $blue: #5993c6;
+$blue-strong: #55ACEE;
 $purple: #8A2D8E;
 $peach: #DD353C;
 $hotpink: #DF1753;
@@ -23,7 +24,8 @@ $page-content__background-color: $light-gray;
 $site-header__brand-color: $purple;
 $site-header__background-color: $white;
 $site-header__underline-color: darken($light-gray, 10%);
-$social-icon__background-color: $medium-gray;
+$social-icon__twitter-color: $blue-strong;
+$social-icon__linkedin-color: darken($blue, 20%);
 
 // Site navigation
 $site-navigation__link-color: $medium-gray;
