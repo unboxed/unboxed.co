@@ -1,14 +1,11 @@
 .homepage-introduction {
-}
-
-.homepage-introduction__container {
-  @extend %container;
-  box-sizing: border-box;
-  overflow: auto;
-  padding: 20px;
+  background-color: $purple;
+  min-height: 480px;
+  color: $white;
 }
 
 .homepage-introduction__text {
   @include responsive-text;
+  padding: 20px;
   font-weight: 200;
 }

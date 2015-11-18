@@ -4,12 +4,11 @@
 
 .footer__email-address {
   color: inherit;
-  font-weight: 400;
   text-decoration: none;
 }
 
 .footer__container {
-  @extend %container;
+  @extend .container;
   box-sizing: border-box;
   color: $footer__text-color;
   font-size: 0.85em;

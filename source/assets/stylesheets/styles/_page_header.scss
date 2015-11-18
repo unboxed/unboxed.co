@@ -3,7 +3,7 @@
 }
 
 .page-header__container {
-  @extend %container;
+  @extend .container;
   box-sizing: border-box;
   padding: 0 20px 20px;
 

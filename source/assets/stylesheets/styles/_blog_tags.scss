@@ -1,5 +1,5 @@
 .blog-tags__container {
-  @extend %container;
+  @extend .container;
   border-bottom: 2px solid $blog-tags__underline-color;
 }
 

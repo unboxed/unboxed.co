@@ -8,7 +8,7 @@
 }
 
 .event__container {
-  @extend %container;
+  @extend .container;
   box-sizing: border-box;
   padding: 20px;
 }
@@ -31,7 +31,7 @@
 }
 
 .event__cta {
-  @extend %container;
+  @extend .container;
   background-color: $event__cta-background-color;
   box-sizing: border-box;
   color: $event__cta-text-color;
@@ -51,6 +51,6 @@
 }
 
 .event__footer {
-  @extend %container;
+  @extend .container;
   overflow: auto;
 }
