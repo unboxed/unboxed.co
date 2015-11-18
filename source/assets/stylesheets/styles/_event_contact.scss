@@ -24,7 +24,7 @@
 
 .event-contact__text {
   color: $event__text-color;
-  font-weight: 100;
+  font-weight: 200;
   line-height: 1.3;
 
   @include breakpoint($tablet-breakpoint) {
@@ -35,7 +35,7 @@
 .event-contact__link {
   color: $event__link-color;
   text-decoration: none;
-  font-weight: normal;
+  font-weight: 400;
 
   &:hover {
     text-decoration: underline;

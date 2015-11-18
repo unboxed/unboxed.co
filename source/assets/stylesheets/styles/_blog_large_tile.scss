@@ -45,7 +45,7 @@
 .blog-large-tile__title {
   @include responsive-text;
   color: $blog-tile__title-color;
-  font-weight: lighter;
+  font-weight: 200;
   line-height: 1.3em;
   margin-bottom: 20px;
 
@@ -57,7 +57,7 @@
 .blog-large-tile__author {
   color: $blog-tile__text-color;
   font-size: .8em;
-  font-weight: bold;
+  font-weight: 600;
   margin-bottom: 6px;
   text-transform: lowercase;
 
@@ -87,7 +87,7 @@
 .blog-large-tile__article-body {
   color: $blog-tile__text-color;
   font-size: .95em;
-  font-weight: lighter;
+  font-weight: 200;
   line-height: 1.3em;
   padding: 14px;
   word-wrap: break-word;
