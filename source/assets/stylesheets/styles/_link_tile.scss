@@ -21,7 +21,7 @@
     width: 33.33%;
 
     &:hover {
-      background-color: darken($link-tile__background-color, 6%);
+      background-color: $link-tile__hover-color;
     }
 
     &:last-of-type {
@@ -30,23 +30,23 @@
   }
 }
 
-.link-tile--site-link {
-  background-color: $project-story-site-link__background-color;
+.site-link-tile {
+  background-color: $site-link-tile__background-color;
   min-height: 80px;
 
   .link-tile__type {
-    color: $project-story-site-link__type-color;
+    color: $site-link-tile__type-color;
   }
 
   .link-tile__title {
-    color: $project-story-site-link__text-color;
+    color: $site-link-tile__text-color;
   }
 
   @include breakpoint($tablet-breakpoint) {
     min-height: 160px;
 
     &:hover {
-      background-color: darken($project-story-site-link__background-color, 6%);
+      background-color: $site-link-tile__hover-color;
     }
   }
 }
@@ -75,5 +75,5 @@
   font-size: .8em;
   font-weight: 200;
   line-height: 1.3;
-  padding-top: 16px;
+  padding-top: 12px;
 }
