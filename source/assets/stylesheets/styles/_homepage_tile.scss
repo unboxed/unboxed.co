@@ -34,7 +34,7 @@
   padding: 14px 6px;
 }
 
-.homepage-tile__text {
+.homepage-tile__paragraph {
   @include responsive-text;
   color: $homepage-tile__text-color;
   padding: 0 6px 6px;

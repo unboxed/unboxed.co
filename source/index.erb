@@ -20,7 +20,7 @@ projects:
 
 <div class="homepage">
   <div class="homepage-introduction">
-    <p class="homepage-introduction__text">
+    <p class="homepage-introduction__paragraph">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab consectetur, eaque quasi, officia alias officiis cum. Unde modi facere odit est cum dolorem magni aperiam! Sapiente libero dignissimos, laboriosam eius!
     </p>
   </div>
@@ -30,31 +30,40 @@ projects:
       What we do
     </h2>
 
-    <div class="homepage-services__service">
-      <h3 class="homepage-services__subtitle">
-        Grow your idea
-      </h3>
-      <p class="homepage-services__text">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur hic voluptates repudiandae autem error dolores doloremque vero maiores culpa asperiores fugit possimus aspernatur ut totam ipsam.
-      </p>
+    <div class="homepage-service">
+      <div class="homepage-service__container">
+        <h3 class="homepage-service__title">
+          Grow your idea
+        </h3>
+        <img class="homepage-service__image" src="http://placehold.it/280x120" alt="">
+        <p class="homepage-service__paragraph">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
+        </p>
+      </div>
     </div>
 
-    <div class="homepage-services__service">
-      <h3 class="homepage-services__subtitle">
-        Build your digital product
-      </h3>
-      <p class="homepage-services__text">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet commodi omnis hic culpa sit aperiam ea ipsa quod eum quia, ab voluptatum delectus officia aliquam provident, illum natus! Asperiores, nostrum.
-      </p>
+    <div class="homepage-service">
+      <div class="homepage-service__container">
+        <h3 class="homepage-service__title">
+          Build your digital product
+        </h3>
+        <img class="homepage-service__image" src="http://placehold.it/280x120" alt="">
+        <p class="homepage-service__paragraph">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
+        </p>
+      </div>
     </div>
 
-    <div class="homepage-services__service">
-      <h3 class="homepage-services__subtitle">
-        Change your culture
-      </h3>
-      <p class="homepage-services__text">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat inventore, voluptatum necessitatibus harum iusto neque distinctio laboriosam impedit incidunt tenetur quibusdam quisquam nostrum, odio, nam id dolorem repellendus corporis quos.
-      </p>
+    <div class="homepage-service">
+      <div class="homepage-service__container">
+        <h3 class="homepage-service__title">
+          Change your culture
+        </h3>
+        <img class="homepage-service__image" src="http://placehold.it/280x120" alt="">
+        <p class="homepage-service__paragraph">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
+        </p>
+      </div>
     </div>
   </div>
 
@@ -63,30 +72,30 @@ projects:
       What we also do
     </h2>
 
-    <div class="homepage-services__service">
-      <h3 class="homepage-services__subtitle">
+    <div class="homepage-service">
+      <h3 class="homepage-service__title">
         Rescue your product
       </h3>
-      <p class="homepage-services__text">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur hic voluptates repudiandae autem error dolores doloremque vero maiores culpa asperiores fugit possimus aspernatur ut totam ipsam.
+      <p class="homepage-service__paragraph">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
       </p>
     </div>
 
-    <div class="homepage-services__service">
-      <h3 class="homepage-services__subtitle">
+    <div class="homepage-service">
+      <h3 class="homepage-service__title">
         Your next phase
       </h3>
-      <p class="homepage-services__text">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet commodi omnis hic culpa sit aperiam ea ipsa quod eum quia, ab voluptatum delectus officia aliquam provident, illum natus! Asperiores, nostrum.
+      <p class="homepage-service__paragraph">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
       </p>
     </div>
 
-    <div class="homepage-services__service">
-      <h3 class="homepage-services__subtitle">
+    <div class="homepage-service">
+      <h3 class="homepage-service__title">
         Support you
       </h3>
-      <p class="homepage-services__text">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat inventore, voluptatum necessitatibus harum iusto neque distinctio laboriosam impedit incidunt tenetur quibusdam quisquam nostrum, odio, nam id dolorem repellendus corporis quos.
+      <p class="homepage-service__paragraph">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
       </p>
     </div>
   </div>
@@ -105,7 +114,7 @@ projects:
             <%= project.name %>
           </h3>
 
-          <p class="homepage-tile__text">
+          <p class="homepage-tile__paragraph">
             <%= project.description %>
           </p>
         </div>
@@ -115,16 +124,16 @@ projects:
 
   <div class="component">
     <div class="component__tile">
-      <div class="homepage-contact">
-        <h2 class="homepage-contact__title">
+      <div class="text-tile">
+        <h2 class="text-tile__title">
           What about you?
         </h2>
 
-        <p class="homepage-contact__text">
+        <p class="text-tile__paragraph">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat nulla itaque ex voluptatibus magni sunt alias, sequi, molestias aspernatur, enim asperiores numquam placeat dignissimos ipsa quam recusandae consectetur illum maxime!
         </p>
 
-        <form action="//formspree.io/tom.sabin@unboxedconsulting.com" method="POST">
+        <form class="homepage-contact" action="//formspree.io/tom.sabin@unboxedconsulting.com" method="POST">
           <input type="text" name="_gotcha" style="display:none" />
           <input type="hidden" name="_subject" value="Homepage enquiry">
           <input type="email" name="_replyto" placeholder="Your email" >
@@ -169,7 +178,7 @@ projects:
       Our newsletter
     </h2>
 
-    <p class="homepage-newsletter__text">
+    <p class="homepage-newsletter__paragraph">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio corrupti eos at perspiciatis. Quidem illo, recusandae, hic adipisci officiis itaque laboriosam minus est harum sequi odit accusamus. Recusandae ut, commodi.
     </p>
 

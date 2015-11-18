@@ -1,14 +1,15 @@
 .homepage-newsletter {
   background-color: $white;
-  padding: 20px;
+  padding: 60px 20px 100px;
 }
 
 .homepage-newsletter__title {
   @include responsive-title;
   font-weight: 200;
+  margin-bottom: 40px;
 }
 
-.homepage-newsletter__text {
+.homepage-newsletter__paragraph {
   @include responsive-text;
   font-weight: 200;
   line-height: 1.3em;
