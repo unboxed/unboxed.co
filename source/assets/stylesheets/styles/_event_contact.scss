@@ -33,5 +33,11 @@
 }
 
 .event-contact__link {
-  color: $event-contact__link-color;
+  color: $event__link-color;
+  text-decoration: none;
+  font-weight: normal;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }

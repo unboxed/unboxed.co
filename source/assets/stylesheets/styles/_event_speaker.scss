@@ -62,7 +62,7 @@
 .event-speaker__role {
   color: $event__text-color;
   font-weight: 100;
-  line-height: 1.6;
+  line-height: 1.3;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.1em;
@@ -70,12 +70,16 @@
 }
 
 .event-speaker__twitter {
-  color: $event__text-color;
-  font-weight: 100;
+  color: $event__link-color;
   line-height: 1.6;
+  text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.1em;
+  }
+
+  &:hover {
+    text-decoration: underline;
   }
 }
 
