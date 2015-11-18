@@ -1,6 +1,5 @@
 .blog-content {
   h1 {
-    color: $blog-content__heading-color;
     font-size: 1.3em;
     line-height: 1.4;
     margin-bottom: 20px;
@@ -11,12 +10,13 @@
   }
 
   h2 {
-    font-size: 1.2em;
-    line-height: 1.3;
+    color: $blog-content__heading-color;
+    font-size: 1.3em;
+    line-height: 1.4;
     margin-bottom: 20px;
 
     @include breakpoint($max-mobile-container) {
-      font-size: 1.4em;
+      font-size: 1.5em;
     }
   }
 
@@ -44,8 +44,6 @@
   }
 
   p,
-  ul,
-  ol,
   table,
   blockquote {
     font-size: 1em;
@@ -60,9 +58,14 @@
 
   ul,
   ol {
+    font-size: 1em;
+    font-weight: 200;
+    line-height: 1.3;
     padding-left: 24px;
+    margin-bottom: 20px;
 
     @include breakpoint($tablet-breakpoint) {
+      font-size: 1.1em;
       padding-left: 30px;
     }
   }
@@ -75,10 +78,15 @@
     list-style-type: disc;
   }
 
+  li {
+    margin-bottom: 6px;
+  }
+
   a {
     color: $blog-content__link-color;
     text-decoration: none;
     word-wrap: break-word;
+    font-weight: normal;
 
     &:hover {
       text-decoration: underline;
