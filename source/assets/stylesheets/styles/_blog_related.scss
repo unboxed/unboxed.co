@@ -30,7 +30,7 @@
   padding-top: 10px;
   padding-left: 3px;
 
-  @include breakpoint($desktop-breakpoint) {
+  @include breakpoint($tablet-breakpoint) {
     display: inline;
   }
 }
@@ -47,7 +47,7 @@
 .blog-related__tag {
   display: inline-block;
 
-  @include breakpoint($desktop-breakpoint) {
+  @include breakpoint($tablet-breakpoint) {
     &:after {
       color: $blog-related__text-color;
       content: "-";

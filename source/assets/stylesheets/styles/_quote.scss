@@ -27,13 +27,7 @@
     content: close-quote;
   }
 
-  @include breakpoint($mobile-font-breakpoint) {
-    &:before {
-      left: -8px;
-    }
-  }
-
-  @include breakpoint($max-mobile-container) {
+  @include breakpoint($tablet-breakpoint) {
     &:before {
       left: -10px;
     }
