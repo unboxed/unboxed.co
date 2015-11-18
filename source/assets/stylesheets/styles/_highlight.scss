@@ -42,7 +42,6 @@
   font-weight: 100;
   line-height: 1.3;
   padding: 8px 0 16px;
-  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     padding-bottom: 2vw;

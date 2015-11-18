@@ -37,7 +37,6 @@
   font-weight: lighter;
   line-height: 1.3em;
   margin-bottom: 20px;
-  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 6px;
