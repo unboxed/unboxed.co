@@ -27,7 +27,7 @@ The morning kicked off with a colourful paper aeroplane-based exercise:<br/>
 <br/>
 The session then began:<br/>
 
-<h2>Talk 1:<i>“Trust me, I’m a product manager”</i>: case study from publishing</h2>
+<h1>Talk 1:<i>“Trust me, I’m a product manager”</i>: case study from publishing</h1>
 Dave Evans, Product Manager (E-commerce), at [Nature Publishing Group] (http://www.nature.com) kicked off the talks with a case study, diving into the publishing sector. He discussed the hypothetical first 5 days of a journey as a Product Manager:<br/>
 
 ![Event1](http://i1291.photobucket.com/albums/b548/grammccram/DSC01880_zps0tmcbyfj.jpg)<br/>
@@ -48,7 +48,7 @@ Dave Evans, Product Manager (E-commerce), at [Nature Publishing Group] (http://w
 <br/>
 
 
-<h2>Talk 2: How designing a new experience in the NHS helped to unblock and unleash new potential</h2>
+<h1>Talk 2: How designing a new experience in the NHS helped to unblock and unleash new potential</h1>
 The second session was led by [Glyn Parry](https://twitter.com/G_Parry24), Programme Manager of [SH:24](http://www.unboxedconsulting.com/case-studies/sh24) – a community interested company which partners with the NHS.<br/>
 <br/>
 Glyn shared the insight into why an iterative and Agile approach has been used to turn STI testing on its head - challenging deep seated practices and prejudices in the NHS and local authorities:<br/>
@@ -71,7 +71,7 @@ Glyn shared the insight into why an iterative and Agile approach has been used t
 <blockquote class="twitter-tweet" lang="en"><p>Interesting speech on <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/hashtag/prototyping?src=hash">#prototyping</a> for sexual health services with <a href="https://twitter.com/sh24_nhs">@sh24_nhs</a> <a href="https://twitter.com/hashtag/stuckpipeline?src=hash">#stuckpipeline</a> <a href="http://t.co/0USxsCxpuA">pic.twitter.com/0USxsCxpuA</a></p>&mdash; Dimitri Berti (@dimitriberti) <a href="https://twitter.com/dimitriberti/status/580678766470553600">March 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
-<h2>Talk 3: Interview with Will Rowan</h2>
+<h1>Talk 3: Interview with Will Rowan</h1>
 Will Rowan [@TheCustomer](https://twitter.com/thecustomer), Product Owner at [UK Ministry of Justice Digital]( https://twitter.com/MOJDigital), was the third speaker, taking to the floor with a Q&A session:<br/>
 
 ![Event3](http://i1291.photobucket.com/albums/b548/grammccram/DSC01895_zpstaxntyvx.jpg)<br/>
@@ -94,7 +94,7 @@ Will Rowan [@TheCustomer](https://twitter.com/thecustomer), Product Owner at [UK
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/thecustomer">@thecustomer</a> form <a href="https://twitter.com/MOJDigital">@MOJDigital</a> says &quot;don&#39;t tackle whole elephant at once&quot; <a href="https://twitter.com/hashtag/stuckpipeline?src=hash">#stuckpipeline</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/580689688253636608">March 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
-<h2>Talk 4: Techniques for overcoming the top digital product blockers</h2>
+<h1>Talk 4: Techniques for overcoming the top digital product blockers</h1>
 Last, but by no means least, was [Richard Stobart](http://www.unboxedconsulting.com/people/richard-stobart). Richard spoke through the exact reasons as to why digital products get stuck and explored the techniques and methods to speed them back up again:<br/>
 
 ![Event4](http://i1291.photobucket.com/albums/b548/grammccram/DSC01908_zpsehdbafre.jpg)<br/>
@@ -112,7 +112,7 @@ Last, but by no means least, was [Richard Stobart](http://www.unboxedconsulting.
 <blockquote class="twitter-tweet" lang="en"><p>Deliver highest value first <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://twitter.com/hashtag/UnstuckPipeline?src=hash">#UnstuckPipeline</a> <a href="http://t.co/5UxJVRLCY5">pic.twitter.com/5UxJVRLCY5</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/580699644889567232">March 25, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
-<h2>Session slides:</h2>
+<h1>Session slides:</h1>
 The slide deck from the session:<br/>
 <br/>
 <iframe src="//www.slideshare.net/slideshow/embed_code/46280898" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/unstick-your-digital-product-25th-march-2015" title="Unstick your digital products - 25th March 2015" target="_blank">Unstick your digital products - 25th March 2015</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed Consulting</a></strong> </div>

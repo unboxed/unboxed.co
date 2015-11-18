@@ -20,7 +20,7 @@ With the impending release of Rails 5.0 likely to be the biggest release for fiv
 
 <p align="center"><img src="http://bit.ly/1LCFYQM" alt="Gathered Rails crowd"></p>
 
-<h2>The main topics covered included:</h2>
+<h1>The main topics covered included:</h1>
 
 *  Action Cable - What is it?<br/>
 * Turbolinks 3 - New features, persistent elements, partial replacement<br/>
@@ -31,7 +31,7 @@ With the impending release of Rails 5.0 likely to be the biggest release for fiv
 
 <p align="center"><img src="http://bit.ly/1QtbGUg" alt="Rails insights"></p>
 
-<h2>Other insights shared included:</h2><br/>
+<h1>Other insights shared included:</h1><br/>
 
 <p align="center"><img src="http://bit.ly/1FaJcOX" alt="Upgrade all the Rails apps"></p>
 <p align="center"><img src="http://bit.ly/1j2Mv0s" alt="Don't worry"></p>

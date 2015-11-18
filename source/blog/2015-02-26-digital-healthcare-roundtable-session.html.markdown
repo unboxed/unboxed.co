@@ -28,17 +28,17 @@ With everyone comfortably seated, the discussion was opened, addressing the init
 
 The session's three speakers each presented:<br/>
 <br/>
-<h2>Presenter 1: Kumar Jacob MBE, Principal Consultant at KJx</h2>
+<h1>Presenter 1: Kumar Jacob MBE, Principal Consultant at KJx</h1>
 
 Kumar is currently leading an initiative to bring to life the innovative use of technology in mental healthcare.<br/>
 <br/>
 
-<h2>Presenter 2: Thomas Whicher, Co-Founder at DrDoctor</h2>
+<h1>Presenter 2: Thomas Whicher, Co-Founder at DrDoctor</h1>
 
 With a background in operational improvement, Tom worked in several hospitals delivering multimillion-pound savings, before setting up DrDoctor.<br/>
 <br/>
 
-<h2>Presenter 3: Ian Drysdale, CTO at GoodGym</h2>
+<h1>Presenter 3: Ian Drysdale, CTO at GoodGym</h1>
 
 As CTO of GoodGym, Ian is using software and design to address problems associated with ageing.<br/>
 <br/>
@@ -53,7 +53,7 @@ The four most popular topics were then identified and brought to the group discu
 ![healthcare3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-24%20at%2017.12.36_zps6x8herpg.png)
 
 <br/>
-<h2>Discussion 1: Scale</h2>
+<h1>Discussion 1: Scale</h1>
 
 * Planning to scale from the start<br/>
 * How do you create value from the start for patients?<br/>
@@ -61,14 +61,14 @@ The four most popular topics were then identified and brought to the group discu
 * Is it hard to achieve scale?<br/>
 <br/>
 
-<h2>Discussion 2: Creating space for investigation</h2>
+<h1>Discussion 2: Creating space for investigation</h1>
 
 * Encouraging ideas and solutions to develop<br/>
 * Incubating ideas and solutions<br/>
 * Changing the way in which we bring ideas forward<br/>
 <br/>
 
-<h2>Discussion 3: Sharing platforms</h2>
+<h1>Discussion 3: Sharing platforms</h1>
 
 * Generic platforms vs. customer-built platforms<br/>
 * Shared infrastructure<br/>
@@ -76,7 +76,7 @@ The four most popular topics were then identified and brought to the group discu
 * Code share<br/>
 <br/>
 
-<h2>Discussion 4: Immediate measurable value</h2>
+<h1>Discussion 4: Immediate measurable value</h1>
 
 * How do we measure value?<br/>
 * How do we deliver value quickly to patients and providers?<br/>

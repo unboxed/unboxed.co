@@ -26,7 +26,7 @@ Five of Team Unboxed boarded the train at Paddington Station to head to Agile on
 After a long journey (6 hours…), we finally touched down in the delightful seaside town of Falmouth, the location of the conference. After a small sample of what Falmouth had to offer cuisine-wise (mainly fish and chips) and a short sleep, we were ready and raring to go.<br/>
 <br/>
 
-<h2>Conference kick off</h2>
+<h1>Conference kick off</h1>
 The conference kicked off with the Keynote on Thursday morning: <i>‘Continuous Delivery’</i> by Dave Farley ([@davefarley77](https://twitter.com/davefarley77?lang=en)), author of <i>[‘Continuous Delivery’](http://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)</i> and the <i>[‘Reactive Manifesto’](http://www.reactivemanifesto.org)</i>
 
 Dave shared his [Three Laws](http://agileonthebeach.com/dave-farley-continuous-development-keynote-live-blog/):<br/>
@@ -44,14 +44,14 @@ Each of us then took off to follow our individual talk schedules. Being a non-te
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Focus your team on what is going to deliver the value. <a href="https://twitter.com/hashtag/agileotb?src=hash">#agileotb</a></p>&mdash; Gram (@GramMcCram) <a href="https://twitter.com/GramMcCram/status/639381137731776512">September 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
-<h2>Lightning talks</h2>
+<h1>Lightning talks</h1>
 
 <p>During the day, attendees were encouraged to submit their name for the final lightning talk session at the end of the first day. Names were pulled out during the last session. Claire was one of the lucky names to be pulled out, taking to the stage to share her talk titled <i>‘Redesigning the UX of Employment’</i>:</p>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">And <a href="https://twitter.com/ClaireKmp">@ClaireKmp</a> has taken to the stage. <a href="https://twitter.com/hashtag/agileotb?src=hash">#agileotb</a> <a href="http://t.co/dojdSEeh95">pic.twitter.com/dojdSEeh95</a></p>&mdash; Unboxed Consulting (@Ubxd) <a href="https://twitter.com/Ubxd/status/639479147450998784">September 3, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
-<h2>Party on the Beach</h2>
+<h1>Party on the Beach</h1>
 
 <p>With the first day of the conference officially closed, it was time for everyone to shuffle on down to the beach for the famous Agile on the Beach party...</p>
 
@@ -66,7 +66,7 @@ Each of us then took off to follow our individual talk schedules. Being a non-te
 <p align="center"><img src="http://bit.ly/1FrmbSc" alt="Sand sculptures"></p>
 <br/>
 
-<h2>Day two</h2>
+<h1>Day two</h1>
 
 <p>Day two was very much a continuation of the talk programme from the previous day, which opened with Jenni Jepson sharing the neuroscience of Agile leadership. She nailed it with this:</p>
 
@@ -87,7 +87,7 @@ And Woody Zuill ([@WoodyZuill](https://twitter.com/WoodyZuill)) put out a final 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hugely enjoyable talk by <a href="https://twitter.com/WoodyZuill">@WoodyZuill</a> rounding off the conference <a href="https://twitter.com/hashtag/aotb?src=hash">#aotb</a> <a href="http://t.co/dpWZEOum7I">pic.twitter.com/dpWZEOum7I</a></p>&mdash; Jan Stette (@JanStette) <a href="https://twitter.com/JanStette/status/639848966398545920">September 4, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
-<h2>To retrospect...</h2>
+<h1>To retrospect...</h1>
 In true Agile style, it's vital to retrospect. Overall, Agile on the Beach 2015 was a very insightful conference and I'm glad got the opportunity to attend. A good year to take a first step into the five-year-running conference. For an event focused mainly around software development, the programme offered so much more than the core-technical talks, which I found to be very beneficial.<br/>
 
 The session which struck me the most and I’ve taken the most away from was Belinda Waldock ([@belindawaldock](https://twitter.com/belindawaldock))'s <i>‘Being Agile in Business’</i>. Inspirational, motivating <b>and</b> applicable to real life. Belinda used the real life example of how she went against the traditional method of writing a book. Instead she applied an Agile approach to the whole process, breaking the process down into small bite-sized chunks and iterating.

@@ -30,7 +30,7 @@ Joined by heads of industry and thought-leaders in the media sector, the session
 <br/>
 
 ## Lightning talk 1: ‘The Brain vs. Your Funding’
-<h2>Melissa Sabella, Director, Product and Innovation - Reed Learning</h2>
+<h1>Melissa Sabella, Director, Product and Innovation - Reed Learning</h1>
 The session kicked off with Melissa, where she explored:
 
 * Agile builds versus poor knowledge structures
@@ -45,7 +45,7 @@ Melissa's session slides:
 
 
 ## Lightning talk 2: 'The onion and the orange'
-<h2>Richard Stobart, CEO - Unboxed Consulting</h2>
+<h1>Richard Stobart, CEO - Unboxed Consulting</h1>
 
 The second lightning talk came from our very own CEO. Richard compared the old way of building systems (‘oranges’) with the new way (‘onions’): <i>“As we build up the layers, it comes more like an onion”</i>. Also explored was:
 
@@ -58,7 +58,7 @@ The second lightning talk came from our very own CEO. Richard compared the old w
 
 
 ## Lightning talk 3
-<h2>Richard Atherton, Management Consultant, Coach & Programme Manager</h2>
+<h1>Richard Atherton, Management Consultant, Coach & Programme Manager</h1>
 
 The final lightning talk came from Richard Atherton, where he revealed the top 6 factors to resisting change in an organisational team. He also took thoughts from the audience on any additional factors.
 
@@ -74,7 +74,7 @@ With the three lightning talks complete, it was time to move into the discussion
 <p align="center"><img src="http://bit.ly/1Ahkr12" alt="Post it session 2"></p>
 <br/>
 
-<h2>Discussion #1: 'Stakeholder engagement'</h2>
+<h1>Discussion #1: 'Stakeholder engagement'</h1>
 <img src="http://bit.ly/1Anf1Bg" alt="Stakeholder engagement">
 
 The first discussion explored:
@@ -86,7 +86,7 @@ The first discussion explored:
 <br/>
 <br/>
 
-<h2>Discussion #2: 'Leadership and bravery'</h2>
+<h1>Discussion #2: 'Leadership and bravery'</h1>
 <img src="http://bit.ly/1PyBhio" alt="Leadership and bravery">
 
 Discussion two looked into:
@@ -99,7 +99,7 @@ Discussion two looked into:
 <br/>
 <br/>
 
-<h2>Discussion #3: 'Fitting to the budget and why lawyers don't like Agile'</h2>
+<h1>Discussion #3: 'Fitting to the budget and why lawyers don't like Agile'</h1>
 <img src="http://bit.ly/1HvQfP3" alt="Expert opinion vs the rest">
 
 Discussion three addressed budgeting within projects, including:
@@ -111,7 +111,7 @@ Discussion three addressed budgeting within projects, including:
 <br/>
 <br/>
 
-<h2>Discussion #4: 'Expert opinion vs. the rest'</h2>
+<h1>Discussion #4: 'Expert opinion vs. the rest'</h1>
 <img src="http://bit.ly/1GrW41u" alt="Expert opinion vs the rest">
 
 The final discussion covered:

@@ -10,11 +10,11 @@ tags:
 [Carlo Kruger](http://www.unboxedconsulting.com/people/carlo-kruger) hosted the final webinar in the <i>#StrongerAgile</i> series, titled <i>‘Offshoring Agile: Make it work in practice’</i>, live from our Cape Town office. Despite the belief that Agile can’t work offshore, this webinar explains how it can flourish with the right mindset, processes and relationship.<br/>
 <br/>
 
-<h2>The audio of the full session:</h2>
+<h1>The audio of the full session:</h1>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/196626765&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <br/>
-<h2>Topics covered included:</h2>
+<h1>Topics covered included:</h1>
 
 * Communication, culture and trust in an Agile environment<br/>
 * How do we build relationships with people we don't have face-to-face contact with?<br/>
@@ -25,7 +25,7 @@ tags:
 * Facilitation of meetings<br/>
 <br/>
 
-<h2>Amongst these topics, Carlo shared insights:</h2>
+<h1>Amongst these topics, Carlo shared insights:</h1>
 
 * There has always been a greater demand of software developers than the available supply<br/>
 * There is a measurable bias in all online communications<br/>

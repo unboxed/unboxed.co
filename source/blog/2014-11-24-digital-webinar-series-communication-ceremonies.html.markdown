@@ -13,7 +13,7 @@ tags:
 
 ![webinar1](http://i1291.photobucket.com/albums/b548/grammccram/fdd183d1-fc48-45c4-a2b7-e27e26c84e20_zps11e39c22.png)<br/>
 
-<h2>Topics covered included:</h2>
+<h1>Topics covered included:</h1>
 
 * How to put the audience at ease<br/>
 * How to encourage feedback<br/>
@@ -21,7 +21,7 @@ tags:
 * Passive, continual and transparent communication<br/>
 <br/>
 
-<h2>Among the insights shared were:</h2>
+<h1>Among the insights shared were:</h1>
 
 * Get the Product Owner to run the Show and Tell - get them to cover what was delivered and what you plan to deliver next, actively encourage feedback<br/>
 * Show the features you have delivered, those you planned and didn't deliver, and those you're doing next<br/>
@@ -32,7 +32,7 @@ tags:
 * Get your same team fully committed to your project by committing to and delivering a retrospective every two weeks, without fail<br/>
 </br>
 
-<h2>Tips for the most successful two-weekly retrospectives included:</h2>
+<h1>Tips for the most successful two-weekly retrospectives included:</h1>
 
 * Start retrospective with the [Retrospective Prime Directive](http://www.retrospectives.com/pages/retroPrimeDirective.html)<br/>
 * Make it short, sharp and FULL of trust + collaboration<br/>

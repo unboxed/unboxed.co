@@ -15,7 +15,7 @@ tags:
 2. The exact customers who will pay for the solution<br/>
 <br/>
 
-<h2>Listen to the audio of the session:</h2>
+<h1>Listen to the audio of the session:</h1>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/212820706&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <br/>
@@ -24,7 +24,7 @@ The session slides:<br/>
 <br/>
 
 
-<h2>Topics covered included:</h2>
+<h1>Topics covered included:</h1>
 * Does the problem exist? Will our solution solve it? Will people pay for it?
 * Validating your personas
 * The interviewing process – how to get the most out of each round
@@ -35,7 +35,7 @@ The session slides:<br/>
 <br/>
 <br/>
 
-<h2>Other insights shared:</h2>
+<h1>Other insights shared:</h1>
 * Interview people who give you the insights, the people who experience the problem that you think you’re going to solve
 * Identify your assumptions, go out and talk to people
 * Prepare for your interviews by knowing your goals ahead of time
@@ -55,7 +55,7 @@ The session slides:<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Encourage your end user to talk through open-ended questions, avoid the ‘yes’/‘no’ questions. <a href="https://twitter.com/martynrevans">@martynrevans</a> <a href="https://twitter.com/hashtag/SpeedAgile?src=hash">#SpeedAgile</a></p>&mdash; Unboxed Consulting (@Ubxd) <a href="https://twitter.com/Ubxd/status/616263144441294848">July 1, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 <br/>
-<h2>Join us for the final session:</h2>
+<h1>Join us for the final session:</h1>
 
 We still have one more session in the <i>SpeedAgile</i> webinar series – [get your place now](https://www.unboxedconsulting.com/news/the-speed-agile-webinar-series).<br/>
 
