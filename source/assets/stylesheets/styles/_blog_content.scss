@@ -1,5 +1,6 @@
 .blog-content {
   h1 {
+    color: $blog-content__heading-color;
     font-size: 1.3em;
     line-height: 1.4;
     margin-bottom: 20px;
@@ -10,7 +11,6 @@
   }
 
   h2 {
-    color: $blog-content__heading-color;
     font-size: 1.3em;
     line-height: 1.4;
     margin-bottom: 20px;
