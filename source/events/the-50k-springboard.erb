@@ -1,0 +1,247 @@
+---
+title: "The £50k Springboard"
+subtitle: "How to use the first £50k of a digital product to build the business case for the next £500k"
+
+who_should_attend_title: "Who should attend?"
+who_should_attend:
+  - CTOs
+  - Product Owners
+  - Product Managers
+
+date: "Monday 30th November"
+time: "9am for 9.30am – 12.00pm"
+date_time: "2015-11-30 09:00"
+location: "Adam House, 7-10 Adam Street, London, WC2N 6AA"
+cta:
+  text: "Get my place"
+  url: "http://www.eventbrite.co.uk/e/the-50k-springboard-how-to-use-the-first-50k-of-a-digital-product-to-build-the-business-case-for-tickets-19361500770"
+
+content:
+  introduction: "How do you prove the concept for a large, new digital product and unlock a full budget, with just the first signed-off £50k... especially when you’re using Agile? Hear from those who have tried, tested and succeeded in doing so - Reed Learning, NHS SH:24 and BBC."
+
+  find_out_title: "Find out how to"
+  find_out:
+    - "Build a business case for a new digital product or the overhaul of an existing one, using the first £50k as a springboard"
+    - "Structure the Agile phases of work to demonstrate value and unlock the rest of the budget"
+    - "Build trust with stakeholders at high risk product phases"
+    - "Communicate value, learning, risk and progress clearly to people unfamiliar with Agile"
+    - "Work with development partners to nail the first phase to build trust"
+    - "Use the psychology of ‘the money’ to avoid classic Agile stakeholder pitfalls"
+
+  responsible_for_title: "This event is for those responsible for"
+  responsible_for:
+    - "Getting a major new software application off the ground"
+    - "Planning a major overhaul an existing online software product"
+    - "Creating the business case for a significant development budget"
+
+speakers:
+  - name: "Gillian Holdsworth"
+    role: "Programme Director at SH:24"
+    twitter: "PhulmayaGillian"
+    image: "/events/images/gillian-holdsworth.jpg"
+    bio: "Dr Gillian Holdsworth is a public health expert with substantial experience of living and working in Nepal and UK. A fluent Nepali speaker, she is a skilled leader, with an outstanding talent for collaborative working in multi-cultural settings and getting things done. Gillian is currently the public health lead for health protection and sexual health services in Lambeth and Southwark, London, UK. She is the programme director for SH:24, a new online sexual health service delivered in partnership with the NHS for residents of Lambeth and Southwark."
+
+  - name: "Melissa Sabello"
+    role: "Director, Product and Innovation at Reed Learning"
+    twitter: "msabella"
+    image: "/events/images/melissa-sabello.jpg"
+    bio: "Melissa is Director of Product and Innovation at Reed Learning. Her passion is developing creative products and services for education by working with organisations and learners to define their challenges and then delivering innovative solutions. She works with technology teams, marketing teams, sales people and executives internally to ensure that the voice of the customer is in everything they build."
+
+  - name: "Rich Atherton"
+    role: "Business Consultant"
+    twitter: "rathertonrich"
+    image: "/events/images/rich-atherton.jpg"
+    bio: "Richard is a consultant with 15 years’ experience. He has led or helped to deliver complex programmes at ITV, BBC and Universal International. He has a big interest in the human condition and organisational culture. He’s a fair-weather yogi and currently working on an Agile-meets-Yoga workshop concept."
+
+questions:
+  title: "Any questions?"
+  person:
+    name: "graeme-mccubbin"
+    first_name: "Graeme"
+    role: "events person"
+  mailto:
+    to: "graeme.mccubbin@unboxed.co"
+    subject: "Enquiry into 'The £50k Springboard event'"
+
+past_events:
+  - title: "Unstick your digital products"
+    link: "/blog/ubxd-event-kicking-the-cobwebs-out-of-your-stuck-digital-product-pipeline/"
+
+  - title: "Digital leaders discover the 'new rules' of outsourcing - Agile Teams session"
+    link: "/blog/digital-leaders-discover-the-new-rules-of-outsourcing-agile-teams-session/"
+
+  - title: "Roundtable: Digital Healthcare"
+    link: "/blog/digital-healthcare-roundtable-session/"
+---
+
+<% content_for(:title) { "Event - #{current_page.data.title}" } %>
+
+<div class="event">
+  <div class="event__container">
+    <h1 class="event__title">
+      <%= current_page.data.title %>:
+    </h1>
+
+    <h2 class="event__subtitle">
+      <%= current_page.data.subtitle %>
+    </h2>
+  </div>
+
+  <div class="event-info">
+    <a class="event-location--tablet" href="https://www.google.com/maps/place/<%= current_page.data.location %>/" data-header-waypoint>
+      <img class="event-location__map" src="http://maps.googleapis.com/maps/api/staticmap?size=480x240&markers=color:red%7C<%= URI.escape current_page.data.location %>&sensor=false&scale=2&zoom=14" alt="Google Map of <%= current_page.data.location %>" target="_blank">
+      <div class="event-location__overlay">
+        <div class="event-location__pinned-address">
+          <i class="fa fa-map-marker event-location__pin"></i>
+          <address class="event-location__address">
+            <%= current_page.data.location %>
+          </address>
+        </div>
+      </div>
+    </a>
+
+    <div class="event-info__detail-container">
+      <div class="event-info__detail">
+        <i class="fa fa-users event-info__detail-icon"></i>
+        <div>
+          <h3 class="event-info__detail-title">
+            <%= current_page.data.who_should_attend_title %>
+          </h3>
+          <p>
+            <%= current_page.data.who_should_attend.join(', ') %>
+          </p>
+        </div>
+      </div>
+
+      <time class="event-info__detail" datetime="<%= current_page.data.date_time %>">
+        <i class="fa fa-calendar event-info__detail-icon"></i>
+        <div>
+          <h3 class="event-info__detail-title">
+            <%= current_page.data.date %>
+          </h3>
+          <p>
+            <%= current_page.data.time %>
+          </p>
+        </div>
+      </time>
+
+      <a class="event-location--mobile" href="https://www.google.com/maps/place/<%= current_page.data.location %>/" data-header-waypoint>
+        <img class="event-location__map" src="http://maps.googleapis.com/maps/api/staticmap?size=375x100&markers=color:red%7C<%= URI.escape current_page.data.location %>&sensor=false&scale=2&zoom=14" alt="Google Map of <%= current_page.data.location %>" target="_blank">
+        <div class="event-location__overlay">
+          <div class="event-location__pinned-address">
+            <i class="fa fa-map-marker event-location__pin"></i>
+            <address class="event-location__address">
+              <%= current_page.data.location %>
+            </address>
+          </div>
+        </div>
+      </a>
+
+      <a class="event__cta" href="<%= current_page.data.cta.url %>">
+        <%= current_page.data.cta.text %>
+      </a>
+    </div>
+  </div>
+
+  <div class="event__container">
+    <div class="event-content">
+      <p class="event-content__text">
+        <%= current_page.data.content.introduction %>
+      </p>
+
+      <h4 class="event-content__title">
+        <%= current_page.data.content.find_out_title %>:
+      </h4>
+
+      <ul class="event-content__list">
+        <% current_page.data.content.find_out.each do |item| %>
+          <li class="event-content__list-item">
+            <%= item %>
+          </li>
+        <% end %>
+      </ul>
+
+      <h4 class="event-content__title">
+        <%= current_page.data.content.responsible_for_title %>:
+      </h4>
+
+      <ul class="event-content__list">
+        <% current_page.data.content.responsible_for.each do |item| %>
+          <li class="event-content__list-item">
+            <%= item %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+
+    <h4 class="event-content__title event-speaker__title">
+      Speakers
+    </h4>
+
+    <% current_page.data.speakers.each do |speaker| %>
+      <div class="event-speaker">
+        <div class="event-speaker__info">
+          <img class="event-speaker__image" src="<%= speaker.image %>" alt="<%= speaker.name %>">
+          <div class="event-speaker__details">
+            <div class="event-speaker__name">
+              <%= speaker.name %>
+            </div>
+            <div class="event-speaker__role">
+              <%= speaker.role %>
+            </div>
+            <a class="event-speaker__twitter" href="https://twitter.com/intent/user?screen_name=<%= speaker.twitter %>">
+              @<%= speaker.twitter %>
+            </a>
+          </div>
+        </div>
+
+        <div class="event-speaker__text">
+          <%= speaker.bio %>
+        </div>
+      </div>
+    <% end %>
+  </div>
+
+  <div class="event__container">
+    <a class="event__cta" href="<%= current_page.data.cta.url %>">
+      <%= current_page.data.cta.text %>
+    </a>
+  </div>
+
+  <div class="event__container">
+    <aside class="event-contact">
+      <img class="event-contact__image" src="/assets/images/people/<%= current_page.data.questions.person.name %>.png" alt="<%= current_page.data.questions.person.first_name %>"/>
+      <div>
+        <p class="event-contact__title">
+          <%= current_page.data.questions.title %>
+        </p>
+        <p class="event-contact__text">
+          Get in touch with <a class="event-contact__link" href="mailto:<%= current_page.data.questions.mailto.to %>?Subject=<%= current_page.data.questions.mailto.subject %>" target="_top"><%= current_page.data.questions.person.first_name %></a>, our <%= current_page.data.questions.person.role %>.
+        </p>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<footer class="event__footer">
+  <div class="footer-introduction">
+    <h3 class="footer-introduction__title">
+      Past events
+    </h3>
+  </div>
+
+  <% current_page.data.past_events.each do |event| %>
+    <a class="related-tile" href="<%= event.link %>">
+      <div class="related-tile__text-content">
+        <div>
+          <div class="related-tile__type">
+            event summary
+          </div>
+          <div class="related-tile__title">
+            <%= event.title %>
+          </div>
+        </div>
+      </div>
+    </a>
+  <% end %>
+</footer>

@@ -1,0 +1,39 @@
+.event-info {
+  @extend %container;
+  box-sizing: border-box;
+  padding: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+  }
+}
+
+.event-info__detail-container {
+  @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+    @include flex-direction(column);
+    @include justify-content(space-between);
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 50%;
+    box-sizing: border-box;
+  }
+}
+
+.event-info__detail {
+  @include align-items(center);
+  @include flex-flow(center);
+  @include flexbox;
+  color: $event__detail-text-color;
+  font-size: 0.9em;
+  line-height: 1.2em;
+  margin-bottom: 20px;
+}
+
+.event-info__detail-icon {
+  padding-right: 14px;
+}
+
+.event-info__detail-title {
+  font-weight: 600;
+}

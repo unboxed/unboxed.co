@@ -63,12 +63,14 @@
 }
 
 .site-navigation__link {
+  border-bottom: 3px solid transparent;
   color: $site-navigation__link-color;
   display: inline-block;
   font-size: 0.9em;
   padding: 10px;
   position: relative;
   text-decoration: none;
+  text-transform: lowercase;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 
   &:last-of-type {

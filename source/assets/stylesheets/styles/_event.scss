@@ -1,0 +1,56 @@
+.event {
+  background-color: $event__background-color;
+  padding-top: 10px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 30px;
+  }
+}
+
+.event__container {
+  @extend %container;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.event__title {
+  @include responsive-title;
+  font-weight: 400;
+  line-height: 1.2em;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 6px;
+  }
+}
+
+.event__subtitle {
+  @include responsive-title;
+  color: $event__subtitle-color;
+  font-weight: 200;
+  line-height: 1.2em;
+}
+
+.event__cta {
+  @extend %container;
+  background-color: $event__cta-background-color;
+  box-sizing: border-box;
+  color: $event__cta-text-color;
+  display: block;
+  padding: 16px 20px;
+  text-align: center;
+  text-decoration: none;
+  width: 100%;
+
+  &:hover {
+    background-color: $event__cta-hover-color;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.1em;
+  }
+}
+
+.event__footer {
+  @extend %container;
+  overflow: auto;
+}

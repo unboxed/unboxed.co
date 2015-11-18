@@ -40,27 +40,23 @@
 }
 
 .blog-medium-tile__title {
+  @include responsive-text;
   color: $blog-tile__title-color;
-  font-size: 1.14em;
-  font-weight: lighter;
+  font-weight: 200;
   line-height: 1.3em;
   margin-bottom: 20px;
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 2.17vw;
     margin-bottom: 6px;
-  }
-
-  @include breakpoint($desktop-breakpoint) {
-    font-size: 1.3em;
   }
 }
 
 .blog-medium-tile__author {
   color: $blog-tile__text-color;
   font-size: .8em;
-  font-weight: bold;
+  font-weight: 600;
   margin-bottom: 6px;
+  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.335vw;
@@ -74,6 +70,7 @@
 .blog-medium-tile__date {
   color: $blog-tile__text-color;
   font-size: .8em;
+  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.335vw;
@@ -87,7 +84,7 @@
 .blog-medium-tile__article-body {
   color: $blog-tile__text-color;
   font-size: .95em;
-  font-weight: lighter;
+  font-weight: 200;
   line-height: 1.3em;
   margin: 14px;
   padding-top: 8px;
