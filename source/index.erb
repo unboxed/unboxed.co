@@ -31,6 +31,15 @@ additional_services:
     - title: "Support you"
       text: "If we built it, we will support it. We will love your product for as long as you and your users love it."
 
+contact:
+  title: "What about you?"
+  text: "Martyn is our Head of Product. If you have a challenge, or even just a question, get in touch:"
+  email: "hello@unboxed.co"
+  display_email: "martyn.evans@unboxed.co"
+  email_subject: "Homepage enquiry"
+  image: "/assets/images/homepage-contact-martyn.jpg"
+  image_description: "Martyn Evans"
+
 projects:
   - name: "SH:24"
     description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
@@ -117,24 +126,25 @@ projects:
     <div class="component__tile">
       <div class="text-tile">
         <h2 class="text-tile__title">
-          What about you?
+          <%= current_page.data.contact.title %>
         </h2>
 
         <p class="text-tile__paragraph">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat nulla itaque ex voluptatibus magni sunt alias, sequi, molestias aspernatur, enim asperiores numquam placeat dignissimos ipsa quam recusandae consectetur illum maxime!
+          <%= current_page.data.contact.text %>
         </p>
 
-        <form class="homepage-contact" action="//formspree.io/tom.sabin@unboxedconsulting.com" method="POST">
+        <form class="homepage-contact" action="//formspree.io/<%= current_page.data.contact.email %>" method="POST">
+          <p class="homepage-contact__to-disabled-input" data-to="<%= current_page.data.contact.display_email %>"></p>
           <input type="text" name="_gotcha" style="display:none" />
-          <input type="hidden" name="_subject" value="Homepage enquiry">
-          <input type="email" name="_replyto" placeholder="Your email" >
-          <textarea name="comment"></textarea>
-          <input type="submit" value="send">
+          <input type="hidden" name="_subject" value="<%= current_page.data.contact.email_subject %>" />
+          <input class="homepage-contact__email-input" type="email" name="_replyto" placeholder="your email" required />
+          <textarea class="homepage-contact__message-input" name="comment" placeholder="message" required></textarea>
+          <input class="homepage-contact__send-button" type="submit" value="send">
         </form>
       </div>
     </div>
     <div class="component__tile image-tile">
-      <img class="image-tile__image" src="http://placehold.it/480/496" alt="" />
+      <img class="image-tile__image" <%= retina_src current_page.data.contact.image %> alt="<%= current_page.data.contact.image_description %>" />
     </div>
   </div>
 

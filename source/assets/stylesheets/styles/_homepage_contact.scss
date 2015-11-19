@@ -1,3 +1,99 @@
 .homepage-contact {
+  margin-top: 40px;
 
+  @include breakpoint($tablet-breakpoint) {
+    position: relative;
+  }
+}
+
+.homepage-contact__to-disabled-input {
+  @include responsive-text;
+  border-top: 1px solid $homepage-contact__border-color;
+  display: block;
+  font-weight: 200;
+  line-height: 1.3;
+  padding: 10px 0;
+
+  &:before {
+    color: darken($light-gray, 15%);
+    content: "to: ";
+  }
+
+  &:after {
+    color: #C0C0C0;
+    content: attr(data-to);
+  }
+}
+
+.homepage-contact__send-button {
+  @include responsive-text;
+  background: none;
+  background-color: $homepage-contact__send-button-primary-color;
+  border: 1px solid $homepage-contact__send-button-alternate-color;
+  color: $homepage-contact__send-button-alternate-color;
+  cursor: pointer;
+  font-weight: 200;
+  line-height: 1.3;
+  margin-top: 10px;
+  padding: 10px 20px;
+  width: 100%;
+
+  &:focus,
+  &:hover {
+    background-color: $homepage-contact__send-button-alternate-color;
+    color: $homepage-contact__send-button-primary-color;
+    outline: 0;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
+    margin: 0;
+  }
+}
+
+.homepage-contact__email-input {
+  @include responsive-text;
+  border-bottom: 1px solid $homepage-contact__border-color;
+  border-left: 0;
+  border-right: 0;
+  border-top: 1px solid $homepage-contact__border-color;
+  color: $homepage-contact__text-color;
+  display: block;
+  font-family: inherit;
+  font-weight: 200;
+  line-height: 1.3;
+  padding: 10px 0;
+  width: 100%;
+
+  &:focus {
+    background-color: $homepage-contact__input-focus-color;
+    outline: 0;
+  }
+}
+
+.homepage-contact__body {
+  text-align: right;
+}
+
+.homepage-contact__message-input {
+  @include responsive-text;
+  border: 0;
+  color: $homepage-contact__text-color;
+  display: block;
+  font-family: inherit;
+  font-weight: 200;
+  line-height: 1.3;
+  min-height: 48px;
+  padding: 10px 0 0;
+  resize: none;
+  vertical-align: top;
+  width: 100%;
+
+  &:focus {
+    background-color: $homepage-contact__input-focus-color;
+    outline: 0;
+  }
 }

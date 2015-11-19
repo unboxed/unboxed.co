@@ -43,6 +43,11 @@ $homepage-introduction__fallback-image-background-color: darken($light-gray, 10%
 $homepage-introduction__background-color: transparentize(darken($purple, 5%), 0.1);
 $homepage-introduction__text-color: $white;
 $homepage-tile__text-color: $dark-gray;
+$homepage-contact__border-color: darken($light-gray, 10%);
+$homepage-contact__send-button-primary-color: $white;
+$homepage-contact__send-button-alternate-color: $purple;
+$homepage-contact__text-color: $black;
+$homepage-contact__input-focus-color: darken($white, 1%);
 
 // Events
 $event__background-color: $white;
