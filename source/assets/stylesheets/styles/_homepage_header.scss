@@ -5,16 +5,10 @@
   position: relative;
   min-height: 400px;
 
-  @media
-    only screen and (-webkit-min-device-pixel-ratio: 2),
-    only screen and (   min--moz-device-pixel-ratio: 2),
-    only screen and (     -o-min-device-pixel-ratio: 2/1),
-    only screen and (        min-device-pixel-ratio: 2),
-    only screen and (                min-resolution: 192dpi),
-    only screen and (                min-resolution: 2dppx) {
-      background-image: url(/assets/images/homepage-header--mobile@2x.jpg);
-      background-size: 480px 400px;
-      background-repeat: no-repeat;
+  @include retina {
+    background-image: url(/assets/images/homepage-header--mobile@2x.jpg);
+    background-size: 480px 400px;
+    background-repeat: no-repeat;
   }
 
   @include breakpoint($tablet-breakpoint) {
@@ -22,16 +16,10 @@
     background-image: url(/assets/images/homepage-header--tablet.jpg);
     min-height: 50vw;
 
-    @media
-      only screen and (-webkit-min-device-pixel-ratio: 2),
-      only screen and (   min--moz-device-pixel-ratio: 2),
-      only screen and (     -o-min-device-pixel-ratio: 2/1),
-      only screen and (        min-device-pixel-ratio: 2),
-      only screen and (                min-resolution: 192dpi),
-      only screen and (                min-resolution: 2dppx) {
-        background-image: url(/assets/images/homepage-header--tablet@2x.jpg);
-        background-size: 960px 480px;
-        background-repeat: no-repeat;
+    @include retina {
+      background-image: url(/assets/images/homepage-header--tablet@2x.jpg);
+      background-size: 960px 480px;
+      background-repeat: no-repeat;
     }
   }
 
