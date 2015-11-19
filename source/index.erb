@@ -19,6 +19,18 @@ services:
       image: "/assets/images/homepage-service-change.jpg"
       text: "You could be working towards something amazing, but is the way you are working slowing you down? We are agile pioneers. We can show you how you can be too."
 
+additional_services:
+  title: "What we also do"
+  content:
+    - title: "Rescue your product"
+      text: "If a red light is flashing and something has gone wrong. Don’t panic. If it can be fixed, we can fix it."
+
+    - title: "Your next phase"
+      text: "Discovery, Alpha, Beta. Whichever phase you are heading into, let us jump in to provide clarity and insight for your journey through to live."
+
+    - title: "Support you"
+      text: "If we built it, we will support it. We will love your product for as long as you and your users love it."
+
 projects:
   - name: "SH:24"
     description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
@@ -62,35 +74,21 @@ projects:
 
   <div class="homepage-services homepage-services--gray">
     <h2 class="homepage-services__title">
-      What we also do
+      <%= current_page.data.additional_services.title %>
     </h2>
 
-    <div class="homepage-service">
-      <h3 class="homepage-service__title">
-        Rescue your product
-      </h3>
-      <p class="homepage-service__paragraph">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
-      </p>
-    </div>
-
-    <div class="homepage-service">
-      <h3 class="homepage-service__title">
-        Your next phase
-      </h3>
-      <p class="homepage-service__paragraph">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
-      </p>
-    </div>
-
-    <div class="homepage-service">
-      <h3 class="homepage-service__title">
-        Support you
-      </h3>
-      <p class="homepage-service__paragraph">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia officiis, inventore iusto consequuntur.
-      </p>
-    </div>
+    <% current_page.data.additional_services.content.each do |service| %>
+      <div class="homepage-services__service">
+        <div class="homepage-service">
+          <h3 class="homepage-service__title">
+            <%= service.title %>
+          </h3>
+          <p class="homepage-service__paragraph">
+            <%= service.text %>
+          </p>
+        </div>
+      </div>
+    <% end %>
   </div>
 
   <div class="homepage-latest">
