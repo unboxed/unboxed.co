@@ -49,6 +49,13 @@
 
 .footer-container__address-phone {
   font-weight: 400;
+  color: inherit;
+  text-decoration: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    pointer-events: none;
+    cursor: text;
+  }
 }
 
 .footer-container__address-full {
