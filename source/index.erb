@@ -1,7 +1,8 @@
 ---
-introduction:
-  title: "The best way to create and scale digital products"
-  text: "We lovingly design and build digital products in Ruby on Rails using Lean and Agile techniques. And we teach the Unboxed Way to organisations."
+header_text: |
+  We're Unboxed. We **collaborate** to grow your ideas for digital products and services. Then we **build** them. We can also improve the way your organisation works.
+
+  We do this through **agile** and **lean** techniques, using **Ruby on Rails**.
 
 projects:
   - name: "SH:24"
@@ -18,10 +19,10 @@ projects:
 ---
 
 <div class="homepage">
-  <div class="homepage-introduction">
-    <p class="homepage-introduction__paragraph">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab consectetur, eaque quasi, officia alias officiis cum. Unde modi facere odit est cum dolorem magni aperiam! Sapiente libero dignissimos, laboriosam eius!
-    </p>
+  <div class="homepage-header">
+    <div class="homepage-header__text">
+      <%= Tilt['markdown'].new { current_page.data.header_text }.render %>
+    </div>
   </div>
 
   <div class="homepage-services" data-header-waypoint>
