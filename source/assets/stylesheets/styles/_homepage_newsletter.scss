@@ -1,12 +1,20 @@
 .homepage-newsletter {
   background-color: $white;
-  padding: 60px 20px 100px;
+  padding: 28px 0 28px 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 60px 0 60px 20px;
+  }
 }
 
 .homepage-newsletter__title {
   @include responsive-title;
   font-weight: 200;
-  margin-bottom: 40px;
+  padding-right: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 40px;
+  }
 }
 
 .homepage-newsletter__paragraph {
