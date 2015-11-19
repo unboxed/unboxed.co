@@ -1,23 +1,23 @@
 .homepage-header {
-  background-image: url(/assets/images/homepage-header--mobile.jpg);
+  background-image: url(/assets/images/homepage/header--mobile.jpg);
   background-position: 65% 40%;
   background-color: $homepage-introduction__fallback-image-background-color;
   position: relative;
   min-height: 400px;
 
   @include retina {
-    background-image: url(/assets/images/homepage-header--mobile@2x.jpg);
+    background-image: url(/assets/images/homepage/header--mobile@2x.jpg);
     background-size: 480px 400px;
     background-repeat: no-repeat;
   }
 
   @include breakpoint($tablet-breakpoint) {
     background-position: 100% 40%;
-    background-image: url(/assets/images/homepage-header--tablet.jpg);
+    background-image: url(/assets/images/homepage/header--tablet.jpg);
     min-height: 50vw;
 
     @include retina {
-      background-image: url(/assets/images/homepage-header--tablet@2x.jpg);
+      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
       background-size: 960px 480px;
       background-repeat: no-repeat;
     }
