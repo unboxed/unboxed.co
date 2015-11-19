@@ -1,12 +1,7 @@
 .homepage-service {
-  float: left;
-  padding-right: 20px;
-  width: 33.33%;
-  box-sizing: border-box;
-}
-
-.homepage-service__container {
-  width: 100%;
+  @include breakpoint($tablet-breakpoint) {
+    width: 100%;
+  }
 }
 
 .homepage-service__title {
