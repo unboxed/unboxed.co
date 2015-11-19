@@ -6,34 +6,86 @@
 .footer-container {
   @extend %container;
   box-sizing: border-box;
-  padding: 50px 20px 20px;
+  padding: 30px 20px 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 50px;
+  }
 }
 
 .footer-container__address {
-  float: left;
+  border-bottom: groove 1px;
   color: $white;
   font-size: 0.85em;
   font-weight: 100;
   line-height: 1.5em;
-  width: 33%;
+  padding-bottom: 12px;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    border-bottom: none;
+    width: 33%;
+  }
 }
 
 .footer-container__address-city {
   font-weight: 400;
-  padding-bottom: 25px;
+  padding: 15px 0 10px;
+
+  &:after {
+    content: "office >";
+    padding-right: 5px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 25px;
+    padding-top: 0;
+
+    &:after {
+      content: ""
+    }
+  }
 }
 
 .footer-container__address-phone {
   font-weight: 400;
 }
 
+.footer-container__address-full {
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: block;
+  }
+}
+
 .footer-container__registration-address {
-  font-size: 0.8em;
-  line-height: 1.4em;
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.8em;
+    line-height: 1.4em;
+  }
 }
 
 .footer-container__company-name {
   font-weight: 400;
+}
+
+i.footer__map-icon {
+  padding-right: 10px;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: none;
+  }
+}
+
+i.footer__phone-icon {
+  padding-right: 8px;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: none;
+  }
 }
 
 
