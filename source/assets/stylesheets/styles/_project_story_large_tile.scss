@@ -24,19 +24,11 @@
   }
 }
 
-.project-story-large-tile__image-container {
-  box-sizing: border-box;
-}
-
 .project-story-large-tile__image {
+  box-sizing: border-box;
   display: block;
-  height: 125px;
   object-fit: cover;
   width: 100%;
-
-  @include breakpoint($max-mobile-container) {
-    height: 180px;
-  }
 
   @include breakpoint($tablet-breakpoint) {
     height: 255px;
@@ -49,19 +41,13 @@
 
 .project-story-large-tile__content {
   display: inline-block;
-  min-height: 60px;
-  padding-left: 8px;
-  padding-top: 10px;
+  padding: 12px 8px 10px;
   text-decoration: none;
 
-  @include breakpoint($max-mobile-container) {
-    min-height: 75px;
-  }
-
   @include breakpoint($tablet-breakpoint) {
+    min-height: 170px;
     padding: 20px 6px 0;
     width: 85%;
-    min-height: 170px;
   }
 }
 
@@ -71,9 +57,9 @@
   @include breakpoint($tablet-breakpoint) {
     display: block;
     color: $project-story-tile__client-color;
+    font-size: 1.2em;
     line-height: 1.2em;
     margin-bottom: 10px;
-    font-size: 1.2em;
   }
 }
 

@@ -33,23 +33,10 @@
   }
 }
 
-.project-story-small-tile__image-container {
-  box-sizing: border-box;
-}
-
 .project-story-small-tile__image {
   display: block;
-  height: 125px;
   object-fit: cover;
   width: 100%;
-
-  @include breakpoint($max-mobile-container) {
-    height: 180px;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 110px;
-  }
 
   @include breakpoint($tablet-breakpoint) {
     height: 120px;
@@ -58,17 +45,11 @@
 
 .project-story-small-tile__content {
   display: inline-block;
-  min-height: 60px;
-  padding-left: 8px;
-  padding-top: 10px;
+  padding: 12px 8px 10px;
   text-decoration: none;
 
-  @include breakpoint($max-mobile-container) {
-    min-height: 75px;
-  }
-
   @include breakpoint($tablet-breakpoint) {
-    height: 103px;
+    min-height: 103px;
     padding: 0 6px;
     width: 100%;
   }
