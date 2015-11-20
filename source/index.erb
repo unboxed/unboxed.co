@@ -44,14 +44,17 @@ projects:
   - name: "SH:24"
     description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
     image: "/assets/images/project-stories/sh24.jpg"
+    link: "/project-stories/sh24"
 
   - name: "Contiki Holidays"
     description: "Powerful offshore partnership creates 47% increase in bookings for Contiki Tours"
     image: "/assets/images/project-stories/contiki.jpg"
+    link: "/project-stories/contiki-holidays"
 
   - name: "Naturejobs"
     description: "Recruitment site revitalisation for major scientific publishing group"
     image: "/assets/images/project-stories/naturejobs-macmillan.jpg"
+    link: "/project-stories/naturejobs"
 
 ---
 
@@ -107,7 +110,7 @@ projects:
     </h2>
 
     <% current_page.data.projects.each do |project| %>
-      <a class="homepage-tile" href="#">
+      <a class="homepage-tile" href="<%= project.link %>">
         <div class="homepage-tile__content">
           <img class="homepage-tile__image" src="<%= project.image %>" alt="<%= project.name %>">
 
