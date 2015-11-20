@@ -8,24 +8,29 @@
   box-sizing: border-box;
   color: $white;
   font-size: 0.85em;
-  padding: 30px 20px 50px;
+  padding: 30px 16px 50px;
 
   @include breakpoint($tablet-breakpoint) {
-    padding-top: 50px;
+    padding: 50px 0;
   }
 }
 
-.footer-container__address {
+.footer-container__address-tile {
   border-bottom: groove 1px;
+  box-sizing: border-box;
+  display: block;
   font-weight: 100;
   line-height: 1.5em;
   padding-bottom: 12px;
+  padding-right: 16px;
+  width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
     border-bottom: none;
-    padding-bottom: 30px;
-    width: 33%;
+    padding-bottom: 40px;
+    padding-left: 16px;
+    width: 33.33%;
   }
 }
 
@@ -107,6 +112,10 @@ i.footer__phone-icon {
 
 .footer-container__newsletter {
   font-weight: 100;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-left: 16px;
+  }
 
   p {
     padding-top: 30px;
