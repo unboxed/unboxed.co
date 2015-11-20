@@ -1,9 +1,9 @@
 .homepage-header {
   background-image: url(/assets/images/homepage/header--mobile.jpg);
-  background-position: 65% 40%;
   background-color: $homepage-introduction__fallback-image-background-color;
-  position: relative;
+  background-position: 65% 40%;
   min-height: 400px;
+  position: relative;
 
   @include retina {
     background-image: url(/assets/images/homepage/header--mobile@2x.jpg);
@@ -33,6 +33,7 @@
   background-color: $homepage-introduction__background-color;
   bottom: 20px;
   color: $homepage-introduction__text-color;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e677277b', endColorstr='#e677277b',GradientType=1 );
   font-weight: 200;
   left: 20px;
   line-height: 1.3;
