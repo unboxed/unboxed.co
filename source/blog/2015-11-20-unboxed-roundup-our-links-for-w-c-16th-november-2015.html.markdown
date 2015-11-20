@@ -20,6 +20,12 @@ http://blogs.msdn.com/b/ie/archive/2014/08/07/stay-up-to-date-with-internet-expl
 
 Perhaps I’m a little late to the party but Internet Explorer is slowly being killed off. Announced in August 2014, Microsoft plan to end support for IE8 on 12th January 2016.
 
+## The power of user research - [Murray S](http://www.unboxedconsulting.com/people/murray-steele)
+
+https://medium.com/uie-brain-sparks/the-300-million-button-76b566ae5f73#.a906gzxe2
+
+This article serves as a useful reminder that user research and testing are at least as important as design and development when it comes to building successful products.  What you think will help and delight people might turn out to have the opposite effect.
+
 ## Track of the Week - [Steve L](https://www.unboxedconsulting.com/people/steve-lennon)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/PvXHYHyCuM8" frameborder="0" allowfullscreen></iframe>
