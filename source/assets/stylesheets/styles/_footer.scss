@@ -1,12 +1,12 @@
 .footer {
-  background-color: $dark-gray;
+  background-color: $footer__background-color;
   min-height: 280px;
 }
 
 .footer-container {
   @extend %container;
   box-sizing: border-box;
-  color: $white;
+  color: $footer__text-color;
   font-size: 0.85em;
   padding: 30px 16px 50px;
 
@@ -141,9 +141,9 @@ i.footer__phone-icon {
   }
 
   input[type=submit] {
-    background-color: $dark-gray;
+    background-color: $footer__newsletter-button-color;
     border: groove 1px;
-    color: $white;
+    color: $footer__newsletter-text-color;
     font-size: 1em;
     font-weight: 100;
     height: 40px;

@@ -2,3 +2,25 @@
   padding-top: 10px;
   text-align: right;
 }
+
+.blog-social-icons__icon-container {
+  display: inline-block;
+  margin-left: 8px;
+  vertical-align: top;
+}
+
+.blog-social-icons__icon {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(center);
+  background-color: $blog-social-icon__background-color;
+  border-radius: 50%;
+  height: 28px;
+  text-align: center;
+  width: 28px;
+}
+
+.blog-social-icons__image {
+  @include align-self(center);
+  width: 16px;
+}

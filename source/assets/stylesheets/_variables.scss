@@ -24,6 +24,10 @@ $page-content__background-color: $light-gray;
 $site-header__brand-color: $purple;
 $site-header__background-color: $white;
 $site-header__underline-color: darken($light-gray, 10%);
+$footer__background-color: $dark-gray;
+$footer__text-color: darken($white, 5%);
+$footer__newsletter-button-color: $dark-gray;
+$footer__newsletter-text-color: darken($white, 5%);
 $social-icon__twitter-color: $blue-strong;
 $social-icon__linkedin-color: darken($blue, 20%);
 
@@ -119,6 +123,7 @@ $blog-content__table-background-color: $light-gray;
 $blog-content__table-border-color: $light-gray;
 
 $blog-footer__background-color: $light-gray;
+$blog-social-icon__background-color: $medium-gray;
 
 $blog-author__background-color: $white;
 $blog-author__border-color: $light-gray;
