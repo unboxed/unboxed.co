@@ -49,12 +49,8 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    padding-bottom: 25px;
+    padding-bottom: 15px;
     padding-top: 0;
-
-    span {
-      display: none;
-    }
 
     &:after {
       content: ""
@@ -85,13 +81,20 @@
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
+    display: block;
     font-size: 0.8em;
     line-height: 1.4em;
+    padding-top: 10px;
   }
 }
 
 .footer-container__company-name {
   font-weight: 400;
+
+  @include breakpoint($tablet-breakpoint){
+    font-size: 1.5em;
+    padding-bottom: 15px;
+  }
 }
 
 i.footer__map-icon {
