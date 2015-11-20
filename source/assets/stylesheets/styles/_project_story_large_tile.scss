@@ -27,16 +27,7 @@
 .project-story-large-tile__image {
   box-sizing: border-box;
   display: block;
-  object-fit: cover;
   width: 100%;
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 255px;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 276px;
-  }
 }
 
 .project-story-large-tile__content {
@@ -45,7 +36,7 @@
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 170px;
+    min-height: 198px;
     padding: 20px 6px 0;
     width: 85%;
   }
