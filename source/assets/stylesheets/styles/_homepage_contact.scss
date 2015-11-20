@@ -72,6 +72,10 @@
     background-color: $homepage-contact__input-focus-color;
     outline: 0;
   }
+
+  &.placeholder {
+    color: #C0C0C0;
+  }
 }
 
 .homepage-contact__body {
@@ -95,5 +99,9 @@
   &:focus {
     background-color: $homepage-contact__input-focus-color;
     outline: 0;
+  }
+
+  &.placeholder {
+    color: #C0C0C0;
   }
 }
