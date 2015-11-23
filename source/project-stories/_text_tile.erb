@@ -22,6 +22,6 @@
   </div>
 
   <div class="component__tile image-tile">
-    <img class="image-tile__image" <%= retina_src section.image %> alt="<%= section.image_description %>" />
+    <%= image_tag section.image, alt: section.image_description, class: "image-tile__image", srcset: retina_srcset(section.image) %>
   </div>
 </section>
