@@ -1,8 +1,7 @@
 module Helpers
-  def retina_src(path)
+  def retina_srcset(path)
     return %(src="#{path}") if path =~ /^http(s)?/
-    retina_path = path.gsub(/\./, '@2x.')
-    %(src="#{path}" srcset="#{retina_path} 2x")
+    "#{path.gsub(/\./, '@2x.')} 2x"
   end
 
   def site_nav_link(link_text, href, options = {})

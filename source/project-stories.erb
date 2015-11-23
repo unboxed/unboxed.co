@@ -41,7 +41,7 @@ project_stories:
     <% class_name = index == 0 ? "project-story-large-tile" : "project-story-small-tile" %>
     <a class="<%= class_name %>" href="<%= project_story.link %>">
       <div class="<%= class_name %>__container">
-        <img class="<%= class_name %>__image" src="<%= retina_src project_story.image %>" alt="<%= project_story.client %>">
+        <%= image_tag project_story.image, alt: project_story.client, class: "#{class_name}__image", srcset: retina_srcset(project_story.image) %>
         <div class="<%= class_name %>__content">
           <div class="<%= class_name %>__client"><%= project_story.client %></div>
           <div class="<%= class_name %>__title"><%= project_story.title %></div>
