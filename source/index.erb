@@ -41,20 +41,24 @@ contact:
   image_description: "Martyn Evans"
 
 projects:
-  - name: "SH:24"
-    description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
-    image: "/assets/images/project-stories/sh24.jpg"
-    link: "/project-stories/sh24"
+  title: "Who we have partnered with"
+  content:
+    - name: "SH:24"
+      description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
+      image: "/assets/images/project-stories/sh24.jpg"
+      link: "/project-stories/sh24"
 
-  - name: "Contiki Holidays"
-    description: "Powerful offshore partnership creates 47% increase in bookings for Contiki Tours"
-    image: "/assets/images/project-stories/contiki.jpg"
-    link: "/project-stories/contiki-holidays"
+    - name: "Contiki Holidays"
+      description: "Powerful offshore partnership creates 47% increase in bookings for Contiki Tours"
+      image: "/assets/images/project-stories/contiki.jpg"
+      link: "/project-stories/contiki-holidays"
 
-  - name: "Naturejobs"
-    description: "Recruitment site revitalisation for major scientific publishing group"
-    image: "/assets/images/project-stories/naturejobs-macmillan.jpg"
-    link: "/project-stories/naturejobs"
+    - name: "Naturejobs"
+      description: "Recruitment site revitalisation for major scientific publishing group"
+      image: "/assets/images/project-stories/naturejobs-macmillan.jpg"
+      link: "/project-stories/naturejobs"
+
+blog_title: "What we have been blogging about"
 
 ---
 
@@ -106,10 +110,10 @@ projects:
 
   <div class="homepage-latest">
     <h2 class="homepage-latest__title">
-      Who we have partnered with
+      <%= current_page.data.projects.title %>
     </h2>
 
-    <% current_page.data.projects.each do |project| %>
+    <% current_page.data.projects.content.each do |project| %>
       <a class="homepage-tile" href="<%= project.link %>">
         <div class="homepage-tile__content">
           <img class="homepage-tile__image" src="<%= project.image %>" alt="<%= project.name %>">
@@ -145,6 +149,13 @@ projects:
           <textarea class="homepage-contact__message-input" name="comment" placeholder="message" required></textarea>
           <input class="homepage-contact__send-button" type="submit" value="send">
         </form>
+
+        <!--[if lte IE 9]>
+          <%= javascript_include_tag "jquery.placeholder.min" %>
+          <script>
+            $('input[required], textarea[required]').placeholder();
+          </script>
+        <![endif]-->
       </div>
     </div>
     <div class="component__tile image-tile">
@@ -154,7 +165,7 @@ projects:
 
   <div class="homepage-latest">
     <h2 class="homepage-latest__title">
-      What we have been blogging about
+      <%= current_page.data.blog_title %>
     </h2>
 
     <% blog.articles.reject { |article| article.data.weekly_roundup? }.first(3).each do |article| %>
@@ -177,33 +188,4 @@ projects:
       </a>
     <% end %>
   </div>
-
-<!--   <div class="homepage-newsletter">
-    <h2 class="homepage-newsletter__title">
-      Our newsletter
-    </h2>
-
-    <p class="homepage-newsletter__paragraph">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio corrupti eos at perspiciatis. Quidem illo, recusandae, hic adipisci officiis itaque laboriosam minus est harum sequi odit accusamus. Recusandae ut, commodi.
-    </p>
-
-    <form action="//unboxedconsulting.us11.list-manage.com/subscribe/post?u=831facdc5caf30c092463f1c0&amp;id=e924413a0b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
-      <div id="mc_embed_signup_scroll">
-        <input type="email" placeholder="your email" value="" name="EMAIL" id="mce-EMAIL">
-        <div id="mce-responses">
-          <div id="mce-error-response" style="display:none"></div>
-          <div id="mce-success-response" style="display:none"></div>
-        </div>
-        <div style="position:absolute;left:-5000px;"><input type="text" name="b_831facdc5caf30c092463f1c0_e924413a0b" tabindex="-1" value=""></div>
-        <input type="submit" value="subscribe" name="subscribe" id="mc-embedded-subscribe">
-      </div>
-    </form>
-  </div> -->
 </div>
-
-<!--[if lte IE 9]>
-  <%= javascript_include_tag "jquery.placeholder.min" %>
-  <script>
-    $('input[required], textarea[required]').placeholder();
-  </script>
-<![endif]-->
