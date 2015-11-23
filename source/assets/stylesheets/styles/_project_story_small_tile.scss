@@ -1,0 +1,93 @@
+.project-story-small-tile {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    width: 33%;
+  }
+}
+
+.project-story-small-tile__container {
+  background-color: $project-story-tile__background-color;
+  box-sizing: border-box;
+  border: 1px solid $blog-tile__border-color;
+  padding: 6px;
+  width: 100%;
+
+  &:hover {
+    background-color: $project-story-tile__hover-color;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+    @include flex-direction(column);
+    @include justify-content(space-between);
+  }
+}
+
+.project-story-small-tile__image {
+  display: block;
+  object-fit: cover;
+  width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 120px;
+  }
+}
+
+.project-story-small-tile__content {
+  display: inline-block;
+  padding: 12px 8px 10px;
+  text-decoration: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 103px;
+    padding: 0 6px;
+    width: 100%;
+  }
+}
+
+.project-story-small-tile__client {
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: block;
+    color: $project-story-tile__client-color;
+    margin-bottom: 3px;
+    font-size: 1em;
+    line-height: 1.3em;
+    padding-right: 10px;
+    padding-top: 13px;
+  }
+}
+
+.project-story-small-tile__title {
+  color: $project-story-tile__title-color;
+  font-size: 1em;
+  font-weight: lighter;
+  line-height: 1.3em;
+
+  @include breakpoint($max-mobile-container) {
+    font-size: 1.2em;
+    padding-right: 5px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.85em;
+    line-height: 1.35em;
+    padding-right: 10px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    line-height: 1.6em;
+    padding-right: 30px;
+  }
+}
