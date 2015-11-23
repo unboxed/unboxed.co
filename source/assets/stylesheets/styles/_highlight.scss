@@ -25,6 +25,12 @@
   color: $white;
 }
 
+.highlight--channel-5 {
+  @extend %highlight;
+  background-color: #911016;
+  color: $white;
+}
+
 .highlight--plymouth-university-gets-agile {
   @extend %highlight;
   background-color: #DF1753;

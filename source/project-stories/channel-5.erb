@@ -1,0 +1,153 @@
+---
+title: "Project Story - Channel 5"
+
+header:
+  client: "Channel 5"
+  introduction: "Redevelopment of Channel5.com attracts more users, driving advertising revenue"
+  image: "/project-stories/channel-5/header.jpg"
+  image_description: "Channel 5 TV ident"
+
+introduction:
+  title: "The industry-leading redevelopment of Channel5.com attracts more users watching more content, driving revenue"
+  content:
+    - "41% more page views and 74% more unique visitors, year-on-year"
+    - "65% more long form video views"
+    - "Site rated 9/10 for usefulness and enjoyment of use"
+  image: "/project-stories/channel-5/desktop.jpg"
+  image_description: "Channel 5 website on desktop computer"
+
+statistics_1:
+  title: "Channel 5 in numbers"
+  number: "74%"
+  text: "more unique visitors"
+
+statistics_2:
+  number: "65%"
+  text: "more long form video views"
+
+statistics_3:
+  number: "9/10"
+  text: "rating for usefulness and enjoyment of use"
+
+redeveloped:
+  title: "A redeveloped VoD site designed to create greater engagement, loyalty and revenue"
+  content: "Five.tv and DemandFive were recreated and relaunched as one entity - channel5.com – an ecosystem designed to attract more visitors and more short-form and long-form views. Engagement, loyalty and advertising revenue potential are at the heart of this change."
+  image: "/project-stories/channel-5/walking-dead-special.jpg"
+  image_description: "Channel 5 website showing Walking Dead special"
+
+critical_work_quote:
+  quote: "This was a huge and critical piece of work for Channel 5 and Unboxed excelled at every level. Their Agile process was central to this achievement."
+  source: "Chris Kerwin, Digital Controller, Channel 5"
+
+visitor_experience:
+  title: "Visitor experience transformed: Easy to find out about your favourite programmes or watch something you’ve missed"
+  content: "The new channel5.com site makes it easier to find out programming information across multiple channels and to find, and also to watch your favourite programmes."
+  image: "/project-stories/channel-5/website.jpg"
+  image_description: "Channel 5 homepage"
+
+content_management:
+  title: "Content management transformed: All systems integrated and designed to scale"
+  content: "Channel5.com is now underpinned by a complex, full-scale CMS, making it easy for editors to post a vast amount of content about programmes, with the ability to create custom pages. Our agile development approach made the complex integration of multiple platforms simple and fast."
+  image: "http://placehold.it/200x200"
+  image_description: ""
+
+timely_quote:
+  quote: "Unboxed delivered a first class service, ensuring the site was launched on time and met Channel 5's expectations."
+  source: "Chris Kerwin, Channel 5"
+
+rebuild_and_integration: "The rebuild and integration of two legacy sites (Five.tv and Demand Five) with a 100-programme database, the Brightcove VoD platform, advertising servers, syndicated player, Facebook and RSS created a seamless user experience and major economies of scale for Channel 5."
+
+team:
+  title: "Unboxed team"
+  people:
+    - full_name: "Richard Archer"
+      image: "/project-stories/channel-5/team/richard.png"
+      link: "/people/richard-archer"
+
+    - full_name: "Alan Thomas"
+      image: "/project-stories/channel-5/team/alan.png"
+      link: "/people/alan-thomas"
+
+    - full_name: "Attila Gyorffy"
+      image: "/project-stories/channel-5/team/attila.png"
+
+site:
+  link: "http://www.channel5.com/"
+  text: "Visit the site and check it out for yourself"
+
+links:
+  - title: "Lorem ipsum dolor sit amet"
+    source: "Lorem Ipsum"
+    type: "news"
+    link: "#"
+
+  - title: "Lorem ipsum dolor sit amet"
+    source: "Lorem Ipsum"
+    type: "news"
+    link: "#"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Blog"
+      type: "blog"
+      link: "#"
+
+    - title: "Blog"
+      type: "blog"
+      link: "#"
+
+    - title: "Project story"
+      type: "project story"
+      link: "/project-stories/plymouth-university"
+---
+
+<%= partial 'project-stories/page_header' %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
+
+  <section class="highlight--channel-5">
+    <h2 class="highlight__title">
+      <%= current_page.data.statistics_1.title %>
+    </h2>
+
+    <div class="highlight__tile--one">
+      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %><p>
+      <p class="highlight__small-text"><%=current_page.data.statistics_1.text %></p>
+    </div>
+  </section>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.redeveloped } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.critical_work_quote } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.visitor_experience } %>
+
+  <section class="highlight--channel-5">
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %><p>
+      <p class="highlight__small-text"><%=current_page.data.statistics_2.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %><p>
+      <p class="highlight__small-text"><%=current_page.data.statistics_3.text %></p>
+    </div>
+  </section>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.content_management } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.timely_quote } %>
+
+  <%= partial 'project-stories/project_team' %>
+
+  <section class="highlight--channel-5">
+    <h2 class="highlight__title">
+      <%= current_page.data.rebuild_and_integration %>
+    </h2>
+  </section>
+
+  <%= partial 'project-stories/link_tiles' %>
+
+  <%= partial 'project-stories/related_tiles' %>
+</div>
