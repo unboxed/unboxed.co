@@ -15,22 +15,40 @@
   }
 }
 
-.footer-container__address-tile {
-  border-bottom: groove 1px;
+.footer-container__tile {
   box-sizing: border-box;
   display: block;
   font-weight: 100;
   line-height: 1.5em;
   padding-bottom: 12px;
-  padding-right: 16px;
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
     border-bottom: none;
-    padding-bottom: 40px;
-    padding-left: 16px;
+    padding: 0 16px 40px;
     width: 33.33%;
+  }
+}
+
+.footer-container__address-email {
+  color: inherit;
+  font-weight: 400;
+  text-decoration: none;
+
+  @include breakpoint($tablet-breakpoint){
+    font-size: 1.2em;
+    font-weight: 300;
+  }
+}
+
+.footer-container__address-content {
+  @include breakpoint($tablet-breakpoint) {
+    padding-left: 15px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-left: 40px;
   }
 }
 
@@ -44,7 +62,7 @@
   }
 
   &:after {
-    content: ">";
+    content: "›";
     padding-left: 8px;
   }
 
@@ -64,8 +82,8 @@
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
-    pointer-events: none;
     cursor: text;
+    pointer-events: none;
   }
 }
 
@@ -88,15 +106,6 @@
   }
 }
 
-.footer-container__company-name {
-  font-weight: 400;
-
-  @include breakpoint($tablet-breakpoint){
-    font-size: 1.5em;
-    padding-bottom: 15px;
-  }
-}
-
 i.footer__map-icon {
   padding-right: 10px;
 
@@ -116,13 +125,9 @@ i.footer__phone-icon {
 .footer-container__newsletter {
   font-weight: 100;
 
-  @include breakpoint($tablet-breakpoint) {
-    padding-left: 16px;
-  }
-
   p {
-    padding-top: 30px;
-    padding-bottom: 15px;
+    padding-bottom: 8px;
+    padding-top: 14px;
   }
 
   input[type=email] {
@@ -131,16 +136,16 @@ i.footer__phone-icon {
     font-weight: 100;
     font-size: 1em;
     height: 35px;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
     width: 100%;
 
-    @include breakpoint($tablet-breakpoint) {
-      width: 50%;
+    @include breakpoint($desktop-breakpoint) {
+      width: 80%;
     }
   }
 
   ::-webkit-input-placeholder {
-    padding-left: 20px;
+    padding-left: 7px;
   }
 
   input[type=submit] {
@@ -152,11 +157,8 @@ i.footer__phone-icon {
     height: 40px;
     width: 100%;
 
-    @include breakpoint($tablet-breakpoint) {
-      width: 50%;
+    @include breakpoint($desktop-breakpoint) {
+      width: 80%;
     }
   }
 }
-
-
-

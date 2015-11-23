@@ -1,5 +1,12 @@
 .social-icons {
-  padding: 12px 0;
+  border-top: groove 1px;
+  padding: 22px 0;
+  text-align: center;
+
+  @include breakpoint($tablet-breakpoint) {
+    border-top: none;
+    padding-top: 12px
+  }
 }
 
 .social-icons__icon-container {
