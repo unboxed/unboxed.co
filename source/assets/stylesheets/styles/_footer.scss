@@ -166,3 +166,11 @@ i.footer__phone-icon {
 .footer-container__newsletter--email {
   padding-left: 7px;
 }
+
+//Force our forms style on iOS devices
+input {
+  -webkit-appearance: none;
+  -webkit-border-radius:0;
+  border-radius:0;
+}
+
