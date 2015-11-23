@@ -18,13 +18,13 @@
 
 .homepage-tile__content {
   box-sizing: border-box;
-  background-color: $blog-tile__background-color;
+  background-color: $homepage-tile__background-color;
   padding: 8px;
-  border: 1px solid $blog-tile__border-color;
+  border: 1px solid $homepage-tile__border-color;
   width: 100%;
 
   &:hover {
-    background-color: $blog-tile__hover-color;
+    background-color: $homepage-tile__hover-color;
   }
 }
 
