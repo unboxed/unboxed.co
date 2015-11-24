@@ -28,6 +28,9 @@ $footer__background-color: $dark-gray;
 $footer__text-color: darken($white, 5%);
 $footer__newsletter-button-color: $dark-gray;
 $footer__newsletter-text-color: darken($white, 5%);
+$footer__newsletter-button-hover-color: darken($white, 20%);
+$footer__newsletter-button-text-hover-color: lighten($dark-gray, 5%);
+$footer-social-icons__border-color: darken($white, 20%);
 $social-icon__twitter-color: $blue-strong;
 $social-icon__linkedin-color: darken($blue, 20%);
 

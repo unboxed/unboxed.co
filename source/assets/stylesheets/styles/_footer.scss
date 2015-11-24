@@ -42,16 +42,6 @@
   }
 }
 
-.footer-container__address-content {
-  @include breakpoint($tablet-breakpoint) {
-    padding-left: 20px;
-  }
-
-  @include breakpoint($desktop-breakpoint) {
-    padding-left: 40px;
-  }
-}
-
 .footer-container__address-city {
   font-weight: 400;
   padding: 15px 0 10px;
@@ -121,64 +111,3 @@ i.footer__phone-icon {
     display: none;
   }
 }
-
-.footer-container__newsletter {
-  font-weight: 100;
-
-  p {
-    padding-bottom: 8px;
-    padding-top: 14px;
-  }
-
-  input[type=email] {
-    border: none;
-    box-sizing: border-box;
-    font-weight: 100;
-    font-size: 1em;
-    height: 35px;
-    margin-bottom: 8px;
-    width: 100%;
-
-    @include breakpoint($tablet-breakpoint) {
-      width: 85%;
-    }
-
-    @include breakpoint($desktop-breakpoint) {
-      width: 80%;
-    }
-  }
-
-  ::-webkit-input-placeholder {
-    padding-left: 7px;
-  }
-
-  input[type=submit] {
-    background-color: $footer__newsletter-button-color;
-    border: groove 1px;
-    color: $footer__newsletter-text-color;
-    font-size: 1em;
-    font-weight: 100;
-    height: 40px;
-    width: 100%;
-
-    @include breakpoint($tablet-breakpoint) {
-      width: 85%;
-    }
-
-    @include breakpoint($desktop-breakpoint) {
-      width: 80%;
-    }
-  }
-}
-
-.footer-container__newsletter--email {
-  padding-left: 7px;
-}
-
-//Force our forms style on iOS devices
-input {
-  -webkit-appearance: none;
-  -webkit-border-radius:0;
-  border-radius:0;
-}
-
