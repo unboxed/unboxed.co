@@ -35,17 +35,17 @@
 }
 
 .homepage-tile__paragraph {
-  @include responsive-text;
   color: $homepage-tile__text-color;
   padding: 0 6px 6px;
   font-weight: 200;
   line-height: 1.2em;
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 11vw;
+    min-height: 11.5vw;
   }
 
   @include breakpoint($desktop-breakpoint) {
+    font-size: 1.1em;
     min-height: 106px;
   }
 }
