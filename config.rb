@@ -16,7 +16,6 @@ activate :blog do |blog|
 end
 activate :similar, algorithm: :related_blog_articles
 activate :directory_indexes
-activate :relative_assets
 
 configure :development do
   activate :livereload
