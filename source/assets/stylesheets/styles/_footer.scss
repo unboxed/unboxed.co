@@ -8,7 +8,7 @@
   box-sizing: border-box;
   color: $footer__text-color;
   font-size: 0.85em;
-  padding: 30px 16px 50px;
+  padding: 30px 16px 25px;
 
   @include breakpoint($tablet-breakpoint) {
     padding: 50px 0;
@@ -44,7 +44,7 @@
 
 .footer-container__address-content {
   @include breakpoint($tablet-breakpoint) {
-    padding-left: 15px;
+    padding-left: 20px;
   }
 
   @include breakpoint($desktop-breakpoint) {
@@ -139,6 +139,10 @@ i.footer__phone-icon {
     margin-bottom: 8px;
     width: 100%;
 
+    @include breakpoint($tablet-breakpoint) {
+      width: 85%;
+    }
+
     @include breakpoint($desktop-breakpoint) {
       width: 80%;
     }
@@ -156,6 +160,10 @@ i.footer__phone-icon {
     font-weight: 100;
     height: 40px;
     width: 100%;
+
+    @include breakpoint($tablet-breakpoint) {
+      width: 85%;
+    }
 
     @include breakpoint($desktop-breakpoint) {
       width: 80%;
