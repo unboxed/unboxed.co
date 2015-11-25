@@ -47,6 +47,8 @@
 }
 
 .site-navigation__container {
+  @include flexbox;
+
   height: 54px;
   overflow-x: scroll;
   overflow-y: hidden;
@@ -55,10 +57,32 @@
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 
+  &:after {
+    content: "";
+    padding-right: 25px;
+  }
+
   @include breakpoint($tablet-breakpoint) {
+    display: block;
     height: inherit;
     overflow: auto;
     -webkit-overflow-scrolling: auto;
+  }
+}
+
+.site-navigation__link--home {
+  @include order(-2);
+
+  @include breakpoint($tablet-breakpoint) {
+    @include order(0);
+  }
+}
+
+.site-navigation__link--contact {
+  @include order(-1);
+
+  @include breakpoint($tablet-breakpoint) {
+    @include order(0);
   }
 }
 
@@ -72,10 +96,6 @@
   text-decoration: none;
   text-transform: lowercase;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-
-  &:last-of-type {
-    margin-right: 25px;
-  }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 0.8em;

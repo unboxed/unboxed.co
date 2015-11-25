@@ -5,7 +5,8 @@ module Helpers
   end
 
   def site_nav_link(link_text, href, options = {})
-    options[:class] ||= 'site-navigation__link'
+    options[:class] ||= ''
+    options[:class] << ' site-navigation__link'
     options[:class] << '--active' if is_matching_link?(href, current_page.url)
     link_to(link_text, href, options)
   end

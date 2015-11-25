@@ -59,13 +59,13 @@
 
         <nav class="site-navigation">
           <div class="site-navigation__container">
-            <%= site_nav_link('Home', '/') %>
+            <%= site_nav_link('Home', '/', class: 'site-navigation__link--home') %>
             <%= site_nav_link('News', '/news') %>
             <%= site_nav_link('Project stories', '/project-stories') %>
             <%= site_nav_link('People', '/people') %>
             <%= site_nav_link('Blog', '/blog') %>
             <%= site_nav_link('Join Us', '/jobs') %>
-            <%= site_nav_link('Contact', '/contact') %>
+            <%= site_nav_link('Contact', '/contact', class: 'site-navigation__link--contact') %>
           </div>
         </nav>
       </div>
