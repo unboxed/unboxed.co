@@ -1,6 +1,5 @@
 .homepage-contact {
   background-color: $homepage-contact__background-color;
-  margin-top: 18px;
 
   @include breakpoint($tablet-breakpoint) {
     background-image: url(/assets/images/homepage/contact--tablet.jpg);
