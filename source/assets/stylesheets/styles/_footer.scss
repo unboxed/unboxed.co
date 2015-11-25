@@ -3,7 +3,7 @@
   min-height: 280px;
 }
 
-.footer-container {
+.footer__container {
   @extend %container;
   box-sizing: border-box;
   color: $footer__text-color;
@@ -15,7 +15,7 @@
   }
 }
 
-.footer-container__tile {
+.footer__tile {
   box-sizing: border-box;
   display: block;
   font-weight: 200;
