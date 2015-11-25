@@ -21,6 +21,10 @@
   @include breakpoint($tablet-breakpoint) {
     width: 95%;
   }
+
+  &.placeholder {
+    color: #C0C0C0;
+  }
 }
 
 .footer-newsletter__button {

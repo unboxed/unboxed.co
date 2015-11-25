@@ -85,5 +85,12 @@
         document.documentElement.className += " ios-device";
       }
     </script>
+
+    <!--[if lte IE 9]>
+      <%= javascript_include_tag "jquery.placeholder.min" %>
+      <script>
+        $('input[placeholder], textarea[placeholder]').placeholder();
+      </script>
+    <![endif]-->
   </body>
 </html>
