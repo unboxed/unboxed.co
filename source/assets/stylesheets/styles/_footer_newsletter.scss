@@ -1,20 +1,19 @@
 .footer-newsletter__container {
   p {
-    font-weight: 100;
+    font-weight: 200;
     padding-bottom: 8px;
     padding-top: 14px;
   }
 }
 
 .footer-newsletter__form input {
-  appearance: none;
   -webkit-appearance: none;
   -webkit-border-radius:0;
+  appearance: none;
   border-radius:0;
 }
 
 .footer-newsletter__email {
-  padding-left: 7px;
   border: none;
   box-sizing: border-box;
   font-family: inherit;
@@ -22,6 +21,7 @@
   font-weight: 200;
   height: 40px;
   margin-bottom: 8px;
+  padding-left: 7px;
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
@@ -30,20 +30,20 @@
 }
 
 .footer-newsletter__button {
-    background-color: $footer__newsletter-button-color;
-    border: groove 1px;
-    color: $footer__newsletter-text-color;
-    cursor: pointer;
-    font-family: inherit;
-    font-size: 1em;
-    font-weight: 200;
-    height: 40px;
-    width: 100%;
+  background-color: $footer__newsletter-button-color;
+  border: groove 1px;
+  color: $footer__newsletter-text-color;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 1em;
+  font-weight: 200;
+  height: 40px;
+  width: 100%;
 
   &:hover {
     background-color: $footer__newsletter-button-hover-color;
-    color: $footer__newsletter-button-text-hover-color;
     border: none;
+    color: $footer__newsletter-button-text-hover-color;
   }
 
   @include breakpoint($tablet-breakpoint) {
