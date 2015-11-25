@@ -31,7 +31,6 @@
 
 .footer-address__phone-number {
   color: inherit;
-  font-weight: 400;
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
@@ -47,7 +46,7 @@
   @include breakpoint($tablet-breakpoint) {
     display: block;
     font-size: 0.8em;
-    line-height: 1.4em;
+    line-height: 1.4;
     padding-top: 10px;
   }
 }
