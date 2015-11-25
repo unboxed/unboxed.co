@@ -1,19 +1,13 @@
-.footer-newsletter__container {
-  p {
-    font-weight: 200;
-    padding-bottom: 8px;
-    padding-top: 14px;
-  }
-}
-
-.footer-newsletter__form input {
-  -webkit-appearance: none;
-  -webkit-border-radius:0;
-  appearance: none;
-  border-radius:0;
+.footer-newsletter__introduction {
+  font-weight: 200;
+  padding-bottom: 8px;
+  padding-top: 14px;
 }
 
 .footer-newsletter__email {
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 0;
   border: none;
   box-sizing: border-box;
   font-family: inherit;
@@ -30,7 +24,10 @@
 }
 
 .footer-newsletter__button {
+  -webkit-appearance: none;
+  appearance: none;
   background-color: $footer__newsletter-button-color;
+  border-radius: 0;
   border: groove 1px;
   color: $footer__newsletter-text-color;
   cursor: pointer;
