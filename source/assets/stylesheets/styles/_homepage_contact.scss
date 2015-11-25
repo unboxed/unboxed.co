@@ -20,6 +20,8 @@
   padding: 28px 20px;
 
   @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+    @include flex-direction(column);
     min-height: 48vw;
     padding: 30px 20px 20px;
     width: 50%;
