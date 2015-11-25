@@ -1,11 +1,13 @@
 .homepage-contact {
   background-color: $homepage-contact__background-color;
+  margin-top: 18px;
 
   @include breakpoint($tablet-breakpoint) {
     background-image: url(/assets/images/homepage/contact--tablet.jpg);
     background-position: right;
     background-repeat: no-repeat;
     background-size: 50%;
+    margin-top: 50px;
 
     @include retina {
       background-image: url(/assets/images/homepage/contact--tablet@2x.jpg);

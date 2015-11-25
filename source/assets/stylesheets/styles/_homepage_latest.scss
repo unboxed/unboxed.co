@@ -1,9 +1,9 @@
 .homepage-latest {
-  padding: 28px 0 28px 6px;
+  padding: 28px 0 18px 6px;
 
   @include breakpoint($tablet-breakpoint) {
     overflow: auto;
-    padding: 60px 0 60px 6px;
+    padding: 60px 0 10px 6px;
   }
 }
 
