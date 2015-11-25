@@ -3,7 +3,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     @include clearfix;
-    padding: 30px 30px 40px;
+    padding: 30px 20px 40px;
   }
 }
 

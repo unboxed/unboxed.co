@@ -8,14 +8,14 @@
   @include breakpoint($tablet-breakpoint) {
     float: left;
     margin-bottom: 0;
-    width: 66%;
+    width: 66.66%;
   }
 }
 
 .project-story-large-tile__container {
   background-color: $project-story-tile__background-color;
-  box-sizing: border-box;
   border: 1px solid $project-story-tile__border-color;
+  box-sizing: border-box;
   padding: 6px;
   width: 100%;
 
@@ -25,28 +25,16 @@
 }
 
 .project-story-large-tile__image {
-  box-sizing: border-box;
   display: block;
-  object-fit: cover;
   width: 100%;
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 255px;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 276px;
-  }
 }
 
 .project-story-large-tile__content {
-  display: inline-block;
-  padding: 12px 8px 10px;
-  text-decoration: none;
+  padding: 12px 6px 6px;
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 170px;
-    padding: 20px 6px 0;
+    padding: 12px 6px;
+    min-height: 219px;
     width: 85%;
   }
 }
@@ -55,27 +43,21 @@
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
-    display: block;
     color: $project-story-tile__client-color;
-    font-size: 1.2em;
-    line-height: 1.2em;
-    margin-bottom: 10px;
+    display: block;
+    font-size: 1.4em;
+    line-height: 1.3;
+    margin-bottom: 12px;
   }
 }
 
 .project-story-large-tile__title {
   color: $project-story-tile__title-color;
-  font-size: 1em;
-  font-weight: lighter;
-  line-height: 1.3em;
-
-  @include breakpoint($max-mobile-container) {
-    font-size: 1.2em;
-    padding-right: 5px;
-  }
+  font-weight: 200;
+  line-height: 1.3;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.1em;
-    line-height: 1.6em;
+    line-height: 1.6;
   }
 }

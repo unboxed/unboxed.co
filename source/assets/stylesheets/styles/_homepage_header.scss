@@ -1,0 +1,53 @@
+.homepage-header {
+  background-image: url(/assets/images/homepage/header--mobile.jpg);
+  background-color: $homepage-introduction__fallback-image-background-color;
+  background-position: 65% 40%;
+  min-height: 400px;
+  position: relative;
+
+  @include retina {
+    background-image: url(/assets/images/homepage/header--mobile@2x.jpg);
+    background-size: 480px 400px;
+    background-repeat: no-repeat;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    background-position: 100% 40%;
+    background-image: url(/assets/images/homepage/header--tablet.jpg);
+    min-height: 50vw;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
+      background-size: 960px 480px;
+      background-repeat: no-repeat;
+    }
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    min-height: 480px;
+  }
+}
+
+.homepage-header__text {
+  @include responsive-text;
+  background-color: $homepage-introduction__background-color;
+  bottom: 20px;
+  color: $homepage-introduction__text-color;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e677277b', endColorstr='#e677277b',GradientType=1 );
+  font-weight: 200;
+  left: 20px;
+  line-height: 1.6;
+  padding: 20px;
+  position: absolute;
+  right: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    bottom: 10%;
+    left: 0;
+    right: 41%;
+  }
+
+  p:not(:last-of-type) {
+    margin-bottom: 20px;
+  }
+}

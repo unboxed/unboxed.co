@@ -1,5 +1,4 @@
 // Breakpoints
-$mobile-font-breakpoint: 400px;
 $max-mobile-container: 480px;
 $tablet-breakpoint: 660px;
 $desktop-breakpoint: 960px;
@@ -14,7 +13,7 @@ $orange: #FDAD2B;
 $yellow: #FED336;
 
 $black: #000000;
-$dark-gray: #3B3B3B;
+$dark-gray: #313131;
 $medium-gray: #767676;
 $light-gray: #F7F7F7;
 $white: #FFFFFF;
@@ -38,6 +37,26 @@ $social-icon__linkedin-color: darken($blue, 20%);
 $site-navigation__link-color: $medium-gray;
 $site-navigation__link-color--active: $purple;
 $site-navigation__underline-color--active: $purple;
+
+// Home page
+$homepage-introduction__fallback-image-background-color: darken($light-gray, 10%);
+$homepage-introduction__background-color: transparentize(darken($purple, 5%), 0.1);
+$homepage-introduction__text-color: $white;
+$homepage-services__background-color: $white;
+$homepage-services__title-color: $purple;
+$homepage-additional-services__background-color: $dark-gray;
+$homepage-additional-services__title-color: $white;
+$homepage-latest__title-color: $purple;
+$homepage-tile__background-color: $white;
+$homepage-tile__border-color: darken($light-gray, 5%);
+$homepage-tile__hover-color: darken($homepage-tile__background-color, 5%);
+$homepage-tile__text-color: $dark-gray;
+$homepage-contact__background-color: $white;
+$homepage-contact__border-color: darken($light-gray, 10%);
+$homepage-contact__send-button-primary-color: $white;
+$homepage-contact__send-button-alternate-color: $purple;
+$homepage-contact__text-color: $black;
+$homepage-contact__input-focus-color: darken($white, 1%);
 
 // Events
 $event__background-color: $white;
@@ -67,10 +86,12 @@ $text-tile__text-color: $black;
 $quote__background-color: lighten($light-gray, 1.2%);
 $quote__text-color: lighten($black, 10%);
 $quote__source-color: $purple;
-$project-story-site-link__background-color: $dark-gray;
-$project-story-site-link__text-color: $white;
-$project-story-site-link__type-color: $white;
+$site-link-tile__background-color: $dark-gray;
+$site-link-tile__hover-color: lighten($site-link-tile__background-color, 5%);
+$site-link-tile__text-color: $white;
+$site-link-tile__type-color: $white;
 $link-tile__background-color: $white;
+$link-tile__hover-color: darken($link-tile__background-color, 5%);
 $link-tile__border-color: $light-gray;
 $link-tile__text-color: $black;
 $link-tile__type-color: $purple;

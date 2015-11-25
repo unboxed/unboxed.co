@@ -1,0 +1,21 @@
+.homepage-latest {
+  padding: 28px 0 0 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    overflow: auto;
+    padding: 60px 0 10px 6px;
+  }
+}
+
+.homepage-latest__title {
+  @include responsive-title;
+  color: $homepage-latest__title-color;
+  font-weight: 200;
+  padding: 0 20px 0 14px;
+  margin-bottom: 20px;
+  text-transform: lowercase;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 50px;
+  }
+}

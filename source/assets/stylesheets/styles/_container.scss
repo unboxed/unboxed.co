@@ -1,14 +1,10 @@
-%container {
+.container {
   margin: 0 auto;
   max-width: $max-mobile-container;
 
   @include breakpoint($tablet-breakpoint) {
     max-width: $desktop-breakpoint;
   }
-}
-
-.container {
-  @extend %container;
 }
 
 .container--blog {
