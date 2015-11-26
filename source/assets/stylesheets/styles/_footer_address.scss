@@ -34,9 +34,7 @@
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
-    cursor: text;
     font-weight: 200;
-    pointer-events: none;
   }
 }
 
