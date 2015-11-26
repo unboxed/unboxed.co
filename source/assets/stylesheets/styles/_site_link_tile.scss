@@ -1,0 +1,50 @@
+.site-link-tile {
+  @include flexbox;
+  @include flex-direction(column);
+  @include justify-content(space-between);
+  background-color: $site-link-tile__background-color;
+  border-bottom: 1px solid $link-tile__border-color;
+  box-sizing: border-box;
+  padding: 16px;
+  text-decoration: none;
+  min-height: 80px;
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    border-right: 1px solid $link-tile__border-color;
+    border-bottom: 0;
+    float: left;
+    min-height: 160px;
+    width: 33.33%;
+
+    &:hover {
+      background-color: $site-link-tile__hover-color;
+    }
+
+    &:last-of-type {
+      border-right: none;
+    }
+  }
+}
+
+.site-link-tile__type {
+  color: $site-link-tile__type-color;
+  font-size: .8em;
+  font-weight: 200;
+  line-height: 1.3;
+  text-transform: uppercase;
+  padding-bottom: 4px;
+
+  &:after {
+    content: "//"
+  }
+}
+
+.site-link-tile__title {
+  color: $site-link-tile__text-color;
+  font-weight: 200;
+  line-height: 1.3;
+}

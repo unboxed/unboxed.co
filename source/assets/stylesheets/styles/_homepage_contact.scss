@@ -1,0 +1,63 @@
+.homepage-contact {
+  background-color: $homepage-contact__background-color;
+
+  @include breakpoint($tablet-breakpoint) {
+    background-image: url(/assets/images/homepage/contact--tablet.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    margin-top: 50px;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/contact--tablet@2x.jpg);
+    }
+  }
+}
+
+.homepage-contact__container {
+  box-sizing: border-box;
+  padding: 28px 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+    @include flex-direction(column);
+    min-height: 48vw;
+    padding: 30px 20px 20px;
+    width: 50%;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    min-height: 463px;
+  }
+}
+
+.homepage-contact__title {
+  @include responsive-title;
+  color: $text-tile__title-color;
+  font-weight: 200;
+  line-height: 1.2;
+  padding-bottom: 16px;
+  text-transform: lowercase;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 2vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-bottom: 26px;
+  }
+}
+
+.homepage-contact__image {
+  display: block;
+  margin-bottom: 16px;
+  width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: none;
+  }
+}
+
+.homepage-contact__paragraph {
+  @extend .text-tile__paragraph;
+}

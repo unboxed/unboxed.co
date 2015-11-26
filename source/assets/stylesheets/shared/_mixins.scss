@@ -1,3 +1,14 @@
+@mixin retina {
+  @media only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (   min--moz-device-pixel-ratio: 2),
+    only screen and (     -o-min-device-pixel-ratio: 2/1),
+    only screen and (        min-device-pixel-ratio: 2),
+    only screen and (                min-resolution: 192dpi),
+    only screen and (                min-resolution: 2dppx) {
+      @content;
+    }
+}
+
 @mixin responsive-title {
   font-size: 1.4em;
 
@@ -10,16 +21,20 @@
   }
 }
 
+@mixin responsive-sub-title {
+  font-size: 1.2em;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 2.834vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.7em;
+  }
+}
+
 @mixin responsive-text {
   font-size: 1em;
-
-  @include breakpoint($mobile-font-breakpoint) {
-    font-size: 4.5vw;
-  }
-
-  @include breakpoint($max-mobile-container) {
-    font-size: 1.3em;
-  }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 2.17vw;

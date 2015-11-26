@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
     <title>
       <% if content_for?(:title)
         title = yield_content(:title)
@@ -38,7 +39,7 @@
     <header class="site-header<%= '--blog' if is_matching_link?('/blog', current_page.url) %>" data-site-header>
       <div class="site-header__container">
         <div class="site-brand">
-          <a class="site-brand__link" href="https://www.unboxedconsulting.com/">
+          <a class="site-brand__link" href="/">
             Unboxed
           </a>
         </div>
@@ -61,25 +62,7 @@
       <%= yield %>
     </div>
 
-    <div class="footer-social-icons">
-      <div class="footer-social-icons__container">
-        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
-          </div>
-        </a>
-      </div>
-    </div>
+    <%= partial 'footer.erb' %>
 
     <script>
       var $waypointElement = $('[data-header-waypoint]');
@@ -103,5 +86,12 @@
         document.documentElement.className += " ios-device";
       }
     </script>
+
+    <!--[if lte IE 9]>
+      <%= javascript_include_tag "jquery.placeholder.min" %>
+      <script>
+        $('input[placeholder], textarea[placeholder]').placeholder();
+      </script>
+    <![endif]-->
   </body>
 </html>

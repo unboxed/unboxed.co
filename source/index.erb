@@ -1,0 +1,180 @@
+---
+header_text: |
+  We're Unboxed. We **collaborate** to grow your ideas for digital products and services. Then we **build** them. We can also improve the way your organisation works.
+
+  We do this through **agile** and **lean** techniques, using **Ruby on Rails**.
+
+services:
+  title: "What we do"
+  content:
+    - title: "Grow your idea"
+      image: "/assets/images/homepage/service-grow.jpg"
+      text: "You have an idea for a digital product? Great. We love ideas. Share it with us and we will help grow it."
+
+    - title: "Build your digital product"
+      image: "/assets/images/homepage/service-build.jpg"
+      text: "You already know what you want and are looking for a partner to build it? Collaborate with one of our agile design and development teams to get your vision to your reality."
+
+    - title: "Change your culture"
+      image: "/assets/images/homepage/service-change.jpg"
+      text: "You could be working towards something amazing, but is the way you are working slowing you down? We are agile pioneers. We can show you how you can be too."
+
+additional_services:
+  title: "What we also do"
+  content:
+    - title: "Rescue your product"
+      text: "If a red light is flashing and something has gone wrong. Don’t panic. If it can be fixed, we can fix it."
+
+    - title: "Your next phase"
+      text: "Discovery, Alpha, Beta. Whichever phase you are heading into, let us jump in to provide clarity and insight for your journey through to live."
+
+    - title: "Support you"
+      text: "If we built it, we will support it. We will love your product for as long as you and your users love it."
+
+contact:
+  title: "What about you?"
+  text: "Martyn is our Head of Product. If you have a challenge, or even just a question, get in touch:"
+  email: "hello@unboxed.co"
+  display_email: "martyn.evans@unboxed.co"
+  email_subject: "Homepage enquiry"
+  image_description: "Martyn Evans"
+
+projects:
+  title: "Who we have partnered with"
+  content:
+    - name: "SH:24"
+      description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
+      image: "/assets/images/project-stories/sh24.jpg"
+      link: "/project-stories/sh24"
+
+    - name: "Contiki Holidays"
+      description: "Powerful offshore partnership creates 47% increase in bookings for Contiki Tours"
+      image: "/assets/images/project-stories/contiki.jpg"
+      link: "/project-stories/contiki-holidays"
+
+    - name: "Naturejobs"
+      description: "Recruitment site revitalisation for major scientific publishing group"
+      image: "/assets/images/project-stories/naturejobs-macmillan.jpg"
+      link: "/project-stories/naturejobs"
+
+blog_title: "What we have been blogging about"
+
+---
+
+<div class="homepage">
+  <div class="homepage-header">
+    <div class="homepage-header__text">
+      <%= Tilt['markdown'].new { current_page.data.header_text }.render %>
+    </div>
+  </div>
+
+  <div class="homepage-services" data-header-waypoint>
+    <h2 class="homepage-services__title">
+      <%= current_page.data.services.title %>
+    </h2>
+
+    <% current_page.data.services.content.each do |service| %>
+      <div class="homepage-services__service">
+        <div class="homepage-service">
+          <h3 class="homepage-service__title">
+            <%= service.title %>
+          </h3>
+          <%= image_tag service.image, alt: service.title, class: "homepage-service__image", srcset: retina_srcset(service.image) %>
+          <p class="homepage-service__paragraph">
+            <%= service.text %>
+          </p>
+        </div>
+      </div>
+    <% end %>
+  </div>
+
+  <div class="homepage-additional-services">
+    <h2 class="homepage-additional-services__title">
+      <%= current_page.data.additional_services.title %>
+    </h2>
+
+    <% current_page.data.additional_services.content.each do |service| %>
+      <div class="homepage-additional-services__service">
+        <div class="homepage-service homepage-service--white">
+          <h3 class="homepage-service__title">
+            <%= service.title %>
+          </h3>
+          <p class="homepage-service__paragraph">
+            <%= service.text %>
+          </p>
+        </div>
+      </div>
+    <% end %>
+  </div>
+
+  <div class="homepage-latest">
+    <h2 class="homepage-latest__title">
+      <%= current_page.data.projects.title %>
+    </h2>
+
+    <% current_page.data.projects.content.each do |project| %>
+      <a class="homepage-tile" href="<%= project.link %>">
+        <div class="homepage-tile__content">
+          <img class="homepage-tile__image" src="<%= project.image %>" alt="<%= project.name %>">
+
+          <h3 class="homepage-tile__title">
+            <%= project.name %>
+          </h3>
+
+          <p class="homepage-tile__paragraph">
+            <%= project.description %>
+          </p>
+        </div>
+      </a>
+    <% end %>
+  </div>
+
+  <div class="homepage-contact">
+    <div class="homepage-contact__container">
+      <h2 class="homepage-contact__title">
+        <%= current_page.data.contact.title %>
+      </h2>
+
+      <%= image_tag "/assets/images/homepage/contact--mobile.jpg", alt: current_page.data.contact.image_description, class: "homepage-contact__image", srcset: "/assets/images/homepage/contact--mobile@2x.jpg 2x" %>
+
+      <p class="homepage-contact__paragraph">
+        <%= current_page.data.contact.text %>
+      </p>
+
+      <form class="homepage-contact-form" action="//formspree.io/<%= current_page.data.contact.email %>" method="POST">
+        <p class="homepage-contact-form__to-disabled-input" data-to="<%= current_page.data.contact.display_email %>"></p>
+        <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_subject" value="<%= current_page.data.contact.email_subject %>" />
+        <input class="homepage-contact-form__email-input" type="email" name="_replyto" placeholder="your email" required />
+        <textarea class="homepage-contact-form__message-input" name="comment" placeholder="message" required></textarea>
+        <input class="homepage-contact-form__send-button" type="submit" value="send">
+      </form>
+    </div>
+  </div>
+
+  <div class="homepage-latest">
+    <h2 class="homepage-latest__title">
+      <%= current_page.data.blog_title %>
+    </h2>
+
+    <% blog.articles.reject { |article| article.data.weekly_roundup? }.first(3).each do |article| %>
+      <a class="homepage-blog-tile" href="<%= article.url %>">
+        <div class="homepage-blog-tile__content">
+          <div class="homepage-blog-tile__title">
+            <%= truncate(article.title, length: 70) %>
+          </div>
+
+          <div>
+            <div class="homepage-blog-tile__author">
+              <%= article.data.author %>
+            </div>
+
+            <div class="homepage-blog-tile__date">
+              <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
+            </div>
+          </div>
+        </div>
+      </a>
+    <% end %>
+  </div>
+</div>

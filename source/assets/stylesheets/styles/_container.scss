@@ -1,4 +1,4 @@
-%container {
+.container {
   margin: 0 auto;
   max-width: $max-mobile-container;
 
@@ -7,12 +7,21 @@
   }
 }
 
-.container {
-  @extend %container;
-}
-
 .container--blog {
   @extend .container;
   box-sizing: border-box;
   padding-left: 6px;
 }
+
+.container--project-stories {
+  @extend .container;
+  box-sizing: border-box;
+  padding-top: 6px;
+  padding-left: 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 60px;
+    overflow: hidden;
+  }
+}
+

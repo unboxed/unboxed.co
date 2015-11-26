@@ -1,5 +1,5 @@
 .blog-grid-tags {
-  @extend %container;
+  @extend .container;
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
