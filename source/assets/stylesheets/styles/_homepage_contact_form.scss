@@ -96,6 +96,10 @@
   &.placeholder {
     color: #C0C0C0;
   }
+
+  &.error {
+    background-color: mix($homepage-contact__background-color, $purple, 95%);
+  }
 }
 
 .homepage-contact-form__body {
@@ -124,6 +128,10 @@
 
   &.placeholder {
     color: #C0C0C0;
+  }
+
+  &.error {
+    background-color: mix($homepage-contact__background-color, $purple, 95%);
   }
 
   @include breakpoint($tablet-breakpoint) {
