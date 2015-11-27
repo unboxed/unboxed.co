@@ -86,29 +86,29 @@
       <%= partial 'layouts/disqus', locals: { article_slug: current_page.slug } %>
 
       <% if current_article.similar_articles.any? %>
-        <section class="blog-related">
-        <p class="blog-related__header">Related</p>
-          <% current_article.similar_articles.first(3).each do |article| %>
-            <a class="blog-related__tile" href="<%= article.url %>">
-              <% if article.data.tags %>
-                <div class="blog-related__tag">
-                  <% article.data.tags.each do |tag| %>
-                    <div class="blog-related__tag-link"><span><%= tag %></span></div>
-                  <% end %>
-                </div>
-              <% end %>
-              <div class="blog-related__date" id="articlePublishedDate" data-date="<%= article.date %>">
-                <span>
-                  <%= Time.parse(article.date.to_s).strftime("%B %e, %Y") %>
-                </span>
+        <div class="footer-introduction">
+          <h3 class="footer-introduction__title">
+            Related
+          </h3>
+        </div>
+
+        <% current_article.similar_articles.first(3).each do |article| %>
+          <a class="blog-related-tile" href="<%= article.url %>">
+            <div class="blog-related-tile__title">
+              <%= truncate(article.title, length: 70) %>
+            </div>
+
+            <div>
+              <div class="blog-related-tile__author">
+                <%= article.data.author %>
               </div>
 
-              <div class="blog-related__title">
-                <%= article.title %>
+              <div class="blog-related-tile__date">
+                <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
               </div>
-            </a>
-          <% end %>
-        </section>
+            </div>
+          </a>
+        <% end %>
       <% end %>
     </div>
   </div>

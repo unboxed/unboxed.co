@@ -7,15 +7,11 @@
 
   <% current_page.data.related.articles.each do |article| %>
     <a class="related-tile" href="<%= article.link %>">
-      <div class="related-tile__text-content">
-        <div>
-          <div class="related-tile__type">
-            <%= article.type %>
-          </div>
-          <div class="related-tile__title">
-            <%= article.title %>
-          </div>
-        </div>
+      <div class="related-tile__type">
+        <%= article.type %>
+      </div>
+      <div class="related-tile__title">
+        <%= article.title %>
       </div>
     </a>
   <% end %>

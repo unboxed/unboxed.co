@@ -163,10 +163,8 @@ $blog-comments__background-color: $white;
 $blog-comments__border-color: $light-gray;
 $blog-comments__link-color: $purple;
 
-$blog-related__title-color: $dark-gray;
-$blog-related__tile-background-color: $white;
-$blog-related__tile-hover-color: darken($blog-related__tile-background-color, 5%);
-$blog-related__text-color: $dark-gray;
-$blog-related__tag-background-color: lighten($purple, 55%);
-$blog-related__tag-border-color: darken($light-gray, 5%);
-$blog-related__tag-text-color: darken($purple, 10%);
+$blog-related_tile__background-color: $white;
+$blog-related-tile__border-color: $light-gray;
+$blog-related_tile__hover-color: darken($blog-related_tile__background-color, 5%);
+$blog-related_tile__title-color: $purple;
+$blog-related_tile__text-color: $dark-gray;
