@@ -232,15 +232,11 @@ past_events:
 
   <% current_page.data.past_events.each do |event| %>
     <a class="related-tile" href="<%= event.link %>">
-      <div class="related-tile__text-content">
-        <div>
-          <div class="related-tile__type">
-            event summary
-          </div>
-          <div class="related-tile__title">
-            <%= event.title %>
-          </div>
-        </div>
+      <div class="related-tile__type">
+        event summary
+      </div>
+      <div class="related-tile__title">
+        <%= event.title %>
       </div>
     </a>
   <% end %>
