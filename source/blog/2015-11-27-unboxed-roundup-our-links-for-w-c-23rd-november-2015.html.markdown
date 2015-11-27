@@ -42,4 +42,9 @@ You could earn money by just walking to work etc. What's not to like?
 ##  - [](http://www.unboxedconsulting.com/people/)
 
 
-## Track of the Week - [](https://www.unboxedconsulting.com/people/)
+## Track of the Week - [Martyn E](https://www.unboxedconsulting.com/people/martyn-evans)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/acRMALrg1t4" frameborder="0" allowfullscreen></iframe>
+["It's My Party" - Lesley Gore](https://www.youtube.com/watch?v=acRMALrg1t4&feature=youtu.be)
+
+Whilst "networking" at Agile on the Beach earlier this year, Claire and I invented a game whereby if you met someone new, you had to introduce them to your colleagues (Gram, Jack and Ben were also along) by singing a song with their name in the title. We tried it on many people and the best one we came up with to introduce me was "It's my Marty and I'll cry if I want to". I never knew who sang the original but it turns out it was a young Lesley Gore, produced by the mighty Quincy Jones. It's quite something!
