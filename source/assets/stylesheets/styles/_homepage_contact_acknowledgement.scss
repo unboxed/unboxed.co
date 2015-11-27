@@ -1,0 +1,16 @@
+.homepage-contact-acknowledgement {
+  color: $homepage-contact__text-color;
+  display: none;
+  font-size: 1em;
+  font-weight: 300;
+  padding-top: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.9em;
+    padding-top: 6px;
+  }
+}
+
+#contact-form:target ~ .homepage-contact-acknowledgement {
+  display: block;
+}

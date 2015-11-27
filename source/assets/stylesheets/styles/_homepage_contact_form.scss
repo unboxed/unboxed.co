@@ -1,11 +1,16 @@
 .homepage-contact-form {
-  margin-top: 30px;
+  margin-top: 16px;
 
   @include breakpoint($tablet-breakpoint) {
     @include flexbox;
     @include flex-direction(column);
     @include flex-grow(1);
     position: relative;
+    margin-top: 2vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    margin-top: 20px;
   }
 }
 
