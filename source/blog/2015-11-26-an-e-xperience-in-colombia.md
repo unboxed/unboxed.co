@@ -2,11 +2,12 @@
 author: Martyn Evans
 tags: 
   - Innovation
-main_image: "http://i963.photobucket.com/albums/ae115/Ubxd/martyn-colombia_zps0t0uroon.jpg"
+main_image: "http://i963.photobucket.com/albums/ae115/Ubxd/martyn-speaking-colombia_zpscahcr9us.jpg"
 date: "2015-11-26 15:49 +0000"
 published: true
 title: "An E-xperience in Colombia"
 ---
+
 
 
 ##Public Digital Innovation
@@ -18,6 +19,8 @@ Two months later, I arrived in the mountainous coffee region of Colombia in the 
 
 ##A Translated E-xperience
 We spent an interesting couple of days at the conference trying to keep pace with the workshops and talks, embarrassed by our atrocious linguistic skills and extremely grateful for the work of the translation team and the various English/Spanish speakers who helped us out. Special thanks go to our fellow guests Jean Barroca ([@jeanbarroca](https://twitter.com/jeanbarroca)) from the World Bank and Elisabeth Leegwater ([@lizBCN](https://twitter.com/lizBCN)) who effortlessly managed to deliver their own contributions in Spanish (a second language for them both) whilst making sure the two English guys were keeping up (in a third language).
+
+![](http://i963.photobucket.com/albums/ae115/Ubxd/martyn-chris-interpreted_zpsquxyiatp.jpg)
 
 ##Common Values
 Above all, what I learned about Colombia from the conference is this:
