@@ -1,11 +1,16 @@
 .homepage-contact-form {
-  margin-top: 30px;
+  margin-top: 16px;
 
   @include breakpoint($tablet-breakpoint) {
     @include flexbox;
     @include flex-direction(column);
     @include flex-grow(1);
     position: relative;
+    margin-top: 2vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    margin-top: 20px;
   }
 }
 
@@ -91,6 +96,10 @@
   &.placeholder {
     color: #C0C0C0;
   }
+
+  &.error {
+    background-color: mix($homepage-contact__background-color, $purple, 95%);
+  }
 }
 
 .homepage-contact-form__body {
@@ -121,8 +130,29 @@
     color: #C0C0C0;
   }
 
+  &.error {
+    background-color: mix($homepage-contact__background-color, $purple, 95%);
+  }
+
   @include breakpoint($tablet-breakpoint) {
     @include flex-grow(1);
     height: auto;
   }
+}
+
+.homepage-contact-form__acknowledgement {
+  color: $purple;
+  display: none;
+  font-size: 1em;
+  font-weight: 300;
+  padding-top: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.9em;
+    padding-top: 6px;
+  }
+}
+
+#contact-form:target ~ .homepage-contact-form__acknowledgement {
+  display: block;
 }

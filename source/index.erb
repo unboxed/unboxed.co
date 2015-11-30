@@ -37,6 +37,7 @@ contact:
   email: "hello@unboxed.co"
   display_email: "martyn.evans@unboxed.co"
   email_subject: "Homepage enquiry"
+  acknowledgement: "Thanks for sending, we’ll be in touch."
   image_description: "Martyn Evans"
 
 projects:
@@ -141,14 +142,27 @@ blog_title: "What we have been blogging about"
         <%= current_page.data.contact.text %>
       </p>
 
-      <form class="homepage-contact-form" action="//formspree.io/<%= current_page.data.contact.email %>" method="POST">
+      <form class="homepage-contact-form" id="contact-form" action="//formspree.io/<%= current_page.data.contact.email %>" method="POST">
         <p class="homepage-contact-form__to-disabled-input" data-to="<%= current_page.data.contact.display_email %>"></p>
         <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_next" value="/#contact-form" />
         <input type="hidden" name="_subject" value="<%= current_page.data.contact.email_subject %>" />
         <input class="homepage-contact-form__email-input" type="email" name="_replyto" placeholder="your email" required />
         <textarea class="homepage-contact-form__message-input" name="comment" placeholder="message" required></textarea>
         <input class="homepage-contact-form__send-button" type="submit" value="send">
       </form>
+
+      <div class="homepage-contact-form__acknowledgement">
+        <%= current_page.data.contact.acknowledgement %>
+      </div>
+
+      <script>
+        $.getScript('assets/javascripts/jquery.validate.min.js', function () {
+          $('#contact-form').validate({
+            errorPlacement: function () {}
+          });
+        });
+      </script>
     </div>
   </div>
 
