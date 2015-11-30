@@ -68,9 +68,9 @@ blog_title: "What we have been blogging about"
 
 <div class="homepage">
   <div class="homepage-header">
-    <div class="homepage-header__text">
+    <h1 class="homepage-header__text">
       <%= Tilt['markdown'].new { current_page.data.header_text }.render %>
-    </div>
+    </h1>
   </div>
 
   <div class="homepage-services" data-header-waypoint>
