@@ -139,3 +139,20 @@
     height: auto;
   }
 }
+
+.homepage-contact-form__acknowledgement {
+  color: $purple;
+  display: none;
+  font-size: 1em;
+  font-weight: 300;
+  padding-top: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.9em;
+    padding-top: 6px;
+  }
+}
+
+#contact-form:target ~ .homepage-contact-form__acknowledgement {
+  display: block;
+}
