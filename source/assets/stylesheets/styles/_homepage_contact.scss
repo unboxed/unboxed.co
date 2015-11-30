@@ -16,7 +16,7 @@
 
 .homepage-contact__container {
   box-sizing: border-box;
-  padding: 28px 20px;
+  padding: 30px 20px;
 
   @include breakpoint($tablet-breakpoint) {
     @include flexbox;
