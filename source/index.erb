@@ -31,15 +31,6 @@ additional_services:
     - title: "Support you"
       text: "If we built it, we will support it. We will love your product for as long as you and your users love it."
 
-contact:
-  title: "What about you?"
-  text: "Martyn is our Head of Product. If you have a challenge, or even just a question, get in touch:"
-  email: "hello@unboxed.co"
-  display_email: "martyn.evans@unboxed.co"
-  email_subject: "Homepage enquiry"
-  acknowledgement: "Thanks for sending, we’ll be in touch."
-  image_description: "Martyn Evans"
-
 projects:
   title: "Who we have partnered with"
   content:
@@ -57,6 +48,19 @@ projects:
       description: "Recruitment site revitalisation for major scientific publishing group"
       image: "/assets/images/project-stories/naturejobs-macmillan.jpg"
       link: "/project-stories/naturejobs"
+
+contact:
+  title: "What about you?"
+  text: "Martyn is our Head of Product. If you have a challenge, or even just a question, get in touch:"
+  email: "hello@unboxed.co"
+  display_email: "martyn.evans@unboxed.co"
+  email_subject: "Homepage enquiry"
+  acknowledgement: "Thanks for sending, we’ll be in touch."
+  image_description: "Martyn Evans"
+
+newsletter:
+  title: "Our newsletter"
+  text: "Or if you're not currently facing any challenges, we'd love to connect anyway. Pop in your email address and join the world of Unboxed through our updates:"
 
 blog_title: "What we have been blogging about"
 
@@ -163,6 +167,19 @@ blog_title: "What we have been blogging about"
           });
         });
       </script>
+    </div>
+  </div>
+
+  <div class="homepage-newsletter">
+    <div class="homepage-newsletter__container">
+      <h2 class="homepage-newsletter__title">
+        <%= current_page.data.newsletter.title %>
+      </h2>
+      <p class="homepage-newsletter__paragraph">
+        <%= current_page.data.newsletter.text %>
+      </p>
+
+      <%= partial 'newsletter', locals: { block_class: 'homepage-newsletter' } %>
     </div>
   </div>
 
