@@ -6,7 +6,7 @@
   <section class="blog-article">
     <div class="blog-article__container">
 
-      <div class="blog-header">
+      <header class="blog-header">
         <h1 class="blog-header__title">
           <a class="blog-header__breadcrumb" href="/blog">Blog</a> / <%= current_page.data.title %>
         </h1>
@@ -26,7 +26,7 @@
             <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
           </div>
         </div>
-      </div>
+      </header>
 
       <div class="blog-article-tags blog-tags">
         <div class="blog-tags__container">

@@ -67,13 +67,13 @@ blog_title: "What we have been blogging about"
 ---
 
 <div class="homepage">
-  <div class="homepage-header">
+  <header class="homepage-header">
     <h1 class="homepage-header__text">
       <%= Tilt['markdown'].new { current_page.data.header_text }.render %>
     </h1>
-  </div>
+  </header>
 
-  <div class="homepage-services" data-header-waypoint>
+  <section class="homepage-services" data-header-waypoint>
     <h2 class="homepage-services__title">
       <%= current_page.data.services.title %>
     </h2>
@@ -91,9 +91,9 @@ blog_title: "What we have been blogging about"
         </div>
       </div>
     <% end %>
-  </div>
+  </section>
 
-  <div class="homepage-additional-services">
+  <section class="homepage-additional-services">
     <h2 class="homepage-additional-services__title">
       <%= current_page.data.additional_services.title %>
     </h2>
@@ -110,9 +110,9 @@ blog_title: "What we have been blogging about"
         </div>
       </div>
     <% end %>
-  </div>
+  </section>
 
-  <div class="homepage-latest">
+  <section class="homepage-latest">
     <h2 class="homepage-latest__title">
       <%= current_page.data.projects.title %>
     </h2>
@@ -132,9 +132,9 @@ blog_title: "What we have been blogging about"
         </div>
       </a>
     <% end %>
-  </div>
+  </section>
 
-  <div class="homepage-contact">
+  <section class="homepage-contact">
     <div class="homepage-contact__container">
       <h2 class="homepage-contact__title">
         <%= current_page.data.contact.title %>
@@ -168,20 +168,21 @@ blog_title: "What we have been blogging about"
         });
       </script>
     </div>
-  </div>
+  </section>
 
-  <div class="homepage-newsletter">
+  <section class="homepage-newsletter">
     <h2 class="homepage-newsletter__title">
       <%= current_page.data.newsletter.title %>
     </h2>
+
     <p class="homepage-newsletter__paragraph">
       <%= current_page.data.newsletter.text %>
     </p>
 
     <%= partial 'newsletter', locals: { block_class: 'homepage-newsletter' } %>
-  </div>
+  </section>
 
-  <div class="homepage-latest">
+  <section class="homepage-latest">
     <h2 class="homepage-latest__title">
       <%= current_page.data.blog_title %>
     </h2>
@@ -205,5 +206,5 @@ blog_title: "What we have been blogging about"
         </div>
       </a>
     <% end %>
-  </div>
+  </section>
 </div>
