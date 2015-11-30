@@ -13,7 +13,9 @@
 
         <div class="blog-header__subtitle">
           <% if author %>
-            <a class="blog-header__author--linked" href="https://unboxedconsulting.com/people/<%= author.short_name %>"><%= author.name %></a>
+            <a class="blog-header__author--linked" href="https://unboxedconsulting.com/people/<%= author.short_name %>" rel="author">
+              <%= author.name %>
+            </a>
           <% else %>
             <div class="blog-header__author">
               <%= current_page.data.author %>
