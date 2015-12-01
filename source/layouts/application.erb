@@ -13,7 +13,6 @@
     <%= favicon_tag "favicon.ico" %>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
     <%= stylesheet_link_tag "application" %>
-    <%= javascript_include_tag "application", async: true %>
     <%= stylesheet_link_tag "ie10_fixes" %>
     <!--[if IE 9]>
       <%= stylesheet_link_tag "ie9_fixes" %>
@@ -26,11 +25,27 @@
       <%= yield_content(:head) %>
     <% end %>
     <script>
+      function deferredScript(path) {
+        function addScript(path) {
+          var element = document.createElement('script');
+          element.src = path;
+          document.body.appendChild(element);
+        }
+
+        if (window.addEventListener) {
+          window.addEventListener('load', addScript(path), false);
+        } else if (window.attachEvent) {
+          window.attachEvent('onload', addScript(path));
+        } else {
+          window.onload = addScript(path);
+        }
+      }
+
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-1228281-4', 'unboxed.co');
       ga('send', 'pageview');
     </script>
-    <script async src='//www.google-analytics.com/analytics.js'></script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
   </head>
 
   <body>
@@ -67,19 +82,7 @@
     <![endif]-->
 
     <script type="text/javascript">
-      function deferredJS() {
-        var element = document.createElement("script");
-        element.src = "/assets/javascripts/defer.js";
-        document.body.appendChild(element);
-      }
-
-      if (window.addEventListener) {
-        window.addEventListener("load", deferredJS, false);
-      } else if (window.attachEvent) {
-        window.attachEvent("onload", deferredJS);
-      } else {
-        window.onload = deferredJS;
-      }
+      deferredScript("/assets/javascripts/application.js")
     </script>
   </body>
 </html>
