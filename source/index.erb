@@ -122,7 +122,7 @@ blog_title: "What we have been blogging about"
     </h2>
 
     <% current_page.data.projects.content.each do |project| %>
-      <a class="homepage-tile" href="<%= project.link %>">
+      <a class="homepage-tile" href="<%= project.link %>" title="<%= project.name %>">
         <div class="homepage-tile__content">
           <img class="homepage-tile__image" src="<%= project.image %>" alt="<%= project.name %>">
 
@@ -192,7 +192,7 @@ blog_title: "What we have been blogging about"
     </h2>
 
     <% blog.articles.reject { |article| article.data.weekly_roundup? }.first(3).each do |article| %>
-      <a class="homepage-blog-tile" href="<%= article.url %>">
+      <a class="homepage-blog-tile" href="<%= article.url %>" title="<%= article.title %>">
         <div class="homepage-blog-tile__content">
           <div class="homepage-blog-tile__title">
             <%= truncate(article.title, length: 70) %>
