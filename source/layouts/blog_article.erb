@@ -118,23 +118,24 @@
   </div>
 
   <script>
-    var $iframes = $('.blog-content iframe');
+    var iframes = document.querySelectorAll('.blog-content iframe');
 
-    if ($iframes.length !== 0) {
+    if (iframes.length !== 0) {
       function resizeIframes() {
-        $iframes.each(function() {
+        for (var i = 0; i < iframes.length; i++) {
+          var iframe = iframes[i]
           // Get the iframe's intended aspect ratio via it's inline dimensions
-          var ratio = $(this).attr('height') / $(this).attr('width');
+          var ratio = iframe.getAttribute('height') / iframe.getAttribute('width');
           // Apply a CSS height that is in correct ratio to it's current width
-          $(this).css('height', $(this).width() * ratio);
-        });
+          iframe.style.height = iframe.offsetWidth * ratio + 'px';
+        };
       }
 
       var timer;
-      $(window).resize(function() {
+      window.onresize = function() {
         clearTimeout(timer);
         timer = setTimeout(resizeIframes, 100);
-      });
+      };
 
       resizeIframes();
     }
