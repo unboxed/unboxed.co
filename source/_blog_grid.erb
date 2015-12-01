@@ -20,7 +20,7 @@
     columnWidth: '.blog-tile__grid-sizer'
   };
 
-  if (Modernizr.matchmedia) {
+  if (typeof window.matchMedia != "undefined" || typeof window.msMatchMedia != "undefined") {
     var mq = matchMedia('(min-width: 660px)');
 
     if (mq.matches) {
