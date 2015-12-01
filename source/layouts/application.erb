@@ -5,13 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="format-detection" content="telephone=no">
     <title>
-      <% if content_for?(:title)
-        title = yield_content(:title)
-      elsif current_page.data.title
-        title = current_page.data.title
-      end %>
+      <% title = page_data(:title) %>
       <%= title ? "Unboxed - #{title}" : "Unboxed" %>
     </title>
+    <meta name="description" content="<%= page_data(:meta_description) %>">
+    <meta name="keywords" content="<%= page_data(:meta_keywords) %>">
     <%= favicon_tag "favicon.ico" %>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
     <%= stylesheet_link_tag "application" %>

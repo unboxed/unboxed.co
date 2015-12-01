@@ -14,6 +14,14 @@ module Helpers
     href == current_url.match(/^(\/[^\/]*).*$/)[1]
   end
 
+  def page_data(key)
+    if content_for?(key)
+      yield_content(key)
+    elsif current_page.data[key]
+      current_page.data[key]
+    end
+  end
+
   def atom_id(article)
     "tag:unboxed.co,#{article.date.to_time.strftime('%Y-%m-%d')}:#{article.slug}"
   end
