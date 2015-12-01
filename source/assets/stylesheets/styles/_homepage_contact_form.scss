@@ -109,6 +109,7 @@
 
 .homepage-contact-form__message-input {
   @include responsive-text;
+  border-radius: 0;
   border: 0;
   color: $homepage-contact__text-color;
   display: block;
