@@ -2,6 +2,7 @@
 title: "Blog"
 ---
 
+<% content_for(:meta_keywords) { "Unboxed, Blog, #{data.tags.join(', ')}" } %>
 <% add_atom_feed_to_head %>
 
 <header class="blog-header">
