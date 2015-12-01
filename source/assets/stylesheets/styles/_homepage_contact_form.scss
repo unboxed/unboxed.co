@@ -99,7 +99,7 @@
   }
 
   &.error {
-    background-color: mix($homepage-contact__background-color, $purple, 95%);
+    background-color: mix($homepage-contact__background-color, $purple, 90%);
   }
 }
 
@@ -132,7 +132,7 @@
   }
 
   &.error {
-    background-color: mix($homepage-contact__background-color, $purple, 95%);
+    background-color: mix($homepage-contact__background-color, $purple, 90%);
   }
 
   @include breakpoint($tablet-breakpoint) {
