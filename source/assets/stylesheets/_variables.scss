@@ -11,11 +11,6 @@ $medium-gray: #767676;
 $light-gray: #F7F7F7;
 $white: #FFFFFF;
 
-// Site navigation
-$site-navigation__link-color: $medium-gray;
-$site-navigation__link-color--active: $purple;
-$site-navigation__underline-color--active: $purple;
-
 // Home page
 $homepage-introduction__fallback-image-background-color: darken($light-gray, 10%);
 $homepage-introduction__background-color: transparentize(darken($purple, 5%), 0.1);
