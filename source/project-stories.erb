@@ -33,7 +33,7 @@ project_stories:
     image: "/assets/images/project-stories/naturejobs-macmillan.jpg"
 ---
 
-<header class="page-header">
+<header class="page-header page-header--bottom-margin">
   <div class="page-header__container">
     <h1 class="page-header__title">
       <%= current_page.data.title %>
@@ -41,7 +41,7 @@ project_stories:
   </div>
 </header>
 
-<div class="container--project-stories" data-header-waypoint>
+<div class="container--grid" data-header-waypoint>
   <% current_page.data.project_stories.each_with_index do |project_story, index| %>
     <% class_name = index == 0 ? "project-story-large-tile" : "project-story-small-tile" %>
     <a class="<%= class_name %>" href="<%= project_story.link %>">
