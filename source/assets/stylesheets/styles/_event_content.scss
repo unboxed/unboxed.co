@@ -1,5 +1,5 @@
 .event-content__text {
-  color: $event__text-color;
+  color: $black;
   font-weight: 200;
   line-height: 1.6;
   margin-bottom: 20px;
@@ -10,7 +10,7 @@
 }
 
 .event-content__title {
-  color: $event-content__title-color;
+  color: $purple;
   font-size: 1.3em;
   font-weight: 200;
   line-height: 1.4;
@@ -22,7 +22,7 @@
 }
 
 .event-content__list {
-  color: $event__text-color;
+  color: $black;
   font-weight: 200;
   line-height: 1.3;
   list-style: disc;

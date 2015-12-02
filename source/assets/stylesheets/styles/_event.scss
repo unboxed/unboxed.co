@@ -1,5 +1,5 @@
 .event {
-  background-color: $event__background-color;
+  background-color: $white;
   padding-top: 10px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -25,24 +25,27 @@
 
 .event__subtitle {
   @include responsive-title;
-  color: $event__subtitle-color;
+  color: $dark-gray;
   font-weight: 200;
   line-height: 1.2em;
 }
 
 .event__cta {
   @extend .container;
-  background-color: $event__cta-background-color;
+  border: 1px solid $purple;
+  background-color: $purple;
   box-sizing: border-box;
-  color: $event__cta-text-color;
+  color: $white;
   display: block;
-  padding: 16px 20px;
+  padding: 14px 20px;
   text-align: center;
   text-decoration: none;
   width: 100%;
 
   &:hover {
-    background-color: $event__cta-hover-color;
+    background-color: $white;
+    color: $purple;
+    border: 1px solid $purple;
   }
 
   @include breakpoint($tablet-breakpoint) {
