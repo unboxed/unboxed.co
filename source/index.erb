@@ -146,7 +146,7 @@ blog_title: "What we have been blogging about"
         <%= current_page.data.contact.text %>
       </p>
 
-      <form class="homepage-contact-form" id="contact-form" action="//formspree.io/<%= current_page.data.contact.email %>" method="POST">
+      <form class="homepage-contact-form" id="contact-form" action="//formspree.io/<%= current_page.data.contact.email %>" method="POST" data-required-form>
         <p class="homepage-contact-form__to-disabled-input" data-to="<%= current_page.data.contact.display_email %>"></p>
         <input type="text" name="_gotcha" style="display:none" />
         <input type="hidden" name="_next" value="/#contact-form" />
@@ -161,11 +161,17 @@ blog_title: "What we have been blogging about"
       </div>
 
       <script>
-        $.getScript('assets/javascripts/jquery.validate.min.js', function () {
-          $('#contact-form').validate({
-            errorPlacement: function () {}
-          });
-        });
+        document.querySelector('[data-required-form]').onsubmit = function (event) {
+          var elements = this.querySelectorAll('[required]');
+          for (var i = 0; i < elements.length; i++) {
+            if (elements[i].value === '' || elements[i].value === elements[i].placeholder) {
+              elements[i].classList.add('error');
+              event.preventDefault ? event.preventDefault() : (window.event.returnValue = false);
+            } else {
+              elements[i].classList.remove('error');
+            }
+          }
+        };
       </script>
     </div>
   </section>
