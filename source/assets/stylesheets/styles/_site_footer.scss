@@ -1,5 +1,9 @@
 .site-footer {
   background-color: $dark-gray;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
 }
 
 .site-footer__container {
