@@ -17,20 +17,24 @@
   vertical-align: top;
 }
 
-.social-icons__icon--twitter {
+%social-icons__icon--base {
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(center);
-  background-color: $social-icon__twitter-color;
   border-radius: 50%;
   height: 28px;
   text-align: center;
   width: 28px;
 }
 
+.social-icons__icon--twitter {
+  @extend %social-icons__icon--base;
+  background-color: #55ACEE;
+}
+
 .social-icons__icon--linkedin {
-  @extend .social-icons__icon--twitter;
-  background-color: $social-icon__linkedin-color;
+  @extend %social-icons__icon--base;
+  background-color: #007AB6;
 }
 
 .social-icons__image {
