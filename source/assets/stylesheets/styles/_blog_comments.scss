@@ -1,10 +1,10 @@
 .blog-comments {
-  background-color: $blog-comments__background-color;
-  border-top: 3px solid $blog-comments__border-color;
+  background-color: $white;
+  border-top: 3px solid $light-gray;
   padding: 30px 20px;
 
   a {
-    color: $blog-comments__link-color;
+    color: $purple;
   }
 
   @include breakpoint($desktop-breakpoint) {

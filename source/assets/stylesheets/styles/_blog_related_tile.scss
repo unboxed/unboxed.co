@@ -1,6 +1,6 @@
 .blog-related-tile {
-  background-color: $blog-related-tile__background-color;
-  border-bottom: 1px solid $blog-related-tile__border-color;
+  background-color: $white;
+  border-bottom: 1px solid $light-gray;
   box-sizing: border-box;
   display: block;
   padding: 16px;
@@ -16,7 +16,7 @@
     @include flex-direction(column);
     @include justify-content(space-between);
     border-bottom: none;
-    border-right: 1px solid $blog-related-tile__border-color;
+    border-right: 1px solid $light-gray;
     float: left;
     min-height: 190px;
     width: 33.33%;
@@ -29,7 +29,7 @@
 
 .blog-related-tile__title {
   @include responsive-text;
-  color: $blog-related-tile__title-color;
+  color: $purple;
   font-weight: 300;
   line-height: 1.3em;
   margin-bottom: 20px;
@@ -40,7 +40,7 @@
 }
 
 .blog-related-tile__author {
-  color: $blog-related-tile__text-color;
+  color: $dark-gray;
   font-size: .8em;
   font-weight: 600;
   margin-bottom: 6px;
@@ -56,7 +56,7 @@
 }
 
 .blog-related-tile__date {
-  color: $blog-related-tile__text-color;
+  color: $dark-gray;
   font-size: .8em;
   text-transform: lowercase;
 

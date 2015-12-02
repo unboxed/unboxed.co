@@ -1,11 +1,11 @@
 .blog-tags__container {
   @extend .container;
-  border-bottom: 2px solid $blog-tags__underline-color;
+  border-bottom: 2px solid darken($light-gray, 10%);
 }
 
 .blog-tags__tag {
   border-bottom: 3px solid transparent;
-  color: $blog-tags__text-color;
+  color: $medium-gray;
   display: inline-block;
   font-size: .9em;
   padding: 1em 20px;
@@ -13,12 +13,12 @@
   text-transform: lowercase;
 
   &:hover {
-    border-bottom: 3px solid $blog-tags__underline-color--active;
-    color: $blog-tags__text-color--active;
+    border-bottom: 3px solid $purple;
+    color: $purple;
   }
 }
 
 .blog-tags__tag--active {
-  border-bottom: 3px solid $blog-tags__underline-color--active;
-  color: $blog-tags__text-color--active;
+  border-bottom: 3px solid $purple;
+  color: $purple;
 }
