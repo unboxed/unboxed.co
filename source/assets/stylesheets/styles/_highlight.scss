@@ -7,34 +7,34 @@
   }
 }
 
-.highlight--yellow {
+.highlight--sh24 {
   @extend %highlight;
-  background-color: $highlight__yellow-background-color;
-  color: $highlight__yellow-text-color;
+  background-color: #06B0D9;
+  color: $white;
 }
 
-.highlight--dark-gray {
+.highlight--contiki-holidays {
   @extend %highlight;
-  background-color: $highlight__dark-gray-background-color;
-  color: $highlight__dark-gray-text-color;
+  background-color: $dark-gray;
+  color: $white;
 }
 
-.highlight--blue {
+.highlight--plymouth-university {
   @extend %highlight;
-  background-color: $highlight__blue-background-color;
-  color: $highlight__blue-text-color;
+  background-color: #5993c6;
+  color: $white;
 }
 
-.highlight--hotpink {
+.highlight--plymouth-university-gets-agile {
   @extend %highlight;
-  background-color: $highlight__hotpink-background-color;
-  color: $highlight__hotpink-text-color;
+  background-color: #DF1753;
+  color: $white;
 }
 
-.highlight--peach {
+.highlight--naturejobs {
   @extend %highlight;
-  background-color: $highlight__peach-background-color;
-  color: $highlight__peach-text-color;
+  background-color: #DD353C;
+  color: $white;
 }
 
 .highlight__title {
