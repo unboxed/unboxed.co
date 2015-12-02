@@ -1,8 +1,8 @@
-.footer {
+.site-footer {
   background-color: $dark-gray;
 }
 
-.footer__container {
+.site-footer__container {
   @extend .container;
   box-sizing: border-box;
   color: $light-gray;
@@ -14,7 +14,7 @@
   }
 }
 
-.footer__tile {
+.site-footer__tile {
   box-sizing: border-box;
   display: block;
   font-weight: 200;
@@ -30,7 +30,7 @@
   }
 }
 
-.footer__email-address {
+.site-footer__email-address {
   color: inherit;
   text-decoration: none;
 }

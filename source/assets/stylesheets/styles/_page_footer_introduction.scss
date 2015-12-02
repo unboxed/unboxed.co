@@ -1,5 +1,5 @@
-.footer-introduction {
-  background-color: $footer-introduction__background-color;
+.page-footer-introduction {
+  background-color: $light-gray;
   padding: 16px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -7,9 +7,9 @@
   }
 }
 
-.footer-introduction__title {
+.page-footer-introduction__title {
   @include responsive-title;
-  color: $footer-introduction__text-color;
+  color: $black;
   font-weight: 200;
   line-height: 1.2;
   max-width: 220px;

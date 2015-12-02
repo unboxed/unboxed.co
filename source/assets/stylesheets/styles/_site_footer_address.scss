@@ -1,4 +1,4 @@
-.footer-address__city {
+.site-footer-address__city {
   display: block;
   color: inherit;
   font-weight: 400;
@@ -20,7 +20,7 @@
   }
 }
 
-.footer-address__postal-address {
+.site-footer-address__postal-address {
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
@@ -29,7 +29,7 @@
   }
 }
 
-.footer-address__phone-number {
+.site-footer-address__phone-number {
   color: inherit;
   text-decoration: none;
 
@@ -38,7 +38,7 @@
   }
 }
 
-.footer-address__company-registration {
+.site-footer-address__company-registration {
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
@@ -49,7 +49,7 @@
   }
 }
 
-i.footer-address__map-icon {
+i.site-footer-address__map-icon {
   padding-right: 10px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -57,7 +57,7 @@ i.footer-address__map-icon {
   }
 }
 
-i.footer-address__phone-icon {
+i.site-footer-address__phone-icon {
   padding-right: 8px;
 
   @include breakpoint($tablet-breakpoint) {
