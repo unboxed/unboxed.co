@@ -48,7 +48,6 @@
 
 .site-navigation__container {
   @include flexbox;
-
   height: 54px;
   overflow-x: scroll;
   overflow-y: hidden;
@@ -87,18 +86,21 @@
 }
 
 .site-navigation__link {
+  @include flex-shrink(0);
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
   border-bottom: 3px solid transparent;
   color: $site-navigation__link-color;
   display: inline-block;
   font-size: 0.9em;
+  height: 14px;
   padding: 10px;
   position: relative;
   text-decoration: none;
   text-transform: lowercase;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 0.8em;
+    height: auto;
     padding: 14px 12px;
 
     &:last-of-type {
