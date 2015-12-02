@@ -8,7 +8,7 @@
   width: 100%;
 
   &:hover {
-    background-color: $blog-related-tile__hover-color;
+    background-color: mix($white, $light-gray);
   }
 
   @include breakpoint($tablet-breakpoint) {

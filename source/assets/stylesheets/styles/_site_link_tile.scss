@@ -2,7 +2,7 @@
   @include flexbox;
   @include flex-direction(column);
   @include justify-content(space-between);
-  background-color: $site-link-tile__background-color;
+  background-color: lighten($dark-gray, 5%);
   border-bottom: 1px solid $link-tile__border-color;
   box-sizing: border-box;
   padding: 16px;
@@ -21,7 +21,7 @@
     width: 33.33%;
 
     &:hover {
-      background-color: $site-link-tile__hover-color;
+      background-color: lighten($dark-gray, 4%);
     }
 
     &:last-of-type {

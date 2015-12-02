@@ -18,10 +18,10 @@
   width: 100%;
 
   &:hover {
-    background-color: $blog-tile__hover-color;
+    background-color: mix($white, $light-gray);
 
     .blog-large-tile__article-image-container:before {
-      border-color: transparent transparent transparent $blog-tile__hover-color;
+      border-color: transparent transparent transparent mix($white, $light-gray);
     }
   }
 

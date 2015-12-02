@@ -20,7 +20,7 @@
   width: 100%;
 
   &:hover {
-    background-color: $project-story-tile__hover-color;
+    background-color: mix($white, $light-gray);
   }
 }
 

@@ -9,7 +9,7 @@
   width: 100%;
 
   &:hover {
-    background-color: darken($related-tile__background-color, 6%);
+    background-color: mix($white, $light-gray);
   }
 
   @include breakpoint($tablet-breakpoint) {

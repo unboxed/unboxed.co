@@ -24,7 +24,7 @@
   width: 100%;
 
   &:hover {
-    background-color: $light-gray;
+    background-color: mix($white, $light-gray);
   }
 }
 
