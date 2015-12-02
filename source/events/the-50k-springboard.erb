@@ -77,15 +77,15 @@ past_events:
 <% content_for(:title) { "Event - #{current_page.data.title}" } %>
 
 <div class="event">
-  <div class="event__container">
+  <header class="event__container">
     <h1 class="event__title">
       <%= current_page.data.title %>:
     </h1>
 
-    <h2 class="event__subtitle">
+    <p class="event__subtitle">
       <%= current_page.data.subtitle %>
-    </h2>
-  </div>
+    </p>
+  </header>
 
   <div class="event-info">
     <a class="event-location--tablet" href="https://www.google.com/maps/place/<%= current_page.data.location %>/" data-header-waypoint>
@@ -149,9 +149,9 @@ past_events:
         <%= current_page.data.content.introduction %>
       </p>
 
-      <h4 class="event-content__title">
+      <h2 class="event-content__title">
         <%= current_page.data.content.find_out_title %>:
-      </h4>
+      </h2>
 
       <ul class="event-content__list">
         <% current_page.data.content.find_out.each do |item| %>
@@ -161,9 +161,9 @@ past_events:
         <% end %>
       </ul>
 
-      <h4 class="event-content__title">
+      <h2 class="event-content__title">
         <%= current_page.data.content.responsible_for_title %>:
-      </h4>
+      </h2>
 
       <ul class="event-content__list">
         <% current_page.data.content.responsible_for.each do |item| %>
@@ -174,9 +174,9 @@ past_events:
       </ul>
     </div>
 
-    <h4 class="event-content__title event-speaker__title">
+    <h2 class="event-content__title event-speaker__title">
       Speakers
-    </h4>
+    </h2>
 
     <% current_page.data.speakers.each do |speaker| %>
       <div class="event-speaker">

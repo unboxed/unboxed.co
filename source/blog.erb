@@ -1,15 +1,18 @@
 ---
 title: "Blog"
+meta_description: "Discussion into web app development, design, UX, Agile and project management techniques from the Unboxed team."
 ---
 
+<% content_for(:meta_keywords) { "Unboxed, Blog, #{data.tags.join(', ')}" } %>
 <% add_atom_feed_to_head %>
-<div class="blog-header">
+
+<header class="blog-header">
   <div class="blog-header__container">
-    <div class="blog-header__title">
+    <h1 class="blog-header__title">
       Blog
-    </div>
+    </h1>
   </div>
-</div>
+</header>
 
 <div class="blog-grid-tags">
   <div class="blog-tags">

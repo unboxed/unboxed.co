@@ -11,8 +11,9 @@
   <% end %>
 </div>
 
+<%= javascript_include_tag "packery.min" %>
 <script>
-  var $packeryContainer = $('[data-packery-target]');
+  var packeryContainer = document.querySelector('[data-packery-target]');
   var packeryOptions = {
     transitionDuration: 0,
     percentPosition: true,
@@ -20,18 +21,19 @@
     columnWidth: '.blog-tile__grid-sizer'
   };
 
-  if (Modernizr.matchmedia) {
+  if (typeof window.matchMedia != "undefined" || typeof window.msMatchMedia != "undefined") {
     var mq = matchMedia('(min-width: 660px)');
+    var packery;
 
     if (mq.matches) {
-      $packeryContainer.packery(packeryOptions);
+      packery = new Packery(packeryContainer, packeryOptions);
     }
 
     mq.addListener(function(mql) {
       if (mql.matches) {
-        $packeryContainer.packery(packeryOptions);
+        packery = new Packery(packeryContainer, packeryOptions);
       } else {
-        $packeryContainer.packery('destroy');
+        packery.destroy();
       }
     });
   }
@@ -40,17 +42,18 @@
 <!--[if IE 9]>
   <script>
 
-    var packeryEnabled = false;
+    packery = new Packery(packeryContainer, packeryOptions);
+    var packeryEnabled = true;
 
-    $(window).resize(function() {
+    window.onresize = function() {
       if (window.innerWidth >= 660 && !packeryEnabled) {
-        $packeryContainer.packery(packeryOptions);
+        packery = new Packery(packeryContainer, packeryOptions);
         packeryEnabled = true;
       } else if (window.innerWidth < 660 && packeryEnabled) {
-        $packeryContainer.packery('destroy');
+        packery.destroy();
         packeryEnabled = false;
       }
-    });
+    };
 
   </script>
 <![endif]-->

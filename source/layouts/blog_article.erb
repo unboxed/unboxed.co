@@ -1,19 +1,23 @@
 <% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
 <% content_for(:title) { "Blog - #{current_page.data.title}" } %>
+<% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
+<% content_for(:meta_keywords) { "Unboxed, Blog, #{current_page.data.tags.join(', ')}" } %>
 <% add_atom_feed_to_head %>
 
 <% wrap_layout :application do %>
   <section class="blog-article">
     <div class="blog-article__container">
 
-      <div class="blog-header">
+      <header class="blog-header">
         <h1 class="blog-header__title">
           <a class="blog-header__breadcrumb" href="/blog">Blog</a> / <%= current_page.data.title %>
         </h1>
 
         <div class="blog-header__subtitle">
           <% if author %>
-            <a class="blog-header__author--linked" href="https://unboxedconsulting.com/people/<%= author.short_name %>"><%= author.name %></a>
+            <a class="blog-header__author--linked" href="https://unboxedconsulting.com/people/<%= author.short_name %>" rel="author">
+              <%= author.name %>
+            </a>
           <% else %>
             <div class="blog-header__author">
               <%= current_page.data.author %>
@@ -24,7 +28,7 @@
             <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
           </div>
         </div>
-      </div>
+      </header>
 
       <div class="blog-article-tags blog-tags">
         <div class="blog-tags__container">
@@ -114,23 +118,24 @@
   </div>
 
   <script>
-    var $iframes = $('.blog-content iframe');
+    var iframes = document.querySelectorAll('.blog-content iframe');
 
-    if ($iframes.length !== 0) {
+    if (iframes.length !== 0) {
       function resizeIframes() {
-        $iframes.each(function() {
+        for (var i = 0; i < iframes.length; i++) {
+          var iframe = iframes[i]
           // Get the iframe's intended aspect ratio via it's inline dimensions
-          var ratio = $(this).attr('height') / $(this).attr('width');
+          var ratio = iframe.getAttribute('height') / iframe.getAttribute('width');
           // Apply a CSS height that is in correct ratio to it's current width
-          $(this).css('height', $(this).width() * ratio);
-        });
+          iframe.style.height = iframe.offsetWidth * ratio + 'px';
+        };
       }
 
       var timer;
-      $(window).resize(function() {
+      window.onresize = function() {
         clearTimeout(timer);
         timer = setTimeout(resizeIframes, 100);
-      });
+      };
 
       resizeIframes();
     }
