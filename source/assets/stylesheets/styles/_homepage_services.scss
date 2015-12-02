@@ -1,5 +1,5 @@
 .homepage-services {
-  background-color: $homepage-services__background-color;
+  background-color: $white;
   padding: 30px 0 30px 20px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -10,7 +10,7 @@
 
 .homepage-services__title {
   @include responsive-title;
-  color: $homepage-services__title-color;
+  color: $purple;
   font-weight: 200;
   margin-bottom: 20px;
   padding-right: 20px;

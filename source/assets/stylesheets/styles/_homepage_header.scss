@@ -1,6 +1,6 @@
 .homepage-header {
   background-image: url(/assets/images/homepage/header--mobile.jpg);
-  background-color: $homepage-introduction__fallback-image-background-color;
+  background-color: darken($light-gray, 10%);
   background-position: 65% 40%;
   min-height: 400px;
   position: relative;
@@ -30,9 +30,9 @@
 
 .homepage-header__text {
   @include responsive-text;
-  background-color: $homepage-introduction__background-color;
+  background-color: transparentize(darken($purple, 5%), 0.1);
   bottom: 20px;
-  color: $homepage-introduction__text-color;
+  color: $white;
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e677277b', endColorstr='#e677277b',GradientType=1 );
   font-weight: 200;
   left: 20px;

@@ -1,5 +1,5 @@
 .homepage-contact {
-  background-color: $homepage-contact__background-color;
+  background-color: $white;
 
   @include breakpoint($tablet-breakpoint) {
     background-image: url(/assets/images/homepage/contact--tablet.jpg);
@@ -33,7 +33,7 @@
 
 .homepage-contact__title {
   @include responsive-title;
-  color: $homepage-contact__title-color;
+  color: $purple;
   font-weight: 200;
   line-height: 1.2;
   padding-bottom: 16px;

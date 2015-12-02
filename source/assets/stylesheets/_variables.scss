@@ -11,27 +11,6 @@ $medium-gray: #767676;
 $light-gray: #F7F7F7;
 $white: #FFFFFF;
 
-// Home page
-$homepage-introduction__fallback-image-background-color: darken($light-gray, 10%);
-$homepage-introduction__background-color: transparentize(darken($purple, 5%), 0.1);
-$homepage-introduction__text-color: $white;
-$homepage-services__background-color: $white;
-$homepage-services__title-color: $purple;
-$homepage-additional-services__background-color: $dark-gray;
-$homepage-additional-services__title-color: $white;
-$homepage-latest__title-color: $purple;
-$homepage-tile__background-color: $white;
-$homepage-tile__border-color: darken($light-gray, 5%);
-$homepage-tile__hover-color: darken($homepage-tile__background-color, 5%);
-$homepage-tile__text-color: $dark-gray;
-$homepage-contact__background-color: $white;
-$homepage-contact__border-color: darken($light-gray, 10%);
-$homepage-contact__send-button-primary-color: $white;
-$homepage-contact__send-button-alternate-color: $purple;
-$homepage-contact__title-color: $purple;
-$homepage-contact__text-color: $black;
-$homepage-contact__input-focus-color: darken($white, 1%);
-
 // Events
 $event__background-color: $white;
 $event__subtitle-color: $dark-gray;
