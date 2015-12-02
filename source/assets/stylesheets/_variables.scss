@@ -7,10 +7,6 @@ $desktop-breakpoint: 960px;
 $blue: #5993c6;
 $blue-strong: #55ACEE;
 $purple: #8A2D8E;
-$peach: #DD353C;
-$hotpink: #DF1753;
-$orange: #FDAD2B;
-$yellow: #FED336;
 
 $black: #000000;
 $dark-gray: #313131;
@@ -101,26 +97,6 @@ $related-tile__background-color: $white;
 $related-tile__border-color: $light-gray;
 $related-tile__text-color: $black;
 $related-tile__type-color: $purple;
-
-// Project story - SH:24
-$highlight__yellow-background-color: $yellow;
-$highlight__yellow-text-color: $black;
-
-// Project story - Contiki
-$highlight__dark-gray-background-color: lighten($black, 20%);
-$highlight__dark-gray-text-color: $white;
-
-// Project story - Plymouth University
-$highlight__blue-background-color: $blue;
-$highlight__blue-text-color: $white;
-
-// Project story - Plymouth University Gets Agile
-$highlight__hotpink-background-color: $hotpink;
-$highlight__hotpink-text-color: $white;
-
-// Project story - Naturejobs
-$highlight__peach-background-color: $peach;
-$highlight__peach-text-color: $white;
 
 // Blog listing
 $blog-header__background-color: $white;
