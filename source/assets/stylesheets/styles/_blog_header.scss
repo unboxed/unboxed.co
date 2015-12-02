@@ -9,7 +9,7 @@
 }
 
 .blog-header__title {
-  color: $blog-header__text-color;
+  color: $dark-gray;
   font-size: 1.95em;
   font-weight: 300;
   line-height: 1.2;
@@ -21,7 +21,7 @@
 
 .blog-header__breadcrumb {
   text-decoration: none;
-  color: $blog-header__link-color;
+  color: $purple;
 
   &:hover {
     text-decoration: underline;
@@ -40,7 +40,7 @@
 }
 
 .blog-header__author {
-  color: $blog-header__link-color;
+  color: $purple;
   display: inline;
   text-decoration: none;
 }
@@ -54,7 +54,7 @@
 }
 
 .blog-header__published-date {
-  color: $blog-header__text-color;
+  color: $dark-gray;
   display: inline;
 
   @include breakpoint($tablet-breakpoint) {

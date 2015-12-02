@@ -13,9 +13,9 @@
 
 .blog-small-tile__content {
   box-sizing: border-box;
-  background-color: $blog-tile__background-color;
+  background-color: $white;
   padding: 14px;
-  border: 1px solid $blog-tile__border-color;
+  border: 1px solid darken($light-gray, 5%);
   width: 100%;
 
   &:hover {
@@ -33,7 +33,7 @@
 
 .blog-small-tile__title {
   @include responsive-text;
-  color: $blog-tile__title-color;
+  color: $purple;
   font-weight: 300;
   line-height: 1.3em;
   margin-bottom: 20px;
@@ -44,7 +44,7 @@
 }
 
 .blog-small-tile__author {
-  color: $blog-tile__text-color;
+  color: $dark-gray;
   font-size: .8em;
   font-weight: 600;
   margin-bottom: 6px;
@@ -60,7 +60,7 @@
 }
 
 .blog-small-tile__date {
-  color: $blog-tile__text-color;
+  color: $dark-gray;
   font-size: .8em;
   text-transform: lowercase;
 
