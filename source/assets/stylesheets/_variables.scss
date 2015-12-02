@@ -11,32 +11,6 @@ $medium-gray: #767676;
 $light-gray: #F7F7F7;
 $white: #FFFFFF;
 
-// Project story
-$page-header__background-color: $white;
-$page-header__text-color: $dark-gray;
-$component__background-color: $white;
-$text-tile__title-color: $purple;
-$text-tile__text-color: $black;
-$quote__background-color: lighten($light-gray, 1.2%);
-$quote__text-color: lighten($black, 10%);
-$quote__source-color: $purple;
-$site-link-tile__background-color: $dark-gray;
-$site-link-tile__hover-color: lighten($site-link-tile__background-color, 5%);
-$site-link-tile__text-color: $white;
-$site-link-tile__type-color: $white;
-$link-tile__background-color: $white;
-$link-tile__hover-color: darken($link-tile__background-color, 5%);
-$link-tile__border-color: $light-gray;
-$link-tile__text-color: $black;
-$link-tile__type-color: $purple;
-$project-team__background-color: $white;
-$project-team__title-color: $purple;
-$project-team__text-color: $black;
-$related-tile__background-color: $white;
-$related-tile__border-color: $light-gray;
-$related-tile__text-color: $black;
-$related-tile__type-color: $purple;
-
 // Blog listing
 $blog-header__background-color: $white;
 $blog-header__text-color: $dark-gray;
