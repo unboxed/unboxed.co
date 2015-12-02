@@ -42,7 +42,7 @@
 .blog-medium-tile__title {
   @include responsive-text;
   color: $blog-tile__title-color;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3em;
   margin-bottom: 20px;
 
@@ -84,7 +84,7 @@
 .blog-medium-tile__article-body {
   color: $blog-tile__text-color;
   font-size: .95em;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3em;
   margin: 14px;
   padding-top: 8px;

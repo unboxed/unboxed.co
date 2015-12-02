@@ -11,7 +11,7 @@
 .quote__text {
   @include responsive-text;
   color: $quote__text-color;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3;
   position: relative;
   quotes: "“" "”";
@@ -36,7 +36,7 @@
 
 .quote__source {
   color: $quote__source-color;
-  font-weight: 200;
+  font-weight: 300;
   padding-top: 20px;
 
   @include breakpoint($tablet-breakpoint) {
