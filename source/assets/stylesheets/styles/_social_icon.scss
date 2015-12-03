@@ -1,0 +1,21 @@
+%social-icon__icon-container--base {
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.social-icon__icon-container--twitter {
+  @extend %social-icon__icon-container--base;
+  background-color: #55ACEE;
+}
+
+.social-icon__icon-container--linkedin {
+  @extend %social-icon__icon-container--base;
+  background-color: #007AB6;
+}
+
+.social-icon__icon {
+  height: 16px;
+  padding: 6px 6px 4px;
+  width: 16px;
+}
