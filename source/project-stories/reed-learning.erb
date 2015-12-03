@@ -1,0 +1,155 @@
+---
+title: "Project Story - Reed Learning"
+
+header:
+  client: "Reed Learning"
+  introduction: "Leading provider of corporate learning, Reed Learning, bursts into the digital space"
+  image: "http://placehold.it/480x240"
+  image_description: "Reed Learning team meeting"
+
+introduction:
+  title: "Unboxed helps Reed Learning kickstart a programme of innovation to reinvent the way they deliver training to one of their crucial markets: Corporates"
+  content:
+    - "Introduced lean and agile product development techniques to internal team"
+    - "Large new customers engaged with exciting innovation programme"
+    - "Digital service developed internally and in the hands of customers within weeks"
+    - "New model for face-to-face training designed and delivered with excellent feedback"
+  image: "http://placehold.it/200x200"
+  image_description: ""
+
+statistics_1:
+  title: "Reed Learning in numbers"
+  number: "3"
+  text: "key customers trialling first digital service"
+
+statistics_2:
+  number: "x/10"
+  text: "customers unprompted report improved learning through new products"
+
+innovating_product:
+  title: "Learning the new way to innovate product"
+  content: "For over 20 years, Reed Learning has successfully delivered professional training services to individual and corporate clients. But facing fundamental changes to how people learn, they recognised they needed to transform the way those services are designed and delivered. With a new management team, a lot of things competing for attention and a single investor eager for a vision - Unboxed accelerated its formation and tested the assumptions"
+  image: "http://placehold.it/200x200"
+  image_description: ""
+
+cultural_change_quote:
+  quote: "Having worked with Unboxed before, I knew how quickly and effectively they could deliver digital products and services. But what I needed from them here was as much a cultural change. The impact on my product team and the wider organisation has been transformational."
+  source: "Melissa Sabella, Head of Product and Innovation, Reed Learning"
+
+understanding_customer:
+  title: "Understanding what features customers will immediately start using"
+  content: "Through in-depth customer interviews, the team were able to gather genuine insight into what they needed and what they saw as challenges and opportunities. By working side-by-side with those same customers to develop and test interactive prototypes, we began to understand what specific new products and services they would immediately pay for and start using and also redefine the future relationship with Reed Learning"
+  image: "http://placehold.it/200x200"
+  image_description: ""
+
+getting_confidence_quote:
+  quote: "The pace of change in our industry can at times seem overwhelming and having Unboxed as part of the team gave us the confidence that we can make specific and impactful changes to incrementally improve our own processes and products"
+  source: "Ben Waldman, Product Manager, Reed Learning"
+
+new_customers:
+  title: "Developing new customers in a matter of weeks"
+  content: "Within a few weeks of working together, we were able to build a working digital service that addressed a specific, validated need and was immediately adopted by several active customers. With no dependency on third party vendors, the new service can be rapidly developed as more learning and insight is gathered through actual use. This is an exciting change in how value is created at Reed Learning"
+  image: "http://placehold.it/200x200"
+  image_description: ""
+
+team_learning_quote:
+  quote: "Reed Learning has a team of people who are tremendously passionate about learning. Helping them realise ideas that might otherwise never have seen the light of day gave us great satisfaction."
+  source: "Martyn Evans, Head of Product, Unboxed"
+
+innovation_strategy:
+  title: "Putting innovation to use"
+  content: "The insight gathered and an understanding of how new services could be delivered at pace had a huge impact on the Reed Learning’s newly formed innovation strategy. The reinvention of their product range is now well underway and already customers are reporting the effectiveness of face-to-face learning blended with supporting digital services"
+  image: "http://placehold.it/200x200"
+  image_description: ""
+
+team:
+  title:
+  people:
+    - full_name: "Martyn Evans"
+      image: "/project-stories/reed-learning/team/martyn.png"
+      link: "/people/martyn-evans"
+
+    - full_name: "Leon Odey Knight"
+      image: "/project-stories/reed-learning/team/leon.png"
+      link: "/people/leon-odey-knight"
+
+    - full_name: "Henry Turner"
+      image: "/project-stories/reed-learning/team/henry.png"
+      link: "/people/henry-turner"
+
+    - full_name: "Tyler Savin"
+      image: "/project-stories/reed-learning/team/tyler.png"
+      link: "/people/tyler-savin"
+
+    - full_name: "Neil van Beinum"
+      image: "/project-stories/reed-learning/team/neil.png"
+      link: "/people/neil-van-beinum"
+
+site:
+  link: ""
+  text: "Visit the site and check it out for yourself"
+
+links:
+  - title: "Lorem ipsum"
+    source: "Lorem ipsum"
+    type: "news"
+    link: ""
+
+  - title: "Lorem ipsum"
+    source: "Lorem ipsum"
+    type: "news"
+    link: ""
+
+related:
+  title: "Related"
+  articles:
+    - title: "Lorem ipsum"
+      type: "news"
+      link: ""
+
+    - title: "Lorem ipsum"
+      type: "blog"
+      link: ""
+
+    - title: "Lorem ipsum"
+      type: "project story"
+      link: ""
+
+
+---
+
+<%= partial 'project-stories/page_header' %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
+
+  <section class="highlight--reed-learning">
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %><p>
+      <p class="highlight__small-text"><%=current_page.data.statistics_1.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %><p>
+      <p class="highlight__small-text"><%=current_page.data.statistics_2.text %></p>
+    </div>
+  </section>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.innovating_product } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.cultural_change_quote } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.understanding_customer } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.getting_confidence_quote } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.new_customers } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.team_learning_quote } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.innovation_strategy } %>
+
+  <%= partial 'project-stories/link_tiles' %>
+
+  <%= partial 'project-stories/related_tiles' %>
+</div>
+
