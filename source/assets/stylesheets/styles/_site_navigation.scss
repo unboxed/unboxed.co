@@ -64,7 +64,7 @@
   @include breakpoint($tablet-breakpoint) {
     display: block;
     height: inherit;
-    overflow: auto;
+    overflow: visible;
     -webkit-overflow-scrolling: auto;
   }
 }
