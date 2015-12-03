@@ -1,5 +1,5 @@
 .site-header {
-  background-color: $site-header__background-color;
+  background-color: $white;
   position: fixed;
   width: 100%;
   z-index: 4;
@@ -7,7 +7,7 @@
 }
 
 .site-header--active-scroll:before {
-  border-bottom: 2px solid $site-header__underline-color;
+  border-bottom: 2px solid darken($light-gray, 10%);
   bottom: 0;
   content: "";
   display: block;

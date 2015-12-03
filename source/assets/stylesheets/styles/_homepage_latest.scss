@@ -9,8 +9,8 @@
 
 .homepage-latest__title {
   @include responsive-title;
-  color: $homepage-latest__title-color;
-  font-weight: 200;
+  color: $purple;
+  font-weight: 300;
   padding: 0 20px 0 14px;
   margin-bottom: 20px;
   text-transform: lowercase;

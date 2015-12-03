@@ -13,15 +13,15 @@
 
 .blog-large-tile__container {
   box-sizing: border-box;
-  background-color: $blog-tile__background-color;
-  border: 1px solid $blog-tile__border-color;
+  background-color: $white;
+  border: 1px solid darken($light-gray, 5%);
   width: 100%;
 
   &:hover {
-    background-color: $blog-tile__hover-color;
+    background-color: mix($white, $light-gray);
 
     .blog-large-tile__article-image-container:before {
-      border-color: transparent transparent transparent $blog-tile__hover-color;
+      border-color: transparent transparent transparent mix($white, $light-gray);
     }
   }
 
@@ -44,8 +44,8 @@
 
 .blog-large-tile__title {
   @include responsive-text;
-  color: $blog-tile__title-color;
-  font-weight: 200;
+  color: $purple;
+  font-weight: 300;
   line-height: 1.3em;
   margin-bottom: 20px;
 
@@ -55,7 +55,7 @@
 }
 
 .blog-large-tile__author {
-  color: $blog-tile__text-color;
+  color: $dark-gray;
   font-size: .8em;
   font-weight: 600;
   margin-bottom: 6px;
@@ -71,7 +71,7 @@
 }
 
 .blog-large-tile__date {
-  color: $blog-tile__text-color;
+  color: $dark-gray;
   font-size: .8em;
   text-transform: lowercase;
 
@@ -85,9 +85,9 @@
 }
 
 .blog-large-tile__article-body {
-  color: $blog-tile__text-color;
+  color: $dark-gray;
   font-size: .95em;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3em;
   padding: 14px;
   word-wrap: break-word;

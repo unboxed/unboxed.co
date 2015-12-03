@@ -1,5 +1,5 @@
 .page-header {
-  background-color: $page-header__background-color;
+  background-color: $white;
 }
 
 .page-header__container {
@@ -14,9 +14,9 @@
 }
 
 .page-header__title {
-  color: $page-header__text-color;
+  color: $dark-gray;
   font-size: 1.95em;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.2;
   padding-bottom: 8px;
   padding-top: 30px;
@@ -32,7 +32,7 @@
 }
 
 .page-header__client {
-  color: $page-header__text-color;
+  color: $dark-gray;
   font-size: 1.2em;
   font-weight: 600;
   line-height: 1.2;

@@ -45,7 +45,7 @@
 
 .highlight__title {
   @include responsive-title;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3;
   padding: 8px 0 16px;
 
@@ -127,7 +127,7 @@
 }
 
 .highlight__list-item {
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3;
   padding-bottom: 16px;
 
@@ -147,7 +147,7 @@
 .highlight__small-list-item {
   display: block;
   font-size: 0.7em;
-  font-weight: 200;
+  font-weight: 300;
   letter-spacing: 0.07em;
   padding-top: 12px;
 }
@@ -176,7 +176,7 @@
 }
 
 .highlight__small-text {
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3;
   padding-bottom: 20px;
   text-align: center;
@@ -195,7 +195,7 @@
 }
 
 .highlight__wide-text {
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3;
   padding-bottom: 20px;
   text-align: center;

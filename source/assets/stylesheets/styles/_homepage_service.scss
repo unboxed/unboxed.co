@@ -5,7 +5,7 @@
 }
 
 .homepage-service--white {
-  color: $homepage-additional-services__title-color;
+  color: $white;
 }
 
 .homepage-service__title {
@@ -17,7 +17,7 @@
 
   @include breakpoint($desktop-breakpoint) {
     font-size: 1.3em;
-    font-weight: 200;
+    font-weight: 300;
   }
 }
 
@@ -31,7 +31,7 @@
 }
 
 .homepage-service__paragraph {
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.6em;
 
   @include breakpoint($desktop-breakpoint) {

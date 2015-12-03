@@ -1,6 +1,6 @@
 .related-tile {
-  background-color: $related-tile__background-color;
-  border-bottom: 1px solid $related-tile__border-color;
+  background-color: $white;
+  border-bottom: 1px solid $light-gray;
   box-sizing: border-box;
   display: block;
   min-height: 130px;
@@ -9,12 +9,12 @@
   width: 100%;
 
   &:hover {
-    background-color: darken($related-tile__background-color, 6%);
+    background-color: mix($white, $light-gray);
   }
 
   @include breakpoint($tablet-breakpoint) {
     border-bottom: none;
-    border-right: 1px solid $related-tile__border-color;
+    border-right: 1px solid $light-gray;
     float: left;
     min-height: 160px;
     width: 33.33%;
@@ -26,9 +26,9 @@
 }
 
 .related-tile__type {
-  color: $related-tile__type-color;
+  color: $purple;
   font-size: .8em;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.3;
   text-transform: uppercase;
   padding-bottom: 4px;
@@ -39,7 +39,7 @@
 }
 
 .related-tile__title {
-  color: $related-tile__text-color;
-  font-weight: 200;
+  color: $black;
+  font-weight: 300;
   line-height: 1.3;
 }

@@ -13,7 +13,7 @@
 
 .homepage-blog-tile__image {
   background-color: $white;
-  border: 1px solid $homepage-tile__border-color;
+  border: 1px solid darken($light-gray, 5%);
   box-sizing: border-box;
   display: block;
   width: 100%;
@@ -25,8 +25,8 @@
 
 .homepage-blog-tile__title {
   @include responsive-text;
-  color: $homepage-tile__text-color;
-  font-weight: 200;
+  color: $dark-gray;
+  font-weight: 300;
   line-height: 1.3em;
   margin-bottom: 20px;
 

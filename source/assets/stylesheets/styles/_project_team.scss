@@ -1,5 +1,5 @@
 .project-team {
-  background-color: $project-team__background-color;
+  background-color: $white;
   overflow: auto;
   padding: 20px 20px 0;
 
@@ -10,8 +10,8 @@
 
 .project-team__title {
   @include responsive-title;
-  color: $project-team__title-color;
-  font-weight: 200;
+  color: $purple;
+  font-weight: 300;
   line-height: 1.2;
   padding-bottom: 16px;
 

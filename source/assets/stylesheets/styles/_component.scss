@@ -1,6 +1,6 @@
 .component {
-  background-color: $component__background-color;
   @include clearfix;
+  background-color: $white;
 }
 
 .component__tile {

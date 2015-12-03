@@ -1,10 +1,10 @@
-.footer-newsletter__introduction {
-  font-weight: 200;
+.site-footer-newsletter__introduction {
+  font-weight: 300;
   padding-bottom: 8px;
   padding-top: 14px;
 }
 
-.footer-newsletter__email {
+.site-footer-newsletter__email {
   -webkit-appearance: none;
   appearance: none;
   border-radius: 0;
@@ -12,7 +12,7 @@
   box-sizing: border-box;
   font-family: inherit;
   font-size: 1em;
-  font-weight: 200;
+  font-weight: 300;
   height: 40px;
   line-height: 1.3;
   margin-bottom: 8px;
@@ -33,7 +33,7 @@
   }
 }
 
-.footer-newsletter__button {
+.site-footer-newsletter__button {
   -webkit-appearance: none;
   appearance: none;
   background-color: $dark-gray;
@@ -43,7 +43,7 @@
   cursor: pointer;
   font-family: inherit;
   font-size: 1em;
-  font-weight: 200;
+  font-weight: 300;
   height: 40px;
   line-height: 1.3;
   width: 100%;

@@ -25,7 +25,7 @@
     position: absolute;
     right: 8px;
     top: 0;
-    color: lighten($site-navigation__link-color, 40%);
+    color: darken($light-gray, 10%);
     content: '›';
     font-size: 27px;
     z-index: 2;
@@ -94,7 +94,7 @@
   @include flex-shrink(0);
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   border-bottom: 3px solid transparent;
-  color: $site-navigation__link-color;
+  color: $medium-gray;
   display: inline-block;
   font-size: 0.9em;
   height: 14px;
@@ -120,12 +120,12 @@
 }
 
 html:not(.ios-device) .site-navigation__link:hover {
-  color: $site-navigation__link-color--active;
-  border-bottom: 3px solid $site-navigation__underline-color--active;
+  color: $purple;
+  border-bottom: 3px solid $purple;
 }
 
 .site-navigation__link--active {
   @extend .site-navigation__link;
-  color: $site-navigation__link-color--active;
-  border-bottom: 3px solid $site-navigation__underline-color--active;
+  color: $purple;
+  border-bottom: 3px solid $purple;
 }
