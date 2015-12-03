@@ -44,7 +44,6 @@
   box-sizing: border-box;
   overflow: hidden;
   padding: 14px 0 12px;
-  border-bottom: 1px solid darken($light-gray, 5%);
 }
 
 .person-tile__name {
@@ -78,4 +77,5 @@
 
 .person-tile__social-networks {
   padding-top: 14px;
+  border-top: 1px solid darken($light-gray, 5%);
 }
