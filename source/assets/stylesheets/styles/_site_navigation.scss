@@ -66,6 +66,11 @@
     height: inherit;
     overflow: visible;
     -webkit-overflow-scrolling: auto;
+
+    &:after {
+      content: none;
+      display: none;
+    }
   }
 }
 
