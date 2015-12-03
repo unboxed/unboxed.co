@@ -21,4 +21,61 @@
   &:hover {
     background-color: mix($white, $light-gray);
   }
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 386px;
+  }
+}
+
+.person-tile__image-container {
+  border-bottom: 1px solid darken($light-gray, 5%);
+  height: 215px;
+  overflow: hidden;
+  text-align: center;
+  width: 100%;
+}
+
+.person-tile__image {
+  height: 300px;
+}
+
+.person-tile__details {
+  height: 98px;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: 14px 0 12px;
+  border-bottom: 1px solid darken($light-gray, 5%);
+}
+
+.person-tile__name {
+  color: $purple;
+  font-size: 1.2em;
+  font-weight: 300;
+  text-transform: lowercase;
+}
+
+.person-tile__role {
+  color: $medium-gray;
+  font-size: 0.9em;
+  font-weight: 600;
+  margin-top: 8px;
+  text-transform: lowercase;
+}
+
+.person-tile__email {
+  color: $medium-gray;
+  display: inline-block;
+  font-size: 0.9em;
+  font-weight: 300;
+  line-height: 1.3;
+  margin-top: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.person-tile__social-networks {
+  padding-top: 14px;
 }
