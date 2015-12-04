@@ -1,0 +1,40 @@
+.homepage-service {
+  @include breakpoint($tablet-breakpoint) {
+    width: 100%;
+  }
+}
+
+.homepage-service--white {
+  color: $white;
+}
+
+.homepage-service__title {
+  margin-bottom: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 30px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.3em;
+    font-weight: 300;
+  }
+}
+
+.homepage-service__image {
+  width: 100%;
+  margin-bottom: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 20px;
+  }
+}
+
+.homepage-service__paragraph {
+  font-weight: 300;
+  line-height: 1.6em;
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.1em;
+  }
+}

@@ -1,10 +1,10 @@
 .blog-article {
   @extend %page-content-margins;
-  background-color: $blog-article__background-color;
+  background-color: $white;
 }
 
 .blog-article__container {
-  @extend %container;
+  @extend .container;
   box-sizing: border-box;
   padding: 0 20px 30px;
 }

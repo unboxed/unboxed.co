@@ -1,19 +1,23 @@
 <% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
 <% content_for(:title) { "Blog - #{current_page.data.title}" } %>
+<% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
+<% content_for(:meta_keywords) { "Unboxed, Blog, #{current_page.data.tags.join(', ')}" } %>
 <% add_atom_feed_to_head %>
 
 <% wrap_layout :application do %>
   <section class="blog-article">
     <div class="blog-article__container">
 
-      <div class="blog-header">
+      <header class="blog-header">
         <h1 class="blog-header__title">
           <a class="blog-header__breadcrumb" href="/blog">Blog</a> / <%= current_page.data.title %>
         </h1>
 
         <div class="blog-header__subtitle">
           <% if author %>
-            <a class="blog-header__author--linked" href="https://unboxedconsulting.com/people/<%= author.short_name %>"><%= author.name %></a>
+            <a class="blog-header__author--linked" href="https://unboxedconsulting.com/people/<%= author.short_name %>" rel="author">
+              <%= author.name %>
+            </a>
           <% else %>
             <div class="blog-header__author">
               <%= current_page.data.author %>
@@ -24,7 +28,7 @@
             <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
           </div>
         </div>
-      </div>
+      </header>
 
       <div class="blog-article-tags blog-tags">
         <div class="blog-tags__container">
@@ -40,20 +44,14 @@
       </article>
 
       <div class="blog-social-icons">
-        <a class="social-icons__icon-container" href="https://twitter.com/intent/tweet?text=<%= current_article.title %>&url=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
-          </div>
+        <a class="blog-social-icons__icon-container" href="https://twitter.com/intent/tweet?text=<%= current_article.title %>&url=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
+          <%= image_tag 'social-icon__twitter.png', class: 'blog-social-icons__icon', alt: 'Twitter' %>
         </a>
-        <a class="social-icons__icon-container" href="https://www.facebook.com/sharer/sharer.php?u=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
-          </div>
+        <a class="blog-social-icons__icon-container" href="https://www.facebook.com/sharer/sharer.php?u=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
+          <%= image_tag 'social-icon__facebook.png', class: 'blog-social-icons__icon', alt: 'Facebook' %>
         </a>
-        <a class="social-icons__icon-container" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//unboxed.co<%= current_article.url %>&title=<%= current_article.title %>" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
-          </div>
+        <a class="blog-social-icons__icon-container" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//unboxed.co<%= current_article.url %>&title=<%= current_article.title %>" target="_blank">
+          <%= image_tag 'social-icon__linkedin.png', class: 'blog-social-icons__icon', alt: 'LinkedIn' %>
         </a>
       </div>
     </div>
@@ -86,51 +84,52 @@
       <%= partial 'layouts/disqus', locals: { article_slug: current_page.slug } %>
 
       <% if current_article.similar_articles.any? %>
-        <section class="blog-related">
-        <p class="blog-related__header">Related</p>
-          <% current_article.similar_articles.first(3).each do |article| %>
-            <a class="blog-related__tile" href="<%= article.url %>">
-              <% if article.data.tags %>
-                <div class="blog-related__tag">
-                  <% article.data.tags.each do |tag| %>
-                    <div class="blog-related__tag-link"><span><%= tag %></span></div>
-                  <% end %>
-                </div>
-              <% end %>
-              <div class="blog-related__date" id="articlePublishedDate" data-date="<%= article.date %>">
-                <span>
-                  <%= Time.parse(article.date.to_s).strftime("%B %e, %Y") %>
-                </span>
+        <div class="page-footer-introduction">
+          <h3 class="page-footer-introduction__title">
+            Related
+          </h3>
+        </div>
+
+        <% current_article.similar_articles.first(3).each do |article| %>
+          <a class="blog-related-tile" href="<%= article.url %>">
+            <div class="blog-related-tile__title">
+              <%= truncate(article.title, length: 70) %>
+            </div>
+
+            <div>
+              <div class="blog-related-tile__author">
+                <%= article.data.author %>
               </div>
 
-              <div class="blog-related__title">
-                <%= article.title %>
+              <div class="blog-related-tile__date">
+                <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
               </div>
-            </a>
-          <% end %>
-        </section>
+            </div>
+          </a>
+        <% end %>
       <% end %>
     </div>
   </div>
 
   <script>
-    var $iframes = $('.blog-content iframe');
+    var iframes = document.querySelectorAll('.blog-content iframe');
 
-    if ($iframes.length !== 0) {
+    if (iframes.length !== 0) {
       function resizeIframes() {
-        $iframes.each(function() {
+        for (var i = 0; i < iframes.length; i++) {
+          var iframe = iframes[i]
           // Get the iframe's intended aspect ratio via it's inline dimensions
-          var ratio = $(this).attr('height') / $(this).attr('width');
+          var ratio = iframe.getAttribute('height') / iframe.getAttribute('width');
           // Apply a CSS height that is in correct ratio to it's current width
-          $(this).css('height', $(this).width() * ratio);
-        });
+          iframe.style.height = iframe.offsetWidth * ratio + 'px';
+        };
       }
 
       var timer;
-      $(window).resize(function() {
+      window.onresize = function() {
         clearTimeout(timer);
         timer = setTimeout(resizeIframes, 100);
-      });
+      };
 
       resizeIframes();
     }

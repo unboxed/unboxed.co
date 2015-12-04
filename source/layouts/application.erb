@@ -3,18 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
     <title>
-      <% if content_for?(:title)
-        title = yield_content(:title)
-      elsif current_page.data.title
-        title = current_page.data.title
-      end %>
+      <% title = page_data(:title) %>
       <%= title ? "Unboxed - #{title}" : "Unboxed" %>
     </title>
+    <meta name="description" content="<%= page_data(:meta_description) %>">
+    <meta name="keywords" content="<%= page_data(:meta_keywords) %>">
     <%= favicon_tag "favicon.ico" %>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
     <%= stylesheet_link_tag "application" %>
-    <%= javascript_include_tag "application" %>
     <%= stylesheet_link_tag "ie10_fixes" %>
     <!--[if IE 9]>
       <%= stylesheet_link_tag "ie9_fixes" %>
@@ -27,33 +25,49 @@
       <%= yield_content(:head) %>
     <% end %>
     <script>
+      function deferredScript(path) {
+        function addScript(path) {
+          var element = document.createElement('script');
+          element.src = path;
+          document.body.appendChild(element);
+        }
+
+        if (window.addEventListener) {
+          window.addEventListener('load', addScript(path), false);
+        } else if (window.attachEvent) {
+          window.attachEvent('onload', addScript(path));
+        } else {
+          window.onload = addScript(path);
+        }
+      }
+
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-1228281-4', 'unboxed.co');
       ga('send', 'pageview');
     </script>
-    <script async src='//www.google-analytics.com/analytics.js'></script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
   </head>
 
   <body>
     <header class="site-header<%= '--blog' if is_matching_link?('/blog', current_page.url) %>" data-site-header>
       <div class="site-header__container">
         <div class="site-brand">
-          <a class="site-brand__link" href="https://www.unboxedconsulting.com/">
+          <a class="site-brand__link" href="/">
             Unboxed
           </a>
         </div>
 
-        <div class="site-navigation">
+        <nav class="site-navigation">
           <div class="site-navigation__container">
-            <%= site_nav_link('Home', '/') %>
+            <%= site_nav_link('Home', '/', class: 'site-navigation__link--home') %>
             <%= site_nav_link('News', '/news') %>
             <%= site_nav_link('Project stories', '/project-stories') %>
             <%= site_nav_link('People', '/people') %>
             <%= site_nav_link('Blog', '/blog') %>
             <%= site_nav_link('Join Us', '/jobs') %>
-            <%= site_nav_link('Contact', '/contact') %>
+            <%= site_nav_link('Contact', '/contact', class: 'site-navigation__link--contact') %>
           </div>
-        </div>
+        </nav>
       </div>
     </header>
 
@@ -61,47 +75,14 @@
       <%= yield %>
     </div>
 
-    <div class="footer-social-icons">
-      <div class="footer-social-icons__container">
-        <a class="social-icons__icon-container" href="http://twitter.com/Ubxd" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'twitter.png', class: 'social-icons__image', alt: 'Twitter' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="https://www.facebook.com/pages/Unboxed-Consulting/114802528557320" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'facebook.png', class: 'social-icons__image', alt: 'Facebook' %>
-          </div>
-        </a>
-        <a class="social-icons__icon-container" href="http://www.linkedin.com/company/unboxed-consulting" target="_blank">
-          <div class="social-icons__icon">
-            <%= image_tag 'linkedin.png', class: 'social-icons__image', alt: 'LinkedIn' %>
-          </div>
-        </a>
-      </div>
-    </div>
+    <%= partial 'site_footer' %>
 
-    <script>
-      var $waypointElement = $('[data-header-waypoint]');
+    <!--[if lte IE 9]>
+      <%= javascript_include_tag "placeholders.min" %>
+    <![endif]-->
 
-      if ($waypointElement.length !== 0) {
-        new Waypoint({
-          element: $('[data-header-waypoint]'),
-          handler: function(direction) {
-            var siteHeader = $('.site-header');
-            if (direction === 'down') {
-              siteHeader.addClass('site-header--active-scroll');
-            } else {
-              siteHeader.removeClass('site-header--active-scroll');
-            }
-          },
-          offset: $('[data-site-header]').height()
-        });
-      }
-
-      if (/iPad|iPhone|iPod/.test(navigator.userAgent)) {
-        document.documentElement.className += " ios-device";
-      }
+    <script type="text/javascript">
+      deferredScript("/assets/javascripts/application.js")
     </script>
   </body>
 </html>

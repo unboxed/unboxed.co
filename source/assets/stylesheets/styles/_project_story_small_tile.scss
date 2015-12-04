@@ -1,0 +1,68 @@
+.project-story-small-tile {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    width: 33.33%;
+  }
+}
+
+.project-story-small-tile__container {
+  background-color: $white;
+  box-sizing: border-box;
+  border: 1px solid darken($light-gray, 5%);
+  padding: 6px;
+  width: 100%;
+
+  &:hover {
+    background-color: mix($white, $light-gray);
+  }
+}
+
+.project-story-small-tile__image {
+  display: block;
+  width: 100%;
+}
+
+.project-story-small-tile__content {
+  box-sizing: border-box;
+  padding: 12px 6px 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 12px 6px 0;
+    min-height: 116px;
+  }
+}
+
+.project-story-small-tile__client {
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    color: $dark-gray;
+    display: block;
+    line-height: 1.3;
+    margin-bottom: 6px;
+  }
+}
+
+.project-story-small-tile__title {
+  color: $medium-gray;
+  font-weight: 300;
+  line-height: 1.3;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: .9em;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    line-height: 1.6;
+  }
+}

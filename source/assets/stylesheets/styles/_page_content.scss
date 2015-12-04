@@ -1,8 +1,10 @@
 %page-content-margins {
   margin-top: 85px;
+  padding-bottom: 30px;
 
   @include breakpoint($tablet-breakpoint) {
     margin-top: 54px;
+    padding-bottom: 50px;
   }
 
   @include breakpoint($desktop-breakpoint) {
@@ -12,5 +14,5 @@
 
 .page-content {
   @extend %page-content-margins;
-  background-color: $page-content__background-color;
+  background-color: $light-gray;
 }

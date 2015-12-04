@@ -1,0 +1,51 @@
+.homepage-tile {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    width: 33.33%;
+  }
+}
+
+.homepage-tile__image {
+  display: block;
+  width: 100%;
+}
+
+.homepage-tile__content {
+  box-sizing: border-box;
+  background-color: $white;
+  padding: 8px;
+  border: 1px solid darken($light-gray, 5%);
+  width: 100%;
+
+  &:hover {
+    background-color: mix($white, $light-gray);
+  }
+}
+
+.homepage-tile__title {
+  @include responsive-text;
+  color: $dark-gray;
+  padding: 14px 6px;
+}
+
+.homepage-tile__paragraph {
+  color: $dark-gray;
+  padding: 0 6px 6px;
+  font-weight: 300;
+  line-height: 1.2em;
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 11.5vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.1em;
+    min-height: 106px;
+  }
+}

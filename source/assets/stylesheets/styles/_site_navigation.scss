@@ -25,7 +25,7 @@
     position: absolute;
     right: 8px;
     top: 0;
-    color: lighten($site-navigation__link-color, 40%);
+    color: darken($light-gray, 10%);
     content: '›';
     font-size: 27px;
     z-index: 2;
@@ -47,6 +47,7 @@
 }
 
 .site-navigation__container {
+  @include flexbox;
   height: 54px;
   overflow-x: scroll;
   overflow-y: hidden;
@@ -55,30 +56,56 @@
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 
+  &:after {
+    content: "";
+    padding-right: 25px;
+  }
+
   @include breakpoint($tablet-breakpoint) {
+    display: block;
     height: inherit;
-    overflow: auto;
+    overflow: visible;
     -webkit-overflow-scrolling: auto;
+
+    &:after {
+      content: none;
+      display: none;
+    }
+  }
+}
+
+.site-navigation__link--home {
+  @include order(-2);
+
+  @include breakpoint($tablet-breakpoint) {
+    @include order(0);
+  }
+}
+
+.site-navigation__link--contact {
+  @include order(-1);
+
+  @include breakpoint($tablet-breakpoint) {
+    @include order(0);
   }
 }
 
 .site-navigation__link {
+  @include flex-shrink(0);
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
   border-bottom: 3px solid transparent;
-  color: $site-navigation__link-color;
+  color: $medium-gray;
   display: inline-block;
   font-size: 0.9em;
+  height: 14px;
   padding: 10px;
   position: relative;
   text-decoration: none;
   text-transform: lowercase;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
-
-  &:last-of-type {
-    margin-right: 25px;
-  }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 0.8em;
+    height: auto;
     padding: 14px 12px;
 
     &:last-of-type {
@@ -93,12 +120,12 @@
 }
 
 html:not(.ios-device) .site-navigation__link:hover {
-  color: $site-navigation__link-color--active;
-  border-bottom: 3px solid $site-navigation__underline-color--active;
+  color: $purple;
+  border-bottom: 3px solid $purple;
 }
 
 .site-navigation__link--active {
   @extend .site-navigation__link;
-  color: $site-navigation__link-color--active;
-  border-bottom: 3px solid $site-navigation__underline-color--active;
+  color: $purple;
+  border-bottom: 3px solid $purple;
 }

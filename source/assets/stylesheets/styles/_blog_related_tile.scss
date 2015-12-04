@@ -1,0 +1,70 @@
+.blog-related-tile {
+  background-color: $white;
+  border-bottom: 1px solid $light-gray;
+  box-sizing: border-box;
+  display: block;
+  padding: 16px;
+  text-decoration: none;
+  width: 100%;
+
+  &:hover {
+    background-color: mix($white, $light-gray);
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+    @include flex-direction(column);
+    @include justify-content(space-between);
+    border-bottom: none;
+    border-right: 1px solid $light-gray;
+    float: left;
+    min-height: 190px;
+    width: 33.33%;
+
+    &:last-of-type {
+      border-right: 0;
+    }
+  }
+}
+
+.blog-related-tile__title {
+  @include responsive-text;
+  color: $purple;
+  font-weight: 300;
+  line-height: 1.3em;
+  margin-bottom: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 6px;
+  }
+}
+
+.blog-related-tile__author {
+  color: $dark-gray;
+  font-size: .8em;
+  font-weight: 600;
+  margin-bottom: 6px;
+  text-transform: lowercase;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.335vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: .8em;
+  }
+}
+
+.blog-related-tile__date {
+  color: $dark-gray;
+  font-size: .8em;
+  text-transform: lowercase;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.335vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: .8em;
+  }
+}

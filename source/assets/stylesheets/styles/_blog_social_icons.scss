@@ -2,3 +2,17 @@
   padding-top: 10px;
   text-align: right;
 }
+
+.blog-social-icons__icon-container {
+  display: inline-block;
+  background-color: $medium-gray;
+  border-radius: 50%;
+  margin-left: 8px;
+  text-decoration: none;
+}
+
+.blog-social-icons__icon {
+  height: 16px;
+  padding: 6px 6px 4px;
+  width: 16px;
+}

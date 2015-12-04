@@ -1,9 +1,9 @@
 .page-header {
-  background-color: $page-header__background-color;
+  background-color: $white;
 }
 
 .page-header__container {
-  @extend %container;
+  @extend .container;
   box-sizing: border-box;
   padding: 0 20px 20px;
 
@@ -14,20 +14,12 @@
 }
 
 .page-header__title {
-  color: $page-header__text-color;
+  color: $dark-gray;
   font-size: 1.95em;
-  font-weight: 200;
+  font-weight: 300;
   line-height: 1.2;
   padding-bottom: 8px;
   padding-top: 30px;
-
-  @include breakpoint($mobile-font-breakpoint) {
-    font-size: 7.8vw;
-  }
-
-  @include breakpoint($max-mobile-container) {
-    font-size: 2.34em;
-  }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 4vw;
@@ -40,7 +32,7 @@
 }
 
 .page-header__client {
-  color: $page-header__text-color;
+  color: $dark-gray;
   font-size: 1.2em;
   font-weight: 600;
   line-height: 1.2;

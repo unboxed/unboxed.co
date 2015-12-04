@@ -1,0 +1,33 @@
+.site-footer-social {
+  border-top: solid 1px $medium-gray;
+  margin-top: 8px;
+  padding-top: 20px;
+  text-align: center;
+
+  @include breakpoint($tablet-breakpoint) {
+    border-top: none;
+    padding-top: 12px
+  }
+}
+
+%site-footer-social__icon-container--base {
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.site-footer-social__icon-container--twitter {
+  @extend %site-footer-social__icon-container--base;
+  background-color: #55ACEE;
+  margin-right: 10px;
+}
+
+.site-footer-social__icon-container--linkedin {
+  @extend %site-footer-social__icon-container--base;
+  background-color: #007AB6;
+}
+
+.site-footer-social__icon {
+  height: 16px;
+  padding: 6px 6px 4px;
+  width: 16px;
+}

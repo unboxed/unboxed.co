@@ -2,27 +2,6 @@
 @import 'variables';
 @import 'shared/*';
 
-// To support full coloured div
-.link-tile {
-  display: block;
-}
-
-// To support full coloured div
-.social-icons {
-  display: block;
-  clear: left;
-}
-
-// Place icons in the middle of its container
-.social_icons__icon {
-  padding-top: 6px;
-  height: 22px;
-}
-
-.social-icons__image {
-  padding-top: 6px;
-}
-
 .header__case-study {
   margin-top: 60px;
 }
@@ -69,10 +48,6 @@
   }
 }
 
-// Flexbox is not supported, fallback to block element
-.event-info__detail {
-  display: block;
-}
 
 // Flexbox is not supported to align this vertically central, float left instead
 .event-location__pin {
