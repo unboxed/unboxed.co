@@ -2,11 +2,6 @@
 @import 'variables';
 @import 'shared/*';
 
-// To support full coloured div
-.link-tile {
-  display: block;
-}
-
 .header__case-study {
   margin-top: 60px;
 }
@@ -53,10 +48,6 @@
   }
 }
 
-// Flexbox is not supported, fallback to block element
-.event-info__detail {
-  display: block;
-}
 
 // Flexbox is not supported to align this vertically central, float left instead
 .event-location__pin {

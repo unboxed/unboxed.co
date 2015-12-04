@@ -1,19 +1,9 @@
 @import 'variables';
 
-// To support full coloured div
-.link-tile {
-  display: block;
-}
-
 //To set a blog article width to match a project story
 .blog-article__container {
   margin: 0 auto;
   max-width: $max-mobile-container;
-}
-
-// Flexbox is not supported, fallback to block element
-.event__detail {
-  display: block;
 }
 
 // Flexbox is not supported, falls back to displaying as block element therefore give space underneath
@@ -24,11 +14,6 @@
 // Flexbox is not supported to align item in vertical center
 .event-location__pinned-address {
   margin-top: 20px;
-}
-
-// Flexbox is not supported, fallback to block element
-.event-info__detail {
-  display: block;
 }
 
 // Flexbox is not supported to align this vertically central, float left instead
