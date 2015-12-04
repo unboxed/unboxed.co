@@ -8,7 +8,17 @@ tags: # (Delete as appropriate)
 
 ---
 
-##  - [](http://www.unboxedconsulting.com/people/)
+## Onboarding - [Claire K](http://www.unboxedconsulting.com/people/claire-kemp)
+
+http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/.
+
+This interview about onboarding Techies makes me so happy. Kate Heddleston talks about the importance of engaging engineers in the very early days and establishing "reliable independence" through sensible mentoring pairings. These are some of the pains that we are coming out the other side of at Unboxed and why I get up in the morning to come in.
+
+I did not know much about Kate so I had a look for her on the world wide webisphere ...
+
+"Titles I’ve held in the past include Head Mugwump, Software Princess, Software Warrior Princess, Junior Software Engineer, I’m Kind of Okay at this Software Engineer, Senior Software Engineer, Marketing Intern, and Coach Kate. "
+
+Kate, this Gardener loves you a little bit more.
 
 ## Just when you thought you were safe via your VPN - [Jon N](http://www.unboxedconsulting.com/people/jon-normington)
 
