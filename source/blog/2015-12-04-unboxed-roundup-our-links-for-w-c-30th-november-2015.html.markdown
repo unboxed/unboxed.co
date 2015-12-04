@@ -34,4 +34,11 @@ regenerate them if you haven't already with ssh-keygen.  Its a little
 interesting read around /dev/random and how entropy is built,
 and lead me onto http://www.2uo.de/myths-about-urandom/. Enjoy...
 
-## Track of the Week - [](https://www.unboxedconsulting.com/people/)
+## Track of the Week - [Carlo K](https://www.unboxedconsulting.com/people/carlo-kruger)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/s7srvA1V740" frameborder="0" allowfullscreen></iframe>
+["Holy Water" by Soundgarden](https://www.youtube.com/watch?v=s7srvA1V740)
+
+Long before Blackhole Sun and that amazing video put them on the map, Soundgarden were churning out Led Zeppelin riffs in weird time signatures with lyrics that were quite amazingly at odds with the usual macho posturing. I got to visit the eponymous garden when I lived in Seattle between 1998 & 2000. It is quite the interesting place, with a weird wind-driven sound sculpture that is probably quite the place for a bunch of stoned musicians to hang about in (a pity I was allergic to the bullrushes that grow there).
+
+Holy Water is probably my favourite of my favourite Soundgarden tracks just because you can almost hear the drums howl in agony as Matt Cameron spanks them.
