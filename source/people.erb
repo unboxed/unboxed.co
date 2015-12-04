@@ -13,11 +13,12 @@ email_domain: "unboxed.co"
 
 <div class="container--grid" data-header-waypoint>
   <% data.people.each do |person| %>
-    <div class="person-tile">
+    <a class="person-tile" href="/people/<%= person.short_name %>">
       <div class="person-tile__content">
         <div class="person-tile__image-container">
-          <img class="person-tile__image" src="/assets/images/people/<%= person.short_name %>.png" alt="<%= person.name %>"/>
+          <img class="person-tile__image" src="/assets/images/people/<%= person.short_name %>.png" alt="<%= person.name %>" />
         </div>
+
         <div class="person-tile__details">
           <h2 class="person-tile__name">
             <%= person.name %>
@@ -27,22 +28,21 @@ email_domain: "unboxed.co"
             <%= person.role %>
           </div>
 
-          <a class="person-tile__email" href="mailto:<%= person.email %>@<%= current_page.data.email_domain %>">
+          <div class="person-tile__email">
             <%= person.email %>@<%= current_page.data.email_domain %>
-          </a>
+          </div>
         </div>
         <% if person.social_networks %>
           <div class="person-tile__social-networks">
             <% person.social_networks.each do |social_network| %>
               <% class_name = social_network.name.downcase %>
-              <a class="social-icon__icon-container--<%= class_name %>" href="<%= social_network.link %>">
+              <div class="social-icon__icon-container--<%= class_name %>">
                 <img class="social-icon__icon" src="/assets/images/social-icon__<%= class_name %>.png" alt="<%= social_network.name %>" />
-              </a>
+              </div>
             <% end %>
           </div>
         <% end %>
       </div>
-    </div>
+    </a>
   <% end %>
 </div>
-
