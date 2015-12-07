@@ -18,8 +18,8 @@ This is the great challenge we aimed to overcome at our session on the 30th Nove
 - Melissa Sabella, Director of Product and Innovation - Reed Learning
 - Richard Atherton, Management Consultant, Coach & Programme Manager
 - Martyn Evans, Head of Product - Unboxed
-- Dr. Gillian Holdsworth, Programme Director – SH:24 (the online service in partnership with the NHS)<br/>
-<br/>
+- Dr. Gillian Holdsworth, Programme Director – SH:24 (the online service in partnership with the NHS)
+
 
 ## Talk 1: HIPPOs are people too
 
