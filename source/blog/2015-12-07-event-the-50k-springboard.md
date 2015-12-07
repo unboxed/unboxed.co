@@ -27,7 +27,8 @@ Melissa Sabella ([@msabella](https://twitter.com/msabella))
 Director of Director of Product and Innovation
 Reed Learning ([@reedlearning](https://twitter.com/reedlearning))
 
-![Melissa Sabella]({{site.baseurl}}/http://bit.ly/1jKpTRX)
+![Melissa Sabella](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1238_zpsq4ywsavg.jpg)
+
 
 ## Talk 2: How do you make projects work in an agile context?
  
@@ -41,6 +42,7 @@ Martyn Evans ([@martynrevans](https://twitter.com/martynrevans))
 Head of Product
 Unboxed ([@ubxd](https://twitter.com/Ubxd))
 
+![Martyn Evans](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1258_zpsjhhmmmql.jpg)
 
 
 ## Talk 4: SH:24 – A case study
@@ -49,5 +51,5 @@ Dr. Gillian Holdsworth
 Programme Director
 SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))
 
-![Gillian Holdsworth]({{site.baseurl}}/http://i1291.photobucket.com/albums/b548/grammccram/IMG_1267_zpsdxjhkyrg.jpg)
+![Gillian Holdsworth](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1267_zpsdxjhkyrg.jpg)
 
