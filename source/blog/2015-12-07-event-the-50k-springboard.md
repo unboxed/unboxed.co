@@ -23,5 +23,31 @@ This is the great challenge we aimed to overcome at our session on the 30th Nove
 
 ## Talk 1: HIPPOs are people too
 
+Melissa Sabella ([@msabella](https://twitter.com/msabella))
+Director of Director of Product and Innovation
+Reed Learning ([@reedlearning](https://twitter.com/reedlearning))
 
+![Melissa Sabella]({{site.baseurl}}/http://i1291.photobucket.com/albums/b548/grammccram/IMG_1238_zpsq4ywsavg.jpg)
+
+## Talk 2: How do you make projects work in an agile context?
+ 
+Richard Atherton ([@rathertonrich](https://twitter.com/RathertonRich))
+Management Consultant, Coach & Programme Manager
+
+
+## Talk 3: How to demonstrate value quickly and get buy-in early
+
+Martyn Evans ([@martynrevans](https://twitter.com/martynrevans))
+Head of Product
+Unboxed ([@ubxd](https://twitter.com/Ubxd))
+
+
+
+## Talk 4: SH:24 – A case study
+ 
+Dr. Gillian Holdsworth
+Programme Director
+SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))
+
+![Gillian Holdsworth]({{site.baseurl}}/http://i1291.photobucket.com/albums/b548/grammccram/IMG_1267_zpsdxjhkyrg.jpg)
 
