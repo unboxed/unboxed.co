@@ -53,6 +53,10 @@ Unboxed ([@ubxd](https://twitter.com/Ubxd))
 
 ###Set out to prove yourself wrong
 
+###Assemble a small team of generalists
+
+###Communicate openly and frequently
+
 
 
 ## Talk 4: SH:24 – A case study
