@@ -18,7 +18,7 @@ This is the great challenge we aimed to overcome at our session on the 30th Nove
 - Melissa Sabella, Director of Product and Innovation - Reed Learning
 - Richard Atherton, Management Consultant, Coach & Programme Manager
 - Martyn Evans, Head of Product - Unboxed
-- Dr. Gillian Holdsworth, Programme Director – SH:24 (the online service in partnership with the NHS)
+- Dr. Gillian Holdsworth, Programme Director – SH:24 (the online service in partnership with the NHS)<br/>
 <br/>
 
 # Talk 1: HIPPOs are people too
@@ -57,7 +57,6 @@ If you give stakeholders everything at once, they’re not going to be able to m
  
 # Deal with persistent misconceptions
 With agile, there’s are persistent misconceptions. With something like agile product development, people might say “Yes, that makes sense” then they have this misconception of it.  Understand that you might be able to convince the stakeholder in the moment, but when they walk away and if they have a misconception that they’ve had over time then it’s going to take more than one intervention to break this down. Understand what the misconceptions are and repeatedly try to break them down.<br/>
-<br/>
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">What happens if we don&#39;t do anything? How does that affect the bottom line? <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/Oa8FmTsnXv">pic.twitter.com/Oa8FmTsnXv</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/671273497830780928">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
@@ -105,6 +104,7 @@ People spend so much time trying to think of what it is they’re going to do, w
 - Start with the riskiest thing
 
 Think about what you’re assuming and what you believe. If you’re wrong about this, what is going to be the biggest disaster? Which thing is going to make you fail? Start by tackling that first.
+<br/>
  
 - Encourage people to tell you stuff that you don’t want to hear
 
@@ -151,7 +151,6 @@ The most important thing to do is up built trust with stakeholders. If you’re 
  
 Open communications are really important. People come in and they see what you’re doing, and they like it. They’ll go and speak to others in the organisation. That’s the mission. With the first £50k, you need to get buy-in from the organisation.<br/>
 <br/>
-<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Keep team small to save money in the beginning while you learn what you need <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/8MGkluvChL">pic.twitter.com/8MGkluvChL</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/671292994583175168">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
@@ -167,11 +166,7 @@ SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))<br/>
 
 - Users are really important, stakeholders are really important
 - Finance makes a difference – what if you’re delivering a service that is a whole lot cheaper than the service being delivered before?
-- Deliver _“quick wins”_ – these realise the efficiency savings which people really are desperate for
+- Deliver “quick wins” – these realise the efficiency savings which people really are desperate for
 - Identify your advocates – the people that support you will champion you and what you’re trying to do
 - Identify your blockers – take them on that rollercoaster with you
 - Don’t always let people tell you what to do or expect you to do
-
-<br/>
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Dr Gillian Holdsworth at <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> on our agile, people-centred design approach to <a href="https://twitter.com/hashtag/sexualhealth?src=hash">#sexualhealth</a> services <a href="https://t.co/oTrzSx7dD1">https://t.co/oTrzSx7dD1</a></p>&mdash; SH:24 (@sh24_nhs) <a href="https://twitter.com/sh24_nhs/status/671296461792018432">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
