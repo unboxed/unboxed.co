@@ -9,7 +9,7 @@ title: "Event: The £50k Springboard"
 ---
 
 
-## How to use the first £50k of a digital product to build the business case for the next £500k
+# How to use the first £50k of a digital product to build the business case for the next £500k
 
 You’ve been given the first initial budget for a new digital product idea (or to overhaul an existing one). That digital product is going to be the one that makes a real impact. But how do you prove the concept for this large, new digital product and unlock a full budget, with **just** the _first_ signed-off £50k… Especially when you’re using Agile…?
 
@@ -53,7 +53,7 @@ When we’re embedded in product, we form these structures in our head that have
 If you give stakeholders everything at once, they’re not going to be able to make these connections. So chunk it out into the most important things, and make it smaller. Tell them the most important things and reinforce the key points.
  
 ### Deal with persistent misconceptions
-With agile, there’s are persistent misconceptions. With something like agile product development, people might say “Yes, that makes sense” then they have this misconception of it.  Understand that you might be able to convince the stakeholder in the moment, but when they walk away and if they have a misconception that they’ve had over time then it’s going to take more than one intervention to break this down. Understand what the misconceptions are and repeatedly try to break them down.<br/>
+With agile, there’s are persistent misconceptions. With something like agile product development, people might say “Yes, that makes sense” then they have this misconception of it.  Understand that you might be able to convince the stakeholder in the moment, but when they walk away and if they have a misconception that they’ve had over time then it’s going to take more than one intervention to break this down. Understand what the misconceptions are and repeatedly try to break them down.
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">What happens if we don&#39;t do anything? How does that affect the bottom line? <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/Oa8FmTsnXv">pic.twitter.com/Oa8FmTsnXv</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/671273497830780928">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
@@ -117,7 +117,7 @@ Start with an inception workshop – get the team together in a room for two day
 - What is it you think you’re doing
 - What you’re most worried about
  
-From the inception workshop, you get:<br/>
+From the inception workshop, you get:
  
 - Some rough assets
 - A process of thinking about customers
@@ -127,19 +127,19 @@ From the inception workshop, you get:<br/>
  
 ### Communicate openly and frequently
  
-Show people, don’t tell. Show people what you’re doing all the time, be open, honest and transparent. Set up a “war room” and fill it full of what you’re working on:<br/>
+Show people, don’t tell. Show people what you’re doing all the time, be open, honest and transparent. Set up a “war room” and fill it full of what you’re working on:
  
 - Make it all visible
 - Show your workings – get it all on the wall
 - Change it regularly
  
-Have regular Show & Tell sessions – every week (or two weeks), show progress of what you’ve done over the last sprint and what you’re doing to do in the next. The principle is that people will get context over time as progress is shared. Regular updates allow you to get questions and feedback from stakeholders.<br/>
+Have regular Show & Tell sessions – every week (or two weeks), show progress of what you’ve done over the last sprint and what you’re doing to do in the next. The principle is that people will get context over time as progress is shared. Regular updates allow you to get questions and feedback from stakeholders.
  
-_“Show your progress… Even when you haven’t made any”_ – Will Rowan, former-Ministry of Justice<br/>
+_“Show your progress… Even when you haven’t made any”_ – Will Rowan, former-Ministry of Justice
  
-The most important thing to do is up built trust with stakeholders. If you’re making up stories, saying you’re making progress when you aren’t, then people will see through this and they’ll start to doubt you. If you haven’t made progress, tell people – tell them why. They might be able to help you.<br/>
+The most important thing to do is up built trust with stakeholders. If you’re making up stories, saying you’re making progress when you aren’t, then people will see through this and they’ll start to doubt you. If you haven’t made progress, tell people – tell them why. They might be able to help you.
  
-Open communications are really important. People come in and they see what you’re doing, and they like it. They’ll go and speak to others in the organisation. That’s the mission. With the first £50k, you need to get buy-in from the organisation.<br/>
+Open communications are really important. People come in and they see what you’re doing, and they like it. They’ll go and speak to others in the organisation. That’s the mission. With the first £50k, you need to get buy-in from the organisation.
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Keep team small to save money in the beginning while you learn what you need <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/8MGkluvChL">pic.twitter.com/8MGkluvChL</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/671292994583175168">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
