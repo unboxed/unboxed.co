@@ -11,9 +11,9 @@ title: "Event: The £50k Springboard"
 
 ## How to use the first £50k of a digital product to build the business case for the next £500k
 
-You’ve been given the first initial budget for a new digital product idea (or to overhaul an existing one). That digital product is going to be the one that makes a real impact. But how do you prove the concept for this large, new digital product and unlock a full budget, with **just** the _first_ signed-off £50k… Especially when you’re using Agile…?<br/>
+You’ve been given the first initial budget for a new digital product idea (or to overhaul an existing one). That digital product is going to be the one that makes a real impact. But how do you prove the concept for this large, new digital product and unlock a full budget, with **just** the _first_ signed-off £50k… Especially when you’re using Agile…?
 
-This is the great challenge we aimed to overcome at our session on the 30th November 2015, uncovering the techniques to getting full buy-in from the person holding the purse strings, and unlocking that full budget. We heard from those who have been faced with this exact challenge in large organisations, in both the public and private sector:<br/>
+This is the great challenge we aimed to overcome at our session on the 30th November 2015, uncovering the techniques to getting full buy-in from the person holding the purse strings, and unlocking that full budget. We heard from those who have been faced with this exact challenge in large organisations, in both the public and private sector:
  
 - Melissa Sabella, Director of Product and Innovation - Reed Learning
 - Richard Atherton, Management Consultant, Coach & Programme Manager
@@ -26,26 +26,25 @@ This is the great challenge we aimed to overcome at our session on the 30th Nove
 Melissa Sabella ([@msabella](https://twitter.com/msabella))<br/>
 Director of Director of Product and Innovation<br/>
 Reed Learning ([@reedlearning](https://twitter.com/reedlearning))<br/>
-<br/>
 
 ![Melissa Sabella](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1238_zpsq4ywsavg.jpg)
  
-Behaviours are very important to how you approach the issue of unlocking further budget. It’s not just a technique or skill but something you do all the time. It becomes a habit. And that’s how you make things happen in organisations.<br/>
+Behaviours are very important to how you approach the issue of unlocking further budget. It’s not just a technique or skill but something you do all the time. It becomes a habit. And that’s how you make things happen in organisations.
  
-There’s a lot of buzz around creativity and ideas, but organisations say: _“We’ve got the ideas, we know what we should be doing but we can’t somehow do it”_. The issues are:<br/>
+There’s a lot of buzz around creativity and ideas, but organisations say: _“We’ve got the ideas, we know what we should be doing but we can’t somehow do it”_. The issues are:
  
 - Getting people to shift their mindset
 - Unlocking the money
 - Getting people to take risks
 - Getting them to break away from what they’re already doing
  
-There’s a mentality of _“We’re looking for the person who’s going to bring us the digital transformation, we’ll hire you and then we’ll be finished”_. But when that person comes back with the business case for the money they need in order to do the transformation, they say: _“Whoa, but we’ve brought you in to get it done”_.<br/>
+There’s a mentality of _“We’re looking for the person who’s going to bring us the digital transformation, we’ll hire you and then we’ll be finished”_. But when that person comes back with the business case for the money they need in order to do the transformation, they say: _“Whoa, but we’ve brought you in to get it done”_.
  
-Organisations usually say: _“Here’s your brief, show us your plans for the digital transformation and tell us what you’re going to do. Tell us the answer”_. This mentality is we’re up against when we talk about agile and good solid product development.<br/>
+Organisations usually say: _“Here’s your brief, show us your plans for the digital transformation and tell us what you’re going to do. Tell us the answer”_. This mentality is we’re up against when we talk about agile and good solid product development.
  
-Avoid showing things internally to executives and people who have a lot of power as they end up saying “I think it should be this” and they end up doing what they want, rather than what the customer wants.<br/>
+Avoid showing things internally to executives and people who have a lot of power as they end up saying “I think it should be this” and they end up doing what they want, rather than what the customer wants.
  
-When it comes to the person who controls the budget and the team is asking for more: More money, more time, more trust, more exploration – they don’t really know what’s being delivered or executed. When you come to this person saying: _“We need to do some exploration. We need to fail. We don’t know what the answer is but we need to start spending money”_ – how does this make them feel? How can they say yes to this? How do you convince them to get the funding for what you want to do?<br/>
+When it comes to the person who controls the budget and the team is asking for more: More money, more time, more trust, more exploration – they don’t really know what’s being delivered or executed. When you come to this person saying: _“We need to do some exploration. We need to fail. We don’t know what the answer is but we need to start spending money”_ – how does this make them feel? How can they say yes to this? How do you convince them to get the funding for what you want to do?
  
 ### Take them on a journey
 When we’re embedded in product, we form these structures in our head that have all these multiple connections, so we can jump from one thing to another. The stakeholder has nodes of these connections, but they don’t have these really strong connections.
@@ -68,13 +67,13 @@ Management Consultant, Coach & Programme Manager<br/>
 Stakeholders can get hooked on the condition of certainty. Go on a journey with them and try to reduce the dosage of certainty. Try to take away the illusion of certainty in a way that’s respectful and meets them where they’re at. The game is to try and give them a soft landing - to protect them and to protect you.<br/>
  
 ###It’s more about stakeholder one-to-one
-Break down what you’re doing into smaller chunks, from a budget perspective. In terms of building trust, in having the stakeholder allowing you to spend a small amount of money, rather than give them lots of detail on how you’re going to spend the big pot of money, it’s more about the one-to-one with the stakeholders. Those who are ultimately giving the approval for the funds.<br/>
+Break down what you’re doing into smaller chunks, from a budget perspective. In terms of building trust, in having the stakeholder allowing you to spend a small amount of money, rather than give them lots of detail on how you’re going to spend the big pot of money, it’s more about the one-to-one with the stakeholders. Those who are ultimately giving the approval for the funds.
  
 ###Communicate the value
-How do you communicate the value of the money you’re spending? It’s less about how you communicate value and more about how you make your stakeholders feel something. How do you make you stakeholders feel proud? How do you make your stakeholders feel energised? In the same way as when you’re designing software, you think about the user experience. When managing stakeholders, ask the same question – what is the user experience of the stakeholder?<br/>
+How do you communicate the value of the money you’re spending? It’s less about how you communicate value and more about how you make your stakeholders feel something. How do you make you stakeholders feel proud? How do you make your stakeholders feel energised? In the same way as when you’re designing software, you think about the user experience. When managing stakeholders, ask the same question – what is the user experience of the stakeholder?
  
 ###Get stakeholders excited
-When it comes to delivering, it’s really about going into the room and thinking less about the spreadsheets, the numbers and the money you’re asking for, but starting upfront with getting stakeholders into the wireframes and having a play, and feel excited and proud of what you’ve all done, as a team. Then the money conversation becomes much easier.<br/>
+When it comes to delivering, it’s really about going into the room and thinking less about the spreadsheets, the numbers and the money you’re asking for, but starting upfront with getting stakeholders into the wireframes and having a play, and feel excited and proud of what you’ve all done, as a team. Then the money conversation becomes much easier.
 <br/>
 
 ## Talk 3: How to demonstrate value quickly and get buy-in early
@@ -89,31 +88,30 @@ Unboxed ([@ubxd](https://twitter.com/Ubxd))<br/>
 
 ### Set out to prove yourself wrong
  
-_“You must not fool yourself, you are the easiest person to fool”_ – Richard Feynman<br/>
+_“You must not fool yourself, you are the easiest person to fool”_ – Richard Feynman
 
-We’ve all got great ideas. But there’s a good chance that your idea isn’t very good. Work on the principle that your assumptions are wrong and go out to prove it. Use the power of negative thinking – we all try to be too positive, but pessimism can save you a lot of heart-ache.<br/>
+We’ve all got great ideas. But there’s a good chance that your idea isn’t very good. Work on the principle that your assumptions are wrong and go out to prove it. Use the power of negative thinking – we all try to be too positive, but pessimism can save you a lot of heart-ache.
  
-People spend so much time trying to think of what it is they’re going to do, what the best place to start is, what the first thing to do is. It doesn’t really matter if you’re assuming it’s wrong. So just start somewhere, get cracking and go and find out.<br/>
+People spend so much time trying to think of what it is they’re going to do, what the best place to start is, what the first thing to do is. It doesn’t really matter if you’re assuming it’s wrong. So just start somewhere, get cracking and go and find out.
  
 - Start with the riskiest thing
-Think about what you’re assuming and what you believe. If you’re wrong about this, what is going to be the biggest disaster? Which thing is going to make you fail? Start by tackling that first.<br/>
+Think about what you’re assuming and what you believe. If you’re wrong about this, what is going to be the biggest disaster? Which thing is going to make you fail? Start by tackling that first.
  
 - Encourage people to tell you stuff that you don’t want to hear
-Talk to your customers. It should be one of the first things you do. You want them to validate your idea.<br/>
+Talk to your customers. It should be one of the first things you do. You want them to validate your idea.
  
-People say _“fail fast”_ but they should say _“fail immediately”_. Start wrong find out what is right, or at least more right, as quickly as possible. It’s difficult and no one ever really wants to fail but being wrong is not a failure so long as you learn as much as possible on the way.<br/>
-<br/>
+People say _“fail fast”_ but they should say _“fail immediately”_. Start wrong find out what is right, or at least more right, as quickly as possible. It’s difficult and no one ever really wants to fail but being wrong is not a failure so long as you learn as much as possible on the way.
 
 
 ### Assemble a small team of generalists
  
-_“The secret of getting things done is to act!”_ – Dante Alighiere<br/>
+_“The secret of getting things done is to act!”_ – Dante Alighiere
  
-People are key to success everything; it’s all about people. It’s about stakeholders – what is their psychological makeup? It’s about what customers – what they feel (not what they say), what they actually do, what they’re going to act on. And it’s about the team.<br/>
+People are key to success everything; it’s all about people. It’s about stakeholders – what is their psychological makeup? It’s about what customers – what they feel (not what they say), what they actually do, what they’re going to act on. And it’s about the team.
 
-Build a small team of generalists, but make sure you cover a broad spectrum of functionality, so a cross-functional team. Not specialists, but those with a broad range of skills and depth. If you can get these people on your team from very early on, you can move very quickly and get things done. Good people get things done.<br/>
+Build a small team of generalists, but make sure you cover a broad spectrum of functionality, so a cross-functional team. Not specialists, but those with a broad range of skills and depth. If you can get these people on your team from very early on, you can move very quickly and get things done. Good people get things done.
  
-Start with an inception workshop – get the team together in a room for two days to align and find out:<br/>
+Start with an inception workshop – get the team together in a room for two days to align and find out:
  
 - Why you’re doing what you’re doing
 - What is it you think you’re doing
@@ -155,4 +153,7 @@ SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))<br/>
 <br/>
 
 ![Gillian Holdsworth](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1267_zpsdxjhkyrg.jpg)
+
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Dr Gillian Holdsworth at <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> on our agile, people-centred design approach to <a href="https://twitter.com/hashtag/sexualhealth?src=hash">#sexualhealth</a> services <a href="https://t.co/oTrzSx7dD1">https://t.co/oTrzSx7dD1</a></p>&mdash; SH:24 (@sh24_nhs) <a href="https://twitter.com/sh24_nhs/status/671296461792018432">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
