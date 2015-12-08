@@ -31,7 +31,7 @@ Reed Learning ([@reedlearning](https://twitter.com/reedlearning))<br/>
  
 Behaviours are very important to how you approach the issue of unlocking further budget. It’s not just a technique or skill but something you do all the time. It becomes a habit. And that’s how you make things happen in organisations.
  
-There’s a lot of buzz around creativity and ideas, but organisations say: _“We’ve got the ideas, we know what we should be doing but we can’t somehow do it”_. The issues are:
+There’s a lot of buzz around creativity and ideas, but organisations say: “We’ve got the ideas, we know what we should be doing but we can’t somehow do it”. The issues are:
  
 - Getting people to shift their mindset
 - Unlocking the money
@@ -44,18 +44,20 @@ Organisations usually say: “Here’s your brief, show us your plans for the di
  
 Avoid showing things internally to executives and people who have a lot of power as they end up saying “I think it should be this” and they end up doing what they want, rather than what the customer wants.
  
-When it comes to the person who controls the budget and the team is asking for more: More money, more time, more trust, more exploration – they don’t really know what’s being delivered or executed. When you come to this person saying: “We need to do some exploration. We need to fail. We don’t know what the answer is but we need to start spending money” – how does this make them feel? How can they say yes to this? How do you convince them to get the funding for what you want to do?
+When it comes to the person who controls the budget and the team is asking for more: More money, more time, more trust, more exploration – they don’t really know what’s being delivered or executed. When you come to this person saying: “We need to do some exploration. We need to fail. We don’t know what the answer is but we need to start spending money” – how does this make them feel? How can they say yes to this? How do you convince them to get the funding for what you want to do?<br/>
+<br/>
  
 # Take them on a journey
-When we’re embedded in product, we form these structures in our head that have all these multiple connections, so we can jump from one thing to another. The stakeholder has nodes of these connections, but they don’t have these really strong connections.
+When we’re embedded in product, we form these structures in our head that have all these multiple connections, so we can jump from one thing to another. The stakeholder has nodes of these connections, but they don’t have these really strong connections.<br/>
 <br/>
  
 # Chunk the information
-If you give stakeholders everything at once, they’re not going to be able to make these connections. So chunk it out into the most important things, and make it smaller. Tell them the most important things and reinforce the key points.
+If you give stakeholders everything at once, they’re not going to be able to make these connections. So chunk it out into the most important things, and make it smaller. Tell them the most important things and reinforce the key points.<br/>
 <br/>
  
 # Deal with persistent misconceptions
-With agile, there’s are persistent misconceptions. With something like agile product development, people might say “Yes, that makes sense” then they have this misconception of it.  Understand that you might be able to convince the stakeholder in the moment, but when they walk away and if they have a misconception that they’ve had over time then it’s going to take more than one intervention to break this down. Understand what the misconceptions are and repeatedly try to break them down.
+With agile, there’s are persistent misconceptions. With something like agile product development, people might say “Yes, that makes sense” then they have this misconception of it.  Understand that you might be able to convince the stakeholder in the moment, but when they walk away and if they have a misconception that they’ve had over time then it’s going to take more than one intervention to break this down. Understand what the misconceptions are and repeatedly try to break them down.<br/>
+<br/>
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">What happens if we don&#39;t do anything? How does that affect the bottom line? <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/Oa8FmTsnXv">pic.twitter.com/Oa8FmTsnXv</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/671273497830780928">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
@@ -97,16 +99,19 @@ Unboxed ([@ubxd](https://twitter.com/Ubxd))<br/>
 
 We’ve all got great ideas. But there’s a good chance that your idea isn’t very good. Work on the principle that your assumptions are wrong and go out to prove it. Use the power of negative thinking – we all try to be too positive, but pessimism can save you a lot of heart-ache.
  
-People spend so much time trying to think of what it is they’re going to do, what the best place to start is, what the first thing to do is. It doesn’t really matter if you’re assuming it’s wrong. So just start somewhere, get cracking and go and find out.
+People spend so much time trying to think of what it is they’re going to do, what the best place to start is, what the first thing to do is. It doesn’t really matter if you’re assuming it’s wrong. So just start somewhere, get cracking and go and find out.<br/>
+<br/>
  
-- Start with the riskiest thing<br/>
+- Start with the riskiest thing
+
 Think about what you’re assuming and what you believe. If you’re wrong about this, what is going to be the biggest disaster? Which thing is going to make you fail? Start by tackling that first.
  
-- Encourage people to tell you stuff that you don’t want to hear<br/>
+- Encourage people to tell you stuff that you don’t want to hear
+
 Talk to your customers. It should be one of the first things you do. You want them to validate your idea.
  
-People say “fail fast” but they should say “fail immediately”. Start wrong to find out what is right, or at least more right, as quickly as possible. It’s difficult and no one ever really wants to fail but being wrong is not a failure so long as you learn as much as possible on the way.
-
+People say “fail fast” but they should say “fail immediately”. Start wrong to find out what is right, or at least more right, as quickly as possible. It’s difficult and no one ever really wants to fail but being wrong is not a failure so long as you learn as much as possible on the way.<br/>
+<br/>
 
 # Assemble a small team of generalists
  
@@ -127,12 +132,12 @@ From the inception workshop, you get:
 - Some rough assets
 - A process of thinking about customers
 - Your fears – what’s keeping you up at night?
-- An elevator pitch for the idea
- 
+- An elevator pitch for the idea<br/>
+<br/>
  
 # Communicate openly and frequently
  
-Show people, don’t tell. Show people what you’re doing all the time, be open, honest and transparent. Set up a “war room” and fill it full of what you’re working on:
+Show people, don’t tell. Show people what you’re doing all the time, be open, honest and transparent. Set up a “war room” and fill it full of what you’re working on:<br/>
  
 - Make it all visible
 - Show your workings – get it all on the wall
@@ -144,7 +149,8 @@ Have regular Show & Tell sessions – every week (or two weeks), show progress o
  
 The most important thing to do is up built trust with stakeholders. If you’re making up stories, saying you’re making progress when you aren’t, then people will see through this and they’ll start to doubt you. If you haven’t made progress, tell people – tell them why. They might be able to help you.
  
-Open communications are really important. People come in and they see what you’re doing, and they like it. They’ll go and speak to others in the organisation. That’s the mission. With the first £50k, you need to get buy-in from the organisation.
+Open communications are really important. People come in and they see what you’re doing, and they like it. They’ll go and speak to others in the organisation. That’s the mission. With the first £50k, you need to get buy-in from the organisation.<br/>
+<br/>
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Keep team small to save money in the beginning while you learn what you need <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/8MGkluvChL">pic.twitter.com/8MGkluvChL</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/671292994583175168">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
