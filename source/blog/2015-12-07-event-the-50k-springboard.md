@@ -1,8 +1,8 @@
 ---
-author: ""
+author: Graeme McCubbin
 tags: 
-  - "null"
-main_image: ""
+  - Agile
+main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-12-08%20at%2015.43.35_zpsbqfopsv4.png"
 date: "2015-12-07 16:02 +0000"
 published: false
 title: "Event: The £50k Springboard"
@@ -100,7 +100,7 @@ Think about what you’re assuming and what you believe. If you’re wrong about
 - Encourage people to tell you stuff that you don’t want to hear
 Talk to your customers. It should be one of the first things you do. You want them to validate your idea.
  
-People say _“fail fast”_ but they should say _“fail immediately”_. Start wrong find out what is right, or at least more right, as quickly as possible. It’s difficult and no one ever really wants to fail but being wrong is not a failure so long as you learn as much as possible on the way.
+People say _“fail fast”_ but they should say _“fail immediately”_. Start wrong to find out what is right, or at least more right, as quickly as possible. It’s difficult and no one ever really wants to fail but being wrong is not a failure so long as you learn as much as possible on the way.
 
 
 ### Assemble a small team of generalists
