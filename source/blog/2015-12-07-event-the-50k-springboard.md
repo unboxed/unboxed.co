@@ -60,7 +60,9 @@ With agile, there’s are persistent misconceptions. With something like agile p
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">What happens if we don&#39;t do anything? How does that affect the bottom line? <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/Oa8FmTsnXv">pic.twitter.com/Oa8FmTsnXv</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/671273497830780928">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<br/>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When launching a product strike the balance between commitment and user ready affirmation <a href="https://twitter.com/hashtag/50kspringboard?src=hash">#50kspringboard</a></p>&mdash; Leanne Page (@inspiredagile) <a href="https://twitter.com/inspiredagile/status/671274747628515328">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
 
 ## Talk 2: 'How do you make projects work in an agile context?'
  
@@ -80,7 +82,9 @@ How do you communicate the value of the money you’re spending? It’s less abo
  
 #Get stakeholders excited
 When it comes to delivering, it’s really about going into the room and thinking less about the spreadsheets, the numbers and the money you’re asking for, but starting upfront with getting stakeholders into the wireframes and having a play, and feel excited and proud of what you’ve all done, as a team. Then the money conversation becomes much easier.<br/>
-<br/>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/RathertonRich">@RathertonRich</a> joining <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> via a tiny speaker from Cape Town... <a href="https://t.co/0zWea0hyRj">pic.twitter.com/0zWea0hyRj</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/671287033386696704">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
 
 ## Talk 3: 'How to demonstrate value quickly and get buy-in early'
 
@@ -153,7 +157,11 @@ Open communications are really important. People come in and they see what you�
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Keep team small to save money in the beginning while you learn what you need <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/8MGkluvChL">pic.twitter.com/8MGkluvChL</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/671292994583175168">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<br/>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">The power of negative thinking- live it! With <a href="https://twitter.com/martynevans">@martynevans</a> <a href="https://twitter.com/hashtag/50kspringboard?src=hash">#50kspringboard</a></p>&mdash; Claire Hammon (@rushinbear) <a href="https://twitter.com/rushinbear/status/671307038828417024">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Find out what that team can do best and let them do it. <a href="https://twitter.com/martynrevans">@martynrevans</a> <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/ql2NeML5e2">pic.twitter.com/ql2NeML5e2</a></p>&mdash; Gram (@GramMcCram) <a href="https://twitter.com/GramMcCram/status/671291717518303232">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
 
 ## Talk 4: SH:24 – A case study 
 
@@ -170,3 +178,5 @@ SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))<br/>
 - Identify your advocates – the people that support you will champion you and what you’re trying to do
 - Identify your blockers – take them on that rollercoaster with you
 - Don’t always let people tell you what to do or expect you to do
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr"><a href="https://twitter.com/sh24_nhs">@sh24_nhs</a> exciting future for digital sexual health services <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/xDjXZcOE9E">pic.twitter.com/xDjXZcOE9E</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/671301670626844672">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
