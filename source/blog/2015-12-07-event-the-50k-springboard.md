@@ -57,6 +57,9 @@ If you give stakeholders everything at once, they’re not going to be able to m
 With agile, there’s are persistent misconceptions. With something like agile product development, people might say “Yes, that makes sense” then they have this misconception of it.  Understand that you might be able to convince the stakeholder in the moment, but when they walk away and if they have a misconception that they’ve had over time then it’s going to take more than one intervention to break this down. Understand what the misconceptions are and repeatedly try to break them down.<br/>
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">What happens if we don&#39;t do anything? How does that affect the bottom line? <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/Oa8FmTsnXv">pic.twitter.com/Oa8FmTsnXv</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/671273497830780928">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<br/>
+
 ## Talk 2: How do you make projects work in an agile context?
  
 Richard Atherton ([@rathertonrich](https://twitter.com/RathertonRich))<br/>
@@ -101,6 +104,7 @@ Talk to your customers. It should be one of the first things you do. You want th
 People say _“fail fast”_ but they should say _“fail immediately”_. Start wrong find out what is right, or at least more right, as quickly as possible. It’s difficult and no one ever really wants to fail but being wrong is not a failure so long as you learn as much as possible on the way.<br/>
 <br/>
 
+
 ### Assemble a small team of generalists
  
 _“The secret of getting things done is to act!”_ – Dante Alighiere<br/>
@@ -138,6 +142,9 @@ _“Show your progress… Even when you haven’t made any”_ – Will Rowan, f
 The most important thing to do is up built trust with stakeholders. If you’re making up stories, saying you’re making progress when you aren’t, then people will see through this and they’ll start to doubt you. If you haven’t made progress, tell people – tell them why. They might be able to help you.<br/>
  
 Open communications are really important. People come in and they see what you’re doing, and they like it. They’ll go and speak to others in the organisation. That’s the mission. With the first £50k, you need to get buy-in from the organisation.<br/>
+<br/>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Keep team small to save money in the beginning while you learn what you need <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/8MGkluvChL">pic.twitter.com/8MGkluvChL</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/671292994583175168">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
 ## Talk 4: SH:24 – A case study 
