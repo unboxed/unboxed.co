@@ -63,7 +63,7 @@ With agile, there’s are persistent misconceptions. With something like agile p
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When launching a product strike the balance between commitment and user ready affirmation <a href="https://twitter.com/hashtag/50kspringboard?src=hash">#50kspringboard</a></p>&mdash; Leanne Page (@inspiredagile) <a href="https://twitter.com/inspiredagile/status/671274747628515328">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-
+<br/>
 ## Talk 2: 'How do you make projects work in an agile context?'
  
 Richard Atherton ([@rathertonrich](https://twitter.com/RathertonRich))<br/>
@@ -85,7 +85,7 @@ When it comes to delivering, it’s really about going into the room and thinkin
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/RathertonRich">@RathertonRich</a> joining <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> via a tiny speaker from Cape Town... <a href="https://t.co/0zWea0hyRj">pic.twitter.com/0zWea0hyRj</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/671287033386696704">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-
+<br/>
 ## Talk 3: 'How to demonstrate value quickly and get buy-in early'
 
 Martyn Evans ([@martynrevans](https://twitter.com/martynrevans))<br/>
@@ -162,7 +162,7 @@ Open communications are really important. People come in and they see what you�
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Find out what that team can do best and let them do it. <a href="https://twitter.com/martynrevans">@martynrevans</a> <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/ql2NeML5e2">pic.twitter.com/ql2NeML5e2</a></p>&mdash; Gram (@GramMcCram) <a href="https://twitter.com/GramMcCram/status/671291717518303232">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-
+<br/>
 ## Talk 4: SH:24 – A case study 
 
 Dr. Gillian Holdsworth<br/>
