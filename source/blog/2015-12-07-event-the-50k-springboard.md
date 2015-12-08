@@ -21,7 +21,7 @@ This is the great challenge we aimed to overcome at our session on the 30th Nove
 - Dr. Gillian Holdsworth, Programme Director – SH:24 (the online service in partnership with the NHS)<br/>
 <br/>
 
-# Talk 1: HIPPOs are people too
+## Talk 1: 'HIPPOs are people too'
 
 Melissa Sabella ([@msabella](https://twitter.com/msabella))<br/>
 Director of Director of Product and Innovation<br/>
@@ -62,7 +62,7 @@ With agile, there’s are persistent misconceptions. With something like agile p
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">What happens if we don&#39;t do anything? How does that affect the bottom line? <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> <a href="https://t.co/Oa8FmTsnXv">pic.twitter.com/Oa8FmTsnXv</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/671273497830780928">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
 
-## Talk 2: How do you make projects work in an agile context?
+## Talk 2: 'How do you make projects work in an agile context?'
  
 Richard Atherton ([@rathertonrich](https://twitter.com/RathertonRich))<br/>
 Management Consultant, Coach & Programme Manager<br/>
@@ -82,7 +82,7 @@ How do you communicate the value of the money you’re spending? It’s less abo
 When it comes to delivering, it’s really about going into the room and thinking less about the spreadsheets, the numbers and the money you’re asking for, but starting upfront with getting stakeholders into the wireframes and having a play, and feel excited and proud of what you’ve all done, as a team. Then the money conversation becomes much easier.<br/>
 <br/>
 
-## Talk 3: How to demonstrate value quickly and get buy-in early
+## Talk 3: 'How to demonstrate value quickly and get buy-in early'
 
 Martyn Evans ([@martynrevans](https://twitter.com/martynrevans))<br/>
 Head of Product<br/>
