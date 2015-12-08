@@ -154,6 +154,13 @@ SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))<br/>
 
 ![Gillian Holdsworth](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1267_zpsdxjhkyrg.jpg)
 
+- Users are really important, stakeholders are really important
+- Finance makes a difference – what if you’re delivering a service that is a whole lot cheaper than the service being delivered before?
+- Deliver _“quick wins”_ – these realise the efficiency savings which people really are desperate for
+- Identify your advocates – the people that support you will champion you and what you’re trying to do
+- Identify your blockers – take them on that rollercoaster with you
+- Don’t always let people tell you what to do or expect you to do
+
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Dr Gillian Holdsworth at <a href="https://twitter.com/hashtag/50kSpringboard?src=hash">#50kSpringboard</a> on our agile, people-centred design approach to <a href="https://twitter.com/hashtag/sexualhealth?src=hash">#sexualhealth</a> services <a href="https://t.co/oTrzSx7dD1">https://t.co/oTrzSx7dD1</a></p>&mdash; SH:24 (@sh24_nhs) <a href="https://twitter.com/sh24_nhs/status/671296461792018432">November 30, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
