@@ -24,7 +24,7 @@ This is the great challenge we aimed to overcome at our session on the 30th Nove
 ## Talk 1: 'HIPPOs are people too'
 
 Melissa Sabella ([@msabella](https://twitter.com/msabella))<br/>
-Director of Director of Product and Innovation<br/>
+Director of Product and Innovation<br/>
 Reed Learning ([@reedlearning](https://twitter.com/reedlearning))<br/>
 
 ![Melissa Sabella](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1238_zpsq4ywsavg.jpg)
