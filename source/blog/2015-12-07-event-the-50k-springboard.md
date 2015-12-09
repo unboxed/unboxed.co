@@ -170,7 +170,6 @@ Open communications are really important. People come in and they see what youâ€
 Dr. Gillian Holdsworth<br/>
 Programme Director<br/>
 SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))<br/>
-<br/>
 
 [SH:24](http://unboxed.co/project-stories/sh24/) is a free online sexual health service, delivered in partnership with the NHS. SH:24 makes it easier for people to get tested for the four most common sexually transmitted infections (STIs). They provide people in Southwark and Lambeth with test kits, information and advice - 24 hours a day.<br/>
 <br/>
