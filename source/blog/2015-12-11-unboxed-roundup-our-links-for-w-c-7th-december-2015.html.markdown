@@ -26,5 +26,24 @@ http://solnic.eu/2015/12/07/introducing-dry-validation.html
 
 An alternative to Rails' Strong Params and Validation
 
-## Track of the Week - [](https://www.unboxedconsulting.com/people/)
+## Track of the Week - Danielle E (slinky_bass, aka 'That intern', aka 'Hey you, intern', aka Danielle, but just Dani is cool if we chat in RL, kay?)
+
+In honour of the death of ex Stone Temple Pilots frontman, Scott Weiland on Dec the 3rd, track of the week is "Big Empty", released originally in 1994 on "The Crow" soundtrack and later again on their second album "Purple".
+
+STP gave voice, along with a host of other sterling 90's grunge bands, to the angst, uncertainty and emerging creative freedom of Generation X. Their albums "Core" and "Purple" were some of the first CD's I bought, with my own actual saved up pocket money, and I still listen to them today (they are somewhat scratched though).
+
+"Big Empty" is one of my all time favourites. The soft, melancholy slide guitar intro, prominent bass and tense quiet vocals contrasted with the heavy guitars and expansive vocals of the chorus...It's a song of extremes, of quiet withdrawal punctuated by passionate outbursts. Hanging on by your fingernails one day and throwing yourself bodily at life the next.
+
+I like it.
+
+That's all for now folks. Give it a listen. Intern out.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GqyposaQWnI" frameborder="0" allowfullscreen></iframe>
+["Big Empty" by Stone Temple Pilots](https://www.youtube.com/watch?v=GqyposaQWnI)
+
+
+*Too much walkin', shoes worn thin,
+too much trippin' and my soul's worn thin.
+Time to catch a ride, it leaves today, her name is what it means.
+Too much walkin', shoes worn thin.*
 
