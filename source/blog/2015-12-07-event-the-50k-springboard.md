@@ -9,6 +9,7 @@ title: "Event: The £50k Springboard"
 ---
 
 
+
 ## How to use the first £50k of a digital product to build the business case for the next £500k
 
 You’ve been given the first initial budget for a new digital product idea (or to overhaul an existing one). That digital product is going to be the one that makes a real impact. But how do you prove the concept for this large, new digital product and unlock a full budget, with **just** the _first_ signed-off £50k… Especially when you’re using Agile…?
@@ -177,10 +178,4 @@ SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))<br/>
 ![Gillian Holdsworth](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1267_zpsdxjhkyrg.jpg)
 
 
-- Users are really important, stakeholders are really important
-- Finance makes a difference – what if you’re delivering a service that is a whole lot cheaper than the service being delivered before?
-- Deliver “quick wins” – these realise the efficiency savings which people really are desperate for
-- Identify your advocates – the people that support you will champion you and what you’re trying to do
-- Identify your blockers – take them on that rollercoaster with you
-- Don’t always let people tell you what to do or expect you to do
-
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/MaqDmy5l4e8mbd" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/the-50k-springboard-sh24" title="The £50k Springboard - SH:24" target="_blank">The £50k Springboard - SH:24</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
