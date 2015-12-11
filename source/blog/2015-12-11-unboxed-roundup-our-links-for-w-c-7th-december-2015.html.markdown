@@ -26,6 +26,12 @@ http://solnic.eu/2015/12/07/introducing-dry-validation.html
 
 An alternative to Rails' Strong Params and Validation
 
+## This is `def`initely worth a read - [Murray S](http://www.unboxedconsulting.com/people/murray-steele)
+
+http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html
+
+Whenever I think I've seen all the unusual tricks that ruby lets us play with code along comes another article to remind me that I know nothing.  You'll probably never need to define new methods inside other methods, but it's neat that you can.  It's always worth exploring the edges of what appears to be syntatically valid in any programming language as it can help you work out what the underlying representation is.
+
 ## Track of the Week - Danielle E (slinky_bass, aka 'That intern', aka 'Hey you, intern', aka Danielle, but just Dani is cool if we chat in RL, kay?)
 
 In honour of the death of ex Stone Temple Pilots frontman, Scott Weiland on Dec the 3rd, track of the week is "Big Empty", released originally in 1994 on "The Crow" soundtrack and later again on their second album "Purple".
