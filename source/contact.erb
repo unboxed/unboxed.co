@@ -1,0 +1,73 @@
+---
+title: "get in touch..."
+subtitle: "to arrange a meeting or have a chat, just drop us a line"
+
+offices:
+
+  - name: "London"
+    address_1: "17 Blossom Street"
+    post_code: "E1 6PL"
+    city: "London"
+    phone_number: "+44 20 7183 4250"
+    phone_number_dialable: "+442071834250"
+    email: "hello@unboxed.co"
+    map_link: "http://goo.gl/maps/AuKrs"
+    map_image: ""
+    map_description: ""
+
+  - name: "Cape Town"
+    address_1: "303 Buchanan Chambers,"
+    address_2: "Cnr Pearce & Warwick Street"
+    post_code: "7735"
+    city: "Claremont"
+    phone_number: "+27 21 671 4503"
+    phone_number_dialable: "+27216714503"
+    email: "hello@unboxed.co"
+    map_link: "http://goo.gl/maps/JkNC9"
+    map_image: ""
+    map_description: ""
+---
+
+<header class="page-header">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.title %>
+    </h1>
+
+    <p class="page-header__subtitle">
+      <%= current_page.data.subtitle %>
+    </p>
+  </div>
+</header>
+
+<div class="container--contact-page">
+  <% current_page.data.offices.each do |office| %>
+    <div class="contact-page-tile">
+      <div class="contact-page-tile__container">
+        <div class="contact-page-tile__content">
+          <p class="contact-page-tile__title"><%= office.name %></p>
+          <address class="contact-page-tile__address">
+            <%= office.address_1 %><br>
+            <%= office.address_2 if present? %>
+          </address>
+          <address class="contact-page-tile__address">
+            <%= office.post_code %><br>
+            <%= office.city %><br>
+          </address>
+          <div class="contact-page-tile__phone-number"><a href="tel:<%= office.phone_number_dialable %>">
+            <i class="fa fa-phone contact-page__phone-icon"></i>
+            <%= office.phone_number %>
+          </a></div>
+          <div class="contact-page-tile__email"><a href="mailto:<%= office.email %>">
+            <i class="fa fa-envelope contact-page__email-icon"></i>
+            <%= office.email %>
+          </a></div>
+          <div class="contact-page-tile__map-link"><a href="<%= office.map_link %>" target="_blank">
+            <i class="fa fa-map-marker fa-lg contact-page__map-icon"></i>
+            open in maps
+          </a></div>
+        </div>
+      </div>
+    </div>
+  <% end %>
+</div>

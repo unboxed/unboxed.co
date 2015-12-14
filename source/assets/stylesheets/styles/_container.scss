@@ -26,3 +26,7 @@
   }
 }
 
+.container--contact-page {
+  @extend .container--project-stories;
+}
+
