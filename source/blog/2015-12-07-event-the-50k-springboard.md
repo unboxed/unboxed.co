@@ -10,6 +10,7 @@ title: "Event: The £50k Springboard"
 
 
 
+
 ## How to use the first £50k of a digital product to build the business case for the next £500k
 
 You’ve been given the first initial budget for a new digital product idea (or to overhaul an existing one). That digital product is going to be the one that makes a real impact. But how do you prove the concept for this large, new digital product and unlock a full budget, with **just** the _first_ signed-off £50k… Especially when you’re using Agile…?
@@ -41,7 +42,7 @@ There’s a lot of buzz around creativity and ideas, but organisations say: “W
  
 There’s a mentality of “We’re looking for the person who’s going to bring us the digital transformation, we’ll hire you and then we’ll be finished”. But when that person comes back with the business case for the money they need in order to do the transformation, they say: “Whoa, but we’ve brought you in to get it done”.
  
-Organisations usually say: “Here’s your brief, show us your plans for the digital transformation and tell us what you’re going to do. Tell us the answer”. This mentality is we’re up against when we talk about agile and good solid product development.
+Organisations usually say: “Here’s your brief, show us your plans for the digital transformation and tell us what you’re going to do. Tell us the answer”. This mentality is what we’re up against when we talk about agile and good solid product development.
  
 Avoid showing things internally to executives and people who have a lot of power as they end up saying “I think it should be this” and they end up doing what they want, rather than what the customer wants.
  
