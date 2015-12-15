@@ -43,6 +43,12 @@
   color: $white;
 }
 
+.highlight--reed-learning {
+  @extend %highlight;
+  background-color: #304b9b;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
