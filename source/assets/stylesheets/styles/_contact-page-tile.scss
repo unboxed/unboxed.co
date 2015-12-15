@@ -19,6 +19,20 @@
 .contact-page-tile__content {
   box-sizing: border-box;
   padding: 20px 6px 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    width: 50%;
+  }
+}
+
+.contact-page-tile__image-container iframe {
+  height: 200px;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: right;
+    min-height: 260px;
+    width: 50%;
+  }
 }
 
 .contact-page-tile__title {
