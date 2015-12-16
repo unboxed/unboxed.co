@@ -1,0 +1,50 @@
+.contact-page-tile {
+  box-sizing: border-box;
+  color: $dark-gray;
+  display: block;
+  font-weight: 300;
+  margin-bottom: 6px;
+  padding-right: 6px;
+  text-decoration: none;
+}
+
+.contact-page-tile__container {
+  background-color: $white;
+  box-sizing: border-box;
+  border: 1px solid darken($light-gray, 5%);
+  min-height: 480px;
+  width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 381px;
+  }
+}
+
+.contact-page-tile__content {
+  box-sizing: border-box;
+  padding: 20px 14px 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    width: 50%;
+  }
+}
+
+.contact-page-tile__image-container iframe {
+  box-sizing: border-box;
+  height: 200px;
+  padding: 8px;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: right;
+    height: 379px;
+    width: 50%;
+  }
+}
+
+.contact-page-tile__title {
+  @include responsive-title;
+  color: $purple;
+  font-weight: 300;
+  text-transform: lowercase;
+  padding-bottom: 15px;
+}

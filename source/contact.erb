@@ -57,27 +57,27 @@ offices:
         </div>
         <div class="contact-page-tile__content">
           <p class="contact-page-tile__title"><%= office.name %></p>
-          <address class="contact-page-tile__address">
+          <address class="contact-page-address">
             <%= simple_format office.address %>
           </address>
-          <div class="contact-page-tile__phone-number"><a href="tel:<%= office.phone_number %>">
-            <i class="fa fa-phone contact-page__phone-icon"></i>
+          <div class="contact-page-address__phone-number"><a href="tel:<%= office.phone_number %>">
+            <i class="fa fa-phone contact-page-address__phone-icon"></i>
             <%= office.humanized_phone_number %>
           </a></div>
-          <div class="contact-page-tile__email"><a href="mailto:<%= office.email %>">
-            <i class="fa fa-envelope contact-page__email-icon"></i>
+          <div class="contact-page-address__email"><a href="mailto:<%= office.email %>">
+            <i class="fa fa-envelope contact-page-address__email-icon"></i>
             <%= office.email %>
           </a></div>
-          <div class="contact-page-tile__map-link"><a href="<%= office.map_link %>" target="_blank">
-            <i class="fa fa-map-marker fa-lg contact-page__map-icon"></i>
+          <div class="contact-page-address__map-link"><a href="<%= office.map_link %>" target="_blank">
+            <i class="fa fa-map-marker fa-lg contact-page-address__map-icon"></i>
             open in maps
           </a></div>
           <% if office.nearest_stations %>
-            <div class="contact-page-tile__transport">nearest stations
+            <div class="contact-page-address__directions">nearest stations
             <% office.nearest_stations.each do |station| %>
-             <p class="contact-page-tile__transport-station">
+             <p class="contact-page-address__directions-station">
                <a href="<%= station.link %>" target="_blank">
-                 <%= image_tag station.tfl_icon, class: 'contact-page__tfl-icon' %>
+                 <%= image_tag station.tfl_icon, class: 'contact-page-address__tfl-icon' %>
                  <%= station.name %></a>
              </p>
             <% end %>

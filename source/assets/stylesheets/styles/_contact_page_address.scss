@@ -1,0 +1,74 @@
+.contact-page-address {
+  line-height: 1.4em;
+}
+
+.contact-page-address__phone-number {
+  padding: 20px 0 15px;
+  font-weight: 300;
+
+  a {
+    color: $dark-gray;
+    text-decoration: none;
+  }
+}
+
+.contact-page-address__email {
+  padding-bottom: 15px;
+  font-weight: 300;
+
+  a {
+    color: $dark-gray;
+    text-decoration: none;
+  }
+}
+
+.contact-page-address__map-link {
+  padding-bottom: 15px;
+  font-weight: 300;
+  border-bottom: solid 1px lighten($medium-gray, 30%);
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  a {
+    color: lighten($medium-gray, 20%);
+    text-decoration: none;
+  }
+}
+
+i.contact-page-address__phone-icon {
+  color: $medium-gray;
+  padding-right: 5px;
+}
+
+i.contact-page-address__email-icon {
+  color: $medium-gray;
+  padding-right: 4px;
+}
+
+i.contact-page-address__map-icon {
+  color: $medium-gray;
+  padding-right: 5px;
+}
+
+.contact-page-address__directions {
+  padding: 15px 0 25px;
+}
+
+.contact-page-address__directions-station {
+  padding-top: 15px;
+
+  a {
+    color: lighten($medium-gray, 20%);
+    text-decoration: none;
+  }
+}
+
+.contact-page-address__tfl-icon {
+  display: inline-block;
+  height: 17px;
+  padding-right: 8px;
+  width: 20px;
+  vertical-align: middle;
+}
