@@ -13,7 +13,14 @@ offices:
     email: "hello@unboxed.co"
     map_link: "http://goo.gl/maps/AuKrs"
     map_image_link: "https://a.tiles.mapbox.com/v4/web-unboxed.oebohej0/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
-    map_description: ""
+
+    nearest_stations:
+      - name: "liverpool street"
+        link: "https://tfl.gov.uk/tube/stop/940GZZLULVT/liverpool-street-underground-station"
+        tfl_icon: "tfl-icon__underground.png"
+      - name: "shoreditch highstreet"
+        link: "https://tfl.gov.uk/overground/stop/910GSHRDHST/shoreditch-high-street-rail-station"
+        tfl_icon: "tfl-icon__overground.png"
 
   - name: "Cape Town"
     address_1: "303 Buchanan Chambers,"
@@ -25,7 +32,6 @@ offices:
     email: "hello@unboxed.co"
     map_link: "http://goo.gl/maps/JkNC9"
     map_image_link: "https://a.tiles.mapbox.com/v4/web-unboxed.oec60hbb/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
-    map_description: ""
 ---
 
 <header class="page-header">
@@ -69,6 +75,17 @@ offices:
             <i class="fa fa-map-marker fa-lg contact-page__map-icon"></i>
             open in maps
           </a></div>
+          <% if office.nearest_stations %>
+            <div class="contact-page-tile__transport">nearest stations
+            <% office.nearest_stations.each do |station| %>
+             <p class="contact-page-tile__transport-station">
+               <a href="<%= station.link %>" target="_blank">
+                 <%= image_tag station.tfl_icon, class: 'contact-page__tfl-icon' %>
+                 <%= station.name %></a>
+             </p>
+            <% end %>
+            </div>
+          <% end %>
         </div>
       </div>
     </div>

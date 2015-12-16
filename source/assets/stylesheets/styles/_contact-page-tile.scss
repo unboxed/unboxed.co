@@ -92,3 +92,24 @@ i.contact-page__map-icon {
   color: $medium-gray;
   padding-right: 5px;
 }
+
+.contact-page-tile__transport {
+  padding: 15px 0 25px;
+}
+
+.contact-page-tile__transport-station {
+  padding-top: 15px;
+
+  a {
+    color: $medium-gray;
+    text-decoration: none;
+  }
+}
+
+.contact-page__tfl-icon {
+  display: inline-block;
+  height: 17px;
+  padding-right: 8px;
+  width: 20px;
+  vertical-align: middle;
+}
