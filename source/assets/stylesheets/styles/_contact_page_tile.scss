@@ -12,7 +12,6 @@
   background-color: $white;
   box-sizing: border-box;
   border: 1px solid darken($light-gray, 5%);
-  min-height: 480px;
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
@@ -25,6 +24,7 @@
   padding: 20px 14px 6px;
 
   @include breakpoint($tablet-breakpoint) {
+    float: left;
     width: 50%;
   }
 }
@@ -35,7 +35,6 @@
   padding: 8px;
 
   @include breakpoint($tablet-breakpoint) {
-    float: right;
     height: 379px;
     width: 50%;
   }
