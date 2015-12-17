@@ -1,26 +1,31 @@
 ---
 title: "Project Story - SH:24"
-meta_description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
+meta_description: "Transformation of NHS face-to-face sexual health clinic to digital service in 8 weeks"
 
 header:
   client: "SH:24"
-  introduction: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
+  introduction: "Transformation of NHS face-to-face sexual health clinic to digital service in 8 weeks"
   image: "/project-stories/sh24/sh24-post-it.jpg"
   image_description: "Sexual Health - how do we make it easier to access NHS services?"
 
 introduction:
-  title: "Digital healthcare innovation"
-  content: "SH:24 asked Unboxed to help them develop an online STI testing service. The vision was that a self service testing kit, ordered online could tackle long queues at inaccessible sexual health centres and dramatically increase public access to sexual health service."
+  title: "Online sexual health testing service to tackle high clinic demand"
+  content:
+    - "8 weeks from an idea to a working online service"
+    - "16 weeks from inception to NHS approved service"
+    - "95% of people who start the order process go through to completion"
+    - "Service to be rolled out to further areas in 2016"
   image: "/project-stories/sh24/kit-instructions.jpg"
   image_description: "Using a web prototype for instructions"
 
-statistics_title: "SH:24 in numbers"
-statistics:
-  - "8 weeks to successful prototype"
-  - "100+ users involved in design"
-  - "16 weeks from inception to NHS approved service"
-  - "1,300 test kits ordered in first 8 weeks"
-  - "95% starting an order online, complete it"
+statistics_1:
+  title: "SH:24 in numbers"
+  number: "100+"
+  text: "Users involved in the design"
+
+statistics_2:
+  number: "1,300"
+  text: "Test kits ordered in first 8 weeks"
 
 launch:
   title: "Live service launched in 16 weeks"
@@ -142,16 +147,15 @@ related:
 
   <section class="highlight--sh24">
     <h2 class="highlight__title">
-      <%= current_page.data.statistics_title %>
+      <%= current_page.data.statistics_1.title %>
     </h2>
 
-    <ul class="highlight__list">
-      <% current_page.data.statistics.each do |statistic| %>
-        <li class="highlight__list-item">
-          <%= statistic %>
-        </li>
-      <% end %>
-    </ul>
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_1.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_2.text %></p>
+    </div>
   </section>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.launch } %>
