@@ -15,13 +15,14 @@ offices:
     map_link: "http://goo.gl/maps/AuKrs"
     map_image: "https://a.tiles.mapbox.com/v4/web-unboxed.oebohej0/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
 
-    nearest_stations:
+    transport_directions: "nearest stations"
+    station_and_parking:
       - name: "liverpool street"
         link: "https://tfl.gov.uk/tube/stop/940GZZLULVT/liverpool-street-underground-station"
-        tfl_icon: "tfl-icon__underground.png"
+        icon: "tfl-icon__underground.png"
       - name: "shoreditch highstreet"
         link: "https://tfl.gov.uk/overground/stop/910GSHRDHST/shoreditch-high-street-rail-station"
-        tfl_icon: "tfl-icon__overground.png"
+        icon: "tfl-icon__overground.png"
 
   - name: "Cape Town"
     address: |
@@ -34,6 +35,15 @@ offices:
     email: "hello@unboxed.co"
     map_link: "http://goo.gl/maps/JkNC9"
     map_image: "https://a.tiles.mapbox.com/v4/web-unboxed.oec60hbb/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
+
+    transport_directions: "nearest parking and station"
+    station_and_parking:
+      - name: "grove avenue"
+        link: "https://www.parkme.com/map?lot=122336"
+        icon: "transport-icon__car.png"
+      - name: "claremont"
+        link: "http://www.capemetrorail.co.za/Route-Map.html"
+        icon: "transport-icon__train.png"
 ---
 
 <header class="page-header">
@@ -73,18 +83,17 @@ offices:
               open in maps
             </a>
           </div>
-          <% if office.nearest_stations %>
-            <div class="contact-page-address__directions">nearest stations
-            <% office.nearest_stations.each do |station| %>
+          <div class="contact-page-address__directions">
+            <%= office.transport_directions %>
+            <% office.station_and_parking.each do |place| %>
              <p class="contact-page-address__directions-station">
-               <a href="<%= station.link %>" target="_blank">
-                 <%= image_tag station.tfl_icon, class: 'contact-page-address__tfl-icon' %>
-                 <%= station.name %>
+               <a href="<%= place.link %>" target="_blank">
+                 <%= image_tag place.icon, class: 'contact-page-address__transport-icon' %>
+                 <%= place.name %>
                </a>
              </p>
             <% end %>
-            </div>
-          <% end %>
+          </div>
         </div>
         <div class="contact-page-tile__image-container">
           <iframe width='100%' height='500px' frameBorder='0' src="<%= office.map_image %>"></iframe>

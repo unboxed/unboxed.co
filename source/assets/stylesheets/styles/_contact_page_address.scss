@@ -27,10 +27,6 @@
   font-weight: 300;
   border-bottom: solid 1px lighten($medium-gray, 30%);
 
-  &:last-child {
-    border-bottom: none;
-  }
-
   a {
     color: lighten($medium-gray, 20%);
     text-decoration: none;
@@ -65,7 +61,7 @@ i.contact-page-address__map-icon {
   }
 }
 
-.contact-page-address__tfl-icon {
+.contact-page-address__transport-icon {
   display: inline-block;
   height: 17px;
   padding-right: 8px;

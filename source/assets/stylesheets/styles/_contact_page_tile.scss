@@ -15,7 +15,7 @@
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 381px;
+    min-height: 396px;
   }
 }
 
@@ -32,10 +32,10 @@
 .contact-page-tile__image-container iframe {
   box-sizing: border-box;
   height: 200px;
-  padding: 8px;
+  padding: 6px;
 
   @include breakpoint($tablet-breakpoint) {
-    height: 379px;
+    height: 396px;
     width: 50%;
   }
 }
