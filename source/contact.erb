@@ -1,6 +1,10 @@
 ---
-title: "get in touch..."
-subtitle: "to arrange a meeting or have a chat, just drop us a line"
+title: "Contact"
+meta_description: "Get in touch at hello@unboxed.co if you would like to find out more"
+
+header:
+  title: "get in touch..."
+  subtitle: "to arrange a meeting or have a chat, just drop us a line"
 
 offices:
 
@@ -49,11 +53,11 @@ offices:
 <header class="page-header">
   <div class="page-header__container">
     <h1 class="page-header__title">
-      <%= current_page.data.title %>
+      <%= current_page.data.header.title %>
     </h1>
 
     <p class="page-header__subtitle">
-      <%= current_page.data.subtitle %>
+      <%= current_page.data.header.subtitle %>
     </p>
   </div>
 </header>
