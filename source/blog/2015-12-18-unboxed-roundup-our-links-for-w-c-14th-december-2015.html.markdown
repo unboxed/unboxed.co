@@ -26,4 +26,13 @@ http://githubengineering.com/move-fast/
 
 Vincent Marti from GitHub explains how they refactored a critical piece of functionality without any user-visble impact and along the way discovered some long-standing bugs in git and libgit2.
 
-## Track of the Week - []()
+## Track of the Week - [Sven A](https://www.unboxedconsulting.com/people/sven-agnew)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/HzBCVfeyaZ8" frameborder="0" allowfullscreen></iframe>
+["Rachel's Song" by Vangelis](https://www.youtube.com/watch?v=HzBCVfeyaZ8)
+
+This track, taken from the soundtrack to Bladerunner, is full of ethereal hope and longing and I think rather charmingly expresses the fragility and naivete´ of the eponymous character in the film.
+
+Vangelis' work on this album is arguably among the greatest influences on the torrent of synthesizer music which flowed into the mainstream during the 70's and 80's and yet still remains deeply rooted in classical themes and techniques.
+
+Rachel's Song has long been a personal favourite and I hope you enjoy it too.
