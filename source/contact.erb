@@ -62,7 +62,7 @@ offices:
   </div>
 </header>
 
-<div class="container--contact-page">
+<div class="container--contact-page" data-header-waypoint>
   <% current_page.data.offices.each do |office| %>
     <div class="contact-page-tile">
       <div class="contact-page-tile__container">
@@ -99,9 +99,7 @@ offices:
             <% end %>
           </div>
         </div>
-        <div class="contact-page-tile__image-container">
-          <iframe width='100%' height='500px' frameBorder='0' src="<%= office.map_image %>"></iframe>
-        </div>
+        <iframe class="contact-page-tile__image" frameBorder='0' src="<%= office.map_image %>"></iframe>
       </div>
     </div>
   <% end %>
