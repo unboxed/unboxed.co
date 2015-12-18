@@ -26,6 +26,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
+    padding-top: 30px;
     width: 50%;
   }
 }

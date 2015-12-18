@@ -10,6 +10,10 @@
     color: $dark-gray;
     text-decoration: none;
   }
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 30px;
+  }
 }
 
 .contact-page-address__email {
@@ -31,6 +35,10 @@
     color: lighten($medium-gray, 5%);
     text-decoration: none;
   }
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 30px;
+  }
 }
 
 i.contact-page-address__phone-icon {
@@ -50,6 +58,10 @@ i.contact-page-address__map-icon {
 
 .contact-page-address__directions {
   padding: 15px 0 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 30px;
+  }
 }
 
 .contact-page-address__direction-point {
