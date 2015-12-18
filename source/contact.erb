@@ -16,15 +16,16 @@ offices:
     humanized_phone_number: "+44 20 7183 4250"
     phone_number: "+442071834250"
     email: "hello@unboxed.co"
+    map_link_title: "open in google maps"
     map_link: "http://goo.gl/maps/AuKrs"
-    map_image: "https://a.tiles.mapbox.com/v4/web-unboxed.oebohej0/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
+    interactive_map: "https://a.tiles.mapbox.com/v4/web-unboxed.oebohej0/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
 
     transport_directions: "nearest stations"
     station_and_parking:
-      - name: "liverpool street"
+      - name: "Liverpool Street"
         link: "https://tfl.gov.uk/tube/stop/940GZZLULVT/liverpool-street-underground-station"
         icon: "tfl-icon__underground.png"
-      - name: "shoreditch highstreet"
+      - name: "Shoreditch High Street"
         link: "https://tfl.gov.uk/overground/stop/910GSHRDHST/shoreditch-high-street-rail-station"
         icon: "tfl-icon__overground.png"
 
@@ -37,15 +38,16 @@ offices:
     humanized_phone_number: "+27 21 671 4503"
     phone_number: "+27216714503"
     email: "hello@unboxed.co"
+    map_link_title: "open in google maps"
     map_link: "http://goo.gl/maps/JkNC9"
-    map_image: "https://a.tiles.mapbox.com/v4/web-unboxed.oec60hbb/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
+    interactive_map: "https://a.tiles.mapbox.com/v4/web-unboxed.oec60hbb/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
 
     transport_directions: "nearest parking and station"
     station_and_parking:
-      - name: "grove avenue"
+      - name: "Grove Avenue"
         link: "https://www.parkme.com/map?lot=122336"
         icon: "transport-icon__car.png"
-      - name: "claremont"
+      - name: "Claremont"
         link: "http://www.capemetrorail.co.za/Route-Map.html"
         icon: "transport-icon__train.png"
 ---
@@ -66,40 +68,50 @@ offices:
   <% current_page.data.offices.each do |office| %>
     <div class="contact-page-tile">
       <div class="contact-page-tile__container">
+
         <div class="contact-page-tile__content">
           <p class="contact-page-tile__title"><%= office.name %></p>
           <address class="contact-page-address">
             <%= simple_format office.address %>
           </address>
+
           <div class="contact-page-address__phone-number">
             <a href="tel:<%= office.phone_number %>">
-            <i class="fa fa-phone contact-page-address__phone-icon"></i>
+              <i class="fa fa-phone contact-page-address__phone-icon"></i>
               <%= office.humanized_phone_number %>
             </a>
           </div>
-          <div class="contact-page-address__email"><a href="mailto:<%= office.email %>">
-            <i class="fa fa-envelope contact-page-address__email-icon"></i>
-            <%= office.email %>
-          </a></div>
-          <div class="contact-page-address__map-link">
-            <a href="<%= office.map_link %>" target="_blank">
-            <i class="fa fa-map-marker fa-lg contact-page-address__map-icon"></i>
-              open in maps
+
+          <div class="contact-page-address__email">
+            <a href="mailto:<%= office.email %>">
+              <i class="fa fa-envelope contact-page-address__email-icon"></i>
+              <%= office.email %>
             </a>
           </div>
+
+          <div class="contact-page-address__map-link">
+            <a href="<%= office.map_link %>" target="_blank">
+              <i class="fa fa-map-marker fa-lg contact-page-address__map-icon"></i>
+              <%= office.map_link_title %>
+            </a>
+          </div>
+
           <div class="contact-page-address__directions">
             <%= office.transport_directions %>
-            <% office.station_and_parking.each do |place| %>
-             <p class="contact-page-address__directions-station">
-               <a href="<%= place.link %>" target="_blank">
-                 <%= image_tag place.icon, class: 'contact-page-address__transport-icon' %>
-                 <%= place.name %>
-               </a>
-             </p>
-            <% end %>
+             <ul>
+               <% office.station_and_parking.each do |place| %>
+                 <li class="contact-page-address__direction-point">
+                   <a href="<%= place.link %>" target="_blank">
+                     <%= image_tag place.icon, class: 'contact-page-address__transport-icon', alt: place.name %>
+                     <%= place.name %>
+                   </a>
+                 </li>
+               <% end %>
+             </ul>
           </div>
         </div>
-        <iframe class="contact-page-tile__image" frameBorder='0' src="<%= office.map_image %>"></iframe>
+
+        <iframe class="contact-page-tile__image" frameBorder='0' src="<%= office.interactive_map %>"></iframe>
       </div>
     </div>
   <% end %>

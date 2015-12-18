@@ -1,10 +1,10 @@
 .contact-page-address {
-  line-height: 1.4em;
+  line-height: 1.4;
 }
 
 .contact-page-address__phone-number {
-  padding: 20px 0 15px;
   font-weight: 300;
+  padding: 20px 0 15px;
 
   a {
     color: $dark-gray;
@@ -13,8 +13,8 @@
 }
 
 .contact-page-address__email {
-  padding-bottom: 15px;
   font-weight: 300;
+  padding-bottom: 15px;
 
   a {
     color: $dark-gray;
@@ -23,12 +23,12 @@
 }
 
 .contact-page-address__map-link {
-  padding-bottom: 20px;
+  border-bottom: 1px solid darken($light-gray, 5%);
   font-weight: 300;
-  border-bottom: solid 1px lighten($medium-gray, 30%);
+  padding-bottom: 20px;
 
   a {
-    color: lighten($medium-gray, 20%);
+    color: lighten($medium-gray, 5%);
     text-decoration: none;
   }
 }
@@ -52,12 +52,13 @@ i.contact-page-address__map-icon {
   padding: 15px 0 20px;
 }
 
-.contact-page-address__directions-station {
+.contact-page-address__direction-point {
   padding-top: 15px;
 
   a {
-    color: lighten($medium-gray, 20%);
+    color: lighten($medium-gray, 5%);
     text-decoration: none;
+    text-transform: lowercase;
   }
 }
 
@@ -65,6 +66,6 @@ i.contact-page-address__map-icon {
   display: inline-block;
   height: 17px;
   padding-right: 8px;
-  width: 20px;
   vertical-align: middle;
+  width: 20px;
 }
