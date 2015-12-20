@@ -15,9 +15,18 @@
 
 .contact-page-tile__container {
   background-color: $white;
-  box-sizing: border-box;
   border: 1px solid darken($light-gray, 5%);
+  box-sizing: border-box;
+  font-size: 0.9em;
   width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.9em;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1em;
+  }
 }
 
 .contact-page-tile__content {
@@ -45,9 +54,17 @@ iframe.contact-page-tile__image {
 }
 
 .contact-page-tile__title {
-  @include responsive-title;
   color: $purple;
+  font-size: 1.95em;
   font-weight: 300;
   text-transform: lowercase;
   padding-bottom: 15px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 3.68vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 2.2em;
+  }
 }
