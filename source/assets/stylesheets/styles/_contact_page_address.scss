@@ -9,6 +9,10 @@
   a {
     color: $dark-gray;
     text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   @include breakpoint($tablet-breakpoint) {
@@ -23,6 +27,10 @@
   a {
     color: $dark-gray;
     text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 
@@ -34,6 +42,10 @@
   a {
     color: lighten($medium-gray, 5%);
     text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   @include breakpoint($tablet-breakpoint) {
@@ -43,17 +55,20 @@
 
 i.contact-page-address__phone-icon {
   color: $medium-gray;
-  padding-right: 5px;
+  float: left;
+  padding-right: 10px;
 }
 
 i.contact-page-address__email-icon {
   color: $medium-gray;
-  padding-right: 4px;
+  float: left;
+  padding-right: 8px;
 }
 
 i.contact-page-address__map-icon {
   color: $medium-gray;
-  padding-right: 5px;
+  float: left;
+  padding-right: 10px;
 }
 
 .contact-page-address__directions {
@@ -71,6 +86,14 @@ i.contact-page-address__map-icon {
     color: lighten($medium-gray, 5%);
     text-decoration: none;
     text-transform: lowercase;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  img {
+    float: left;
   }
 }
 
