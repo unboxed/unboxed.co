@@ -8,8 +8,8 @@ header:
 introduction:
   title: "At unboxed, design is a team sport"
   text: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services and we are looking for a talented and confident strategic designer to join us."
-  image: ""
-  image_description: ""
+  image: "/jobs/images/design-meeting.jpg"
+  image_description: "Design team at work"
 
 description:
   title: "We need someone who"
@@ -18,8 +18,8 @@ description:
     - "Is a strategic thinker, comfortable with uncertainty and used to complex environments"
     - "Takes a highly collaborative approach, facilitating design within cross discipline teams"
     - "Is a passionate advocate for Design Thinking and Lean and Agile principles"
-  image: ""
-  image_description: ""
+  image: "/jobs/images/design-outcome.jpg"
+  image_description: "Presenting a design project"
 
 design_quote:
   quote: "We embrace the idea of design thinking and know that the days of developers shrugging their shoulders, turning to the designer for direction are over."
@@ -30,6 +30,8 @@ contact_us:
   title: "Send us your cv"
   text: "Claire is our people gardener. Being a \"gardener\" is Claire's analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. Send your CV through to her:"
   email: "iwantajob@unboxed.co"
+  image: "/jobs/images/ubxd-gardener.jpg"
+  image_description: "Our gardener at work"
 ---
 
   <header class="page-header">
@@ -52,6 +54,10 @@ contact_us:
           <%= current_page.data.introduction.text %>
         </p>
     </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.introduction.image, alt: current_page.data.introduction.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.introduction.image) %>
+    </div>
   </section>
 
   <section class="component--job-page">
@@ -67,6 +73,10 @@ contact_us:
           </li>
         <% end %>
       </ul>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.description.image, alt: current_page.data.description.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.description.image) %>
     </div>
   </section>
 
@@ -92,6 +102,10 @@ contact_us:
       <p class="text-tile__paragraph">
         <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
       </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
     </div>
   </section>
 </div>
