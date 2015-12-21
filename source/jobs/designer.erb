@@ -22,9 +22,9 @@ description:
   image_description: "Presenting a design project"
 
 design_quote:
-  quote: "We embrace the idea of design thinking and know that the days of developers shrugging their shoulders, turning to the designer for direction are over."
+  quote: "For me, design is as much about attitude as it is about experience or specific expertise. Great looking visuals and considered user journeys are important but I most enjoy working with designers who are open in their thinking and encourage the team to collectively tackle and solve important problems."
   source: "Martyn Evans, Head of Product"
-  image: ""
+  image: "/assets/images/people/martyn-evans.png"
 
 contact_us:
   title: "Send us your cv"
@@ -81,12 +81,15 @@ contact_us:
   </section>
 
   <blockquote class="quote">
-    <p class="quote__text">
-      <%= current_page.data.design_quote.quote %>
-    </p>
-    <p class="quote__source">
-      <%= current_page.data.design_quote.source %>
-    </p>
+    <aside class="quote__right-section">
+      <p class="quote__text">
+        <%= current_page.data.design_quote.quote %>
+      </p>
+      <p class="quote__source">
+        <%= current_page.data.design_quote.source %>
+      </p>
+    </aside>
+    <img class="quote__source-image" src="<%= current_page.data.design_quote.image %>" alt="<%= current_page.data.design_quote.source %>"/>
   </blockquote>
 
   <section class="component--job-page">
