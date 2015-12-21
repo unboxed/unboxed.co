@@ -3,18 +3,6 @@
   background-color: $white;
 }
 
-.component--job-page {
-  @extend .component;
-
-  @include breakpoint($desktop-breakpoint) {
-    margin-top: 30px;
-
-  &:last-child {
-    margin-top: 0;
-    }
-  }
-}
-
 .component__tile {
   @include breakpoint($tablet-breakpoint) {
     float: left;
