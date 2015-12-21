@@ -26,3 +26,8 @@
   }
 }
 
+.container--contact-page {
+  @extend .container--project-stories;
+  padding-left: 0;
+}
+
