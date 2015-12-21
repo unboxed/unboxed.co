@@ -1,0 +1,118 @@
+---
+title: "Contact"
+meta_description: "Get in touch at hello@unboxed.co if you would like to find out more"
+
+header:
+  title: "get in touch..."
+  subtitle: "to arrange a meeting or have a chat, just drop us a line"
+
+offices:
+
+  - name: "London"
+    address: |
+      17 Blossom Street
+      E1 6PL
+      London, UK
+    humanized_phone_number: "+44 20 7183 4250"
+    phone_number: "+442071834250"
+    email: "hello@unboxed.co"
+    map_link_title: "open in google maps"
+    map_link: "http://goo.gl/maps/AuKrs"
+    interactive_map: "https://a.tiles.mapbox.com/v4/web-unboxed.oebohej0/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
+
+    transport_directions: "nearest stations"
+    station_and_parking:
+      - name: "Liverpool Street"
+        link: "https://tfl.gov.uk/tube/stop/940GZZLULVT/liverpool-street-underground-station"
+        icon: "tfl-icon__underground.png"
+      - name: "Shoreditch High Street"
+        link: "https://tfl.gov.uk/overground/stop/910GSHRDHST/shoreditch-high-street-rail-station"
+        icon: "tfl-icon__overground.png"
+
+  - name: "Cape Town"
+    address: |
+      303 Buchanan Chambers
+      Cnr Pearce & Warwick Street
+      7735
+      Claremont, SA
+    humanized_phone_number: "+27 21 671 4503"
+    phone_number: "+27216714503"
+    email: "hello@unboxed.co"
+    map_link_title: "open in google maps"
+    map_link: "http://goo.gl/maps/JkNC9"
+    interactive_map: "https://a.tiles.mapbox.com/v4/web-unboxed.oec60hbb/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
+
+    transport_directions: "nearest parking and station"
+    station_and_parking:
+      - name: "Grove Avenue"
+        link: "https://www.parkme.com/map?lot=122336"
+        icon: "transport-icon__car.png"
+      - name: "Claremont"
+        link: "http://www.capemetrorail.co.za/Route-Map.html"
+        icon: "transport-icon__train.png"
+---
+
+<header class="page-header">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.header.title %>
+    </h1>
+
+    <p class="page-header__subtitle">
+      <%= current_page.data.header.subtitle %>
+    </p>
+  </div>
+</header>
+
+<div class="container--contact-page" data-header-waypoint>
+  <% current_page.data.offices.each do |office| %>
+    <div class="contact-page-tile">
+      <div class="contact-page-tile__container">
+
+        <div class="contact-page-tile__content">
+          <p class="contact-page-tile__title"><%= office.name %></p>
+          <address class="contact-page-address">
+            <%= simple_format office.address %>
+          </address>
+
+          <div class="contact-page-address__phone-number">
+            <a href="tel:<%= office.phone_number %>">
+              <i class="fa fa-phone contact-page-address__phone-icon"></i>
+              <%= office.humanized_phone_number %>
+            </a>
+          </div>
+
+          <div class="contact-page-address__email">
+            <a href="mailto:<%= office.email %>">
+              <i class="fa fa-envelope contact-page-address__email-icon"></i>
+              <%= office.email %>
+            </a>
+          </div>
+
+          <div class="contact-page-address__map-link">
+            <a href="<%= office.map_link %>" target="_blank">
+              <i class="fa fa-map-marker fa-lg contact-page-address__map-icon"></i>
+              <%= office.map_link_title %>
+            </a>
+          </div>
+
+          <div class="contact-page-address__directions">
+            <%= office.transport_directions %>
+             <ul>
+               <% office.station_and_parking.each do |place| %>
+                 <li class="contact-page-address__direction-point">
+                   <a href="<%= place.link %>" target="_blank">
+                     <%= image_tag place.icon, class: 'contact-page-address__transport-icon', alt: place.name %>
+                     <%= place.name %>
+                   </a>
+                 </li>
+               <% end %>
+             </ul>
+          </div>
+        </div>
+
+        <iframe class="contact-page-tile__image" frameBorder='0' src="<%= office.interactive_map %>"></iframe>
+      </div>
+    </div>
+  <% end %>
+</div>

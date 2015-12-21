@@ -46,3 +46,17 @@
     padding-bottom: 0;
   }
 }
+
+.text-tile__paragraph--job-page {
+  @extend .text-tile__paragraph;
+  padding-bottom: 20px;
+
+  a {
+    color: $purple;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
