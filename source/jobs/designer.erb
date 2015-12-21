@@ -7,7 +7,8 @@ header:
 
 introduction:
   title: "At unboxed, design is a team sport"
-  text: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services and we are looking for a talented and confident strategic designer to join us."
+  text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector"
+  text_2: "We are looking for a talented and confident strategic designer to join us."
   image: "/jobs/images/design-meeting.jpg"
   image_description: "Design team at work"
 
@@ -16,7 +17,7 @@ description:
   requirements:
     - "Has a breadth of experience across many design disciplines and a deep understanding of some"
     - "Is a strategic thinker, comfortable with uncertainty and used to complex environments"
-    - "Takes a highly collaborative approach, facilitating design within cross discipline teams"
+    - "Takes a highly collaborative approach, facilitating design within teams"
     - "Is a passionate advocate for Design Thinking and Lean and Agile principles"
   image: "/jobs/images/design-outcome.jpg"
   image_description: "Presenting a design project"
@@ -46,13 +47,16 @@ contact_us:
 <div class="container--job-page">
   <section class="component--job-page">
     <div class="component__tile text-tile">
-        <h2 class="text-tile__title">
-          <%= current_page.data.introduction.title %>
-        </h2>
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
 
-        <p class="text-tile__paragraph">
-          <%= current_page.data.introduction.text %>
-        </p>
+      <p class="text-tile__paragraph--job-page">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--job-page">
+        <%= current_page.data.introduction.text_2 %>
+      </p>
     </div>
 
     <div class="component__tile image-tile">
@@ -98,11 +102,11 @@ contact_us:
         <%= current_page.data.contact_us.title %>
       </h2>
 
-      <p class="text-tile__paragraph">
+      <p class="text-tile__paragraph--job-page">
         <%= current_page.data.contact_us.text %>
       </p>
 
-      <p class="text-tile__paragraph">
+      <p class="text-tile__paragraph--job-page">
         <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
       </p>
     </div>
