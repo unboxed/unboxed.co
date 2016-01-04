@@ -1,0 +1,75 @@
+.contact-page-tile {
+  box-sizing: border-box;
+  color: $dark-gray;
+  display: block;
+  font-weight: 300;
+  margin-bottom: 6px;
+  padding: 0 6px;
+  text-decoration: none;
+
+  @include breakpoint($desktop-breakpoint) {
+    height: 464px;
+    padding: 0;
+  }
+}
+
+.contact-page-tile__container {
+  background-color: $white;
+  border: 1px solid darken($light-gray, 5%);
+  box-sizing: border-box;
+  font-size: 0.9em;
+  width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 0.9em;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1em;
+  }
+}
+
+.contact-page-tile__content {
+  box-sizing: border-box;
+  padding: 20px 14px 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    padding-left: 15px;
+    padding-top: 30px;
+    width: 50%;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-left: 20px;
+  }
+}
+
+iframe.contact-page-tile__image {
+  box-sizing: border-box;
+  display: block;
+  min-height: 200px;
+  padding: 6px;
+  width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 464px;
+    width: 50%;
+  }
+}
+
+.contact-page-tile__title {
+  color: $purple;
+  font-size: 1.95em;
+  font-weight: 300;
+  text-transform: lowercase;
+  padding-bottom: 15px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 3.68vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 2.2em;
+  }
+}

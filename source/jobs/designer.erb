@@ -1,0 +1,125 @@
+---
+title: "Join Unboxed"
+
+header:
+  title: "job"
+  subtitle: "strategic designer"
+
+introduction:
+  title: "At unboxed, design is a team sport"
+  text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector"
+  text_2: "We are looking for a talented and confident strategic designer to join us."
+  image: "/jobs/images/design-meeting.jpg"
+  image_description: "Design team at work"
+
+design_image:
+  image: "/jobs/images/design-image.jpg"
+  image_description: "Examples of unboxed design work"
+
+description:
+  title: "We need someone who"
+  requirements:
+    - Has a breadth of experience several different design disciplines
+    - Is a strategic thinker, comfortable with uncertainty and complexity
+    - Takes a highly collaborative approach, facilitating design within teams
+    - Is a passionate advocate for Design Thinking and Lean and Agile principles
+    - Loves to get out and learn from users, customers and stakeholders
+  image: "/jobs/images/design-outcome.jpg"
+  image_description: "Presenting a design project"
+
+design_quote:
+  quote: "For me, design is as much about attitude as it is about experience or specific expertise. Great looking visuals and considered user journeys are important but I most enjoy working with designers who are open in their thinking and encourage the team to collectively tackle and solve important problems."
+  source: "Martyn Evans, Head of Product"
+  image: "/assets/images/people/martyn-evans.png"
+
+contact_us:
+  title: "Send us your CV"
+  text: "Claire is our people \"gardener\", her analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. Send your CV through to Claire:"
+  email: "iwantajob@unboxed.co"
+  image: "/jobs/images/ubxd-gardener.jpg"
+  image_description: "Our gardener at work"
+---
+
+<header class="page-header">
+  <div class="job-page-header__container">
+    <h1 class="job-page-header__introduction">
+      <%= current_page.data.header.title %>
+      <span> / <%= current_page.data.header.subtitle %></span>
+    </h1>
+  </div>
+</header>
+
+<div class="container--job-page">
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--job-page">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--job-page">
+        <%= current_page.data.introduction.text_2 %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.introduction.image, alt: current_page.data.introduction.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.introduction.image) %>
+    </div>
+  </section>
+
+  <%= image_tag current_page.data.design_image.image, alt: current_page.data.design_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.design_image.image) %>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.description.title %>
+      </h2>
+
+      <ul class="text-tile__list">
+        <% current_page.data.description.requirements.each do |requirement| %>
+          <li class="text-tile__list-item">
+            <%= requirement %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.description.image, alt: current_page.data.description.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.description.image) %>
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <aside class="quote__right-section">
+      <p class="quote__text">
+        <%= current_page.data.design_quote.quote %>
+      </p>
+      <p class="quote__source">
+        <%= current_page.data.design_quote.source %>
+      </p>
+    </aside>
+    <img class="quote__source-image" src="<%= current_page.data.design_quote.image %>" alt="<%= current_page.data.design_quote.source %>"/>
+  </blockquote>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.contact_us.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--job-page">
+        <%= current_page.data.contact_us.text %>
+      </p>
+
+      <p class="text-tile__paragraph--job-page">
+        <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
+    </div>
+  </section>
+</div>

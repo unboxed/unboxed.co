@@ -26,3 +26,18 @@
   }
 }
 
+.container--contact-page {
+  @extend .container--project-stories;
+  padding-left: 0;
+}
+
+.container--job-page {
+  @extend .container--project-stories;
+  padding-left: 0;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 30px;
+    overflow: hidden;
+  }
+}
+
