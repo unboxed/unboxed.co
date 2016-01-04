@@ -47,3 +47,28 @@
     font-size: 1.18em;
   }
 }
+
+.quote__right-section {
+  display: block;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    max-width: 80%;
+  }
+}
+
+.quote__source-image {
+  display: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: block;
+    padding-left: 30px;
+    width: 80px;
+  }
+  @include breakpoint($desktop-breakpoint) {
+    height: 240px;
+    min-width: 120px;
+    padding-left: 30px;
+  }
+}
+
