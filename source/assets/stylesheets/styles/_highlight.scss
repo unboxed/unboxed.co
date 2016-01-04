@@ -194,6 +194,21 @@
   }
 }
 
+.highlight__long-text {
+  @extend .highlight__small-text;
+  margin: 0 auto;
+  max-width: 70%;
+
+  @include breakpoint($max-mobile-container) {
+    max-width: 60%;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    max-width: 80%;
+    padding-bottom: 0;
+  }
+}
+
 .highlight__wide-text {
   font-weight: 300;
   line-height: 1.3;
