@@ -42,5 +42,11 @@ Serving images should be a 'solved' problem, just like it is for 'hosting' or
 authentication. However lots of solutions make poor default suggestions. What
 can we do for our users with 100 lines of code, Sinatra, a single gem and a CDN?
 
-## Track of the Week - [](https://www.unboxedconsulting.com/people/)
+## Track of the Week - [Patrick V](https://www.unboxedconsulting.com/people/patrick-vine)
+
+Goldfish are South African and make a sound that I enjoy, but more importantly my girls love their music videos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cjwoit91SxU" frameborder="0" allowfullscreen></iframe>
+["Get Busy Living" by Goldfish](https://www.youtube.com/watch?v=Cjwoit91SxU)
+
 
