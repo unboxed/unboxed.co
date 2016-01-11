@@ -20,7 +20,7 @@ Now we’ve reached the end of Discovery, I thought it might be worth revisiting
 ## Set out to prove yourself wrong
 
 ![The Unboxed team testing early prototypes with the public](http://i963.photobucket.com/albums/ae115/Ubxd/testing-with-customers-aylesbury_zpsfnlvoqr5.jpg)
-The Unboxed team testing early prototypes with the public
+_The Unboxed team testing early prototypes with the public_
 
 The first principle represents the importance of working directly with customers and applying rigour to your research, looking for genuine insights as opposed to evidence that you are right. It alludes to the Lean Startup principle of fail fast. It’s essential to start somewhere and it doesn’t matter that much where you start but you must be prepared to find out quickly whether you are going in the right direction.
 
@@ -31,7 +31,7 @@ Within a few days of talking to customers we found out that most people didn’t
 ## Create a team that gets stuff done
 
 ![The war room at Buckinghamshire CC with personas and hypotheses on the wall](http://i963.photobucket.com/albums/ae115/Ubxd/war-room_zpsodt628zi.jpg)
-The war room at Buckinghamshire CC with personas and hypotheses on the wall
+_The war room at Buckinghamshire CC with personas and hypotheses on the wall_
 
 If you want to make maximum progress with a limited budget, you need to put together a small team of really smart agile people. You need to get them aligned around a common goal and give them what they need - permission, access, environment - to do what they do best.
 
@@ -42,7 +42,7 @@ We need to find a better space with more visibility to the rest of the organisat
 ## Communicate openly and frequently
 
 ![Metrics slide from show and tell](http://i963.photobucket.com/albums/ae115/Ubxd/show-and-tell_zpsbjhnwouj.jpg)
-Metrics slide from the Show & Tell
+_Metrics slide from the Show & Tell_
 
 In order to get buy-in, you have to gain peoples’ trust, especially those key stakeholders who can make or break your project. And the best way to do this in my experience is to bare your soul. Be open and transparent in everything you do. Show your working. Show your progress, even when you haven’t made any.
 
