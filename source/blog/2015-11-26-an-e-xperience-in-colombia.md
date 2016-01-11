@@ -10,6 +10,7 @@ title: "An E-xperience in Colombia"
 
 
 
+
 ##Public Digital Innovation
 I received a surprise invitation in September from Angelica Bello ([@hracangie](https://twitter.com/Huracangie)) from the Colombian Ministry of ITC ([@Ministerio_TIC](https://twitter.com/Ministerio_TIC)) to speak at their annual [e-xperience](http://experience.gobiernoenlinea.gov.co/) event ([@Gobiernoenlinea](https://twitter.com/Gobiernoenlinea)). This two day conference is designed to boost public digital innovation in Colombia and Latin America by providing around 300 public servants with a series of talks and workshops. Angelica had attended my talk on [SH:24](https://sh24.org.uk/) at Service Design in Government in London earlier in the year and felt it would provide an inspiring session.
 
@@ -20,7 +21,9 @@ Two months later, I arrived in the mountainous coffee region of Colombia in the 
 ##A Translated E-xperience
 We spent an interesting couple of days at the conference trying to keep pace with the workshops and talks, embarrassed by our atrocious linguistic skills and extremely grateful for the work of the translation team and the various English/Spanish speakers who helped us out. Special thanks go to our fellow guests Jean Barroca ([@jeanbarroca](https://twitter.com/jeanbarroca)) from the World Bank and Elisabeth Leegwater ([@lizBCN](https://twitter.com/lizBCN)) who effortlessly managed to deliver their own contributions in Spanish (a second language for them both) whilst making sure the two English guys were keeping up (in a third language).
 
-![](http://i963.photobucket.com/albums/ae115/Ubxd/martyn-chris-interpreted_zpsquxyiatp.jpg)
+![Martyn Evans speaking about digital service design in Colombia](http://i963.photobucket.com/albums/ae115/Ubxd/http://i963.photobucket.com/albums/ae115/Ubxd/martyn-speaking-colombia_zpscahcr9us.jpg)
+
+![Martyn Evans and Chris Howroyd in Manizales, Colombia](http://i963.photobucket.com/albums/ae115/Ubxd/martyn-chris-interpreted_zpsquxyiatp.jpg)
 
 ##Common Values
 Above all, what I learned about Colombia from the conference is this:
