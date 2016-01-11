@@ -11,7 +11,6 @@ published: true
 title: Learning in Local Government through Discovery
 ---
 
-## Learning in local government through discovery
 At a recent [Unboxed event](http://unboxed.co/blog/event-the-50k-springboard/) we invited speakers to talk about how to use the first £50k of a budget to make the case for spending the next £500k. My own contribution was to invite people to concentrate on three principles to help demonstrate value quickly and take your stakeholders on a ride they don’t want to get off.
 
 I predominantly illustrated my talk with examples of work we’ve done with Pearson, Reed Learning, The Ministry of Justice and SH:24 but whilst preparing the talk, I was also working with a small team at Buckinghamshire County Council to run a Discovery phase around two digital services.
@@ -21,7 +20,7 @@ Now we’ve reached the end of Discovery, I thought it might be worth revisiting
 ## Set out to prove yourself wrong
 
 ![The Unboxed team testing early prototypes with the public](http://i963.photobucket.com/albums/ae115/Ubxd/testing-with-customers-aylesbury_zpsfnlvoqr5.jpg)
-_The Unboxed team testing early prototypes with the public_
+The Unboxed team testing early prototypes with the public
 
 The first principle represents the importance of working directly with customers and applying rigour to your research, looking for genuine insights as opposed to evidence that you are right. It alludes to the Lean Startup principle of fail fast. It’s essential to start somewhere and it doesn’t matter that much where you start but you must be prepared to find out quickly whether you are going in the right direction.
 
@@ -32,7 +31,7 @@ Within a few days of talking to customers we found out that most people didn’t
 ## Create a team that gets stuff done
 
 ![The war room at Buckinghamshire CC with personas and hypotheses on the wall](http://i963.photobucket.com/albums/ae115/Ubxd/war-room_zpsodt628zi.jpg)
-_The war room at Buckinghamshire CC with personas and hypotheses on the wall_
+The war room at Buckinghamshire CC with personas and hypotheses on the wall
 
 If you want to make maximum progress with a limited budget, you need to put together a small team of really smart agile people. You need to get them aligned around a common goal and give them what they need - permission, access, environment - to do what they do best.
 
@@ -43,7 +42,7 @@ We need to find a better space with more visibility to the rest of the organisat
 ## Communicate openly and frequently
 
 ![Metrics slide from show and tell](http://i963.photobucket.com/albums/ae115/Ubxd/show-and-tell_zpsbjhnwouj.jpg)
-_Metrics slide from the Show & Tell_
+Metrics slide from the Show & Tell
 
 In order to get buy-in, you have to gain peoples’ trust, especially those key stakeholders who can make or break your project. And the best way to do this in my experience is to bare your soul. Be open and transparent in everything you do. Show your working. Show your progress, even when you haven’t made any.
 
