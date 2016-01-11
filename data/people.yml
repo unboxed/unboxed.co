@@ -9,6 +9,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/richardstobart"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/richardstobart"
 
 - name: "Carlo Kruger"
   short_name: "carlo-kruger"
@@ -19,6 +21,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/ironicbuddha"
+    - name: "LinkedIn"
+      link: "https://za.linkedin.com/in/carlokruger"
 
 - name: "Andrew White"
   short_name: "andrew-white"
@@ -30,6 +34,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/pixeltrix"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/pixeltrix"
     - name: "GitHub"
       link: "https://github.com/pixeltrix"
 
@@ -42,6 +48,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/misssarahbeck"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/sarah-beck-7bab2433"
 
 - name: "Martyn Evans"
   short_name: "martyn-evans"
@@ -53,6 +61,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/martynrevans"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/martynrevans"
 
 - name: "Claire Kemp"
   short_name: "claire-kemp"
@@ -63,6 +73,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/clairekmp"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/claire-kemp-0a54089"
 
 - name: "Murray Steele"
   short_name: "murray-steele"
@@ -73,6 +85,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/hlame"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/hlame"
     - name: "GitHub"
       link: "https://github.com/h-lame"
 
@@ -87,6 +101,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/CBedingfield"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/carriebedingfield"
 
 - name: "Leon Odey Knight"
   short_name: "leon-odey-knight"
@@ -97,6 +113,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/leonintheblind"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/leon-odey-knight-8029638"
 
 - name: "Steve Lennon"
   short_name: "steve-lennon"
@@ -104,6 +122,9 @@
   email: "steve.lennon"
   bio: |
     I have consultancy experience and a diverse skill set with experience across both the IT delivery lifecycle and IT operations. I have strong analytical and management skills and plenty of experience working in a variety of contexts from strategy development through to technology delivery. I have been at Unboxed since April 2008 working primarily in the finance sector.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/steve-lennon-2bb64555"
 
 - name: "Chris Carter"
   short_name: "chris-carter"
@@ -114,6 +135,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/haironfire907"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/chris-carter-163a5926"
     - name: "GitHub"
       link: "https://github.com/chriscarter90"
 
@@ -149,6 +172,8 @@
     After discovering a world of endless possibilities within programming I decided to switch career. I went from running my own work & travel agency to full time developer!
     I'm constantly inquisitive and love exploring London. Black coffee addict, yerba mate and green tea enthusiast; I make bread and support ice hockey in my down time.
   social_networks:
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/paula-stepinska-0284a6100"
     - name: "GitHub"
       link: "https://github.com/mybits"
 
@@ -158,6 +183,9 @@
   email: "ben.wong"
   bio: |
     Ten years ago I started my first job - shoring up a failing project in a failing dot com. Ever since then I've been helping people with projects that are in trouble, and in doing so, learnt a lot about agile methods and how they can help a struggling project. If you have a problem, if no one else can help, and if you can find us, maybe you can hire... unboxed
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/ben-wong-45876a1"
 
 - name: "Richard Archer"
   short_name: "richard-archer"
@@ -176,7 +204,9 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/GramMcCram"
-      name: "GitHub"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/gmccubbin"
+    - name: "GitHub"
       link: "https://github.com/GramMcCram"
 
 - name: "Tim Higgins"
@@ -196,6 +226,9 @@
   email: "grant.speelman"
   bio: |
     Unboxed Consulting is exactly that - Unboxed. Innovative and fresh. Up-to-date Ruby developments and energized team work keeps me inspired and motivated. Making the shift to work here, has allowed me to be at the forefront of professional development and the expansion of my career choice. True to my personality, at this company room is made for some serious work, some serious play and cutting edge programming / mobile development.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://za.linkedin.com/in/gspeelman"
 
 - name: "Tyrone Toplis"
   short_name: "tyrone-toplis"
@@ -203,6 +236,9 @@
   email: "tyrone.toplis"
   bio: |
     Experience in marketing, fleet management, security and payroll systems both as a developer and tester (.net - sorry) I now find myself in a new business sphere analyzing, testing and coding (just a tad) with all you crazy ruby and rails cats.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://za.linkedin.com/in/tyrone-toplis-85253020"
 
 - name: "Concetta Isolano"
   short_name: "concetta-isolano"
@@ -210,6 +246,9 @@
   email: "concetta.isolano"
   bio: |
     I herd cats and dogs both at home and at the Unboxed Cape Town office. My job entails everything from care and feeding of developers to wrangling accounts. I make sure that no stickies are out of place in the stationery cupboard and that the developers don't go into caffeine withdrawal. In my free time I love Xbox, graphic novels and harassing my better half. This is me.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://za.linkedin.com/in/concetta-isolano-89a88251"
 
 - name: "Jolie Lanser"
   short_name: "jolie-lanser"
@@ -217,6 +256,9 @@
   email: "jolie.lanser"
   bio: |
     Coming from an Academic background with a career in ICT behind me, I discovered a passion for Agile practices and became a Certified Scrum Master. My approach is empathetic, collaborative and forthright and I pride myself on obstacle removal and on enabling individuals and teams to be as productive and as happy as possible.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/jolie-lanser-a93b3210"
 
 - name: "Pawel Janiak"
   short_name: "pawel-janiak"
@@ -254,6 +296,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/oskarpearson"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/oskarpearson"
     - name: "GitHub"
       link: "https://github.com/oskarpearson"
 
@@ -264,6 +308,8 @@
   bio: |
     I enjoy developing; it’s more of a hobby than a career. My time at Unboxed has helped me gain more knowledge and understanding and recuperate myself to be a superior developer! Working in an agile environment is a supreme pleasure as we can see outcomes of our work so soon which makes work seem so rewarding.
   social_networks:
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/jack-bracewell-874a8564"
     - name: "GitHub"
       link: "https://github.com/FriedSock"
 
@@ -276,6 +322,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/patrick_vine"
+    - name: "LinkedIn"
+      link: "https://za.linkedin.com/in/patrick-vine-500343"
     - name: "GitHub"
       link: "https://github.com/patrickvine"
 
@@ -306,6 +354,9 @@
   bio: |
     I cut my teeth on a massive Open Source roll out in South Africa, with a split focus between development and dev-ops. It became obvious that I enjoyed the development side far more. So here I am now, at Unboxed, to focus my time on energy on what I enjoy the most.
     In my off time I enjoy the outdoors, having a braai, watching documentaries and finding new music.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://za.linkedin.com/in/clive-corbishley-b2708457"
 
 - name: "Tyler Savin"
   short_name: "tyler-savin"
@@ -317,8 +368,8 @@
     In my free time I enjoy writing music.
     When the evening approaches I make sure I’m cooking up a great meal
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/TylerSavin"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/tyler-savin-6b1b179a"
 
 - name: "Anson Kelly"
   short_name: "anson-kelly"
@@ -328,6 +379,8 @@
     Kiwi Software developer that enjoys building immersive solutions to technical problems.
     In my spare time I am not laptop bound I enjoy travelling, diving, skiing and reading.
   social_networks:
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/anson-kelly-79121026"
     - name: "GitHub"
       link: "https://github.com/ansonK"
 
@@ -339,3 +392,6 @@
     I’m the UX and visual designer at the Cape Town office.
     I love the satisfying, brain-bending challenge of creating order from chaos, and topping it off with strategically placed sparkles to produce something delightful.
     In my free time I can be found hiking, diving, exploring, and generally adventuring around the universe.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://za.linkedin.com/in/willaroos"
