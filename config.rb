@@ -29,9 +29,6 @@ data.people.each do |person|
     locals: { author_name: person.name }, ignore: true
 end
 
-# With no layout
-page "/google5ee6227d3e21385b.html", :layout => false
-
 ignore '/templates/*'
 ignore '/partials/*'
 ignore '/**/README.md'
