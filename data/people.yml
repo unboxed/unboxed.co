@@ -39,6 +39,9 @@
   email: "sarah.beck"
   bio: |
     I started out as a Scrum Master but have since moved into client facing roles and account management, applying my wide range of skills to a variety of different projects. In my spare time, I enjoy skiing and I'm going to organise a ski trip for the office.
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/misssarahbeck"
 
 - name: "Martyn Evans"
   short_name: "martyn-evans"
@@ -91,6 +94,9 @@
   email: "leon.odey-knight"
   bio: |
     A creative with a curious, provocative mind and a singular vision; To shape the future of our digital world working with like minded thinkers unable to resist asking themselves 'what if...'.
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/leonintheblind"
 
 - name: "Steve Lennon"
   short_name: "steve-lennon"
@@ -167,6 +173,11 @@
   bio: |
     I’m Graeme, the Marketing Co-ordinator here at Unboxed Consulting. I'm passionate about communication and all things digital. Never afraid to be creative - who knows where it might lead?
     In my free time, I love to explore and enjoy cooking up a storm in the kitchen.
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/GramMcCram"
+      name: "GitHub"
+      link: "https://github.com/GramMcCram"
 
 - name: "Tim Higgins"
   short_name: "tim-higgins"
@@ -192,21 +203,6 @@
   email: "tyrone.toplis"
   bio: |
     Experience in marketing, fleet management, security and payroll systems both as a developer and tester (.net - sorry) I now find myself in a new business sphere analyzing, testing and coding (just a tad) with all you crazy ruby and rails cats.
-
-- name: "Heidi Geisler"
-  short_name: "heidi-geisler"
-  role: "Scrum master"
-  email: "heidi.geisler"
-  bio: |
-    I am the Cape Town office ScrumMaster. My days are spent facilitating planning sessions, backlog grooming, sprint reviews, retrospectives and daily stand up's with the 3 teams in our office. In my spare time I enjoy making good use of Cape Town's beaches, hikes, walks, rivers, wine farms and restaurants, as well as planning my next holiday and renovating my home.
-
-- name: "Jon Normington"
-  short_name: "jon-normington"
-  role: "Tester"
-  email: "jon.normington"
-  bio: |
-    Coming with over 7 years working in the broadcast industry, I had the ability to work in a multitude of technical roles. What I enjoyed the most was scripting (bash, VBScript, Perl) automating business processes, reporting with SQL, and well bullying developers with bugs that should never have been!
-    In the end, understanding my strengths I pursued testing with the aim of automation as my priority.
 
 - name: "Concetta Isolano"
   short_name: "concetta-isolano"
@@ -245,6 +241,9 @@
   email: "alan.thomas"
   bio: |
     Having spent 10 years working in a Waterfall environment, I've now joined Unboxed and have been welcomed to the world of Agile. Seeing results in hours/days is such a contrast to months and even years!
+  social_networks:
+    - name: "GitHub"
+      link: "https://github.com/alanth"
 
 - name: "Oskar Pearson"
   short_name: "oskar-pearson"
@@ -264,6 +263,9 @@
   email: "jack.bracewell"
   bio: |
     I enjoy developing; it’s more of a hobby than a career. My time at Unboxed has helped me gain more knowledge and understanding and recuperate myself to be a superior developer! Working in an agile environment is a supreme pleasure as we can see outcomes of our work so soon which makes work seem so rewarding.
+  social_networks:
+    - name: "GitHub"
+      link: "https://github.com/FriedSock"
 
 - name: "Patrick Vine"
   short_name: "patrick-vine"
@@ -337,11 +339,3 @@
     I’m the UX and visual designer at the Cape Town office.
     I love the satisfying, brain-bending challenge of creating order from chaos, and topping it off with strategically placed sparkles to produce something delightful.
     In my free time I can be found hiking, diving, exploring, and generally adventuring around the universe.
-
-- name: "Otto Laitila"
-  short_name: "otto-laitila"
-  role: "Developer"
-  email: "otto.laitila"
-  bio: |
-    I’m a developer with a background in business and entrepreneurship. I love to code and understand that building successful software products is so much more than writing a few lines of code.
-    When not coding or learning new stuff, you’ll find me cooking, running or perhaps kite surfing!
