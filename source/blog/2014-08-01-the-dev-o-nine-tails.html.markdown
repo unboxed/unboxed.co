@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-## Monoliths vs. microservices - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+## Monoliths vs. microservices - [Murray](/people/murray-steele)
 
 http://highscalability.com/blog/2014/7/28/the-great-microservices-vs-monolithic-apps-twitter-melee.html
 

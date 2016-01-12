@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Using Slack to work differently and better - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Using Slack to work differently and better - [Dom M](/people/dominic-mason)
 
 http://www.niemanlab.org/2015/07/how-7-news-organizations-are-using-slack-to-work-better-and-differently/
 
@@ -44,19 +44,19 @@ http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance/
 
 Richard Schneeman used the new Heroku metrics platform to provide insight on what are the typical performance and memory bottlenecks in Rails apps and then sent in a pull request that gives a greater than 10% performance boost and a 29% decrease in the number of allocated objects per request. The great thing is that the tools he used are all open source so you can use them to identify areas where you can boost the performance of your app too.
 
-## Twitter spats resemble paint splats - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Twitter spats resemble paint splats - [Dom M](/people/dominic-mason)
 
 http://www.technologyreview.com/view/539856/this-is-what-controversies-look-like-in-the-twittersphere/
 
 A new way of visualising Twitter disagreements creates little 'fireworks' from explosive conversations
 
-## Chief architect of 'Government as a service' to departs GDS, leaves potent legacy - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Chief architect of 'Government as a service' to departs GDS, leaves potent legacy - [Dom M](/people/dominic-mason)
 
 https://gds.blog.gov.uk/2015/08/03/onwards/
 
 Mike Bracken has implemented huge changes in the way the UK Government delivers digital services, winning design awards for minimalistic government sites, and influencing Canadian, Australian, American, other governments in the process. Here's his farewell blog, in his usual low-key style.
 
-## Track of the Week - [Willa](http://www.unboxedconsulting.com/people/willa-roos)
+## Track of the Week - [Willa](/people/willa-roos)
 
 This is a quirky set of ambient-ish electronic tunes. Not dissimilar to elevator music at times, but with a unique sound that makes you go, "hey, this is kinda cool!"
 

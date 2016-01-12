@@ -10,7 +10,7 @@ tags:
 
 Last week's dev newsletter is exclusively available from...today. Enjoy!
 
-##Ruby Manor 4 ([Matt P](http://www.unboxedconsulting.com/people/matt-peperell))
+##Ruby Manor 4 ([Matt P](/people/matt-peperell))
 A Ruby conference based in London due to take place on April 6th. See you there!
 [http://lanyrd.com/2013/ruby-manor/](http://lanyrd.com/2013/ruby-manor/)
 ##The Accessibility Project (Steve)
@@ -40,7 +40,7 @@ We invite creative practitioners to imagine and design a future monetary based c
 Absolutely pointless time killer, but that's exactly what makes a game a good one. Resize your browser once, and you're lost in this HTML/JS/CSS game forever :)
 [http://maximin.tv/srm/](http://maximin.tv/srm/)
 
-##قلب  - ([Matt P](http://www.unboxedconsulting.com/people/matt-peperell))
+##قلب  - ([Matt P](/people/matt-peperell))
 Here's a language called  قلب  (written as qlb in English) which is designed entirely in Arabic.  Yes, this means it's written right-to-left. [Way to go!](http://qlblang.org/)
 
 

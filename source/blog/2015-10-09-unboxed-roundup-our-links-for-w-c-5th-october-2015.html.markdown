@@ -8,13 +8,13 @@ tags:
 
 ---
 
-## Is writing bug free software too expensive? - [Alan T](http://www.unboxedconsulting.com/people/alan-thomas)
+## Is writing bug free software too expensive? - [Alan T](/people/alan-thomas)
 
 http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/
 
 Can you write bug free code? The short answer is yes, but is it actually worth it?
 
-## 7 agile 'best practices' - [Patrick V](http://www.unboxedconsulting.com/people/patrick-vine)
+## 7 agile 'best practices' - [Patrick V](/people/patrick-vine)
 
 http://www.estherderby.com/2015/10/seven-agile-best-practices.html
 

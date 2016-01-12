@@ -7,7 +7,7 @@ tags:
   - Rails
 ---
 
-[Chris C](http://www.unboxedconsulting.com/people/chris-carter), Veronika H and I attended jQuery's 2014 conference in Oxford. Between the three of us, we could cover quite a lot of different talks that were available on the day. This blog post is just a slice of some of the talks we attended that day.
+[Chris C](/people/chris-carter), Veronika H and I attended jQuery's 2014 conference in Oxford. Between the three of us, we could cover quite a lot of different talks that were available on the day. This blog post is just a slice of some of the talks we attended that day.
 
 ---
 

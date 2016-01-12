@@ -8,13 +8,13 @@ tags: # (Delete as appropiate)
 
 ---
 
-## Mesmerising starling flock - [Tom S](http://www.unboxedconsulting.com/people/tom-sabin)
+## Mesmerising starling flock - [Tom S](/people/tom-sabin)
 
 http://io9.com/get-lost-in-this-mesmerizing-timelapse-of-starlings-in-1693879603
 
 Starling murmurations are some of nature's eeriest and most impressive displays. But something about the in-flight behaviour of this geometrically synched flock in Scotland is particularly transfixing.
 
-## Free SSL certificates - [Alan](http://www.unboxedconsulting.com/people/alan-thomas)
+## Free SSL certificates - [Alan](/people/alan-thomas)
 
 https://letsencrypt.org/
 

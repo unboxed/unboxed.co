@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Content design explained - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Content design explained - [Dom M](/people/dominic-mason)
 
 http://www.fullstopnewparagraph.co.uk
 
@@ -20,19 +20,19 @@ http://now-here-this.timeout.com/2015/05/28/meet-londons-most-terrifying-new-sta
 
 Sculpted over two years by Russian artist Dashi Namdakov and now at home in Marble Arch. It’s London’s newest statue and is sure to be a head turner.
 
-## 'Yoof' digital media consumption stats - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## 'Yoof' digital media consumption stats - [Dom M](/people/dominic-mason)
 
 http://stakeholders.ofcom.org.uk/market-data-research/other/cross-media/digital-day/2014/digital-day-childrens
 
 It's simple to make assumptions about how young people consume digital media... but here's a diary-based study of their actual habits.
 
-## Who isn't getting your JS? - [Alex B](http://www.unboxedconsulting.com/people/alex-bobin)
+## Who isn't getting your JS? - [Alex B](/people/alex-bobin)
 
 https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/
 
 Handy research from GDS to inform your discussions/debates on how to handle users without JavaScript
 
-## Can local gov follow digi lead of central gov? - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Can local gov follow digi lead of central gov? - [Dom M](/people/dominic-mason)
 
 http://www.theguardian.com/public-leaders-network/2014/sep/08/local-government-digital-service-gds
 
@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=2Kz-OXB3qvw
 
 I loved this. Something I always hoped would happen as a child. Lots of ways this could be used for on the ground training and development not just gaming...although it is great!
 
-## Seven future web design trends - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Seven future web design trends - [Dom M](/people/dominic-mason)
 
 https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355
 

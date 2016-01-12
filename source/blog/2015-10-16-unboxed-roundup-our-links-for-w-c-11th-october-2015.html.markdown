@@ -8,7 +8,7 @@ tags:
 
 ---
 
-## `matchMedia` is more efficient than `.resize()` - [Tom S](http://www.unboxedconsulting.com/people/tom-sabin)
+## `matchMedia` is more efficient than `.resize()` - [Tom S](/people/tom-sabin)
 
 https://jsperf.com/matchmedia-vs-resize/3
 
@@ -20,7 +20,7 @@ http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 
 I still haven't decided if these visualisations in the article are more helpful or distracting, but they are awesome and worth checking even if machine learning is not your cup of tea.
 
-## LIDAR model of the UK - [Henry T](http://www.unboxedconsulting.com/people/henry-turner)
+## LIDAR model of the UK - [Henry T](/people/henry-turner)
 
 https://environmentagency.blog.gov.uk/2015/09/18/laser-surveys-light-up-open-data/
 

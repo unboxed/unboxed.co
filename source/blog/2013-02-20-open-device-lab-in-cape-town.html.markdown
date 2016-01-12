@@ -30,7 +30,7 @@ In the months that followed, [other device labs](http://adactio.com/journal/5622
 
 <img src="https://dl.dropbox.com/u/3831832/device-lab-at-ubxd.jpg" alt="A selection of mobile devices" />
 
-After many months of bouncing around various venues around town, the Nomad Device Lab now has a permanent home at [Unboxed Consulting in Cape Town](http://www.unboxedconsulting.com/contact). At the time of writing, the lab is the only Open Device Lab in Cape Town. In fact, it's the only one in Africa!
+After many months of bouncing around various venues around town, the Nomad Device Lab now has a permanent home at [Unboxed Consulting in Cape Town](/contact). At the time of writing, the lab is the only Open Device Lab in Cape Town. In fact, it's the only one in Africa!
 
 We would love to have you come by to test your work across [our range of devices](http://devicelab.co.za/the-lab.php#devicesinthelab) at our community lab. If you have any old devices lying around that aren't being used, it would be fantastic if you could donate them to the lab.
 

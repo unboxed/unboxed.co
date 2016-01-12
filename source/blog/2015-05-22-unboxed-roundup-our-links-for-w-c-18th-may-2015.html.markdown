@@ -20,7 +20,7 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## The great progressive enhancement debate (again) - [Murray S](http://www.unboxedconsulting.com/people/murray-steele)
+## The great progressive enhancement debate (again) - [Murray S](/people/murray-steele)
 
 * http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/
 * https://medium.com/@AaronGustafson/the-true-cost-of-progressive-enhancement-d395b6502979

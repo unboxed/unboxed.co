@@ -21,7 +21,7 @@ tags:
 <p>The card sets usually come with a question mark which should be used when you have no idea what the estimate entails, and often there is some sort of break card which you can use to indicate that you think you have been estimating for a long time and need some refreshment or some other type of break, you can play this card.</p>
 <p>This version also allows you to define a custom card set if you use a number sequence we don&#39;t support. The custom set cards are not just restricted to numbers. So you could use it if you prefer t-shirt sizes. To get the cup picture for a break you need to enter &quot;break?&quot; into the card. In the actual card set it will be displayed as the cup.</p>
 <p>Our Planning Poker application wont make your estimates more accurate. But we hope it makes the process a bit easier and more fun.</p>
-<p>If you haven&#39;t got an iPhone, or just prefer a set of physical cards we can help there too. <a href="http://www.unboxedconsulting.com/contact">Contact us</a> if you want more details.</p>
+<p>If you haven&#39;t got an iPhone, or just prefer a set of physical cards we can help there too. <a href="/contact">Contact us</a> if you want more details.</p>
 <p>The key thing to remember:</p>
 <p>It&#39;s an Estimate</span></p>
 

@@ -11,7 +11,7 @@ tags:
   - Lean
 ---
 
-#[Richard Stobart](http://www.unboxedconsulting.com/people/richard-stobart)
+#[Richard Stobart](/people/richard-stobart)
 
 ##Still not on Rails 3?
 You will need to bite the bullet sooner or later and sooner is better than later in most cases.  Have a look at Simon Carletti's post for some useful hints and tips. http://www.simonecarletti.com/blog/2010/07/the-way-to-rails-3/
@@ -47,7 +47,7 @@ https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/a047be85247755cdbe
 
 ---
 
-#[Pawel J](http://www.unboxedconsulting.com/people/pawel-janiak)
+#[Pawel J](/people/pawel-janiak)
 
 ##Top sites built on rails
 https://netguru.co/blog/posts/top-10-sites-built-with-ruby-on-rails

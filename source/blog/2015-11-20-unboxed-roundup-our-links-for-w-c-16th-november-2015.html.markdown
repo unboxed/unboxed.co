@@ -8,19 +8,19 @@ tags: # (Delete as appropriate)
 
 ---
 
-## A conversation about HTTP2 - [Patrick V](http://www.unboxedconsulting.com/people/patrick-vine)
+## A conversation about HTTP2 - [Patrick V](/people/patrick-vine)
 
 http://www.se-radio.net/2015/07/episode-232-mark-nottingham-on-http2/
 
 An interesting podcast conversation with one of the people involved in making HTTP2 happen.  They talk through some of the history and some of the technical details.  If you know very little about http2 and want to know more, this is a great listen to understand the basics of the whys, the whats and possibly a little about what it might mean to you.
 
-## Microsoft to drop support for IE8 - [Tom S](http://www.unboxedconsulting.com/people/tom-sabin)
+## Microsoft to drop support for IE8 - [Tom S](/people/tom-sabin)
 
 http://blogs.msdn.com/b/ie/archive/2014/08/07/stay-up-to-date-with-internet-explorer.aspx
 
 Perhaps I’m a little late to the party but Internet Explorer is slowly being killed off. Announced in August 2014, Microsoft plan to end support for IE8 on 12th January 2016.
 
-## The power of user research - [Murray S](http://www.unboxedconsulting.com/people/murray-steele)
+## The power of user research - [Murray S](/people/murray-steele)
 
 https://medium.com/uie-brain-sparks/the-300-million-button-76b566ae5f73#.a906gzxe2
 

@@ -34,7 +34,7 @@ RVM is 5 years old.  It started off being written in shell - and it still is now
 
 Who knew that ruby had a === operator? it's not like the triple-equals operator of JavaScript or PHP - instead of identity, this ruby operator can be considered to be a kind of match operator. What's meant by this is up to the object class to decide, but there are a couple of examples in the article.
 
-## Software Archaeology Conference - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+## Software Archaeology Conference - [Murray](/people/murray-steele)
 
 [The First International Conference on Software Archaeology](http://www.ticosa.org/) looks like an interesting conference coming to London early next year.  This appeals to me because:
 
@@ -42,7 +42,7 @@ Who knew that ruby had a === operator? it's not like the triple-equals operator 
   2. It's not a conference about a specific technology; it's good to be exposed to approaches used by other people working with other tech-stacks and in different fields,
   3. One of my close friends is an *actual* archaeologist and I'd like to blow his mind by saying I'm going to an archaeology conference
 
-## Better BDD with RSpec Best Practice - [Richard Stobart](http://www.unboxedconsulting.com/people/richard-stobart)
+## Better BDD with RSpec Best Practice - [Richard Stobart](/people/richard-stobart)
 
 The [Better Specs](http://betterspecs.org) site gives us a handy best practice set of rules for writing better RSpec that concentrates on the "How" rather than the "What".  It's a nicely presented site.  We would be interested in whether you agree with all their best practices.
 

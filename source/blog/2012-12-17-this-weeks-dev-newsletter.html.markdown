@@ -27,7 +27,7 @@ http://nic.ferrier.me.uk/blog/2010_10/elnode
 
 ## Removal of `like` and `not_like` from Rails 4 (Murray)
 
-As a follow up to [our previous newsletter](http://www.unboxedconsulting.com/blog/cucumbers-missed-high-fives-dancing-hungarians-and-more):
+As a follow up to [our previous newsletter](/blog/cucumbers-missed-high-fives-dancing-hungarians-and-more):
 
 They've removed the like and not_like operators from Rails 4 because of <%= reasons %>.  Oh well.  There's always gems like [Squeel](https://github.com/ernie/squeel), shame we can't have a richer API exposed directly in ActiveRecord in core though (even if it is probably available by dropping down to Arel).
 
