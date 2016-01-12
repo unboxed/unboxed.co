@@ -5,7 +5,7 @@ tags:
   - Design
   - Innovation
   - Lean
-main_image: "http://i963.photobucket.com/albums/ae115/Ubxd/street_health_checker_home_zpsw32578l0.jpg"
+main_image: "http://i963.photobucket.com/albums/ae115/Ubxd/street_health_checker_home_zpslwymcbxo.jpg"
 date: "2016-01-11 17:32 +0000"
 published: true
 title: Learning in Local Government through Discovery
@@ -23,8 +23,8 @@ The first principle represents the importance of working directly with customers
 
 One of the services we started to look at in Bucks was a better method for members of the public to report “defects” in the road - potholes to you and I. The council had already taken a couple of cracks at this including a discontinued mobile app and a section of their website that collects info from the public and squirts it straight into the council’s asset management system.
 
-![The Unboxed team testing early prototypes with the public](http://i963.photobucket.com/albums/ae115/Ubxd/testing-with-customers-aylesbury_zpsfnlvoqr5.jpg)
-_The Unboxed team testing early prototypes with the public_
+![The Unboxed team testing early prototypes with the public](http://i963.photobucket.com/albums/ae115/Ubxd/testing-with-customers-aylesbury_zpspcivrshr.jpg)
+__The Unboxed team testing early prototypes with the public__
 
 Within a few days of talking to customers we found out that most people didn’t care so much about a “better way to report defects”. What they wanted was a sense that the council would actually repair the potholes (or street lights, damaged grass verges, uneven pavements, etc.) that were reported. Now we happened to know that the council repairs a lot of potholes but somehow the public just don’t think they care. The challenge we actually face is how to get the data out of those internal management systems to give back to the public in a meaningful way. Matthew Cain has written about this learning on [his blog](http://matthewcain.co.uk/digitalbucks/customer-insight-that-changes-your-mind/ "Matthew Cain on learning through user research").
 
@@ -36,8 +36,8 @@ Council offices around the company look pretty much the same in my experience an
 
 We need to find a better space with more visibility to the rest of the organisation (and please more natural light) but in that bunker the team has amassed a load of shared learning which will only increase as the team grows and moves into Alpha.
 
-![The war room at Buckinghamshire CC with personas and hypotheses on the wall](http://i963.photobucket.com/albums/ae115/Ubxd/war-room_zpsodt628zi.jpg)
-_The war room at Buckinghamshire CC with personas and hypotheses on the wall_
+![The war room at Buckinghamshire CC with personas and hypotheses on the wall](http://i963.photobucket.com/albums/ae115/Ubxd/war-room_zpst4mbs5ri.jpg)
+__The war room at Buckinghamshire CC with personas and hypotheses on the wall__
 
 ## Communicate openly and frequently
 
@@ -45,8 +45,8 @@ In order to get buy-in, you have to gain peoples’ trust, especially those key 
 
 Our little room was the visible representation of the work we were doing. Anyone that visited for a collaborative design studio session or workshop could see our thoughts on the wall and go and tell others about it. Every couple of weeks we put together a presentation that anyone from the team could run through with anyone who would listen. 
 
-![Metrics slide from show and tell](http://i963.photobucket.com/albums/ae115/Ubxd/show-and-tell_zpsbjhnwouj.jpg)
-_Metrics slide from the Show & Tell_
+![Metrics slide from show and tell](http://i963.photobucket.com/albums/ae115/Ubxd/show-and-tell_zpscy0dds0s.jpg)
+__Metrics slide from the Show & Tell__
 
 But the challenge is great in large organisations, especially in the current climate of budget cuts and spending freezes. People equate digital transformation with cost savings and reduced headcount and are suspicious of a team formed to accelerate change. For every person we found that wanted to engage, we found another who didn’t want to play. And some of the latter were the gate-keepers to people we needed on our side. The lack of access to key stakeholders has meant we haven’t found out as much about the existing services as we would have liked but by remaining open, we have begun to win them over. The scope of alpha is still less clear than we’d like but we do have a way forward and we’ll continue to share our learnings with anyone who’ll listen.
 
