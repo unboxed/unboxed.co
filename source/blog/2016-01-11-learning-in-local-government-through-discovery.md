@@ -11,6 +11,11 @@ published: true
 title: Learning in Local Government through Discovery
 ---
 
+
+There’s a lot of content available online about doing agile with local councils - talks, conferences, case studies, white papers, etc. A lot of content guiding us to knowing what this _should_ look like. But what does this **really** look like in practice?
+
+We’ve recently partnered with Buckinghamshire County Council in the Discovery phase to digitally transform their current services. This short blog series aims to uncover and explore what it looks like when one of our cross-functional agile teams partners and co-locates with a local council. What are the daily challenges faced? How does the team overcome these? What are the highs and lows of partnering on a public sector project? Here’s the first look through the keyhole… 
+
 At a recent [Unboxed event](http://unboxed.co/blog/event-the-50k-springboard/) we invited speakers to talk about how to use the first £50k of a budget to make the case for spending the next £500k. My own contribution was to invite people to concentrate on three principles to help demonstrate value quickly and take your stakeholders on a ride they don’t want to get off.
 
 I predominantly illustrated my talk with examples of work we’ve done with Pearson, Reed Learning, The Ministry of Justice and SH:24 but whilst preparing the talk, I was also working with a small team at Buckinghamshire County Council to run a Discovery phase around two digital services.
@@ -51,4 +56,3 @@ Our little room was the visible representation of the work we were doing. Anyone
 But the challenge is great in large organisations, especially in the current climate of budget cuts and spending freezes. People equate digital transformation with cost savings and reduced headcount and are suspicious of a team formed to accelerate change. For every person we found that wanted to engage, we found another who didn’t want to play. And some of the latter were the gate-keepers to people we needed on our side. The lack of access to key stakeholders has meant we haven’t found out as much about the existing services as we would have liked but by remaining open, we have begun to win them over. The scope of alpha is still less clear than we’d like but we do have a way forward and we’ll continue to share our learnings with anyone who’ll listen.
 
 You can read more about the project on [the team blog](https://hqdigitalblog.wordpress.com/ "Buckingshire HQ Digital team blog").
-
