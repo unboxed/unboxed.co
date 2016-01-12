@@ -9,7 +9,7 @@ tags:
 
 ---
 
-[Martyn Evans](https://www.unboxedconsulting.com/people/martyn-evans) hosted the second in our [SpeedAgile](https://www.unboxedconsulting.com/news/the-speed-agile-webinar-series) webinar series: <i>Speed up problem and customer validation</i>. In this session, Martyn explored how to unlock development by quickly and deeply understand:<br/>
+[Martyn Evans](/people/martyn-evans) hosted the second in our [SpeedAgile](/news/the-speed-agile-webinar-series) webinar series: <i>Speed up problem and customer validation</i>. In this session, Martyn explored how to unlock development by quickly and deeply understand:<br/>
 <br/>
 1. The real problem that your digital product or service needs to solve<br/>
 2. The exact customers who will pay for the solution<br/>
@@ -57,6 +57,6 @@ The session slides:<br/>
 <br/>
 <h1>Join us for the final session:</h1>
 
-We still have one more session in the <i>SpeedAgile</i> webinar series – [get your place now](https://www.unboxedconsulting.com/news/the-speed-agile-webinar-series).<br/>
+We still have one more session in the <i>SpeedAgile</i> webinar series – [get your place now](/news/the-speed-agile-webinar-series).<br/>
 
 If you have any questions on this topic, or any topic similar to this, tweet us with the hashtag [<i>#SpeedAgile</i>](https://twitter.com/hashtag/speedagile?src=hash&vertical=default&f=tweets) at [@Ubxd](https://twitter.com/ubxd), or tweet Martyn directly at [@martynrevans](https://twitter.com/martynrevans) – we’d love to hear from you.

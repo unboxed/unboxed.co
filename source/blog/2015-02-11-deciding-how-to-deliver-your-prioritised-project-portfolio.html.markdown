@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Once you’ve [prioritised your project portfolio using the t-shirt sizing matrix](https://www.unboxedconsulting.com/blog/how-to-prioritise-a-blocked-portfolio-of-digital-products), you’ll need to take some strategic decisions to unstick progress...<br/>
+Once you’ve [prioritised your project portfolio using the t-shirt sizing matrix](/blog/how-to-prioritise-a-blocked-portfolio-of-digital-products), you’ll need to take some strategic decisions to unstick progress...<br/>
 <br/>
 
 <h2>Making decisions about Work In Progress (WIP)</h2>
@@ -39,7 +39,7 @@ Be totally transparent in what you do and how you’re doing it. Create a portfo
 <br/>
 
 <h2>Take a risk-based approach to unlock progress</h2>
-Based on your [prioritisation matrix](https://www.unboxedconsulting.com/blog/how-to-prioritise-a-blocked-portfolio-of-digital-products), look at your first project and ask:
+Based on your [prioritisation matrix](/blog/how-to-prioritise-a-blocked-portfolio-of-digital-products), look at your first project and ask:
 
 • <i>“What is the <b>riskiest</b> thing about this project?”</i><br/>
 • <i>“Is there a technical risk?”</i><br/>

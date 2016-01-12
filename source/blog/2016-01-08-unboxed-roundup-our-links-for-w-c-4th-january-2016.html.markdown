@@ -42,7 +42,7 @@ Serving images should be a 'solved' problem, just like it is for 'hosting' or
 authentication. However lots of solutions make poor default suggestions. What
 can we do for our users with 100 lines of code, Sinatra, a single gem and a CDN?
 
-## Track of the Week - [Patrick V](https://www.unboxedconsulting.com/people/patrick-vine)
+## Track of the Week - [Patrick V](/people/patrick-vine)
 
 Goldfish are South African and make a sound that I enjoy, but more importantly my girls love their music videos.
 

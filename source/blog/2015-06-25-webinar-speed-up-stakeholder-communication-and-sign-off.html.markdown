@@ -9,7 +9,7 @@ tags:
 
 ---
 
-[Richard Stobart](https://www.unboxedconsulting.com/people/richard-stobart) kicked off our <i>SpeedAgile</i> webinar series, with the first session: <i>‘Speed up stakeholder communication and sign off’</i>.
+[Richard Stobart](/people/richard-stobart) kicked off our <i>SpeedAgile</i> webinar series, with the first session: <i>‘Speed up stakeholder communication and sign off’</i>.
 
 In this 30-minute webinar, Richard explored:<br/>
 
@@ -33,7 +33,7 @@ The session slides:<br/>
 * Beginning a journey with stakeholders<br/>
 * Engaging people within the journey<br/>
 * Starting with the basics, before ramping up<br/>
-* The [<i>“Development Sausage Machine”</i>](https://www.unboxedconsulting.com/blog/the-sausage-machine)<br/>
+* The [<i>“Development Sausage Machine”</i>](/blog/the-sausage-machine)<br/>
 * Taking feedback on board and using this<br/>
 * The various different types of stakeholders<br/>
 * Measuring though t-shirt sizing for value<br/>
@@ -63,6 +63,6 @@ The session slides:<br/>
 <br/>
 
 <h1>Join us for our next sessions:</h1>
-We still have two more sessions in the <i>SpeedAgile</i> webinar series over the next few weeks – [get your place now](https://www.unboxedconsulting.com/news/the-speed-agile-webinar-series).<br/>
+We still have two more sessions in the <i>SpeedAgile</i> webinar series over the next few weeks – [get your place now](/news/the-speed-agile-webinar-series).<br/>
 
 If you have any questions on this topic, or any topic similar to this, tweet us with the hashtag [<i>#AgileSpeed</i>](https://twitter.com/hashtag/speedagile?src=hash&vertical=default&f=tweets) at [@Ubxd](https://twitter.com/ubxd), or tweet Richard directly at [@richardstobart](https://twitter.com/richardstobart) – we’d love to hear from you.

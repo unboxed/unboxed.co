@@ -44,7 +44,7 @@ http://www.sofetch.io/products/standup-bot-private
 
 A self-hosted bot (typically on Heroku) that automates the process of daily standups in Slack and allows you to keep a history of what's said - great for remote teams.
 
-## Track of the Week - [Martyn E](https://www.unboxedconsulting.com/people/martyn-evans)
+## Track of the Week - [Martyn E](/people/martyn-evans)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/acRMALrg1t4" frameborder="0" allowfullscreen></iframe>
 ["It's My Party" - Lesley Gore](https://www.youtube.com/watch?v=acRMALrg1t4&feature=youtu.be)

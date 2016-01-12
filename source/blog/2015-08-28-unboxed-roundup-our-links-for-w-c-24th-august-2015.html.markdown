@@ -20,7 +20,7 @@ http://gilest.org/normal-words.html
 
 This article by [Giles Turnbull](http://gilest.org) doesn't seem like it'd be super relevant to a developer; we don't do much writing.  Well, we write code all the time, sure, but certainly not writing for other people.  Apart from error messages.  And documentation.  And commit notes.  And inline code comments.  And technical blog posts.
 
-## Track of the Week - [Jack](https://www.unboxedconsulting.com/people/jack-bracewell)
+## Track of the Week - [Jack](/people/jack-bracewell)
 
 Was listening to this the other day and thought it could be a pretty good description of the consultant/client relationship.
 

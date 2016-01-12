@@ -8,7 +8,7 @@ tags:
 
 ---
 
-The new [Petitions](https://petition.parliament.uk) site has been a massive success since its [launch this July](https://www.unboxedconsulting.com/news/new-government-petitions-website-launched-developed-in-partnership-with-unboxed-consulting), with tens of thousands signing petitions each day. It was suggested to me that it would interesting to visualise this data with a heatmap - giving an insight into the popularity of individual petitions across the UK. My aim is that these visualisations are not only interesting but can be of use when focusing campaigns on certain issues around the country.<br/>
+The new [Petitions](https://petition.parliament.uk) site has been a massive success since its [launch this July](/news/new-government-petitions-website-launched-developed-in-partnership-with-unboxed-consulting), with tens of thousands signing petitions each day. It was suggested to me that it would interesting to visualise this data with a heatmap - giving an insight into the popularity of individual petitions across the UK. My aim is that these visualisations are not only interesting but can be of use when focusing campaigns on certain issues around the country.<br/>
 
 Allow me to introduce [Petition Map](http://petitionmap.unboxedconsulting.com/):<br/>
 

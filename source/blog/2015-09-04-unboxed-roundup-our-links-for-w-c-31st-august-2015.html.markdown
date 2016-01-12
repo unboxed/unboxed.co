@@ -60,7 +60,7 @@ http://www.theverge.com/2015/9/2/9248309/google-new-logo-graphic-design
 The new Google logo. I think it’s fun, simple and progressive. Not sure about the gooey ‘e’. Hopefully that’s not a permanent thing. Here are the views of a few other designers.
 
 
-## Track of the Week - [Jon N](https://www.unboxedconsulting.com/people/jon-normington)
+## Track of the Week - [Jon N](/people/jon-normington)
 
 George Gershwin - was a great composer of his time and Rhapsody in Blue was his first composed piece for orchestra and piano, there are many other pieces for which combine different genres of the 30s and are extremely relaxing to listen to, such as I got rhythm, Of Thee I sing and Third Movement (Allegro Agitato)
 

@@ -26,7 +26,7 @@ https://medium.com/uie-brain-sparks/the-300-million-button-76b566ae5f73#.a906gzx
 
 This article serves as a useful reminder that user research and testing are at least as important as design and development when it comes to building successful products.  What you think will help and delight people might turn out to have the opposite effect.
 
-## Track of the Week - [Steve L](https://www.unboxedconsulting.com/people/steve-lennon)
+## Track of the Week - [Steve L](/people/steve-lennon)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/PvXHYHyCuM8" frameborder="0" allowfullscreen></iframe>
 ["How 'Bout I Love You More" by Colin MacIntyre aka Mull Historical Society](https://www.youtube.com/watch?v=PvXHYHyCuM8)

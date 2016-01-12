@@ -50,7 +50,7 @@ http://www.independent.co.uk/life-style/gadgets-and-tech/this-bluetooth-speaker-
 
 Sony's Bluetooth, IoT-enabled lightbulb/speaker gives a glimpse of the future of multifunction, connected homes.
 
-## Track of the Week - [Ben Janecke](https://www.unboxedconsulting.com/people/ben-janecke)
+## Track of the Week - [Ben Janecke](/people/ben-janecke)
 
 My track is Autolux: Turnstile Blues
 

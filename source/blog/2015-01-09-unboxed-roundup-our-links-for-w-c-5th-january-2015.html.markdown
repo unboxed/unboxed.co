@@ -16,7 +16,7 @@ http://news.dice.com/2014/09/04/3-interview-questions-scrum-masters/
 
 A nice article on what to ask Scrum Masters in an interview and why you should ask those questions.
 
-## This. Is. Just. Crazy. - [Attila](https://www.unboxedconsulting.com/people/attila-gyorffy)
+## This. Is. Just. Crazy. - [Attila](/people/attila-gyorffy)
 
 https://github.com/geelen/djgif
 

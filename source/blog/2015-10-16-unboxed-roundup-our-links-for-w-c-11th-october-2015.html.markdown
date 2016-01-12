@@ -26,7 +26,7 @@ https://environmentagency.blog.gov.uk/2015/09/18/laser-surveys-light-up-open-dat
 
 The Environmental Agency have announced they will be releasing their LIDAR data of the UK. An 11TB 3D map. A reason they cite for releasing it is to create games. Good eh?
 
-## Track of the Week - [Tim H](https://www.unboxedconsulting.com/people/tim-higgins)
+## Track of the Week - [Tim H](/people/tim-higgins)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/nYvNfrBPzRA" frameborder="0" allowfullscreen></iframe>
 ["Get Your Feet Outta My Shoes" by The Boothill Foot Tappers](https://www.youtube.com/watch?v=nYvNfrBPzRA)

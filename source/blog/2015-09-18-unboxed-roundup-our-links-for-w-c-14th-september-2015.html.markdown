@@ -50,7 +50,7 @@ http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react
 
 React is currently one of the 'hot' javascript libraries to use. Heres why
 
-## Track of the Week - [Cale T](https://www.unboxedconsulting.com/people/cale-tilford)
+## Track of the Week - [Cale T](/people/cale-tilford)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/stPcpvQjozo" frameborder="0" allowfullscreen></iframe>
 ["You Are Invited" by The Dismemberment Plan](https://www.youtube.com/watch?v=stPcpvQjozo)

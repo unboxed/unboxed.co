@@ -10,7 +10,7 @@ tags:
 
 
 
-## Better ways for team discussion - [Carmen B](https://www.unboxedconsulting.com/people/carmen-brion)
+## Better ways for team discussion - [Carmen B](/people/carmen-brion)
 
 * http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
 
@@ -31,7 +31,7 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## Optimising a slow build? You’re solving the wrong problem - [Alan T](https://www.unboxedconsulting.com/people/alan-thomas)
+## Optimising a slow build? You’re solving the wrong problem - [Alan T](/people/alan-thomas)
 
 * http://blog.mattwynne.net/2013/03/04/optimising-a-slow-build-youre-solving-the-wrong-problem/
 
@@ -40,12 +40,12 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## LXC – Running 14,000 tests per day and beyond! (Part 1) - [Oskar P](https://www.unboxedconsulting.com/people/oskar-pearson)
+## LXC – Running 14,000 tests per day and beyond! (Part 1) - [Oskar P](/people/oskar-pearson)
 
 * https://codeascraft.com/2013/09/23/lxc-running-14000-tests-per-day-and-beyond-part-1/<br/>
 <br/>
 
-## LXC – Automating Containers aka Virtual Madness (Part 2) - [Oskar P](https://www.unboxedconsulting.com/people/oskar-pearson)
+## LXC – Automating Containers aka Virtual Madness (Part 2) - [Oskar P](/people/oskar-pearson)
 
 * https://codeascraft.com/2013/09/23/lxc-automating-containers-aka-virtual-madness-part-2/
 
@@ -63,7 +63,7 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## I love a hug - [Claire K](https://www.unboxedconsulting.com/people/claire-kemp)
+## I love a hug - [Claire K](/people/claire-kemp)
 
 * http://www.slideshare.net/UBXD/a-warm-hug-at-the-door-that-opens-many-more
 
@@ -72,7 +72,7 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## Track of the Week - [Anson K](https://www.unboxedconsulting.com/people/anson-kelly)
+## Track of the Week - [Anson K](/people/anson-kelly)
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/nzY2Qcu5i2A" frameborder="0" allowfullscreen></iframe>
 

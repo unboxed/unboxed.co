@@ -9,7 +9,7 @@ tags:
 
 ---
 
-## I’ve been ``git``-ing it wrong! - [Murray Steele](https://www.unboxedconsulting.com/people/murray-steele)
+## I’ve been ``git``-ing it wrong! - [Murray Steele](/people/murray-steele)
 
 I was helping someone on my team prepare a deploy recently and noticed they tagged the release with ``git -a tag <sha> -m “tagging for release”``.  I was mostly confused by the ``-m``, as I didn’t know you could add a message to a tag, but I couldn’t recall seeing the ``-a`` either.  I did some research, and it turns out [I’ve been creating lightweight tags](http://www.rockstarprogrammer.org/post/2008/oct/16/git-tag-does-wrong-thing-default/) all along.  How embarrassing!
 

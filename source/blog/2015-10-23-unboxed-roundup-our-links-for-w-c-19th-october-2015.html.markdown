@@ -26,7 +26,7 @@ Let's Encrypt is a free, automated, and open certificate authority, supported by
 
 A 55min long interview where Andy Weir shares the story of The Martian book's long road to success. He also talks about research methods and revels some of the scientific inaccuracies in the story.
 
-## Track of the Week - [Heidi](https://www.unboxedconsulting.com/people/heidi-geisler)
+## Track of the Week - [Heidi](/people/heidi-geisler)
 <audio controls>
   <source src="http://b.mp3fly.in/o8pQLtHTPaI/Brandi+Carlile+-+The+Story.mp3" type="audio/mpeg">
   Your browser does not support the audio element.

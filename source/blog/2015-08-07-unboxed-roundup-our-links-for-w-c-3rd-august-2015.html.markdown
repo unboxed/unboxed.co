@@ -14,31 +14,31 @@ http://www.niemanlab.org/2015/07/how-7-news-organizations-are-using-slack-to-wor
 
 Here at Unboxed, we use Slack to democratise decision making and share knowledge across the organisation. This article shares intimate details of how seven news orgs use Slack as a tool to change the way they work.
 
-## Sexual disease map of USA - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Sexual disease map of USA - [Dom M](/people/dominic-mason)
 
 https://www.rentapplication.com/these-are-the-most-sexually-diseased-cities-in-the-usa/
 
 This is the perfect intersection of [Unboxed's work with SH:24](/project-stories/sh24), providing digital sexual health testing 24hrs a day in London, and our love of data...
 
-## One Step Forward, Two Steps Slack? - [Chris C](http://www.unboxedconsulting.com/people/chris-carter)
+## One Step Forward, Two Steps Slack? - [Chris C](/people/chris-carter)
 
-https://www.unboxedconsulting.com/blog/communication-one-step-forward-two-steps-slack
+www.unboxed.co/blog/communication-one-step-forward-two-steps-slack
 
 I decided to write a post about the way we use Slack, how amazing it is, but also how it should be used with care. We’re not all robots yet, why not have a face-to-face conversation once in a while?
 
-## In Agile development, what does a designer do before, during and after a sprint? - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## In Agile development, what does a designer do before, during and after a sprint? - [Dom M](/people/dominic-mason)
 
 https://developers.google.com/design-sprint/downloads/DesignSprintMethods.pdf
 
 Here's what Google's UXteam think is ideal designer behaviour before, during and after a sprint. Do you agree?
 
-## How UX thinking can influence your whole project, for the better - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## How UX thinking can influence your whole project, for the better - [Dom M](/people/dominic-mason)
 
 https://www.theguardian.com/info/developer-blog/2015/jul/27/the-user-experience-of-creative-sprints
 
 Here at Unboxed, we know that user centric design is a critical skill in successful project delivery. This neat article summarises why.
 
-## Performance boost coming in Rails 5 - [Andrew W](http://www.unboxedconsulting.com/people/andrew-white)
+## Performance boost coming in Rails 5 - [Andrew W](/people/andrew-white)
 
 http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance/
 
