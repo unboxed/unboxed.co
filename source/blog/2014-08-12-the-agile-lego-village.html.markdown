@@ -7,11 +7,11 @@ tags:
   - Agile
 ---
 
-Last week, a small team of us took part in the [Introduction to Agile] (http://www.unboxedconsulting.com/courses/introduction-to-agile) course, right here at Unboxed Consulting HQ.
+Last week, a small team of us took part in the Introduction to Agile course, right here at Unboxed Consulting HQ.
 
 ![Lego1](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0015_zps8af64e29.jpg)
 
-Alex Bobin, [Charlie Egan] (http://www.unboxedconsulting.com/people/charlie-egan), [Paula Stepinska] (http://www.unboxedconsulting.com/people/paula-stepinska), [Oskar Pearson] (http://www.unboxedconsulting.com/people/oskar-pearson) and myself ([Graeme McCubbin] (http://www.unboxedconsulting.com/people/graeme-mccubbin)) all spent the day taking this internal version of the course, hosted by our very own [Rakesh Patel] (http://www.unboxedconsulting.com/people/rakesh-patel) (with [Priyanka Sushil] (http://www.unboxedconsulting.com/people/priyanka-sushil) on camera duty!)
+Alex Bobin, [Charlie Egan] (/people/charlie-egan), [Paula Stepinska] (/people/paula-stepinska), [Oskar Pearson] (/people/oskar-pearson) and myself ([Graeme McCubbin] (/people/graeme-mccubbin)) all spent the day taking this internal version of the course, hosted by our very own [Rakesh Patel] (/people/rakesh-patel) (with [Priyanka Sushil] (/people/priyanka-sushil) on camera duty!)
 
 ![Lego2](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0158_zpse95cc3fa.jpg)
 

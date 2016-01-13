@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## `Math.random()` in V8 isn't as random as you think - [Andrew W](http://www.unboxedconsulting.com/people/andrew-white)
+## `Math.random()` in V8 isn't as random as you think - [Andrew W](/people/andrew-white)
 
 https://medium.com/@betable/tifu-by-using-math-random-f1c308c4fd9d#.yowj1q70f
 
@@ -19,32 +19,32 @@ There’s a nice image that demonstrates the problem:
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">&quot;Random&quot; noise from Math.random() in Safari (top) and Chrome (bottom). More details at <a href="https://t.co/IqtRYdDCoJ">https://t.co/IqtRYdDCoJ</a> <a href="https://t.co/hdSNy6rCHR">pic.twitter.com/hdSNy6rCHR</a></p>&mdash; Mike Malone (@mjmalone) <a href="https://twitter.com/mjmalone/status/667429857165488130">November 19, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Ruby 2.3 - what's new? - [Murray S](http://www.unboxedconsulting.com/people/murray-steele)
+## Ruby 2.3 - what's new? - [Murray S](/people/murray-steele)
 
 * https://blog.blockscore.com/new-features-in-ruby-2-3/
 * http://dev.mensfeld.pl/2015/11/ruby-2-3-0-changes-and-features/
 
 Ruby 2.3 is just around the corner so it's time to start exploring what new features it'll have.  These articles cover the changes that are coming and give some pointers as to why we might want to use them.  I haven't found any guides about performance in Ruby 2.3, but I expect the general trend to be slightly upwards if the graphs on [is ruby fast yet](http://www.isrubyfastyet.com/) are any indication.
 
-## How to charge for your Open Source software - [Andrew W](http://www.unboxedconsulting.com/people/andrew-white)
+## How to charge for your Open Source software - [Andrew W](/people/andrew-white)
 
 http://www.mikeperham.com/2015/11/23/how-to-charge-for-your-open-source/
 
 Mike Perham, author of Sidekiq, gives sage advice on how to earn a living from Open Source software by using a dual licensing strategy.
 
-## Earn money by walking! - [Alan T](http://www.unboxedconsulting.com/people/alan-thomas)
+## Earn money by walking! - [Alan T](/people/alan-thomas)
 
 http://www.bitwalking.com/
 
 You could earn money by just walking to work etc. What's not to like?
 
-## Standup Bot - Automated Standups in Slack - [Andrew W](http://www.unboxedconsulting.com/people/andrew-white)
+## Standup Bot - Automated Standups in Slack - [Andrew W](/people/andrew-white)
 
 http://www.sofetch.io/products/standup-bot-private
 
 A self-hosted bot (typically on Heroku) that automates the process of daily standups in Slack and allows you to keep a history of what's said - great for remote teams.
 
-## Track of the Week - [Martyn E](https://www.unboxedconsulting.com/people/martyn-evans)
+## Track of the Week - [Martyn E](/people/martyn-evans)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/acRMALrg1t4" frameborder="0" allowfullscreen></iframe>
 ["It's My Party" - Lesley Gore](https://www.youtube.com/watch?v=acRMALrg1t4&feature=youtu.be)

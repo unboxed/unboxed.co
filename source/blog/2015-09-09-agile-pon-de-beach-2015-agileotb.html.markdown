@@ -15,7 +15,7 @@ tags:
 
 <img src="http://bit.ly/1LRPO41" alt="The attendees">
 
-[Claire](https://www.unboxedconsulting.com/people/claire-kemp), [Jack](https://www.unboxedconsulting.com/people/jack-bracewell), [Martyn](https://www.unboxedconsulting.com/people/martyn-evans), [Ben](https://www.unboxedconsulting.com/people/ben-wong) and [Graeme](https://www.unboxedconsulting.com/people/graeme-mccubbin) (+200 others, but we don't have caricatures for them)<br/>
+[Claire](/people/claire-kemp), [Jack](/people/jack-bracewell), [Martyn](/people/martyn-evans), [Ben](/people/ben-wong) and [Graeme](/people/graeme-mccubbin) (+200 others, but we don't have caricatures for them)<br/>
 
 2 days. 50 speakers. 40 sessions. 1 beach party. It was that time of year again: Agile On The Beach.<br/>
 

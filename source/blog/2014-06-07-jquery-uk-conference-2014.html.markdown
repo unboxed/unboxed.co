@@ -7,7 +7,7 @@ tags:
   - Rails
 ---
 
-[Chris C](http://www.unboxedconsulting.com/people/chris-carter), Veronika H and I attended jQuery's 2014 conference in Oxford. Between the three of us, we could cover quite a lot of different talks that were available on the day. This blog post is just a slice of some of the talks we attended that day.
+[Chris C](/people/chris-carter), Veronika H and I attended jQuery's 2014 conference in Oxford. Between the three of us, we could cover quite a lot of different talks that were available on the day. This blog post is just a slice of some of the talks we attended that day.
 
 ---
 
@@ -69,6 +69,6 @@ In summary, conferences are awesome because...
 
 (Nerdvana: the Retro Gaming lounge)
 
-4) Last but not least, you learn cool new things like [developing apps with PhoneGap](http://www.unboxedconsulting.com/blog/first-steps-with-cordova-phonegap) and find out some more [tools to pack in your web developer toolbox](http://www.unboxedconsulting.com/blog/dev_toolboxpack).
+4) Last but not least, you learn cool new things like [developing apps with PhoneGap](/blog/first-steps-with-cordova-phonegap) and find out some more [tools to pack in your web developer toolbox](/blog/dev_toolboxpack).
 
 ![PhoneGap](https://dl.dropboxusercontent.com/u/2217931/jquery-blog-post.jpg)

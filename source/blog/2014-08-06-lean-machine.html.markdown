@@ -9,8 +9,8 @@ tags:
 
 ## Lean Enterprise ##
 
-Over the last 8 weeks, [Tom D](http://www.unboxedconsulting.com/blog/author/tom-dickinson) and I
-([Chris](http://www.unboxedconsulting.com/blog/author/chris-carter)) have been taking a break from our regular design
+Over the last 8 weeks, [Tom D](/blog/author/tom-dickinson) and I
+([Chris](/blog/author/chris-carter)) have been taking a break from our regular design
 and development day jobs. We joined forces with Toby, the product owner from
 [*Naturejobs*](http://www.nature.com/naturejobs/science/), and Paul at [Lean Mammoth](http://leanmammoth.com) to
 identify potentially worthwhile features for the users of the popular science jobs platform using Lean principles and
@@ -97,9 +97,8 @@ development time.
 
 During the course of the *Naturejobs* project, I also attended the [Lean Startup
 Machine](https://www.leanstartupmachine.com/) event over the weekend of 18-20 July, along with [Tom
-S](http://www.unboxedconsulting.com/people/tom-sabin), [Claire](http://www.unboxedconsulting.com/people/claire-kemp),
-[Richard](http://www.unboxedconsulting.com/people/richard-stobart),
-[Martyn](http://www.unboxedconsulting.com/people/martyn-evans), and Paul (again!) from [Lean
+S](/people/tom-sabin), [Claire](/people/claire-kemp), [Richard S](/people/richard-stobart),
+[Martyn](/people/martyn-evans), and Paul (again!) from [Lean
 Mammoth](http://leanmammoth.com). With a strap-line of *"Learn to build a successful business in three days"*, the
 workshop is designed to take a simple idea through to a business in an incredibly short amount of time. It consisted of
 a number of workshops to help us validate customer problems and their potential solutions, improve our customer

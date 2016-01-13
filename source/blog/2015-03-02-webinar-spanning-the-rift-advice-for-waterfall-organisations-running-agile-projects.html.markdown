@@ -9,7 +9,7 @@ tags:
 
 ---
 
-[Steve Lennon](http://www.unboxedconsulting.com/people/steve-lennon) hosted the next webinar in the <i>#StrongerAgile</i> series, titled <i>‘Spanning the rift: Advice for waterfall organisations running Agile projects’</i>.<br/>
+[Steve Lennon](/people/steve-lennon) hosted the next webinar in the <i>#StrongerAgile</i> series, titled <i>‘Spanning the rift: Advice for waterfall organisations running Agile projects’</i>.<br/>
 <br/>
 The full audio of the session:<br/>
 

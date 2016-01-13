@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## A hint at a future Apple CPU instruction set architecture - [Oskar P](http://www.unboxedconsulting.com/people/oskar-pearson)
+## A hint at a future Apple CPU instruction set architecture - [Oskar P](/people/oskar-pearson)
 
 http://adriansampson.net/blog/appleisa.html
 
@@ -20,19 +20,19 @@ https://dl.dropboxusercontent.com/u/1018963/Articles/SpotifyScaling.pdf
 
 How Spotify manage to stay agile despite rapid scaling and now being a large(ish) organisation, with useful pictures!
 
-## Heard of flexbox? Want to know how it works? - [Anson K](https://www.unboxedconsulting.com/people/anson-kelly)
+## Heard of flexbox? Want to know how it works? - [Anson K](/people/anson-kelly)
 
 http://flexboxin5.com/
 
 Interactive demo to show how css flexbox layouts work and how using flexbox makes many front-end issues like vertically centering an element trivial to solve. Best viewed on chrome.
 
-## Top tips for data viz - [Dom M](https://www.unboxedconsulting.com/people/dominci-mason)
+## Top tips for data viz - [Dom M](/people/dominci-mason)
 
 https://github.com/mbostock/d3/wiki/Gallery
 
 Love data viz? Love this JavaScript visualisation library!
 
-## Track of the Week - [Charlie E](https://www.unboxedconsulting.com/people/charlie-egan)
+## Track of the Week - [Charlie E](/people/charlie-egan)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kVReKc3UZ3A" frameborder="0" allowfullscreen></iframe>
 ["New Tech Haven" by Bjørn Lynne](https://www.youtube.com/watch?v=kVReKc3UZ3A)

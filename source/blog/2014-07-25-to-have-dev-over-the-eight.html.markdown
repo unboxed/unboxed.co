@@ -22,13 +22,13 @@ checkboxes from markdown, Github style, e.g.:
 It also lets you update the status of the checkboxes by clicking
 through a simple PUT/PATCH request. There's [more details on the announcement blog post](http://brightbit.com/blog/2013/12/09/enhancing-markdown-rendering-with-the-markdown-checkboxes-gem/)
 
-## How RSpec stubs and mocks work - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+## How RSpec stubs and mocks work - [Murray](/people/murray-steele)
 
 https://speakerdeck.com/samphippen/the-anatomy-of-a-mocked-call-rulu-2014
 
 This presentation by [Sam Phippen](http://samphippen.com/) is an interesting take on the usual stubs and mocks presentation.  Instead of providing arguments for (or against) a stubs and mocks approach to testing Sam instead tells us exactly how the relevant code from the [rspec-mocks](https://github.com/rspec/rspec-mocks) library actually works.  I quite like this sort of deep dive talk about the design decisions of the libraries we use day-in, day-out as often we treat them like black-boxes, but if we know how they work under-the-hood they'll surprise us less when we use them, and it might even unlock how to use them in a new way we hadn't considered before.
 
-## Design is hard and partitioning is hard - [Patrick V](http://www.unboxedconsulting.com/people/patrick-vine)
+## Design is hard and partitioning is hard - [Patrick V](/people/patrick-vine)
 
 https://www.facebook.com/notes/kent-beck/bits-clumps-and-just-right/792597974106402
 

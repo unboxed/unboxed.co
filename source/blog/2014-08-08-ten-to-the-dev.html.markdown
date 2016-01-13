@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-## Secret Ruby features - [Alan](http://www.unboxedconsulting.com/people/alan-thomas)
+## Secret Ruby features - [Alan](/people/alan-thomas)
 
 http://blog.arkency.com/2014/07/hidden-features-of-ruby-you-may-dont-know-about/
 
@@ -20,7 +20,7 @@ http://dev.opera.com/articles/responsive-images/
 
 Opera's article on the upcoming picture element is a bit of an ey-opener. This element has so much power baked in and achieves all the responsive things.
 
-## Shell startup scripts - [Tom R](http://www.unboxedconsulting.com/people/tom-russell)
+## Shell startup scripts - [Tom R](/people/tom-russell)
 
 http://blog.flowblok.id.au/2013-02/shell-startup-scripts.html
 

@@ -18,7 +18,7 @@ Here's an interesting blog post on why you shouldn't use MongoDB unless you've a
 ## A Lightweight CI Tool - Chris Blunt
 Inspired to find a lightweight CI tool, I've recently been playing with Integrity, an open-source CI app built in ruby. It's relatively simple to configure, runs as a Rack app, and ties nicely into post-receive hook workflows. It integrates with popular services (Campfire, Github, etc.), as well as exposing web hooks for custom notifications. More details at [http://integrity.github.io](http://integrity.github.io).
 
-## Truncating HTML Strings - [Tom Sabin](http://www.unboxedconsulting.com/people/tom-sabin)
+## Truncating HTML Strings - [Tom Sabin](/people/tom-sabin)
 [Truncato](https://github.com/jorgemanrubia/truncato), a useful library that retains valid HTML when truncating a string with HTML entities.
 
 ## Excel in JavaScript - Tom Russell

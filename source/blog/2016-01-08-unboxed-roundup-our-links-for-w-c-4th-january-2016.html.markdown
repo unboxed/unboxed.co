@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## The Website Obesity Crisis - [Andrew W](http://www.unboxedconsulting.com/people/andrew-white)
+## The Website Obesity Crisis - [Andrew W](/people/andrew-white)
 
 http://idlewords.com/talks/website_obesity.htm
 
@@ -18,7 +18,7 @@ Pinboard, dissects problem and discovers that even the programs from the likes
 of Google and Facebook designed to address the problem can't avoid falling into
 the same traps.
 
-## Naming is a process ⇒ insights into such a process - [Patrick V](http://www.unboxedconsulting.com/people/patrick-vine)
+## Naming is a process ⇒ insights into such a process - [Patrick V](/people/patrick-vine)
 
 http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/
 
@@ -28,7 +28,7 @@ things and is an interesting read (though long).  Being deliberate about the
 things we do is valuable so hopefully this will help generate conversations
 about how to get to good names in software.
 
-## Images as a Service - [Anson K](http://www.unboxedconsulting.com/people/anson-kelly)
+## Images as a Service - [Anson K](/people/anson-kelly)
 
 https://www.youtube.com/watch?v=zhW1E6_YpC4
 By Andy Croll of Brighton Ruby fame
@@ -42,7 +42,7 @@ Serving images should be a 'solved' problem, just like it is for 'hosting' or
 authentication. However lots of solutions make poor default suggestions. What
 can we do for our users with 100 lines of code, Sinatra, a single gem and a CDN?
 
-## Track of the Week - [Patrick V](https://www.unboxedconsulting.com/people/patrick-vine)
+## Track of the Week - [Patrick V](/people/patrick-vine)
 
 Goldfish are South African and make a sound that I enjoy, but more importantly my girls love their music videos.
 

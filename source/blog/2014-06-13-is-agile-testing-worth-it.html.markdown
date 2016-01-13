@@ -26,5 +26,5 @@ Exceed your customer’s expectations by making sure you aren’t just building 
 
 Increase momentum within your team by removing test bottlenecks and fixing defects immediately.
 
-These are just some of the benefits which come with adopting the agile testing approach. [Click here](http://www.unboxedconsulting.com/courses/agile-testing-course) to learn more about agile testing and see how it can benefit you and your team.
+These are just some of the benefits which come with adopting the agile testing approach. [Click here](www.unboxed.co) to learn more about agile testing and see how it can benefit you and your team.
 
