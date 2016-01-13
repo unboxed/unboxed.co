@@ -72,5 +72,3 @@ Our very own [Richard](/people/richard-stobart) and [Steve](/people/steve-lennon
 A quick Q&A then finished the session.<br/>
 
 Overall, I found this to be such an insightful event. It was inspiring to hear how each internal and external team worked in partnership, as an integrated team, to reach a project goal. It was also credible to hear these experiences directly from those who overviewed each project, including any issues which arose; this really painted a realistic picture of how each partnership worked.<br/>
-
-Read further into detail of the event and discover the 5 new rules of outsourcing [here](http://www.unboxedconsulting.com/ideas/the-new-rules-of-outsourcing-how-to-develop-great-software-with-a-partner).
