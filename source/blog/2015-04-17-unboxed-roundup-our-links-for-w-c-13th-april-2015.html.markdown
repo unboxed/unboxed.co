@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Be more psychopath - [Martyn E](http://www.unboxedconsulting.com/posts/martyn-evans)
+## Be more psychopath - [Martyn E](blog/author/martyn-evans)
 
 http://www.bakadesuyo.com/2015/04/psychopaths/
 
@@ -32,7 +32,7 @@ http://confreaks.tv/events/bathruby2015
 
 If, like me, you missed out on the inaugural [Bath Ruby Conf](http://2015.bathruby.org/) you can now pretend like you were there by catching up on the talks online.
 
-## Track of the Week - [Graeme McC](http://www.unboxedconsulting.com/posts/graeme-mccubbin)
+## Track of the Week - [Graeme McC](/blog/author/graeme-mccubbin)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/25166076&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 ["True Love Fantasy" by UNICORN KID](https://soundcloud.com/unicornkid/true-love-fantasy-ft-talk-to)

@@ -40,7 +40,7 @@ Fun article about the process of creating geometrical art through Javascript. Th
 
 http://onstartups.com/tabid/3339/bid/97052/How-To-Survive-a-Ground-Up-Rewrite-Without-Losing-Your-Sanity.aspx
 
-Our natural instinct as developers when encountering old code is often "this is terrible, we must re-write".  Harking back to our [boring developers links from a couple of weeks back](http://www.unboxedconsulting.com/blog/ubxddev-vol-38) we often overcome that instinct by thinking about how much work a full rewrite will be and how much we've forgotten that is encoded in the old software.  Sometimes though weighing up the pros and cons it might just be that a rewrite might be the correct approach.  This article gives some advice on how to approach a rewrite, and how to survive.
+Our natural instinct as developers when encountering old code is often "this is terrible, we must re-write".  Harking back to our [boring developers links from a couple of weeks back](/blog/ubxddev-vol-38) we often overcome that instinct by thinking about how much work a full rewrite will be and how much we've forgotten that is encoded in the old software.  Sometimes though weighing up the pros and cons it might just be that a rewrite might be the correct approach.  This article gives some advice on how to approach a rewrite, and how to survive.
 
 ## Creating a type style guide - [Neil](/people/neil-van-beinum)
 

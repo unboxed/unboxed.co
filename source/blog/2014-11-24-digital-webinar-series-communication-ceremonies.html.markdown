@@ -50,4 +50,4 @@ Here is the full audio of the webinar session:<br/>
 <br/>
 Tweet us at [@Ubxd](https://twitter.com/ubxd) with the hashtag #AgileComms to get in on the conversation.</br>
 <br/>
-Sign up to the [next webinar](http://www.unboxedconsulting.com/news/the-unboxed-digital-leaders-webinar-series) in the series, titled <i>‘Getting to Beta: taking 'stubborn' products to beta in 4 weeks’</i>, held on Wednesday 3rd December at 16:00.
+Sign up to the [next webinar](/news/the-unboxed-digital-leaders-webinar-series) in the series, titled <i>‘Getting to Beta: taking 'stubborn' products to beta in 4 weeks’</i>, held on Wednesday 3rd December at 16:00.

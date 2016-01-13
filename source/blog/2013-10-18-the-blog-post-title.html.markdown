@@ -16,7 +16,7 @@ it's Friday. You know what that means? Time for another exciting instalment of t
 
 ---
 
-## JS Testing - [Murray](http:///www.unboxedconsulting.com/people/murray-steele/)
+## JS Testing - [Murray](/people/murray-steele/)
 
 [James Coglan](http://jcoglan.com) is writing [a book on Javascript testing](http://jstesting.jcoglan.com/).  What makes this special is that James is the author of open source work like [Faye](http://faye.jcoglan.com/) and [vault](https://getvau.lt/), talks like [Writing a language in 15 minutes](http://skillsmatter.com/podcast/ajax-ria/implementing-scheme-in-ruby) and articles like [Callbacks are imperative, promises are functional](http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/).  With that kind of pedigree, I expect the book to be brilliant, and you should too.
 

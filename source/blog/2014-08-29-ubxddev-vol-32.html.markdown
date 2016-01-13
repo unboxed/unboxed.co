@@ -29,7 +29,7 @@ http://www.matchingnotes.com/class-table-inheritance-in-rails.html
 >
 > Interesting for web developers and users alike. Take note RyanAir! It will be interesting to see if/how these new laws are enforced.
 
-[Henry](http://wwwunboxedconsulting.com/people/henry-turner) says:
+[Henry](/people/henry-turner) says:
 
 > Press release about the highlights of the legislation: http://europa.eu/rapid/press-release_MEMO-11-450_en.htm?locale=en
 >

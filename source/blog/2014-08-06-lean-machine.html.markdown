@@ -9,8 +9,8 @@ tags:
 
 ## Lean Enterprise ##
 
-Over the last 8 weeks, [Tom D](http://www.unboxedconsulting.com/blog/author/tom-dickinson) and I
-([Chris](http://www.unboxedconsulting.com/blog/author/chris-carter)) have been taking a break from our regular design
+Over the last 8 weeks, [Tom D](/blog/author/tom-dickinson) and I
+([Chris](/blog/author/chris-carter)) have been taking a break from our regular design
 and development day jobs. We joined forces with Toby, the product owner from
 [*Naturejobs*](http://www.nature.com/naturejobs/science/), and Paul at [Lean Mammoth](http://leanmammoth.com) to
 identify potentially worthwhile features for the users of the popular science jobs platform using Lean principles and

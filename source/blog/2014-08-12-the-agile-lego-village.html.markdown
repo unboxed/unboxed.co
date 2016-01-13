@@ -7,7 +7,7 @@ tags:
   - Agile
 ---
 
-Last week, a small team of us took part in the [Introduction to Agile] (http://www.unboxedconsulting.com/courses/introduction-to-agile) course, right here at Unboxed Consulting HQ.
+Last week, a small team of us took part in the Introduction to Agile course, right here at Unboxed Consulting HQ.
 
 ![Lego1](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0015_zps8af64e29.jpg)
 
