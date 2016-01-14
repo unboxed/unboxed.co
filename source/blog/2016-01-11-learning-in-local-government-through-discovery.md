@@ -12,7 +12,8 @@ title: Learning in Local Government through Discovery
 ---
 
 
-There’s a lot of content available online about doing agile with local councils - talks, conferences, case studies, white papers, etc. A lot of content guiding us to knowing what this _should_ look like. But what does this **really** look like in practice?
+
+There’s a lot of content available online about doing agile with local councils - talks, conferences, case studies, white papers, etc. A lot of content guiding us to knowing what this _should_ look like. But what does this **really** look like in practice...?
 
 We’ve recently partnered with Buckinghamshire County Council in the Discovery phase to digitally transform their current services. This short blog series aims to uncover and explore what it looks like when one of our cross-functional agile teams partners and co-locates with a local council. What are the daily challenges faced? How does the team overcome these? What are the highs and lows of partnering on a public sector project? Here’s the first look through the keyhole… 
 
