@@ -148,6 +148,9 @@
     My background is in open source system integration with a strong focus on deploying secure, maintainable web applications and business systems.
     I'm a self taught programmer and a half-decent cook.
     I drink tea without milk or sugar, I enjoy listening to ambient electronica when I'm coding and I prefer to be able to see trees whenever I'm thinking about something.
+  social_networks:
+    - name: "Github"
+      link: "https://github.com/svenagnew"
 
 - name: "Tom Sabin"
   short_name: "tom-sabin"
@@ -186,6 +189,8 @@
   social_networks:
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/ben-wong-45876a1"
+    - name: "GitHub"
+      link: "https://github.com/spannerinworks"
 
 - name: "Richard Archer"
   short_name: "richard-archer"
@@ -193,6 +198,9 @@
   email: "richard.archer"
   bio: |
     I've been working as a front-end developer for 6 years in London, but recently upped sticks and moved to beautiful Cape Town. I love that I get to work with a fantastic team of like-minded folk that are all as passionate about the web as me, and get to enjoy the beach, beer and braai lifestyle of South Africa at the same time.
+  social_networks:
+    - name: "GitHub"
+      link: "https://github.com/richarcher"
 
 - name: "Graeme McCubbin"
   short_name: "graeme-mccubbin"
@@ -229,6 +237,8 @@
   social_networks:
     - name: "LinkedIn"
       link: "https://za.linkedin.com/in/gspeelman"
+    - name: "GitHub"
+      link: "https://github.com/grantspeelman"
 
 - name: "Tyrone Toplis"
   short_name: "tyrone-toplis"
@@ -239,6 +249,8 @@
   social_networks:
     - name: "LinkedIn"
       link: "https://za.linkedin.com/in/tyrone-toplis-85253020"
+    - name: "GitHub"
+      link: "https://github.com/tyson147"
 
 - name: "Concetta Isolano"
   short_name: "concetta-isolano"
@@ -249,6 +261,8 @@
   social_networks:
     - name: "LinkedIn"
       link: "https://za.linkedin.com/in/concetta-isolano-89a88251"
+    - name: "GitHub"
+      link: "https://github.com/Concetta"
 
 - name: "Jolie Lanser"
   short_name: "jolie-lanser"
@@ -266,6 +280,9 @@
   email: "pawel.janiak"
   bio: |
     I love Ruby. I've got a crush on JavaScript. I make terrible jokes.
+  social_networks:
+    - name: "Github"
+      link: "https://github.com/pawel2105"
 
 - name: "Henry Turner"
   short_name: "henry-turner"
@@ -357,6 +374,8 @@
   social_networks:
     - name: "LinkedIn"
       link: "https://za.linkedin.com/in/clive-corbishley-b2708457"
+    - name: "GitHub"
+      link: "https://github.com/clivecorbishley"
 
 - name: "Tyler Savin"
   short_name: "tyler-savin"
