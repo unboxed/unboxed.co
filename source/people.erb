@@ -13,7 +13,7 @@ email_domain: "unboxed.co"
 
 <div class="container--grid" data-header-waypoint>
   <% data.people.each do |person| %>
-    <div class="person-tile">
+    <div class="person-tile" id="<%= person.short_name%>">
       <div class="person-tile__content">
         <div class="person-tile__image-container">
           <img class="person-tile__image" src="/assets/images/people/<%= person.short_name %>.png" alt="<%= person.name %>" />
