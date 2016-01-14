@@ -9,6 +9,14 @@
     float: left;
     width: 33.33%;
   }
+
+  .person-tile__name:before {
+    display: block;
+    content: " ";
+    margin-top: -307px;
+    height: 307px;
+    visibility: hidden;
+  }
 }
 
 .person-tile__content {
