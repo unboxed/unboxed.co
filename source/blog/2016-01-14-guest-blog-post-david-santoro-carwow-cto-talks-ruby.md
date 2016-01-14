@@ -9,6 +9,7 @@ published: true
 title: "Guest blog post: David Santoro, carwow CTO, talks Ruby"
 ---
 
+
 ## carwow’s David Santoro talks Ruby, Extreme Programming and creating a unique space to scale a digital product
 
 ![Car wow](http://i1291.photobucket.com/albums/b548/grammccram/large_blue-logo-440px_zpsflpmbgcj.png)
