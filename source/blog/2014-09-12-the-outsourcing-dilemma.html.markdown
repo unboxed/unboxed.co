@@ -43,4 +43,4 @@ Good reasons to outsource: augmenting<br/>
 ✓ Your own team aren’t Agile enough<br/>
 ✓ You don’t want to start from scratch. Another company may have an existing product they can customise<br/>
 
-Hear the ‘new rules’ direct from companies who have created smart, successful and distributed teams at our [October event] (http://www.unboxedconsulting.com/news/unboxed-consulting-to-host-event-for-digital-product-leaders) in Central London.
+Hear the ‘new rules’ direct from companies who have created smart, successful and distributed teams at our [October event] (/news/unboxed-consulting-to-host-event-for-digital-product-leaders) in Central London.

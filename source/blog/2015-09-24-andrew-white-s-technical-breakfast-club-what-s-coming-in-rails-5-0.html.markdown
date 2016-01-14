@@ -12,7 +12,7 @@ tags:
 
 <p align="center"><img src="http://bit.ly/1OwlrTj" alt="Andrew White's Technical Breakfast Club"></p>
 
-Rails Core Member and Unboxed’s CTO, [Andrew White](https://www.unboxedconsulting.com/people/andrew-white) ([@pixeltrix](https://twitter.com/pixeltrix)), held the first <i>Andrew White’s Technical Breakfast Club</i> last Wednesday morning. Developers and architects attended to hear the uncovering of the major topic, and find out the answer the question on everyone's minds: What’s coming in Rails 5.0?<br/>
+Rails Core Member and Unboxed’s CTO, [Andrew White](/people/andrew-white) ([@pixeltrix](https://twitter.com/pixeltrix)), held the first <i>Andrew White’s Technical Breakfast Club</i> last Wednesday morning. Developers and architects attended to hear the uncovering of the major topic, and find out the answer the question on everyone's minds: What’s coming in Rails 5.0?<br/>
 
 <p align="center"><img src="http://bit.ly/1KqdYTO" alt="The club"></p>
 

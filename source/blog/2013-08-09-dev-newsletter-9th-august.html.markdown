@@ -11,7 +11,7 @@ tags:
   - Lean
 ---
 
-## www: yes or no? - [Murray](http://www.unboxedconsulting.com/people/murray-steele)
+## www: yes or no? - [Murray](/people/murray-steele)
 
 Turns out, there are [sensible technical reasons to use www. domains](http://www.yes-www.org/why-use-www/).  I've always prefered to redirect "www"-prefixed domains to an unprefixed version, but this site explains why that might not be such a great idea.  Of course, there is [a counter point argument](http://no-www.org/), and a decidedly strange [extremist viewpoint](http://www.www.extra-www.org/).
 

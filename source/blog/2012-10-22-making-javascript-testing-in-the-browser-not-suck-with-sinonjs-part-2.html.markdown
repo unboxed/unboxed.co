@@ -7,7 +7,7 @@ tags:
   - Testing
 ---
 
-This is the continuation of my post on Sinon.js, the first part can be found here [http://www.unboxedconsulting.com/blog/making-javascript-testing-in-the-browser-not-suck-with-sinon-js-part-1](http://www.unboxedconsulting.com/blog/making-javascript-testing-in-the-browser-not-suck-with-sinon-js-part-1).
+This is the continuation of my post on Sinon.js, the first part can be found here [blog/making-javascript-testing-in-the-browser-not-suck-with-sinon-js-part-1](/blog/making-javascript-testing-in-the-browser-not-suck-with-sinon-js-part-1).
 
 I'm going to describe the basic usage of Sinon's mocks, spies, and stubs.
 

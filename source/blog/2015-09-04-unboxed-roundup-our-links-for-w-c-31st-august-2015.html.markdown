@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Managing Large Database Migrations with Rails - [Oskar P](http://www.unboxedconsulting.com/people/oskar-pearson)
+## Managing Large Database Migrations with Rails - [Oskar P](/people/oskar-pearson)
 
 How to handle complex migrations of very large data tables when you can’t afford any downtime: http://robertheaton.com/2015/08/31/migrating-bajillions-of-database-records-at-stripe/
 
@@ -18,7 +18,7 @@ http://www.androidauthority.com/bluetooth-substitute-can-send-data-through-your-
 
 No need for clean space between connected devices. To me this is both amazing and scary. What next…Nanites bouncing signals back and forth...
 
-## Git extension bug and committed private data that cost someone over $6500 - [Jon N](http://www.unboxedconsulting.com/people/jon-normington)
+## Git extension bug and committed private data that cost someone over $6500 - [Jon N](/people/jon-normington)
 
 https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours
 
@@ -29,7 +29,7 @@ Two lessons to be learnt from this:
   1. NEVER TRUST anything - double check what you expected to happen - in this case the repository was to be private
   2. NEVER, never, never commit private keys, data in plain text or at least encrypt the contents if you have to - even for private repositories you never know what bug sits round the next corner, which I guess you could say the same for encryption ;)
 
-## Agile predictions - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Agile predictions - [Dom M](/people/dominic-mason)
 
 http://www.wired.com/insights/2014/08/forget-lean-agile-time-anticipatory/
 
@@ -47,7 +47,7 @@ Does offloading apps to the cloud and super security really matter?
 
     Onto the worlds most ‘secure’ phone. I’ve been watching this one for a while. Designed by an Architect it looks very different. Made of ‘Liquidmorphium’ and shipping in December. Call me curious…
 
-## askbash - [Charlie E](http://www.unboxedconsulting.com/people/charlie-egan)
+## askbash - [Charlie E](/people/charlie-egan)
 
 https://github.com/arikast/askbash
 
@@ -60,7 +60,7 @@ http://www.theverge.com/2015/9/2/9248309/google-new-logo-graphic-design
 The new Google logo. I think it’s fun, simple and progressive. Not sure about the gooey ‘e’. Hopefully that’s not a permanent thing. Here are the views of a few other designers.
 
 
-## Track of the Week - [Jon N](https://www.unboxedconsulting.com/people/jon-normington)
+## Track of the Week - [Jon N](/people/jon-normington)
 
 George Gershwin - was a great composer of his time and Rhapsody in Blue was his first composed piece for orchestra and piano, there are many other pieces for which combine different genres of the 30s and are extremely relaxing to listen to, such as I got rhythm, Of Thee I sing and Third Movement (Allegro Agitato)
 

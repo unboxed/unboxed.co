@@ -25,7 +25,7 @@ The Rails guys over on the blog also explain how to limit the effectiveness of p
 
 ### [Rails 3.2.9 is out](http://weblog.rubyonrails.org/2012/11/12/ann-rails-3-2-9-has-been-released/), [Rails 4 is coming strong](http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links)
 
-Well, this week Rails 3.2.9 has ben released. This might not be too exciting for most of us as I reckon many of us are waiting for Rails 4 to arrive. WAT?! U DUNNO RAILS 4?! Go on and [find out more about it](http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/). It's a useful list of things that are changing in Rails 4, along with links to relevant blog posts, gems, railscasts, pull requests etc. [Murray](http://www.unboxedconsulting.com/people/murray-steele) reckons it's a living document, so it'll get updated as things change or more content is added.
+Well, this week Rails 3.2.9 has ben released. This might not be too exciting for most of us as I reckon many of us are waiting for Rails 4 to arrive. WAT?! U DUNNO RAILS 4?! Go on and [find out more about it](http://blog.wyeworks.com/2012/11/13/rails-4-compilation-links/). It's a useful list of things that are changing in Rails 4, along with links to relevant blog posts, gems, railscasts, pull requests etc. [Murray](/people/murray-steele) reckons it's a living document, so it'll get updated as things change or more content is added.
 
 ### [Infinite Jukebox](http://musicmachinery.com/2012/11/12/the-infinite-jukebox/)
 With the Infinite Jukebox, you can create a never-ending and ever changing version of any song. Using [The Echo Nest](http://developer.echonest.com/), the application breaks down any song into individual beats, so that it can play it infinitely. Awesome stuff, after seeing this our Rob feels super inspired to go to the [Music Hackday London](https://www.hackerleague.org/hackathons/music-hack-day-london/hacks) tomorrow!
@@ -46,4 +46,4 @@ Also, let's be honest: Sometimes Git can be a bit frustrating. Check out '[When 
 Best thing I've seen all week:
 > … because an uninterrupted stream of kittens is the only thing that can generate enough relax with things going on.
 
-Thank you [Tom ten Thij](http://www.unboxedconsulting.com/people/tom-ten-thij) for posting this. Made my day and made it worth having a second monitor for real.
+Thank you [Tom ten Thij](/people/tom-ten-thij) for posting this. Made my day and made it worth having a second monitor for real.

@@ -49,7 +49,7 @@ Dave Evans, Product Manager (E-commerce), at [Nature Publishing Group] (http://w
 
 
 <h1>Talk 2: How designing a new experience in the NHS helped to unblock and unleash new potential</h1>
-The second session was led by [Glyn Parry](https://twitter.com/G_Parry24), Programme Manager of [SH:24](http://www.unboxedconsulting.com/case-studies/sh24) – a community interested company which partners with the NHS.<br/>
+The second session was led by [Glyn Parry](https://twitter.com/G_Parry24), Programme Manager of [SH:24](/project-stories/sh24) – a community interested company which partners with the NHS.<br/>
 <br/>
 Glyn shared the insight into why an iterative and Agile approach has been used to turn STI testing on its head - challenging deep seated practices and prejudices in the NHS and local authorities:<br/>
 
@@ -95,7 +95,7 @@ Will Rowan [@TheCustomer](https://twitter.com/thecustomer), Product Owner at [UK
 <br/>
 
 <h1>Talk 4: Techniques for overcoming the top digital product blockers</h1>
-Last, but by no means least, was [Richard Stobart](http://www.unboxedconsulting.com/people/richard-stobart). Richard spoke through the exact reasons as to why digital products get stuck and explored the techniques and methods to speed them back up again:<br/>
+Last, but by no means least, was [Richard Stobart](/people/richard-stobart). Richard spoke through the exact reasons as to why digital products get stuck and explored the techniques and methods to speed them back up again:<br/>
 
 ![Event4](http://i1291.photobucket.com/albums/b548/grammccram/DSC01908_zpsehdbafre.jpg)<br/>
 <br/>

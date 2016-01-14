@@ -39,7 +39,7 @@ Make sure these acceptance criteria have automated tests to confirm (later on as
 <br/>
 
 <h2>Non-functional testing</h2>
-Make sure you have [zero-known defects](https://www.unboxedconsulting.com/blog/why-should-you-have-a-zero-defect-strategy) in this feature. But one thing that’s often controversial is non-functional testing:<br/>
+Make sure you have [zero-known defects](/blog/why-should-you-have-a-zero-defect-strategy) in this feature. But one thing that’s often controversial is non-functional testing:<br/>
 
 * Volume testing
 * Soak testing

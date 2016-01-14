@@ -10,7 +10,7 @@ tags:
 
 ---
 
-[Andrew White](http://www.unboxedconsulting.com/people/andrew-white) hosted the third webinar in the <i>#StrongerAgile</i> series, titled <i>‘Take developers up the foodchain: Why and how to include developers in business and design meetings for better ideation’</i>.<br/>
+[Andrew White](/people/andrew-white) hosted the third webinar in the <i>#StrongerAgile</i> series, titled <i>‘Take developers up the foodchain: Why and how to include developers in business and design meetings for better ideation’</i>.<br/>
 <br/>
 The full audio of the session:<br/>
 <br/>

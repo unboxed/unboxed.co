@@ -11,14 +11,14 @@ October saw our <i>'New Rules of Outsourcing'</i> event take place at Skills Mat
 
 Unboxed Friends and Family, as well as our extended network, attended this half-day session to discover these <i>‘new rules’</i>, hearing from a diverse selection of digital leaders, including Channel 5, Plymouth University and Notonthehighstreet. <br/>
 
-The morning began with a delicious breakfast (with many, many chocolate croissants – a personal favourite for [Claire]( http://www.unboxedconsulting.com/people/claire-kemp)!), which gave us the perfect opportunity to meet, chat and dry off from the outside downpour!
+The morning began with a delicious breakfast (with many, many chocolate croissants – a personal favourite for [Claire]( /people/claire-kemp)!), which gave us the perfect opportunity to meet, chat and dry off from the outside downpour!
 <br/>
 
 The session began with a fantastic pairing activity. Each person was given a card with one half of a famous pair, with the aim to find their other half from around the room:<br/>
 
 ![outsource1]( http://i1291.photobucket.com/albums/b548/grammccram/e9769c6b-8374-4026-8426-0bb3991168a3_zpscccb9991.jpg)
 
-[Carrie](http://www.unboxedconsulting.com/people/carrie-bedingfield) and Paul Westmore matched as Mario and Luigi, making a perfect plumbing/hero partnership.<br/>
+[Carrie](/people/carrie-bedingfield) and Paul Westmore matched as Mario and Luigi, making a perfect plumbing/hero partnership.<br/>
 
 The first pairing activity then paved the way for the second, the origami challenge… Each pair was required to produce an origami piece of art by working in partnership. <br/>
 
@@ -26,7 +26,7 @@ Here is the “fox” from my partnership…<br/>
 
  ![outsource2]( http://i1291.photobucket.com/albums/b548/grammccram/aa149b6f-dda6-4dfb-b24d-2dc58f688a67_zpsfe5df3b6.png)
 
-So with the partnership activities complete, it was time for [Dom](http://www.unboxedconsulting.com/people/dominic-mason) to introduce the agenda: <br/>
+So with the partnership activities complete, it was time for [Dom](/people/dominic-mason) to introduce the agenda: <br/>
 
 ![outsource3]( http://i1291.photobucket.com/albums/b548/grammccram/2a870781-64be-4817-9d48-b873755d836e_zpsc044c166.jpg)
 
@@ -54,7 +54,7 @@ Yoann Martin, Technical Director of Notonthehighstreet, shared what makes a succ
 
 <i>"Outsourcing provides the power to scale up and down creates diversity which is an amazing thing! More debate. More innovation."</i><br/>
 
-Our very own [Richard](http://www.unboxedconsulting.com/people/richard-stobart) and [Steve](http://www.unboxedconsulting.com/people/steve-lennon) then concluded the session with:<br/>
+Our very own [Richard](/people/richard-stobart) and [Steve](/people/steve-lennon) then concluded the session with:<br/>
 • What to outsource and when<br/>
 • Understanding cost<br/>
 • Why ‘just recruiting’ isn’t that simple<br/>
@@ -72,5 +72,3 @@ Our very own [Richard](http://www.unboxedconsulting.com/people/richard-stobart) 
 A quick Q&A then finished the session.<br/>
 
 Overall, I found this to be such an insightful event. It was inspiring to hear how each internal and external team worked in partnership, as an integrated team, to reach a project goal. It was also credible to hear these experiences directly from those who overviewed each project, including any issues which arose; this really painted a realistic picture of how each partnership worked.<br/>
-
-Read further into detail of the event and discover the 5 new rules of outsourcing [here](http://www.unboxedconsulting.com/ideas/the-new-rules-of-outsourcing-how-to-develop-great-software-with-a-partner).

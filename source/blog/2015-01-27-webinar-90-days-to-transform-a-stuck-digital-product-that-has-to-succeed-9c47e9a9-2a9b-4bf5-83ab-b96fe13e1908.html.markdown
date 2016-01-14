@@ -7,7 +7,7 @@ tags:
   - Agile
 ---
 
-[Richard Stobart](http://www.unboxedconsulting.com/people/richard-stobart) held the first in a new webinar series, titled <i>‘90 days to transform a ‘stuck’ digital product that HAS to succeed...’</i>:<br/>
+[Richard Stobart](/people/richard-stobart) held the first in a new webinar series, titled <i>‘90 days to transform a ‘stuck’ digital product that HAS to succeed...’</i>:<br/>
 <br/>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/187985628&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -44,4 +44,4 @@ Among the insights shared were:<br/>
 
 Tweet us at [@Ubxd](https://twitter.com/Ubxd) with the hashtag <i>#90DayAgile</i> if you have any questions or you’d like to get in on the conversation.<br/>
 
-Richard is holding our next webinar on Wednesday 4th February, titled <i>'Why pair programming? And how to do it well…'</i>. Find out more information and [register here](http://www.unboxedconsulting.com/news/strongeragile-webinar-series-2015).
+Richard is holding our next webinar on Wednesday 4th February, titled <i>'Why pair programming? And how to do it well…'</i>. Find out more information and [register here](/news/strongeragile-webinar-series-2015).

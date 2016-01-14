@@ -8,40 +8,40 @@ tags:
   - Culture
 ---
 
-## Scientists in the field share their less than glorious moments - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Scientists in the field share their less than glorious moments - [Dom M](/people/dominic-mason)
 http://magazine.good.is/articles/fieldworkfail-scientists-are-people-too
 
-## Beam my data up, Scotty! - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Beam my data up, Scotty! - [Dom M](/people/dominic-mason)
 
 http://www.mnn.com/green-tech/computers/stories/scientists-achieve-quantum-teleportation-of-data-with-100-percent
 
 Experiment successfully achieves 'teleportation'.
 
-## Who actually reads the code? - [Charlie E](http://www.unboxedconsulting.com/people/charlie-egan)
+## Who actually reads the code? - [Charlie E](/people/charlie-egan)
 
 https://www.fsf.org/blogs/community/who-actually-reads-the-code
 
 A short post about leaving code easter eggs to determine who actually reads code in  an OSS project.
 
-## List of languages that compile to JS - [Charlie E](http://www.unboxedconsulting.com/people/charlie-egan)
+## List of languages that compile to JS - [Charlie E](/people/charlie-egan)
 
 https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-JS
 
 An incredibly long list of languages with javascript as a compile target.
 
-## Cards? Sharp! - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## Cards? Sharp! - [Dom M](/people/dominic-mason)
 
 http://venturebeat.com/2015/08/12/blackjack-taught-twitters-sid-patel-about-data-science-heres-what-it-can-teach-you/
 
 Here at Unboxed we favour the gentlemanly card game, Bridge, but [Sid Patil](https://twitter.com/sidp1897) of Twitter learned everything he knows about data science from Blackjack...
 
-## Half done vs fake - [Henry T](http://www.unboxedconsulting.com/people/henry-turner)
+## Half done vs fake - [Henry T](/people/henry-turner)
 
 https://www.facebook.com/notes/kent-beck/half-done-versus-fake-the-intermediate-resultmock-tradeoff/1005370156162515
 
 Kent Beck chats tradeoffs between testing intermediary results and mocks. TL;DR Intermediary tests are expensive.. just probably not as expensive as mocks.
 
-## If you love your data, set it free - [Dom M](http://www.unboxedconsulting.com/people/dominic-mason)
+## If you love your data, set it free - [Dom M](/people/dominic-mason)
 
 Struggling with getting your data to cross boundaries with JSON in relational databases? Leigh Halliday has this advice: http://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/
 
