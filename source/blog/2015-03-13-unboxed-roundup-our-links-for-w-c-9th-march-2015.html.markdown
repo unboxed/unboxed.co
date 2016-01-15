@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Sass Mixins vs Extends: The Data - [Gavin](/people/gavin-van-lelyveld)
+## Sass Mixins vs Extends: The Data - Gavin
 
 https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/
 
@@ -32,7 +32,7 @@ http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web
 
 Great, detailed, ‘all you wanted to know and a bit more’ description of initialising and using push notification service in web applications.  For the time being available in Chrome and Android GCM.
 
-##  GhostText allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 - [Gavin](/people/gavin-van-lelyveld)
+##  GhostText allows live editing of Chrome/Firefox text area or JS Code editor content with Sublime Text 3 - Gavin
 
 https://packagecontrol.io/packages/GhostText
 
@@ -49,13 +49,13 @@ I like to see how code is written by different people.  Particularly when the co
 
 These techniques are quite different to the code I'd write day-to-day, and I'd be wary of introducing them in a client project where other developers have to pick it up later.  For better or worse as developers for a client-service agency we have to be fairly conservative in our development choices.  However, I can see how these techniques might be useful and I'd love to try them out on a side project to get a better feel for them before introducing them to our client work.
 
-## Web app install banners on Chrome Beta - [Gavin](/people/gavin-van-lelyveld)
+## Web app install banners on Chrome Beta - Gavin
 
 http://updates.html5rocks.com/2015/03/increasing-engagement-with-app-install-banners-in-chrome-for-android
 
 Chrome on mobile is developing a standard for displaying a banner prompting the user to add your Web App to their homescreen. UX Standardization!
 
-## Track of the Week - [Patrick D](/people/patrick-davenport)
+## Track of the Week - Patrick D
 
 <iframe src="https://player.vimeo.com/video/75174796" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ["Shallows"  by Daughter](https://vimeo.com/75174796).

@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Potent bow wave sweeps across the stars - [Dom M](/people/dominic-mason)
+## Potent bow wave sweeps across the stars - Dom M
 
 http://gizmodo.com/a-runaway-star-makes-an-interstellar-bow-wave-1715854690
 
@@ -32,7 +32,7 @@ http://www.color-blindness.com/color-name-hue/
 
 Ever struggled with sass variables like `$light-grey, $lighter-grey, $lighter-lighter-grey, $even-lighter-grey`? Come up with meaningful and appropriate names for your sass variables using this One Cool Website
 
-## DeployBot - [Charlie E](/people/charlie-egan)
+## DeployBot - Charlie E
 
 http://deploybot.com/
 

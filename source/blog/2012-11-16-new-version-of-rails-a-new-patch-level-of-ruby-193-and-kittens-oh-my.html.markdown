@@ -46,4 +46,4 @@ Also, let's be honest: Sometimes Git can be a bit frustrating. Check out '[When 
 Best thing I've seen all week:
 > … because an uninterrupted stream of kittens is the only thing that can generate enough relax with things going on.
 
-Thank you [Tom ten Thij](/people/tom-ten-thij) for posting this. Made my day and made it worth having a second monitor for real.
+Thank you Tom ten Thij for posting this. Made my day and made it worth having a second monitor for real.

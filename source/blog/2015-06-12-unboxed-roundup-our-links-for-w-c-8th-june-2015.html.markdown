@@ -26,7 +26,7 @@ Microservices are the cool kid on the block, but they come with different comple
 
 I have been searching far and wide for decent date and time picker and finally decided on Amsul’s [pickadate.js](https://github.com/amsul/pickadate.js). It offers plenty of style customisation and configuration and so far I can’t fault it.
 
-## Inject and the healthy kind of headache - [Pedro M](/people/pedro-moreirea)
+## Inject and the healthy kind of headache - Pedro M
 
 https://robots.thoughtbot.com/derive-inject-for-a-better-understanding
 
@@ -38,6 +38,6 @@ https://gist.github.com/pixeltrix/e2298822dd89d854444b
 
 Our very own [Andrew W](/people#andrew-white) helpfully explains the misconceptions about the Ruby [DateTime](http://ruby-doc.org/stdlib/libdoc/date/rdoc/DateTime.html) and [Time](http://ruby-doc.org/core/Time.html) objects, and when to use each one.  An explanation so helpful it was [added to the official ruby docs](https://github.com/ruby/ruby/commit/4545875)!
 
-## Mind bending design fiction from an alternative universe - [Dom M](/people/dominic-mason)
+## Mind bending design fiction from an alternative universe - Dom M
 
 http://www.spoon-tamago.com/2015/06/08/pantograph-imagines-gadgets-from-a-parallel-world/

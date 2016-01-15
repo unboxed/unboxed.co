@@ -120,7 +120,7 @@ I went to the [June Front End London meetup](http://lanyrd.com/2014/front-end-lo
 > - CCTV cameras, traffic lights, ATMs
 > - London Underground stations, positions of tubes
 
-## The Art of Organizational Manipulation - [Karl](/people/karl-entwistle)
+## The Art of Organizational Manipulation - Karl
 
 https://www.youtube.com/watch?v=OTCuYzAw31Y
 

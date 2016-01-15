@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-##[Matt Peperell](/people/matt-peperell)
+##Matt Peperell
 ### wysiwyg for responsive sites
 This week's work on Apps for Good has been challenging in a number of ways.  One of the largest time-sinks has been the responsive design.  Here's [a WYSIWYG editor for responsive design](http://webflow.com/).
 
@@ -20,7 +20,7 @@ http://www.youtube.com/watch?v=_ahvzDzKdB0
 Who remembers geocities?  Here's a link to remind you of those days.
 http://divshot.github.io/geo-bootstrap/ - a geocities-like theme applied to the [twitter bootstrap library](http://twitter.github.io/bootstrap/)
 
-##[Joerg Diekmann](/people/joerg-diekmann)
+##Joerg Diekmann
 ### Forecast-cli
 forecast-cli (https://npmjs.org/package/forecast-cli)
 Get a weather forecast in your terminal - written by Joerg.

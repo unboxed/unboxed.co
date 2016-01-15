@@ -23,7 +23,7 @@ Check out [Kippt](http://www.kippt.com) - it's a really pretty looking site to h
 
 Keith Clark created a [CSS3 FPS demo](http://keithclark.co.uk/labs/css3-fps/) that you just have to try (in Safari). It's an incredible CSS powered 3D engine with lighting, shadows and collisions that makes full use of CSS transforms.
 
-##Silly people publishing their RSA keys ([Matt P](/people/matt-peperell))
+##Silly people publishing their RSA keys (Matt P)
 
 Top top of the day: do not publish your private RSA key. A tweet doings the rounds recently, highlighted the fact that lots of people have submitted their private key to github repos.  Github have since masked the results, but you can still get a plethora of hits in Google. 
 

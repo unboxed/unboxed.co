@@ -44,7 +44,7 @@ tags:
 
 
 <br/>
-## A journey into building a side project - [Pedro M](/people/pedro-moreira)
+## A journey into building a side project - Pedro M
 
 * http://cushionapp.com/journal/
 
@@ -63,7 +63,7 @@ tags:
 > AirBnB’s style guide for JavaScript and Ruby
 
 <br/>
-## NASA Got Hackers to Design a Zero G Drone for Space - [Dom M](/people/dominic-mason)
+## NASA Got Hackers to Design a Zero G Drone for Space - Dom M
 
 * http://motherboard.vice.com/read/nasa-got-hackers-to-design-a-zero-g-drone-for-space?utm_source=mbtwitter
 

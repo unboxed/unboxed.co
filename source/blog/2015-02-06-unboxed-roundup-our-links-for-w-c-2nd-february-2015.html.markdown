@@ -15,13 +15,13 @@ http://www.flourish.org/2011/12/astonishments-ten-in-the-history-of-version-cont
 This isn't a comprehensive history of version control, but it doesn't try to be.  What it does do is skim over the major advancements in version control: from first deciding to keep source code in a text file all the way up to the distributed VCS we have with git.  It's useful to reflect on how things used to be and how each new idea for improvement built on top of the previous version.  Makes you wonder what tiny change will happen to give us the exciting new types of VCS we'll be using in 5-10 years time.  Perhaps [something that helps rebasing be less painful](https://medium.com/@porteneuve/fix-conflicts-only-once-with-git-rerere-7d116b2cec67)?
 
 
-## Facebook-lite - [Dom](/people/dominic-mason)
+## Facebook-lite - Dom
 
 http://techcrunch.com/2015/01/25/facebook-lite-rides-again/
 
 For all the talk of [React](http://facebook.github.io/react/blog/2013/06/05/why-react.html), Facebook haven’t forgotten where the big traffic is and are building Facebook-lite (again) for low end Android
 
-## Crowdsourced Game Design - [Dom](/people/dominic-mason)
+## Crowdsourced Game Design - Dom
 
 http://www.wired.com/2015/01/how-twitter-built-a-game-idarb
 

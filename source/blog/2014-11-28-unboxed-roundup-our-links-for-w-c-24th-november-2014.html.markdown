@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Autosquashing in git rebase - [Alex](/people/alex-bobin)
+## Autosquashing in git rebase - Alex
 
 http://hamberg.no/erlend/posts/2013-11-29-git-autosquash.html
 
@@ -26,7 +26,7 @@ http://articles.coreyhaines.com/posts/short-lived-branches/
 
 A few times in the past I've discussed "delete everything that's not done every day" as a slightly whimsical or masochistic development methodology with friends; admittedly this usually happens in the pub where ideas don't often require a grounding in reality or pragmatism.  Corey Haines' article above isn't quite as hard-line as our pub-chat, but I was surprised to see someone talking about the same idea, even if it is slightly watered-down.  It can be useful to challenge our assumptions about how we work every so often just to see what we can come up with.  If re-writing at the feature or story level every day could be useful, I do wonder if re-writing the entire app every `TIME_PERIOD_X` would also be useful.  Maybe "the big rewrite" isn't something to be scared of?
 
-## The Gmail / Inbox split - [Dom](/people/dominic-mason)
+## The Gmail / Inbox split - Dom
 
 http://techcrunch.com/2014/11/16/why-did-google-decide-to-split-inbox-from-gmail/
 

@@ -24,10 +24,10 @@ I've always been confused by the different git workflows.  Not quite sure how th
 
 For those into devops, read Bryan Berry's [First Month with Chef](http://devopsanywhere.blogspot.co.uk/2011/10/month-with-chef.html).  The pirate and ninja analogy is poignant.
 
-## Code smells in CSS ([Matt P](/people/matt-peperell))
+## Code smells in CSS (Matt P)
 Yay. Another style guide. &lt;/deadpan&gt;. No, wait - this one is actually interesting; it's descriptive not just prescriptive.
 http://csswizardry.com/2012/11/code-smells-in-css/
 
-## JavaScript 1k ([Matt P](/people/matt-peperell))
+## JavaScript 1k (Matt P)
 Here's a  awesome visualisation written in just 1017 bytes of JavaScript
 http://js1k.com/2013-spring/demo/1555

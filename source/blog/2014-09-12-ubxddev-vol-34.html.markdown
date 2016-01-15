@@ -14,7 +14,7 @@ http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf
 
 A flowchart to help when choosing an appropriate HTML5 sectioning element.
 
-## Speed-up tests - [Jolyon](/people/jolyon-pawlyn)
+## Speed-up tests - Jolyon
 
 As applications grow in size and complexity the need to minimise test execution time becomes critical.  [Speed Up Tests by Selectively Avoiding Factory Girl]
 (http://robots.thoughtbot.com/speed-up-tests-by-selectively-avoiding-factory-girl) covers some useful techniques like using `FactoryGirl.build_stubbed` and warns that `FactoryGirl.build` still results in persisted associated models.

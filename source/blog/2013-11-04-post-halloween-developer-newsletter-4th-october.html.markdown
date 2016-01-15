@@ -21,7 +21,7 @@ Cool hack on how to make sure your schema conflicts are always good to go.
 
 Starlogs is a toy for github projects.  Give it a project owner and project, and see the commits rendered in the style of the Star Wars story. There's even a predictable theme tune.  Here's what it looks like for the devise authentication library: http://starlogs.net/#plataformatec/devise
 
-## What is your type - [Ben J](/people/ben-janecke)
+## What is your type - Ben J
 
 [What is your type](http://www.pentagram.com/what-type-are-you/) Go through an epic journey to find out your type.
 

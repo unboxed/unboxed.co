@@ -20,7 +20,7 @@ https://medium.com/user-experience-design-1/dear-web-designer-let-s-stop-breakin
 
 Using good design to communicate vs relying on noisy, forceful interface clutter.
 
-## BB8 exists! - [Dom M](/people/dominic-mason)
+## BB8 exists! - Dom M
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ABzjUf3E_0c" frameborder="0" allowfullscreen></iframe>
 

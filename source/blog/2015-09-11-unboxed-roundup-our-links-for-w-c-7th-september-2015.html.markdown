@@ -26,13 +26,13 @@ http://flexboxin5.com/
 
 Interactive demo to show how css flexbox layouts work and how using flexbox makes many front-end issues like vertically centering an element trivial to solve. Best viewed on chrome.
 
-## Top tips for data viz - [Dom M](/people/dominci-mason)
+## Top tips for data viz - Dom M
 
 https://github.com/mbostock/d3/wiki/Gallery
 
 Love data viz? Love this JavaScript visualisation library!
 
-## Track of the Week - [Charlie E](/people/charlie-egan)
+## Track of the Week - Charlie E
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kVReKc3UZ3A" frameborder="0" allowfullscreen></iframe>
 ["New Tech Haven" by Bjørn Lynne](https://www.youtube.com/watch?v=kVReKc3UZ3A)

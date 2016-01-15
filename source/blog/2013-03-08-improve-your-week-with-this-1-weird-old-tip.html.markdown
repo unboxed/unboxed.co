@@ -11,7 +11,7 @@ tags:
 Ok, so it's more like 16 perfectly normal new tips.  Sorry for misleading you.  Anyway here they are:
 
 
-Tips from [Matt P](/people/matt-peperell)
+Tips from Matt P
 ------------------
 
 ### Software bloat
@@ -53,12 +53,12 @@ Rails Girls is a global movement to teach coding and web development using rails
 
 Don't let the title fool you, there are about 100 snippets of code in this set of slides from the Aloha Ruby Conf in Hawaii.  Goes over syntax you didn't know about, core library features you often forget, and delves into the esoteric stuff in the standard library.  Really good, if a little dense and each slide is quite brief, probably best to run through it with irb open so you can try it out as you go.
 
-A tip from [Jolyon P](/people/jolyon-pawlyn)
+A tip from Jolyon P
 ---------------------
 
 Why leave agility moping in the corner of the office when you leave for the day if you can take it home and start a [revolution](http://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family.html)?
 
-Tips from [Steve B](/people/steve-barnett)
+Tips from Steve B
 -------------------
 
 ### The Works

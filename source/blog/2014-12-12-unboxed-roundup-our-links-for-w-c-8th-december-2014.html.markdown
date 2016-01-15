@@ -38,13 +38,13 @@ A fun and outrageous set of scrolling effects, my favourite is "Fling it".
 
 [http://invisiblebread.com/2014/10/hes-very-good/](http://invisiblebread.com/2014/10/hes-very-good/)
 
-## SaaS Survey - [Dom](/people/dominic-mason)
+## SaaS Survey - Dom
 
 http://www.forentrepreneurs.com/2014-saas-survey-1/
 
 Thought-provoking, key metrics, SaaS survey for 300+ companies.
 
-## UI trends - [Dom](/people/dominic-mason)
+## UI trends - Dom
 
 http://dangrover.com/blog/2014/12/01/chinese-mobile-app-ui-trends.html
 

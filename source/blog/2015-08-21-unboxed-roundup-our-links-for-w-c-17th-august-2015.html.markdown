@@ -14,19 +14,19 @@ http://alistapart.com//article/understanding-emotional-response
 
 This article gives psychological insight about what people’s emotional responses at work are really telling us, and how to react best to them.
 
-## Big data: cutting through the waffle(s) - [Dom M](/people/dominic-mason)
+## Big data: cutting through the waffle(s) - Dom M
 
 http://www.bbc.co.uk/news/business-33892409
 
 Big data draws big headlines, so it's good to see practical cases studies for data analysis from 1/2 sizes in shoes to... waffles. As we know at Unboxed, it's not about the data itself, it's about designing insightful, resilient experiments in the first place.
 
-## The Slack Post - [Charlie E](/people/charlie-egan)
+## The Slack Post - Charlie E
 
 https://theslackpost.com
 
 Post all the useful links from Slack in a simple public newspaper.
 
-## Atten-shunned! - [Dom M](/people/dominic-mason)
+## Atten-shunned! - Dom M
 
 https://medium.com/life-learning/may-i-have-your-attention-please-19ef6395b2c3
 
@@ -38,19 +38,19 @@ http://m.nsa.gov/ia/programs/suiteb_cryptography/index.shtml
 
 The US government has started increasing key lengths and crypto parameters in response to improvements in Quantum Computing. Industry has just started moving to SHA 256 for SSL website verification, but this moves things forward to SHA 384.
 
-## Vorschprung durch technicked? - [Dom M](/people/dominic-mason)
+## Vorschprung durch technicked? - Dom M
 
 http://www.bloomberg.com/news/articles/2015-08-14/vw-has-spent-two-years-trying-to-hide-a-big-security-flaw
 
 German car giant VW has spent two years trying to hide a security flaw that is not simple to correct and can allow car theft in <60 seconds.
 
-## A speaker in a lightbulb? Watt?! - [Dom M](/people/dominic-mason)
+## A speaker in a lightbulb? Watt?! - Dom M
 
 http://www.independent.co.uk/life-style/gadgets-and-tech/this-bluetooth-speaker-light-bulb-kills-two-birds-with-one-stone-10243240.html
 
 Sony's Bluetooth, IoT-enabled lightbulb/speaker gives a glimpse of the future of multifunction, connected homes.
 
-## Track of the Week - [Ben Janecke](/people/ben-janecke)
+## Track of the Week - Ben Janecke
 
 My track is Autolux: Turnstile Blues
 

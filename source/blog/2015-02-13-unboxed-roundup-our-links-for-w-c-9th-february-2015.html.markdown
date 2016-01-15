@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## git 2.3 released, with Push to Deploy - [Gavin](/people/gavin-van-lelyveld)
+## git 2.3 released, with Push to Deploy - Gavin
 
 https://github.com/blog/1957-git-2-3-has-been-released
 
@@ -26,7 +26,7 @@ http://shancarter.github.io/mr-data-converter/
 
 An awesome site for converting CSV/TSV/copy-paste from Excel/Numbers into a Ruby hash, JSON object, Python dictionary etc. A massive timesaver.
 
-## Programmer Proverbs - [Gavin](http://www.unboxedconsluting.com/people/gavin-van-lelyveld)
+## Programmer Proverbs - Gavin
 
 http://futurice.com/blog/programmer-proverbs
 

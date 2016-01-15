@@ -34,7 +34,7 @@ The Ruby Rogues talk to Pete Hodgson about his RailsConf2014 talk (https://speak
 
 In http://www.se-radio.net/2014/10/episode-213-james-lewis-on-microservices/, Software Engineering Radio has an informative interview with James Lewis about micro services.  James Lewis co-authored the micro services article at http://martinfowler.com/articles/microservices.html.  The conversation ranges from definitions (or the lack thereof) to different ideas and how they scale or where the problems get shifted to.  Should the UI live with the service? Should there be a UI layer pull the services together?  And lots of other interesting discussions.
 
-## Track of the Week - [Pedro](/people/pedro-moreira)
+## Track of the Week - Pedro
 
 Choosing a single track is a pretty difficult exercise for me. If you’ve seen/read “High Fidelity”: yeah, it does escalate to epic proportions. After much looking at playlists on my phone, played stats on Rdio and iTunes, I just went with the one track I played through to the end while trying to choose. In the end it came down to Zola Jesus or Sleater-Kinney, that have a new album out - which is great news, since I feel we need their voice and attitude to shed light on the current zeitgeist. Anyway, here is Zola Jesus. Have a great weekend!
 

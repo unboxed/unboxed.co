@@ -14,7 +14,7 @@ http://codepen.io/samthejarvis/pen/rpIKz
 
 [The tweet I saw this link in](https://twitter.com/jonikorpi/status/507538058959659008) sums this link up perfectly: I don't understand CSS anymore.  I was also amazed that although this link is just some CSS, it made the fans on my laptop spin up to process it!
 
-## What's next for Rack? - [Pedro](/people/pedro-moreira)
+## What's next for Rack? - Pedro
 
 https://github.com/tenderlove/the_metal
 

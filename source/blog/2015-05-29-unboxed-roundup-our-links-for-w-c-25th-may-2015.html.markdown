@@ -17,7 +17,7 @@ tags:
 
 
 <br/>
-## Remote or co-located pairing - [Alex B](/people/alex-bobin)
+## Remote or co-located pairing - Alex B
 
 * https://screenhero.com
 

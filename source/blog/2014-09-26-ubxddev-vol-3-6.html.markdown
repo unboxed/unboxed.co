@@ -22,7 +22,7 @@ http://christopheraue.net/2014/03/05/vertical-align/
 
 An in-depth look at the CSS vertical-align property, how it works, and why it might not behave as you expect.
 
-## Overkill - [Karl](/people/karl-entwistle)
+## Overkill - Karl
 
 https://www.youtube.com/watch?v=qLpvc5r6Bb0
 
@@ -37,7 +37,7 @@ This talk by [Katrina Owen](http://www.kytrinyx.com/) presents a simple problem 
 
 Overall It’s a nicely paced, smooth and well rehearsed talk. Worth a watch!
 
-## A tuple OVER window functions - [Pedro](/people/pedro-moreira)
+## A tuple OVER window functions - Pedro
 
 1. http://robots.thoughtbot.com/postgres-window-functions
 2. http://robots.thoughtbot.com/active-record-eager-loading-with-query-objects-and-decorators

@@ -16,7 +16,7 @@ http://news.dice.com/2014/09/04/3-interview-questions-scrum-masters/
 
 A nice article on what to ask Scrum Masters in an interview and why you should ask those questions.
 
-## This. Is. Just. Crazy. - [Attila](/people/attila-gyorffy)
+## This. Is. Just. Crazy. - Attila
 
 https://github.com/geelen/djgif
 
@@ -42,13 +42,13 @@ Jimmy Breck-McKye writes his opinions on the churn rate of JavaScript frameworks
 
 40 photographers come together to capture a single day of life in London.
 
-## How To Hack Your Home. - [Dom](/people/dominic-mason)
+## How To Hack Your Home. - Dom
 
 http://www.bbc.co.uk/iplayer/episode/b04w84yp/royal-institution-christmas-lectures-2014-sparks-will-fly-how-to-hack-your-home-1-the-light-bulb-moment
 
 Inspirational, thought-provoking hacking experiments using items in the home.
 
-## CSS as it is written - [Gavin](/people/gavin-van-lelyveld)
+## CSS as it is written - Gavin
 
 http://reports.quickleft.com/css
 
@@ -58,5 +58,5 @@ This survey downloaded CSS files from over 8,000 domains and aggregated some dat
 
 [Carrie](/people#carrie-bedingfield): http://gabinaureche.com/TheaterJS/
 
-[Dom](/people/dominic-mason): [retro games machines pixel art](http://thecuriousbrain.com/?p=56883)
+Dom: [retro games machines pixel art](http://thecuriousbrain.com/?p=56883)
 

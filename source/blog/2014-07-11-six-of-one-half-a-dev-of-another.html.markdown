@@ -22,7 +22,7 @@ This short article from [Chris Parsons](http://chrismdp.com) serves as a great r
 
 ## Ruby's Encoding comment - [Murray](/people#murray-steele)
 
-Our very own [Karl Entwistle](/people/karl-entwistle) became [rails latest contributor yesterday](https://github.com/rails/rails/pull/16123).  While reading his submission I spotted that he'd marked his test as utf-8 with the following comment:
+Our very own Karl Entwistle became [rails latest contributor yesterday](https://github.com/rails/rails/pull/16123).  While reading his submission I spotted that he'd marked his test as utf-8 with the following comment:
 
     # coding: utf-8
 

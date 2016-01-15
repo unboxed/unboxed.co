@@ -31,7 +31,7 @@ Dash is a program which has collated over 150 documents from postgres to Ember t
 
 Have a look at it - you might just be surprised how much of a learning resource it can also be.
 
-## Sell 'exciting horse riding experiences' not 'saddles' - [Dom M](/people/dominic-mason)
+## Sell 'exciting horse riding experiences' not 'saddles' - Dom M
 
 https://medium.com/accel-insights/we-dont-sell-saddles-here-4c59524d650d
 

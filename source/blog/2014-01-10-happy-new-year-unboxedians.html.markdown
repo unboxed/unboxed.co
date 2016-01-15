@@ -14,7 +14,7 @@ You’ve probably thought about writing better commit messages, but have you eve
 
 That said, there’s lots of good stuff about writing better messages in this article, and I can’t quite dismiss it outright.  I think because it reminds me of the kinds of [constraint-based coding exercises you run through at a code-retreat](http://coderetreat.org/facilitating/activity-catalog).  The constraints can force you to think more about something you normally do without thinking, and that can reveal new approaches.  Maybe I’ll just try it and see what happens.
 
-## Logging with Node.js - [Andy M](/people/andrew-mitchell)
+## Logging with Node.js - Andy M
 
 For a long time now I have been stuck in the world of using a simply console.log in my Node applications. Often though its simply not enough for a production application where log files and levels are required. This article covers how to use Winston as a more featured logger in your node applications.
 

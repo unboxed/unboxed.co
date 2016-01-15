@@ -14,7 +14,7 @@ tags:
 
 A useful Chrome extension to find out what JS libraries are being used on the website you are browsing.
 
-### Git 2.0 - [Gavin](/people/gavin-van-lelyveld)
+### Git 2.0 - Gavin
 
 [http://blogs.atlassian.com/2014/06/happened-git-2-0-full-goodies/](http://blogs.atlassian.com/2014/06/happened-git-2-0-full-goodies/)
 
@@ -51,7 +51,7 @@ This article about the Rails + Merb merge could seem like it is 4 years too late
 
 Either way, I think it's a useful piece of writing and I'd like to see more articles that explore this sort of reflection on technology.  So much of the writing about technology we see is just hype about the latest hot! new! cool! thing! that it's refreshing to read about critically evaluating those things much later to see if they delivered on their promises (*spoiler*: they probably don't).
 
-### My Top RailsConf 2014 Talks - [Karl](/people/karl-entwistle)
+### My Top RailsConf 2014 Talks - Karl
 
 #### [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 

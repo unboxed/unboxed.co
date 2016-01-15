@@ -11,23 +11,23 @@ tags:
   - Lean
 ---
 
-## Ruby on Rails 4 is here - [Andy M](/people/andrew-mitchell)
+## Ruby on Rails 4 is here - Andy M
 [http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/](http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/)
 
 Yep, that's correct the latest version of RoR is finally here as of Tuesday morning. I'm not going to give you all the blurb about new features etc, however, I will link you to  a couple of resources about upgrading your application to the latest release. As usual [Ryan Bates](https://github.com/ryanb) [Railscasts](http://www.railscasts.com) are a great source of information and you can find his upgrade tutorial at [http://railscasts.com/episodes/415-upgrading-to-rails-4](http://railscasts.com/episodes/415-upgrading-to-rails-4). It's also worth reading Rails' edge guides which you can find here [http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html](http://edgeguides.rubyonrails.org/upgrading_ruby_on_rails.html)
 
 
-## Concurrent garbage collection lands in Rubinius - [Leo C](/people/leo-cassarani)
+## Concurrent garbage collection lands in Rubinius - Leo C
 
 [http://rubini.us/2013/06/22/concurrent-garbage-collection/](http://rubini.us/2013/06/22/concurrent-garbage-collection/)
 
 I've been testing this for a few weeks, and concurrent GC has finally landed in Rubinius master. This excellent, highly technical, writeup by Dirkjan Bussink (one of the developers that are sponsored by Engine Yard to work on Rubinius full time) is a great insight into how to make garbage collection as fast as possible, given Ruby's highly dynamic environment. I encourage you all to try this out when you get a chance.
 
-## Ruby 2.0.0-p247 fixes OpenSSL vulnerability - [Andy M](/people/andrew-mitchell)
+## Ruby 2.0.0-p247 fixes OpenSSL vulnerability - Andy M
 Ruby 2.0.0-p247 has also been released this week and provides a fix for a vulnerability in the bundled OpenSSL library. You can find details of the release [at ruby-lang.org](http://www.ruby-lang.org/en/news/2013/06/27/ruby-2-0-0-p247-is-released) and details of the vulnerability can be found [here](http://www.ruby-lang.org/en/news/2013/06/27/hostname-check-bypassing-vulnerability-in-openssl-client-cve-2013-4073/)
 
 
-## EcmaScript Sixth Edition - [Carl W](/people/carl-whittaker)
+## EcmaScript Sixth Edition - Carl W
 
 [http://espadrine.github.io/New-In-A-Spec/es6/](http://espadrine.github.io/New-In-A-Spec/es6/)
 
@@ -54,7 +54,7 @@ commits. I learned something from it (did you know you could chain
 parent references?) and it's been useful in training members of the dev
 team at the client I'm working at.
 
-## The Obligatory (Octo)cat Section - [Ben G](/people/benjamin-giffin)
+## The Obligatory (Octo)cat Section - Ben G
 
 [http://octodex.github.com/](http://octodex.github.com/)
 

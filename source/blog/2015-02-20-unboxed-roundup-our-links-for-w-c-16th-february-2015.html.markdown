@@ -33,7 +33,7 @@ I did a lightning talk at [Ladies that UX](http://www.ladiesthatux.com/) the oth
 <iframe src="//www.slideshare.net/slideshow/embed_code/44883115" width="477" height="510" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
 [Redesigning the UX of Employment](http://www.slideshare.net/clairekemp940/redesigning-the-ux-of-employment)
 
-## Fix conflicts once with git rerere - [Gavin](/people/gavin-van-lelyveld)
+## Fix conflicts once with git rerere - Gavin
 
 https://medium.com/@porteneuve/fix-conflicts-only-once-with-git-rerere-7d116b2cec67
 
@@ -45,7 +45,7 @@ http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord
 
 While implementing a story recently, I was reprimanded by our static code analysis tool for making an already-podgy Model even fatter. This article offers several approaches to slimming down your Models including the extraction of Value, Service or Policy objects, as well as more advanced techniques involving Decorators and Form objects.
 
-## Track of the Week - [Alex](/people/alex-bobin)
+## Track of the Week - Alex
 
 This older track by Flume gets me there and back again
 

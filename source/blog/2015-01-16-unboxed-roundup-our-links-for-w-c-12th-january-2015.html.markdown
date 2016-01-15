@@ -20,19 +20,19 @@ http://www.heppell.net/
 
 Stephen Heppell is a fascinating fellow who seems to have a naturally agile approach to life. His big thing is how to embrace technology within education and his focus on empowering children is great. His values shine through everything he does and says and his website is either brilliant or awful.
 
-## Consumer electronics are dying? - [Dom](/people/dominic-mason)
+## Consumer electronics are dying? - Dom
 
 http://www.reuters.com/article/2015/01/05/us-bang-olufsen-m-a-idUSKBN0KE13620150105
 
 Stand-alone consumer electronics is dying, can't compete with software and scale.
 
-## Github Github Github - [Gavin](/people/gavin-van-lelyveld)
+## Github Github Github - Gavin
 
 https://github.com/blog/1939-how-github-uses-github-to-document-github
 
 How GitHub more closely aligns documentation with their workflow, including text reusability, pull requests, versioning and testing.
 
-## OTT apps under threat? - [Dom](/people/dominic-mason)
+## OTT apps under threat? - Dom
 
 http://rt.com/uk/221879-surveillance-whatsapp-facebook-snowden/
 
@@ -44,13 +44,13 @@ https://www.brightbox.com/blog/2015/01/05/ruby-2-2-0-packages-for-ubuntu/
 
 This link comes with an "as used by" recommendation from me.
 
-## The state of the internet - [Dom](/people/dominic-mason)
+## The state of the internet - Dom
 
 http://www.akamai.com/html/about/press/releases/2015/press-010815.html
 
 Akamai's quarterly 'State of the internet' report is out.
 
-## Better IE VMs - [Gavin](/people/gavin-van-lelyveld)
+## Better IE VMs - Gavin
 
 http://blogs.msdn.com/b/ie/archive/2015/01/06/ie-test-vms-on-modern-ie-get-a-refresh.aspx
 

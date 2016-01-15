@@ -30,7 +30,7 @@ If you want to write a custom failure app that's okay - just don't use [``Action
 
 One of the things announced at Google IO this year was [Material Design](http://www.google.com/design/spec/) which is Google's design documentation for what their applications will look like.  You can already see hints of it in the [new maps interface](https://www.google.co.uk/maps/preview), and the [gmail client on iOS](https://itunes.apple.com/app/gmail/id422689480?mt=8), but I expect that [Android L](https://en.wikipedia.org/wiki/Android_L) will be the real unveiling.  There's lots of good stuff, particularly at the start of the document where it's more general about how objects and controls should react to each other.  As it progresses it becomes less generally useful as it goes into specifics for how to layout the padding on text-boxes, and other controls to make them fit in with Material Design.  Even if you aren't writing applications that you want to fit in with Material Design it would be worth reading this document to get a feel for some current thinking in UX.
 
-## Homebrew wrapper around launchctl - [Andrew M](/people/andrew-mitchell)
+## Homebrew wrapper around launchctl - Andrew M
 
 [http://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew](http://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew)
 
