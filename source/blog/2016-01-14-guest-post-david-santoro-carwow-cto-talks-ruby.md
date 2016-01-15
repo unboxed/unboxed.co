@@ -1,5 +1,5 @@
 ---
-author: Graeme McCubbin
+author: Carrie Bedingfield
 tags: 
   - Agile
   - Rails
@@ -8,6 +8,7 @@ date: "2016-01-14 13:00 +0000"
 published: true
 title: "Guest post: David Santoro, carwow CTO, talks Ruby"
 ---
+
 
 
 ## carwow’s David Santoro talks Ruby, Extreme Programming and creating a unique space to scale a digital product
