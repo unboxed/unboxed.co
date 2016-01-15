@@ -23,9 +23,9 @@ Many growing small businesses in the UK need to ease cash flow quickly - but it 
 - Simplifies month end<br/>
 <br/>
 
-<br/>
 # How LifT works
 Connect LifT to your current online accounting package and then:
+
 - Find out exactly what invoice financing is available based on your actual current online accounting sales ledger
 - Automate the process of verifying debtor identity and credit history
 - Select what to invoice finance and when
@@ -34,7 +34,6 @@ Connect LifT to your current online accounting package and then:
 - Automatic reconciliation of invoice generation and payment<br/>
 <br/>
 
-<br/>
 # LifT is in the final stages of launch
 [Sign up here](mailto: sarah.beck@unboxed.co) to be in the first 100 and receive a free account on launch.
 
