@@ -13,7 +13,7 @@ title: Lift Digital
 
 ![Lift](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-01-15%20at%2015.59.05_zpsp7tqcuq2.png)
 
-Many growing small businesses in the UK need to ease cash flow quickly - but it needs to be cost effective and sustainable over time. LIFT is an online invoice financing solution, connecting SMEs to ‘self serve’ invoice financing directly from their existing online accounting software account, like Xero.<br/>
+Many growing small businesses in the UK need to ease cash flow quickly - but it needs to be cost effective and sustainable over time. LifT is an online invoice financing solution, connecting SMEs to ‘self serve’ invoice financing directly from their existing online accounting software account, like Xero.<br/>
 <br/>
  
 # What LifT does for small businesses
