@@ -19,8 +19,8 @@ Many growing small businesses in the UK need to ease cash flow quickly - but it 
 # What LifT does for small businesses
 - Gets your invoice financed cash into your bank faster – reduces a 30 days approval process down to 5 working days
 - Makes the cost effective option of invoice financing quick and easy to access
-- Eliminates day to day admin
-- Eliminates errors 
+- Eliminates day-to-day admin
+- Eliminates errors
 - Simplifies month end<br/>
 <br/>
 
