@@ -24,4 +24,12 @@ Software is the result of thousands of decisions. Add this feature; clarify this
 
 Creating software is a journey—let Git be your travel journal.
 
-## Track of the Week - [](/people/)
+## Track of the Week - [Jolie L](/people/jolie-lanser)
+
+"I re-invented my image so many times that I'm in denial that I was originally an overweight Korean woman."
+David Bowie
+
+Call him crazy or genius or both, this week I’m celebrating his life with his constant sound and personality changes!
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/xMQ0Ryy01yE" frameborder="0" allowfullscreen></iframe>
+["Changes" by David Bowie](https://www.youtube.com/watch?v=xMQ0Ryy01yE&feature=youtu.be)
