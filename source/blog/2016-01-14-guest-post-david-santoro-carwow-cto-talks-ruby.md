@@ -5,9 +5,10 @@ tags:
   - Rails
 main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Carwowscreenshot-of-offer-page-64f52111e4abd0061ec79f9fe166798d_zpsyzlcomzt.jpg"
 date: "2016-01-14 13:00 +0000"
-published: true
+published: false
 title: "Guest post: David Santoro, carwow CTO, talks Ruby"
 ---
+
 
 
 
