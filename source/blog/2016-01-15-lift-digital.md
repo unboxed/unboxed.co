@@ -3,7 +3,7 @@ author: Graeme McCubbin
 tags: 
   - Innovation
 main_image: ""
-date: "2016-01-15 16:17 +0000"
+date: "2015-12-15 16:17 +0000"
 published: true
 title: LifT Digital
 ---
