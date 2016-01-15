@@ -1,0 +1,33 @@
+%social-icon__icon-container--base {
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 8px;
+}
+
+.social-icon__icon-container--linkedin {
+  @extend %social-icon__icon-container--base;
+  background-color: #007AB6;
+}
+
+.social-icon__icon-container--twitter {
+  @extend %social-icon__icon-container--base;
+  background-color: #55ACEE;
+}
+
+.social-icon__icon-container--github {
+  @extend %social-icon__icon-container--base;
+  background-color: $white;
+
+  .social-icon__icon {
+    padding: 0;
+    width: 28px;
+    height: 28px;
+  }
+}
+
+.social-icon__icon {
+  display: block;
+  height: 16px;
+  padding: 6px;
+  width: 16px;
+}

@@ -2,6 +2,14 @@
   background-color: $white;
 }
 
+.page-header--bottom-margin {
+  margin-bottom: 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 60px;
+  }
+}
+
 .page-header__container {
   @extend .container;
   box-sizing: border-box;
