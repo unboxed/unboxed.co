@@ -12,7 +12,7 @@ Just over a week ago I completed my second summer internship at Unboxed ([hereâ€
 <br/>
 
 <h2>Being a part of a mentoring scheme</h2>
-I felt that having a **mentor** throughout the summer was one of the most important things for me. It's very valuable to have someone assigned as your first port of call and to have regular discussions with them about your learning. I got a great deal out having time to just talk about things you'd like to learn and look into every few weeks. I think it's also important that you get to know and work with your mentor - luckily I was able to work alongside [Jack](/people/jack-bracewell) for much of the summer.<br/>
+I felt that having a **mentor** throughout the summer was one of the most important things for me. It's very valuable to have someone assigned as your first port of call and to have regular discussions with them about your learning. I got a great deal out having time to just talk about things you'd like to learn and look into every few weeks. I think it's also important that you get to know and work with your mentor - luckily I was able to work alongside [Jack](/people#jack-bracewell) for much of the summer.<br/>
 <br/>
 
 <p align="center"><img src="http://bit.ly/1KxOr7U" alt="Buddies"></p>
@@ -23,7 +23,7 @@ I spent six weeks on a **client project** this summer. It's worth understanding 
 <br/>
 
 <h2>Having time for innovation</h2>
-The company offers additional bookable days for **innovation**. There are very few restrictions on what you do on these days and they're something that's important to make the most of. I was able to work with [Jack](/people/jack-bracewell) on Docker - something we were both interested in looking into.<br/>
+The company offers additional bookable days for **innovation**. There are very few restrictions on what you do on these days and they're something that's important to make the most of. I was able to work with [Jack](/people#jack-bracewell) on Docker - something we were both interested in looking into.<br/>
 <br/>
 
 <p align="center"><img src="http://bit.ly/1PkrPem" alt="Innovation"></p>

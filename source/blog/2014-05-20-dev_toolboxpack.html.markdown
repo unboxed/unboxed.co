@@ -8,7 +8,7 @@ tags:
 
 ---
 
-[Chris C](/people/chris-carter) and I recently attended a workshop at jQuery 2014 to learn more about a [web developer's toolbox](http://presentboldly.com/appendtotraining/web-developers-toolbox-jquery-uk), lead by [Jordan Kasper](https://twitter.com/jakerella). Predominantly this workshop taught us [Grunt](http://gruntjs.com/) and the many plugins that exist. Grunt is a JavaScript task runner which allows us to automate numerous tasks that would otherwise be cumbersome to repeat, repeat *and* repeat during development or deployment.
+[Chris C](/people#chris-carter) and I recently attended a workshop at jQuery 2014 to learn more about a [web developer's toolbox](http://presentboldly.com/appendtotraining/web-developers-toolbox-jquery-uk), lead by [Jordan Kasper](https://twitter.com/jakerella). Predominantly this workshop taught us [Grunt](http://gruntjs.com/) and the many plugins that exist. Grunt is a JavaScript task runner which allows us to automate numerous tasks that would otherwise be cumbersome to repeat, repeat *and* repeat during development or deployment.
 
 In Ruby we have Rake, and therefore in JavaScript we have Grunt. But comparing the two is difficult as Grunt relies purely on plugins. Tasks are built up using [the numerous available plugins](http://gruntjs.com/plugins) to create the best workflow for you (and your team). Here is a very simple example that uses [grunt-contrib-watch](https://github.com/gruntjs/grunt-contrib-watch) and [LiveReload](http://livereload.com/) to refresh the browser when any `.html` files are changed:
 

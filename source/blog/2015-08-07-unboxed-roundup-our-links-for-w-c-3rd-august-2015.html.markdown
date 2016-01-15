@@ -20,7 +20,7 @@ https://www.rentapplication.com/these-are-the-most-sexually-diseased-cities-in-t
 
 This is the perfect intersection of [Unboxed's work with SH:24](/project-stories/sh24), providing digital sexual health testing 24hrs a day in London, and our love of data...
 
-## One Step Forward, Two Steps Slack? - [Chris C](/people/chris-carter)
+## One Step Forward, Two Steps Slack? - [Chris C](/people#chris-carter)
 
 www.unboxed.co/blog/communication-one-step-forward-two-steps-slack
 
@@ -38,7 +38,7 @@ https://www.theguardian.com/info/developer-blog/2015/jul/27/the-user-experience-
 
 Here at Unboxed, we know that user centric design is a critical skill in successful project delivery. This neat article summarises why.
 
-## Performance boost coming in Rails 5 - [Andrew W](/people/andrew-white)
+## Performance boost coming in Rails 5 - [Andrew W](/people#andrew-white)
 
 http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance/
 
@@ -56,7 +56,7 @@ https://gds.blog.gov.uk/2015/08/03/onwards/
 
 Mike Bracken has implemented huge changes in the way the UK Government delivers digital services, winning design awards for minimalistic government sites, and influencing Canadian, Australian, American, other governments in the process. Here's his farewell blog, in his usual low-key style.
 
-## Track of the Week - [Willa](/people/willa-roos)
+## Track of the Week - [Willa](/people#willa-roos)
 
 This is a quirky set of ambient-ish electronic tunes. Not dissimilar to elevator music at times, but with a unique sound that makes you go, "hey, this is kinda cool!"
 

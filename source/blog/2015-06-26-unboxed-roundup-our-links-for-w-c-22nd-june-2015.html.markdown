@@ -14,7 +14,7 @@ https://www.theinformation.com/Google-s-War-Against-Apps
 
 One of the search giant's latest quests is for apps streaming to your phone. (Mobile VMs, anyone?)
 
-## Susy, the best way to build your page layout - [Tom S](/people/tom-sabin)
+## Susy, the best way to build your page layout - [Tom S](/people#tom-sabin)
 
 http://susy.oddbird.net/
 
@@ -26,7 +26,7 @@ http://www.itworld.com/article/2939255/windows/the-us-navys-warfare-systems-comm
 
 Ancient Windows platform behind US Navy warfare systems.
 
-## Simple media queries with SASS - [Tom S](/people/tom-sabin)
+## Simple media queries with SASS - [Tom S](/people#tom-sabin)
 
 http://breakpoint-sass.com/
 
@@ -55,7 +55,7 @@ http://www.fastcompany.com/3046943/how-duckduckgo-rode-a-wave-of-post-snowden-an
 
 600% rise in use of anti-Google search engine, DuckDuckGo
 
-## Faster horses? - [Murray S](/people/murray-steele)
+## Faster horses? - [Murray S](/people#murray-steele)
 
 https://medium.com/@tarab/the-time-travelling-user-researcher-f8e2b66f8655
 

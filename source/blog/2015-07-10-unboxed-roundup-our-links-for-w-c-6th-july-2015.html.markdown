@@ -14,13 +14,13 @@ http://gizmodo.com/a-runaway-star-makes-an-interstellar-bow-wave-1715854690
 
 Runaway star zooms through interstellar space at 24 km/s, pushing a wave of glowing gas 12 light years wide ahead of it. Kinda makes you feel insignificant, on a cosmic level...
 
-## The art of the command line - [Murray S](/people/murray-steele)
+## The art of the command line - [Murray S](/people#murray-steele)
 
 https://github.com/jlevy/the-art-of-command-line
 
 The [unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy) is for lots of small tools that do one thing well.  The problem I've always had is finding all those small tools and working out what they do, and how to plug them all together to achieve great things.  If you're like me you'll find this article a real help in navigating the wealth of tools available to you.
 
-## Periodic table of HTML5 elements - [Tom S](/people/tom-sabin)
+## Periodic table of HTML5 elements - [Tom S](/people#tom-sabin)
 
 http://madebymike.com.au/html5-periodic-table/
 
@@ -38,7 +38,7 @@ http://deploybot.com/
 
 I added GitHub repo, specified a branch, specified automated deploys and pointed it at a heroku app. Seemed to just work. Can choose Digital Ocean, AWS for files, or run a custom script somewhere. The free plan is limited to one project.
 
-## Viewport resizer - [Tom S](/people/tom-sabin)
+## Viewport resizer - [Tom S](/people#tom-sabin)
 
 http://bradfrost.com/demo/ish/
 

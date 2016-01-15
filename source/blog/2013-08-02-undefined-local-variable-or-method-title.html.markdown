@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-## Why mobile web apps are slow - [Murray S](/people/murray-steele)
+## Why mobile web apps are slow - [Murray S](/people#murray-steele)
 
 [http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
 
@@ -19,17 +19,17 @@ Yes, this article was popping up all over the place a couple of weeks back, but 
 
 If you haven't already read it, or even if you just skimmed it first time around, I highly recommend that you put aside the time to give this article a proper read.
 
-## Ruby lib for PSDs - [Ben W](/people/ben-wong)
+## Ruby lib for PSDs - [Ben W](/people#ben-wong)
 [http://cosmos.layervault.com/psdrb.html](http://cosmos.layervault.com/psdrb.html)
 
-## What the commit - [Tom S](/people/tom-sabin/)
+## What the commit - [Tom S](/people#tom-sabin/)
 [http://whatthecommit.com/](http://whatthecommit.com/)
 
-## The Future of Programming - [Murray S](/people/murray-steele/)
+## The Future of Programming - [Murray S](/people#murray-steele/)
 
 Obligatory link to [a new talk](https://vimeo.com/71278954) by [Brett Victor](http://worrydream.com/).  If you aren't already hoovering up Brett's talks as they come out, you really should check them out (they're all linked [on his website](http://worrydream.com/)).
 
-##ToggleQuotes for Sublime - [Tom S](/people/tom-sabin/)
+##ToggleQuotes for Sublime - [Tom S](/people#tom-sabin/)
 [https://github.com/spadgos/sublime-ToggleQuotes](https://github.com/spadgos/sublime-ToggleQuotes)
 
 Recently I have switched to Sublime as my text editor and have been finding useful little packages ever since. Here's one that allows you to select a quoted line and toggle between apostrophes and quotation marks.
@@ -41,7 +41,7 @@ Recently I have switched to Sublime as my text editor and have been finding usef
 ##Ruby Warrior - [Tom TT](/people/tom-ten-thij)
 [https://www.bloc.io/ruby-warrior](https://www.bloc.io/ruby-warrior)
 
-##Is my computer on? - [Tom S](/people/tom-sabin/)
+##Is my computer on? - [Tom S](/people#tom-sabin/)
 [http://www.ismycomputeron.com/](http://www.ismycomputeron.com/)
 
 This website has been my homepage for a while now. I'm glad the Internet is pushed to its full potential.

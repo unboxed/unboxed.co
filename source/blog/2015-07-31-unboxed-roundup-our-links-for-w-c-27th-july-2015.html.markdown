@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## A clear view through future nonsense - [Martyn E](/people/martyn-evans)
+## A clear view through future nonsense - [Martyn E](/people#martyn-evans)
 
 http://idlewords.com/talks/web_design_first_100_years.htm
 
@@ -20,7 +20,7 @@ https://speakerdeck.com/mcfunley/choose-boring-technology
 
 Dan McKinley talks about focus on product, and what does it actually mean to choose the right tool for the job (sneak peek: it's not what's trending on Hacker News).
 
-## DDD 10 years on - [Patrick V](/people/patrick-vine)
+## DDD 10 years on - [Patrick V](/people#patrick-vine)
 
 http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/
 
@@ -32,7 +32,7 @@ http://slack.birdly.fr
 
 File expenses via direct message on Slack. (Beta)
 
-## Address forms - [Murray S](/people/murray-steele)
+## Address forms - [Murray S](/people#murray-steele)
 
 https://alpha.openaddressesuk.org/blog/2015/05/13/free-format-user-research
 

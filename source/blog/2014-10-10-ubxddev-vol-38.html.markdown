@@ -8,19 +8,19 @@ tags:
   - Rails
 ---
 
-## Boring Developers - [Murray](/people/murray-steele/)
+## Boring Developers - [Murray](/people#murray-steele/)
 
 http://adamsilver.github.io/articles/the-boring-front-end-developer/
 
 The article is specifically about being a boring front-end developer, but I think the general principle applies to all developers.  Take a calm and measured approach and think about all of your users, remembering that users here means people using your software *and* the future developers working on your code.
 
-## Angular JS: The Bad Parts - [Murray](/people/murray-steele/)
+## Angular JS: The Bad Parts - [Murray](/people#murray-steele/)
 
 http://www.thoughtworks.com/insights/blog/angularjs-bad-bits
 
 This [Thoughtworks Insights](http://www.thoughtworks.com/insights/) article about [Angular.JS](https://angularjs.org/) mines a similar vein to the article above.  It sounds like using angular has been a bit of a mistake for the team.  The main point here isn't that angular is bad *per se*, indeed it's probably very good at what it does, but that you have to understand how it integrates with the rest of your technology stack and what impact that will have.  It's fine to learn a new technology, but maybe you don't also want to have to learn a bunch of new supporting technologies at the same time.
 
-## Vanilla JS <-> JQuery - [Murray](/people/murray-steele)
+## Vanilla JS <-> JQuery - [Murray](/people#murray-steele)
 
 http://jsandjq.tumblr.com/
 

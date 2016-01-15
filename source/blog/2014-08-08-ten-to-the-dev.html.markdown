@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-## Secret Ruby features - [Alan](/people/alan-thomas)
+## Secret Ruby features - [Alan](/people#alan-thomas)
 
 http://blog.arkency.com/2014/07/hidden-features-of-ruby-you-may-dont-know-about/
 

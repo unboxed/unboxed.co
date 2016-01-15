@@ -9,14 +9,14 @@ tags:
 
 ---
 
-## Don’t use `before_action` to load data - [Tom S](/people/tom-sabin)
+## Don’t use `before_action` to load data - [Tom S](/people#tom-sabin)
 
 * http://craftingruby.com/posts/2015/05/31/dont-use-before-action-to-load-data.html
 
 > I follow this pattern for most Rails apps, however after reading this short opinion article, I totally agree and have started to follow his alternative instead. Short summary is, yes, loading data in before actions keeps the controller DRY, but perhaps too DRY. The alternative is to explicitly set the instance variables for each action - it will read much clearer.
 
 <br/>
-## Comfortable Mexican Sofa - [Grant S](/people/grant-speelman)
+## Comfortable Mexican Sofa - [Grant S](/people#grant-speelman)
 
 * https://github.com/comfy/comfortable-mexican-sofa
 
@@ -36,7 +36,7 @@ tags:
 > With so much hype surrounding microservices it's great to have someone as reputable as Martin Fowler to bring back some common sense and critical thinking into the discussion.
 
 <br/>
-## Take control of your mail with Mailbox - [Tom S](/people/tom-sabin)
+## Take control of your mail with Mailbox - [Tom S](/people#tom-sabin)
 
 * http://www.mailboxapp.com
 
@@ -72,7 +72,7 @@ tags:
 > NASA reach out to hacker community for inspirational ideas for their zero-g drone designs.
 
 <br/>
-## Track of the Week - [Tom S](/people/tom-sabin)
+## Track of the Week - [Tom S](/people#tom-sabin)
 
 <iframe width="480" height="360" src="https://www.youtube.com/embed/VYqtvi6AIv8" frameborder="0" allowfullscreen></iframe>
 

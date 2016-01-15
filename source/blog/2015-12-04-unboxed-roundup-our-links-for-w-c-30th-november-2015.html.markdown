@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Onboarding - [Claire K](/people/claire-kemp)
+## Onboarding - [Claire K](/people#claire-kemp)
 
 http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/.
 
@@ -20,7 +20,7 @@ I did not know much about Kate so I had a look for her on the world wide webisph
 
 Kate, this Gardener loves you a little bit more.
 
-## Just when you thought you were safe via your VPN - [Jon N](/people/jon-normington)
+## Just when you thought you were safe via your VPN - [Jon N](/people#jon-normington)
 
 https://www.perfect-privacy.com/blog/2015/11/26/ip-leak-vulnerability-affecting-vpn-providers-with-port-forwarding/
 
@@ -29,7 +29,7 @@ providers that offer port forwarding, even if you aren't using this feature
 yourself, in summary though check your own VPN provider to see if they are
 affected/and or have patched an update.
 
-## What a load of Raspbian Pi... - [Jon N](/people/jon-normington)
+## What a load of Raspbian Pi... - [Jon N](/people#jon-normington)
 
 https://github.com/RPi-Distro/repo/issues/6
 
@@ -44,7 +44,7 @@ regenerate them if you haven't already with ssh-keygen.  Its a little
 interesting read around /dev/random and how entropy is built,
 and lead me onto http://www.2uo.de/myths-about-urandom/. Enjoy...
 
-## Track of the Week - [Carlo K](/people/carlo-kruger)
+## Track of the Week - [Carlo K](/people#carlo-kruger)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/s7srvA1V740" frameborder="0" allowfullscreen></iframe>
 ["Holy Water" by Soundgarden](https://www.youtube.com/watch?v=s7srvA1V740)

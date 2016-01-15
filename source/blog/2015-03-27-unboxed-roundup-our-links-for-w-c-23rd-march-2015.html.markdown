@@ -26,7 +26,7 @@ http://techcrunch.com/2015/03/20/live-now-meerkat-raises-12m-from-greylock-at-a-
 
 [Meerkat](http://meerkatapp.co/) adds to mobile networks' bandwidth headaches with data hungry live video streaming app with full Twitter integration. And there's more OTT video applications headaches to come as Twitter-purchased [Periscope](https://www.periscope.tv/) is set for a big push.
 
-## 10+ Years of Rails with DHH (podcast) - [Tom S](/people/tom-sabin)
+## 10+ Years of Rails with DHH (podcast) - [Tom S](/people#tom-sabin)
 
 http://thechangelog.com/145
 
@@ -38,7 +38,7 @@ https://developer.uber.com/
 
 Interesting to see how this pans out for digitally connected, renting, car less people...
 
-## How drawing squiggly birds helps us understand how to convey ideas rapidly - [Carrie B](/people/carrie-bedingfield)
+## How drawing squiggly birds helps us understand how to convey ideas rapidly - [Carrie B](/people#carrie-bedingfield)
 
 http://app.looplogic.com/davegray/squiggle-birds
 
@@ -50,7 +50,7 @@ http://www.washingtonpost.com/news/on-small-business/wp/2015/03/16/no-entreprene
 
 ...most of you don't need angels or VCs!
 
-## How do you want to spend your time? - [Tom S](/people/tom-sabin)
+## How do you want to spend your time? - [Tom S](/people#tom-sabin)
 
 http://blog.workshape.io/the-problem-with-job-titles/
 
@@ -62,7 +62,7 @@ http://www.washingtonpost.com/blogs/style-blog/wp/2015/03/19/larry-king-has-a-sp
 
 Larry King uses voicemail to 'Twitter', because he can.
 
-## Towards a Higher-Level Language - [Tom S](/people/tom-sabin)
+## Towards a Higher-Level Language - [Tom S](/people#tom-sabin)
 
 https://rubyconf.eventer.com/rubyconf-australia-2015-1223/towards-a-higher-level-language-by-erik-michaels-ober-1746
 
@@ -72,7 +72,7 @@ https://rubyconf.eventer.com/rubyconf-australia-2015-1223/towards-a-higher-level
 
 https://www.worcester-bosch.co.uk/homeowner/boilers/wave-and-boiler-controls/wave-control-system
 
-## Track of the Week - [Oskar P](/people/oskar-pearson)
+## Track of the Week - [Oskar P](/people#oskar-pearson)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190236937&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 ["Saltwater" by Chicane feat. Moya Brennan](https://soundcloud.com/armadamusic/chicane-feat-moya-brennan-saltwater)

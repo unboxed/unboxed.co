@@ -10,7 +10,7 @@ tags:
   - Lean
 ---
 
-### Ruby Manor 4.0 Videos - [Murray](/people/murray-steele)
+### Ruby Manor 4.0 Videos - [Murray](/people#murray-steele)
 
 [Ruby Manor 4.0 videos on Vimeo](http://vimeo.com/album/2596602)
 
@@ -22,13 +22,13 @@ http://goosecode.com/watson/
 
 Watson takes Todo's, and comments in your rails app and displays them all in the command line as a list as well as creating issues for each one in your github repository.
 
-### Creative Commons 4.0 Released - [Ben](/people/ben-wong)
+### Creative Commons 4.0 Released - [Ben](/people#ben-wong)
 
 http://creativecommons.org/weblog/entry/40768
 
 Because sometimes we want to share stuff. The license picker is quite nice too.
 
-### Celluloid: Actor-based concurrent object framework for Ruby - [Ben](/people/ben-wong)
+### Celluloid: Actor-based concurrent object framework for Ruby - [Ben](/people#ben-wong)
 
 http://celluloid.io/
 

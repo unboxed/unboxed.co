@@ -8,7 +8,7 @@ tags:
   - Design
 ---
 
-I recently completed my first stretch on a project as a front end developer here at Unboxed. In this article I'll share some basic principles and tools that I've learnt about along the way with the help of [Tom](/people/tom-sabin) and [Alex](/people/alex-bobin) in particular.
+I recently completed my first stretch on a project as a front end developer here at Unboxed. In this article I'll share some basic principles and tools that I've learnt about along the way with the help of [Tom](/people#tom-sabin) and [Alex](/people/alex-bobin) in particular.
 
 ##CSS Architecture
 Preprocessors such as SASS allow front end developers to split styling rules into multiple "partial" files which are merged into a single CSS output. It's really nice to have the styling rules compartmentalised in this way and I found it helped me to think of the site as a collection of components which can be reused, instead of a bunch of pages.

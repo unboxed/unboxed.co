@@ -10,7 +10,7 @@ tags:
 
 An unusually short newsletter for an unusually short week.
 
-## Rails' Insecure Defaults ([Murray](/people/murray-steele))
+## Rails' Insecure Defaults ([Murray](/people#murray-steele))
 
 http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/
 
@@ -19,7 +19,7 @@ This article starts with some that have recently been fixed or are good defaults
 * [http://rails-sqli.org/](http://rails-sqli.org/) - a site dedicated to explaining where *by design* ActiveRecord allows direct SQL as params.  A good resource to make sure we aren't allowing user input to become sql-injection
 * [https://github.com/twitter/secureheaders](https://github.com/twitter/secureheaders) - a gem to add a bunch of http headers to your app that will make it more secure.  We should certainly understand what is going on in this gem, and why the headers help, but it doesn't hurt to have someone else do it for us.
 
-## Great breakdown into a DDoS that "almost broke the internet" ([Pawel](/people/pawel-janiak))
+## Great breakdown into a DDoS that "almost broke the internet" ([Pawel](/people#pawel-janiak))
 
 http://blog.cloudflare.com/the-ddos-that-almost-broke-the-internet
 

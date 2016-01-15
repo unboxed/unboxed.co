@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Speeding up the front-end - [Murray S](/people/murray-steele)
+## Speeding up the front-end - [Murray S](/people#murray-steele)
 
 http://viget.com/extend/rails-front-end-performance
 
@@ -22,13 +22,13 @@ This contains loads of awesome features, and you should read the blog post at ht
 
 GitLab CI now contains "Deploy Jobs", which are jobs that are triggered on the successful completion of a build. With this change, it's much easier to replace a Jenkins instance (which has historically had very poor integration with GitLab) with a GitLab CI instance, for all your shiny continuous integration needs.
 
-## Everyone has JS - [Murray S](/people/murray-steele)
+## Everyone has JS - [Murray S](/people#murray-steele)
 
 http://kryogenix.org/code/browser/everyonehasjs.html
 
 I've always felt that progressive enhancement is the correct way to build websites: make it work without JS and then layer JS on top to provide a richer experience.  It's fine if the non-JS version isn't as fancy as the JS one, but at least all the visitors to the site can actually use it.  The problem I often have during these discussions is that it sounds like some hoity-toity intellectual argument for correct-ness that doesn't really matter because "everyone has JS, no-one turns it off anymore".  This flow-chart provides good arguments for all the reasons that "everyone has JS" isn't necessarily true.  I'll be keeping this on hand for future discussions to help provide more evidence that progressive enhancement is the right thing to do.
 
-## Track of the Week - [Pawel J.](/people/pawel-janiak)
+## Track of the Week - [Pawel J.](/people#pawel-janiak)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSZOiq7-3mE" frameborder="0" allowfullscreen></iframe>
 ["Lost Memory" by Boris Brejcha](https://www.youtube.com/watch?v=SSZOiq7-3mE)

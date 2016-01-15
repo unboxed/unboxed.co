@@ -29,7 +29,7 @@ There's a [Chrome extension](http://chrome.google.com/webstore/detail/iegbkljacg
 
 #Run the right tests at the right time
 
-[Murray](/people/murray-steele) wants you to read [Run the right tests at the right time](http://www.songkick.com/devblog/2012/09/27/run-the-right-tests-at-the-right-time/). It's an article from the generally excellent [Songkick developer blog](http://www.songkick.com/devblog/) about testing the right things at the right time. The basic gist is that they don't have automated tests for things that they wouldn't care if it was broken and they shipped. They have other post-deploy tools to catch the breaks and help them prioritise fixes. I don't know how much of this is applicable to the work you do in case you are not in the position of…
+[Murray](/people#murray-steele) wants you to read [Run the right tests at the right time](http://www.songkick.com/devblog/2012/09/27/run-the-right-tests-at-the-right-time/). It's an article from the generally excellent [Songkick developer blog](http://www.songkick.com/devblog/) about testing the right things at the right time. The basic gist is that they don't have automated tests for things that they wouldn't care if it was broken and they shipped. They have other post-deploy tools to catch the breaks and help them prioritise fixes. I don't know how much of this is applicable to the work you do in case you are not in the position of…
 
 * Working constantly on a project for a long period of time,
 Necessarily being able to setup those "post-deploy" tools that would require attention once you might have left the client,
