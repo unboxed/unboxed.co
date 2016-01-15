@@ -10,7 +10,7 @@ tags:
 
 We've rebooted our [Dev Newsletter](/blog?tags=Dev+Newsletter) to encompass links from the entire company.  You can expect plenty of tech as before but it'll be mixed in with our thoughts on design, agile, lean, and whatever else we find interesting each week.
 
-## Failure Demand - [Murray](/people/murray-steele)
+## Failure Demand - [Murray](/people#murray-steele)
 
 http://blog.mattedgar.com/2014/11/09/sink-or-swim-a-short-story-about-failure-demand/
 
@@ -24,7 +24,7 @@ A company applies scrum and agile to their distributed management team.
 
 >  The team was particularly struck with the fact that with the new levels of transparency and communication, even given their the different areas of expertise, it has become easy and normal for them to pick up parts of each other’s work regularly
 
-## Waste in the NHS - [Martyn](/people/martyn-evans)
+## Waste in the NHS - [Martyn](/people#martyn-evans)
 
 http://www.theguardian.com/society/2014/nov/05/nhs-wastes-over-2-bn-on-unnecessary-treatment
 
@@ -44,7 +44,7 @@ http://en.m.wikipedia.org/wiki/The_Phoenix_Project:_A_Novel_About_IT,_DevOps,_an
 
 I found this book fascinating and transformative in the same way as To Sell Is Human, Re:Work and The One Minute Manager Meets The Monkey.
 
-## Communicate like Github - [Ben W](/people/ben-wong)
+## Communicate like Github - [Ben W](/people#ben-wong)
 
 http://ben.balter.com/2014/11/06/rules-of-communicating-at-github/
 

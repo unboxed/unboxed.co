@@ -9,7 +9,7 @@ tags:
 
 ---
 
-[Richard Stobart](/people/richard-stobart) kicked off our <i>SpeedAgile</i> webinar series, with the first session: <i>‘Speed up stakeholder communication and sign off’</i>.
+[Richard Stobart](/people#richard-stobart) kicked off our <i>SpeedAgile</i> webinar series, with the first session: <i>‘Speed up stakeholder communication and sign off’</i>.
 
 In this 30-minute webinar, Richard explored:<br/>
 

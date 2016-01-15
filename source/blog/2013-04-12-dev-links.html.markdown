@@ -27,7 +27,7 @@ Get a weather forecast in your terminal - written by Joerg.
 ### Memorizing a programming language
 Memorizing a programming language using spaced repetition software (http://sivers.org/srs)
 
-##[Richard Archer](/people/richard-archer)
+##[Richard Archer](/people#richard-archer)
 ### JavaScript Inheritance
 There are plenty of ways to explain the concepts of JavaScript Inheritance - it's just a case of finding the right one to suit your audience at the time. In this post Alex Sexton puts most of them together in one post; just choose the one that works best for you.
 http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/

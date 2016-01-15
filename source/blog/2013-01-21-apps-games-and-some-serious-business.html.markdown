@@ -24,7 +24,7 @@ The other day on the train back from Plymouth I was reading [Metaprogramming Rub
 There is quite a few of us at Unboxed, who love markdown. It is a very easy and straightforward way to write any functional content (such as this blogpost) using minimal styling with minimal effort. If you haven't found your favourite MD editor, let me introduce you to Mou, a clever, free and awesome Markdown editor. Click on the link and see it for yourself why it is my one and only MD editor app forever.
 [http://mouapp.com/](http://mouapp.com/)
 
-##Conditionally loaded stylesheets and asset pipeline ([Pawel](/people/pawel-janiak))
+##Conditionally loaded stylesheets and asset pipeline ([Pawel](/people#pawel-janiak))
 Very handy link: conditionally loading stylesheets when using the asset pipeline.
 [http://stackoverflow.com/questions/7134034/using-rails-3-1-assets-pipeline-to-conditionally-use-certain-css](http://stackoverflow.com/questions/7134034/using-rails-3-1-assets-pipeline-to-conditionally-use-certain-css)
 

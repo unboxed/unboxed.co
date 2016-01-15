@@ -10,7 +10,7 @@ tags:
 
 We recently had an interesting discussion in the internal Unboxed interwebs room regarding an example of inheritance.
 
-[Pawel](/people/pawel-janiak) put forth an example about how to guard against someone forgetting to call `super` in an inheritance chain.
+[Pawel](/people#pawel-janiak) put forth an example about how to guard against someone forgetting to call `super` in an inheritance chain.
 
 I jumped in to the discussion with the mantra of "Composition over Inheritance". Admittedly, I didn't even give the example a good read: I saw a simple inheritance structure and gave an instinctive response.
 

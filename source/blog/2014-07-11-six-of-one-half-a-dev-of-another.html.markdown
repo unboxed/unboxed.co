@@ -8,19 +8,19 @@ tags:
   - Rails
 ---
 
-## Internal Hackdays - [Murray](/people/murray-steele)
+## Internal Hackdays - [Murray](/people#murray-steele)
 
 https://about.futurelearn.com/blog/run-internal-hackday/
 
 [Melinda Seckington](http://missgeeky.com/) writes on the Future Learn blog about their recent internal hackday and gives some tips about how to run your own one.  We ran an [internal hack day at ubxd](https://twitter.com/search?f=realtime&q=%23ubxdhack%20OR%20%23ubxdhackday) earlier this year, and these tips will be great for when we run another.
 
-## Temporary code - [Murray](/people/murray-steele)
+## Temporary code - [Murray](/people#murray-steele)
 
 http://chrismdp.com/2014/07/how-not-to-check-in-temporary-code/
 
 This short article from [Chris Parsons](http://chrismdp.com) serves as a great reminder of the benefits of the [extract method refactoring](http://refactoring.com/catalog/extractMethod.html).  Sometimes it feels like running refactorings is just a _Thing You Must Do_, even if just to keep your code tidy.  But it can have other benefits; for Chris Parsons it helped him identifying code that he's just messing about with that's not really meant to be committed, but for [Chris Zetter](http://chriszetter.com/) it's all about [making feature specs easier to read](https://about.futurelearn.com/blog/how-we-write-readable-feature-tests-with-rspec/).
 
-## Ruby's Encoding comment - [Murray](/people/murray-steele)
+## Ruby's Encoding comment - [Murray](/people#murray-steele)
 
 Our very own [Karl Entwistle](/people/karl-entwistle) became [rails latest contributor yesterday](https://github.com/rails/rails/pull/16123).  While reading his submission I spotted that he'd marked his test as utf-8 with the following comment:
 

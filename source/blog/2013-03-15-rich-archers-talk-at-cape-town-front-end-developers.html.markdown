@@ -10,7 +10,7 @@ tags:
 
 Near the end of last year, [Bruce Lawson](http://www.brucelawson.co.uk/) of [Opera Software](http://www.opera.com/) was in Cape Town for the [Content Strategy Forum](http://csforum2012.com/) conference. A couple of Front End web developers got their heads together and organised a talk by Bruce while he was still in town.
 
-Since then, we've formed the Cape Town Front End Developers group on [Google groups](https://groups.google.com/forum/?fromgroups#!forum/ctfeds) and on [Meetup.com](http://www.meetup.com/ctfeds/). After a slow start to year, our first talk was by Unboxed's own [Rich Archer](/people/richard-archer). [Friends of Design](http://friendsofdesign.net/) kindly provided the venue.
+Since then, we've formed the Cape Town Front End Developers group on [Google groups](https://groups.google.com/forum/?fromgroups#!forum/ctfeds) and on [Meetup.com](http://www.meetup.com/ctfeds/). After a slow start to year, our first talk was by Unboxed's own [Rich Archer](/people#richard-archer). [Friends of Design](http://friendsofdesign.net/) kindly provided the venue.
 
 Rich's talk was about CSS, specifically [SMACSS](http://www.smacss.com/) (Scalable and Modular Architecture for CSS), [OOCSS](http://oocss.org/) (Object-Oriented CSS), and [BEM](http://bem.info/) (Block-Element-Modifier).
 

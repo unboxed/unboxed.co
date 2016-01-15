@@ -95,7 +95,7 @@ Will Rowan [@TheCustomer](https://twitter.com/thecustomer), Product Owner at [UK
 <br/>
 
 <h1>Talk 4: Techniques for overcoming the top digital product blockers</h1>
-Last, but by no means least, was [Richard Stobart](/people/richard-stobart). Richard spoke through the exact reasons as to why digital products get stuck and explored the techniques and methods to speed them back up again:<br/>
+Last, but by no means least, was [Richard Stobart](/people#richard-stobart). Richard spoke through the exact reasons as to why digital products get stuck and explored the techniques and methods to speed them back up again:<br/>
 
 ![Event4](http://i1291.photobucket.com/albums/b548/grammccram/DSC01908_zpsehdbafre.jpg)<br/>
 <br/>

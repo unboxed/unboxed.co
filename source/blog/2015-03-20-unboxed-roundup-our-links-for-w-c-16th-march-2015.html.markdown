@@ -20,7 +20,7 @@ http://a16z.com/2015/03/06/go-to-market-bootcamp/
 
 http://www.nytimes.com/2015/03/12/technology/slack-the-office-messaging-app-that-may-finally-sink-email.html
 
-## Track of the Week - [Ben](/people/ben-wong)
+## Track of the Week - [Ben](/people#ben-wong)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zynxSanDBzg" frameborder="0" allowfullscreen></iframe>
 

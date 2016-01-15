@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## A hint at a future Apple CPU instruction set architecture - [Oskar P](/people/oskar-pearson)
+## A hint at a future Apple CPU instruction set architecture - [Oskar P](/people#oskar-pearson)
 
 http://adriansampson.net/blog/appleisa.html
 
@@ -20,7 +20,7 @@ https://dl.dropboxusercontent.com/u/1018963/Articles/SpotifyScaling.pdf
 
 How Spotify manage to stay agile despite rapid scaling and now being a large(ish) organisation, with useful pictures!
 
-## Heard of flexbox? Want to know how it works? - [Anson K](/people/anson-kelly)
+## Heard of flexbox? Want to know how it works? - [Anson K](/people#anson-kelly)
 
 http://flexboxin5.com/
 

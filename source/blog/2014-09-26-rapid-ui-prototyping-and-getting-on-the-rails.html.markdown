@@ -10,7 +10,7 @@ tags:
 
 ![UI prototype on phone](http://i.imgur.com/qQs8Xcu.jpg)
 
-Having only been in my current position for ten months, there are many members of the Unboxed team I haven’t had the pleasure to work with yet, [Chris (Crystal) Carter](/people/chris-carter) being one of them. When we both found ourselves "on the bench” a couple of weeks ago, we decided to take some innovation days together.
+Having only been in my current position for ten months, there are many members of the Unboxed team I haven’t had the pleasure to work with yet, [Chris (Crystal) Carter](/people#chris-carter) being one of them. When we both found ourselves "on the bench” a couple of weeks ago, we decided to take some innovation days together.
 
 At the beginning of day one we took a moment to identify a few things we each hoped to get out of the time. Chris was keen to explore some lean product development methods following on from his experience at [The Lean Startup Machine](/blog/lean-machine) and also look at using some third-party UI libraries to speed up product prototyping. I too was keen to explore rapid UI prototyping but I also wanted to learn some Ruby on Rails. Whilst I no longer need to cut code in anger, I really want to feel I could contribute should I ever need to.
 

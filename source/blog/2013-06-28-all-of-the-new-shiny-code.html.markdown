@@ -40,7 +40,7 @@ A concise summary of the goodies TC39 are sending our way.
 
 … is here. Yep, that's right the latest version of Sublime Text is currently available in beta.
 
-## Wireframing tools - [Richard S](/people/richard-stobart)
+## Wireframing tools - [Richard S](/people#richard-stobart)
 
 [http://www.uistencils.com](http://www.uistencils.com) provide great bits of kit for those who need to quickly sketch some wireframes but aren't confident about their drawing skills.  For extroverts there are also whiteboard stencils.  If you are interested in design, take a look at Dan Barber's [https://speakerdeck.com/danbarber/design-eye-for-the-developer-guy](https://speakerdeck.com/danbarber/design-eye-for-the-developer-guy) with further reading here [http://danbarber.me/design-for-developers/](http://danbarber.me/design-for-developers/)
 

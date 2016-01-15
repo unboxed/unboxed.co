@@ -18,7 +18,7 @@ http://news.ycombinator.com/item?id=5175277 from Pawel
 
 http://www.reddit.com/r/webdev/comments/17zcih/spdy_protocol_explain_it_like_im_five/
 
-## 'Can you help me understand the benefits of require.js?' - [Richard](/people/richard-archer)
+## 'Can you help me understand the benefits of require.js?' - [Richard](/people#richard-archer)
 
 https://gist.github.com/desandro/4686136
 

@@ -8,19 +8,19 @@ tags:
   - Rails
 ---
 
-## Pleasing colours - [Tom S](/people/tom-sabin)
+## Pleasing colours - [Tom S](/people#tom-sabin)
 
 http://www.checkman.io/please/
 
 A JavaScript library to create aesthetically pleasing colours.
 
-## We Use That - [Tom S](/people/tom-sabin)
+## We Use That - [Tom S](/people#tom-sabin)
 
 http://weusethat.com/
 
 Read up about how startups start up. There are numerous interviews with the people behind frameworks like Meteor or applications like 1Password, describing their technology stack and software that they use to develop their systems.
 
-## Morphing Buttons - [Tom S](/people/tom-sabin)
+## Morphing Buttons - [Tom S](/people#tom-sabin)
 
 http://tympanus.net/Development/ButtonComponentMorph/index.html
 

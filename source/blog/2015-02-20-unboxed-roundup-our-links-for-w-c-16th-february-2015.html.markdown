@@ -8,25 +8,25 @@ tags:
   - Culture
 ---
 
-## The diversity of viewports - [Tom S](/people/tom-sabin)
+## The diversity of viewports - [Tom S](/people#tom-sabin)
 
 http://www.iamthefold.com/
 
 A visual representation of visitor's viewport heights.
 
-## All code is debt - [Oskar](/people/oskar-pearson)
+## All code is debt - [Oskar](/people#oskar-pearson)
 
 https://pantheon.io/blog/all-code-debt
 
 Software can be an amazing tool that solves business problems. However, even with Agile software delivery, having something hard-coded into a software system reduces your ability to change, and requires maintenance. This article makes some suggestions about how to avoid having to write code in the first place.
 
-## http2 is coming - [Murray](/people/murray-steele)
+## http2 is coming - [Murray](/people#murray-steele)
 
 http://daniel.haxx.se/http2/http2-v1.10.pdf
 
 http2 - the major upgrade to everyone's favourite protocol has [been approved by the IESG](https://www.mnot.net/blog/2015/02/18/http2) and will become an official RFC real soon.  The above PDF by [Daniel Stenberg](http://daniel.haxx.se/) is a great resource if you want to know what http2 is and how it came to be.  Well worth reading all the way through.
 
-## Lightning - very frightening - [Claire](/people/claire-kemp)
+## Lightning - very frightening - [Claire](/people#claire-kemp)
 
 I did a lightning talk at [Ladies that UX](http://www.ladiesthatux.com/) the other night for some exposure to what it might be like to talk. These are my slides:
 
@@ -39,7 +39,7 @@ https://medium.com/@porteneuve/fix-conflicts-only-once-with-git-rerere-7d116b2ce
 
 An interesting workflow using git comand `rerere` to keep a mainline and long-running branch in-sync without "dirtying" the branch with mainline commits.
 
-## 7 Tips for slimming down fat Rails Models - [Neil](/people/neil-van-beinum)
+## 7 Tips for slimming down fat Rails Models - [Neil](/people#neil-van-beinum)
 
 http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
 

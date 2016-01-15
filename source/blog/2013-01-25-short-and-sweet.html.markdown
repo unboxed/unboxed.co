@@ -15,11 +15,11 @@ This weeks links are mostly front-end and tool related. Enjoy.
 
 Ever wanted to know how to pair socks from a pile efficiently? [Now you can](http://stackoverflow.com/questions/14415881/how-to-pair-socks-from-a-pile-efficiently)!
 
-##Kippt ([Pawel J](/people/pawel-janiak))
+##Kippt ([Pawel J](/people#pawel-janiak))
 
 Check out [Kippt](http://www.kippt.com) - it's a really pretty looking site to help organize all of your links. It also lets you search and archive them and create lists to share amongst teams.
 
-##Pushing CSS to its limits ([Pawel J](/people/pawel-janiak))
+##Pushing CSS to its limits ([Pawel J](/people#pawel-janiak))
 
 Keith Clark created a [CSS3 FPS demo](http://keithclark.co.uk/labs/css3-fps/) that you just have to try (in Safari). It's an incredible CSS powered 3D engine with lighting, shadows and collisions that makes full use of CSS transforms.
 
@@ -29,16 +29,16 @@ Top top of the day: do not publish your private RSA key. A tweet doings the roun
 
 http://nakedsecurity.sophos.com/2013/01/25/do-programmers-understand-private/
 
-##Developing a responsive, Retina-friendly site ([Pawel J](/people/pawel-janiak))
+##Developing a responsive, Retina-friendly site ([Pawel J](/people#pawel-janiak))
 
 [Here's](http://paulstamatiou.com/responsive-retina-blog-development-part-1) an extremely in-depth tutorial on how to go about making a responsive and retina ready blog.
 
-##The importance of sections ([Pawel J](/people/pawel-janiak))
+##The importance of sections ([Pawel J](/people#pawel-janiak))
 
 Smashing magazine explored the [importance of sections in HTML](
 http://coding.smashingmagazine.com/2013/01/18/the-importance-of-sections). It's quite a comprehensive read
 
-##Background tasks with Redis ([Grant S](/people/grant-speelman))
+##Background tasks with Redis ([Grant S](/people#grant-speelman))
 
 Grant's been exploring the world of background tasks and has come across [Sidekiq](http://mperham.github.com/sidekiq/), an alternative to Resque that uses threading.
 

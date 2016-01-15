@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Understanding emotional responses at the office - [Willa R](/people/willa-roos)
+## Understanding emotional responses at the office - [Willa R](/people#willa-roos)
 
 http://alistapart.com//article/understanding-emotional-response
 
@@ -32,7 +32,7 @@ https://medium.com/life-learning/may-i-have-your-attention-please-19ef6395b2c3
 
 The latest media platform attention figures are out. Who's winning, who's losing and while mobile dominates, how is small screen carved up?
 
-## Crypto key increases - [Oskar P](/people/oskar-pearson)
+## Crypto key increases - [Oskar P](/people#oskar-pearson)
 
 http://m.nsa.gov/ia/programs/suiteb_cryptography/index.shtml
 

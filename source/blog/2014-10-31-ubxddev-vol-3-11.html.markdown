@@ -8,13 +8,13 @@ tags:
   - Rails
 ---
 
-## Regression Testing CSS - [Murray](/people/murray-steele)
+## Regression Testing CSS - [Murray](/people#murray-steele)
 
 http://sonniesedge.co.uk/2014-10-17/visual-regression-testing.html
 
 This article introduces two ideas.  The first is automated visual regression tests to help you work out if changes to your CSS are breaking anything.  A sensible idea and something that's been lacking in many projects I've worked on; we've always relied on eyeballing to make sure that we don't break the visuals of the app.  The second is the idea of having styleguides and component pages to help with the visual development of the site.  I'm keen to try out both of these ideas on our projects as they sound like definite improvements to our process.
 
-## Philip Roberts: What the heck is the event loop anyway? - [Paula](/people/paula-stepinska)
+## Philip Roberts: What the heck is the event loop anyway? - [Paula](/people#paula-stepinska)
 
 http://www.youtube.com/watch?v=8aGhZQkoFbQ
 

@@ -14,13 +14,13 @@ http://avc.com/2015/09/the-return-of-the-command-line-interface/
 
 The increased use of a programmatic lexicon within text messaging and bots within messaging apps makes many conversations within Twitter and Slack approach command line code.
 
-## Using SimpleDelegator for your Decorators - [Grant S](/people/grant-speelman)
+## Using SimpleDelegator for your Decorators - [Grant S](/people#grant-speelman)
 
 http://hashrocket.com/blog/posts/using-simpledelegator-for-your-decorators
 
 You can use SimpleDelegator (which is standard ruby) to implement the decorator pattern on your models for your views.
 
-## Installing web-apps in 2015 - [Murray S](/people/murray-steele)
+## Installing web-apps in 2015 - [Murray S](/people#murray-steele)
 
 http://eev.ee/blog/2015/09/17/the-sad-state-of-web-app-deployment/
 

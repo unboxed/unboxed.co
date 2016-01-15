@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Managing Large Database Migrations with Rails - [Oskar P](/people/oskar-pearson)
+## Managing Large Database Migrations with Rails - [Oskar P](/people#oskar-pearson)
 
 How to handle complex migrations of very large data tables when you can’t afford any downtime: http://robertheaton.com/2015/08/31/migrating-bajillions-of-database-records-at-stripe/
 
@@ -18,7 +18,7 @@ http://www.androidauthority.com/bluetooth-substitute-can-send-data-through-your-
 
 No need for clean space between connected devices. To me this is both amazing and scary. What next…Nanites bouncing signals back and forth...
 
-## Git extension bug and committed private data that cost someone over $6500 - [Jon N](/people/jon-normington)
+## Git extension bug and committed private data that cost someone over $6500 - [Jon N](/people#jon-normington)
 
 https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours
 
@@ -60,7 +60,7 @@ http://www.theverge.com/2015/9/2/9248309/google-new-logo-graphic-design
 The new Google logo. I think it’s fun, simple and progressive. Not sure about the gooey ‘e’. Hopefully that’s not a permanent thing. Here are the views of a few other designers.
 
 
-## Track of the Week - [Jon N](/people/jon-normington)
+## Track of the Week - [Jon N](/people#jon-normington)
 
 George Gershwin - was a great composer of his time and Rhapsody in Blue was his first composed piece for orchestra and piano, there are many other pieces for which combine different genres of the 30s and are extremely relaxing to listen to, such as I got rhythm, Of Thee I sing and Third Movement (Allegro Agitato)
 

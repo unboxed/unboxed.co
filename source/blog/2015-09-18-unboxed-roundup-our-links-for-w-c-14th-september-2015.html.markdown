@@ -8,19 +8,19 @@ tags:
   - Culture
 ---
 
-## Write great git commit messages - [Anson K](/people/anson-kelly)
+## Write great git commit messages - [Anson K](/people#anson-kelly)
 
 http://chris.beams.io/posts/git-commit/
 
 Git commits tell the story of how a code base evolved. Every developer using git writes commit messages - are you a great developer who writes great commit messages?
 
-## Organisational debt - [Patrick V](/people/patrick-vine)
+## Organisational debt - [Patrick V](/people#patrick-vine)
 
 http://steveblank.com/2015/05/19/organizational-debt-is-like-technical-debt-but-worse/
 
 Technical debt is well understood by developers, but often organisational debt is ignored and it could be worse for your company.
 
-## Old games on new systems - [Murray S](/people/murray-steele)
+## Old games on new systems - [Murray S](/people#murray-steele)
 
 http://www.rockpapershotgun.com/2015/09/16/how-gog-com-save-and-restore-classic-videogames/
 
@@ -44,7 +44,7 @@ https://www.pinterest.com/pin/356347389244525558/
 
 A rapid checklist for a varied batch of rising digital marketing trends, as #omnichannel continues it's inevitable growth.
 
-## What makes React worth using - [Anson K](/people/anson-kelly)
+## What makes React worth using - [Anson K](/people#anson-kelly)
 
 http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/
 
