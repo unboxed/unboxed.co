@@ -8,6 +8,7 @@ published: true
 title: Lift Digital
 ---
 
+
 ## Invoice financing: faster, simpler and cheaper directly through your existing online accounting package
 
 ![Lift](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-01-15%20at%2015.59.05_zpsp7tqcuq2.png)
@@ -34,5 +35,4 @@ Connect LifT to your current online accounting package and then:
 <br/>
 
 # LifT is in the final stages of launch. 
-[Sign up here](mailto: sarah.beck@unboxed.co) to be in the first 100 and receive a free account on launch. 
-
+[Sign up here](mailto: sarah.beck@unboxed.co) to be in the first 100 and receive a free account on launch.
