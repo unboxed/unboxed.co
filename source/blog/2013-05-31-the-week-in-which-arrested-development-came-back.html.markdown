@@ -13,7 +13,7 @@ tags:
 ## [Rollit - Google Chrome Experiments](http://chrome.com/campaigns/rollit)
 Yet another experiment from the Chrome clan. This one makes use of mobile accelerometers and html5 technologies. Cool tricks!
 
-<em>Submitted by [Andy M](/people/andrew-mitchell)</em>
+<em>Submitted by Andy M</em>
 
 ## [The Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
 
@@ -26,11 +26,11 @@ Anyway, I'm not linking to this so I can rant about styleguides (well, maybe I a
 ## [CSS Rule Visualisation](http://css.benjaminbenben.com/)
 A simple tool for visualising CSS rules and a given webpage.
 
-<em>Submitted by [Andy M](/people/andrew-mitchell)</em>
+<em>Submitted by Andy M</em>
 
 ## [Unreal Engine with ASM.js](http://www.flickr.com/photos/lyle/8894605855/)
 WOW
-<em>Submitted by [Carl](/people/carl-whittaker)</em>
+<em>Submitted by Carl</em>
 
 ## [It's a montage…♫](http://www.youtube.com/watch?v=JU9Uwhjlog8) [Yet another Javascript framework](http://montagejs.org/)
 [https://github.com/montagejs/montage](https://github.com/montagejs/montage)
@@ -41,7 +41,7 @@ Montage simplifies the development of rich HTML5 applications by providing modul
 
 Montage seems to have some nice data binding mechanisms and is built on top of Node js.
 
-<em>Submitted by [Andy M](/people/andrew-mitchell)</em>
+<em>Submitted by Andy M</em>
 
 ## [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 We seem to be doing more around web services theses days.  Martin Fowler explains Leonard Richardson's Restful Maturity Model.
@@ -55,4 +55,4 @@ Discreet components are expressed as blocks of JSX (I threw up a little) and eve
 
 Heres a [Quora post](http://www.quora.com/Pete-Hunt/Posts/React-Under-the-Hood) on the internals and of course the Angular folks were having [none of it](https://medium.com/make-your-own-apps/e71bcedc36b).
 
-<em>Submitted by [Carl](/people/carl-whittaker)</em>
+<em>Submitted by Carl</em>

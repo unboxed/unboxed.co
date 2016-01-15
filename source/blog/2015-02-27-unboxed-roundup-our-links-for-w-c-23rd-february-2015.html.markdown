@@ -22,7 +22,7 @@ This article / talk-transcript from [Alvaro Videla](http://videlalvaro.github.io
 
 The historical context Alvaro provides reminded me of [The Future of Programming](http://worrydream.com/dbx/) by [Brett Victor](http://worrydream.com) which is also excellent and well worth your time.
 
-## Staring into the nil abyss - [Pedro](/people/pedro-moreira)
+## Staring into the nil abyss - Pedro
 
 * http://www.sandimetz.com/blog/2014/12/19/suspicions-of-nil /
 * https://robots.thoughtbot.com/if-you-gaze-into-nil-nil-gazes-also-into-you
@@ -47,7 +47,7 @@ http://techradar.io
 
 A while ago the CEO at Unboxed Consulting sent out a doodle poll related to what technology options our employees thought were interesting and that we may consider if we were to diversify our offering. Knowing that our clients do not necessarily understand the technology used but just know that we build digital products really well, this seems like an interesting topic for discussion. This morning I met [Andy Waite](http://blog.andywaite.com/) who shared this link to a project that he is working on that is an adaptation of the [Thoughtworks Technology Radar](http://www.thoughtworks.com/radar) but for companies (like us) to use.
 
-## Track of the Week - [Dom](/people/dominic-mason)
+## Track of the Week - Dom
 
 [Big Rock Candy Mountain by Harry McClintock](https://www.youtube.com/watch?v=0-ftai12IOM) - I love the railway rider/hobo’s utopian vision served up in this song: “…there’s a lake of whiskey and one of stew…” McClintock adds a slur to it for authenticity! My Grandad and Dad used to play it on the harmonic and banjo at family events.”
 

@@ -14,7 +14,7 @@ http://fundersandfounders.com/everyone-will-have-to-become-an-entrepreneur/
 
 At Unboxed we are trying to encourage the Intrapreneur model without the Corporate title.
 
-## For your own sake, dumb things down! - [Dom M](/people/dominic-mason)
+## For your own sake, dumb things down! - Dom M
 
 http://avc.com/2015/04/dumbing-things-down/
 
@@ -26,7 +26,7 @@ http://hacktostart.com/
 
 A podcast focused on interesting people and the innovative ways they achieve success. Very suitable format for 20-40min commutes, interesting interviewees, no useless chatter.
 
-## When start-ups meet regulation... a podcast with a lawyer - [Dom M](/people/dominic-mason)
+## When start-ups meet regulation... a podcast with a lawyer - Dom M
 
 http://a16z.com/2015/04/22/ted-ullyot-policy-regulatory-affairs/
 
@@ -38,7 +38,7 @@ http://tonyarcieri.com/an-open-letter-to-matz-on-ruby-type-systems
 
 The word on the street is that something static like is being considered for Ruby 3.
 
-## Track of the Week - [Carmen B](/people/carmen-brion)
+## Track of the Week - Carmen B
 
 It was hard to choose one, it's so many I love, but I decided to go for one of my favourite [Foo Fighter's songs 'Monkey Wench'](https://www.youtube.com/watch?v=I7rCNiiNPxA).
 

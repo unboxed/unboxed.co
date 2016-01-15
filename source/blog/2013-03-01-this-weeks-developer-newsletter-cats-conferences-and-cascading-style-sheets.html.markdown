@@ -11,7 +11,7 @@ tags:
 
 Roll up.. roll up! Welcome everybody to this weeks one and only dev newsletter. First up this week its time to celebrate… it is Friday after all!
 
-## Ruby 2.0.0 is out! - [Matt P](/people/matt-peperell)
+## Ruby 2.0.0 is out! - Matt P
 [http://www.ruby-lang.org/en/news/2013/02/24/ruby-2-0-0-p0-is-released/](http://www.ruby-lang.org/en/news/2013/02/24/ruby-2-0-0-p0-is-released/)
 
 ..and by the looks of things, the incompatibility list is quite small.
@@ -24,7 +24,7 @@ Roll up.. roll up! Welcome everybody to this weeks one and only dev newsletter. 
 
 The ruby conference I'm co-organising might be sold out, but that doesn't mean you can't get in!  All our speakers will be given a ticket if they don't have one.  The CFP closes on Monday 4th, so there's still time to propose a talk: [http://vestibule.rubymanor.org/proposals/new](http://vestibule.rubymanor.org/proposals/new).  The CFP is completely open and anonymous, so even if you're not going to propose something, you should sign up and leave some comments.  In a few days time we'll open up voting and let the community pick the talks they want to see on the day.  If you don't have a ticket, you can still get involved and vote as we film all the talks and release them to the world, so your opinions are still valid.
 
-## ActiveSupport::MethodOfTheWeek - [Andrew M](/people/andrew-mitchell)
+## ActiveSupport::MethodOfTheWeek - Andrew M
 Do you find yourself regularly repeating specific sets of options when you are writing your code. `with_options` might help make things a little more dry and a little easier to read.
 
 	class Person < ActiveRecord::Base
@@ -42,18 +42,18 @@ The above can be refactored to the below example. It's a little contrived but ov
 	end
 
 
-## CSS: Damn it! I am doing it in tables -[Rob P](/people/robert-pataki)
+## CSS: Damn it! I am doing it in tables -Rob P
 These days devs use CSS preprocessors and [Source Mapping](http://bricss.net/post/33788072565/using-sass-source-maps-in-webkit-inspector) for debugging. However there are others, who want to go back to the stone age and simply use tables. Crazy world...
 [http://www.neogaf.com/forum/showthread.php?t=516644](http://www.neogaf.com/forum/showthread.php?t=516644)
 
-## Use source maps in Chrome inspector to make your SASS debugging an easy job - [Rob](/people/robert-pataki)
+## Use source maps in Chrome inspector to make your SASS debugging an easy job - Rob
 I love using Compass (which is basically awesomified™ SASS) either for Rails or simple HTML projects. With the experimental [Source Mapping](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/) feature and the support of SASS in Chrome developers now can much easier track down the origin of each style definition with line per file accuracy.
 
 There is one thing we've realised today, which is when source maps used without Compass in a Rails 3 project, you will need to `//=require` the sass files instead of importing them, otherwise SASS won't generate the debug info with the correct syntax. On the other hand with Compass you don't have to worry about this, as you can just use `@import`s.
 
 Read on: [http://bricss.net/post/33788072565/using-sass-source-maps-in-webkit-inspector](http://bricss.net/post/33788072565/using-sass-source-maps-in-webkit-inspector)
 
-## Pipe Viewer - [Will T](/people/will-tomlins)
+## Pipe Viewer - Will T
 Having to load up a large sql file?  Want to know how long it's going to take?  So... you've got two options when loading a dump - Either run mysql as per usual with no output whatsoever or run it with the `--verbose` flag and get so much output the only effect it has is to inform you that it's still running.  I came across a nifty little utility today called pipe viewer.
 
 	brew install pv
@@ -75,11 +75,11 @@ Instead of this:
 	>
 
 
-## Every last drop - keep scrolling please - [Rob P](/people/robert-pataki)
+## Every last drop - keep scrolling please - Rob P
 A really cute edutaining site that keeps you scrolling for a long time, whilst telling you about how expensive clean water is and what you can do for sustainable water use.
 [http://everylastdrop.co.uk/](http://everylastdrop.co.uk/)
 
-## [Steve](/people/steve-barnett)'s Hot Link Action
+## Steve's Hot Link Action
 ### Psychology Corner
 
 [http://psychologyfordesigners.com/](http://psychologyfordesigners.com/)
@@ -136,13 +136,13 @@ A blog with the intention of motivating, encouraging, and helping people begin s
 
 ## Um, what? Corner (aka Cat Corner)
 
-[http://bringinthecats.com/](http://bringinthecats.com/) - [Steve B](/people/steve-barnett)
+[http://bringinthecats.com/](http://bringinthecats.com/) - Steve B
 
 Um, What?
 
-[https://twitter.com/CatUserStories](https://twitter.com/CatUserStories) - [Matt P](/people/matt-peperell)
+[https://twitter.com/CatUserStories](https://twitter.com/CatUserStories) - Matt P
 
-[http://www.filldisk.com/](http://www.filldisk.com/) - [Matt P](/people/matt-peperell)
+[http://www.filldisk.com/](http://www.filldisk.com/) - Matt P
 
 Read the name of this site carefully. Visit it, sure, but do not leave it open in a tab unless you're using Firefox.  OK, now that the warnings are out of the way I shall explain a little bit more.  It's a site which gives an endless stream of cats (who doesn't love such sites?) using the HTML 5 localStorage. There are problems with the implementations of many popular browsers meaning that this storage can be abused. More details explained on the site.  Dare you click?
 

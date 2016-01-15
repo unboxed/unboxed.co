@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Come with me if you want to live! - [Dom M](/people/dominic-mason)
+## Come with me if you want to live! - Dom M
 
 Woman named Sarah Connor tweets about robot killing man in VW factory:
 

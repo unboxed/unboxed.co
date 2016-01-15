@@ -9,7 +9,7 @@ tags:
   - Rails
 ---
 
-### Add some Christmas cheer to your website.. - [Andy M](/people/andrew-mitchell)
+### Add some Christmas cheer to your website.. - Andy M
 
 [http://cssdeck.com/labs/css3-snow](http://cssdeck.com/labs/css3-snow)
 
@@ -36,7 +36,7 @@ So there is this new tool called Docker, and you may have heard great stories ab
 
 2013 has almost seen the loss of IE6. Come on China!
 
-### Even Santa has brand guidelines! - [Andy M](/people/andrew-mitchell)
+### Even Santa has brand guidelines! - Andy M
 
 [http://www.quietroom.co.uk/santa_brandbook/fourteen](http://www.quietroom.co.uk/santa_brandbook/fourteen)
 

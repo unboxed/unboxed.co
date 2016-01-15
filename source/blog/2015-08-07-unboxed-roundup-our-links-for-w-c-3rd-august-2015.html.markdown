@@ -8,13 +8,13 @@ tags:
   - Culture
 ---
 
-## Using Slack to work differently and better - [Dom M](/people/dominic-mason)
+## Using Slack to work differently and better - Dom M
 
 http://www.niemanlab.org/2015/07/how-7-news-organizations-are-using-slack-to-work-better-and-differently/
 
 Here at Unboxed, we use Slack to democratise decision making and share knowledge across the organisation. This article shares intimate details of how seven news orgs use Slack as a tool to change the way they work.
 
-## Sexual disease map of USA - [Dom M](/people/dominic-mason)
+## Sexual disease map of USA - Dom M
 
 https://www.rentapplication.com/these-are-the-most-sexually-diseased-cities-in-the-usa/
 
@@ -26,13 +26,13 @@ www.unboxed.co/blog/communication-one-step-forward-two-steps-slack
 
 I decided to write a post about the way we use Slack, how amazing it is, but also how it should be used with care. We’re not all robots yet, why not have a face-to-face conversation once in a while?
 
-## In Agile development, what does a designer do before, during and after a sprint? - [Dom M](/people/dominic-mason)
+## In Agile development, what does a designer do before, during and after a sprint? - Dom M
 
 https://developers.google.com/design-sprint/downloads/DesignSprintMethods.pdf
 
 Here's what Google's UXteam think is ideal designer behaviour before, during and after a sprint. Do you agree?
 
-## How UX thinking can influence your whole project, for the better - [Dom M](/people/dominic-mason)
+## How UX thinking can influence your whole project, for the better - Dom M
 
 https://www.theguardian.com/info/developer-blog/2015/jul/27/the-user-experience-of-creative-sprints
 
@@ -44,13 +44,13 @@ http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance/
 
 Richard Schneeman used the new Heroku metrics platform to provide insight on what are the typical performance and memory bottlenecks in Rails apps and then sent in a pull request that gives a greater than 10% performance boost and a 29% decrease in the number of allocated objects per request. The great thing is that the tools he used are all open source so you can use them to identify areas where you can boost the performance of your app too.
 
-## Twitter spats resemble paint splats - [Dom M](/people/dominic-mason)
+## Twitter spats resemble paint splats - Dom M
 
 http://www.technologyreview.com/view/539856/this-is-what-controversies-look-like-in-the-twittersphere/
 
 A new way of visualising Twitter disagreements creates little 'fireworks' from explosive conversations
 
-## Chief architect of 'Government as a service' to departs GDS, leaves potent legacy - [Dom M](/people/dominic-mason)
+## Chief architect of 'Government as a service' to departs GDS, leaves potent legacy - Dom M
 
 https://gds.blog.gov.uk/2015/08/03/onwards/
 

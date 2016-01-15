@@ -41,7 +41,7 @@ During code reviews: "it's just CSS, meh whatever, just commit that". Jonathan S
 
 ## Track of the Week - [Chris C](/people#chris-carter)
 
-[Murray](/people#murray-steele), [Pedro](/people/pedro-moreira) and I were discussing music in the workplace last night, especially the massive cons of playing ones personal sounds throughout an open-plan office. Therefore, we have created "Track of the Week" - an opportunity every week for one person to nominate a track of their choosing to share with the internets. This week, I've chosen:
+[Murray](/people#murray-steele), Pedro and I were discussing music in the workplace last night, especially the massive cons of playing ones personal sounds throughout an open-plan office. Therefore, we have created "Track of the Week" - an opportunity every week for one person to nominate a track of their choosing to share with the internets. This week, I've chosen:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/lmc21V-zBq0" frameborder="0" allowfullscreen></iframe>
 

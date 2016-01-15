@@ -8,13 +8,13 @@ tags:
   - Rails
 ---
 
-## Holy crap, marketing is scary - [Tom R](/people/tom-russell)
+## Holy crap, marketing is scary - Tom R
 
 http://mysocialsherpa.com/the-ultimate-retaliation-pranking-my-roommate-with-targeted-facebook-ads/
 
 A guy uses Facebook to target a single person with an advertising campaign that makes him question his sanity. This is privacy on the internet, peeps!
 
-## A talk about [React](http://facebook.github.io/react/) - [Alex](/people/alex-bobin)
+## A talk about [React](http://facebook.github.io/react/) - Alex
 
 http://2013.jsconf.eu/speakers/pete-hunt-react-rethinking-best-practices.html
 
@@ -28,7 +28,7 @@ http://www.sandimetz.com/blog/2014/9/9/shape-at-the-bottom-of-all-things
 
 This article from [Sandi Metz](http://www.sandimetz.com/) really got me thinking.  I don't know that I buy the specific refactoring approach in the article (Sandi herself says it's a contrived and simple example), but I do think there's something in the general idea that code tells us more than just what it does.  Often I've worked on some code where there's a missing object but I've not been able to see it clearly.  My normal solution to this problem is to talk through the code with a person not on the project and either their fresh opinion on the code or forcing myself to explain it is usually enough to reveal what's missing.  This article has made me keen to try reading the code differently to reveal these missing objects without the intermediate step.
 
-## Responsive web-design - [Alex](/people/alex-bobin)
+## Responsive web-design - Alex
 
 http://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions
 

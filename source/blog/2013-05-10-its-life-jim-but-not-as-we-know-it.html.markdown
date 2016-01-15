@@ -24,7 +24,7 @@ They've also just released a very interesting-looking command line tool called t
 
 http://blogs.atlassian.com/2013/05/git-tig/
 
-## Video codec in JS and Git tig II - [Matt](/people/matt-peperell)
+## Video codec in JS and Git tig II - Matt
 
 [A couple of months ago](/blog/improve-your-week-with-this-1-weird-old-tip) my submissions to the UBXD Dev blog showcased some nifty Javascript displays. The bar has been raised with a new video codec capable of HD quality written entirely in javascript.  The press release from last week is at http://www.otoy.com/130501_OTOY_release_FINAL.pdf and an analysis of these codecs can be found [here] (http://arstechnica.com/information-technology/2013/05/are-video-codecs-written-in-javascript-really-the-future/)
 

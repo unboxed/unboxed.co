@@ -23,7 +23,7 @@ This article starts with some that have recently been fixed or are good defaults
 
 http://blog.cloudflare.com/the-ddos-that-almost-broke-the-internet
 
-## A nice way to do split lists with CSS - ([Andrew M](/people/andrew-mitchell))
+## A nice way to do split lists with CSS - (Andrew M)
 
 Ever wondered how to split something which semantically is a single list but is visually split into columns? You could use the columns CSS property, however that's not entirely compatible with all browsers yet (yep IE!). Try this instead!
 https://coderwall.com/p/etf_ba

@@ -16,13 +16,13 @@ As someone who's recently started taking "Senior" contract positions, I'm contin
 
 This post from [@allspaw](https://twitter.com/allspaw) lays out, in an incredibly accessible manner, the principles and behaviour he expects at Etsy from someone who considers themselves "senior". Reading this will certainly make you a better engineer -- no matter your current level.
 
-## A testing environment per pull request - [Pedro M](/people/pedro-moreira)
+## A testing environment per pull request - Pedro M
 
 https://devcenter.heroku.com/articles/github-integration-pull-request-apps
 
 Heroku is experimenting with booting up an app per pull request. I find this interesting in the way it brings the QA cycle for a feature closer to a practice of Continuous Integration. It would be interesting to hear about the use of the feature in practice and whether it is truly effective in shortening PR approval time.
 
-## Acting like Sherlock Holmes for better user research - [Carmen B](/people/carmen-brion)
+## Acting like Sherlock Holmes for better user research - Carmen B
 
 http://www.userfocus.co.uk/articles/learn_from_Sherlock_Holmes.html
 

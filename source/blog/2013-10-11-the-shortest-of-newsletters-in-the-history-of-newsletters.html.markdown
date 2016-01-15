@@ -14,10 +14,10 @@ Goodmorning boys and girls,
 
 I hope this newsletter finds you bright eyed, bushy tailed and ready to click some links!
 
-## Online editor- [Tom ten Thij](/people/tom-ten-thij)
+## Online editor- Tom ten Thij
 Pretty neat online html, css and js editor with sharing capability: http://codepen.io/pen/
 
-## Fish! - [Tom ten Thij](/people/tom-ten-thij)
+## Fish! - Tom ten Thij
 Animated css3 fish tank, (look ma, no javascript) http://liveweave.com/GSquYM
 
 ## You can't JavaScript Under Pressure- Veronika

@@ -26,7 +26,7 @@ http://www.rockpapershotgun.com/2015/09/16/how-gog-com-save-and-restore-classic-
 
 I'm always interested in hearing how other parts of the software industry work.  It's nice to be reminded that not everything is mashing some strings together to build an interface for storing other strings in a db.  The kind of challenges that the [gog](http://gog.com) team face to get these old games working on modern systems sounds fascinating.
 
-## NHS:UK alpha launches - [Dominic M](/people/dominic-mason)
+## NHS:UK alpha launches - Dominic M
 
 http://digital.nhs.uk/2015/01/introducing-the-nhs-uk-alpha/
 
@@ -38,7 +38,7 @@ http://lifehacker.com/this-graphic-explains-20-cognitive-biases-that-affect-y-17
 
 This is a great easy to read chart/infographic giving a description of 20 cognitive biases that affect us all and influence the way we (and others) behave. If you’ve not heard of them before it’s worth a look.
 
-## Digital marketing trends - [Dominic M](/people/dominic-mason)
+## Digital marketing trends - Dominic M
 
 https://www.pinterest.com/pin/356347389244525558/
 
@@ -50,7 +50,7 @@ http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react
 
 React is currently one of the 'hot' javascript libraries to use. Heres why
 
-## Track of the Week - [Cale T](/people/cale-tilford)
+## Track of the Week - Cale T
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/stPcpvQjozo" frameborder="0" allowfullscreen></iframe>
 ["You Are Invited" by The Dismemberment Plan](https://www.youtube.com/watch?v=stPcpvQjozo)

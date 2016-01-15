@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Online communication approaching DOS syntax? - [Dominic M](/people/dominic-mason)
+## Online communication approaching DOS syntax? - Dominic M
 
 http://avc.com/2015/09/the-return-of-the-command-line-interface/
 

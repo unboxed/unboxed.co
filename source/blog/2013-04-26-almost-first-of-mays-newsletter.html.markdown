@@ -15,7 +15,7 @@ I have a personal preference for not putting a license on software, because ther
 
 [unlicense](http://unlicense.org/) do provide an opposing point of view which I thought would be convincing given my preference going in, but having read the OSI explanation I found, to my surprise, I was unconvinced.  So now I have to think [about which license](http://opensource.org/licenses) I do want to use that gives *me* enough "don't blame me if you die" cover and *you* enough "you can use it for whatever you want" confidence.  It's [MIT](http://opensource.org/licenses/MIT) isn't it?
 
-##[Carl Whittaker](/people/carl-whittaker)
+##Carl Whittaker
 ### Feature toggles
 Some links describing just what they are and how they're used.
 
@@ -29,7 +29,7 @@ Flickr use them — http://code.flickr.net/2009/12/02/flipping-out/
 
 as do Etsy. — http://codeascraft.etsy.com/2011/02/04/how-does-etsy-manage-development-and-operations/
 
-##[Matt Peperell](/people/matt-peperell)
+##Matt Peperell
 ###The single most useful thing in bash
 Or so the title of [this blog post](https://coderwall.com/p/oqtj8w) claims. Ever wanted to scroll through partial matches in your bash history? Now you can.
 

@@ -12,18 +12,18 @@ This week the newsletter has been slightly delayed due to other slightly more im
 
 #Great little-used features in Rails
 
-[Jörg](/people/joerg-diekmann) mentions some [great little-used features in Rails](http://blog.mitchcrowe.com/blog/2012/04/14/10-most-underused-activerecord-relation-methods). Some of them are only really applicable to Rails 4 - but there are some good ones there that we can already use, especially the `first_or_create` and `first_or_initialize` methods in `ActiveRecord`. I think it's definitely worth having a look at these.
+Jörg mentions some [great little-used features in Rails](http://blog.mitchcrowe.com/blog/2012/04/14/10-most-underused-activerecord-relation-methods). Some of them are only really applicable to Rails 4 - but there are some good ones there that we can already use, especially the `first_or_create` and `first_or_initialize` methods in `ActiveRecord`. I think it's definitely worth having a look at these.
 
 #Things that are sick and wrong
 
-[Matt P](/people/matt-peperell) is apparently a fan of things that are sick and wrong, but don't worry: in a work-safe way. Here's a couple of his recent finds:
+Matt P is apparently a fan of things that are sick and wrong, but don't worry: in a work-safe way. Here's a couple of his recent finds:
 
 * A Real Time communication library [using Animated Gifs As a Transport](http://github.com/videlalvaro/gifsockets)™. GifSockets! This can come handy when WebSockets are not an option, for example in old browsers. And Internet Explorer too.
 * A [PHP abstraction layer in Python](http://code.google.com/p/php-py/source/browse/trunk/src/php/php.py).
 
 #Pivotal in Chrome
 
-About two weeks ago I found out about [Pivotal Booster](http://pivotalbooster.com/) that is being advertised as the best Pivotal Tracker client for Mac OS X. This week [Elizabeth](/people/elizabeth-curson) has submitted yet another tool for Agile and Scrum lovers:
+About two weeks ago I found out about [Pivotal Booster](http://pivotalbooster.com/) that is being advertised as the best Pivotal Tracker client for Mac OS X. This week Lizard has submitted yet another tool for Agile and Scrum lovers:
 
 There's a [Chrome extension](http://chrome.google.com/webstore/detail/iegbkljacgfochoondhgibofiijnedjd) that lets you view Pivotal Tracker stories in a taskboard layout. Not good for much other than a top level overview of where things are in the current sprint since the cards aren't interactive, but certainly OK for using at Stand up for projects without a physical board.
 
@@ -39,7 +39,7 @@ Still I think it's interesting, maybe on some projects where you have a longer t
 
 #Upside-Down-Ternet
 
-Your neighbours are stealing your wireless internet access? What? Well, before you would fire up your router administration UI to change your wifi password, you might think twice and [troll the thieves for a little bit](http://www.ex-parrot.com/pete/upside-down-ternet.html). Go on and read a bit. It's brilliant. Thanks to [Matt](/people/matt-frank) for sending this in. (Also, credit needs to go to [@TomBeresfordUK](http://twitter.com/TomBeresfordUK) whom he found this via.)
+Your neighbours are stealing your wireless internet access? What? Well, before you would fire up your router administration UI to change your wifi password, you might think twice and [troll the thieves for a little bit](http://www.ex-parrot.com/pete/upside-down-ternet.html). Go on and read a bit. It's brilliant. Thanks to Matt for sending this in. (Also, credit needs to go to [@TomBeresfordUK](http://twitter.com/TomBeresfordUK) whom he found this via.)
 
 #ActiveSupport "method" of the week: OrderedHash
 

@@ -26,7 +26,7 @@ Here is the “fox” from my partnership…<br/>
 
  ![outsource2]( http://i1291.photobucket.com/albums/b548/grammccram/aa149b6f-dda6-4dfb-b24d-2dc58f688a67_zpsfe5df3b6.png)
 
-So with the partnership activities complete, it was time for [Dom](/people/dominic-mason) to introduce the agenda: <br/>
+So with the partnership activities complete, it was time for Dom to introduce the agenda: <br/>
 
 ![outsource3]( http://i1291.photobucket.com/albums/b548/grammccram/2a870781-64be-4817-9d48-b873755d836e_zpsc044c166.jpg)
 

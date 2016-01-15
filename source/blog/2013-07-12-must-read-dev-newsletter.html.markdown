@@ -12,14 +12,14 @@ tags:
   - Lean
 ---
 
-##[Jim Riordan](/people/jim-riordan)
+##Jim Riordan
 
 #### The independent's list of the 25 highbrowest jokes in the world
 Here's a good one for a friday :
 http://www.independent.co.uk/news/science/how-many-surrealists-does-it-take-to-screw-in-a-light-bulb-a-fish-the-most-highbrow-jokes-in-the-world-8691191.html
 
 
-##[Matt Peperell](/people/matt-peperell)
+##Matt Peperell
 
 #### numbers.vim
 [numbers.vim](http://myusuf3.github.io/numbers.vim/) is a free, open source plugin which will alternate between relative numbering (normal mode) and absolute numbering (insert mode) depending on the mode you are in.
@@ -38,7 +38,7 @@ At [the Norwegian Developer Conference](http://www.ndcoslo.com/) earlier this ye
 #### setting up a digital ocean machine
 http://paweljaniak.co.za/2013/07/10/deploying-to-digital-ocean/
 
-##[Lee Richmond](/people/lee-richmond)
+##Lee Richmond
 
 #### An extensive list of JavaScript frameworks, with demos.
 http://www.javascriptoo.com/
@@ -46,7 +46,7 @@ http://www.javascriptoo.com/
 #### A handy gem for helping with database sharding
 https://github.com/tchandy/octopus
 
-##[Ben Janecke](/people/ben-janecke)
+##Ben Janecke
 
 #### some useful patterns that I’ve found myself using regularly
 http://blog.quickpeople.co.uk/2013/07/10/useful-github-patterns/

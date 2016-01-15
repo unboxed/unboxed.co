@@ -14,7 +14,7 @@ https://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/
 
 When I talk with developers in the early stages of their career one thing I try my hardest to let them know is that it's ok to take your time.  There's a mindset that productivity and speed are the most important things about being a programmer, and to be anything less than a "10x engineer" is a waste of your time.  I don't believe this narrative and I'm happy to see discussion of an alternative.  I particularly like that [Jeffrey](https://ventrellathing.wordpress.com/) describes his way of working as starting with a bunch of hacks and extracting good code from it once it is functionally complete; we don't have to write perfect code from the first keystroke.
 
-## Typeset in the future - [Dom](/people/dominic-mason)
+## Typeset in the future - Dom
 
 http://typesetinthefuture.com/alien/
 
@@ -48,7 +48,7 @@ I love data visualisations. I especially love these visualisations of London. A 
 
 Create tables from an array of hashes (`console.table(object)`) and grouping messages together (`console.group(message)`).
 
-## The creative side of sneaker culture - [Dom](/people/dominic-mason)
+## The creative side of sneaker culture - Dom
 
 http://artandsoleblog.com/features/view/inspired-ingenuity-sneaker-speakers-by-nash
 

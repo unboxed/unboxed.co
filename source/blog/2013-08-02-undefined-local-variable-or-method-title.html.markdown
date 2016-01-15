@@ -38,7 +38,7 @@ Recently I have switched to Sublime as my text editor and have been finding usef
 
 [http://www.buzzfeed.com/lukelewis/28-things-only-developers-will-find-funny](http://www.buzzfeed.com/lukelewis/28-things-only-developers-will-find-funny)
 
-##Ruby Warrior - [Tom TT](/people/tom-ten-thij)
+##Ruby Warrior - Tom TT
 [https://www.bloc.io/ruby-warrior](https://www.bloc.io/ruby-warrior)
 
 ##Is my computer on? - [Tom S](/people#tom-sabin/)

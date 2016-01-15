@@ -14,7 +14,7 @@ https://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior
 
 I've seen and experienced a lot of code reviews over the years ranging from useful learning to stylistic pedantry to damaging of relationships. The Ruby Rogues have a conversation around code review culture and how to be effective doing code reviews.  Tone and attitude are keys to making it successful and useful to a team. Don't say "why didn't you just... <do it they way I thought of first>"
 
-## The trouble with events... - [Dom M](/people/dominic-mason)
+## The trouble with events... - Dom M
 
 http://www.hughmalkin.com/blogwriter/2015/9/23/why-no-one-has-solved-event-discovery
 
@@ -26,7 +26,7 @@ http://www.nngroup.com/articles/flat-design/
 
 A useful primer on where Flat Design came from and what the common pitfalls are with the approach.  It's definitely worth being reminded that while aesthetics are important, usability should win if a compromise needs to be made.
 
-## CAD, the final mobile service interface to fall? - [Dom M](/people/dominic-mason)
+## CAD, the final mobile service interface to fall? - Dom M
 
 http://a16z.com/2015/09/24/onshape/
 
@@ -38,7 +38,7 @@ http://www.ibm.com/developerworks/rational/library/user-stories-product-backlog/
 
 When I was new to Scrum I struggled to clearly understand how to break user stories down from Epics to something more manageable. This is a good concise post which will help you understand how to do it.
 
-## ArrrrrBnB - [Dom M](/people/dominic-mason)
+## ArrrrrBnB - Dom M
 
 http://firstround.com/review/How-design-thinking-transformed-Airbnb-from-failing-startup-to-billion-dollar-business/
 
@@ -50,7 +50,7 @@ http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/
 
 Skip to the "Vertical Decomposition" and then "Integration" sections if you've read enough of this type of article. Simple practical (obvious?) advice for integrating services before going down the micro-service route.
 
-## ​*Just say NO!*​​ - [Dom M](/people/dominic-mason)
+## ​*Just say NO!*​​ - Dom M
 
 http://www.productstrategymeanssayingno.com
 

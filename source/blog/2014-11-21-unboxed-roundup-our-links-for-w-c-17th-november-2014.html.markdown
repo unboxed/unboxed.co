@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Prioritise your features with data - [Dom](/people/dominic-mason)
+## Prioritise your features with data - Dom
 
 https://speakerdeck.com/mcfunley/data-driven-products-now
 

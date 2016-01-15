@@ -29,7 +29,7 @@ Two lessons to be learnt from this:
   1. NEVER TRUST anything - double check what you expected to happen - in this case the repository was to be private
   2. NEVER, never, never commit private keys, data in plain text or at least encrypt the contents if you have to - even for private repositories you never know what bug sits round the next corner, which I guess you could say the same for encryption ;)
 
-## Agile predictions - [Dom M](/people/dominic-mason)
+## Agile predictions - Dom M
 
 http://www.wired.com/insights/2014/08/forget-lean-agile-time-anticipatory/
 
@@ -47,7 +47,7 @@ Does offloading apps to the cloud and super security really matter?
 
     Onto the worlds most ‘secure’ phone. I’ve been watching this one for a while. Designed by an Architect it looks very different. Made of ‘Liquidmorphium’ and shipping in December. Call me curious…
 
-## askbash - [Charlie E](/people/charlie-egan)
+## askbash - Charlie E
 
 https://github.com/arikast/askbash
 

@@ -10,7 +10,7 @@ tags:
 
 
 
-## Better ways for team discussion - [Carmen B](/people/carmen-brion)
+## Better ways for team discussion - Carmen B
 
 * http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
 

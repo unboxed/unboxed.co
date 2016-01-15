@@ -20,19 +20,19 @@ https://github.com/biola/Voight-Kampff
 
 A handy gem that can be used to check whether a request has been made by a bot (e.g. in your controller: ``request.bot?``). Great for filtering out real users for analytics or avoiding unwanted API calls when a bot visits the site.
 
-## Is testing a design tool? - [Pedro M](/people/pedro-moreira)
+## Is testing a design tool? - Pedro M
 
 http://codurance.com/2015/05/12/does-tdd-lead-to-good-design/
 
 I like the notion put forth by this article of not being tied to a specific style and learning from different approaches. I tend to make a conscious effort of not being to set in a way of thinking about design/testing and this is a welcome discussion.
 
-## IoT = Internet of Thieving Robots? - [Dom M](/people/dominic-mason)
+## IoT = Internet of Thieving Robots? - Dom M
 
 http://www.wired.com/2015/05/little-3-d-printed-robot-cracks-combination-locks-30-seconds/
 
 This 3D printed, Arduino-powered robot cracks a cylinder lock like a crab cracks a winkle. As the IoT and robotics accelerates ahead of legislation and regulation, what nefarious future is possible for drones, bots and self replicating devices?
 
-## Why to kill your yearly performance reviews? - [Carmen B](/people/carmen-brion)
+## Why to kill your yearly performance reviews? - Carmen B
 
 https://www.linkedin.com/pulse/20140206114808-15893932-how-adobe-got-rid-of-traditional-performance-reviews
 
@@ -40,7 +40,7 @@ It's great to see a corporate starting to do something about year performance re
 
 Having a coaching and advice model seems not only more efficient, but more 'human'.
 
-## Is a Twitter message too big? - [Dom M](/people/dominic-mason)
+## Is a Twitter message too big? - Dom M
 
 http://mumbrella.com.au/new-york-times-apple-watch-attracting-more-mobile-readers-and-driving-newsroom-changes-293687
 

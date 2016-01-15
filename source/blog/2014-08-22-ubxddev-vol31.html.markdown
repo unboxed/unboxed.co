@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-## Sublime Text Tips - [Charlie](/people/charlie-egan)
+## Sublime Text Tips - Charlie
 
 https://www.udemy.com/sublime-text-workflow/
 
@@ -18,7 +18,7 @@ This is a really great outline of the capabilities & features of [Sublime Text](
 
 To be taken under consideration... but the [lol_dba gem](https://github.com/plentz/lol_dba) installed and ran in seconds and gave me a couple of good clues for database column indexes my current project could benefit from.
 
-## Dev along with [Pedro](/people/pedro-moreira)
+## Dev along with Pedro
 
 ### OO Videos
 

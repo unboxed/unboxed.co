@@ -34,12 +34,12 @@ Makes directory navigation super simple by learning from your cd commands
 
 So once it has learnt from a couple of my cd changes I could do ``$ z ubxd`` and it would be the same as ``cd ~/Sites/ubxd_web``
 
-## The grid in bootstrap - [Ben J](/people/ben-janecke)
+## The grid in bootstrap - Ben J
 
 http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
 
 This is a good guide about the grid for both bootstrap veterans and newbies.
 
-## Page weight - [Jolyon](/people/jolyon-pawlyn)
+## Page weight - Jolyon
 
 We are looking to decrease the page load time for a current project and I came across a good post [The Complete Guide to Reducing Page Weight](http://www.sitepoint.com/complete-guide-reducing-page-weight/) from a colleague. Towards the end Craig recommends [the Pingdom tools](http://tools.pingdom.com/), but note this url is not easily found on the [their home page](http://www.pingdom.com).
