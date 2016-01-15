@@ -3,7 +3,7 @@ author: Sarah Beck
 tags: 
   - Innovation
 main_image: ""
-date: "2015-12-01 15:54 +0000"
+date: "2016-01-15 15:54 +0000"
 published: true
 title: Lift Digital
 ---
