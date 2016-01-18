@@ -18,7 +18,7 @@ As a public sector organisation, we have felt the pressures of government budget
  
 We started working with Unboxed to research and investigate how best to introduce Digital Services to some of our busiest services.
  
-While Gov.uk have led the way with Agile and encouraged Local Government to follow, the reality for BCC is that Agile remains a training session some of us went to at some point a while ago. People remain nervous about changing the way they have comfortably worked with each other to deliver successful projects in the past. Unboxed have helped us to flex our Agile muscles and put it into practice in a way we can share with our colleagues to improve projects in the future.
+While Gov.uk have led the way with agile and encouraged Local Government to follow, the reality for BCC is that agile remains a training session some of us went to at some point a while ago. People remain nervous about changing the way they have comfortably worked with each other to deliver successful projects in the past. Unboxed have helped us to flex our agile muscles and put it into practice in a way we can share with our colleagues to improve projects in the future.
  
 We have of course faced some challenges along the way.<br/>
 <br/>
