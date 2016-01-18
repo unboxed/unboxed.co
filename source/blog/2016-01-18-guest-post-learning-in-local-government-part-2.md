@@ -20,7 +20,8 @@ We started working with Unboxed to research and investigate how best to introduc
  
 While Gov.uk have led the way with Agile and encouraged Local Government to follow, the reality for BCC is that Agile remains a training session some of us went to at some point a while ago. People remain nervous about changing the way they have comfortably worked with each other to deliver successful projects in the past. Unboxed have helped us to flex our Agile muscles and put it into practice in a way we can share with our colleagues to improve projects in the future.
  
-We have of course faced some challenges along the way.
+We have of course faced some challenges along the way.<br/>
+<br/>
  
 # Finding our customers
 An infamous Council habit is to presume that we know exactly what the customer wants and project that presumption across our services. During Discovery with Unboxed we challenged this and went back to the drawing board (literally) to investigate who our customers are. This was not received well by everyone as some people claimed they already knew who our customer is and this has been done before. Needless to say our findings were different to what had been pushed on us as truth.<br/>
