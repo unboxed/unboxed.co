@@ -3,12 +3,12 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   site_url = "http://unboxed.co/"
   xml.title "The Unboxed Blog"
   xml.subtitle "Ruby on rails, Agile, Scrum and other life changing topics."
-  xml.id URI.join(site_url, blog.options.prefix.to_s)
-  xml.link "href" => URI.join(site_url, blog.options.prefix.to_s)
+  xml.id URI.join(site_url, blog(:blog).options.prefix.to_s)
+  xml.link "href" => URI.join(site_url, blog(:blog).options.prefix.to_s)
   xml.link "href" => URI.join(site_url, current_page.path), "rel" => "self"
-  xml.updated(blog.articles.first.date.to_time.iso8601) unless blog.articles.empty?
+  xml.updated(blog(:blog).articles.first.date.to_time.iso8601) unless blog(:blog).articles.empty?
 
-  blog.articles[0..50].each do |article|
+  blog(:blog).articles[0..50].each do |article|
     xml.entry do
       xml.title article.title
       xml.link "rel" => "alternate", "href" => URI.join(site_url, article.url)

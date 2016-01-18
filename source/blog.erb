@@ -18,10 +18,10 @@ meta_description: "Discussion into web app development, design, UX, Agile and pr
   <div class="blog-tags">
     <div class="blog-tags__container">
       <% data.tags.each do |tag| %>
-        <a class="blog-tags__tag" href="<%= tag_path(tag) %>"><%= tag %></a>
+        <a class="blog-tags__tag" href="<%= tag_path(tag, :blog) %>"><%= tag %></a>
       <% end %>
     </div>
   </div>
 </div>
 
-<%= partial 'blog_grid', locals: { articles: blog.articles } %>
+<%= partial 'blog_grid', locals: { articles: blog(:blog).articles } %>
