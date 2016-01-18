@@ -10,7 +10,7 @@ published: true
 title: "Guest post: Learning in Local Government - Part 2"
 ---
 
-Following on from [part one](http://unboxed.co/blog/learning-in-local-government-through-discovery/) in the Learning in Local Government through Discovery series, part two is a guest post by [Helen Gracie](https://twitter.com/HelenJGracie), a Business Improvement Advisor for Buckinghamshire County Council. We’re currently working alongside Buckinghamshire County Council to digitalise their public services.
+<i>Following on from [part one](http://unboxed.co/blog/learning-in-local-government-through-discovery/) in the Learning in Local Government through Discovery series, part two is a guest post by [Helen Gracie](https://twitter.com/HelenJGracie), a Business Improvement Advisor for Buckinghamshire County Council. We’re currently working alongside Buckinghamshire County Council to digitalise their public services.</i>
 
 ![Helen Gracie](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-01-17%20at%2015.50.20_zpsgxfzzmfj.png)
 
