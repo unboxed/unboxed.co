@@ -1,0 +1,23 @@
+.news-tile {
+  @extend .blog-medium-tile;
+}
+
+.news-tile__container {
+ @extend .blog-medium-tile__container;
+}
+
+.news-tile__top-content {
+ @extend .blog-medium-tile__top-content;
+}
+
+.news-tile__title {
+ @extend .blog-medium-tile__title;
+}
+
+.news-tile__date {
+  @extend .blog-medium-tile__date;
+}
+
+.news-tile__article-body {
+  @extend .blog-medium-tile__article-body;
+}
