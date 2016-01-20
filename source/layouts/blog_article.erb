@@ -15,7 +15,7 @@
 
         <div class="blog-header__subtitle">
           <% if author %>
-            <a class="blog-header__author--linked" href="/people/<%= author.short_name %>" rel="author">
+            <a class="blog-header__author--linked" href="/people#<%= author.short_name %>" rel="author">
               <%= author.name %>
             </a>
           <% else %>
@@ -65,7 +65,7 @@
             <img class="blog-author__image" src="/assets/images/people/<%= author.short_name %>.png" alt="<%= author.name %>"/>
           <% end %>
           <aside class="blog-author__right-section">
-            <a class="blog-author__name" href="/people/<%= author.short_name %>">
+            <a class="blog-author__name" href="/people#<%= author.short_name %>">
               <%= author.name %>
             </a>
             <div class="blog-author__bio">

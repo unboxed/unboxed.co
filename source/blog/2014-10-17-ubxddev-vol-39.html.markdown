@@ -8,13 +8,13 @@ tags:
   - Rails
 ---
 
-## Fast Ruby - [Pedro](/people/pedro-moreira/)
+## Fast Ruby - Pedro
 
 https://github.com/JuanitoFatas/fast-ruby
 
 This is a nice repo with code examples from [Erik Michaels-Ober's](https://github.com/sferik) “Writing Fast Ruby” talk, presented at [Baruco](http://www.baruco.org/) and [RubyconfPT](http://rubyconf.pt/) ([video](https://www.youtube.com/watch?v=fGFM_UrSp70) and [slides](https://speakerdeck.com/sferik/writing-fast-ruby)). I found the talk really interesting and it is great work by [Juanito Fatas](https://github.com/JuanitoFatas) in keeping the repo up to date with examples.
 
-## The effort of OSS - [Pedro](/people/pedro-moreira)
+## The effort of OSS - Pedro
 
 https://github.com/basecamp/pow/issues/452#issuecomment-59448995
 

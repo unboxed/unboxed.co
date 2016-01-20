@@ -97,8 +97,8 @@ development time.
 
 During the course of the *Naturejobs* project, I also attended the [Lean Startup
 Machine](https://www.leanstartupmachine.com/) event over the weekend of 18-20 July, along with [Tom
-S](/people/tom-sabin), [Claire](/people/claire-kemp), [Richard S](/people/richard-stobart),
-[Martyn](/people/martyn-evans), and Paul (again!) from [Lean
+S](/people#tom-sabin), [Claire](/people#claire-kemp), [Richard S](/people#richard-stobart),
+[Martyn](/people#martyn-evans), and Paul (again!) from [Lean
 Mammoth](http://leanmammoth.com). With a strap-line of *"Learn to build a successful business in three days"*, the
 workshop is designed to take a simple idea through to a business in an incredibly short amount of time. It consisted of
 a number of workshops to help us validate customer problems and their potential solutions, improve our customer

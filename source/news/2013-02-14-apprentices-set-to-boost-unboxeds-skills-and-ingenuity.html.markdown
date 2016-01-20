@@ -19,4 +19,4 @@ date: "2013-02-14T17:21:00+00:00"
 
 <p>The apprentice team will bring richness and diversity to our vibrant team. Our ongoing growth means that they will be kept busy with interesting clients and projects. They will be sharing more of their journey and insights during their year with us.</p>
 
-<p><a href="../people/richard-stobart">Richard Stobart</a>, our CEO said: &quot;The candidates were all of such a high quality and so enthusiastic that we wanted to take on more of them.  We believe that taking on apprentices will be beneficial to us, great for them and generally good for the country. Hopefully other companies will see the benefit we are getting and get onboard with the programme too.&quot;</p>
+<p><a href="../people#richard-stobart">Richard Stobart</a>, our CEO said: &quot;The candidates were all of such a high quality and so enthusiastic that we wanted to take on more of them.  We believe that taking on apprentices will be beneficial to us, great for them and generally good for the country. Hopefully other companies will see the benefit we are getting and get onboard with the programme too.&quot;</p>

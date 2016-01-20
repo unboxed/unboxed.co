@@ -8,25 +8,25 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Does Google crawl dynamic content? - [Henry T](/people/henry-turner)
+## Does Google crawl dynamic content? - [Henry T](/people#henry-turner)
 
 http://www.centrical.com/test/google-json-ld-and-javascript-crawling-and-indexing-test.html
 
 If you're not writing react or ember apps it's still pretty useful to know if your Disqus comments will be crawled or if that lovely live javascript clock  in the corner of your site will end up in the SERPs.
 
-## Ask DTrace: Why are my tests so slow? - [Andrew W](/people/andrew-white)
+## Ask DTrace: Why are my tests so slow? - [Andrew W](/people#andrew-white)
 
 https://blog.8thlight.com/colin-jones/2015/12/01/ask-dtrace-why-are-my-tests-so-slow.html
 
 Use the power of DTrace to diagnose the real reason why your test suite is so slow
 
-## Dry Validation - [Anson K](/people/anson-kelly)
+## Dry Validation - [Anson K](/people#anson-kelly)
 
 http://solnic.eu/2015/12/07/introducing-dry-validation.html
 
 An alternative to Rails' Strong Params and Validation
 
-## This is `def`initely worth a read - [Murray S](/people/murray-steele)
+## This is `def`initely worth a read - [Murray S](/people#murray-steele)
 
 http://weblog.jamisbuck.org/2015/10/17/dynamic-def.html
 

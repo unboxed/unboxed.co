@@ -8,13 +8,13 @@ tags:
   - Rails
 ---
 
-### JS Library Detection - [Tom S](/people/tom-sabin)
+### JS Library Detection - [Tom S](/people#tom-sabin)
 
 [https://chrome.google.com/webstore/detail/library-detector/cgaocdmhkmfnkdkbnckgmpopcbpaaejo](https://chrome.google.com/webstore/detail/library-detector/cgaocdmhkmfnkdkbnckgmpopcbpaaejo)
 
 A useful Chrome extension to find out what JS libraries are being used on the website you are browsing.
 
-### Git 2.0 - [Gavin](/people/gavin-van-lelyveld)
+### Git 2.0 - Gavin
 
 [http://blogs.atlassian.com/2014/06/happened-git-2-0-full-goodies/](http://blogs.atlassian.com/2014/06/happened-git-2-0-full-goodies/)
 
@@ -24,7 +24,7 @@ A useful Chrome extension to find out what JS libraries are being used on the we
 > see that the two consecutive commits do not belong to a linear branch. This option puts
 > a barrier in between them in that case.
 
-### Why Docker? Why not Chef? - [Murray](/people/murray-steele)
+### Why Docker? Why not Chef? - [Murray](/people#murray-steele)
 
 [http://blog.relateiq.com/why-docker-why-not-chef/](http://blog.relateiq.com/why-docker-why-not-chef/)
 
@@ -32,7 +32,7 @@ Recently I've been doing a lot of sysadmin work on our infrastructure.  Which me
 
 I don't know that I'm quite ready to throw chef in the bin and use a different tool, but the arguments in this article certainly resonate with me.  Particularly the idea of never upgrading a server, just creating a new one and swapping it with the old one.  I don't know enough about docker to say if it's something I'd like any more than chef, but this article certainly has me interested.
 
-### A first person game-engine in JS - [Murray](/people/murray-steele)
+### A first person game-engine in JS - [Murray](/people#murray-steele)
 
 [http://www.playfuljs.com/a-first-person-engine-in-265-lines/](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 
@@ -43,7 +43,7 @@ This blog post introduces us to a simple 3d game engine in javascript.  I like t
 
 A while back I wrote a [terrible rogue game engine](https://github.com/h-lame/lruggery/tree/master/names_from_a_hat/rogue) to randomise names for [an LRUG lightning talk evening](http://lrug.org/meetings/2012/01/24/february-2012-meeting/).  I found implementing the game engine for that surprisingly simple (once I found the right resources), and this article has made me consider writing a 3D engine for wandering around in the generated "dungeons".
 
-### The Rails/Merb Merge In Retrospect - [Murray](/people/murray-steele)
+### The Rails/Merb Merge In Retrospect - [Murray](/people#murray-steele)
 
 [http://gilesbowkett.blogspot.co.uk/2014/06/the-railsmerb-merge-in-retrospect.html](http://gilesbowkett.blogspot.co.uk/2014/06/the-railsmerb-merge-in-retrospect.html)
 
@@ -51,7 +51,7 @@ This article about the Rails + Merb merge could seem like it is 4 years too late
 
 Either way, I think it's a useful piece of writing and I'd like to see more articles that explore this sort of reflection on technology.  So much of the writing about technology we see is just hype about the latest hot! new! cool! thing! that it's refreshing to read about critically evaluating those things much later to see if they delivered on their promises (*spoiler*: they probably don't).
 
-### My Top RailsConf 2014 Talks - [Karl](/people/karl-entwistle)
+### My Top RailsConf 2014 Talks - Karl
 
 #### [All the Little Things by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 

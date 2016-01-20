@@ -8,19 +8,19 @@ tags:
   - Culture
 ---
 
-## How far ahead is interaction on mobile compared with other devices? (Updated: includes iWatch) - [Dom](/people/dominic-mason)
+## How far ahead is interaction on mobile compared with other devices? (Updated: includes iWatch) - Dom
 
 https://medium.com/@christianhern/into-the-age-of-context-f0aed15171d7
 
-## Startup? Going to market? Here's the bootcamp you're looking for. - [Dom](/people/dominic-mason)
+## Startup? Going to market? Here's the bootcamp you're looking for. - Dom
 
 http://a16z.com/2015/03/06/go-to-market-bootcamp/
 
-## Slack growth stats. Can it conquer email? - [Dom](/people/dominic-mason)
+## Slack growth stats. Can it conquer email? - Dom
 
 http://www.nytimes.com/2015/03/12/technology/slack-the-office-messaging-app-that-may-finally-sink-email.html
 
-## Track of the Week - [Ben](/people/ben-wong)
+## Track of the Week - [Ben](/people#ben-wong)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zynxSanDBzg" frameborder="0" allowfullscreen></iframe>
 

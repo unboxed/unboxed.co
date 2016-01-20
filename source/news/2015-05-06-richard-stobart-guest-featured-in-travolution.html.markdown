@@ -3,7 +3,7 @@ title: "Richard Stobart guest featured in Travolution"
 date: "2015-05-06T16:30:00+01:00"
 ---
 
-<p>Our CEO, <a href="../people/richard-stobart">Richard Stobart</a>, is guest featured in digital travel market publication, Travolution.<br/></p>
+<p>Our CEO, <a href="../people#richard-stobart">Richard Stobart</a>, is guest featured in digital travel market publication, Travolution.<br/></p>
 
 <p>Tackling the topic of unblocking technology projects in travel companies, Richard uncovers the methods to unblocking a stuck project. Here’s a snippet of the guest post:<br/></p>
 
