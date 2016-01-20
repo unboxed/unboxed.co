@@ -3,7 +3,7 @@ title: "Richard Stobart featured in Business Computing World"
 date: "2015-04-24T10:50:00+01:00"
 ---
 
-<p>Unboxed Consulting CEO, <a href="../people/richard-stobart">Richard Stobart</a> is featured in Business Computing World with a thought-leadership article.<br/></p>
+<p>Unboxed Consulting CEO, <a href="../people#richard-stobart">Richard Stobart</a> is featured in Business Computing World with a thought-leadership article.<br/></p>
 
 <p>In the piece, titled: <i>Unblock Your Project Pipeline And “Get Your Ducks In A Row”</i>, Richard outlines the two parts to the unsticking process in order to get a stuck project pipeline moving again.<br/></p>
 

@@ -7,7 +7,7 @@ date: "2015-08-25T17:00:00+01:00"
 for five years, it&#39;s time to start thinking about migration plans so that
 you don&#39;t get left behind.<br/></p>
 
-<p><a href="../people/andrew-white">Andrew White</a>, Rails Core Team Member and Unboxed&#39;s CTO, is hosting this one-off meetup for <b>Developers</b> and <b>Architects</b>, covering how past major releases have tripped people up and what strategies you need to adopt to make sure your upgrade path is smooth.<br/></p>
+<p><a href="../people#andrew-white">Andrew White</a>, Rails Core Team Member and Unboxed&#39;s CTO, is hosting this one-off meetup for <b>Developers</b> and <b>Architects</b>, covering how past major releases have tripped people up and what strategies you need to adopt to make sure your upgrade path is smooth.<br/></p>
 
 <p><b>Date:</b> Wednesday 16th September<br/>
 <b>Time:</b> 09:30 – 10:30 (Breakfast from 09:00)<br/>

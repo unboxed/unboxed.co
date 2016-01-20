@@ -20,7 +20,7 @@ Join Unboxed on Wednesday 12th August for a hands on 3-hour session where you wi
 
 <p align="center"><img src="http://bit.ly/1TxhoXO" alt="The experts"></p> 
 
-<p><font size="4"><b><a href="../people/richard-stobart">Richard Stobart</a> – CEO at Unboxed Consulting</b><br/></font>
+<p><font size="4"><b><a href="../people#richard-stobart">Richard Stobart</a> – CEO at Unboxed Consulting</b><br/></font>
 Agile Coach of the Year 2014, Richard is one of the UK’s leading experts in the process of digital product design for valuable, commercial features.<br/></p>
 
 <p><font size="4"><b>Dominic Mason – Client Partner at Unboxed Consulting</b><br/></font>
