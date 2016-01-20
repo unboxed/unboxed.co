@@ -17,7 +17,7 @@ date: "2015-06-01T16:15:00+01:00"
 
 <h2 class="super_sub_heading">Wednesday 24th June, 16:00</h2>
 
-<h2>With <a href="../people/richard-stobart">Richard Stobart</a>, CEO<br/></h2>
+<h2>With <a href="../people#richard-stobart">Richard Stobart</a>, CEO<br/></h2>
 
 <p align="center"><img src="http://bit.ly/1FowOVE" alt="Richard Stobart"></p> 
 
@@ -30,7 +30,7 @@ date: "2015-06-01T16:15:00+01:00"
 
 <h2 class="super_sub_heading">Wednesday 1st July, 16:00</h2>
 
-<h2>With <a href="../people/martyn-evans">Martyn Evans</a>, Head of Product<br/></h2>
+<h2>With <a href="../people#martyn-evans">Martyn Evans</a>, Head of Product<br/></h2>
 
 <p align="center"><img src="http://bit.ly/1JjdcXC" alt="Martyn Evans"></p> 
 
@@ -43,7 +43,7 @@ date: "2015-06-01T16:15:00+01:00"
 
 <h2 class="super_sub_heading">Wednesday 15th July, 16:00</h2>
 
-<h2>With <a href="../people/steve-lennon">Steve Lennon</a>, Director of Delivery<br/></h2>
+<h2>With <a href="../people#steve-lennon">Steve Lennon</a>, Director of Delivery<br/></h2>
 
 <p align="center"><img src="http://bit.ly/1BBZwRj" alt="Steve Lennon"></p> 
 

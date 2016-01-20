@@ -5,7 +5,7 @@ date: "2014-11-17T18:09:00+00:00"
 
 <p>What do Product Management and the Berlin Christmas Market have in common? They both are happening in Berlin this December.  We are arranging an exciting day that will take your Product Management to new levels and get you out and about in Berlin.<br/></p>
 
-<p>Join <a href="http://ueberproduct.de/en/team/">Markus Andrezak</a> from überproduct and <a href="/people/martyn-evans">Martyn Evans</a> from Unboxed Consulting for an in-depth, hands-on one day workshop with theory and insights in the morning and real customer development in the Christmas Market in the afternoon. To get the most out of your trip we are including a free night in a Berlin hotel on Friday night.<br/></p>
+<p>Join <a href="http://ueberproduct.de/en/team/">Markus Andrezak</a> from überproduct and <a href="/people#martyn-evans">Martyn Evans</a> from Unboxed Consulting for an in-depth, hands-on one day workshop with theory and insights in the morning and real customer development in the Christmas Market in the afternoon. To get the most out of your trip we are including a free night in a Berlin hotel on Friday night.<br/></p>
 
 <p><b>Who should attend?</b><br/>
 • Product Owners of digital products, already working in product ownership<br/>

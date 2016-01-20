@@ -3,7 +3,7 @@ title: "Unboxed Digital Leaders Webinars series"
 date: "2014-10-14T13:40:00+01:00"
 ---
 
-<p>Each webinar delivers a practical action plan in 30 minutes. All sessions are hosted by our CEO &amp; &#39;Best Agile Coach or Mentor (Process)&#39; UK Agile Award winner, <a href="http:///people/richard-stobart">Richard Stobart</a>:</p>
+<p>Each webinar delivers a practical action plan in 30 minutes. All sessions are hosted by our CEO &amp; &#39;Best Agile Coach or Mentor (Process)&#39; UK Agile Award winner, <a href="http:///people#richard-stobart">Richard Stobart</a>:</p>
 
 <h2 class="super_sub_heading"><b>‘Unstick your product pipeline: how to rapidly progress a complex portfolio of stalled products’ </b><br/>
 <i>16:00, Wednesday 5th November</i></h2>
