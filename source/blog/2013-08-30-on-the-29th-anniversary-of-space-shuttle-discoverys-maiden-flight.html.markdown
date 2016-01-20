@@ -27,7 +27,7 @@ In a recent blog post they talk a little bit about RRDNS - their new tool design
 http://blog.cloudflare.com/the-story-of-a-little-dns-easter-egg
 
 
-## Retr-o-mat - [Murray](/people/murray-steele)
+## Retr-o-mat - [Murray](/people#murray-steele)
 
 It's always nice to mix thing up a bit when doing a retrospective.  In recent retrospectives we've tried having a theme to focus what you think about for our happy/sad/puzzle post-its (we tried "distraction"), we also ditched happy/sad/puzzle for placing our post-its on a quadrant graph with technology on the x axis and meh on the y axis.  Both were interesting approaches and gave us different actions to the ones we normally expect.  However, it's hard to come up with new ideas for a retrospective every time; thankfully [Retr-o-mat](http://www.plans-for-retrospectives.com/) exists to solve that problem!
 
@@ -45,7 +45,7 @@ The tool to test your library against different versions of gem dependencies and
 ## Decoupling Your HTML, CSS, and JavaScript -  MattP
 Preventing unintended consequences is not an easy problem to solve, especially since HTML, CSS, and JavaScript are, by their nature, co-dependent. But what can we do about it? Read more here: http://philipwalton.com/articles/decoupling-html-css-and-javascript/
 
-## SourceTree commit message guide - [Tom Sabin](/people/tom-sabin)
+## SourceTree commit message guide - [Tom Sabin](/people#tom-sabin)
 
 We all know about [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html), but wouldn't it be useful if [SourceTree](http://www.sourcetreeapp.com/) could also give us a helping hand? Turns out, it can. In the preferences (and under the General tab), toggle the following two settings to add a column guide to the commit message dialog:
 

@@ -52,7 +52,7 @@ offices:
         icon: "transport-icon__train.png"
 ---
 
-<header class="page-header">
+<header class="page-header page-header--bottom-margin">
   <div class="page-header__container">
     <h1 class="page-header__title">
       <%= current_page.data.header.title %>
@@ -64,7 +64,7 @@ offices:
   </div>
 </header>
 
-<div class="container--contact-page" data-header-waypoint>
+<div class="container--grid" data-header-waypoint>
   <% current_page.data.offices.each do |office| %>
     <div class="contact-page-tile">
       <div class="contact-page-tile__container">

@@ -4,9 +4,9 @@ xml.rss :version => "2.0" do
     site_url = "http://unboxed.co/"
     xml.title "The Unboxed Blog"
     xml.description "Ruby on rails, Agile, Scrum and other life changing topics."
-    xml.link URI.join(site_url, blog.options.prefix.to_s)
+    xml.link URI.join(site_url, blog(:blog).options.prefix.to_s)
 
-    blog.articles[0..50].each do |article|
+    blog(:blog).articles[0..50].each do |article|
       xml.item do
 
         xml.title article.title

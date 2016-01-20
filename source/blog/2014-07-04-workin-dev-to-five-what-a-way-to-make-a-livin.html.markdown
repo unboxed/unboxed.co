@@ -8,13 +8,13 @@ tags:
   - Rails
 ---
 
-## Patterns - [Henry](/people/henry-turner)
+## Patterns - [Henry](/people#henry-turner)
 
 [http://library.uniteddiversity.coop/Ecological\_Building/A\_Pattern\_Language.pdf](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf) (warning - 45 MB PDF)
 
 My Dad, a town planner and landscape architect, often bemoans how the software industry has utilised the concept of patterns better than his own from which the term came. If you haven’t seen [A Pattern Language by Christopher Alexander](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf) it’s pretty interesting to flick through and see what he was trying to achieve.
 
-## Rails 404 pages - [Andrew W](/people/andrew-white)
+## Rails 404 pages - [Andrew W](/people#andrew-white)
 
 [http://blog.jerodsanto.net/2014/06/a-step-by-step-guide-to-bulletproof-404s-on-rails/](http://blog.jerodsanto.net/2014/06/a-step-by-step-guide-to-bulletproof-404s-on-rails/)
 
@@ -24,13 +24,13 @@ If what you want is to have 404 pages rendered from an ERb template, you can do 
 
 If you want to write a custom failure app that's okay - just don't use [``ActionDispatch::Routing::RouteSet``](https://github.com/rails/rails/blob/master/actionpack/lib/action_dispatch/routing/route_set.rb) as it's not designed for it!
 
-## Google Design - [Murray](/people/murray-steele)
+## Google Design - [Murray](/people#murray-steele)
 
 [http://www.google.com/design/spec/](http://www.google.com/design/spec/)
 
 One of the things announced at Google IO this year was [Material Design](http://www.google.com/design/spec/) which is Google's design documentation for what their applications will look like.  You can already see hints of it in the [new maps interface](https://www.google.co.uk/maps/preview), and the [gmail client on iOS](https://itunes.apple.com/app/gmail/id422689480?mt=8), but I expect that [Android L](https://en.wikipedia.org/wiki/Android_L) will be the real unveiling.  There's lots of good stuff, particularly at the start of the document where it's more general about how objects and controls should react to each other.  As it progresses it becomes less generally useful as it goes into specifics for how to layout the padding on text-boxes, and other controls to make them fit in with Material Design.  Even if you aren't writing applications that you want to fit in with Material Design it would be worth reading this document to get a feel for some current thinking in UX.
 
-## Homebrew wrapper around launchctl - [Andrew M](/people/andrew-mitchell)
+## Homebrew wrapper around launchctl - Andrew M
 
 [http://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew](http://robots.thoughtbot.com/starting-and-stopping-background-services-with-homebrew)
 

@@ -13,7 +13,7 @@
   <div class="blog-tags__container">
     <% data.tags.each do |tag| %>
       <a class="blog-tags__tag<%= " blog-tags__tag--active" if tagname == tag %>"
-        href="<%= tag_path(tag) %>"><%= tag %></a>
+        href="<%= tag_path(tag, :blog) %>"><%= tag %></a>
     <% end %>
   </div>
 </div>
