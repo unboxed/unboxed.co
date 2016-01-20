@@ -7,9 +7,9 @@ date: "2015-06-01T16:15:00+01:00"
 
 <p>Most big organisations want to develop products much faster but can’t because of:<br/></p>
 
-<p>• Too many checkpoints and too many sign off points by multiple people<br/>
-• Too few conversations with real users and too little validation of the real problem to solve<br/>
-• A traditional mindset and structure that resists a faster way of working<br/></p>
+- Too many checkpoints and too many sign off points by multiple people<br/>
+- Too few conversations with real users and too little validation of the real problem to solve<br/>
+- A traditional mindset and structure that resists a faster way of working<br/>
 
 <p>All this is can be overcome or improved! Join us for our Speed Agile webcast series to learn techniques specifically to increase the pace of digital product and service development in your organisation.<br/></p>
 

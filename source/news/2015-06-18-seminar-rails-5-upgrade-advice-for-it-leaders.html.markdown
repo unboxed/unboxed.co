@@ -14,18 +14,18 @@ date: "2015-06-18T10:30:00+01:00"
 
 <h2>Who should attend?</h2>
 
-<p>• <b>IT leaders</b> who are responsible for deciding whether to upgrade a significant, existing Rails app to Rails 5<br/>
-• ….and who are responsible for the success or failure of the transition!<br/>
+- <b>IT leaders</b> who are responsible for deciding whether to upgrade a significant, existing Rails app to Rails 5<br/>
+- ….and who are responsible for the success or failure of the transition!<br/>
 <br/>
-<i>(** note that we’ll run a detailed <b>technical</b> meet up in September for senior developers and architects (Andrew will lead this too!)</i><br/></p>
+<i>(** note that we’ll run a detailed <b>technical</b> meet up in September for senior developers and architects (Andrew will lead this too!)</i><br/>
 
 <h2>Join this seminar to understand:</h2>
 
-<p>•  The scope and scale of upgrading: <b>What</b> will you gain? <b>How</b> difficult will it be?<br/>
-•  The business case for and against<br/>
-•  Key pitfalls to avoid as the decision maker<br/>
-•  The <b>best</b> roadmap for upgrade<br/>
-•  <b>How</b> to steer and guide the team who will deliver the upgrade<br/></p>
+-  The scope and scale of upgrading: <b>What</b> will you gain? <b>How</b> difficult will it be?<br/>
+-  The business case for and against<br/>
+-  Key pitfalls to avoid as the decision maker<br/>
+-  The <b>best</b> roadmap for upgrade<br/>
+-  <b>How</b> to steer and guide the team who will deliver the upgrade<br/>
 
 <h2>About Andrew White:</h2>
 

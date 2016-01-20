@@ -18,10 +18,10 @@ you don&#39;t get left behind.<br/></p>
 
 <h2>Andrew will also be covering:</h2>
 
-<p>• What are the new features in Rails 5.0?<br/>
-• What are the minimum requirements to run Rails 5.0?<br/>
-• What is the policy for bug fix and security updates once the new Rails 5.0 is released?<br/>
-• What legacy features will be removed and no longer supported?<br/></p>
+- What are the new features in Rails 5.0?<br/>
+- What are the minimum requirements to run Rails 5.0?<br/>
+- What is the policy for bug fix and security updates once the new Rails 5.0 is released?<br/>
+- What legacy features will be removed and no longer supported?<br/>
 
 <p>There will also be a Q&amp;A session afterwards to get any questions out there that you may have about the new upgrade.<br/></p>
 

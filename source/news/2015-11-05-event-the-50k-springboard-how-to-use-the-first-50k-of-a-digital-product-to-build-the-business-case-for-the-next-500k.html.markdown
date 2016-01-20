@@ -14,21 +14,21 @@ date: "2015-11-05T15:47:00+00:00"
 
 <h2><font size="5">Find out how to:</font></h2>
 
-<p>• Build a business case for a new digital product or the overhaul of an existing one, using the first £50k as a springboard<br/>
-• Structure the Agile phases of work to demonstrate value and unlock the rest of the budget<br/>
-• Build trust with stakeholders at high risk product phases<br/>
-• Communicate value, learning, risk and progress clearly to people unfamiliar with Agile<br/>
-• Work with dev partners to nail the first phase to build trust<br/>
-• Use the psychology of ‘the money’ to avoid classic Agile stakeholder pitfalls<br/>
-<br/></p>
+- Build a business case for a new digital product or the overhaul of an existing one, using the first £50k as a springboard<br/>
+- Structure the Agile phases of work to demonstrate value and unlock the rest of the budget<br/>
+- Build trust with stakeholders at high risk product phases<br/>
+- Communicate value, learning, risk and progress clearly to people unfamiliar with Agile<br/>
+- Work with dev partners to nail the first phase to build trust<br/>
+- Use the psychology of ‘the money’ to avoid classic Agile stakeholder pitfalls<br/>
+<br/>
 
 <h2><font size="5">This event is for those responsible for:</font></h2>
 
-<p>• Getting a major new software application off the ground<br/>
-• Or.. planning a major overhaul an existing online software product<br/>
-• Creating the business case for a significant development budget<br/?
-• Defining the pathway from idea to creation of a large digital product or service<br/>
-<br/></p>
+- Getting a major new software application off the ground<br/>
+- Or.. planning a major overhaul an existing online software product<br/>
+- Creating the business case for a significant development budget<br/?
+- Defining the pathway from idea to creation of a large digital product or service<br/>
+<br/>
 
 <h2><font size="5">Speakers:</font></h2>
 

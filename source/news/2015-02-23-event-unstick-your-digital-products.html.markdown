@@ -8,13 +8,13 @@ date: "2015-02-23T17:53:00+00:00"
 <b>Location:</b> Skills Matter, 116-120 Goswell Road, London, EC1V 7DP
 <br/></p>
 
-<p>Join us on 25th March for an energetic three-hour session where you’ll learn a series of techniques to:<br/>
+Join us on 25th March for an energetic three-hour session where you’ll learn a series of techniques to:<br/>
 <br/>
-• Accelerate a product that’s buried under features<br/>
-• Get a large product portfolio moving again<br/>
-• Move faster to catch up with a competitor<br/>
-• Get traction in a non-Agile organisation<br/>
-• Focus limited resources on what will create most value<br/></p>
+- Accelerate a product that’s buried under features<br/>
+- Get a large product portfolio moving again<br/>
+- Move faster to catch up with a competitor<br/>
+- Get traction in a non-Agile organisation<br/>
+- Focus limited resources on what will create most value<br/>
 
 <p>Our speakers include:<br/>
 <h2><b><i>“Trust me, I’m a product manager”</i>: case study from publishing</b><br/>
