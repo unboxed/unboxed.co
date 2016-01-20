@@ -193,7 +193,7 @@ blog_title: "What we have been blogging about"
       <%= current_page.data.blog_title %>
     </h2>
 
-    <% blog.articles.reject { |article| article.data.weekly_roundup? }.first(3).each do |article| %>
+    <% blog(:blog).articles.reject { |article| article.data.weekly_roundup? }.first(3).each do |article| %>
       <a class="homepage-blog-tile" href="<%= article.url %>" title="<%= article.title %>">
         <div class="homepage-blog-tile__content">
           <div class="homepage-blog-tile__title">

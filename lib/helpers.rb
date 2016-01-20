@@ -28,6 +28,6 @@ module Helpers
   end
 
   def add_atom_feed_to_head
-    content_for(:head) { feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "The Unboxed Blog" }
+    content_for(:head) { feed_tag :atom, "#{blog(:blog).options.prefix.to_s}/feed.xml", title: "The Unboxed Blog" }
   end
 end

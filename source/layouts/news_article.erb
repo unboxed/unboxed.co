@@ -1,0 +1,9 @@
+<% content_for(:title) { "News - #{current_page.data.title}" } %>
+
+<% wrap_layout :application do %>
+
+  <article>
+    <%= yield %>
+  </article>
+
+<% end %>

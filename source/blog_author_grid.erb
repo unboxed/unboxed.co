@@ -9,4 +9,4 @@
   </div>
 </div>
 
-<%= partial 'blog_grid', locals: { articles: blog.articles.select { |article| article.data.author == author_name } } %>
+<%= partial 'blog_grid', locals: { articles: blog(:blog).articles.select { |article| article.data.author == author_name } } %>

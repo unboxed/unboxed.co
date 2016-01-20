@@ -34,7 +34,7 @@
         <div class="blog-tags__container">
           <% data.tags.each do |tag| %>
             <a class="blog-tags__tag<%= " blog-tags__tag--active" if current_article.tags.include?(tag) %>"
-              href="<%= tag_path(tag) %>"><%= tag %></a>
+              href="<%= tag_path(tag, :blog) %>"><%= tag %></a>
           <% end %>
         </div>
       </div>
@@ -72,7 +72,7 @@
               <%= simple_format author.bio %>
             </div>
 
-            <% if blog.articles.select { |article| article.data.author == author.name }.size >= 2 %>
+            <% if blog(:blog).articles.select { |article| article.data.author == author.name }.size >= 2 %>
               <a class="blog-author__read-more" href="/blog/author/<%= author.short_name %>">
                 Read more posts by <%= author.name %>
               </a>
