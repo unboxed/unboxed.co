@@ -13,11 +13,11 @@ date: "2015-06-01T16:15:00+01:00"
 
 <p>All this is can be overcome or improved! Join us for our Speed Agile webcast series to learn techniques specifically to increase the pace of digital product and service development in your organisation.<br/></p>
 
-<h2><b>Speed up stakeholder communication and sign off</b></h2>
+<h1>Speed up stakeholder communication and sign off</h1>
 
-<h2>Wednesday 24th June, 16:00</h2>
+<h3>Wednesday 24th June, 16:00</h3>
 
-<h2>With <a href="../people#richard-stobart">Richard Stobart</a>, CEO<br/></h2>
+<p>With <a href="../people#richard-stobart">Richard Stobart</a>, CEO<br/></p>
 
 <p><img src="http://bit.ly/1FowOVE" alt="Richard Stobart"></p>
 
@@ -26,11 +26,11 @@ date: "2015-06-01T16:15:00+01:00"
 <p><b><a href="/blog/webinar-speed-up-stakeholder-communication-and-sign-off">Read this webinar summary and listen to the full session recording here</a></b>.<br/>
 <br/></p>
 
-<h2><b>Speed up problem and customer validation</b></h2>
+<h1>Speed up problem and customer validation</h1>
 
-<h2>Wednesday 1st July, 16:00</h2>
+<h3>Wednesday 1st July, 16:00</h3>
 
-<h2>With <a href="../people#martyn-evans">Martyn Evans</a>, Head of Product<br/></h2>
+<p>With <a href="../people#martyn-evans">Martyn Evans</a>, Head of Product<br/></p>
 
 <p><img src="http://bit.ly/1JjdcXC" alt="Martyn Evans"></p>
 
@@ -39,11 +39,11 @@ date: "2015-06-01T16:15:00+01:00"
 <p><b><a href="/blog/webinar-speed-up-problem-and-customer-validation">Read this webinar summary and listen to the full session recording here</a></b>.<br/>
 <br/></p>
 
-<h2><b>Speed up agile deployment in a waterfall organisation</b></h2>
+<h1>Speed up agile deployment in a waterfall organisation</h1>
 
-<h2>Wednesday 15th July, 16:00</h2>
+<h3>Wednesday 15th July, 16:00</h3>
 
-<h2>With <a href="../people#steve-lennon">Steve Lennon</a>, Director of Delivery<br/></h2>
+<p>With <a href="../people#steve-lennon">Steve Lennon</a>, Director of Delivery<br/></p>
 
 <p><img src="http://bit.ly/1BBZwRj" alt="Steve Lennon"></p>
 

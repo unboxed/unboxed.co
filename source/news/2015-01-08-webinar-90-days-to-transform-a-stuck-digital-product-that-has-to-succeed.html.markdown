@@ -3,7 +3,7 @@ title: "Webinar: 90 days to TRANSFORM a 'stuck' digital product that HAS to succ
 date: "2015-01-08T17:00:00+00:00"
 ---
 
-<h2><b>Learn the techniques four companies used to revitalise mission critical products in 90 days</b></h2>
+<h2>Learn the techniques four companies used to revitalise mission critical products in 90 days</h2>
 
 <p><br/>
 <b>Date:</b> Monday 26th January 2015<br/>

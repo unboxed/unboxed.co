@@ -27,7 +27,7 @@ Agile Coach of the Year 2014, Richard is one of the UK’s leading experts in th
 Dom works with dozens of companies each year to design projects that deliver huge value, quickly. He speaks business, technical, Agile and project.<br/>
 <br/></p>
 
-<h2>The event in detail</h2>
+<h1>The event in detail</h1>
 
 This masterclass is best for optimising strategic products with a long lifespan, for example:
 
@@ -37,13 +37,13 @@ This masterclass is best for optimising strategic products with a long lifespan,
 - Membership sites<br/>
 - Group intranets<br/>
 
-<h2>Who should attend?</h2>
+<h1>Who should attend?</h1>
 
 - Those tasked with significantly increasing the revenue, conversion or performance of a website or digital service<br/>
 - People who have inherited a website or digital service and need fresh ways to increase its performance<br/>
 - ..or who have worked <i>&#39;in the trenches&#39;</i> on same website or digital service for a long time<br/>
 
-<h2>Expect to learn how to:</h2>
+<h1>Expect to learn how to:</h1>
 
 - Learn a methodology for creating new <i>‘greenfield’</i> Key Performance Indicator improvements<br/>
 - Step up a level to the strategic product view – create more value<br/>
