@@ -414,3 +414,16 @@
   social_networks:
     - name: "LinkedIn"
       link: "https://za.linkedin.com/in/willaroos"
+
+- name: "Matt Turrell"
+  short_name: "matt-turrell"
+  role: "Scrum master"
+  email: "matt.turrell"
+  bio: |
+    My whole career has been in software, and I love it when a system goes live, making a positive impact on the lives and work of its users.
+    Scrum first appeared on my radar in 2010 and changed the way I think about software delivery forever. Then in 2012 I read The Lean Startup, which cemented my change in thinking.
+    I’m over the moon to have cast-off the role of a traditional project manager and joined Unboxed as a Scrum Master, to work with exceptional people and deliver exciting projects.
+    When I’m not working, I can often be found with a camera in-hand and am always up for a conversation about photography.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/mattturrell1"
