@@ -1,9 +1,35 @@
 <% content_for(:title) { "News - #{current_page.data.title}" } %>
+<% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
 
 <% wrap_layout :application do %>
 
-  <article>
-    <%= yield %>
-  </article>
+  <section class="news-article">
+    <div class="news-article--container" data-header-waypoint>
+      <header class="news-header">
+        <h1 class="news-header__page-title">
+          <a class="news-header__breadcrumb" href="/news">News</a> / <span class="news-header__article-title"><%= current_page.data.title %></span>
+        </h1>
+      </header>
+      <div class="news-header__published-date">
+        <span>posted on: </span><%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
+      </div>
+
+      <article class="news-content" >
+        <%= yield %>
+      </article>
+
+      <div class="blog-social-icons">
+        <a class="blog-social-icons__icon-container" href="https://twitter.com/intent/tweet?text=<%= current_article.title %>&url=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
+          <%= image_tag 'social-icon__twitter.png', class: 'blog-social-icons__icon', alt: 'Twitter' %>
+        </a>
+        <a class="blog-social-icons__icon-container" href="https://www.facebook.com/sharer/sharer.php?u=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
+          <%= image_tag 'social-icon__facebook.png', class: 'blog-social-icons__icon', alt: 'Facebook' %>
+        </a>
+        <a class="blog-social-icons__icon-container" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//unboxed.co<%= current_article.url %>&title=<%= current_article.title %>" target="_blank">
+          <%= image_tag 'social-icon__linkedin.png', class: 'blog-social-icons__icon', alt: 'LinkedIn' %>
+        </a>
+      </div>
+    </div>
+  </section>
 
 <% end %>
