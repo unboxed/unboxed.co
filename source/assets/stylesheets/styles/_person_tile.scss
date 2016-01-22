@@ -10,11 +10,10 @@
     width: 33.33%;
   }
 
-  .person-tile__name:before {
+  .person-tile__content span {
+    margin-top: -80px;
+    height: 80px;
     display: block;
-    content: " ";
-    margin-top: -307px;
-    height: 307px;
     visibility: hidden;
   }
 }
