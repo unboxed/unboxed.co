@@ -15,12 +15,13 @@ email_domain: "unboxed.co"
   <% data.people.each do |person| %>
     <div class="person-tile">
       <div class="person-tile__content">
+      <span id="<%= person.short_name %>"></span>
         <div class="person-tile__image-container">
           <img class="person-tile__image" src="/assets/images/people/<%= person.short_name %>.png" alt="<%= person.name %>" />
         </div>
 
         <div class="person-tile__details">
-          <h2 class="person-tile__name" id="<%= person.short_name %>">
+          <h2 class="person-tile__name">
             <%= person.name %>
           </h2>
 
