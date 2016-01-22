@@ -9,11 +9,11 @@ date: "2011-08-16T10:17:00+01:00"
 
 <p>e-petitions is a hot topic and received wide media coverage at the launch with the BBC Breakfast News mentioning it every 30 minutes. &nbsp;It gives UK citizens a voice and makes government more accessible. &nbsp;Commons Leader Sir George Young said it was a <a href="http://www.telegraph.co.uk/news/politics/8669763/Popular-e-petitions-will-now-be-debated-in-Parliament">&lsquo;step towards a more accessible and transparent&rsquo;</a> Parliament and campaigns backed by 100,000 signatures would trigger consideration for debate in Parliament.</p>
 
-<p><font class="Apple-style-span" size="3"><span class="Apple-style-span" style="font-size: 13px; ">2160 petitions are currently active with sometimes directly opposing views such as 23,010 supporting the <a href="http://epetitions.direct.gov.uk/petitions/1090">petition to retain the ban on capital punishment</a> and 15,596 who want to <a href="http://epetitions.direct.gov.uk/petitions/138">restore capital punishment.</a></span></font></p>
+<p><span>2160 petitions are currently active with sometimes directly opposing views such as 23,010 supporting the <a href="http://epetitions.direct.gov.uk/petitions/1090">petition to retain the ban on capital punishment</a> and 15,596 who want to <a href="http://epetitions.direct.gov.uk/petitions/138">restore capital punishment.</a></span></p>
 
-<p><font class="Apple-style-span" size="3"><span class="Apple-style-span" style="font-size: 13px; line-height: 19px;"><span class="Apple-style-span" style="line-height: 19px; font-size: 13px; ">The original e-petition site launched in November 2006 was suspended ahead of the general election in 2010 and the new website will now operate under the Directgov banner rather than Downing Street.</span></span></font></p>
+<p><span>The original e-petition site launched in November 2006 was suspended ahead of the general election in 2010 and the new website will now operate under the Directgov banner rather than Downing Street.</span></p>
 
-<div><font class="Apple-style-span" size="3"><span class="Apple-style-span" style="font-size: 13px; line-height: 19px;">Main news coverage:</span></font></div>
+<div><span>Main news coverage:</span></div>
 
 <div>&nbsp;</div>
 

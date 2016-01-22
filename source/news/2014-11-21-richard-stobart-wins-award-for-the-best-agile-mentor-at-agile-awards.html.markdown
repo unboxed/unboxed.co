@@ -7,13 +7,14 @@ date: "2014-11-21T14:12:00+00:00"
 
 <p>The win recognised the way in which Richard supported Plymouth University in the move to Agile, including the Agile development of a new external website.<br/>
 <br/>
-Specifically Richard:<br/>
+Specifically Richard:<br/></p>
+
 - Oriented the whole IT function towards Agile<br/>
 - Ran a hugely popular training series and offered counselling and 1:1 mentoring<br/>
 - Educated their executive board<br/>
 - Provided them with a raft of techniques and tricks they can use every day<br/>
 - Supported them in changing the way they work with suppliers, focusing on the value delivered not the services purchased and coached these suppliers too<br/>
-- Spread the Agile approach to other non-IT university projects<br/></p>
+- Spread the Agile approach to other non-IT university projects<br/>
 
 <p>Paul Westmore of Plymouth University says: <i>“Richard planted the seed in my mind four years ago that Agile could be the way to solve many of the IT challenges in the public sector. Richard’s role throughout our Agile journey gone far beyond ‘mentor’ and enabled us to achieve more than we could have imagined.”</i><br/></p>
 

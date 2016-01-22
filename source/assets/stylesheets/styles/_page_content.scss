@@ -16,3 +16,9 @@
   @extend %page-content-margins;
   background-color: $light-gray;
 }
+
+.page-content--news-article {
+  @extend .page-content;
+  overflow: hidden;
+}
+

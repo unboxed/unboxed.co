@@ -12,31 +12,31 @@ date: "2015-06-18T10:30:00+01:00"
 <b>Date:</b> Thursday 13th August<br/>
 <b>Location:</b> 17 Blossom Street, London, E1 6PL<br/></p>
 
-<h2 class="super_sub_heading">Who should attend?</h2>
+<h1>Who should attend?</h1>
 
-<p>• <b>IT leaders</b> who are responsible for deciding whether to upgrade a significant, existing Rails app to Rails 5<br/>
-• ….and who are responsible for the success or failure of the transition!<br/>
+- <b>IT leaders</b> who are responsible for deciding whether to upgrade a significant, existing Rails app to Rails 5<br/>
+- ….and who are responsible for the success or failure of the transition!<br/>
 <br/>
-<i>(** note that we’ll run a detailed <b>technical</b> meet up in September for senior developers and architects (Andrew will lead this too!)</i><br/></p>
+<i>(** note that we’ll run a detailed <b>technical</b> meet up in September for senior developers and architects (Andrew will lead this too!)</i><br/>
 
-<h2 class="super_sub_heading">Join this seminar to understand:</h2>
+<h1>Join this seminar to understand:</h1>
 
-<p>•  The scope and scale of upgrading: <b>What</b> will you gain? <b>How</b> difficult will it be?<br/>
-•  The business case for and against<br/>
-•  Key pitfalls to avoid as the decision maker<br/>
-•  The <b>best</b> roadmap for upgrade<br/>
-•  <b>How</b> to steer and guide the team who will deliver the upgrade<br/></p>
+-  The scope and scale of upgrading: <b>What</b> will you gain? <b>How</b> difficult will it be?<br/>
+-  The business case for and against<br/>
+-  Key pitfalls to avoid as the decision maker<br/>
+-  The <b>best</b> roadmap for upgrade<br/>
+-  <b>How</b> to steer and guide the team who will deliver the upgrade<br/>
 
-<h2 class="super_sub_heading">About Andrew White:</h2>
+<h1>About Andrew White:</h1>
 
-<p align="center"><img src="http://bit.ly/1H0TLnO" alt="Andrew White"></p> 
+<p><img src="http://bit.ly/1H0TLnO" alt="Andrew White"></p>
 
 <p>Andrew White has been a contributor to Ruby on Rails since 2007 and a core team member since 2012. He is currently the only core team member in the UK. He is personable, practical and a highly respected member of the Rails community. <br/></p>
 
-<p><p align="left"><img src="http://bit.ly/1J5QB2v" alt="Title5"><a href="https://github.com/pixeltrix">pixeltrix</a><br/></p>
+<p>github: <a href="https://github.com/pixeltrix">pixeltrix</a><br/></p>
 
-<p><p align="left"><img src="http://bit.ly/1dMe7E6" alt="Title6"><a href="https://twitter.com/pixeltrix">@pixeltrix</a><br/></p>
+<p>twitter: <a href="https://twitter.com/pixeltrix">@pixeltrix</a><br/></p>
 
-<h2 class="super_sub_heading">Book now:</h2>
+<h1>Book now:</h1>
 
-<div style="width:100%; text-align:left;" ><iframe  src="https://eventbrite.co.uk/tickets-external?eid=17428209243&amp;ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Powered by Eventbrite</a></div></div>
+<div><iframe  src="https://eventbrite.co.uk/tickets-external?eid=17428209243&amp;ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Powered by Eventbrite</a></div></div>

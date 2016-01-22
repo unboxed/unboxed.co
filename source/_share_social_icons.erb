@@ -1,0 +1,11 @@
+<div class="share-social-icon">
+  <a class="share-social-icon__icon-container" href="https://twitter.com/intent/tweet?text=<%= current_article.title %>&url=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
+    <%= image_tag 'social-icon__twitter.png', class: 'share-social-icon__icon', alt: 'Twitter' %>
+  </a>
+  <a class="share-social-icon__icon-container" href="https://www.facebook.com/sharer/sharer.php?u=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
+    <%= image_tag 'social-icon__facebook.png', class: 'share-social-icon__icon', alt: 'Facebook' %>
+  </a>
+  <a class="share-social-icon__icon-container" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//unboxed.co<%= current_article.url %>&title=<%= current_article.title %>" target="_blank">
+    <%= image_tag 'social-icon__linkedin.png', class: 'share-social-icon__icon', alt: 'LinkedIn' %>
+  </a>
+</div>

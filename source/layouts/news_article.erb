@@ -1,9 +1,26 @@
 <% content_for(:title) { "News - #{current_page.data.title}" } %>
+<% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
 
 <% wrap_layout :application do %>
 
-  <article>
-    <%= yield %>
-  </article>
+  <section class="news-article">
+    <div class="news-article--container" data-header-waypoint>
+      <header class="news-header">
+        <h1 class="news-header__page-title">
+          <a class="news-header__breadcrumb" href="/news">News</a> / <span class="news-header__article-title"><%= current_page.data.title %></span>
+        </h1>
+      </header>
+      <div class="news-header__published-date">
+        <span>posted on: </span><%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
+      </div>
+
+      <article class="news-content" >
+        <%= yield %>
+      </article>
+
+      <%= partial 'share_social_icons' %>
+
+    </div>
+  </section>
 
 <% end %>

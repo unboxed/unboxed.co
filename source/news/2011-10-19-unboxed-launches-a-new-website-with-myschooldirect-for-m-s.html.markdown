@@ -7,4 +7,4 @@ date: "2011-10-19T17:53:00+01:00"
 
 <p>In 6 weeks, the website was designed, developed and then launched to coincide with the first term of the school year. The project started with the end user in mind and included full user experience analysis, as well as user testing once functionality was delivered. &nbsp;Our Agile methodology allowed Unboxed to react quickly&nbsp;to changes, from updating functionality due to user feedback to last minute branding changes.&nbsp;</p>
 
-<p class="p2">Now schools are able to browse the M&amp;S catalogue, sign up to promotional events and create catalogues specific to their school uniforms. In addition, an online forum was built to allow parents to engage with their schools and find out more about the scheme.&nbsp;</p>
+<p>Now schools are able to browse the M&amp;S catalogue, sign up to promotional events and create catalogues specific to their school uniforms. In addition, an online forum was built to allow parents to engage with their schools and find out more about the scheme.&nbsp;</p>

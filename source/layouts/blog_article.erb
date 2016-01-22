@@ -43,17 +43,7 @@
         <%= yield %>
       </article>
 
-      <div class="blog-social-icons">
-        <a class="blog-social-icons__icon-container" href="https://twitter.com/intent/tweet?text=<%= current_article.title %>&url=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
-          <%= image_tag 'social-icon__twitter.png', class: 'blog-social-icons__icon', alt: 'Twitter' %>
-        </a>
-        <a class="blog-social-icons__icon-container" href="https://www.facebook.com/sharer/sharer.php?u=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
-          <%= image_tag 'social-icon__facebook.png', class: 'blog-social-icons__icon', alt: 'Facebook' %>
-        </a>
-        <a class="blog-social-icons__icon-container" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//unboxed.co<%= current_article.url %>&title=<%= current_article.title %>" target="_blank">
-          <%= image_tag 'social-icon__linkedin.png', class: 'blog-social-icons__icon', alt: 'LinkedIn' %>
-        </a>
-      </div>
+      <%= partial 'share_social_icons' %>
     </div>
   </section>
 
