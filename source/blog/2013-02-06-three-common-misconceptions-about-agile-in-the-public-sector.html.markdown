@@ -10,7 +10,7 @@ main_image: ""
 
 
 
-[Agile](/agile) methodology has its enthusiastic followers in the private sector, but many civil servants are wary about adopting it in the context of government software development and other public sector procurement – usually without good cause.
+Agile methodology has its enthusiastic followers in the private sector, but many civil servants are wary about adopting it in the context of government software development and other public sector procurement – usually without good cause.
 
 Whilst ‘government’ – and all that tends to mean in terms of bureaucracy, accountability and existing methodologies – represents a very different setting to the kind of small, lean businesses that thrive on Agile, this need not be a problem. In fact, if project managers can move past their misconceptions, Agile could be the best thing that has ever happened to public sector software development.
 
