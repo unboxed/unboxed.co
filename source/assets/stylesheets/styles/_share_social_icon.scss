@@ -1,0 +1,18 @@
+.share-social-icon {
+  padding-top: 10px;
+  text-align: right;
+}
+
+.share-social-icon__icon-container {
+  display: inline-block;
+  background-color: $medium-gray;
+  border-radius: 50%;
+  margin-left: 8px;
+  text-decoration: none;
+}
+
+.share-social-icon__icon {
+  height: 16px;
+  padding: 6px 6px 4px;
+  width: 16px;
+}

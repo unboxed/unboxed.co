@@ -14,7 +14,7 @@ https://www.usenix.org/system/files/login/articles/login_1410_02-bottomley.pdf
 
 A nice description of containers, comparing and contrasting them to hypervisors, from the guys at Parallels.
 
-## Intro to HTTP - [Neil](/people/neil-van-beinum)
+## Intro to HTTP - [Neil](/people#neil-van-beinum)
 
 A tasty five-part series providing an introduction to HTTP
 
@@ -24,7 +24,7 @@ A tasty five-part series providing an introduction to HTTP
 4. http://odetocode.com/Articles/744.aspx  Architecture
 5. http://odetocode.com/Articles/745.aspx  Security
 
-## Rails 4.2 - [Murray](/people/murray-steele)
+## Rails 4.2 - [Murray](/people#murray-steele)
 
 1. http://revelry.co/2014/09/15/rails-4-2-overview-part-1-of-2/
 2. http://revelry.co/2014/09/18/rails-4-2-overview-part-2-of-2/

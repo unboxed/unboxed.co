@@ -6,7 +6,9 @@ set :images_dir, 'assets/images'
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true, underline: true
 
+# blog
 activate :blog do |blog|
+  blog.name = 'blog'
   blog.layout = 'blog_article'
   blog.prefix = 'blog'
   blog.taglink = "{tag}.html"
@@ -16,6 +18,15 @@ activate :blog do |blog|
 end
 activate :similar, algorithm: :related_blog_articles
 activate :directory_indexes
+
+# news
+activate :blog do |blog|
+  blog.name = 'news'
+  blog.layout = 'news_article'
+  blog.prefix = 'news'
+  blog.permalink = "{title}.html"
+  blog.new_article_template = 'templates/news_article.md'
+end
 
 configure :development do
   activate :livereload

@@ -10,18 +10,18 @@ tags:
   - Lean
 ---
 
-## High speed deploys using Git - [Andy M](/people/andrew-mitchell)
+## High speed deploys using Git - Andy M
 [http://blog.codeclimate.com/blog/2013/10/02/high-speed-rails-deploys-with-git/](http://blog.codeclimate.com/blog/2013/10/02/high-speed-rails-deploys-with-git/)
 
 This article covers some of the ways in which we can use Git to speeed up our deploy. It talks about Capistrano's design before the days of Git and has some interesting points. I have noticed on some projects are deploys sometimes take anything up to 15 minutes on certain projects. It's time to stop wasting time watching capistrano outputs and spend more time coding!
 
 
-## Why Ruby? - [Andy M](/people/andrew-mitchell)
+## Why Ruby? - Andy M
 [http://www.codinghorror.com/blog/2013/03/why-ruby.html](http://www.codinghorror.com/blog/2013/03/why-ruby.html)
 
 I have heard a couple of people asking why use ruby over other languages recently (or why rails). I don't agree with every point here but some of the points are really well made.
 
-## Collaborative audio online - [Andy M](/people/andrew-mitchell)
+## Collaborative audio online - Andy M
 [http://open.bekk.no/making-a-collaborative-piano-using-functional-reactive-programming-frp](http://open.bekk.no/making-a-collaborative-piano-using-functional-reactive-programming-frp)
 
 As I am sure some people have seen I'm big into my music and online music collaboration. Check this out… its pretty cool. It kind of discusses some similar ideas to my [sound-wav.es](http://www.sound-wav.es) collaborative sequencer idea but it's a bit of a different take!

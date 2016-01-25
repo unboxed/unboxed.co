@@ -9,7 +9,7 @@ tags:
 
 ---
 
-KPIs (Key Performance Indicators) and KPI trees were at the root of Wednesday’s Masterclass, hosted by [Richard Stobart](/people/richard-stobart).<br/>
+KPIs (Key Performance Indicators) and KPI trees were at the root of Wednesday’s Masterclass, hosted by [Richard Stobart](/people#richard-stobart).<br/>
 
 A blend of senior digital stakeholders, product owners and digital creatives attended this one-off session to explore the answers to burning questions:<br/>
 

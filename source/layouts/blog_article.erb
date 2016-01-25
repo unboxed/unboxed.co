@@ -15,7 +15,7 @@
 
         <div class="blog-header__subtitle">
           <% if author %>
-            <a class="blog-header__author--linked" href="/people/<%= author.short_name %>" rel="author">
+            <a class="blog-header__author--linked" href="/people#<%= author.short_name %>" rel="author">
               <%= author.name %>
             </a>
           <% else %>
@@ -34,7 +34,7 @@
         <div class="blog-tags__container">
           <% data.tags.each do |tag| %>
             <a class="blog-tags__tag<%= " blog-tags__tag--active" if current_article.tags.include?(tag) %>"
-              href="<%= tag_path(tag) %>"><%= tag %></a>
+              href="<%= tag_path(tag, :blog) %>"><%= tag %></a>
           <% end %>
         </div>
       </div>
@@ -43,17 +43,7 @@
         <%= yield %>
       </article>
 
-      <div class="blog-social-icons">
-        <a class="blog-social-icons__icon-container" href="https://twitter.com/intent/tweet?text=<%= current_article.title %>&url=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
-          <%= image_tag 'social-icon__twitter.png', class: 'blog-social-icons__icon', alt: 'Twitter' %>
-        </a>
-        <a class="blog-social-icons__icon-container" href="https://www.facebook.com/sharer/sharer.php?u=http%3A//unboxed.co<%= current_article.url %>" target="_blank">
-          <%= image_tag 'social-icon__facebook.png', class: 'blog-social-icons__icon', alt: 'Facebook' %>
-        </a>
-        <a class="blog-social-icons__icon-container" href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A//unboxed.co<%= current_article.url %>&title=<%= current_article.title %>" target="_blank">
-          <%= image_tag 'social-icon__linkedin.png', class: 'blog-social-icons__icon', alt: 'LinkedIn' %>
-        </a>
-      </div>
+      <%= partial 'share_social_icons' %>
     </div>
   </section>
 
@@ -65,14 +55,14 @@
             <img class="blog-author__image" src="/assets/images/people/<%= author.short_name %>.png" alt="<%= author.name %>"/>
           <% end %>
           <aside class="blog-author__right-section">
-            <a class="blog-author__name" href="/people/<%= author.short_name %>">
+            <a class="blog-author__name" href="/people#<%= author.short_name %>">
               <%= author.name %>
             </a>
             <div class="blog-author__bio">
               <%= simple_format author.bio %>
             </div>
 
-            <% if blog.articles.select { |article| article.data.author == author.name }.size >= 2 %>
+            <% if blog(:blog).articles.select { |article| article.data.author == author.name }.size >= 2 %>
               <a class="blog-author__read-more" href="/blog/author/<%= author.short_name %>">
                 Read more posts by <%= author.name %>
               </a>

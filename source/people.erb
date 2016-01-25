@@ -1,0 +1,48 @@
+---
+title: "People"
+email_domain: "unboxed.co"
+---
+
+<header class="page-header page-header--bottom-margin">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.title %>
+    </h1>
+  </div>
+</header>
+
+<div class="container--grid" data-header-waypoint>
+  <% data.people.each do |person| %>
+    <div class="person-tile">
+      <div class="person-tile__content">
+      <span id="<%= person.short_name %>"></span>
+        <div class="person-tile__image-container">
+          <img class="person-tile__image" src="/assets/images/people/<%= person.short_name %>.png" alt="<%= person.name %>" />
+        </div>
+
+        <div class="person-tile__details">
+          <h2 class="person-tile__name">
+            <%= person.name %>
+          </h2>
+
+          <div class="person-tile__role">
+            <%= person.role %>
+          </div>
+
+          <a class="person-tile__email" href="mailto:<%= person.email %>@<%= current_page.data.email_domain %>"><%= person.email %>@<%= current_page.data.email_domain %></a>
+        </div>
+
+        <% if person.social_networks %>
+          <div class="person-tile__social-networks">
+            <% person.social_networks.each do |social_network| %>
+              <% class_name = social_network.name.downcase %>
+              <a class="social-icon__icon-container--<%= class_name %>" href="<%= social_network.link %>">
+                <img class="social-icon__icon" src="/assets/images/social-icon__<%= class_name %>.png" alt="<%= social_network.name %>" />
+              </a>
+            <% end %>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  <% end %>
+</div>

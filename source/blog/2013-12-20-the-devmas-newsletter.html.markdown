@@ -9,7 +9,7 @@ tags:
   - Rails
 ---
 
-### Add some Christmas cheer to your website.. - [Andy M](/people/andrew-mitchell)
+### Add some Christmas cheer to your website.. - Andy M
 
 [http://cssdeck.com/labs/css3-snow](http://cssdeck.com/labs/css3-snow)
 
@@ -30,13 +30,13 @@ This article will give you an overview of what Docker is, how it works and a lit
 So there is this new tool called Docker, and you may have heard great stories about it. But as a web developer using Ruby, you may wonder what this tool changes for you. Skeptical? Please follow [this way](http://blog.gemnasium.com/post/65599561888/rails-meets-docker)!
 
 
-### One step closer to an IE6 free universe... ah Happy Christmas - [Alan T](/people/alan-thomas)
+### One step closer to an IE6 free universe... ah Happy Christmas - [Alan T](/people#alan-thomas)
 
 [http://www.modern.ie/ie6countdown](http://www.modern.ie/ie6countdown)
 
 2013 has almost seen the loss of IE6. Come on China!
 
-### Even Santa has brand guidelines! - [Andy M](/people/andrew-mitchell)
+### Even Santa has brand guidelines! - Andy M
 
 [http://www.quietroom.co.uk/santa_brandbook/fourteen](http://www.quietroom.co.uk/santa_brandbook/fourteen)
 
@@ -54,7 +54,7 @@ Running around this Christmas. Can't organise the Christmas dinner, wrapping the
 
 An interesting article on how to mimmic Node.js' module system. In Ruby, when you call require, all the code from the required file gets loaded into the global name space. This article explores how we could wrap modules like Node.js' closures in Ruby.
 
-### Emmet - [Chris C](/people/chris-carter)
+### Emmet - [Chris C](/people#chris-carter)
 
 [http://docs.emmet.io](http://docs.emmet.io)
 

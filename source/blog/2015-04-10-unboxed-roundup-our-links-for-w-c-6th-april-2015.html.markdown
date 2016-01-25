@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## The average bounce rate for a website - [Tom S](/people/tom-sabin)
+## The average bounce rate for a website - [Tom S](/people#tom-sabin)
 
 http://www.gorocketfuel.com/the-rocket-blog/whats-the-average-bounce-rate-in-google-analytics/
 
@@ -20,26 +20,26 @@ http://littlebigdetails.com
 
 Examples of good design elements daily, or weekly if you subscribe to the newsletter.
 
-## The future of web development - [Murray S](/people/murray-steele)
+## The future of web development - [Murray S](/people#murray-steele)
 
 * http://writing.mariusz.cc/future-of-web-development/
 * https://www.pandastrike.com/posts/20150311-react-bad-idea
 
 These two articles both cover similar ground; they review the current state of web development and come to a conclusion.  They come at it from slightly different angles but their conclusions are the same - we should be excited about [web components](http://webcomponents.org/) and prefer to develop against these standards rather than embracing new frameworks that try to reinvent the wheel somewhat.
 
-## Awesome Ruby - [Tom S](/people/tom-sabin)
+## Awesome Ruby - [Tom S](/people#tom-sabin)
 
 http://awesome-ruby.com/
 
 A categorised and community-drven collection of Ruby well-known resources
 
-## Netflix API Resilience - [Patrick V](/people/patrick-vine)
+## Netflix API Resilience - [Patrick V](/people#patrick-vine)
 
 http://techblog.netflix.com/2011/12/making-netflix-api-more-resilient.html
 
 A discussion on how Netflix has used the circuit breaker pattern to provide better APIs and monitor their system health. Interesting food for thought for making resilient services.  If you liked this, it's useful to know that many of the tools that Netflix use to implement this sort of thing are available on [their github page](http://netflix.github.io/#repo).
 
-## Track of the Week - [Murray S](/people/murray-steele)
+## Track of the Week - [Murray S](/people#murray-steele)
 
 I swore I wouldn't just pick this track.  I planned to scour my music library for the greatest, yet most obscure track that would show off my excellent taste in music.  Turns out that while I *do* have excellent taste in music<sup>[*](#fn-1)</sup> it's hard to pick single tracks because I mostly listen to full albums, but this is one of the few exceptions to that habit.  I go back to this again and again and again and I haven't singled out a song like this for quite some time.
 
