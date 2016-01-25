@@ -1,7 +1,9 @@
 ---
 title: "Local government: agile digital services for civic engagement"
 date: "2013-08-22T17:05:00+01:00"
+published: true
 ---
+
 
 <p>As broadband becomes ubiquitous and 88% of the UK population is regularly online, citizens are asking councils to explore digital services – and registering their disappointment with what is currently available. </p>
 
@@ -22,6 +24,6 @@ date: "2013-08-22T17:05:00+01:00"
 <p><strong>How to get started digitalising one or more of the 600 local government services</strong>
 <ul class="bullet_list qualities">
   <li>Read the <a href="https://www.gov.uk/service-manual">Government Digital Service complete guide to creating a digital product in government</a></li>
-  <li>Book a <a href="../agile/discovery-workshop">discovery workshop</a> with Unboxed Consulting</li>
+  <li>Book a discovery workshop with <a href="https://unboxed.co/contact">Unboxed Consulting</a></li>
   <li>Sign up for our <a href="mailto:marketing@unboxedconsulting.com">monthly newsletter for people developing digital products in Agile</a>.</li>
 </ul></p>
