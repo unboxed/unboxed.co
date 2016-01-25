@@ -8,7 +8,7 @@
   border: 1px solid darken($light-gray, 5%);
   box-sizing: border-box;
   margin-top: 6px;
-  padding: 0 20px 30px;
+  padding: 0 14px 30px;
 
   @include breakpoint($tablet-breakpoint) {
     margin-top: 60px;
@@ -45,10 +45,6 @@
 
   @include breakpoint($desktop-breakpoint) {
     padding-bottom: 40px;
-  }
-
-  span {
-    color: $purple;
   }
 }
 

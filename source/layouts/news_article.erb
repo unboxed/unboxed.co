@@ -11,7 +11,7 @@
         </h1>
       </header>
       <div class="news-header__published-date">
-        <span>posted on: </span><%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
+        posted on: <%= Time.parse(current_page.data.date).strftime("%B %e, %Y") %>
       </div>
 
       <article class="news-content" >
