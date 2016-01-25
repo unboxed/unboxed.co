@@ -8,13 +8,13 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Language bashing is detrimental to us all - [Patrick V](/people/patrick-vine)
+## Language bashing is detrimental to us all - [Patrick V](/people#patrick-vine)
 
 http://blog.aurynn.com/86/contempt-culture
 
 As someone who has worked in many different languages I've never really understood the need to bash another language.  It is the tool that is currently being used. Get over it.  This article highlights how this common attitude can have significant negative effects on people entering the software industry.  And it asks everyone to stop doing it.
 
-## Communicating Intent through Git - [Anson K](/people/anson-kelly)
+## Communicating Intent through Git - [Anson K](/people#anson-kelly)
 
 https://www.youtube.com/watch?v=vMOAcaA33Dk - By Josh Freeman at RubyConf 2015
 
@@ -24,7 +24,7 @@ Software is the result of thousands of decisions. Add this feature; clarify this
 
 Creating software is a journey—let Git be your travel journal.
 
-## Track of the Week - [Jolie L](/people/jolie-lanser)
+## Track of the Week - [Jolie L](/people#jolie-lanser)
 
 "I re-invented my image so many times that I'm in denial that I was originally an overweight Korean woman."
 David Bowie
