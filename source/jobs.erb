@@ -87,19 +87,31 @@ contact_us:
     </h2>
 
     <% current_page.data.roles.content.each do |role| %>
-      <a class="jobs-page-tile" href="<%= role.link %>" title="<%= role.name %>">
-        <div class="jobs-page-tile__content">
-          <img class="jobs-page-tile__image" src="<%= role.image %>" alt="<%= role.name %>">
-
-          <h3 class="jobs-page-tile__title">
-            <%= role.name %>
-          </h3>
-
-          <p class="jobs-page-tile__paragraph">
-            <%= role.text %>
-          </p>
+      <% if role.link %>
+        <a class="jobs-page-tile" href="<%= role.link %>" title="<%= role.name %>">
+          <div class="jobs-page-tile__content">
+            <img class="jobs-page-tile__image" src="<%= role.image %>" alt="<%= role.name %>">
+            <h3 class="jobs-page-tile__title">
+              <%= role.name %>
+            </h3>
+            <p class="jobs-page-tile__paragraph">
+              <%= role.text %>
+            </p>
+          </div>
+        </a>
+       <% else %>
+        <div class="jobs-page-tile">
+          <div class="jobs-page-tile__content--inactive">
+            <img class="jobs-page-tile__image" src="<%= role.image %>" alt="<%= role.name %>">
+            <h3 class="jobs-page-tile__title">
+              <%= role.name %>
+            </h3>
+            <p class="jobs-page-tile__paragraph">
+              <%= role.text %>
+            </p>
+          </div>
         </div>
-      </a>
+      <% end %>
     <% end %>
   </section>
 

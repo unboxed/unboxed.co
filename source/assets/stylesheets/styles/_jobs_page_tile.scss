@@ -10,6 +10,14 @@
   @extend .homepage-tile__content;
 }
 
+.jobs-page-tile__content--inactive {
+  @extend .homepage-tile__content;
+
+  &:hover {
+    background-color: $white;
+  }
+}
+
 .jobs-page-tile__title {
   @extend .homepage-tile__title;
   color: lighten($dark-gray, 15%);
