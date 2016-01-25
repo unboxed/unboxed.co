@@ -80,6 +80,10 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   width: 100%;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .person-tile__social-networks {
