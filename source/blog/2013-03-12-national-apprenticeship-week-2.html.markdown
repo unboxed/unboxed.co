@@ -1,12 +1,13 @@
 ---
 date: "2013-03-12 15:17:00 UTC"
 published: true
-title: "National Apprenticeship Week"
-author: "Tillie McCarthy"
-tags:
+title: National Apprenticeship Week
+author: Tillie McCarthy
+tags: 
   - Culture
-
+main_image: ""
 ---
+
 
 ##Tillie McCarthy
 
@@ -29,4 +30,4 @@ I have been enjoying my time at Unboxed. I am shadowing a tester and learning ru
 
 ##Ben Giffin
 
-I have enjoyed working at Unboxed so far and have been working with Lizard on 2 projects; [Apps for Good](/case-studies/apps-for-good) and Contiki. I have settled in the office now and really enjoy the people who are around me.
+I have enjoyed working at Unboxed so far and have been working with Lizard on 2 projects; Apps for Good and Contiki. I have settled in the office now and really enjoy the people who are around me.
