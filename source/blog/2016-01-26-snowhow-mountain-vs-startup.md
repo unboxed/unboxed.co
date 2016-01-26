@@ -75,7 +75,7 @@ Standing at the top of a mountain peak, with only the moonlight to guide the way
 
 ![Up the mountain](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2134_zpsetewtl95.jpg)
 
-
+<br/>
 **The people**<br/>
 What a team. From those who were too scared to venture to the extremes (i.e. me), to those who were ready and raring to go from the get-go - we all pulled together to tackle the big goal:
 
@@ -85,19 +85,19 @@ But as well as the big climb, there was the reward of sliding down the other sid
 
 ![Slip and slide](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2074_zpsk4zpsopn.jpg)
 
-
+<br/>
 **Fondue**<br/>
 Melted cheese and good chat. The ultimate.<br/>
 
 ![Fondue](http://i1291.photobucket.com/albums/b548/grammccram/DSC03012_zpstamec1r7.jpg)
 
-
+<br/>
 **Time to listen**<br/>
 Being so far from “civilisation” and being in a small group gave a great opportunity to listen to others, with no real distraction. A great platform for hearing what challenges others are facing in their startups and batting around ideas together to overcome these challenges.<br/>
 
 ![Running across](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2117_zpsjihbrvoa.jpg)
 
-
+<br/>
 **The sights**<br/>
 Just amazing.<br/>
 
