@@ -7,7 +7,7 @@ header:
 
 introduction:
   title: "At unboxed, design is a team sport"
-  text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector"
+  text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector."
   text_2: "We are looking for a talented and confident strategic designer to join us."
   image: "/jobs/images/design-meeting.jpg"
   image_description: "Design team at work"
@@ -34,8 +34,9 @@ design_quote:
 
 contact_us:
   title: "Send us your CV"
-  text: "Claire is our people \"gardener\", her analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. Send your CV through to Claire:"
+  text_1: "Claire is our people gardner. Being a \"gardener\" is Claire's analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. If you are the strategic designer we're looking for, send your CV through to her:"
   email: "iwantajob@unboxed.co"
+  text_2: "From there, she'll be in touch. Good luck."
   image: "/jobs/images/ubxd-gardener.jpg"
   image_description: "Our gardener at work"
 ---
@@ -110,11 +111,15 @@ contact_us:
       </h2>
 
       <p class="text-tile__paragraph--job-page">
-        <%= current_page.data.contact_us.text %>
+        <%= current_page.data.contact_us.text_1 %>
       </p>
 
       <p class="text-tile__paragraph--job-page">
         <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
+      </p>
+
+      <p class="text-tile__paragraph--job-page">
+        <%= current_page.data.contact_us.text_2 %>
       </p>
     </div>
 
