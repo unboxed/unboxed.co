@@ -2,12 +2,12 @@
 title: "Join Unboxed"
 
 header:
-  title: "job"
+  title: "join us"
   subtitle: "strategic designer"
 
 introduction:
   title: "At unboxed, design is a team sport"
-  text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector"
+  text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector."
   text_2: "We are looking for a talented and confident strategic designer to join us."
   image: "/jobs/images/design-meeting.jpg"
   image_description: "Design team at work"
@@ -34,8 +34,9 @@ design_quote:
 
 contact_us:
   title: "Send us your CV"
-  text: "Claire is our people \"gardener\", her analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. Send your CV through to Claire:"
+  text_1: "Claire is our people gardner. Being a \"gardener\" is Claire's analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. If you are the strategic designer we're looking for, send your CV through to her:"
   email: "iwantajob@unboxed.co"
+  text_2: "From there, she'll be in touch. Good luck."
   image: "/jobs/images/ubxd-gardener.jpg"
   image_description: "Our gardener at work"
 ---
@@ -43,16 +44,16 @@ contact_us:
 <header class="page-header page-header--bottom-margin">
   <div class="job-page-header__container">
     <h1 class="job-page-header__introduction">
-      <%= current_page.data.header.title %>
+      <a href="/jobs"><%= current_page.data.header.title %></a>
       <span> / <%= current_page.data.header.subtitle %></span>
     </h1>
   </div>
 </header>
 
-<div class="container--grid" data-header-waypoint>
+<div class="container" data-header-waypoint>
   <section class="component">
     <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
+      <h2 class="text-tile__title--lowercase">
         <%= current_page.data.introduction.title %>
       </h2>
 
@@ -73,7 +74,7 @@ contact_us:
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
+      <h2 class="text-tile__title--lowercase">
         <%= current_page.data.description.title %>
       </h2>
 
@@ -93,7 +94,7 @@ contact_us:
 
   <blockquote class="quote">
     <aside class="quote__right-section">
-      <p class="quote__text">
+      <p class="quote__text--centered">
         <%= current_page.data.design_quote.quote %>
       </p>
       <p class="quote__source">
@@ -105,16 +106,20 @@ contact_us:
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
+      <h2 class="text-tile__title--lowercase">
         <%= current_page.data.contact_us.title %>
       </h2>
 
       <p class="text-tile__paragraph--job-page">
-        <%= current_page.data.contact_us.text %>
+        <%= current_page.data.contact_us.text_1 %>
       </p>
 
       <p class="text-tile__paragraph--job-page">
         <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
+      </p>
+
+      <p class="text-tile__paragraph--job-page">
+        <%= current_page.data.contact_us.text_2 %>
       </p>
     </div>
 
