@@ -80,6 +80,10 @@ What a team. From those who were too scared to venture to the extremes (i.e. me)
 
 ![The people](http://i1291.photobucket.com/albums/b548/grammccram/DSC02991_zpshmywx6cp.jpg)
 
+![More people](http://i1291.photobucket.com/albums/b548/grammccram/7d0374f7-8705-41a9-97b6-2e30e7e0c320_zpsj41urp0l.jpg)
+
+![And more people](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2119_zpsfukysfbi.jpg)
+
 But as well as the big climb, there was the reward of sliding down the other side:<br/>
 
 ![Slip and slide](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2074_zpsk4zpsopn.jpg)
@@ -101,6 +105,8 @@ Being so far from “civilisation” and being in a small group gave a great opp
 Just amazing.<br/>
 
 ![SnowWow](http://i1291.photobucket.com/albums/b548/grammccram/DSC03057_zps6kowsuko.jpg)
+
+![Happy Claire](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2042_zpsdski8hoz.jpg)
 
 ![Clouds below](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2112_zps9krtzvqj.jpg)
 
@@ -127,6 +133,8 @@ Entrepreneurs<br/>
 **13,492**<br/>
 Cereal bars consumed (*approximate)<br/>
 <br/>
+
+![The top](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2149_zpsbkmj3ka9.jpg)
 
 ![Snowbye](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2097_zpsvqw4ovx9.jpg)
 
