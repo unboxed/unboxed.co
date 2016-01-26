@@ -34,6 +34,14 @@
   }
 }
 
+.quote__text--centered {
+  @extend .quote__text;
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-top: 30px;
+  }
+}
+
 .quote__source {
   color: $purple;
   font-weight: 300;
