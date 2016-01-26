@@ -3,12 +3,14 @@ weekly_roundup: true
 date: "2015-04-17 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 13th April 2015"
-author: "Murray Steele"
-tags:
+author: Murray Steele
+tags: 
   - Culture
+main_image: ""
 ---
 
-## Be more psychopath - [Martyn E](blog/author/martyn-evans)
+
+## Be more psychopath - [Martyn E](/blog/author/martyn-evans)
 
 http://www.bakadesuyo.com/2015/04/psychopaths/
 

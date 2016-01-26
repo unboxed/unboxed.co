@@ -2,12 +2,13 @@
 date: "2014-12-05 11:26:00 UTC"
 published: true
 title: "Webinar: Getting to Beta"
-author: "Graeme McCubbin"
-tags:
+author: Graeme McCubbin
+tags: 
   - Agile
   - Culture
-
+main_image: ""
 ---
+
 
 [Richard Stobart](/people#richard-stobart) held the final in the current Digital Leaders Webinar series on Wednesday titled <i>‘Getting to Beta: taking 'stubborn' products to beta in 8 weeks’</i>.<br/>
 <br/>
@@ -51,4 +52,5 @@ Tweet us at [@Ubxd](https://twitter.com/Ubxd) with the hashtag #GetToBeta if you
 <br/>
 <blockquote class="twitter-tweet tw-align-center"><p><a href="https://twitter.com/JohnSherer">@JohnSherer</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://twitter.com/CBedingfield">@CBedingfield</a> Larger than the Alpha team. Typically alpha has 3-5 and beta would grow to 7+</p>&mdash; Richard Stobart (@richardstobart) <a href="https://twitter.com/richardstobart/status/540181925038940160">December 3, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-We're holding the next Digital Leaders Webinar series in the new year, we'd love to hear from you, email us at [courses@unboxedconsulting.com](courses@unboxedconsulting.com) to register your interest in attending.
+
+

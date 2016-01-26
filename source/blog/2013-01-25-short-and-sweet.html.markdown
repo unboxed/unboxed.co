@@ -2,16 +2,17 @@
 weekly_roundup: true
 date: "2013-01-25 12:20:00 UTC"
 published: true
-title: "Short and sweet"
-author: "Pawel Janiak"
-tags:
+title: Short and sweet
+author: Pawel Janiak
+tags: 
   - Culture
-
+main_image: ""
 ---
+
 
 This weeks links are mostly front-end and tool related. Enjoy.
 
-##When programmers do laundry ([Matt P](/matt-peperell))
+##When programmers do laundry (Matt P)
 
 Ever wanted to know how to pair socks from a pile efficiently? [Now you can](http://stackoverflow.com/questions/14415881/how-to-pair-socks-from-a-pile-efficiently)!
 

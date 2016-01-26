@@ -2,11 +2,13 @@
 date: "2014-06-13 10:08:00 UTC"
 published: true
 title: "Is agile testing worth it?"
-author: "Graeme McCubbin"
-tags:
+author: Graeme McCubbin
+tags: 
   - Agile
   - Rails
+main_image: ""
 ---
+
 
 It seems there is a lot of talk about agile testing circulating, but is it really worth it? Agile testing is a mindset. We all know mindsets can be a challenge to change, and this is no different. But what are the benefits of moving to an agile testing approach?
 
@@ -26,5 +28,4 @@ Exceed your customer’s expectations by making sure you aren’t just building 
 
 Increase momentum within your team by removing test bottlenecks and fixing defects immediately.
 
-These are just some of the benefits which come with adopting the agile testing approach. [Click here](www.unboxed.co) to learn more about agile testing and see how it can benefit you and your team.
-
+These are just some of the benefits which come with adopting the agile testing approach. [Contact us](/contact) to learn more about agile testing and see how it can benefit you and your team.
