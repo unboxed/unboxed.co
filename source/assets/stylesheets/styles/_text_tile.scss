@@ -24,6 +24,11 @@
   }
 }
 
+.text-tile__title--lowercase {
+  @extend .text-tile__title;
+  text-transform: lowercase;
+}
+
 .text-tile__paragraph {
   @include responsive-text;
   color: $black;
