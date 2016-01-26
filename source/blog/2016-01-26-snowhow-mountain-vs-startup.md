@@ -30,7 +30,6 @@ GenCamp4 took place last week, and it was a little bit more special than our usu
 ![Airport](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1978_zps7lyezbzj.jpg)
 
 Allow me to introduce SnowHow:<br/>
-<br/>
 
 ![SnowHowWow](http://i1291.photobucket.com/albums/b548/grammccram/dbf9d04b-532c-434b-a286-cc6ce7133237_zpsoj9re0uu.jpg)
 <br/>
