@@ -88,7 +88,8 @@ contact_us:
 
     <% current_page.data.roles.content.each do |role| %>
       <% if role.link %>
-        <a class="jobs-page-tile" href="<%= role.link %>" title="<%= role.name %>">
+        <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
+        <a class="jobs-page-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
           <div class="jobs-page-tile__content">
             <img class="jobs-page-tile__image" src="<%= role.image %>" alt="<%= role.name %>">
             <h3 class="jobs-page-tile__title">
