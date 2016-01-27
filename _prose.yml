@@ -1,7 +1,7 @@
 prose:
-  rooturl: 'source/blog'
+  rooturl: 'source'
   ignore: '.keep'
-  media: 'source/blog/images'
+  media: 'source/assets/prose/images'
   metadata:
     source/blog:
 
@@ -36,6 +36,26 @@ prose:
           element: 'text'
           label: 'Main blog image URL'
           help: 'The image that is shown on the blog listing page (optional)'
+
+      - name: 'date'
+        field:
+          element: 'text'
+          value: CURRENT_DATETIME
+          label: '* Date published'
+          help: 'Must be in the format YYYY-MM-DD HH-MM (required)'
+
+      - name: 'published'
+        field:
+          element: 'checkbox'
+          value: true
+          label: 'Published?'
+
+    source/news:
+
+      - name: 'title'
+        field:
+          element: 'text'
+          label: 'title'
 
       - name: 'date'
         field:
