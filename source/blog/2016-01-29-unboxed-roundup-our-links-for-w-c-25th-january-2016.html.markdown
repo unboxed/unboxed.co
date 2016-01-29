@@ -24,6 +24,12 @@ We talk about technical debt a lot, but there's no clear understanding across ou
 
 So true.
 
+## Rails Dynamic Render to RCE (CVE-2016-0752) - [Andrew W](/people#andrew-white)
+
+https://nvisium.com/blog/2016/01/26/rails-dynamic-render-to-rce-cve-2016-0752/
+
+Rails 4.2.5.1, 4.1.14.1 and 3.2.22.1 were released this week to fix a number of vulnerabilities but CVE-2016-0752 was probably the most serious one, but hopefully it's  the least likely to occur in the wild since it requires the developer to be passing the parameters hash directly into the `render` call. Moral of the story is never pass user generated data in to methods that either eval Ruby or call `send` directly if possible, but if you must then you must whitelist it first.
+
 ## Tidy test setups with Factory Girl - [Neil v B](/people#neil-van-beinum)
 
 http://cookieshq.co.uk/posts/useful-factory-girl-methods/
