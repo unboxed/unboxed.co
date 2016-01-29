@@ -30,5 +30,11 @@ http://cookieshq.co.uk/posts/useful-factory-girl-methods/
 
 I was interested to read about some more advanced uses of Factory Girl that are outlined here. I've only really used the basics - defining a factory and then creating objects from those factories in test setups. This article describes how you can use the `trait` concept to extend your factories.
 
+## NakayoshiFork gem for Copu-on-Write in Ruby 2.2+ - [Andrew W](/people#andrew-white)
+
+https://github.com/ko1/nakayoshi_fork
+
+Changes in Ruby 2.2 and later to the generational garbage collection algorithm means that new objects that are promoted to old objects end up marking their memory pages as dirty. So when the process is forked (e.g. a new unicorn process to process HTTP requests) and a GC run occurs afterwards it can end up copying memory needlessly, resulting in process memory bloat. The NakayoshiFork gem fixes this by patching the `fork` method to ensure that all new objects are promoted to old objects first before the actual fork takes place.
+
 ## Track of the Week - [](/people#)
 
