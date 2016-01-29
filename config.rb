@@ -16,8 +16,6 @@ activate :blog do |blog|
   blog.tag_template = 'blog/tag.html'
   blog.new_article_template = 'templates/blog_article.md'
 end
-activate :similar, algorithm: :related_blog_articles
-activate :directory_indexes
 
 # news
 activate :blog do |blog|
@@ -27,6 +25,11 @@ activate :blog do |blog|
   blog.permalink = "{title}.html"
   blog.new_article_template = 'templates/news_article.md'
 end
+
+activate :similar, algorithm: :related_blog_articles
+activate :directory_indexes
+
+activate :sitemap, hostname: "https://unboxed.co"
 
 configure :development do
   activate :livereload
@@ -46,6 +49,8 @@ ignore '/**/README.md'
 
 page "/blog/feed.xml", layout: false
 page "/blog/feed.rss", layout: false
+
+page "/404.html", directory_index: false
 
 configure :build do
   activate :minify_css
