@@ -24,5 +24,11 @@ We talk about technical debt a lot, but there's no clear understanding across ou
 
 So true.
 
+## Tidy test setups with Factory Girl - [Neil v B](/people#neil-van-beinum)
+
+http://cookieshq.co.uk/posts/useful-factory-girl-methods/
+
+I was interested to read about some more advanced uses of Factory Girl that are outlined here. I've only really used the basics - defining a factory and then creating objects from those factories in test setups. This article describes how you can use the `trait` concept to extend your factories.
+
 ## Track of the Week - [](/people#)
 
