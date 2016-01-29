@@ -50,6 +50,8 @@ ignore '/**/README.md'
 page "/blog/feed.xml", layout: false
 page "/blog/feed.rss", layout: false
 
+page "/404.html", directory_index: false
+
 configure :build do
   activate :minify_css
   activate :minify_javascript
