@@ -42,6 +42,12 @@ https://github.com/ko1/nakayoshi_fork
 
 Changes in Ruby 2.2 and later to the generational garbage collection algorithm means that new objects that are promoted to old objects end up marking their memory pages as dirty. So when the process is forked (e.g. a new unicorn process to process HTTP requests) and a GC run occurs afterwards it can end up copying memory needlessly, resulting in process memory bloat. The NakayoshiFork gem fixes this by patching the `fork` method to ensure that all new objects are promoted to old objects first before the actual fork takes place.
 
+## Hacking inclusion: How we customised a bot to gently correct people who se the word ‘guys’ - [David B](/people#david-basalla)
+
+https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/
+
+While the title is probably overselling the point of the article in typical click-bait fashion, the issue it addresses seems relevant. The use of the word ‘guys’ has come up at Unboxed as well as at GDS, with people (myself included) using it to address both genders where more inclusive terms such as ‘people’, ’team’ etc could be used. The article explains how 18F customised their SlackBot to suggest corrections when the word ‘guys’ is used.
+
 ## Opening GOV.UK's Puppet repository - [Andrew W](/people#andrew-white)
 
 https://gdstechnology.blog.gov.uk/2016/01/19/opening-gov-uks-puppet-repository/
