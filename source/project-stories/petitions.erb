@@ -1,0 +1,127 @@
+---
+title: "Project Story - Petitions"
+
+header:
+  client: "Petitions"
+  introduction: "Public sector collaboration with GDS to re-launch Petitions platform for UK citizens"
+  image: ""
+  image_description: ""
+
+introduction:
+  title: "Re-launched platform to open new dialogue between public and Parliament"
+  content:
+    - "10 weeks to live launch in July 2015"
+    - "Re-launched platform to open new dialogue between public and Parliament"
+    - "System powered by open source Rails application"
+    - "Up to 40,000 signatures submitted and processed per hour"
+  image: ""
+  image_description: ""
+
+statistics_1:
+  title: "Petitions in numbers"
+  number: "7,265,303"
+  text: "Signatures collected to date (January 2016)"
+
+statistics_2:
+  number: "15"
+  text: "Petitions exceeding 100,000 signatures and debated in the House of Commons"
+
+statistics_3:
+  title: "Petitions in numbers since launch"
+  number: "19,079,623"
+  text: "Unique site visitors"
+
+statistics_4:
+  number: "98,054,332"
+  text: "Pages viewed"
+
+petition_process:
+  title: "A voice for the public"
+  content: "Petitions is an online government platform, enabling members of the public to create or sign petitions that asks for a change to the law or to government policy. Those that receive 10,000 signatures get a response from the government, and 100,000+ signatures are considered for debate in Parliament. Following a report on improving public engagement in politics, we partnered with Government Digital Services (GDS) to re-launch this public service to meet a new public demand."
+  image: ""
+  image_description: ""
+
+launch_quote:
+  quote: "We managed a complete service redesign and rebuild, changed hosting provider, gained security accreditation, and launched the UK’s new Petitions service - all in just 10 weeks."
+  source: "Peter Herlihy, Product Owner, GDS"
+
+new_requirements:
+  title: "Major new requirements for dated platform"
+  content: "New requirements emerged for the old e-Petitions system, such as moving towards centralised administration for the Petitions Select committee. In order to meet these new user needs, the user journey had to be remapped and the platform redesigned and rebuilt. From previously partnering with GDS on the original e-Petitions in 2011, our team knew the drill, and the project kicked off within a matter of days."
+  image: ""
+  image_description: ""
+
+mvp_quote:
+  quote: "A strong focus on minimum viability and always having a shippable product, allowed our team to start delivering from day one with confidence we’d be ready, despite an emerging set of needs and an unclear launch date."
+  source: "Peter Herlihy, Product Owner, GDS"
+
+tech_spec:
+  title: "System powered by open source Ruby on Rails application"
+  content: "The team worked to full GDS practices, with design taking a mobile-first approach and the UX streamlined to create a simple user flow. The system was built to handle a high request of daily email sends (up to 150,000 during most days, rising to 500,000+ during busy times, hitting a peak of 1,000,000+), and scaled to meet the high demand of petitions with a large public following."
+  image: ""
+  image_description: ""
+
+tech_quote:
+  quote: "We architected for robustness and speed, based on previous peak numbers from the old system. We now regularly hit those numbers on a quiet day."
+  source: "Andrew White, CTO, Unboxed"
+
+result:
+  title: "A platform for direct public engagement with Parliament"
+  content: "The result: A platform which, for the first time, allows the public to electronically petition the Parliament Committee directly with political topics that wouldn’t otherwise have been raised or debated. Since the launch, 7,265,303 signatures have been collected across 2,592 petitions. 86 of these petitions have been given a response, and 15 debated in the House of Commons."
+  image: ""
+  image_description: ""
+
+mp_quote:
+  quote: "I am delighted to be able to announce the opening of the new Petitions website. First and foremost, it is an easy way for people to let MPs and Ministers know what they care about. What’s more, it gives us a chance to open up a new dialogue between the public and Parliament."
+  source: "Helen Jones MP, The Chair of the House of Commons Procedure Committee"
+---
+
+<%= partial 'project-stories/page_header' %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
+
+  <section class="highlight--petitions">
+    <h2 class="highlight__title">
+      <%= current_page.data.statistics_1.title %>
+    </h2>
+
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_1.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %></p>
+      <p class="highlight__wide-text"><%= current_page.data.statistics_2.text %></p>
+    </div>
+  </section>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.petition_process } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.launch_quote } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.new_requirements } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.mvp_quote } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.tech_spec } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.tech_quote } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.result } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.mp_quote } %>
+
+  <section class="highlight--petitions">
+    <h2 class="highlight__title">
+      <%= current_page.data.statistics_3.title %>
+    </h2>
+
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_3.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_4.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_4.text %></p>
+    </div>
+  </section>
+</div>
