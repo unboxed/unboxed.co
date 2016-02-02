@@ -25,8 +25,9 @@ With three days to go, we’re about to fly out and we have three teams signed u
 
 It’s Friday night. We’re about to launch. 18 teams and 25 people arrive for opening drinks in our glorious venue - Silwood This is start up acceleration among the trees, birds and hardidaas. It’s December and I’m in my flip flops welcoming Cape Town’s most open, creative and smart entrepreneurs with drinks, music and an inspiring talk from Jack Hubbard. It’s hard to believe this is work.
 
+![Friday](/http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2014.11.32_zpsry7wbv0y.png)
+
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hungry entrepreneurs <a href="https://t.co/DzNMw5lZ21">pic.twitter.com/DzNMw5lZ21</a></p>&mdash; Techqala Accelerator (@techqala) <a href="https://twitter.com/techqala/status/673447960705933312">December 6, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-<br/>
 
 # 9-days from vision to share
 
@@ -64,7 +65,7 @@ We spend the 9 days deeply impressed by the quality of the people and ideas in C
 - Presenting all the participants with techqala alumni business cards and sharing the video of the journey
 
 ![Business cards](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2014.03.31_zpsggastkib.png)
-
+<br/>
 
 # What we learned
 
