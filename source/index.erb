@@ -66,17 +66,17 @@ contributions:
   content:
     - name: "Rails Core contribution"
       description: "Andrew, our CTO, is one of 12 Rails Core Members and the only member in the UK"
-      image: ""
+      image: "/assets/images/homepage/andrew-white.jpg"
       link: "http://rubyonrails.org/community/"
 
-    - name: "London Ruby User Group (LRUG)"
+    - name: "London Ruby User Group"
       description: "Murray, one of our senior developers, co-organises the monthly LRUG meetup"
-      image: ""
+      image: "/assets/images/homepage/murray-steele.jpg"
       link: "http://lrug.org"
 
     - name: "Mentoring"
       description: "Starting from small ideas, we mentor across a variety of incubators and accelerators"
-      image: ""
+      image: "/assets/images/homepage/mentoring-people.jpg"
       link: "http://www.50thgeneration.org"
 
 blog_title: "What we have been blogging about"
@@ -212,8 +212,10 @@ blog_title: "What we have been blogging about"
     </div>
 
     <% current_page.data.contributions.content.each do |contribution| %>
-      <a class="homepage-tile" href="<%= contribution.link %>" title="<%= contribution.name %>">
+      <a class="homepage-tile" href="<%= contribution.link %>" title="<%= contribution.name %>" target="_blank">
         <div class="homepage-tile__content">
+          <img class="homepage-tile__image" src="<%= contribution.image %>" alt="<%= contribution.name %>">
+
           <h3 class="homepage-tile__title">
             <%= contribution.name %>
           </h3>
