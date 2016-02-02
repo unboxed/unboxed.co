@@ -1,4 +1,4 @@
-.homepage-latest {
+.homepage-tiles-section {
   padding: 30px 0 0 6px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -7,7 +7,7 @@
   }
 }
 
-.homepage-latest__title {
+.homepage-tiles-section__title {
   @include responsive-title;
   color: $purple;
   font-weight: 300;
