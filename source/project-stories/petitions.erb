@@ -74,6 +74,27 @@ result:
 mp_quote:
   quote: "I am delighted to be able to announce the opening of the new Petitions website. First and foremost, it is an easy way for people to let MPs and Ministers know what they care about. What’s more, it gives us a chance to open up a new dialogue between the public and Parliament."
   source: "Helen Jones MP, The Chair of the House of Commons Procedure Committee"
+
+team:
+  title: "Unboxed team"
+  people:
+  - full_name: "Andrew White"
+    image: "/project-stories/petitions/team/andrew.png"
+    link: "/people#andrew-white"
+  - full_name: "Murray Steele"
+    image: "/project-stories/petitions/team/murray.png"
+    link: "/people#murray-steele"
+  - full_name: "Paula Stepinska"
+    image: "/project-stories/petitions/team/paula.png"
+    link: "/people#paula-stepinska"
+  - full_name: "Otto Latilla"
+    image: "/project-stories/petitions/team/otto.png"
+  - full_name: "Jolie Lanser"
+    image: "/project-stories/petitions/team/jolie.png"
+    link: "/people#jolie-lanser"
+  - full_name: "David Basalla"
+    image: "/project-stories/petitions/team/david.png"
+
 ---
 
 <%= partial 'project-stories/page_header' %>
@@ -111,6 +132,8 @@ mp_quote:
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.result } %>
 
   <%= partial 'project-stories/quote', locals: { section: current_page.data.mp_quote } %>
+
+  <%= partial 'project-stories/project_team' %>
 
   <section class="highlight--petitions">
     <h2 class="highlight__title">
