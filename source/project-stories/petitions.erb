@@ -95,6 +95,35 @@ team:
   - full_name: "David Basalla"
     image: "/project-stories/petitions/team/david.png"
 
+site:
+  link: "https://petition.parliament.uk/"
+  text: "Visit the site and check it out for yourself"
+
+links:
+  - title: "New Petitions website opens"
+    source: "BBC"
+    type: "news"
+    link: "http://www.bbc.co.uk/news/uk-politics-33599604"
+
+  - title: "250,000 back petition calling for Donald Trump to be banned from UK"
+    source: "Daily Mail"
+    type: "news"
+    link: "http://www.dailymail.co.uk/news/article-3352382/Three-people-SECOND-signing-petition-ban-Donald-Trump-Britain-hate-speech-claim-police-fear-lives-radicalised-London.html"
+
+related:
+  title: "Related"
+  articles:
+  - title: "Donald Trump block petition hits 400,000 signatures and rising"
+    type: "news"
+    link: "/news/donald-trump-block-petition-hits-270-000-signatures-and-rising/"
+
+  - title: "Petition Map"
+    type: "news"
+    link: "http://petitionmap.unboxedconsulting.com/"
+
+  - title: "New government Petitions website launched, developed in partnership with Unboxed Consulting"
+    type: "news"
+    link: "/news/new-government-petitions-website-launched-developed-in-partnership-with-unboxed-consulting/"
 ---
 
 <%= partial 'project-stories/page_header' %>
@@ -147,4 +176,8 @@ team:
       <p class="highlight__small-text"><%= current_page.data.statistics_4.text %></p>
     </div>
   </section>
+
+  <%= partial 'project-stories/link_tiles' %>
+
+  <%= partial 'project-stories/related_tiles' %>
 </div>
