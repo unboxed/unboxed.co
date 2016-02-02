@@ -61,6 +61,24 @@ newsletter:
   title: "Our newsletter"
   text: "Or if you're not currently facing any challenges, we'd love to connect anyway. Pop in your email address and join the world of Unboxed through our updates:"
 
+contributions:
+  title: "What we do in the community"
+  content:
+    - name: "Rails Core contribution"
+      description: "Andrew, our CTO, is one of 12 Rails Core Members and the only member in the UK"
+      image: ""
+      link: "http://rubyonrails.org/community/"
+
+    - name: "London Ruby User Group (LRUG)"
+      description: "Murray, one of our senior developers, co-organises the monthly LRUG meetup"
+      image: ""
+      link: "http://lrug.org"
+
+    - name: "Mentoring"
+      description: "Starting from small ideas, we mentor across a variety of incubators and accelerators"
+      image: ""
+      link: "http://www.50thgeneration.org"
+
 blog_title: "What we have been blogging about"
 
 ---
@@ -186,6 +204,26 @@ blog_title: "What we have been blogging about"
     </p>
 
     <%= partial 'newsletter', locals: { block_class: 'homepage-newsletter' } %>
+  </section>
+
+  <section class="homepage-contributions">
+    <div class="homepage-contributions__title">
+      <%= current_page.data.contributions.title %>
+    </div>
+
+    <% current_page.data.contributions.content.each do |contribution| %>
+      <a class="homepage-tile" href="<%= contribution.link %>" title="<%= contribution.name %>">
+        <div class="homepage-tile__content">
+          <h3 class="homepage-tile__title">
+            <%= contribution.name %>
+          </h3>
+
+          <p class="homepage-tile__paragraph">
+            <%= contribution.description %>
+          </p>
+        </div>
+      </a>
+    <% end %>
   </section>
 
   <section class="homepage-latest">
