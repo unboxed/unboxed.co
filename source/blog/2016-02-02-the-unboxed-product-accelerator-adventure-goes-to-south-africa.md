@@ -61,8 +61,10 @@ We spend the 9 days deeply impressed by the quality of the people and ideas in C
 - Jack Hubbard’s evening talk by the pool on building a tribe through low cost / high energy comms. Everyone learnt something really quite business-changing and I laughed so much I basically cried – obviously over tired!)
 - The ‘scale your business’ mindful walk up Lion’s Head – we walk up, up, up into our 25 year vision and then enjoy the journey back down in the moonlight with the city lights below us
 - Fourteen exceptionally crisp and meaningful 3min pitches at the demo day
-- Presenting all the participants with techqala alumni business cards and sharing the video of the journey<br/>
-<br/>
+- Presenting all the participants with techqala alumni business cards and sharing the video of the journey
+
+![Business cards](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2014.03.31_zpsggastkib.png)
+
 
 # What we learned
 
@@ -73,7 +75,6 @@ We spend the 9 days deeply impressed by the quality of the people and ideas in C
 - Weaving work, play and normal life together enables people to bring all of themselves and think bigger and with more clarity
 
 ![Overstimulated](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.30.42_zpshi91khhi.png)
-<br/>
 
 Follow [@techqala](https://twitter.com/techqala) on Twitter
 
