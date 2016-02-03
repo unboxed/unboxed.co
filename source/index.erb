@@ -1,7 +1,7 @@
 ---
 title: "The largest Ruby on Rails development agency in London and Cape Town"
 meta_description: "We are a web and mobile development agency, specialising in Ruby on Rails and Agile delivery, with offices in London and Cape Town"
-meta_keywords: "Web developers, London web developers, Cape Town web developers, website developers, website development, mobile developers, London mobile developers, Cape Town mobile developers, iPhone developers, iPhone development, iPad developers, iPad development, Android developers, Android development, iPhone app developers, iPad app developers, Android app developers, Agile development, Agile development processes, Agile developers, Agile mentor, Agile coach, scrum masters, business analysts, Agile consultancy, social networking websites, price comparison tools, e-commerce solutions, digital strategies, digital solutions, UX, user experience, software development, software developers"
+meta_keywords: "Web developers, London web developers, Cape Town web developers, website developers, website development, mobile developers, London mobile developers, Cape Town mobile developers, iPhone developers, iPhone development, iPad developers, iPad development, Android developers, Android development, iPhone app developers, iPad app developers, Android app developers, Agile development, Agile development processes, Agile developers, Agile mentor, Agile coach, scrum masters, business analysts, Agile consultancy, social networking websites, price comparison tools, e-commerce solutions, digital strategies, digital solutions, UX, user experience, software development, software developers, Unboxed, Ruby on Rails London, Ruby on Rails developer, Ruby on Rails development, Ruby on Rails development London, Ruby on Rails developer London, Ruby on Rails agency, Ruby on Rails agency London, culture change"
 
 services:
   title: "What we do"
@@ -31,7 +31,7 @@ additional_services:
       text: "If we built it, we will support it. We will love your product for as long as you and your users love it."
 
 projects:
-  title: "Who we have partnered with"
+  title: "Who we have worked with"
   content:
     - name: "SH:24"
       description: "Unboxed transform NHS sexual health clinics to a digital service in 8 weeks"
@@ -60,6 +60,24 @@ contact:
 newsletter:
   title: "Our newsletter"
   text: "Or if you're not currently facing any challenges, we'd love to connect anyway. Pop in your email address and join the world of Unboxed through our updates:"
+
+contributions:
+  title: "What we do in the community"
+  content:
+    - name: "Rails Core contribution"
+      description: "Andrew, our CTO, is one of 12 Rails Core Members and the only member in the UK"
+      image: "/assets/images/homepage/andrew-white.jpg"
+      link: "http://rubyonrails.org/community/"
+
+    - name: "London Ruby User Group"
+      description: "Murray, one of our senior developers, co-organises the monthly LRUG meetup"
+      image: "/assets/images/homepage/murray-steele.jpg"
+      link: "http://lrug.org"
+
+    - name: "Mentoring"
+      description: "Starting from small ideas, we mentor across a variety of incubators and accelerators"
+      image: "/assets/images/homepage/mentoring-people.jpg"
+      link: "http://www.50thgeneration.org"
 
 blog_title: "What we have been blogging about"
 
@@ -112,8 +130,8 @@ blog_title: "What we have been blogging about"
     <% end %>
   </section>
 
-  <section class="homepage-latest">
-    <h2 class="homepage-latest__title">
+  <section class="homepage-tiles-section">
+    <h2 class="homepage-tiles-section__title">
       <%= current_page.data.projects.title %>
     </h2>
 
@@ -188,8 +206,30 @@ blog_title: "What we have been blogging about"
     <%= partial 'newsletter', locals: { block_class: 'homepage-newsletter' } %>
   </section>
 
-  <section class="homepage-latest">
-    <h2 class="homepage-latest__title">
+  <section class="homepage-tiles-section">
+    <div class="homepage-tiles-section__title">
+      <%= current_page.data.contributions.title %>
+    </div>
+
+    <% current_page.data.contributions.content.each do |contribution| %>
+      <a class="homepage-tile" href="<%= contribution.link %>" title="<%= contribution.name %>" target="_blank">
+        <div class="homepage-tile__content">
+          <img class="homepage-tile__image" src="<%= contribution.image %>" alt="<%= contribution.name %>">
+
+          <h3 class="homepage-tile__title">
+            <%= contribution.name %>
+          </h3>
+
+          <p class="homepage-tile__paragraph">
+            <%= contribution.description %>
+          </p>
+        </div>
+      </a>
+    <% end %>
+  </section>
+
+  <section class="homepage-tiles-section">
+    <h2 class="homepage-tiles-section__title">
       <%= current_page.data.blog_title %>
     </h2>
 

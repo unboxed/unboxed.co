@@ -1,7 +1,7 @@
 <% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
 <% content_for(:title) { "Blog - #{current_page.data.title}" } %>
 <% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
-<% content_for(:meta_keywords) { "Unboxed, Blog, #{current_page.data.tags.join(', ')}" } %>
+<% content_for(:meta_keywords) { "unboxed consulting, news, technical, web, development, marketing, graphic design, Unboxed, Ruby on Rails, Blog, #{current_page.data.tags.join(', ')}" } %>
 <% add_atom_feed_to_head %>
 
 <% wrap_layout :application do %>
