@@ -11,13 +11,14 @@ title: The Unboxed product accelerator adventure goes to South Africa
 ---
 
 
+
 We’ve been on a mission to conceive, build, nurture digital products that matter for many years now. More recently this means creating an ecosystem in which other people’s ideas can become reality.
 
 Unboxed invested in my purpose-led start up accelerator, [50th Generation](http://www.50thgeneration.org) last year. 
 
 Then [Richard Stobart](https://twitter.com/richardstobart) and I decided to use our limited time but abundant energy to take our start up and product inception know-how to Cape Town for an intense 10 days in December 2015.
 
-With three days to go, we’re about to fly out and we have three teams signed up. Eek. Cape Town gets its brain into gear – and the wonderful Wilhelmina Linnell of Linovator beams her light on the project – and we land in Cape Town with 18 teams booked in. OK, we really are doing this!
+With three days to go, we’re about to fly out and we have three teams signed up. Eek. Cape Town gets its brain into gear – and the wonderful Wilhelmina Linnell of [Linovator](http://www.linovator.com) beams her light on the project – and we land in Cape Town with 18 teams booked in. OK, we really are doing this!
 
 [Jack Hubbard](https://twitter.com/jackhubbard), our co-conspirator and founder of [Dream Valley Projects](http://www.dreamvalleyprojects.co.uk) is there when we arrive and suddenly it’s real.
 
@@ -59,10 +60,10 @@ We spend the 9 days deeply impressed by the quality of the people and ideas in C
 
 - Hacking growth in the businesses, under the beautiful African sky – trees shading us, great coffee and the kind of relaxed mentality in which mindblowing ideas and relationships are born
 - Using our own bodies and the environment to bring lean start up business models to life
-- Jack Hubbard’s evening talk by the pool on building a tribe through low cost / high energy comms. Everyone learnt something really quite business-changing and I laughed so much I basically cried – obviously over tired!)
+- Jack Hubbard’s evening talk by the pool on building a tribe through low cost / high energy comms. Everyone learnt something really quite business-changing and I laughed so much I basically cried – obviously over tired!
 - The ‘scale your business’ mindful walk up Lion’s Head – we walk up, up, up into our 25 year vision and then enjoy the journey back down in the moonlight with the city lights below us
 - Fourteen exceptionally crisp and meaningful 3min pitches at the demo day
-- Presenting all the participants with techqala alumni business cards and sharing the video of the journey
+- Presenting all the participants with Techqala alumni business cards and sharing the video of the journey
 
 ![Business cards](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2014.03.31_zpsggastkib.png)
 <br/>
