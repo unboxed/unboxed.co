@@ -25,6 +25,12 @@
   }
 }
 
+.social-icon__icon-container--github-reversed {
+  @extend %social-icon__icon-container--base;
+  @extend .social-icon__icon-container--github;
+  background-color: #302f30;
+}
+
 .social-icon__icon {
   display: block;
   height: 16px;
