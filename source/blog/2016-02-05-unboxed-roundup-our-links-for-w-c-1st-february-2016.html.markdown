@@ -33,5 +33,12 @@ https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f
 
 Angry man post lampooning what Node.js + javascript frameworks (aka SPA's) have done to modern websites. Behind the ridicule is a message to web developers to keep things lean, mean and use the simplest tool to get the job done
 
-## Track of the Week - [](/people#)
+## Track of the Week - Leanne N
+
+This is a bit of nostalgia for me. We were young adults in Johannesburg in the late 80's before the end of apartheid. The world had imposed sanctions and British Equity members had voted not to perform in South Africa. All this meant that any live music was locally grown. The challenge at this time was for mixed race music groups to find venues where they were all allowed to play together. There were a few places where music was not so quietly changing the culture and pushing the boundaries of what was allowed to be said and done without being censored. One such venue was the ever popular Roxy Rhythm bar where we whiled away many evenings listening to the afropop of Mango Groove. Or at the Chelsea for the rock sounds of éVoid. The music at the time was often political - most effectively probably through the likes of bands like Johnny Clegg and Savuka.
+
+So this song is one from Mange Groove - released in 1989 and reminiscing about Sophiatown in Johannesburg which was a vibrant mixed area before forced removals in 1955.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZU-PuNG-PIg" frameborder="0" allowfullscreen></iframe>
+["Hellfire" by Mango Groove](https://www.youtube.com/watch?v=ZU-PuNG-PIg)
 
