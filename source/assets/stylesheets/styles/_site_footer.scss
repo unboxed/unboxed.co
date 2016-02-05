@@ -33,4 +33,8 @@
 .site-footer__email-address {
   color: inherit;
   text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }

@@ -13,4 +13,4 @@ date: "2015-07-24T10:38:00+01:00"
 
 <p><img src="http://bit.ly/1MhF54k" alt="Petitions"></p>
 
-<p>This re-launched service is another great example of how the <a href="why-plcs-are-looking-to-government-for-digital-inspiration">UK government is leading the world</a> in digital product development.</p>
+<p>This relaunched service is another great example of how the <a href="why-plcs-are-looking-to-government-for-digital-inspiration">UK government is leading the world</a> in digital product development.</p>
