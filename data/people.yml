@@ -74,6 +74,8 @@
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/TimPHiggins"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/tphiggins"
 
 - name: "Graeme McCubbin"
   short_name: "graeme-mccubbin"
