@@ -43,6 +43,12 @@
   color: $white;
 }
 
+.highlight--petitions {
+  @extend %highlight;
+  background-color: #139117;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
