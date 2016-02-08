@@ -1,1 +1,10 @@
 /blog/author  /blog
+/people/*  /people#:splat
+/case-studies/*  /project-stories
+/about-us  /contact
+/blog/feed  /blog/feed.xml
+
+/jobs/tester  /jobs  302
+/jobs/testers/ /jobs 302
+/jobs/developer  /jobs  302
+/jobs/developers  /jobs  302
