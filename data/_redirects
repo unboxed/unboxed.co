@@ -5,4 +5,6 @@
 /blog/feed  /blog/feed.xml
 
 /jobs/tester  /jobs  302
+/jobs/testers/ /jobs 302
 /jobs/developer  /jobs  302
+/jobs/developers  /jobs  302
