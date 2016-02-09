@@ -20,7 +20,7 @@ With ongoing spending cuts and budgets getting tighter and tighter, it’s becom
 
 # This event will help you understand:
 
-- Which local services to digitalise first for the biggest cost reduction
+- Which local services to digitalise <i>first</i> for the **biggest** cost reduction
 - How to take services digital when you have existing long term, large providers in situ
 - How to change your culture and attitudes to become agile in a non-agile organisation<br/>
 <br/>
@@ -44,11 +44,11 @@ This event is for heads of digital, heads of IT, project managers, service owner
 As Head of Product, Martyn has worked on a number of public sector transformation projects, including the current Buckinghamshire County Council service digitalisation project (see more about it [here](https://unboxed.co/blog/learning-in-local-government-through-discovery/)).<br/>
 <br/>
 
-**[Leon Odey-Knight](https://twitter.com/leonintheblind) Creative Lead, Unboxed**
+**[Leon Odey-Knight](https://twitter.com/leonintheblind), Creative Lead, Unboxed**
 
 ![Leon Odey-Knight](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-01%20at%2014.05.42_zpso1labvxm.png)
 
-<i>More speakers to be confirmed</i><br/>
+<i>Additional speakers to be confirmed</i><br/>
 <br/>
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.co.uk/tickets-external?eid=21204748975&ref=etckt" frameborder="0" height="247" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Powered by Eventbrite</a></div></div>
