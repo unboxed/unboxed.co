@@ -1,11 +1,12 @@
 ---
 date: "2016-02-09 10:36 +0000"
 published: true
-title: "Event: Digitalising local government services"
+title: "Event: Digitising local government services"
 ---
 
 
-## How to use the GDS approach in local councils to bring the cost of your services down through digitalisation
+
+## How to use the GDS approach in local councils to bring the cost of your services down through digitisation
 
 **Date:** Wednesday 9th March<br/>
 **Time:** 09:00 (for 09.30) to 13:00<br/>
@@ -15,12 +16,12 @@ title: "Event: Digitalising local government services"
 
 <a href="http://www.eventbrite.co.uk/e/digitalising-local-government-services-tickets-21204748975?ref=ebtn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=21204748975" alt="Eventbrite - Digitalising local government services" /></a>
 
-With ongoing spending cuts and budgets getting tighter and tighter, it’s becoming more costly for local councils to maintain their services as they currently work. Shifting these services to digital reduces running costs, increases accessibility and reduces waiting and processing times. So what steps have to be taken to digitalise your major services?<br/>
+With ongoing spending cuts and budgets getting tighter and tighter, it’s becoming more costly for local councils to maintain their services as they currently work. Shifting these services to digital reduces running costs, increases accessibility and reduces waiting and processing times. So what steps have to be taken to digitise your major services?<br/>
 <br/>
 
 # This event will help you understand:
 
-- Which local services to digitalise <i>first</i> for the **biggest** cost reduction
+- Which local services to digitise <i>first</i> for the **biggest** cost reduction
 - How to take services digital when you have existing long term, large providers in situ
 - How to change your culture and attitudes to become agile in a non-agile organisation<br/>
 <br/>
@@ -41,7 +42,7 @@ This event is for heads of digital, heads of IT, project managers, service owner
 
 ![Martyn Evans](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-01%20at%2014.05.33_zpskhtel88p.png)
 
-As Head of Product, Martyn has worked on a number of public sector transformation projects, including the current Buckinghamshire County Council service digitalisation project (see more about it [here](https://unboxed.co/blog/learning-in-local-government-through-discovery/)).<br/>
+As Head of Product, Martyn has worked on a number of public sector transformation projects, including the current Buckinghamshire County Council service digitisation project (see more about it [here](https://unboxed.co/blog/learning-in-local-government-through-discovery/)).<br/>
 <br/>
 
 **[Leon Odey-Knight](https://twitter.com/leonintheblind), Creative Lead, Unboxed**
