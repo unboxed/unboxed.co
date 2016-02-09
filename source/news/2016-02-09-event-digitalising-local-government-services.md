@@ -48,6 +48,9 @@ As Head of Product, Martyn has worked on a number of public sector transformatio
 
 ![Leon Odey-Knight](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-01%20at%2014.05.42_zpso1labvxm.png)
 
+Leon is a futurist, product creator and design extraordinaire.<br/>
+<br/>
+
 <i>Additional speakers to be confirmed</i><br/>
 <br/>
 
