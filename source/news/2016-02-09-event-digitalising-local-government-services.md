@@ -6,6 +6,7 @@ title: "Event: Digitising local government services"
 
 
 
+
 ## How to use the GDS approach in local councils to bring the cost of your services down through digitisation
 
 **Date:** Wednesday 9th March<br/>
@@ -45,14 +46,15 @@ This event is for heads of digital, heads of IT, project managers, service owner
 As Head of Product, Martyn has worked on a number of public sector transformation projects, including the current Buckinghamshire County Council service digitisation project (see more about it [here](https://unboxed.co/blog/learning-in-local-government-through-discovery/)).<br/>
 <br/>
 
+**Ian Hirst, Head of Digital Services & Transformation, Tunbridge Wells Borough Council**
+<i>Details to follow</i><br/>
+<br/>
+
 **[Leon Odey-Knight](https://twitter.com/leonintheblind), Creative Lead, Unboxed**
 
 ![Leon Odey-Knight](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-01%20at%2014.05.42_zpso1labvxm.png)
 
 Leon is a futurist, product creator and design extraordinaire.<br/>
-<br/>
-
-<i>Additional speakers to be confirmed</i><br/>
 <br/>
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.co.uk/tickets-external?eid=21204748975&ref=etckt" frameborder="0" height="247" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Powered by Eventbrite</a></div></div>
