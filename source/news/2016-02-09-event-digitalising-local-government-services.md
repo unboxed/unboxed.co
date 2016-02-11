@@ -7,6 +7,7 @@ title: "Event: Digitising local government services"
 
 
 
+
 ## How to use the GDS approach in local councils to bring the cost of your services down through digitisation
 
 **Date:** Wednesday 9th March<br/>
@@ -46,7 +47,7 @@ This event is for heads of digital, heads of IT, project managers, service owner
 As Head of Product, Martyn has worked on a number of public sector transformation projects, including the current Buckinghamshire County Council service digitisation project (see more about it [here](https://unboxed.co/blog/learning-in-local-government-through-discovery/)).<br/>
 <br/>
 
-**Ian Hirst, Head of Digital Services & Transformation, Tunbridge Wells Borough Council**
+**Ian Hirst, Head of Digital Services & Transformation, Tunbridge Wells Borough Council**<br/>
 <i>Details to follow</i><br/>
 <br/>
 
