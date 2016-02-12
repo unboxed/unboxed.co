@@ -36,4 +36,7 @@ http://nshipster.com/kvc-collection-operators/
 
 Let's talk about relationships; after all, it's almost Valentine's Day. Ruby vs Objective-C competing for our hearts.
 
-## Track of the Week -
+## Track of the Week - [Grant S](/people#grant-speelman)
+
+<iframe src="https://player.vimeo.com/video/21681429" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+["Three Little Birds" by Bob Marley](https://vimeo.com/21681429)
