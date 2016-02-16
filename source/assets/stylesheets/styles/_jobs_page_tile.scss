@@ -54,6 +54,7 @@
   line-height: 1.2em;
 
   @include breakpoint($tablet-breakpoint) {
+    font-size: .95em;
     min-height: 11.5vw;
   }
 
