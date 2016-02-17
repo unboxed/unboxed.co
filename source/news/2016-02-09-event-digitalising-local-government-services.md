@@ -10,6 +10,7 @@ title: "Event: Digitising local government services"
 
 
 
+
 ## How to use the GDS approach in local councils to bring the cost of your services down through digitisation
 
 **Date:** Wednesday 9th March<br/>
@@ -40,6 +41,11 @@ This event is for heads of digital, heads of IT, project managers, service owner
 **[Matthew Cain](https://twitter.com/mcaino), Head of Digital, Buckinghamshire County Council**
 
 ![Matthew Cain](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-01%20at%2014.05.21_zpsvbaq4sy3.png)
+<br/>
+
+Matthew Cain is Head of Digital at Buckinghamshire County Council. He led the work to refresh the digital strategy; establish a digital exemplars programme; and adopt a digital service standard. 
+
+Previously he led the public sector work for MTM, a strategy and research agency, where clients included Sky, the BBC and HMRC and was co-founder of a social media research agency.<br/>
 <br/>
 
 **[Martyn Evans](https://twitter.com/martynrevans), Head of Product, Unboxed**
