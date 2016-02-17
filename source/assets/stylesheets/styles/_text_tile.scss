@@ -52,9 +52,13 @@
   }
 }
 
-.text-tile__paragraph--job-page {
+.text-tile__paragraph--with-spacing {
   @extend .text-tile__paragraph;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
+
+  &:last-child {
+    padding-bottom: 0;
+  }
 
   a {
     color: $purple;
@@ -63,5 +67,17 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+
+  span {
+    font-weight: 400;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 8px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-bottom: 20px;
   }
 }

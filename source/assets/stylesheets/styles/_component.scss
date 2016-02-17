@@ -3,6 +3,23 @@
   background-color: $white;
 }
 
+.component--spinouts {
+  @extend .component;
+  margin-bottom: 6px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 25px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    margin-bottom: 50px;
+  }
+}
+
 .component__tile {
   @include breakpoint($tablet-breakpoint) {
     float: left;
