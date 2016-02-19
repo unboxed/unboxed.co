@@ -20,7 +20,13 @@ https://gojko.net/2016/02/01/potentially-shippable/
 
 Thoughtful article about changes in software delivery and how 'potentially shippable' should be a minimum to reach and not the aim we look for at the end of each iteration.
 
-## Track of the Week - [Tyron T](/people#tyron-toplis)
+## `puts` debugging - [Murray S](/people#murray-steele)
+
+http://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
+
+This article from [Aaron Patterson](https://twitter.com/tenderlove) shows us some of the techniques he uses to debug software.  Mostly it's a bunch of `puts` statements in the right places to track down where and why something is happening.  He also describes it as an iterative process; drop in a `puts` where you think the problem is and then start digging from there.  A great reminder that debugging is hard even for seasoned developers who are very familiar with a project.  You don't need to be scared about modifying library code, and you don't need to learn complex debugging tools; you just need to dive in with some `puts` statements and let the code lead you to the problem.
+
+## Track of the Week - [Tyrone T](/people#tyrone-toplis)
 
 This song picks me up no matter what mood im in and Bonham just owns the drums!
 
