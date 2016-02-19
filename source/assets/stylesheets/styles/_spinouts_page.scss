@@ -4,7 +4,10 @@
 // what affects styling
 
   p {
-    @extend .text-tile__paragraph;
+    color: $black;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.3;
     padding-bottom: 15px;
 
     &:last-child {
@@ -36,10 +39,12 @@
     }
 
     @include breakpoint($tablet-breakpoint) {
-      padding-bottom: 7px;
+      font-size: 2.1vw;
+      padding-bottom: 8px;
     }
 
     @include breakpoint($desktop-breakpoint) {
+      font-size: 1.3em;
       padding-bottom: 20px;
     }
   }
