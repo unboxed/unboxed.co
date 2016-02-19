@@ -1,0 +1,51 @@
+.spinouts-page {
+// we need to add an extra styling for <p> here since we use Tilt to generate a text content on Spinouts page
+// to have possibility of putting links into frontmatter. Tilt will generate <p> element without picking up css class
+// what affects styling
+
+  p {
+    color: $black;
+    font-size: 1em;
+    font-weight: 300;
+    line-height: 1.3;
+    padding-bottom: 15px;
+
+    &:last-child {
+      padding-bottom: 0;
+    }
+
+    &:first-of-type:before {
+      content: 'Why: ';
+      font-weight: 400;
+    }
+
+    &:nth-of-type(2):before {
+      content: 'What: ';
+      font-weight: 400;
+    }
+
+    &:nth-of-type(3):before {
+      content: 'Who: ';
+      font-weight: 400;
+    }
+
+    a {
+      color: $purple;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    @include breakpoint($tablet-breakpoint) {
+      font-size: 2.1vw;
+      padding-bottom: 8px;
+    }
+
+    @include breakpoint($desktop-breakpoint) {
+      font-size: 1.3em;
+      padding-bottom: 20px;
+    }
+  }
+}
