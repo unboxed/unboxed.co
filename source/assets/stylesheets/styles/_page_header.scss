@@ -67,6 +67,6 @@
   text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
-    width: 80%;
+    width: 64%;
   }
 }
