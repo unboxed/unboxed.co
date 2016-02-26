@@ -20,4 +20,9 @@ http://chrisseaton.com/rubytruffle/flip-flops/
 ​
 Meet the ruby fip-flop operator. Great for confusing co-workers (or doing something to a contiguous part of a list)
 
-## Track of the Week - []()
+## Track of the Week - [Richard S](/people#richard-stobart)
+
+"We’ve been happy lately, thinking about good things to come. Roll on March."
+
+<iframe src="https://player.vimeo.com/video/7943513" width="500" height="333" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+["Peace Train" by Cat Stevens](https://vimeo.com/7943513)
