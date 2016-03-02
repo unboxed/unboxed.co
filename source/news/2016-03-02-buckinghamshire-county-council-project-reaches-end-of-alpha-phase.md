@@ -9,12 +9,12 @@ Our current service redesign project with Buckinghamshire County Council has suc
  
 This ‘exemplar’ project was created by Buckinghamshire County Council to learn about how to build end-to-end digital services so good, people prefer to use them. The exemplars tackled two of the council’s highest volume services:<br/> 
 
-Service one: <i>Find my child a school place</i>
+Service one: <i>Find my child a school place</i><br/>
 The full school entry application process placing around 18,000 children every year, from the initial finding of a school in the right catchment area through to confirming a child’s place online:<br/>
 
 ![Digital service one](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-26%20at%2013.22.36_zpsjpdvq2mv.png)
 
-Service two: <i>Maintain my street</i>
+Service two: <i>Maintain my street</i><br/>
 A service for reporting any street issues and a platform to suggest local are improvements:<br/>
 
 ![Digital service two](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-26%20at%2013.22.12_zpsvdlmbv0d.png)
