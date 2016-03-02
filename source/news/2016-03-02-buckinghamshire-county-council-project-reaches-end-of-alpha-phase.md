@@ -4,6 +4,7 @@ published: true
 title: Buckinghamshire County Council project reaches end of Alpha phase
 ---
 
+
 Our current service redesign project with Buckinghamshire County Council has successfully reached the end of the 8-week Alpha phase.<br/>
  
 This ‘exemplar’ project was created by Buckinghamshire County Council to learn about how to build end-to-end digital services so good, people prefer to use them. The exemplars tackled two of the council’s highest volume services:<br/> 
@@ -27,4 +28,3 @@ See more about this project:<br/>
 - [Learning in Local Government through Discovery](https://unboxed.co/blog/learning-in-local-government-through-discovery/)
 - [Guest post: Learning in Local Government - Part 2](https://unboxed.co/blog/guest-post-learning-in-local-government-part-2/)
 - [Matthew Cain’s personal blog on digital transformation](http://matthewcain.co.uk/digitalbucks/)
-
