@@ -3,15 +3,19 @@
 }
 
 .news-tile__container {
- @extend .blog-medium-tile__container;
+  @extend .blog-medium-tile__container;
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 386px;
+ }
 }
 
 .news-tile__top-content {
- @extend .blog-medium-tile__top-content;
+  @extend .blog-medium-tile__top-content;
 }
 
 .news-tile__title {
- @extend .blog-medium-tile__title;
+  @extend .blog-medium-tile__title;
 }
 
 .news-tile__date {
