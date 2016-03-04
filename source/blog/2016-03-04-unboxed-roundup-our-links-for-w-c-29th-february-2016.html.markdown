@@ -32,7 +32,7 @@ https://www.technologyreview.com/s/600889/google-unveils-neural-network-with-sup
 
 AI has always been "just around the corner".  It's worth thinking about what we mean when we say "AI" though.  Chances are it's the sci-fi ideal of a fully concious constructed being like SkyNet or Lt. Data or `<insert your favourite here>`.  Reading this article I'm left with the impression that what actually might be "just around the corner" (e.g. deployed and in-use very shortly) are tools that can exceed our abilities in one hyper-focussed task.
 
-## Track of the Week - [Henry H](/people#henry-turner)
+## Track of the Week - [Henry T](/people#henry-turner)
 
 It's a bit country. It's a bit spanish. I don't really know what it is. Enjoy!
 
