@@ -4,10 +4,6 @@
 
 .news-tile__container {
   @extend .blog-medium-tile__container;
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 386px;
- }
 }
 
 .news-tile__top-content {
