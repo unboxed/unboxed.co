@@ -12,7 +12,7 @@ tags: # (Delete as appropriate)
 
 https://www.youtube.com/watch?v=yY96hTb8WgI
 
-A short video about ‘Norman doors’: a door where the design tells you to do the opposite of what you’re actually supposed to do. Sound familiar? (edited)
+A short video about ‘Norman doors’: a door where the design tells you to do the opposite of what you’re actually supposed to do. Sound familiar?
 
 ## This Is How You Design Your Mobile App for Maximum Growth - [Matt T](/people#matt-turrell)
 
