@@ -391,19 +391,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/tyler-savin-6b1b179a"
 
-- name: "Anson Kelly"
-  short_name: "anson-kelly"
-  role: "Developer"
-  email: "anson.kelly"
-  bio: |
-    Kiwi Software developer that enjoys building immersive solutions to technical problems.
-    In my spare time I am not laptop bound I enjoy travelling, diving, skiing and reading.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/anson-kelly-79121026"
-    - name: "GitHub"
-      link: "https://github.com/ansonK"
-
 - name: "Willa Roos"
   short_name: "willa-roos"
   role: "Designer"
