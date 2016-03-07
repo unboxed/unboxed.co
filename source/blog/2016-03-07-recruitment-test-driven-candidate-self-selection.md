@@ -17,11 +17,13 @@ I have been to a number of university careers fairs - as both a job seeker and a
 Jobseekers may be sacrifice an afternoon of gaming, surfing the net or drinking and sometimes there are actually tests that they should be studying for. The opportunity cost of a day off a client site plus the registration fee for the event plus a potential prizeless venture all add up for the employer. And even worse is if the event is attended by the wrong crowd and you find yourself explaining what you do to people who have no idea that what you do even existed, let alone how to do it themselves. Experiences like this in the past have led to much rage talk in the pub.<br/>
  
 And I am old now, I know. I am terrified of talking to kids, who know more about tech than I do, about coming to work at our tech company. These are the kids who will define the way that I will engage with my grandchildren; they have grown up with touchscreen technology and Skype, which my parents still struggle to use.<br/>
+<br/>
 
 # The Solution
 Over dinner the night before the event I applied some lean thinking to how our stand could be set up to reduce the waste of unnecessary awkwardness. Lucky for me, I work with developers who have taught me their preference for Test Driven Development (TDD) as a means of driving valuable solutions. And, as they are the sort of people I hope to attract to our stand, it made sense to “write” some tests to ensure that I was only talking to the right people.<br/>
 
-![Graduate fair 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png)
+![Graduate fair 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png)<br/>
+<br/>
 
 # The method
 <i>Writing a test case that defined the desired candidate</i><br/>
@@ -41,6 +43,7 @@ I wanted candidates to be able to identify with the apparent madness in my metho
 ![Graduate fair 4](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.52.47_zpsxifuik24.png)
 
 I did not want to seem rude or cruel, and I respect the knowledge these people possess, so we added a chocolate prize for everybody as if to say “Well done for being clever!”. We also added a gaming incentive in the form of rewarding better quality chocolate the further along the decision tree each candidate got.<br/>
+<br/>
 
 # The Result
 In the past we have returned from such fairs with paper CVs of candidates that are not vaguely interested in working with us or candidates who are studying something that might align with what we do but in a role for which there is limited demand. This usually requires lengthy and tedious remedy later in the recruitment process.<br/>
