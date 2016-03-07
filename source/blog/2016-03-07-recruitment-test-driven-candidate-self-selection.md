@@ -26,7 +26,7 @@ Over dinner the night before the event I applied some lean thinking to how our s
 <i>Writing a test case that defined the desired candidate</i><br/>
 On arrival at the fair an ideal candidate escorted us to our stand: great communicator, helpful, funny, CompSci student in his second year. This was my opportunity to validate that my approach would select the right sort of candidate.<br/>
 
-![Graduate fair 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png)<br/>
+![Graduate fair 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png)
 
 <i>Producing the minimum viable solution to pass that test</i><br/>
 In a mock tech test situation, I asked the trial user to lay out my test, setting the happy path in the decision tree.  This would drive the design of interaction with delegates at the fair and ensure that candidates that appeared at our stand was matched against at least one suitability criteria.<br/>
