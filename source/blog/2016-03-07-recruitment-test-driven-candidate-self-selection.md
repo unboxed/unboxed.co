@@ -23,7 +23,6 @@ And I am old now, I know. I am terrified of talking to kids, who know more about
 Over dinner the night before the event I applied some lean thinking to how our stand could be set up to reduce the waste of unnecessary awkwardness. Lucky for me, I work with developers who have taught me their preference for Test Driven Development (TDD) as a means of driving valuable solutions. And, as they are the sort of people I hope to attract to our stand, it made sense to “write” some tests to ensure that I was only talking to the right people.<br/>
 
 ![Graduate fair 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png)<br/>
-<br/>
 
 # The method
 <i>Writing a test case that defined the desired candidate</i><br/>
