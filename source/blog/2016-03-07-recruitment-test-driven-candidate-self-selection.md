@@ -12,8 +12,6 @@ title: "Recruitment: Test Driven Candidate Self Selection"
 # The Problem
 I have been to a number of university careers fairs - as both a job seeker and an employer - and know how awkward those conversations with somebody that you do not know, who almost definitely intimidates you, can be. As a jobseeker you hope that you are good enough to do the job and, as an employer, you hope that your company is attractive enough to appeal to the “real” talent. Such fairs are in high demand and there are usually hordes of people fighting it out for the same thing.<br/>
 
-![Graduate fair 1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2011.13.19_zpshxbbpe4z.png)
-
 Jobseekers may be sacrifice an afternoon of gaming, surfing the net or drinking and sometimes there are actually tests that they should be studying for. The opportunity cost of a day off a client site plus the registration fee for the event plus a potential prizeless venture all add up for the employer. And even worse is if the event is attended by the wrong crowd and you find yourself explaining what you do to people who have no idea that what you do even existed, let alone how to do it themselves. Experiences like this in the past have led to much rage talk in the pub.<br/>
  
 And I am old now, I know. I am terrified of talking to kids, who know more about tech than I do, about coming to work at our tech company. These are the kids who will define the way that I will engage with my grandchildren; they have grown up with touchscreen technology and Skype, which my parents still struggle to use.<br/>
@@ -22,13 +20,13 @@ And I am old now, I know. I am terrified of talking to kids, who know more about
 # The Solution
 Over dinner the night before the event I applied some lean thinking to how our stand could be set up to reduce the waste of unnecessary awkwardness. Lucky for me, I work with developers who have taught me their preference for Test Driven Development (TDD) as a means of driving valuable solutions. And, as they are the sort of people I hope to attract to our stand, it made sense to “write” some tests to ensure that I was only talking to the right people.<br/>
 
-![Graduate fair 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png)<br/>
+![Graduate fair 3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2011.12.53_zpsraux16in.png)
 
 # The method
 <i>Writing a test case that defined the desired candidate</i><br/>
 On arrival at the fair an ideal candidate escorted us to our stand: great communicator, helpful, funny, CompSci student in his second year. This was my opportunity to validate that my approach would select the right sort of candidate.<br/>
 
-![Graduate fair 3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2011.12.53_zpsraux16in.png)
+![Graduate fair 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png)<br/>
 
 <i>Producing the minimum viable solution to pass that test</i><br/>
 In a mock tech test situation, I asked the trial user to lay out my test, setting the happy path in the decision tree.  This would drive the design of interaction with delegates at the fair and ensure that candidates that appeared at our stand was matched against at least one suitability criteria.<br/>
@@ -53,7 +51,7 @@ We know that internships are like summer camps for high-achieving insomniacs - i
 
 Savings from onboarding coupled with the savings resulting from implementing test driven candidate self selection are greater than the shame and awkwardness I feel in those conversations with students that I do not know, who are just trying to impress me as a potential new employer.<br/>
 
-
+![Graduate fair 1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2011.13.19_zpshxbbpe4z.png)
 
 
 
