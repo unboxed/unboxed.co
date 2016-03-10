@@ -19,11 +19,10 @@
 
   &:hover {
     background-color: mix($white, $light-gray);
-
   }
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 388px;
+    min-height: 386px;
   }
 }
 
@@ -86,7 +85,7 @@
   font-size: .95em;
   font-weight: 300;
   line-height: 1.3em;
-  margin: 14px;
+  margin: 14px 14px 0;
   padding-top: 8px;
   word-wrap: break-word;
 
