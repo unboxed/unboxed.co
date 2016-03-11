@@ -40,4 +40,9 @@ https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments
 
 As open-source maintainer it's nice to get feedback about your work but sometimes all the email notifications from people giving a thumbs up can be a bit much, so the news that GitHub has added reactions to PRs, issues and comments comes as a blessed relief for the Rails team I'm sure. The only one they've missed is reactions to commits - how about it GitHub?
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Jack B](/people#jack-bracewell)
+
+I've been ill all week, so I've mostly been confined to my *home*
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/rjFaenf1T-Y" frameborder="0" allowfullscreen></iframe>
+["Home" by Edward Sharpe & The Magnetic Zeros](https://www.youtube.com/watch?v=rjFaenf1T-Y)
