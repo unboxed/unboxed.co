@@ -28,7 +28,7 @@ Buckinghamshire County Council ([@buckscc](https://twitter.com/buckscc))<br/>
 ![Matthew Cain speaking](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2011.26.05_zpsahx2dkzt.png)
 
 <b>What people think <i>“digital transformation”</i> might mean</b><br/>
-Some think it means savings. Some think it’s your current web team and system associates. But what does “digital transformation” really mean?<br/>
+Some think it means savings. Some think it’s your current web team and system associates. But what does <i>“digital transformation”</i> really mean?<br/>
  
 First, identify the areas you need to address:<br/>
  
@@ -45,30 +45,34 @@ With financial pressures everywhere, you need to run the hardest thing first to 
 - Surface your customer satisfaction survey data and have a very sound evidence base – let the data drive you
 - Provide your team with protection to fail – to do things knowing that they might make mistakes along the way
  
+![Bucks CC](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2014.37.02_zps9989a1ns.png) 
+ 
 From the inside of your organisation:<br/>
+
 - Listen to what your customers want to achieve by using your current service systems
 - Realise that digital transformation is more than just updating a website
 - Don’t do things you think the customer wants, listen to your evidence base
  
 From the outside of your organisation:<br/>
+
 - You need to be able to say: <i>"<b>This</b> is what a digital service is”</i>
 - Give something to people to show them what it is
-- Realise that a digital service isn’t an online contact form
+- Realise that a digital service isn’t an online contact form<br/>
 <br/>
 
 # Talk 2: Designing digital services for local government
 
 Leon Odey-Knight ([@leonintheblind](https://twitter.com/leonintheblind))<br/>
 Creative Lead<br/>
-Unboxed<br/>
+Unboxed ([@ubxd](https://twitter.com/Ubxd))<br/>
 
 <i>Leon is Creative Lead at Unboxed. In this session, he shared the realities of bringing design into the local government environment, the individual challenges to overcome and what this looks like in practice.</i><br/>
 
-![Leon Odey-Knight](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2012.10.55_zpswctmzrbe.png)
-
 <b>Everyone is a designer</b><br/>
 Everyone should be a designer, even if they’re not a designer – it’s within everyone’s remit. When everyone in the team acts as a designer, it gives more insight and leads to less guess work. There are pockets of insight that other team members will have that a designer won’t.<br/>
- 
+
+![Leon Odey-Knight session](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2012.10.55_zpswctmzrbe.png)
+
 <b>Think like the customer</b><br/>
 You need to be able to constantly validate what you’re doing with your customers:
  
@@ -93,6 +97,8 @@ The only way to be sure you’re designing a service that will add value to your
 - Gain a deeper understanding from their feedback
 - Use this new insight to move forward
 
+![Test test test](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2014.26.58_zps37gk7azd.png)
+
 <b>Making space to be creative</b><br/>
 Geting into the right frame of mind can be challenging, you need a bit of space to ‘think different’<br/>
 
@@ -109,7 +115,7 @@ Ian Hirst ([@TWBC_Innovation](https://twitter.com/TWBC_Innovation))<br/>
 Head of Digital Services & Transformation<br/>
 Tunbridge Wells Borough Council ([@TWellsCouncil](https://twitter.com/TWellsCouncil))<br/>
  
-Ian is helping local government deliver online services that the average person can use without frustration, hindrance or recourse to the telephone when things go wrong. In his session, he shared how Tunbridge Wells Borough Council have adopted a service design platform in creating their future services and how this works internally.<br/>
+<i>Ian is helping local government deliver online services that the average person can use without frustration, hindrance or recourse to the telephone when things go wrong. In his session, he shared how Tunbridge Wells Borough Council have adopted a service design platform in creating their future services and how this works internally.</i><br/>
 
 <b>Why agile?</b><br/>
 When delivering services digitally, look at the difference between how you’ve been doing this and you might like to do this. If there’s a time at which you know the absolute least, it’s at the start of a project:<br/>
@@ -124,7 +130,7 @@ Begin your service design with an Inception Workshop – cover your:<br/>
 - Vision - It’s important to have a shared vision about what you’re trying to achieve
 - Elevator pitch – What do you want the service to be? Use this to share your vision with others
 - Stakeholder mapping - Identify all the different actors in the delivery of the service and arrange them on post-its on the wall
-- Personas - map these out
+- Personas - Map these out
 
 ![Tunbridge Wells](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2011.31.34_zpslzcccewm.png)
 
@@ -136,7 +142,7 @@ Follow your Inception Workshop with a Design Workshop. Draw out the future servi
 
 Martyn Evans ([@martynrevans](https://twitter.com/martynrevans))<br/>
 Head of Product<br/>
-Unboxed<br/>
+Unboxed ([@ubxd](https://twitter.com/Ubxd))<br/>
 
 <i>As Head of Product, Martyn has worked on a number of public sector transformation projects, including the current Buckinghamshire County Council service digitisation project and the digital sexual health service, SH:24 (in partnership with the NHS). Martyn’s session introduced LoGov - the new platform for local government services.</i><br/>
 
@@ -148,18 +154,18 @@ LoGov is the new, co-funded, sustainable way for councils to digitise paper/phon
 
 Currently in the Beta phase, this the starting point for the services on this digital platform. It has been developed by starting with the current problem with local government services, not the solution.<br/>
  
-LoGov is a platform for shared services; in a similar way that [GDS](https://gds.blog.gov.uk) (Government Digital Service) have ‘government as a platform’ - it’s about providing the building blocks to build these services.<br/>
+LoGov is a platform for shared services; in a similar way that [GDS](https://gds.blog.gov.uk) (Government Digital Service) have ‘government as a platform’ - it’s about providing the building blocks to build the services that residents need.<br/>
  
-Set up as a CIC (Community Interest Company) and a social enterprise, the aim of LoGov is to give people the confidence in local government that the platform is not in it for the money but to solve three main problems:<br/>
+Set up as a CIC (Community Interest Company) and a social enterprise, the aim of LoGov is to give people the confidence in local government that the platform is not in it for the money, but to solve three main current problems:<br/>
  
 <b>1.  No access to digital expertise</b><br/>
 Digital expertise in councils is placed in certain areas – IT, for example. Within the service delivery team, there are very few digital expertise – very few designers, very few developers who can build and deliver things quickly. The service delivery team tend to be focused on “business as usual” with not much strategic thinking.<br/>
  
-The answer to this problem: A team of agile pioneers is needed:<br/>
+The answer to this problem - a team of agile pioneers is needed:<br/>
 
 ![Agile pioneers](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2011.38.00_zpslordwse4.png)
  
-A team of these agile specialists can come into an organisation, communicate the ‘why’ (why they’re doing what they’re doing) and they can integrate, embed and co-locate within a council team.<br/>
+A team of these agile specialists can come into an organisation, communicate the ‘why’ (why they’re doing what they’re doing) and integrate, embed and co-locate themselves within a council team.<br/>
  
 <b>2. Too many services to be digitalised</b><br/>
 There are around 600 current services in local government that have yet to be digitalised. Within councils it’s very difficult to identify the services to be transformed, prioritise them and know where to start and which ones to do first. These are often services with a high volume of cost or high cost/low volume. Start with the hardest service first and don’t be afraid to fail fast. Run the Discovery work on the service and find out quickly if it can be done.<br/>
