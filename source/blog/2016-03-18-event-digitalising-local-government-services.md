@@ -1,7 +1,10 @@
 ---
-author: ""
-tags: null
-main_image: ""
+author: Graeme McCubbin
+tags: 
+  - Agile
+  - Culture
+  - Innovation
+main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2011.26.05_zpsahx2dkzt.png"
 date: "2016-03-18 10:46 +0000"
 published: true
 title: "Event: Digitalising Local Government Services"
