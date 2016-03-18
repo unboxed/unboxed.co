@@ -4,7 +4,7 @@ tags:
   - Agile
   - Culture
   - Innovation
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2011.26.05_zpsahx2dkzt.png"
+main_image: "http://i1291.photobucket.com/albums/b548/grammccram/IMG_2601_zps42th3rl9.jpg"
 date: "2016-03-18 10:46 +0000"
 published: true
 title: "Event: Digitalising Local Government Services"
