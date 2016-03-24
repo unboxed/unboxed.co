@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Jai [Murray S](/people#murray-steele)
+## Jai - [Murray S](/people#murray-steele)
 
 https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md
 
