@@ -18,8 +18,19 @@ https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md
 
 http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/
 
-Can you call yourself a programmer if you can't/are too lazy to write your own basic programming functions?
-Plus some rationale from the other [side](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
+Can you call yourself a programmer if you can't/are too lazy to write your own basic programming functions? Plus some rationale from [the other side](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328).
+
+## Left pad as a service - [Jack B](/people#jack-bracewell)
+
+http://left-pad.io/
+
+Are your strings feeling distinctly un-left-padded since everyone’s favourite npm package was removed this week? Never fear, left pad as a service is here to save the day.
+
+## Windows of the World - [Tom S](/people#tom-sabin)
+
+http://www.andrevicentegoncalves.com/#!/index/G00004m4OOrWV5YE
+
+A beautiful collection of windows from around the world. The photographer also has another collection of doors in case that takes your fancy.
 
 ## Track of the Week - [Tina C](https://twitter.com/itstinachan)
 
