@@ -49,6 +49,12 @@
   color: $white;
 }
 
+.highlight--bucks-cc {
+  @extend %highlight;
+  background-color: #9BCC3C;
+  color: $white;
+} 
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
