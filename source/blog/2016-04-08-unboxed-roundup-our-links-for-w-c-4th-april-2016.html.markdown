@@ -14,4 +14,10 @@ https://bar.foo/voice.html
 
 I don't really know much about how voice-recognition software works and although there are plenty of techincal details in this article, I don't think I'd say I know much more about it.  That's not really the point of the article though.  What I enjoyed the most and recognised as universal to all software development is the problem of not anticipating the bugs that occur with real world usage.  Ship early, ship often, and when it breaks (it will break) be ready to react.  They're not using it wrong, you just didn't anticipate the world using your software that way.  It's great that they are, so you'd better accomodate that way of using it or they'll move on.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Crystal](/people#chris-carter)
+
+Saw Caro a few months ago at a gig at the Hammersmith Apollo. This is one of my favourite songs from that great evening!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6sQGQEmZS10" frameborder="0" allowfullscreen></iframe>
+
+["Riviera Life" by Caro Emerald](https://www.youtube.com/watch?v=6sQGQEmZS10)
