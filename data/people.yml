@@ -241,18 +241,6 @@
     - name: "GitHub"
       link: "https://github.com/grantspeelman"
 
-- name: "Tyrone Toplis"
-  short_name: "tyrone-toplis"
-  role: "Tester"
-  email: "tyrone.toplis"
-  bio: |
-    Experience in marketing, fleet management, security and payroll systems both as a developer and tester (.net - sorry) I now find myself in a new business sphere analyzing, testing and coding (just a tad) with all you crazy ruby and rails cats.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/tyrone-toplis-85253020"
-    - name: "GitHub"
-      link: "https://github.com/tyson147"
-
 - name: "Concetta Isolano"
   short_name: "concetta-isolano"
   role: "Developer"
@@ -433,3 +421,19 @@
       link: "https://uk.linkedin.com/in/david-basalla-6107151"
     - name: "GitHub"
       link: "https://github.com/davidbasalla"
+
+- name: "Cale Tilford"
+  short_name: "cale-tilford"
+  role: "Developer"
+  email: "cale.tilford"
+  bio: |
+    I’m currently studying Computing at Imperial College London, however, my interest in web and software development started much earlier. 
+    Like many of my generation, the web has had a profound influence on my youth. As an developer at Unboxed, I’m excited to begin contributing to the platform that has been so integral to my life so far.
+    When I’m not lost in the digital world I enjoy reading comics, listening to records, drinking coffee, and writing. 
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/tlfrd"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/cale-evan-tilford-bb519855"
+    - name: "GitHub"
+      link: "https://github.com/tlfrd"
