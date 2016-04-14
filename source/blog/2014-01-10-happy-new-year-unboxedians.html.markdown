@@ -20,7 +20,7 @@ For a long time now I have been stuck in the world of using a simply console.log
 
 http://devgigs.blogspot.co.uk/2014/01/mastering-nodejs-logging.html
 
-## Interesting Video we watched regarding Test boundaries - [Tyrone](/people#tyrone-toplis)
+## Interesting Video we watched regarding Test boundaries - Tyrone
 
 https://www.youtube.com/watch?v=yTkzNHF6rMs
 
