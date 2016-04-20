@@ -72,7 +72,7 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## Track of the Week - [Anson K](/people#anson-kelly)
+## Track of the Week - Anson K
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/nzY2Qcu5i2A" frameborder="0" allowfullscreen></iframe>
 
