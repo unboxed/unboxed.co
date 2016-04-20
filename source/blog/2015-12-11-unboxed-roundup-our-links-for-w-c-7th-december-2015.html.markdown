@@ -20,7 +20,7 @@ https://blog.8thlight.com/colin-jones/2015/12/01/ask-dtrace-why-are-my-tests-so-
 
 Use the power of DTrace to diagnose the real reason why your test suite is so slow
 
-## Dry Validation - [Anson K](/people#anson-kelly)
+## Dry Validation - Anson K
 
 http://solnic.eu/2015/12/07/introducing-dry-validation.html
 

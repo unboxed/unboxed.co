@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Write great git commit messages - [Anson K](/people#anson-kelly)
+## Write great git commit messages - Anson K
 
 http://chris.beams.io/posts/git-commit/
 
@@ -44,7 +44,7 @@ https://www.pinterest.com/pin/356347389244525558/
 
 A rapid checklist for a varied batch of rising digital marketing trends, as #omnichannel continues it's inevitable growth.
 
-## What makes React worth using - [Anson K](/people#anson-kelly)
+## What makes React worth using - Anson K
 
 http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/
 

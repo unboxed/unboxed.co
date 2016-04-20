@@ -28,7 +28,7 @@ things and is an interesting read (though long).  Being deliberate about the
 things we do is valuable so hopefully this will help generate conversations
 about how to get to good names in software.
 
-## Images as a Service - [Anson K](/people#anson-kelly)
+## Images as a Service - Anson K
 
 https://www.youtube.com/watch?v=zhW1E6_YpC4
 By Andy Croll of Brighton Ruby fame

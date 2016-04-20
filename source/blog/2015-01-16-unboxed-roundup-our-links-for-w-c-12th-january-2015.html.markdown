@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Service Objects + Forms - [Anson](/people#anson-kelly)
+## Service Objects + Forms - Anson K
 
 https://netguru.co/blog/service-objects-in-rails-will-help
 

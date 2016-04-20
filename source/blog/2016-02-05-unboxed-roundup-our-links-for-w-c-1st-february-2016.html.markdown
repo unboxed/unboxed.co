@@ -27,7 +27,7 @@ https://medium.com/on-human-centric-systems/on-net-promoter-and-data-golems-a4af
 
 Matt LeMay explains why Net Promoter scores should not be the be-all and end-all of how you measure the success of your product and the difficulty it has in representing complex social models of interaction.
 
-## Web Development: Keep It Simple - [Anson K](/people#anson-kelly)
+## Web Development: Keep It Simple - Anson K
 
 https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f
 
