@@ -65,7 +65,7 @@ offices:
 </header>
 
 <div class="container--grid" data-header-waypoint>
-  <% current_page.data.offices.each do |office| %>
+  <% (office_location(current_page.data.offices)).each do |office| %>
     <div class="contact-page-tile">
       <div class="contact-page-tile__container">
 

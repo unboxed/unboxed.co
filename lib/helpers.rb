@@ -30,4 +30,14 @@ module Helpers
   def add_atom_feed_to_head
     content_for(:head) { feed_tag :atom, "#{blog(:blog).options.prefix.to_s}/feed.xml", title: "The Unboxed Blog" }
   end
+
+  def office_location(offices)
+    location = JSON.parse(open('http://ipinfo.io').read)
+    # ZA for South Africa
+    if location["country"] == "ZA"
+      return offices.reverse
+    else
+      return offices
+    end
+  end
 end

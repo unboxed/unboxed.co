@@ -1,4 +1,5 @@
 require './lib/helpers.rb'
+require 'json'
 include Helpers
 
 describe Helpers do
@@ -25,6 +26,25 @@ describe Helpers do
 
     it 'includes the website name, the short timestamp of the article, the article slug' do
       expect(atom_id(article)).to eq "tag:unboxed.co,2014-10-29:i-like-hats"
+    end
+  end
+
+  describe 'office_location' do 
+    helpers = Helpers
+    let(:offices) { ["london", "capetown"] }
+    let(:country_gb) { '{"country": "GB"}' }
+    let(:country_za) { '{"country": "ZA"}' }
+
+    it "should return the offices in their original order when the country is not South Africa (ZA)" do
+      allow(helpers).to receive_message_chain(:open, :read).and_return(country_gb)
+
+      expect(helpers.office_location(offices)).to eq ["london", "capetown"]
+    end
+
+    it "should return the offices in reverse order when the country is South Africa (ZA)" do
+      allow(helpers).to receive_message_chain(:open, :read).and_return(country_za)
+
+      expect(helpers.office_location(offices)).to eq ["capetown", "london"]
     end
   end
 end
