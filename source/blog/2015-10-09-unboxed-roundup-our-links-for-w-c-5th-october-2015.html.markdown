@@ -14,7 +14,7 @@ http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/
 
 Can you write bug free code? The short answer is yes, but is it actually worth it?
 
-## 7 agile 'best practices' - [Patrick V](/people#patrick-vine)
+## 7 agile 'best practices' - Patrick V
 
 http://www.estherderby.com/2015/10/seven-agile-best-practices.html
 

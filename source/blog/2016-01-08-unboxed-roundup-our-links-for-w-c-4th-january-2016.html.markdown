@@ -18,7 +18,7 @@ Pinboard, dissects problem and discovers that even the programs from the likes
 of Google and Facebook designed to address the problem can't avoid falling into
 the same traps.
 
-## Naming is a process ⇒ insights into such a process - [Patrick V](/people#patrick-vine)
+## Naming is a process ⇒ insights into such a process - Patrick V
 
 http://arlobelshee.com/good-naming-is-a-process-not-a-single-step/
 
@@ -42,7 +42,7 @@ Serving images should be a 'solved' problem, just like it is for 'hosting' or
 authentication. However lots of solutions make poor default suggestions. What
 can we do for our users with 100 lines of code, Sinatra, a single gem and a CDN?
 
-## Track of the Week - [Patrick V](/people#patrick-vine)
+## Track of the Week - Patrick V
 
 Goldfish are South African and make a sound that I enjoy, but more importantly my girls love their music videos.
 

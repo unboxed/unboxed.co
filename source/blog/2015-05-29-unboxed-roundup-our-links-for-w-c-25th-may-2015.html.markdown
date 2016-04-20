@@ -9,7 +9,7 @@ tags:
 
 ---
 
-## The Perils of Semantic Coupling - [Patrick V](/people#patrick-vine)
+## The Perils of Semantic Coupling - Patrick V
 
 * http://www.michaelnygard.com/blog/2015/04/the-perils-of-semantic-coupling/
 
