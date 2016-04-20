@@ -22,12 +22,15 @@ additional_services:
   title: "What we also do"
   content:
     - title: "Rescue your product"
-      text: "If a red light is flashing and something has gone wrong. Don’t panic. If it can be fixed, we can fix it."
+      image: "/assets/images/homepage/rescue-product.jpg"
+      text: "If a red light is flashing and something has gone wrong - don’t panic. If it can be fixed, we can fix it."
 
     - title: "Your next phase"
-      text: "Discovery, Alpha, Beta. Whichever phase you are heading into, let us jump in to provide clarity and insight for your journey through to live."
+      image: "/assets/images/homepage/next-phase.jpg"
+      text: "Whichever phase you are heading into, let us jump in to provide clarity and insight for your journey through to live."
 
     - title: "Support you"
+      image: "/assets/images/homepage/support-you.jpg"
       text: "If we built it, we will support it. We will love your product for as long as you and your users love it."
 
 projects:
@@ -123,6 +126,7 @@ blog_title: "What we have been blogging about"
           <h3 class="homepage-service__title">
             <%= service.title %>
           </h3>
+          <%= image_tag service.image, alt: service.title, class: "homepage-service__image", srcset: retina_srcset(service.image) %>
           <p class="homepage-service__paragraph">
             <%= service.text %>
           </p>
