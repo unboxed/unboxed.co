@@ -35,6 +35,9 @@ configure :development do
   activate :livereload
 end
 
+require 'json'
+require 'open-uri'
+
 require 'lib/helpers'
 helpers Helpers
 
