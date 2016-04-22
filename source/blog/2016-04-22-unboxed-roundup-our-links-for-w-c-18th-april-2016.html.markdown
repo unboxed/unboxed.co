@@ -25,5 +25,14 @@ This URL explains the magic of the full rebase command: 'git rebase --onto <graf
 
 There's no denying that the `curl | bash` pattern is super convenient for people installing software.  So it's not surprising it's quite as prevalent as it is.  There's plenty of articles out there that describe why you should be wary of installing software this way, and the first article is another of those but this time it describes an interesting exploit.  After reading the first article I don't think I'll be using the pattern to install software from an arbitrary server I've never encountered before, but after reading the second I'm more reassured about it as a pattern from software vendors and servers that I do trust.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Andrew W](/people#andrew-white)
 
+The sad news this week of Prince's untimely means there's only one possible
+artist to choose from but with such a wide repertoire to select from it's
+still a difficult job. For me 1984 was a memorable year with so much good
+music in it, so his breakthrough hit of 'When Doves Cry' from that year
+is my personal choice and still sounds amazing even 32 years later.
+
+<iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/L05G1iM69bB3RhMzOrzb/mov/1" frameborder="0" scrolling="no" width="640" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+
+['When Doves Cry' by Prince](http://videos.sapo.pt/L05G1iM69bB3RhMzOrzb)
