@@ -27,8 +27,8 @@ There's no denying that the `curl | bash` pattern is super convenient for people
 
 ## Track of the Week - [Andrew W](/people#andrew-white)
 
-The sad news this week of Prince's untimely means there's only one possible
-artist to choose from but with such a wide repertoire to select from it's
+The sad news this week of Prince's untimely passing means there's only one possible
+artist to choose from, but with such a wide repertoire to select from it's
 still a difficult job. For me 1984 was a memorable year with so much good
 music in it, so his breakthrough hit of 'When Doves Cry' from that year
 is my personal choice and still sounds amazing even 32 years later.
