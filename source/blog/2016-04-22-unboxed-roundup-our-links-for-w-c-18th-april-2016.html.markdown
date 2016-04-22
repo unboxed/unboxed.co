@@ -33,6 +33,4 @@ still a difficult job. For me 1984 was a memorable year with so much good
 music in it, so his breakthrough hit of 'When Doves Cry' from that year
 is my personal choice and still sounds amazing even 32 years later.
 
-<iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/L05G1iM69bB3RhMzOrzb/mov/1" frameborder="0" scrolling="no" width="640" height="360" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
-
 ['When Doves Cry' by Prince](http://videos.sapo.pt/L05G1iM69bB3RhMzOrzb)
