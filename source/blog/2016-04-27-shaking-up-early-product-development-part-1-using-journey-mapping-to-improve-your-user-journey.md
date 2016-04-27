@@ -8,7 +8,7 @@ date: "2016-04-27 11:47 +0100"
 published: true
 title: "Shaking up early product development, part 1: Using journey mapping to improve your user journey"
 ---
-We're all trying to create a product or service that is valuable to our users. So it’s important to remember that the only people who can really think like our users <i>are</i> our users. Looking at your product or service through the eyes of our users is vital in creating the right platform for them.<br/>
+We're all trying to create a product or service that is valuable to our users. So it’s important to remember that the only people who can really think like our users <i>are</i> our users. Looking at our product or service through the eyes of our users is vital in creating the right platform for them.<br/>
 
 Journey mapping is a very useful way of developing the user journey of your customer through your service. It’s a way of getting into the shoes of your users and seeing your service from their eyes. Instead of thinking about the problems <i>you</i> have, it’s about thinking about the problems that <i>they</i> have - and how you can add value by solving these problems.<br/>
 
