@@ -40,7 +40,7 @@ Worth a read.
 
 http://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/
 
-As part of a recent discussion with some colleagues about deployments and whether or not to run database migrations by default made me realise that while I'd internalised the "fact" that automatically running migrations as part of a deploy was bad, but I couldn't recall any of the arguments for why.  This article gave me a good refresher on those arguments, and even better I find that I still agree with them.  I just hope I remember them this time.
+A recent discussion with some colleagues about deployments and whether or not to run database migrations by default made me realise that I'd internalised the "fact" that automatically running migrations as part of a deploy was bad, but I couldn't recall any of the arguments for why.  This article gave me a good refresher on those arguments, and even better I find that I still agree with them.  I just hope I remember them this time.
 
 ## Track of the Week - [Cale T](/people#cale-tilford)
 
