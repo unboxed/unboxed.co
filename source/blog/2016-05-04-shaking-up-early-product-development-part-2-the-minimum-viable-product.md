@@ -45,7 +45,7 @@ Sometimes referred to as <i>“The Wizard of Oz”</i> – the concierge refers 
 
 ![MVP 6](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-04-20%20at%2012.26.50_zpsbvf6rhz8.png)
 
-This is one of the simplest and cost-effective ways of putting something in front of users without having to spent much time building. Use paper sketches to allow users to ‘click’ and explore the interface before any code is written. Encourage them them to ‘use’ features and describe what it is they would like to do. You then begin to build up a picture of which features people want and which features to dispose of, before spending any further time on exploring them, let alone building them.<br/>
+This is one of the simplest and cost-effective ways of putting something in front of users without having to spend much time building. Use paper sketches to allow users to ‘click’ and explore the interface before any code is written. Encourage them to ‘use’ features and describe what it is they would like to do. You then begin to build up a picture of which features people want and which features to dispose of, before spending any further time on exploring them, let alone building them.<br/>
 <br/>
 
 # Where to start?
