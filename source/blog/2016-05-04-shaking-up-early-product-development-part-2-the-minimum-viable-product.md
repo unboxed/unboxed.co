@@ -22,7 +22,6 @@ Here are just a few of the MVP strategies you can try:<br/>
 ![MVP 1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-04-15%20at%2012.02.30_zpsdgvl8ebr.png)
 
 Test your assumptions by going out and interviewing your user. Ask them a range of open questions to find out about them and learn about them. You might discover that what you thought was a problem wasn’t a problem for a user or the thing you thought would solve their problem, actually doesn’t. It might uncover something else that is more important to your user.<br/>
-<br/>
 
 <b>Fake doors</b><br/>
 
