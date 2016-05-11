@@ -61,6 +61,12 @@
   color: $white;
 } 
 
+.highlight--pearson {
+  @extend %highlight;
+  background-color: #007FA3;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
