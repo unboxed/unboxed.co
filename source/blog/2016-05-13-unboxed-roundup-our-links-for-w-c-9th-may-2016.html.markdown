@@ -32,4 +32,10 @@ http://electron.atom.io/blog/2016/05/11/electron-1-0
 
 Electron, previously the Atom Shell, has reached a trust inspiring version one. Electron is a way to build native apps with HTML/CSS/JS for desktop (rather than for mobile which is more heard of). The Atom text editior, Slack, the Brave browser and Basecamp app are all built on Electron. Might be fun?
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Graeme M](/people#graeme-mccubbin)
+
+I was having conversation with [Sarah](/people#sarah-beck) about 90’s songs (one of many conversations), when she said “Even Scatman has come up under recommended on YouTube”. I thought “Scatman?” so YouTubed, only to realise that the 'Ba-da-ba-da-ba-be bop bop bodda bope’ part of this song has been in my head for about three years, with absolutely no clue as to who it was by or what song it was. So this is dedicated to all those who have lyrics from songs in their head and no idea who it’s by. You are not alone.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y6oXW_YiV6g" frameborder="0" allowfullscreen></iframe>
+
+[The Scatman by Scatman John](https://www.youtube.com/watch?v=y6oXW_YiV6g)
