@@ -16,7 +16,7 @@ I branched 'master' to 'feature-a', then branched 'feature-a' to 'feature-b'.
 
 However, now the 'feature-a' branch has merge conflicts, and rebasing 'feature-b' is becoming a nightmare.
 
-This URL explains the magic of the full rebase command: 'git rebase --onto <graft-point> <exclude-from> <include-from>'.
+This URL explains the magic of the full rebase command: `git rebase --onto <graft-point> <exclude-from> <include-from>`.
 
 ## `curl | bash` is it good or bad? - [Murray S](/people#murray-steele)
 
