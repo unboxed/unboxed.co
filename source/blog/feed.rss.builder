@@ -1,30 +1,30 @@
 xml.instruct! :xml, :version => "1.0"
-xml.rss :version => "2.0" do
+xml.rss :version => "2.0", "xmlns:atom" => "http://www.w3.org/2005/Atom" do
   xml.channel do
     site_url = "http://unboxed.co/"
     xml.title "The Unboxed Blog"
     xml.description "Ruby on rails, Agile, Scrum and other life changing topics."
     xml.link URI.join(site_url, blog(:blog).options.prefix.to_s)
+    xml.language "en-GB"
+    xml.generator 'https://github.com/unboxed/ubxd_web_refresh'
 
-    blog(:blog).articles[0..50].each do |article|
+    articles = blog(:blog).articles[0..50]
+    xml.pubDate articles.first.date.to_time.rfc822 unless articles.empty?
+
+    xml.tag! 'atom:link', 'href' => URI.join(site_url, current_page.path), 'rel' => 'self', 'type' => 'application/rss+xml'
+
+    articles.each do |article|
       xml.item do
-
         xml.title article.title
         xml.description article.body
-        xml.date article.date.to_time.rfc822
+        xml.pubDate article.date.to_time.rfc822
         xml.link URI.join(site_url, article.url)
-        xml.guid atom_id(article)
+        xml.guid atom_id(article), "isPermaLink" => "false"
 
         author = data.people.detect { |person| person.name.downcase == article.data.author.downcase }
         if author
-          xml.creator author.name
-          xml.tag! "dc:creator", author.name
-        else
-          xml.creator article.data.author
-          xml.tag! "dc:creator", article.data.author
+          xml.author "#{author.email}@unboxed.co (#{author.name})"
         end
-
-        xml.tag! "dc:date", article.date.to_time.rfc822
       end
     end
   end
