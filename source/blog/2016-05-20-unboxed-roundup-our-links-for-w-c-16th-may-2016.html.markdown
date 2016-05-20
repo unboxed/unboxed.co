@@ -24,6 +24,22 @@ In these situations, items taken into the infectious area of the clinic can ever
 
 If you've not been to a Hack Day before, consider signing up - it's friendly and welcoming, and you'll meet some great people.
 
+## Our place in the universe - [Matt T](/people#matt-turrell)
+
+http://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html
+
+Another blog post from the site I shared (courtesy of fellow Unboxeder [Tom S](/people#tom-sabin)) that I’ve been thinking about a lot since reading it a week or so ago.
+
+The thing that’s stuck with me from this post is how small our troubles are when you compare them with the rest of the universe (sounds obvious I know, but the way he writes is compelling) …
+
+If you’re stressed about something, read it … it puts things in perspective!
+
+## Batsh - [Tom R](http://tomrussell.co.uk/)
+
+https://github.com/BYVoid/Batsh
+
+A language that compiles to both bash and windows batch scripts, because windows sysadmins need love too.
+
 ## Track of the Week - [Neil v B](/people#neil-van-beinum)
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/YyZVS_b6r4E" frameborder="0" allowfullscreen></iframe>
