@@ -1,0 +1,28 @@
+---
+weekly_roundup: true
+title: 'Unboxed Roundup: Our links for w/c 16th May 2016'
+date: '2016-05-20 13:30:00 UTC'
+author: 'Murray Steele'
+tags: # (Delete as appropriate)
+- Culture
+
+---
+
+## Product Mangers vs Scrum Masters - [Richard S](/people#richard-stobart)
+
+http://blog.aha.io/product-manager-vs-the-scrum-master-differences/
+
+We often have long discussions in our Introduction to Agile training course about the different responsibilities of the Product Owner and the Scrum Master.  Ron Yang  gives a great explanation.
+
+## NHS Hack Day Fun - [Oskar P](/people#oskar-pearson)
+
+http://nhshackday.com
+
+I spent a very interesting weekend at the NHS Hack Day last weekend. Our team took on the challenge of modifying an open source patient management system to support doctors and nurses responding to infectious disease outbreaks such as Ebola and Cholera. The system had to be shippable in a plastic create, and work without IT skills in harsh environments.
+
+In these situations, items taken into the infectious area of the clinic can ever leave, so we needed a reliable system that supported a great User Experience on disposable tablets, while wearing heavy gloves and other Personal Protective Equipment. The team comprised user-experience experts, developers, and devops engineers.
+
+If you've not been to a Hack Day before, consider signing up - it's friendly and welcoming, and you'll meet some great people.
+
+## Track of the Week - [](/people#)
+
