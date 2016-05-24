@@ -19,5 +19,3 @@ Alongside these debated petitions are a further 210 to have received a Governmen
 Read about [how we collaborated with Government Digital Service (GDS) last year to relaunch Petitions platform for UK citizens](https://unboxed.co/project-stories/petitions/).<br/>
 
 ![Petitions Twitter](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-05-24%20at%2014.06.06_zpsjp16jw4d.png)
-
-
