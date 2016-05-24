@@ -5,7 +5,7 @@ title: Parliament Petitions hits milestone number of debates in House of Commons
 ---
 The [Parliament Petitions](https://petition.parliament.uk/) platform has hit a milestone number of debates since its relaunch last July.<br/>
 
-Over 25 petitions have crossed the 100,000 signature threshold to be considered for debated in the House of Commons, totalling over 5,300,000 individual signatures, with a further 5 petitions awaiting debate.<br/>
+Over 25 petitions have crossed the 100,000 signature threshold to be considered for debated in the House of Commons, totalling over 5,300,000 individual signatures, with a further five petitions awaiting debate.<br/>
 <br/>
 
 ![Petitions](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-05-24%20at%2013.51.18_zpsx7mpxglq.png)
