@@ -18,7 +18,6 @@ Alongside these debated petitions are a further 210 to have received a Governmen
 
 Read about [how we collaborated with Government Digital Service (GDS) last year to relaunch Petitions platform for UK citizens](https://unboxed.co/project-stories/petitions/).<br/>
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">25+ debates in the House of Commons with the redesigned <a href="https://t.co/HnMOp2wgYS">https://t.co/HnMOp2wgYS</a>, shout out to <a href="https://twitter.com/yahoo_pete">@yahoo_pete</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://twitter.com/HoCpetitions">@HoCpetitions</a></p>&mdash; Henry Hadlow (@henryhadlow) <a href="https://twitter.com/henryhadlow/status/734754783454765056">May 23, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Petitions tweet](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-05-24%20at%2014.06.06_zpsjp16jw4d.png)
 
 
