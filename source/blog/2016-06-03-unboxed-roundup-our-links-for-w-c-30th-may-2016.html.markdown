@@ -16,3 +16,8 @@ Like most developers I don't really get on with source code linters - I find the
 
 ## Track of the Week - [Paula S](/people#paula-stepinska)
 
+This is enticing summer to come along at last. With a little help from Larry Levan. And until then, let's go dancing.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/5ST9PP-xao8" frameborder="0" allowfullscreen></iframe>
+
+[Let's go dancing by Larry Levan](https://www.youtube.com/watch?v=5ST9PP-xao8)
