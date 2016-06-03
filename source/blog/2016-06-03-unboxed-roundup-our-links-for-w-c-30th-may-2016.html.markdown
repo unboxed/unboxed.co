@@ -1,0 +1,18 @@
+---
+weekly_roundup: true
+title: 'Unboxed Roundup: Our links for w/c 30th May 2016'
+date: '2016-06-03 13:30:00 UTC'
+author: 'Murray Steele'
+tags: # (Delete as appropriate)
+- Culture
+
+---
+
+## `house_style` - [Murray S](/people#murray-steele)
+
+https://altmetric.engineering/maintaining-a-consistent-coding-style-across-projects-with-house-style-5b1c07e0d1ae
+
+Like most developers I don't really get on with source code linters - I find them too rigid and the default choices don't always meet the way I'd prefer to write some code.  That said, I do understand that they provide a useful service; they remove the need for us developers to have debates about the "right" or "wrong" way to write code - we just do what the linter says and move on.  This article from [Scott Matthewman](https://twitter.com/scottm) introduces a new [gem called house_style](https://rubygems.org/gems/house_style) that helps with using a linter across multiple projects.  He also explains where the linters rules come from and, most importantly, how to configure the linter to suit your needs.  As Scott says, my preferred style isn't always your preferred style so we can all use the same linter, but choose different style rules.
+
+## Track of the Week - [Paula S](/people#paula-stepinska)
+
