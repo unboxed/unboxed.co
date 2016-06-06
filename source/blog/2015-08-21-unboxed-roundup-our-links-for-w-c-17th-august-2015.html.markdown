@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Understanding emotional responses at the office - [Willa R](/people#willa-roos)
+## Understanding emotional responses at the office - Willa R
 
 http://alistapart.com//article/understanding-emotional-response
 
