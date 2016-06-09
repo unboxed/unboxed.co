@@ -22,7 +22,6 @@ This May we hosted <i>“Faster than Lightning”</i> code talks. For this event
 
 Here's a selection of the submissions from May:<br/>
 
-<br/>
 ## [Murray S](https://unboxed.co/people/#murray-steele)
  
 I chose this code as it reminded me of similar code that my university lecturer once showed me. This code uses the same features: an array of pointers to functions and use some input value as the index in the array of which function to call on some other input values. The use of language features and the economy of effort is prime proof that you can write code that is aesthetically pleasing, as well as functional.<br/>
