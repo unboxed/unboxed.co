@@ -10,6 +10,8 @@ main_image: >-
   http://i1291.photobucket.com/albums/b548/grammccram/89f18fc1-0e3a-4f1a-a413-1c03448915f9_zpsfgdzlxh0.jpg
 ---
 Each month, we host a Dev Event which is an opportunity for our developers to get together, share ideas, or just catch up with each other.<br/>
+<br/>
+
 
 # May's developer event
 
@@ -18,6 +20,7 @@ This May we hosted <i>“Faster than Lightning”</i> code talks. For this event
 ![Dev event 1](http://i1291.photobucket.com/albums/b548/grammccram/d2c583d6-0533-4119-8a08-f69162bd600f_zpswfmh0tlc.jpg)
 
 
+<br/>
 ## [Murray S](https://unboxed.co/people/#murray-steele)
  
 I chose this code as it reminded me of similar code that my university lecturer once showed me. This code uses the same features: an array of pointers to functions and use some input value as the index in the array of which function to call on some other input values. The use of language features and the economy of effort is prime proof that you can write code that is aesthetically pleasing, as well as functional.<br/>
