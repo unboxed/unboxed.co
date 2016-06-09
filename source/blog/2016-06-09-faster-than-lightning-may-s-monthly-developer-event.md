@@ -18,7 +18,9 @@ Each month, we host a Dev Event which is an opportunity for our developers to ge
 This May we hosted <i>“Faster than Lightning”</i> code talks. For this event, each developer is asked to submit a snippet of code that they found interesting. The code doesn’t have to be advanced, flashy, or something written by themselves. It can be good code or not-so-good. It can be Ruby, CSS, JS, test code, server config or anything else. The idea is to get together with our fellow devs and learn a little about what they’ve been thinking about, with the code as the talking point.<br/>
 
 ![Dev event 1](http://i1291.photobucket.com/albums/b548/grammccram/d2c583d6-0533-4119-8a08-f69162bd600f_zpswfmh0tlc.jpg)
+<br/>
 
+Here's a selection of the submissions from May:<br/>
 
 <br/>
 ## [Murray S](https://unboxed.co/people/#murray-steele)
