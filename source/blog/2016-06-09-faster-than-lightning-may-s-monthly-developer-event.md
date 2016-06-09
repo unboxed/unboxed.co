@@ -1,12 +1,18 @@
 ---
 date: '2016-06-09 13:14 +0100'
-published: false
+published: true
 title: 'Faster than Lightning: May’s monthly developer event'
+author: Neil van Beinum
+tags:
+  - Innovation
+  - Rails
+main_image: >-
+  http://i1291.photobucket.com/albums/b548/grammccram/89f18fc1-0e3a-4f1a-a413-1c03448915f9_zpsfgdzlxh0.jpg
 ---
 Each month, we host a Dev Event which is an opportunity for our developers to get together, share ideas, or just catch up with each other.<br/>
 <br/>
 
-This May, we hosted “Faster than Lightning” code talks. For this event, each developer is asked to submit a snippet of code that they found interesting. The code doesn’t have to be advanced, flashy, or something written by themselves. It can be good code or not-so-good. It can be Ruby, CSS, JS, test code, server config or anything else. The idea is to get together with our fellow devs and learn a little about what they’ve been thinking about, with the code as the talking point.<br/>
+This May we hosted <i>“Faster than Lightning”</i> code talks. For this event, each developer is asked to submit a snippet of code that they found interesting. The code doesn’t have to be advanced, flashy, or something written by themselves. It can be good code or not-so-good. It can be Ruby, CSS, JS, test code, server config or anything else. The idea is to get together with our fellow devs and learn a little about what they’ve been thinking about, with the code as the talking point.<br/>
 
 # This month
 
@@ -53,8 +59,6 @@ I chose this code as it reminded me of similar code that my university lecturer 
     }
 ```
 
-
-
  ## [Cale T](https://unboxed.co/people/#cale-tilford)
  
 Over the last week I’ve been working on [SH:24](https://unboxed.co/project-stories/sh24), writing lots of ‘yes’/’no’ questions for a new order form. Writing out the same code repeatedly was inefficient, so I extracted the code out and put it into a partial. This has allowed the code to become easily reusable. Any experienced Rails developer will have done this a hundred times before but this was my first experience of the awesome clarity and time-saving capabilities of Rails’ partials.<br/>
@@ -69,24 +73,9 @@ As part of a project for [Buckinghamshire County Council](https://unboxed.co/pro
 
 ## [Neil van B](https://unboxed.co/people/#neil-van-beinum)
  
-I've recently been adopting a style of writing specs that makes greater use of 'let' and 'context' blocks. This leaves the 'it' blocks often containing just an expectation or two. I've been finding that writing descriptions for the contexts helps me think about what I want to test and that the overall readability is increased. However, larger spec files seem to require more attention with this approach - it often requires you to scan up and down the file to find  where the spec is being set up. The first example below has all of the setup included within the 'it' block while the second snippet makes use of 'context' and ‘before’ blocks to keep the setup separate. Which do you prefer?<br/>
+I've recently been adopting a style of writing specs that makes greater use of `let` and `context` blocks. This leaves the `it` blocks often containing just an expectation or two. I've been finding that writing descriptions for the contexts helps me think about what I want to test and that the overall readability is increased. However, larger spec files seem to require more attention with this approach - it often requires you to scan up and down the file to find  where the spec is being set up. The first example below has all of the setup included within the `it` block while the second snippet makes use of `context` and `before` blocks to keep the setup separate. It also uses `described_class` to refer to the class being tested. Which do you prefer?<br/>
 
-
-describe CompetitorDrop do
-  let(:arena) { create :arena }
-  let(:event)  { create :event, arena: arena }
-
-  let(:competitor) { create :competitor, arena: arena, event_for_competition_entry: event }
-
-  describe 'won?' do
-    let(:subject) { described_class.new(competition_entry) }
-
-    it 'returns won? from competitor' do
-      expect(subject.won?).to eq competitor.won?
-    end
-  end
-end
-
+```
 context '#invites_emailed' do
   it 'counts the number of invites emailed' do
     arena = create :arena
@@ -101,14 +90,32 @@ context '#invites_emailed' do
     expect(list.invites_emailed).to eq 1
   end
 end
+```
+```
+describe CompetitorDrop do
+  let(:arena) { create :arena }
+  let(:event)  { create :event, arena: arena }
 
+  let(:competitor) { create :competitor, arena: arena, event_for_competition_entry: event }
+
+  describe 'won?' do
+    let(:subject) { described_class.new(competition_entry) }
+
+    it 'returns won? from competitor' do
+      expect(subject.won?).to eq competitor.won?
+    end
+  end
+end
+```
 
 ![Dev event 2](http://i1291.photobucket.com/albums/b548/grammccram/344cd372-f4c3-4dcb-908a-f4eaffaa671f_zpsprtsrimc.jpg)
 
+
 ## [Henry T](https://unboxed.co/people/#henry-turner)
 
-At a glance this query seems to start with something that looks like a function call that takes a content_id and returns that content_id. What use is that? It's an unusual query but not complicated. Can you see how it works?<br/>
+At a glance this query seems to start with something that looks like a function call that takes a `content_id` and returns that `content_id`. What use is that? It's an unusual query but not complicated. Can you see how it works?<br/>
 
+```
 WITH RECURSIVE dependents(content_id) AS (
   SELECT '#{content_id}'::TEXT
 UNION
@@ -122,9 +129,4 @@ UNION
 )
 SELECT DISTINCT content_id FROM dependents
 WHERE content_id != '#{content_id}'
-
-
-
-
-
-
+```
