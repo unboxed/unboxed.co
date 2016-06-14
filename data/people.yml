@@ -379,18 +379,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/tyler-savin-6b1b179a"
 
-- name: "Willa Roos"
-  short_name: "willa-roos"
-  role: "Designer"
-  email: "willa.roos"
-  bio: |
-    I’m the UX and visual designer at the Cape Town office.
-    I love the satisfying, brain-bending challenge of creating order from chaos, and topping it off with strategically placed sparkles to produce something delightful.
-    In my free time I can be found hiking, diving, exploring, and generally adventuring around the universe.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/willaroos"
-
 - name: "Matt Turrell"
   short_name: "matt-turrell"
   role: "Scrum master"
@@ -405,22 +393,6 @@
       link: "https://twitter.com/mattunboxed"
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/mattturrell1"
-
-- name: "David Basalla"
-  short_name: "david-basalla"
-  role: "Developer"
-  email: "david.basalla"
-  bio: |
-    My first foray into programming took place during my Computer Animation degree almost 15 years ago, writing simple graphics programs with C/C++ and OpenGL.
-    However I was briefly (for about 10 years) led astray by the power of pretty pictures and thus became a technical artist, working on various Hollywood blockbusters.
-    During this time I did have some opportunities to play with Python, which eventually lured me back into the world of programming.
-    In 2013 I took the dive and completed a Masters in Computer Science at Imperial College, and joined Unboxed shortly thereafter.
-    I love that Unboxed gives me the opportunity to work on varied, high-profile projects in a supportive Agile environment that focuses on developing the right things in the right way.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/david-basalla-6107151"
-    - name: "GitHub"
-      link: "https://github.com/davidbasalla"
 
 - name: "Cale Tilford"
   short_name: "cale-tilford"

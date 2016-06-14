@@ -16,7 +16,7 @@ http://www.bakadesuyo.com/2015/04/psychopaths/
 
 Having spent a lot of time trying to encourage people to think and behave more "innovatively" in corporate environments, "Be more psychopath " could be a useful mantra.
 
-## If you have to explain it, it ain’t working - [Willa R](/people#willa-roos)
+## If you have to explain it, it ain’t working - Willa R
 
 https://medium.com/user-experience-design-1/dear-web-designer-let-s-stop-breaking-the-affordance-of-scrolling-fe8bf258df7b
 
