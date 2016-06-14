@@ -12,7 +12,7 @@ tags:
 
 https://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior
 
-I've seen and experienced a lot of code reviews over the years ranging from useful learning to stylistic pedantry to damaging of relationships. The Ruby Rogues have a conversation around code review culture and how to be effective doing code reviews.  Tone and attitude are keys to making it successful and useful to a team. Don't say "why didn't you just... <do it they way I thought of first>"
+I've seen and experienced a lot of code reviews over the years ranging from useful learning to stylistic pedantry to damaging of relationships. The Ruby Rogues have a conversation around code review culture and how to be effective doing code reviews.  Tone and attitude are keys to making it successful and useful to a team. Don't say "why didn't you just... \<do it the way I thought of first\>"
 
 ## The trouble with events... - Dom M
 

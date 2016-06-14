@@ -56,7 +56,7 @@ https://gds.blog.gov.uk/2015/08/03/onwards/
 
 Mike Bracken has implemented huge changes in the way the UK Government delivers digital services, winning design awards for minimalistic government sites, and influencing Canadian, Australian, American, other governments in the process. Here's his farewell blog, in his usual low-key style.
 
-## Track of the Week - [Willa](/people#willa-roos)
+## Track of the Week - Willa
 
 This is a quirky set of ambient-ish electronic tunes. Not dissimilar to elevator music at times, but with a unique sound that makes you go, "hey, this is kinda cool!"
 
