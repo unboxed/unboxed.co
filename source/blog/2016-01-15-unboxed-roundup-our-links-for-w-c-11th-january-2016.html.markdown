@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Language bashing is detrimental to us all - [Patrick V](/people#patrick-vine)
+## Language bashing is detrimental to us all - Patrick V
 
 http://blog.aurynn.com/86/contempt-culture
 

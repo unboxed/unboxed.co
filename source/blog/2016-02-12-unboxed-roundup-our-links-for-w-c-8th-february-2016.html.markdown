@@ -30,7 +30,7 @@ http://arstechnica.co.uk/information-technology/2016/02/moores-law-really-is-dea
 
 It seems that chip manufacturers are finally drawing a line under Moore’s Law and no longer chasing number of components on the chip as the only metric for advancement.  It'll be interesting to see what the next "our chip is better because..." battles are.
 
-## Feature Toggling - [Patrick V](/people#patrick-vine)
+## Feature Toggling - Patrick V
 
 http://martinfowler.com/articles/feature-toggles.html
 

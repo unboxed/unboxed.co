@@ -33,7 +33,7 @@ http://awesome-ruby.com/
 
 A categorised and community-drven collection of Ruby well-known resources
 
-## Netflix API Resilience - [Patrick V](/people#patrick-vine)
+## Netflix API Resilience - Patrick V
 
 http://techblog.netflix.com/2011/12/making-netflix-api-more-resilient.html
 

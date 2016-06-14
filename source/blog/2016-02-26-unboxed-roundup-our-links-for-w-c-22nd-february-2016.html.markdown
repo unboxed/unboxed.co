@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Stop including all the things - [Patrick V](/people#patrick-vine)
+## Stop including all the things - Patrick V
 
 http://www.mikeperham.com/2016/02/09/kill-your-dependencies/
 

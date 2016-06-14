@@ -14,7 +14,7 @@ http://chris.beams.io/posts/git-commit/
 
 Git commits tell the story of how a code base evolved. Every developer using git writes commit messages - are you a great developer who writes great commit messages?
 
-## Organisational debt - [Patrick V](/people#patrick-vine)
+## Organisational debt - Patrick V
 
 http://steveblank.com/2015/05/19/organizational-debt-is-like-technical-debt-but-worse/
 
