@@ -8,14 +8,14 @@ tags:
   - Culture
 ---
 
-## Monolith vs Microservice First? - [Patrick V](/people#patrick-vine)
+## Monolith vs Microservice First? - Patrick V
 
 * http://martinfowler.com/bliki/MonolithFirst.html
 * http://samnewman.io/blog/2015/04/07/microservices-for-greenfield/
 
 Microservices are the cool kid on the block, but they come with different complexity to a monolithic architecture. Both of these links discuss the trade offs at a highlevel - and in the case of Sam Newman in a particular example - of whether to start with a monolith or a microservice architecture.  Sneak preview: Perhaps a small monolith is a good place to start on a greenfield project.
 
-## Consumer psychology made easy - [Willa R](/people#willa-roos)
+## Consumer psychology made easy - Willa R
 
 [Cognitive Lode](http://coglode.com/) breaks behavioural economics and consumer psychology down into fun, shiny, and easy to understand nuggets
 

@@ -42,7 +42,7 @@ https://github.com/ko1/nakayoshi_fork
 
 Changes in Ruby 2.2 and later to the generational garbage collection algorithm means that new objects that are promoted to old objects end up marking their memory pages as dirty. So when the process is forked (e.g. a new unicorn process to process HTTP requests) and a GC run occurs afterwards it can end up copying memory needlessly, resulting in process memory bloat. The NakayoshiFork gem fixes this by patching the `fork` method to ensure that all new objects are promoted to old objects first before the actual fork takes place.
 
-## Hacking inclusion: How we customised a bot to gently correct people who se the word ‘guys’ - [David B](/people#david-basalla)
+## Hacking inclusion: How we customised a bot to gently correct people who se the word ‘guys’ - David B
 
 https://18f.gsa.gov/2016/01/12/hacking-inclusion-by-customizing-a-slack-bot/
 

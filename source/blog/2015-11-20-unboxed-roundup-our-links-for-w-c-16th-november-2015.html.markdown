@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## A conversation about HTTP2 - [Patrick V](/people#patrick-vine)
+## A conversation about HTTP2 - Patrick V
 
 http://www.se-radio.net/2015/07/episode-232-mark-nottingham-on-http2/
 
