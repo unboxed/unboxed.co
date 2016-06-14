@@ -5,7 +5,7 @@ header:
   client: "Pearson"
   introduction: "The first steps into agile development: Unlocking a new digital learning revenue stream with Pearson"
   image: "/project-stories/pearson/header.jpg"
-  image_description: ""
+  image_description: "A meeting"
 
 introduction:
   title: "A shift to digital from Pearson’s traditional publishing model"
@@ -38,7 +38,7 @@ digital_revenue:
 
 quote_1:
   quote: "We knew we had to move to digital but we just didn’t know how. Having previously invested time and money in a small number of trial projects, our progress had slowed down and we needed to learn how to speed up."
-  source: "Owen White, Head of Digital Programmes, Pearson"
+  source: "Head of Digital Programmes, Pearson"
 
 waterfall:
   title: "Applying agile in a traditional waterfall environment"
@@ -48,7 +48,7 @@ waterfall:
 
 quote_2:
   quote: "Learning on the job was a challenge, but having the Unboxed team working alongside us, and applying what we were learning to this project, really sped up our progress. We were learning the skills we needed to know."
-  source: "Damian Rushton, Product Owner, Pearson"
+  source: "Product Owner, Pearson"
 
 planning_stages:
   title: "Kick-starting legacy projects stuck in the pre-planning stages"
@@ -56,17 +56,17 @@ planning_stages:
   image: "/project-stories/pearson/ideation.jpg"
   image_description: "Lots of ideas written down"
 
-what_we_did_1:
+what_we_did_5:
   title: "What we did with Pearson"
   text: "Feature validation"
 
-what_we_did_2:
+what_we_did_6:
   text: "Ruby on Rails development"
 
-what_we_did_3:
+what_we_did_7:
   text: "User prototyping"
 
-what_we_did_4:
+what_we_did_8:
   text: "Design iteration"
 
 new_products:
@@ -81,23 +81,23 @@ quote_3:
 
 deploying:
   title: "Deploying regularly to speed up progress and gain momentum"
-  content: "Newly deployed stories and features were shared during fortnightly Show & Tells. Key stakeholders were seeing an increase in tangible progress and giving their feedback on a regular basis, directly from the first sprint – something they weren’t used to with traditional “big bang” waterfall releases. Sprint-by-sprint, the buy-in from stakeholders was gradually increasing as positive results were being seen - the project and the team were both quickly gaining momentum."
+  content: "Newly deployed features were shared during fortnightly Show & Tells. Stakeholders were seeing an increase in tangible progress and giving their feedback on a regular basis, directly from the first sprint – something they weren’t used to with traditional “big bang” waterfall releases. Sprint-by-sprint, buy-in from stakeholders was gradually increasing as results were being seen - the project was quickly gaining momentum."
   image: "/project-stories/pearson/website.jpg"
   image_description: "Pearson website"
 
 quote_4:
   quote: "What raised eyebrows was how fast we were able to get something in front of the users. Every two weeks we’d bring back the next iteration for feedback, continuously sharing progress."
-  source: "Bill James, Product Owner, Pearson"
+  source: "Product Owner, Pearson"
 
 launching:
   title: "Quickly launching minimal viable products"
-  content: "After just four sprints, three minimum viable products had been released – one of which had launched publicly at the BETT trade show - the world's leading education technology event, attracting over 35,000 visitors each year. From developing the skillset to accelerate in digital product development, and deliver fast results, the Pearson team are now in a position to continue expanding this to the rest of their portfolio. Opening up this new digital learning revenue stream has paved the direction away from their traditional publishing model."
+  content: "After just four sprints, three minimum viable products had been released – one of which launched publicly at the BETT show - the world's leading education technology event, attracting 35,000+ visitors each year. From developing the skillset to accelerate in digital product development, the Pearson team are now in a position to expand this to the rest of their portfolio. Opening up this new digital learning revenue stream has paved the direction from their traditional publishing model."
   image: "/project-stories/pearson/border.jpg"
   image_description: "A meeting"
 
 quote_5:
   quote: "In just four sprints we had a working prototype to share at one our key calendar events. We have taken the first steps into building our new digital learning product offering and now have a clear roadmap of how to go forward with this."
-  source: "Bill James, Product Owner, Pearson"
+  source: "Product Owner, Pearson"
 
 team:
   title: "Unboxed team"
@@ -148,17 +148,17 @@ related:
 <%= partial 'project-stories/page_header' %>
 
 <div class="container" data-header-waypoint>
-	<%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
 
-	<%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-	<section class="highlight--pearson">
+  <section class="highlight--pearson">
     <h2 class="highlight__title">
       <%= current_page.data.what_we_did_1.title %>
     </h2>
 
     <div class="highlight__tile--two">
-    	<p class="highlight__large-text"></p>
+      <p class="highlight__large-text"></p>
       <p class="highlight__small-text"><%= current_page.data.what_we_did_1.text %></p>
       <p class="highlight__large-text"></p>
       <p class="highlight__small-text"><%= current_page.data.what_we_did_2.text %></p>
@@ -183,20 +183,20 @@ related:
 
    <section class="highlight--pearson">
     <h2 class="highlight__title">
-      <%= current_page.data.what_we_did_1.title %>
+      <%= current_page.data.what_we_did_5.title %>
     </h2>
 
     <div class="highlight__tile--two">
-    	<p class="highlight__large-text"></p>
-      <p class="highlight__small-text"><%= current_page.data.what_we_did_1.text %></p>
       <p class="highlight__large-text"></p>
-      <p class="highlight__small-text"><%= current_page.data.what_we_did_2.text %></p>
+      <p class="highlight__small-text"><%= current_page.data.what_we_did_5.text %></p>
+      <p class="highlight__large-text"></p>
+      <p class="highlight__small-text"><%= current_page.data.what_we_did_6.text %></p>
     </div>
       <div class="highlight__tile--two">
       <p class="highlight__large-text"></p>
-      <p class="highlight__small-text"><%= current_page.data.what_we_did_3.text %></p>
+      <p class="highlight__small-text"><%= current_page.data.what_we_did_7.text %></p>
       <p class="highlight__large-text"></p>
-      <p class="highlight__small-text"><%= current_page.data.what_we_did_4.text %></p>
+      <p class="highlight__small-text"><%= current_page.data.what_we_did_8.text %></p>
     </div>
   </section>
 
