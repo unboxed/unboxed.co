@@ -1,0 +1,199 @@
+---
+title: "Join Us - Developer - Join our team as a developer"
+
+header:
+  title: "join us"
+  subtitle: "ruby on rails developer"
+
+introduction:
+  title: "are you a ruby on rails developer?"
+  text_1: "We are looking for Ruby on Rails developers to join our London and Cape Town offices."
+  text_2: "Recognised as being key members in the community, our developers are responsible for building scalable, sustainable systems from project inception right through to production."
+  text_3: "Our Ruby and Rails experts code to the best of their ability to ensure the highest level of quality in our digital products."
+  image: "/jobs/images/chris.jpg"
+  image_description: "A developer at work"
+
+developer_image:
+  image: "/jobs/images/developers.jpg"
+  image_description: "Developers presenting code"
+
+description:
+  title: "we need someone who can"
+  requirements:
+    - Develop and maintain complex Ruby and Rails applications through agile ways of working
+    - Make well informed decisions quickly drawing from experience across a wide technical stack
+    - Involve your team in discussions on progress of stories
+    - Manage stakeholder expectations whilst turning designs and wireframes into functional applications
+  image: "/jobs/images/chris2.jpg"
+  image_description: "Developers help each other out"
+
+experience:
+  title: "what experience will you need?"
+  requirements:
+    - Experience of pioneering the way people work in an agile environment
+    - Strong object-oriented design skills
+    - Experience in setting up and maintaining UNIX systems
+    - Use of JavaScript tools
+    - An understanding of continuous integration and delivery
+    - Passion for throwing yourself into a variety of different projects, large and small
+  image: "/jobs/images/developers2.jpg"
+  image_description: "Developers meet"
+
+process:
+  title: "what next?"
+  requirements:
+  text_1: "Send us your CV and, if we think you will make a good team member, we will get you to complete a short coding exercise. This gives you the an opportunity to showcase your approach to solving problems and for us to see your code on a clean build project."
+  text_2: "If we like what we see we will invite you in for a pairing session with one of our developers where we will talk over the choices you have made in your solution and get to know you a little better."
+  image: "/jobs/images/developers3.jpg"
+  image_description: "A developer works at his desk"
+
+developer_quote:
+  quote: "My goal is to become the best developer I can be and, for me, this ultimately means being part of a productive and stimulating community that cares about adopting best practices and sharing knowledge. That’s why I joined the Unboxed team. I believe these concepts are at the core of our success in producing high quality web applications."
+  source: "Neil van Beinum, Ruby on Rails Developer"
+  image: "/assets/images/people/neil-van-beinum.png"
+
+contact_us:
+  title: "Send us your CV"
+  text_1: "Claire is our “people gardener” and she would love to hear from you."
+  text_2: "We like to do the most valuable things first - employing you could be exactly that."
+  text_3: "Send your CV through to Claire at: "
+  email: "iwantajob@unboxed.co"
+  text_4: "From there, she'll be in touch. Good luck!"
+  image: "/jobs/images/ubxd-gardener2.jpg"
+  image_description: "Our gardener at work"
+---
+
+<header class="page-header page-header--bottom-margin">
+  <div class="job-page-header__container">
+    <h1 class="job-page-header__introduction">
+      <a href="/jobs"><%= current_page.data.header.title %></a>
+      <span> / <%= current_page.data.header.subtitle %></span>
+    </h1>
+  </div>
+</header>
+
+<div class="container" data-header-waypoint>
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title--lowercase">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_2 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_3 %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.introduction.image, alt: current_page.data.introduction.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.introduction.image) %>
+    </div>
+  </section>
+
+  <%= image_tag current_page.data.developer_image.image, alt: current_page.data.developer_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.developer_image.image) %>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title--lowercase">
+        <%= current_page.data.description.title %>
+      </h2>
+
+      <ul class="text-tile__list">
+        <% current_page.data.description.requirements.each do |requirement| %>
+          <li class="text-tile__list-item">
+            <%= requirement %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.description.image, alt: current_page.data.description.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.description.image) %>
+    </div>
+  </section>
+
+	<section class="component">
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.experience.image, alt: current_page.data.experience.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.experience.image) %>
+    </div>
+
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title--lowercase">
+        <%= current_page.data.experience.title %>
+      </h2>
+
+      <ul class="text-tile__list">
+        <% current_page.data.experience.requirements.each do |requirement| %>
+          <li class="text-tile__list-item">
+            <%= requirement %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  </section>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title--lowercase">
+        <%= current_page.data.process.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.process.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.process.text_2 %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.process.image, alt: current_page.data.process.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.process.image) %>
+    </div>
+  </section>
+
+  <blockquote class="quote">
+    <aside class="quote__right-section">
+      <p class="quote__text--centered">
+        <%= current_page.data.developer_quote.quote %>
+      </p>
+      <p class="quote__source">
+        <%= current_page.data.developer_quote.source %>
+      </p>
+    </aside>
+    <img class="quote__source-image" src="<%= current_page.data.developer_quote.image %>" alt="<%= current_page.data.developer_quote.source %>"/>
+  </blockquote>
+
+  <section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title--lowercase">
+        <%= current_page.data.contact_us.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.contact_us.text_1 %>
+      </p>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.contact_us.text_2 %>
+      </p>
+
+			<p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.contact_us.text_3 %>
+        <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
+      </p>
+
+			<p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.contact_us.text_4 %>
+      </p>
+    </div>
+
+    <div class="component__tile image-tile">
+      <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
+    </div>
+  </section>
+</div>

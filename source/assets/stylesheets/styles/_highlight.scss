@@ -53,7 +53,19 @@
   @extend %highlight;
   background-color: #9BCC3C;
   color: $white;
+}
+
+.highlight--reed-learning {
+  @extend %highlight;
+  background-color: #00C2D6;
+  color: $white;
 } 
+
+.highlight--pearson {
+  @extend %highlight;
+  background-color: #007FA3;
+  color: $white;
+}
 
 .highlight__title {
   @include responsive-title;
