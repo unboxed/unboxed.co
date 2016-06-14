@@ -20,7 +20,7 @@ https://speakerdeck.com/mcfunley/choose-boring-technology
 
 Dan McKinley talks about focus on product, and what does it actually mean to choose the right tool for the job (sneak peek: it's not what's trending on Hacker News).
 
-## DDD 10 years on - [Patrick V](/people#patrick-vine)
+## DDD 10 years on - Patrick V
 
 http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/
 

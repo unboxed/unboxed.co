@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Monolith vs Microservice First? - [Patrick V](/people#patrick-vine)
+## Monolith vs Microservice First? - Patrick V
 
 * http://martinfowler.com/bliki/MonolithFirst.html
 * http://samnewman.io/blog/2015/04/07/microservices-for-greenfield/

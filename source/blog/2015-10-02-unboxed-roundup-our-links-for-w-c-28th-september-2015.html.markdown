@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Code review culture - [Patrick V](/people#patrick-vine)
+## Code review culture - Patrick V
 
 https://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior
 

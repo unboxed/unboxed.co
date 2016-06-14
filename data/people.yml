@@ -319,20 +319,6 @@
     - name: "GitHub"
       link: "https://github.com/FriedSock"
 
-- name: "Patrick Vine"
-  short_name: "patrick-vine"
-  role: "Developer"
-  email: "patrick.vine"
-  bio: |
-    I'm a software developer living in Cape Town. I'm passionate about delivering software better, faster and more reliably. I love learning and experimenting with ways in which to do this while delivering real software.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/patrick_vine"
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/patrick-vine-500343"
-    - name: "GitHub"
-      link: "https://github.com/patrickvine"
-
 - name: "Shirin Ullah"
   short_name: "shirin-ullah"
   role: "Admin"

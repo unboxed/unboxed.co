@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-## Breaking things small - [Patrick V](/people#patrick-vine/)
+## Breaking things small - Patrick V
 
 I've been spending some time thinking about breaking things small.  Micro
 services are one of the buzzes at the moment for doing that.  As a result
