@@ -1,0 +1,171 @@
+---
+title: "Project Story - V&A"
+
+header:
+  client: "V&A"
+  introduction: "Hosting and infrastructure delivery of new digital platform for world-leading V&A Museum"
+  image: "/project-stories/v-and-a-museum/header.jpg"
+  image_description: "V&A Museum"
+
+introduction:
+  title: "Preparation and scaling for unpredictable re-launch traffic of new V&A Museum digital platform"
+  content:
+    - "Two-week turnaround to live platform re-launch"
+    - "Reduced running costs for Ruby on Rails application, hosted on Amazon Web Services"
+    - "Infrastructure and support scaled and in place for online visitor growth"
+  image: "/project-stories/v-and-a-museum/macbook.jpg"
+  image_description: "User on Macbook"
+
+statistics_1:
+  title: "V&A Museum in numbers"
+  number: "12,699,552"
+  text: "Online visitors during 2014-2015"
+
+statistics_2:
+  number: "8%"
+  text: "Conversion rate from online to museum visitors"
+
+infrastructure:
+  title: "Support and infrastructure for world-leading museum digital platform"
+  content: "Founded in 1852, the V&A Museum is the world's leading museum of art and design, with over 60,000 collection items on permanent display. Following the delivery of a new digital platform, their Digital Media team required a partner to ensure this remained live during the critical website re-launch phase, along with efficient, scalable infrastructure and support for the future."
+  image: "/project-stories/v-and-a-museum/devs2.jpg"
+  image_description: "Unboxed developers"
+
+quote_1:
+  quote: "The aim is for our website to bring the V&A to life online. With our new site ready for re-launch, it was time to invest in our digital infrastructure and support. Unboxed came highly recommended to us by our development partner."
+  source: "Kati Price, Head of Digital Media, V&A Museum"
+
+aws:
+  title: "Ruby on Rails application deployed to AWS for peak traffic levels"
+  content: "We began by deploying the application onto AWS (Amazon Web Services) to ensure accommodation for extra capacity at peak traffic levels. Meeting new levels of traffic demand was a key activity of preparation for V&A’s high profile re-launch. We evaluated a number of methods for the infrastructure build, settling on AWS CloudFormation to manage the AWS resource and CodeDeploy to co-ordinate application deployments."
+  image: "/project-stories/v-and-a-museum/devs1.jpg"
+  image_description: "Unboxed developers"
+
+quote_2:
+  quote: "It was critical to scale for the unknown with a re-launch of this size as traffic peaks can be unpredictable. By hosting on AWS, we are able to take advantage of the elastic usage model, saving project budget and running costs during times of lower traffic."
+  source: "Andrew White, CTO, Unboxed"
+
+server_load:
+  title: "Reducing the system’s server load, automatically deploying"
+  content: "Cloudfront, a Content Delivery Network, was implemented reducing the load of the system’s front-end CMS servers. The CMS was then separated from the front-end, ensuring an extra layer of security, and S3 selected for the backup and recovery of media and catalogue uploads – vital for support of the 5,000-page CMS. Automatically deploying to a preview environment when merging pull requests reduced development time."
+  image: "/project-stories/v-and-a-museum/mac.jpg"
+  image_description: "Website open on Mac"
+
+statistics_3:
+  title: "V&A Museum in numbers"
+  number: "10.08%"
+  text: "Target online-to-visitor conversion rate for 2017/18"
+
+statistics_4:
+  number: "5,000"
+  text: "Page CMS supported"
+
+digital_platform:
+  title: "Supported digital platform successfully re-launched"
+  content: "With the re-launch of the platform a success, we are now responsible for the ongoing infrastructure services and application support. Multiple servers behind Elastic Load Balancing now allow for zero downtime deploys and AWS autoscaling is used to reduce running costs during lower capacity periods. The V&A Museum is now in a position to continue growing their digital presence."
+  image: "/project-stories/v-and-a-museum/iphone.jpg"
+  image_description: "Website open on iPhone"
+
+quote_3:
+  quote: "We met our target by having all necessary infrastructure in place to support the re-launch, as well as the ongoing support in place for our digital growth strategy, in just two weeks. With the new website now launched, it’s a very exciting time for the V&A Museum."
+  source: "Kati Price, Head of Digital Media, V&A Museum"
+
+team:
+  title: "Unboxed team"
+  people:
+  - full_name: "Andrew White"
+    image: "/project-stories/v-and-a-museum/team/andrew-white.png"
+    link: "/people#andrew-white"
+  - full_name: "Sarah Beck"
+    image: "/project-stories/v-and-a-museum/team/sarah-beck.png"
+    link: "/people#sarah-beck"
+  - full_name: "Matt Turrell"
+    image: "/project-stories/v-and-a-museum/team/matt-turrell.png"
+    link: "/people#matt-turrell"
+  - full_name: "Steve Lennon"
+    image: "/project-stories/v-and-a-museum/team/steve-lennon.png"
+    link: "/people#steve-lennon"
+
+site:
+  link: "https://www.vam.ac.uk/"
+  text: "Visit the V&A Museum website"
+
+links:
+  - title: "The new V&A website"
+    type: "blog"
+    link: "http://www.vam.ac.uk/blog/digital-media/new-website"
+  - title: "The new V&A website – the inside story"
+    type: "blog"
+    link: "http://www.vam.ac.uk/blog/digital-media/the-new-va-website-the-inside-story"
+
+related:
+  title: "Related"
+  articles:
+  - title: "Faster than Lightning: May’s monthly developer event"
+    type: "blog"
+    link: "/blog/faster-than-lightning-may-s-monthly-developer-event/"
+
+  - title: "Replacing the Asset pipeline with Gulp"
+    type: "blog"
+    link: "/blog/replacing-the-asset-pipeline-with-gulp/"
+
+  - title: "Andrew White’s Technical Breakfast Club - What's coming in Rails 5.0?"
+    type: "blog"
+    link: "https://unboxed.co/blog/andrew-white-s-technical-breakfast-club-what-s-coming-in-rails-5-0/"
+
+---
+
+<%= partial 'project-stories/page_header' %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
+
+  <section class="highlight--v-and-a-museum">
+    <h2 class="highlight__title">
+      <%= current_page.data.statistics_1.title %>
+    </h2>
+
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_1.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %></p>
+      <p class="highlight__wide-text"><%= current_page.data.statistics_2.text %></p>
+    </div>
+  </section>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.infrastructure } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_1 } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.aws } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_2 } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.server_load } %>
+
+  <section class="highlight--v-and-a-museum">
+    <h2 class="highlight__title">
+      <%= current_page.data.statistics_3.title %>
+    </h2>
+
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_3.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_4.number %></p>
+      <p class="highlight__wide-text"><%= current_page.data.statistics_4.text %></p>
+    </div>
+  </section>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.digital_platform } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_3 } %>
+
+  <%= partial 'project-stories/project_team' %>
+
+  <%= partial 'project-stories/link_tiles' %>
+
+  <%= partial 'project-stories/related_tiles' %>
+
+</div>
