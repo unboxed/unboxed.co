@@ -64,6 +64,7 @@ tech_spec:
 tech_quote:
   quote: "We architected for robustness and speed, based on previous peak numbers from the old system. We now regularly hit those numbers on a quiet day."
   source: "Andrew White, CTO, Unboxed"
+  image: "/project-stories/petitions/team/andrew-white-full.png"
 
 result:
   title: "A platform for direct public engagement with Parliament"
@@ -157,7 +158,17 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.tech_spec } %>
 
-  <%= partial 'project-stories/quote', locals: { section: current_page.data.tech_quote } %>
+  <blockquote class="quote">
+    <aside class="quote__right-section">
+      <p class="quote__text--centered">
+        <%= current_page.data.tech_quote.quote %>
+      </p>
+      <p class="quote__source">
+        <%= current_page.data.tech_quote.source %>
+      </p>
+    </aside>
+    <img class="quote__source-image" src="<%= current_page.data.tech_quote.image %>" alt="<%= current_page.data.tech_quote.source %>"/>
+  </blockquote>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.result } %>
 

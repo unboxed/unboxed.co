@@ -54,6 +54,7 @@ understanding_customer:
 impact_quote:
   quote: "We are creating high quality digital services that will have a positive impact on key performance indicators such as customer satisfaction and cost per transaction. Unhappy and confused customers result in significant unnecessary work chasing information and handling queries and complaints. A better user experience in a few key areas will deliver benefits across the organisation."
   source: "Martyn Evans, Head of Product, Unboxed"
+  image: "/project-stories/bucks-cc/team/martyn-evans-full.png"
 
 talking_with_customers:
   title: "Getting out the door and talking to real customers"
@@ -177,7 +178,17 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.understanding_customer } %>
 
-  <%= partial 'project-stories/quote', locals: { section: current_page.data.impact_quote } %>
+  <blockquote class="quote">
+    <aside class="quote__right-section">
+      <p class="quote__text--centered">
+        <%= current_page.data.impact_quote.quote %>
+      </p>
+      <p class="quote__source">
+        <%= current_page.data.impact_quote.source %>
+      </p>
+    </aside>
+    <img class="quote__source-image" src="<%= current_page.data.impact_quote.image %>" alt="<%= current_page.data.impact_quote.source %>"/>
+  </blockquote>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.talking_with_customers } %>
 
