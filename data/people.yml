@@ -167,18 +167,6 @@
     - name: "GitHub"
       link: "https://github.com/chriscarter90"
 
-- name: "Sven Agnew"
-  short_name: "sven-agnew"
-  role: "Devops"
-  email: "sven.agnew"
-  bio: |
-    My background is in open source system integration with a strong focus on deploying secure, maintainable web applications and business systems.
-    I'm a self taught programmer and a half-decent cook.
-    I drink tea without milk or sugar, I enjoy listening to ambient electronica when I'm coding and I prefer to be able to see trees whenever I'm thinking about something.
-  social_networks:
-    - name: "Github"
-      link: "https://github.com/svenagnew"
-
 - name: "Tom Sabin"
   short_name: "tom-sabin"
   role: "Developer"

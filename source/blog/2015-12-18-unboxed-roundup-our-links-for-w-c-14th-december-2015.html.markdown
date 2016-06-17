@@ -26,7 +26,7 @@ http://githubengineering.com/move-fast/
 
 Vincent Marti from GitHub explains how they refactored a critical piece of functionality without any user-visble impact and along the way discovered some long-standing bugs in git and libgit2.
 
-## Track of the Week - [Sven A](/people#sven-agnew)
+## Track of the Week - Sven A
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/HzBCVfeyaZ8" frameborder="0" allowfullscreen></iframe>
 ["Rachel's Song" by Vangelis](https://www.youtube.com/watch?v=HzBCVfeyaZ8)
