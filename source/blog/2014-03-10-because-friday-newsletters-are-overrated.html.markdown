@@ -36,7 +36,7 @@ Cape Town newbie Gavin is a big fan of automation - so much so he's decided to e
 * [Configuring the default behaviour of ```git push```](http://stackoverflow.com/questions/948354/git-push-default-behavior/948397#948397)
 * [Always be ``git fetch --prune``-ing](http://stackoverflow.com/questions/18308535/automatic-prune-with-git-fetch-or-pull/18718936#18718936)
 
-## Things I learned when stuff went wrong - [Sven Agnew](/people#sven-agnew)
+## Things I learned when stuff went wrong - Sven Agnew
 
 We recently had a sprint which was very heavy on system administration and command line work as opposed to development work and I thought I'd share a few of the links I hit during my frantic Googling in the face of downtime clock increments.
 

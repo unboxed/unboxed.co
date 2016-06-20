@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=zdI2Z64Jdw8
 
 Vasilis gives a humorous talk at Frontend Conference Zurich with the main emphasis to let the system do the work. The talk concentrates on CSS columns, flexbox and how to abuse the target selector.
 
-## The Web’s Grain - [Sven A](/people#sven-agnew)
+## The Web’s Grain - Sven A
 
 http://www.frankchimero.com/writing/the-webs-grain/
 
