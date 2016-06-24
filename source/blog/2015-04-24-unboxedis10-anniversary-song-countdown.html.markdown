@@ -41,7 +41,7 @@ Shirin's comment: <i>“On a serious note, you can't live without food.”</i><b
 Chris' comment: <i>“God, this is embarrassing.”</i><br/>
 <br/>
 
-##6. [Tyler](/people#tyler-savin):<br/>
+##6. Tyler:<br/>
 <h1>Bryan Adams - (Everything I Do) I Do It for You</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/zggSgIT0yd0" frameborder="0" allowfullscreen></iframe><br/>
 Tyler's comment: <i>"'Don’t tell me it’s not worth fighting for.' Wise words, Bryan Adams. This song has two guitar solos in it. How rad is that? (Shortcuts - 2:43 onwards & 4:50)".</i><br/>
