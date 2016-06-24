@@ -340,19 +340,6 @@
     - name: "GitHub"
       link: "https://github.com/clivecorbishley"
 
-- name: "Tyler Savin"
-  short_name: "tyler-savin"
-  role: "Designer"
-  email: "tyler.savin"
-  bio: |
-    I set the bar high for myself and am always satisfied with the results of hard focused work. I find myself exploring new areas of design all the time and I pay a tremendous amount of attention to detail.
-    After learning how the Unboxed team work, I knew I’d fit right in.
-    In my free time I enjoy writing music.
-    When the evening approaches I make sure I’m cooking up a great meal
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/tyler-savin-6b1b179a"
-
 - name: "Matt Turrell"
   short_name: "matt-turrell"
   role: "Scrum master"
