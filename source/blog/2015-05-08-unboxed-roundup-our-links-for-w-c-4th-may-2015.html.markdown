@@ -34,7 +34,7 @@ http://naga.co.za/2015/05/08/dont-rely-on-javascript-for-key-functionality/
 
 A rant from an Unboxed alum on why relying on JS is such a terrible idea
 
-## Track of the Week - [Tyler S](/people#tyler-savin)
+## Track of the Week - Tyler S
 
 DARUDE. SANDSTORM.
 I mean, how can anyone find it easy choosing 1 song out of their whole music library?  But look at it this way - the whole topic of Track of the Week is in fact to share your current favourite, not your “Track of the year" or “Track of your whole entire life time”.  So I share with my fellow Unboxed-ians, [The City, 1975.](https://www.youtube.com/watch?v=s6Y2FVD5JVw)
