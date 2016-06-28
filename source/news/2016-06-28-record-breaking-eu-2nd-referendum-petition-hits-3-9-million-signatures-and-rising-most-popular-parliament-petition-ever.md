@@ -38,9 +38,10 @@ Using the signature data to better understand geographical trends
 
 The interactive heat map was shared in [The Independent](http://www.independent.co.uk/news/uk/politics/brexit-petition-eu-referendum-rules-change-force-second-vote-poll-turnout-government-london-a7102421.html), [Mail Online](http://www.dailymail.co.uk/news/article-3659769/Anti-Brexit-protests-break-London-streets-petition-SECOND-EU-referendum-hits-1-5million-names-day.html) and [Mashable](http://mashable.com/2016/06/25/brexit-petition-2nd-eu-referendum/#Jdp5HPcAmGqc) as part of their commentary on this story.<br/>
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Interesting tool built by <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://t.co/lRhiZpWKNp">https://t.co/lRhiZpWKNp</a></p>&mdash; Lou Shackleton (@LouShackleton) <a href="https://twitter.com/LouShackleton/status/747154265135788033">June 26, 2016</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">cracking example of why i love <a href="https://twitter.com/hashtag/opendata?src=hash">#opendata</a>. Good job <a href="https://twitter.com/UKParliament">@UKParliament</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://twitter.com/gdsteam">@gdsteam</a> <a href="https://t.co/3U6vp52ac4">https://t.co/3U6vp52ac4</a> via <a href="https://twitter.com/ahatami">@ahatami</a> <a href="https://t.co/6spiwB8oAZ">pic.twitter.com/6spiwB8oAZ</a></p>&mdash; James Arthur Cattell (@jaCattell) <a href="https://twitter.com/jaCattell/status/746647808124542976">June 25, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 ![Petition Map](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-06-28%20at%2012.09.45_zpsd5ohupeb.png)
 
 Any petition signature data can be viewed geographically in the same way. The last time a heat map of a petition was shared widely was [Block Donald J Trump from UK entry](https://petition.parliament.uk/petitions/114003).<br/>
