@@ -25,7 +25,8 @@ The site peaked at 98,000 resolutions per minute with 100,000 active users - a d
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">The Rails app behind <a href="https://t.co/bVfm2AEzkh">https://t.co/bVfm2AEzkh</a> is now running at 45k rpm and 62k concurrent users - over 2k sigs per minute. 😨</p>&mdash; Andrew White (@pixeltrix) <a href="https://twitter.com/pixeltrix/status/746638607897759744">June 25, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<i>“The response to this petition has been bigger than anything we’ve ever seen before. Originally designed to process 12,000 signatures per hour, the system peaked at over 150,000 signatures per hour on Saturday - a record we couldn’t even have imagined. Thanks to AWS, we were able to scale the system to handle this huge number of requests.”</i> - <b>Andrew White, CTO & Rails Core Team Member, Unboxed</b><br/>
+<font size="6"><i>“The response to this petition has been bigger than anything we’ve ever seen before. Originally designed to process 12,000 signatures per hour, the system peaked at over 150,000 signatures per hour on Saturday - a record we couldn’t even have imagined. Thanks to AWS, we were able to scale the system to handle this huge number of requests.”</i></font><br/>
+<b>- Andrew White, CTO & Rails Core Team Member, Unboxed</b>,<br/>
 
 Helen Jones MP, The Chair of the House of Commons Procedure Committee, has confirmed the Petitions Committee will consider the petition at its meeting next week and decide whether to schedule a debate on it.<br/>
 
