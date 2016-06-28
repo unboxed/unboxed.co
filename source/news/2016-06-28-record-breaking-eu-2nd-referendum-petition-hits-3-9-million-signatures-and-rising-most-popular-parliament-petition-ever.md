@@ -28,7 +28,7 @@ The site peaked at 98,000 resolutions per minute with 100,000 active users - a d
 <br/>
 >
 <i>“The response to this petition has been bigger than anything we’ve ever seen before. Originally designed to process 12,000 signatures per hour, the system peaked at over 150,000 signatures per hour on Saturday - a record we couldn’t even have imagined. Thanks to AWS, we were able to scale the system to handle this huge number of requests.”</i><br/>
-<b>- Andrew White, CTO & Rails Core Team Member, Unboxed</b>,<br/>
+<b>- Andrew White, CTO & Rails Core Team Member, Unboxed</b><br/>
 
 Helen Jones MP, The Chair of the House of Commons Procedure Committee, has confirmed the Petitions Committee will consider the petition at its meeting next week and decide whether to schedule a debate on it.<br/>
 
