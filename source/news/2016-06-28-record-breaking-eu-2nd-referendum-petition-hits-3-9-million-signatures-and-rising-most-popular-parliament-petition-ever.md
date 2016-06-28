@@ -38,12 +38,20 @@ Using the signature data to better understand geographical trends
 
 The interactive heat map was shared in [The Independent](http://www.independent.co.uk/news/uk/politics/brexit-petition-eu-referendum-rules-change-force-second-vote-poll-turnout-government-london-a7102421.html), [Mail Online](http://www.dailymail.co.uk/news/article-3659769/Anti-Brexit-protests-break-London-streets-petition-SECOND-EU-referendum-hits-1-5million-names-day.html) and [Mashable](http://mashable.com/2016/06/25/brexit-petition-2nd-eu-referendum/#Jdp5HPcAmGqc) as part of their commentary on this story.<br/>
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Interesting tool built by <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://t.co/lRhiZpWKNp">https://t.co/lRhiZpWKNp</a></p>&mdash; Lou Shackleton (@LouShackleton) <a href="https://twitter.com/LouShackleton/status/747154265135788033">June 26, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![Petition Map](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-06-28%20at%2012.09.45_zpsd5ohupeb.png)
 
 Any petition signature data can be viewed geographically in the same way. The last time a heat map of a petition was shared widely was [Block Donald J Trump from UK entry](https://petition.parliament.uk/petitions/114003).<br/>
 
-See [Petition Map here](http://petitionmap.unboxedconsulting.com).
+See [Petition Map here](http://petitionmap.unboxedconsulting.com).<br/>
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Awesome people from <a href="https://twitter.com/Ubxd">@Ubxd</a> keeping the UK Gov petition site up. <a href="https://t.co/VdHMkV5ABQ">https://t.co/VdHMkV5ABQ</a></p>&mdash; Pawel Janiak (@cynicalgrinch) <a href="https://twitter.com/cynicalgrinch/status/747762784025313280">June 28, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Massive credit to <a href="https://twitter.com/pixeltrix">@pixeltrix</a>, <a href="https://twitter.com/hlame">@hlame</a>, <a href="https://twitter.com/oskarpearson">@oskarpearson</a> and the team <a href="https://twitter.com/Ubxd">@Ubxd</a> for keeping the signatures flowing on this <a href="https://t.co/1f3YRgEcFw">https://t.co/1f3YRgEcFw</a></p>&mdash; LoGov (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/746794549524185088">June 25, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
