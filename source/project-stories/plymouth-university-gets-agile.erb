@@ -50,6 +50,7 @@ pride:
 textbook_to_real_world_quote:
   quote: "Unboxed have really thought through how to apply a textbook implementation to real-world situations."
   source: "Paul Westmore, Plymouth University"
+  image: "/project-stories/plymouth-university-gets-agile/team/paul-westmore-full.png"
 
 show_and_tells_highlight: "Show-and-tells opened the platform to share thoughts and feelings within the team, resulting in actions to go forward."
 
@@ -133,7 +134,17 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.pride } %>
 
-  <%= partial 'project-stories/quote', locals: { section: current_page.data.textbook_to_real_world_quote } %>
+  <blockquote class="quote">
+    <aside class="quote__right-section">
+      <p class="quote__text--centered">
+        <%= current_page.data.textbook_to_real_world_quote.quote %>
+      </p>
+      <p class="quote__source">
+        <%= current_page.data.textbook_to_real_world_quote.source %>
+      </p>
+    </aside>
+    <img class="quote__source-image" src="<%= current_page.data.textbook_to_real_world_quote.image %>" alt="<%= current_page.data.textbook_to_real_world_quote.source %>"/>
+  </blockquote>
 
   <%= partial 'project-stories/project_team' %>
 
