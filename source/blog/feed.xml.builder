@@ -2,7 +2,7 @@ xml.instruct! :xml, :version => "1.0"
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom", "xml:lang" => "en-GB" do
   site_url = "http://unboxed.co/"
   xml.title "The Unboxed Blog"
-  xml.subtitle "Ruby on rails, Agile, Scrum and other life changing topics."
+  xml.subtitle "Ruby on Rails, Agile, Scrum and other life changing topics."
   xml.id URI.join(site_url, blog(:blog).options.prefix.to_s)
   xml.link "href" => URI.join(site_url, blog(:blog).options.prefix.to_s)
   xml.link "href" => URI.join(site_url, current_page.path), "rel" => "self"

@@ -3,7 +3,7 @@ xml.rss :version => "2.0", "xmlns:atom" => "http://www.w3.org/2005/Atom" do
   xml.channel do
     site_url = "http://unboxed.co/"
     xml.title "News from Unboxed"
-    xml.description "Ruby on rails, Agile, Scrum and other life changing topics."
+    xml.description "Ruby on Rails, Agile, Scrum and other life changing topics."
     xml.link URI.join(site_url, blog(:news).options.prefix.to_s)
     xml.language "en-GB"
     xml.generator 'https://github.com/unboxed/ubxd_web_refresh'
