@@ -50,6 +50,9 @@ ignore '/**/README.md'
 page "/blog/feed.xml", layout: false
 page "/blog/feed.rss", layout: false
 
+page "/news/feed.xml", layout: false
+page "/news/feed.rss", layout: false
+
 page "/404.html", directory_index: false
 
 configure :build do
