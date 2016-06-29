@@ -18,6 +18,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom", "xml:lang" => "en-GB" do
       xml.id atom_id(article)
       xml.published article.date.to_time.iso8601
       xml.updated File.mtime(article.source_file).iso8601
+      xml.tags article.tags
       xml.author do
         author = data.people.detect { |person| person.name.downcase == article.data.author.downcase }
         if author

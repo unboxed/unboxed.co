@@ -17,6 +17,7 @@ xml.rss :version => "2.0", "xmlns:atom" => "http://www.w3.org/2005/Atom" do
       xml.item do
         xml.title article.title
         xml.description article.body
+        xml.tags article.tags
         xml.pubDate article.date.to_time.rfc822
         xml.link URI.join(site_url, article.url)
         xml.guid atom_id(article), "isPermaLink" => "false"
