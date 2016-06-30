@@ -64,9 +64,9 @@ offices:
   </div>
 </header>
 
-<div class="container--grid" data-header-waypoint>
+<div class="container--grid" id="offices" data-header-waypoint>
   <% current_page.data.offices.each do |office| %>
-    <div class="contact-page-tile">
+    <div class="contact-page-tile" id="<%= office.name.gsub(/\s+/, "") %>">
       <div class="contact-page-tile__container">
 
         <div class="contact-page-tile__content">
@@ -116,3 +116,19 @@ offices:
     </div>
   <% end %>
 </div>
+
+<script>
+  var request = new XMLHttpRequest();
+  request.open('GET', 'http://ipinfo.io/json', true);
+
+  request.onload = function() {
+    if (request.status === 200) {
+      var response = JSON.parse(request.responseText);
+      if (response.country == 'ZA') {
+        document.getElementById('offices').appendChild(document.getElementById('London'));
+      }
+    }
+  };
+
+  request.send();
+</script>
