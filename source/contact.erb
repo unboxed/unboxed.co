@@ -118,16 +118,13 @@ offices:
 </div>
 
 <script>
-  var london = document.getElementById('London');
-  var capeTown = document.getElementById('CapeTown');
-
   var request = new XMLHttpRequest();
   request.open('GET', 'http://ipinfo.io/json', true);
 
   request.onload = function() {
-    if (request.status >= 200 && request.status < 400) {
+    if (request.status === 200) {
       var response = JSON.parse(request.responseText);
-      if (response.country == 'GB') {
+      if (response.country == 'ZA') {
         document.getElementById('offices').appendChild(document.getElementById('London'));
       }
     }
