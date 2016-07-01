@@ -67,6 +67,12 @@
   color: $white;
 }
 
+.highlight--v-and-a-museum {
+  @extend %highlight;
+  background-color: #FFA52B;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
