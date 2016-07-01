@@ -28,7 +28,7 @@ https://speakerdeck.com/samphippen/the-anatomy-of-a-mocked-call-rulu-2014
 
 This presentation by [Sam Phippen](http://samphippen.com/) is an interesting take on the usual stubs and mocks presentation.  Instead of providing arguments for (or against) a stubs and mocks approach to testing Sam instead tells us exactly how the relevant code from the [rspec-mocks](https://github.com/rspec/rspec-mocks) library actually works.  I quite like this sort of deep dive talk about the design decisions of the libraries we use day-in, day-out as often we treat them like black-boxes, but if we know how they work under-the-hood they'll surprise us less when we use them, and it might even unlock how to use them in a new way we hadn't considered before.
 
-## Design is hard and partitioning is hard - [Patrick V](/people#patrick-vine)
+## Design is hard and partitioning is hard - Patrick V
 
 https://www.facebook.com/notes/kent-beck/bits-clumps-and-just-right/792597974106402
 

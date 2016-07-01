@@ -29,7 +29,7 @@ The historical context Alvaro provides reminded me of [The Future of Programming
 
 I found myself in a curious situation dealing with a legacy codebase this week. Dealing with `nil` is something we do everyday as Ruby developers and these two blog posts work well together when considering approaches to handling it.
 
-## Refactoring external services to patterns - [Patrick V](/people#patrick-vine)
+## Refactoring external services to patterns - Patrick V
 
 http://martinfowler.com/articles/refactoring-external-service.html
 

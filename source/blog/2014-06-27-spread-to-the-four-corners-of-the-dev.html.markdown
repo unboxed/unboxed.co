@@ -70,7 +70,7 @@ My only comment about this plugin, however, is when you go to select all charact
 
 Some Simpsons characters made purely from CSS: http://pattle.github.io/simpsons-in-css/
 
-## Functional Composability - [Patrick V](/people#patrick-vine)
+## Functional Composability - Patrick V
 
 [https://michaelfeathers.silvrback.com/literate-chains-for-functional-programming](https://michaelfeathers.silvrback.com/literate-chains-for-functional-programming)
 
@@ -78,7 +78,7 @@ I always enjoy Michael Feather's posts as they are generally
 practical and interesting.  This one is about functional composability and
 is an interesting idea for increasing readability.
 
-## ActiveRecord Spec Helper - [Patrick V](/people#patrick-vine)
+## ActiveRecord Spec Helper - Patrick V
 
 [http://articles.coreyhaines.com/posts/active-record-spec-helper/](http://articles.coreyhaines.com/posts/active-record-spec-helper/)
 
