@@ -1,7 +1,7 @@
 prose:
   rooturl: 'source'
   ignore: '.keep'
-  media: 'source/assets/prose/images'
+  media: 'source/assets/images/prose'
   metadata:
     source/blog:
 
