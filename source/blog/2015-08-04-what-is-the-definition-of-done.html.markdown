@@ -1,9 +1,9 @@
 ---
-date: "2015-08-04 15:30:00 UTC"
+date: '2015-08-04 15:30:00 UTC'
 published: true
-title: "What is the definition of ‘done’?"
-author: "Richard Stobart"
-main_image: "http://bit.ly/1KBkjxe"
+title: What is the definition of ‘done’?
+author: Richard Stobart
+main_image: 'http://bit.ly/1KBkjxe'
 tags:
   - Agile
 ---
@@ -25,7 +25,7 @@ A feature needs to be deployable to production. If a feature is incomplete, and 
 <h2>Product Owner involvement</h2>
 Make sure that the Product Owner, the person responsible for driving value from a feature once it’s delivered, has accepted the feature in a User Acceptance Test (UAT). Or if you happen to be UAT-ing in production, then they must accept the feature in production, before it’s toggled as available.<br/>
 
-<p align="center"><img src="http://bit.ly/1MvZEKp" alt="Product owner"></p>
+<p align="center"><img src="/source/assets/images/prose/tom_russell_pointing.png" alt="Product owner"></p>
 <br>
 
 <h2>Automated testing</h2>
@@ -47,7 +47,7 @@ Make sure you have [zero-known defects](/blog/why-should-you-have-a-zero-defect-
 It’s often difficult to do this in a development environment, frequently enough. There are many ways to implement non-functional testing. The simplest is to baseline the feature-set in terms of performance, before adding your feature in. Then add your feature in, and re-baseline to make sure that (at development scale) you haven’t dramatically changed the parameters.<br/>
 <br/>
 
-<p align="center"><img src="http://bit.ly/1KBkjxe" alt="Testing"></p>
+<p align="center"><img src="/source/assets/images/prose/pedro.png" alt="Testing"></p>
 
 You want a variance, to make sure this newly added feature hasn’t broken anything dramatically. This is risk-reduction rather than an absolute validation of scale. This means you can decouple your volume testing from your feature delivery and you can systematically volume test, as that pre-production environment becomes available.<br/>
 
