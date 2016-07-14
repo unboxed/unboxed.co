@@ -15,6 +15,8 @@ Complex portfolios of digital products can stall in development. It’s a fact o
 
 Then comes the big question: <i>“What does it take to gain momentum?”</i>.<br/>
 
+![Agile pilot](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-14%20at%2016.38.07_zpscsryu3k5.png)
+
 Join us on Wednesday 7th September for this one-off session, where we will explore how to introduce agile within your team to overcome your blockers, speed up delivery and launch the portfolio of digital products that is crucial for your organisation to release.<br/>
 
 # This event will uncover the techniques to:<br/>
