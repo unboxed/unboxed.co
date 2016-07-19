@@ -2,6 +2,12 @@
 date: '2016-07-19 13:23 +0100'
 published: true
 title: ShareDigital conference 2016
+main_image: >-
+  http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-18%20at%2012.58.55_zpsmxizkojv.png
+tags:
+  - Culture
+  - Innovation
+author: Graeme McCubbin
 ---
 <b>The conference:</b> Share Digital 2016<br/>
 <b>The date:</b> Wednesday 6th July<br/>
