@@ -17,7 +17,7 @@ introduction:
   image_description: "Petition Map on iPhone"
 
 quote_1:
-  quote: "Petition Map has been built to work on both desktop and mobile so that petitions can be visualised even when on the move. The tool is constantly being iterated using the feedback we receive from our users."
+  quote: "It’s been exciting to see online newspapers feature Petition Map in articles relating to popular petitions and use it to gain an insight into where petitions are most popular. Users are also sharing it on social media when promoting petitions important to them."
   source: "Cale Tilford, Developer, Unboxed"
   image: "/project-stories/petition-map/team/cale-tilford-full.png"
 
@@ -37,8 +37,8 @@ statistics_2:
   text: "Peak number of daily active users"
 
 open_source:
-  title: "Open source-powered system"
-  content: "Calling on the open source data of the Parliament Petitions database, Petition Map pulls the JSON data of each individual petition, allowing users to select from a list of active petitions to visualise, and Javascript library D3 is used to create the interactive aspect. Each time a petition is loaded, the set of signatures is calculated relative to the number of signatures for that specific petition, this is then used to colour the map."
+  title: 'Using open data'
+  content: "Petition Map pulls the JSON data of each individual petition, allowing users to select from a list of active petitions to visualise. The popular Javascript library D3 is used to render the outline of each parliamentary constituency. Each time a petition is loaded, the colour scale is calculated relative to the total number of signatures, and each constituency is then coloured relative to this."
   image: "/project-stories/petition-map/open-source.jpg"
   image_description: "JSON file containing petition data"
 
@@ -62,7 +62,7 @@ statistics_4:
   text: "Page views"
 
 quote_3:
-  quote: "Petition Map has been built to work on both desktop and mobile so that petitions can be visualised even when on the move. The tool is constantly being iterated using the feedback we receive from our users."
+  quote: "Since the EU Referendum petition, by popular demand the map has been updated with a new colouring option – weighting each constituency with its population. Hovering over each constituency also shows you the percentage of constituents that have signed. These new features make Petition Map an even more useful tool for examining regional engagement with politics."
   source: "Cale Tilford, Developer, Unboxed"
 
 team:
@@ -96,20 +96,6 @@ links:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-	<blockquote class="quote">
-	  <aside class="quote__right-section">
-	    <p class="quote__text--centered">
-	      <%= current_page.data.quote_1.quote %>
-	    </p>
-	    <p class="quote__source">
-	      <%= current_page.data.quote_1.source %>
-	    </p>
-	  </aside>
-	  <img class="quote__source-image" src="<%= current_page.data.quote_1.image %>" alt="<%= current_page.data.quote_1.source %>"/>
-	</blockquote>
-
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.about } %>
-
   <section class="highlight--petition-map">
     <h2 class="highlight__title">
       <%= current_page.data.statistics_1.title %>
@@ -122,6 +108,20 @@ links:
       <p class="highlight__wide-text"><%= current_page.data.statistics_2.text %></p>
     </div>
   </section>
+  
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.about } %>
+
+	<blockquote class="quote">
+	  <aside class="quote__right-section">
+	    <p class="quote__text--centered">
+	      <%= current_page.data.quote_1.quote %>
+	    </p>
+	    <p class="quote__source">
+	      <%= current_page.data.quote_1.source %>
+	    </p>
+	  </aside>
+	  <img class="quote__source-image" src="<%= current_page.data.quote_1.image %>" alt="<%= current_page.data.quote_1.source %>"/>
+	</blockquote>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.open_source } %>
 
