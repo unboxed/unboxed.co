@@ -1,0 +1,152 @@
+---
+title: "Side Project - Petition Map"
+
+header:
+  client: "Unboxed"
+  introduction: "Visualising UK petitions and open source data with Petition Map"
+  image: "/project-stories/petition-map/header.jpg"
+  image_description: "Petition Map"
+
+introduction:
+  title: "Providing visual and popularity insight into UK petitions"
+  content:
+    - "Interactive heat map tool built during innovation time"
+    - "Visual representation of signatures of every live petition"
+    - "JavaScript map powered through open source data"
+  image: "/project-stories/petition-map/iphone.jpg"
+  image_description: "Petition Map on iPhone"
+
+quote_1:
+  quote: "Petition Map has been built to work on both desktop and mobile so that petitions can be visualised even when on the move. The tool is constantly being iterated using the feedback we receive from our users."
+  source: "Cale Tilford, Developer, Unboxed"
+  image: "/project-stories/petition-map/team/cale-tilford-full.png"
+
+about:
+  title: "A petition heat map of the UK"
+  content: "Petition Map is an interactive heat map, which allows users to visualise signatures of a UK petition on a real-time map of the United Kingdom. Following the redevelopment of the Parliament Petitions platform with Government Digital Service (GDS), Cale (our intern developer) took innovation time to explore, develop and build this visual heat map to support the Petitions platform for members of the public."
+  image: "/project-stories/petition-map/map.jpg"
+  image_description: "Close up of heatmap"
+
+statistics_1:
+  title: "Petition Map in numbers"
+  number: "4,066,694"
+  text: "Sessions since launch"
+
+statistics_2:
+  number: "693,785"
+  text: "Peak number of daily active users"
+
+open_source:
+  title: "Open source-powered system"
+  content: "Calling on the open source data of the Parliament Petitions database, Petition Map pulls the JSON data of each individual petition, allowing users to select from a list of active petitions to visualise, and Javascript library D3 is used to create the interactive aspect. Each time a petition is loaded, the set of signatures is calculated relative to the number of signatures for that specific petition, this is then used to colour the map."
+  image: "/project-stories/petition-map/open-source.jpg"
+  image_description: "JSON file containing petition data"
+
+quote_2:
+  quote: "Petition Map has been built to work on both desktop and mobile so that petitions can be visualised even when on the move. The tool is constantly being iterated using the feedback we receive from our users."
+  source: "Cale Tilford, Developer, Unboxed"
+
+public_following:
+  title: "Gaining a high public following"
+  content: "Following a number of high-profile political topics, Petition Map has built up a public following with petitions such as ‘Block Donald J Trump from UK entry’, ‘Give the Meningitis B vaccine to ALL children, not just newborn babies’, and the more recent four-million-signature receiving ‘EU Referendum Rules triggering a 2nd EU Referendum’."
+  image: "/project-stories/petition-map/mac.jpg"
+  image_description: "Petition Map on a Mac"
+
+statistics_3:
+  title: "Petition Map in numbers"
+  number: "2,643,906"
+  text: "Individual users"
+
+statistics_4:
+  number: "5,904,720"
+  text: "Page views"
+
+quote_3:
+  quote: "Petition Map has been built to work on both desktop and mobile so that petitions can be visualised even when on the move. The tool is constantly being iterated using the feedback we receive from our users."
+  source: "Cale Tilford, Developer, Unboxed"
+
+team:
+  title: "Unboxed team"
+  people:
+  - full_name: "Cale Tilford"
+    image: "/project-stories/petition-map/team/cale.png"
+    link: "/people#cale-tilford"
+
+site:
+  link: "http://petitionmap.unboxedconsulting.com/"
+  text: "Visit the Petitions Map"
+
+links:
+  - title: "Public sector collaboration with GDS to relaunch Petitions platform for UK citizens"
+    source: ""
+    type: "project story"
+    link: "/project-stories/petitions/"
+
+  - title: "Record-breaking EU 2nd referendum petition hits 3.9 million signatures and rising"
+    source: ""
+    type: "news"
+    link: "/news/record-breaking-eu-2nd-referendum-petition-hits-3-9-million-signatures-and-rising-most-popular-parliament-petition-ever/"
+
+---
+
+<%= partial 'project-stories/page_header' %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
+
+	<blockquote class="quote">
+	  <aside class="quote__right-section">
+	    <p class="quote__text--centered">
+	      <%= current_page.data.quote_1.quote %>
+	    </p>
+	    <p class="quote__source">
+	      <%= current_page.data.quote_1.source %>
+	    </p>
+	  </aside>
+	  <img class="quote__source-image" src="<%= current_page.data.quote_1.image %>" alt="<%= current_page.data.quote_1.source %>"/>
+	</blockquote>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.about } %>
+
+  <section class="highlight--petition-map">
+    <h2 class="highlight__title">
+      <%= current_page.data.statistics_1.title %>
+    </h2>
+
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_1.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %></p>
+      <p class="highlight__wide-text"><%= current_page.data.statistics_2.text %></p>
+    </div>
+  </section>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.open_source } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_2 } %>
+
+  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.public_following } %>
+
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_3 } %>
+
+  <%= partial 'project-stories/project_team_single' %>
+
+  <section class="highlight--petition-map">
+    <h2 class="highlight__title">
+      <%= current_page.data.statistics_3.title %>
+    </h2>
+
+    <div class="highlight__tile--two">
+      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_3.text %></p>
+      <p class="highlight__large-text"><%= current_page.data.statistics_4.number %></p>
+      <p class="highlight__small-text"><%= current_page.data.statistics_4.text %></p>
+    </div>
+  </section>
+
+  <%= partial 'project-stories/link_tiles' %>
+
+</div>
+

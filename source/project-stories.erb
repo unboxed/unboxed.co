@@ -56,6 +56,12 @@ project_stories:
     title: "Recruitment site revitalisation for major scientific publishing group"
     link: "/project-stories/naturejobs/"
     image: "/assets/images/project-stories/naturejobs-macmillan.jpg"
+
+side_projects:
+  - title: "Petiton Map"
+    subtitle: "Visualising UK petition signatures and open source data"
+    link: "/project-stories/petition-map"
+    image: "/assets/images/project-stories/petition-map.jpg"
     
 ---
 
@@ -76,6 +82,28 @@ project_stories:
         <div class="<%= class_name %>__content">
           <div class="<%= class_name %>__client"><%= project_story.client %></div>
           <div class="<%= class_name %>__title"><%= project_story.title %></div>
+        </div>
+      </div>
+    </a>
+  <% end %>
+</div>
+
+<header class="blog-header">
+  <div class="blog-header__container">
+    <h1 class="blog-header__page-title">
+      Side Projects
+    </h1>
+  </div>
+</header>
+
+<div class="container--grid" data-header-waypoint>
+  <% current_page.data.side_projects.each_with_index do |side_project, index| %>
+    <a class="project-story-small-tile" href="<%= side_project.link %>">
+      <div class="project-story-small-tile__container">
+        <%= image_tag side_project.image, alt: side_project.title, class: "project-story-small-tile__image", srcset: retina_srcset(side_project.image) %>
+        <div class="project-story-small-tile__content">
+          <div class="project-story-small-tile__client"><%= side_project.title %></div>
+          <div class="project-story-small-tile__title"><%= side_project.subtitle %></div>
         </div>
       </div>
     </a>
