@@ -1,6 +1,6 @@
 ---
 date: '2016-07-19 11:24 +0100'
-published: false
+published: true
 title: >-
   Meetup: Andrew White’s Technical Breakfast Club: Scaling up Rails in a
   national referendum
