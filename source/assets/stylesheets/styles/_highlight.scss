@@ -73,6 +73,12 @@
   color: $white;
 }
 
+.highlight--petition-map {
+  @extend %highlight;
+  background-color: #8A2D8E;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
