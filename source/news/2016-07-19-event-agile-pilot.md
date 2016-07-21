@@ -6,7 +6,7 @@ title: 'Event: Agile Pilot'
 ## Agile pilot: How to deliver “stuck” digital projects and encourage innovation across your organisation
 
 <b>Date:</b> Wednesday 7th September 2016<br/>
-<b>Time:</b> 08:30am – 12.30pm (coffee and limbering from 8.30am)<br/>
+<b>Time:</b> 09:00am – 12.30pm (coffee and limbering from 8.30am)<br/>
 <b>Location:</b> Adam House, 7-10 Adam Street, London, WC2N 6AA<br/>
 
 <a href="http://www.eventbrite.co.uk/e/agile-pilot-how-to-deliver-stuck-digital-projects-and-encourage-innovation-across-your-organisation-tickets-26517584810?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=26517584810" alt="Eventbrite - Agile pilot: How to deliver “stuck” digital projects and encourage innovation across your organisation" /></a>
