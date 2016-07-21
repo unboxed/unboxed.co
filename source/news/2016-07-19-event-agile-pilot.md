@@ -44,6 +44,7 @@ This event is for:<br/>
 # Speakers include:<br/>
 
 Hear from digital leaders who have successfully run pilot agile projects, scaled up and delivered results across a product portfolio, including:<br/>
+<br/>
 
 ## Martyn Evans, Head of Product, Unboxed<br/>
 [@martynrevans](https://twitter.com/martynrevans)<br/>
@@ -56,7 +57,7 @@ Hear from digital leaders who have successfully run pilot agile projects, scaled
 
 ![Melissa Sabella, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-21%20at%2017.39.24_zpssonvua1m.png)
 
-
+<br/>
 Others speakers will be announced as they are confirmed.<br/>
 
 
