@@ -46,11 +46,13 @@ This event is for:<br/>
 Hear from digital leaders who have successfully run pilot agile projects, scaled up and delivered results across a product portfolio, including:<br/>
 
 ## Martyn Evans, Head of Product, Unboxed<br/>
+[@martynrevans](https://twitter.com/martynrevans)<br/>
 
 ![Martyn Evans, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-21%20at%2017.39.16_zpsuwkh80pt.png)
 
 <br/>
 ## Melissa Sabella, Director of Product and Innovation, Reed Learning<br/>
+[@msabella](https://twitter.com/msabella)<br/>
 
 ![Melissa Sabella, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-21%20at%2017.39.24_zpssonvua1m.png)
 
