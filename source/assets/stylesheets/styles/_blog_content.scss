@@ -108,6 +108,12 @@
     max-width: 100%;
   }
 
+  img + em {
+    display: block;
+    text-align: center;
+    max-width: 100%;
+  }
+
   blockquote {
     border-left: 1px solid $purple;
     padding-left: 16px;
