@@ -18,8 +18,8 @@ The format is simple:<br/>
 - A short introduction
 - 3 x lightning talks on various areas of UX in our lives
 - A Q&A after each talk
-<br/>
 
+<br/>
 # Talk 1: The UX of the Gents
 ## Steve Parks
 [@steveparks](https://twitter.com/steveparks)<br/>
@@ -137,14 +137,3 @@ From here I intend to do the same for each of my interactions.<br/>
 I don’t know where this will take me and I’m not sure what I’ll learn. But I’m already enjoying the journey.<br/>
 
 I’ll keep you posted!<br/>
-
-
-
-
-
-
-
-
-
-
-
