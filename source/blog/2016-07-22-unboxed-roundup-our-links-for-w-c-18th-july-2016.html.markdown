@@ -13,3 +13,12 @@ tags: # (Delete as appropiate)
 https://www.tesla.com/blog/master-plan-part-deux
 
 Elon Musk, the person behind Tesla, shares his future plan for the world to achieve and use sustainable energy. The main topics he covers are: empowering people to generate and store their own energy, expanding Tesla to cover other forms of transport, autonomy and sharing.
+
+
+## Track of the Week - [Tom S](/people#tom-sabin)
+
+It took me far too long to choose a track for this week’s newsletter. Spotify has encouraged me to discover their rich music library. My chosen track is Partner in Crime by MAZEMIRROR, a song (and artist) I would describe as a hidden gem.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LLJCILVYVu8" frameborder="0" allowfullscreen></iframe>
+
+[Partner in Crime by MAZEMIRROR](https://www.youtube.com/watch?v=LLJCILVYVu8)
