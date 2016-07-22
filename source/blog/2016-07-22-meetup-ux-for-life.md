@@ -63,7 +63,7 @@ By the time these questions could have be answered, people have left the bathroo
 So the big problem we’re trying to solve here is: <i>“How do we get gents to wash their hands properly for the greater good and for better health for all of us?”</i><br/>
 
 <br/>
-# Talk 2: Train Announcements?
+# Talk 2: Train Announcements
 ## Alex Lemon
 [@Lemonosity](https://twitter.com/Lemonosity)<br/>
  
@@ -93,7 +93,7 @@ In conclusion:<br/>
 
 ![Leon Odey-Knight](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-22%20at%2011.20.12_zps8a37pkl5.png)
 
-Leon’s lightning talk was based on the idea mapping out the UX of his life, titled: ‘My life as a user’. Leon has summarised his talk below:<br/>
+Leon’s lightning talk was based on the idea of mapping out the UX of his life, titled: ‘My life as a user’. Leon has summarised his talk below:<br/>
 
 Most of us here spend our day to day lives trying to identify and understand 
 user needs. We use various methods to do this such as:<br/>
