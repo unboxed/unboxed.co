@@ -49,5 +49,11 @@ http://www.theverge.com/2016/7/17/12208802/animated-movie-gifs-classic-art
 
 Amazing gifs of famous scenes from some of my favourite movies. Little balls of delight.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Shirin U](/people#shirin-ullah)
+
+Aaaand it's Friday. The sun is playing hide and seek but I'm sure a bit of Sigala Easy Love will help make your head bounce left to right and your toes do a little wiggle! Enjoy!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ozx898ADTxM" frameborder="0" allowfullscreen></iframe>
+
+[Easy Love by Sigala](https://www.youtube.com/watch?v=ozx898ADTxM&feature=youtu.be)
 
