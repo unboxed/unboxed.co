@@ -3,7 +3,7 @@ date: '2016-07-19 11:39 +0100'
 published: true
 title: 'Event: Agile Pilot'
 ---
-## Agile pilot: How to deliver “stuck” digital projects and encourage innovation across your organisation
+![Piloting Agile](http://i1291.photobucket.com/albums/b548/grammccram/Piloting%20Agile%20Banner%20Image_zpslww2sruy.jpg)
 
 <b>Date:</b> Wednesday 7th September 2016<br/>
 <b>Time:</b> 09:00am – 12.30pm (coffee and limbering from 8.30am)<br/>
