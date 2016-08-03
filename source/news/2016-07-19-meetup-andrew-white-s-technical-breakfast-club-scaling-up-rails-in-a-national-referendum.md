@@ -42,6 +42,7 @@ Andrew has been a contributor to Rails since 2007 and since 2012 has been one of
 
 
 
-## Reserve list
+<br/>
+# Reserve list
 
 We have reached the ticket limit for this meetup, but we are more than happy to put you on our reserve list for any spaces that may become available. Email us at events@unboxed.co and we will add you to the list.
