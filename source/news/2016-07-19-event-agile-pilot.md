@@ -57,6 +57,14 @@ Hear from digital leaders who have successfully run pilot agile projects, scaled
 
 ![Melissa Sabella, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-21%20at%2017.39.24_zpssonvua1m.png)
 
+
+<br/>
+## Owen White, Founder, EdTechFutures (previously Digital Strategy & Innovation Director at Pearson)<br/>
+[@Edtechfutures](https://twitter.com/Edtechfutures)<br/>
+
+![Owen White, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/owen%20white_zpsfeyhxkuj.png)
+
+
 <br/>
 Others speakers will be announced as they are confirmed.<br/>
 
