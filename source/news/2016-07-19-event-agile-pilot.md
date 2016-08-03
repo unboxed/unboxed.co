@@ -44,7 +44,6 @@ This event is for:<br/>
 # Speakers include:<br/>
 
 Hear from digital leaders who have successfully run pilot agile projects, scaled up and delivered results across a product portfolio, including:<br/>
-<br/>
 
 <br/>
 ## Melissa Sabella, Director of Product and Innovation, Reed Learning<br/>
