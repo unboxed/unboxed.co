@@ -41,9 +41,16 @@ This event is for:<br/>
 - Anyone responsible for delivering important digital products
 
 
-# Speakers include:<br/>
+# Speakers:<br/>
 
-Hear from digital leaders who have successfully run pilot agile projects, scaled up and delivered results across a product portfolio, including:<br/>
+Hear from digital leaders who have successfully run pilot agile projects, scaled up and delivered results across a product portfolio.<br/>
+
+Hosted by Carrie Bedingfield, Founder of [50th Generation](http://www.50thgeneration.org/):
+
+![Carrie Bedingfield 50th Generation](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-08-04%20at%2010.35.35_zpszxxcspuj.png)
+
+<br/>
+Speakers include:
 
 <br/>
 ## Melissa Sabella, Director of Product and Innovation, Reed Learning<br/>
