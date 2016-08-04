@@ -52,7 +52,6 @@ Hosted by Carrie Bedingfield, Founder of [50th Generation](http://www.50thgenera
 <br/>
 Speakers include:
 
-<br/>
 ## Melissa Sabella, Director of Product and Innovation, Reed Learning<br/>
 [@msabella](https://twitter.com/msabella)<br/>
 
