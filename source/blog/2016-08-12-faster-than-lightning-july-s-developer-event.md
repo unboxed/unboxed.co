@@ -15,6 +15,7 @@ We regularly host “Faster than Lightning” code talks where our developers ge
 ![Unboxed Ruby on Rails developer event](http://i1291.photobucket.com/albums/b548/grammccram/425768e3-f9c7-4f84-bfa2-ada2a5ecdcb4_zpspacxcs2i.png)
 
 Here’s a selection of the submissions from this month:<br/>
+<br/>
 
 ## [Chris C](www.unboxed.co/people/#chris-carter)
 
