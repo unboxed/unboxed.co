@@ -14,4 +14,10 @@ https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and
 
 A funny story about what's lurking in our external dependencies.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Alan T](/people#alan-thomas)
+
+A little old, but something good to start the weekend.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/SzBJQnD7TRM" frameborder="0" allowfullscreen></iframe>
+
+[Dakota by the Stereophonics](https://www.youtube.com/watch?v=SzBJQnD7TRM)
