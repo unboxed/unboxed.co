@@ -55,6 +55,12 @@
   color: $white;
 }
 
+.highlight--bucks-cc-beta {
+  @extend %highlight;
+  background-color: #74B900;
+  color: $white;
+}
+
 .highlight--reed-learning {
   @extend %highlight;
   background-color: #00C2D6;
