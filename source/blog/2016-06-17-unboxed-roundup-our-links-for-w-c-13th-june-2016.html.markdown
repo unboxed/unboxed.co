@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Dramatically reducing the number of configuration options often impacts nobody - [Oskar P](/people#oskar-pearson)
+## Dramatically reducing the number of configuration options often impacts nobody - [Oskar P](/people)
 
 http://neverworkintheory.org/2016/06/09/too-many-knobs.html
 

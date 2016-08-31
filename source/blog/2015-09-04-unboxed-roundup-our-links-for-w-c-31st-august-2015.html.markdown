@@ -8,7 +8,7 @@ tags:
   - Culture
 ---
 
-## Managing Large Database Migrations with Rails - [Oskar P](/people#oskar-pearson)
+## Managing Large Database Migrations with Rails - [Oskar P](/people)
 
 How to handle complex migrations of very large data tables when you can’t afford any downtime: http://robertheaton.com/2015/08/31/migrating-bajillions-of-database-records-at-stripe/
 

@@ -281,20 +281,6 @@
     - name: "GitHub"
       link: "https://github.com/alanth"
 
-- name: "Oskar Pearson"
-  short_name: "oskar-pearson"
-  role: "Devops"
-  email: "oskar.pearson"
-  bio: |
-    I’m passionate about solving problems for people. These problems can come in a huge variety of forms - from a business-wide structural improvement, through to a micro-optimisation on a web form that makes a user happy. I enjoy trying to come up with solutions to these problems in new and novel ways. Having coded in Perl for longer than I care to admit, I’m truly happy to be in the Ruby, Agile, and Lean-thinking world. Right now I’m focussed on implementing DevOps principles at Unboxed.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/oskarpearson"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/oskarpearson"
-    - name: "GitHub"
-      link: "https://github.com/oskarpearson"
-
 - name: "Jack Bracewell"
   short_name: "jack-bracewell"
   role: "Developer"

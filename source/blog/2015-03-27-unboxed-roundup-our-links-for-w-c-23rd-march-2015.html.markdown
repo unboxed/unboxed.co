@@ -72,7 +72,7 @@ https://rubyconf.eventer.com/rubyconf-australia-2015-1223/towards-a-higher-level
 
 https://www.worcester-bosch.co.uk/homeowner/boilers/wave-and-boiler-controls/wave-control-system
 
-## Track of the Week - [Oskar P](/people#oskar-pearson)
+## Track of the Week - [Oskar P](/people)
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190236937&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 ["Saltwater" by Chicane feat. Moya Brennan](https://soundcloud.com/armadamusic/chicane-feat-moya-brennan-saltwater)
