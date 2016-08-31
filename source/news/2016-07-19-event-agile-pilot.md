@@ -3,10 +3,10 @@ date: '2016-07-19 11:39 +0100'
 published: true
 title: 'Event: Agile Pilot'
 ---
-## Agile pilot: How to deliver “stuck” digital projects and encourage innovation across your organisation
+![Agile event London](http://i1291.photobucket.com/albums/b548/grammccram/Piloting%20Agile%20Banner%20Image_zpslww2sruy.jpg)
 
 <b>Date:</b> Wednesday 7th September 2016<br/>
-<b>Time:</b> 08:30am – 12.30pm (coffee and limbering from 8.30am)<br/>
+<b>Time:</b> 09:00am – 12.30pm (coffee and limbering from 8.30am)<br/>
 <b>Location:</b> Adam House, 7-10 Adam Street, London, WC2N 6AA<br/>
 
 <a href="http://www.eventbrite.co.uk/e/agile-pilot-how-to-deliver-stuck-digital-projects-and-encourage-innovation-across-your-organisation-tickets-26517584810?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=26517584810" alt="Eventbrite - Agile pilot: How to deliver “stuck” digital projects and encourage innovation across your organisation" /></a>
@@ -41,19 +41,39 @@ This event is for:<br/>
 - Anyone responsible for delivering important digital products
 
 
-# Speakers include:<br/>
+# Speakers:<br/>
 
-Hear from digital leaders who have successfully run pilot agile projects, scaled up and delivered results across a product portfolio, including:<br/>
+Hear from digital leaders who have successfully run pilot agile projects, scaled up and delivered results across a product portfolio.<br/>
 
-Martyn Evans, Head of Product, Unboxed<br/>
+Hosted by Carrie Bedingfield, Founder of [50th Generation](http://www.50thgeneration.org/):
 
-![Martyn Evans, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-14%20at%2016.22.18_zpsmie4fox6.png)
+![Carrie Bedingfield 50th Generation](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-08-04%20at%2010.35.35_zpszxxcspuj.png)
 
-Other speakers include digital leaders from:<br/>
+<br/>
+Speakers include:
 
-- Learning & Development
-- Retail
-- Healthcare
+## Melissa Sabella, Director of Product and Innovation, Reed Learning<br/>
+[@msabella](https://twitter.com/msabella)<br/>
+
+![Melissa Sabella, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-21%20at%2017.39.24_zpssonvua1m.png)
+
+
+<br/>
+## Owen White, Founder, EdTechFutures (previously Digital Strategy & Innovation Director at Pearson)<br/>
+[@Edtechfutures](https://twitter.com/Edtechfutures)<br/>
+
+![Owen White, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/owen%20white_zpsfeyhxkuj.png)
+
+
+<br/>
+## Martyn Evans, Head of Product, Unboxed<br/>
+[@martynrevans](https://twitter.com/martynrevans)<br/>
+
+![Martyn Evans, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-21%20at%2017.39.16_zpsuwkh80pt.png)
+
+
+<br/>
+Others speakers will be announced as they are confirmed.<br/>
+
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.co.uk/tickets-external?eid=26517584810&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Powered by Eventbrite</a></div></div>
-

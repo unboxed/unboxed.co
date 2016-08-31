@@ -410,6 +410,8 @@
   short_name: "jon-pepler"
   role: "Developer"
   email: "jon.pepler"
+  bio: |
+    I am a developer with a passion for innovative and emergent buzzwords. I love cats and knitwear.
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/JonPepler"
