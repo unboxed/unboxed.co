@@ -40,12 +40,12 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## LXC – Running 14,000 tests per day and beyond! (Part 1) - [Oskar P](/people#oskar-pearson)
+## LXC – Running 14,000 tests per day and beyond! (Part 1) - [Oskar P](/people)
 
 * https://codeascraft.com/2013/09/23/lxc-running-14000-tests-per-day-and-beyond-part-1/<br/>
 <br/>
 
-## LXC – Automating Containers aka Virtual Madness (Part 2) - [Oskar P](/people#oskar-pearson)
+## LXC – Automating Containers aka Virtual Madness (Part 2) - [Oskar P](/people)
 
 * https://codeascraft.com/2013/09/23/lxc-automating-containers-aka-virtual-madness-part-2/
 

@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Git Rebase without Tears - [Oskar P](/people#oskar-pearson)
+## Git Rebase without Tears - [Oskar P](/people)
 
 https://matthew-brett.github.io/pydagogue/rebase_without_tears.html
 

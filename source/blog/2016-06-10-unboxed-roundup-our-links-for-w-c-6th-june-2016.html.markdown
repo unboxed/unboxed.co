@@ -14,7 +14,7 @@ http://www.mindtheproduct.com/2016/05/product-managers-please-make-uncomfortable
 
 So much in this article encouraging product teams to take inspiration from improvised jazz. Get uncomfortable, listen carefully, let everyone solo. Proper agile init.
 
-## When Software has to fight against Human Nature - [Oskar Pearson](/people#oskar-pearson)
+## When Software has to fight against Human Nature - [Oskar Pearson](/people)
 
 https://medium.com/@Timoth3y/why-i-turned-down-500k-pissed-off-my-investors-and-shut-down-my-startup-2645c4ca1354
 

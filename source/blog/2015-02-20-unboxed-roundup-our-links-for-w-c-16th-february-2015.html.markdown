@@ -14,7 +14,7 @@ http://www.iamthefold.com/
 
 A visual representation of visitor's viewport heights.
 
-## All code is debt - [Oskar](/people#oskar-pearson)
+## All code is debt - [Oskar](/people)
 
 https://pantheon.io/blog/all-code-debt
 

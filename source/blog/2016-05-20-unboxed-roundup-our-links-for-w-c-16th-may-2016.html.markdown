@@ -14,7 +14,7 @@ http://blog.aha.io/product-manager-vs-the-scrum-master-differences/
 
 We often have long discussions in our Introduction to Agile training course about the different responsibilities of the Product Owner and the Scrum Master.  Ron Yang  gives a great explanation.
 
-## NHS Hack Day Fun - [Oskar P](/people#oskar-pearson)
+## NHS Hack Day Fun - [Oskar P](/people)
 
 http://nhshackday.com
 
