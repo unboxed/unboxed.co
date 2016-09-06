@@ -59,10 +59,10 @@ Speakers include:
 
 
 <br/>
-## Owen White, Founder, EdTechFutures (previously Digital Strategy & Innovation Director at Pearson)<br/>
-[@Edtechfutures](https://twitter.com/Edtechfutures)<br/>
+## Richard Atherton, Management Consultant, Coach & Programme Manager<br/>
+[@RathertonRich](https://twitter.com/RathertonRich)<br/>
 
-![Owen White, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/owen%20white_zpsfeyhxkuj.png)
+![Richard Atherton](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-09-06%20at%2014.22.32_zpskhfykewj.png)
 
 
 <br/>
