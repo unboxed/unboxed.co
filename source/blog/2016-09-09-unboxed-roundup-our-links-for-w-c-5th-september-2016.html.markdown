@@ -20,4 +20,11 @@ https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world
 
 I feel like there are lots of "open source: how to start" articles going round but this seemed to place a greater emphasis on sticking at it and being prepared to try elsewhere if it doesn't work out.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Chris H](/people#chris-holmes)
+
+It's Friday and as the week draws to a close this track is a good one to bring
+in the weekend!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIhFpmzRKYM" frameborder="0" allowfullscreen></iframe>
+
+[Hundred Mile High City by Ocean Colour Scene](https://www.youtube.com/watch?v=xIhFpmzRKYM)
