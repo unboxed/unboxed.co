@@ -406,3 +406,9 @@
     - name: "GitHub"
       link: "https://github.com/jon1467"
 
+- name: "Gary Millar"
+  short_name: "gary-millar"
+  role: "Tester"
+  email: "gary.millar"
+
+
