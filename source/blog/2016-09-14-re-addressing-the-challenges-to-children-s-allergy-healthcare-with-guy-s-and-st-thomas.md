@@ -17,7 +17,7 @@ I spent Monday afternoon visiting the [Health Foundry](http://www.healthfoundry.
 
 The Health Foundry is a brand new collaborative workspace for people using digital technologies to improve health and wellbeing, based in Canterbury House by St. Thomas’ Hospital in Waterloo. Powered by [Guy’s and St. Thomas’ Charity](https://www.gsttcharity.org.uk), they provide support and a working space for digital healthcare startups (including [DrDoctor](http://www.drdoctor.co.uk), who have just moved in), supporting them to create scalable digital health solutions.<br/>
 
-This is the where one of our teams ([Martyn](www.unboxed.co/people/#martyn-evans), [Leon](www.unboxed.co/people/#leon-odey-knight) and [Cale](www.unboxed.co/people/#cale-tilford)) is based this week to carry out a one-week design sprint with [Guy’s and St. Thomas’](http://www.guysandstthomas.nhs.uk/Home.aspx). The pediatric allergy team there deliver the children's allergy service (CAS) - a service provided to local families in Lambeth and Southwark, as well as to other children across the country who suffer with allergic disease, such as asthma, eczema, hay-fever and food allergies.<br/>
+This is the where one of our teams ([Martyn](www.unboxed.co/people/#martyn-evans), [Leon](www.unboxed.co/people/#leon-odey-knight) and [Cale](www.unboxed.co/people/#cale-tilford)) is based this week to carry out a one-week design sprint with [Guy’s and St. Thomas’ NHS Foundation Trust](http://www.guysandstthomas.nhs.uk/Home.aspx). The pediatric allergy team there deliver the children's allergy service (CAS) - a service provided to local families in Lambeth and Southwark, as well as to other children across the country who suffer with allergic disease, such as asthma, eczema, hay-fever and food allergies.<br/>
 
 With the current children’s allergy service not running as smoothly and efficiently as it needs to be, the hospital is taking a service transformation approach to focus on ways to improve this service for its users through digital.<br/>
 
@@ -55,7 +55,7 @@ A series of subject experts were lined up to contribute within these early stage
 ![Healthcare digital transformation 6](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5700_zpsastzfgyl.jpg)
 
 <br/>
-# HWM: How We Might
+# HMW: How Might We
 Throughout the user interviews and ‘Ask the experts’ sessions, the team had constantly been taking notes on post-its when hearing something of interest, then converting these into questions by adding “How Might We” to the beginning of everything written down.  
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">The team sharing their suggestions to &#39;How Might We&#39;. <a href="https://twitter.com/GSTTCharity">@GSTTCharity</a> <a href="https://twitter.com/GSTTnhs">@GSTTnhs</a> <a href="https://twitter.com/hashtag/GSTTSprint?src=hash">#GSTTSprint</a> <a href="https://t.co/OMEHLidYBM">pic.twitter.com/OMEHLidYBM</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/775354199488008192">September 12, 2016</a></blockquote>
