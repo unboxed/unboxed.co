@@ -65,7 +65,7 @@ In the last session I attended, the room worked on sharing their “How Might We
 
 ![Healthcare digital transformation 7](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5740_zpsdumv656j.jpg)
 
-As I left, I looked back on what the team had achieved during the two-hour timeslot that I’d been with them for:<br/>
+I looked back on what the team had achieved during the two-hour timeslot that I’d been with them for:<br/>
 
 - A set of carried out interviews with real service users
 - Key stakeholder engagement with subject experts
@@ -77,7 +77,3 @@ The sprint is continuing across this week, with a Show & Tell scheduled for Thur
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr"><a href="https://twitter.com/Ubxd">@Ubxd</a> Sprint day 2 - researching good websites hopefully we will be inspired to create something useful for our families  <a href="https://twitter.com/GSTTnhs">@GSTTnhs</a></p>&mdash; Roisin (@RoisinRoycroft) <a href="https://twitter.com/RoisinRoycroft/status/775634953396682753">September 13, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
