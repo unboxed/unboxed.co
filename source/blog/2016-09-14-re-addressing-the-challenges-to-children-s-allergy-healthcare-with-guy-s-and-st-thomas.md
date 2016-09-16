@@ -71,7 +71,7 @@ I looked back on what the team had achieved during the two-hour timeslot that Iâ
 - Key stakeholder engagement with subject experts
 - A prioritised set of questions to address and go forward with
 
-Quite a number of bases covered during in such a short time period.<br/>
+Quite a number of bases covered in a short time period.<br/>
 
 The sprint is continuing across this week, with a Show & Tell scheduled for Thursday and due to conclude on Friday afternoon. The team will be working towards creating a working user-led prototype of the new children's allergy service to trial with real users at the end of the week.<br/>
 
