@@ -30,4 +30,10 @@ http://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-ad
 
 Not sure how keen everyone is on podcasts but if you've ever wondered how Slack fits together behind the scenes this is worth a listen. (As are many of the other episodes for that matter)
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Richard S](/people#richard-stobart)
+
+A friend of mine has this on a continuous loop and forced me to listen to it more than once!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ibuSxgL83dE" frameborder="0" allowfullscreen></iframe>
+
+[Johnny and Mary by Todd Terje/Bryan Ferry](https://www.youtube.com/watch?v=ibuSxgL83dE)
