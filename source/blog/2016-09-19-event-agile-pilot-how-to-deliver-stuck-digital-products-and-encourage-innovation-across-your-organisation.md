@@ -24,7 +24,6 @@ With introductions by [Carrie Bedingfield](https://unboxed.co/people/#carrie-bed
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Good start to <a href="https://twitter.com/hashtag/agilepilot?src=hash">#agilepilot</a>. Great crowd. <a href="https://twitter.com/msabella">@msabella</a> starting us off...</p>&mdash; Adam Cranfield (@adamcranfield) <a href="https://twitter.com/adamcranfield/status/773440556689162240">September 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br/>
 
 # Session 1: Innovation too late
 
@@ -55,6 +54,8 @@ When a great project idea doesn’t achieve the result you were hoping and aimin
 - Take the time to create your strategy and be ruthless about focusing on what will get you there vs. generate some incremental revenue
 - Socialisation of the product idea is important - getting a whole organisation excited about what’s happening will keep people invested even when it gets tough
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Socialisation of an idea is important. There’s value in getting a whole organisation excited about an idea. <a href="https://twitter.com/msabella">@msabella</a> <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/773447543942414336">September 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
 # Session 2: Transforming local government services
@@ -140,7 +141,6 @@ Following the arrival of their new Head of Digital, the digital team knew they w
 - Find the advocates on your team and the word spreads
 
 ![Agile Pilot tip 3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-09-08%20at%2017.18.18_zpsaqyneddj.png)
-<br/>
 
 And Martyn's slides from the session:<br/>
 
@@ -165,6 +165,7 @@ Richard’s session took the audience through the story of his leadership of the
 - When you get the formalities out of the way, then comes the time to work in a different way with the organisation and begin introducing new techniques to their ways of working
 - Experiment to find ways of approaching new challenges, and bring your teams together
 
+<br/>
 ## Get your team to set some hard, measurable objectives
 
 - Set some quantitative results in your team that are difficult, but not impossible, to achieve
@@ -172,6 +173,7 @@ Richard’s session took the audience through the story of his leadership of the
 - Set these measureable objectives to state what the direction is, and show that the team are holding themselves accountable
 - These objectives could be cash for the sales team, revenue, events for marketing, etc.
 
+<br/>
 ## Work out loud
 
 - Feedback feedback, feedback: Encourage a culture of getting feedback into everything you do, and always ask for this feedback
@@ -179,7 +181,7 @@ Richard’s session took the audience through the story of his leadership of the
 - Use storytelling to connect to people on your change journey - create a visual story of your whole journey together 
 - Carry out your Show & Tells in big open spaces and get everyone involved, including your sales team - get them to share their prospects, 'work out loud'
 
-
+<br/>
 ## Lego Serious Play
 Richard completed the session by getting the Lego out and leading a [Lego Serious Play](https://en.wikipedia.org/wiki/Lego_Serious_Play) exercise.<br/>
 
@@ -190,3 +192,8 @@ Each person created a model to represent a time where they had either gotten stu
 And Richard's slides from the session:<br/>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/6tDwI52QAJg9S3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/richard-athetoon-agile-pilot" title="Richard Atherton - Agile Pilot" target="_blank">Richard Atherton - Agile Pilot</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Thanks for inspirational morning <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a> - took lots away particularly about approach to start up and generation energy for projects</p>&mdash; Maijakatrine (@maijahansen31) <a href="https://twitter.com/maijahansen31/status/773501920887578624">September 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
