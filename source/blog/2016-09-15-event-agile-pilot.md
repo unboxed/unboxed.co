@@ -1,5 +1,5 @@
 ---
-date: '2016-09-15 13:55 +0100'
+date: '2016-09-19 13:55 +0100'
 published: true
 title: >-
   Event: Agile Pilot - How to deliver "stuck" digital products and encourage
