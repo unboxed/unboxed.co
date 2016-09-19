@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Hello, I'm Mr Null - [Jon P](/people#jon-pepler)
+## Hello, I'm Mr Null - [Jon P](/people)
 
 http://www.wired.com/2015/11/null/
 

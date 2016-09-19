@@ -392,20 +392,6 @@
   role: "Developer"
   email: "lloyd.africa"
 
-- name: "Jon Pepler"
-  short_name: "jon-pepler"
-  role: "Developer"
-  email: "jon.pepler"
-  bio: |
-    I am a developer with a passion for innovative and emergent buzzwords. I love cats and knitwear.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/JonPepler"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/jonathan-pepler-593191b7"
-    - name: "GitHub"
-      link: "https://github.com/jon1467"
-
 - name: "Gary Millar"
   short_name: "gary-millar"
   role: "Tester"
