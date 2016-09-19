@@ -121,7 +121,7 @@ Following the arrival of their new Head of Digital, the digital team knew they w
 
 ![Agile Pilot tip 1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-09-15%20at%2014.45.13_zpstolg5n8i.png)
 
-
+<br/>
 <b>Tip 2: Show your working</b><br/>
 
 - Use agile principles - don’t produce massive reports but put in a Show & Tell session after each sprint
@@ -132,7 +132,7 @@ Following the arrival of their new Head of Digital, the digital team knew they w
 
 ![Agile Pilot tip 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-09-08%20at%2017.16.02_zps59xupiry.png)
 
-
+<br/>
 <b>Tip 3: Assemble the right team</b><br/>
 
 - If you can find really smart people available, get them on your team
@@ -147,7 +147,7 @@ And Martyn's slides from the session:<br/>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uPzTRHwT3P6E1J" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/agile-pilot-martyn-evans" title="Agile Pilot - Martyn Evans" target="_blank">Agile Pilot - Martyn Evans</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
 
 <br/>
-## Session 3: Getting un-stuck - A tale of destruction and rebirth 
+# Session 3: Getting un-stuck - A tale of destruction and rebirth 
 
 Richard Atherton ([@RathertonRich](https://twitter.com/RathertonRich)), Management Consultant, Coach & Programme Manager<br/>
 
