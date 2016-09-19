@@ -35,13 +35,14 @@ Melissa Sabella ([@msabella](https://twitter.com/msabella)) - Founder and CEO, T
 
 Melissa’s session addressed the situation where an organisation moves too slowly for too long and, just when the light bulb strikes… It’s too late. The organisation has found itself in a position where it’s too late and, unfortunately, there isn't enough time left to show results and funding gets cut off.<br/>
 
-
+<br/>
 ## Failure is not an easy thing
 
 - In baseball, the elite players fail 7 out of 10 times - we have to get as comfortable with failure as they are
 - It's easy to say we do, but when it comes to money being invested and people's jobs on the line, protecting the status quo feels responsible 
 - When failure does happen, sometimes it's the right thing after all
 
+<br/>
 ## What could we have done differently?
 When a great project idea doesn’t achieve the result you were hoping and aiming for, you then look into asking <i>“why?”</i>. For example, it could be that an organisation loses their nerve, the sponsor leaves, funding gets cut off, etc. But remember if this happens that it’s important to look back and ask yourself: <i>“What could we have done differently?”.</i><br/>
 
@@ -54,8 +55,6 @@ When a great project idea doesn’t achieve the result you were hoping and aimin
 - Take the time to create your strategy and be ruthless about focusing on what will get you there vs. generate some incremental revenue
 - Socialisation of the product idea is important - getting a whole organisation excited about what’s happening will keep people invested even when it gets tough
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Socialisation of an idea is important. There’s value in getting a whole organisation excited about an idea. <a href="https://twitter.com/msabella">@msabella</a> <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/773447543942414336">September 7, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
 # Session 2: Transforming local government services
@@ -67,6 +66,7 @@ Martyn Evan ([@martynrevans](https://twitter.com/martynrevans)) - Head of Produc
 ![Pilot Agile project - Martyn Evans 1](http://i1291.photobucket.com/albums/b548/grammccram/cbaa24bf-7502-4475-bb4e-452cb06bc2b0_zpsye0zi2vr.jpg)
 
 Martyn’s session focused around transforming digital services through applying the [GDS (Government Digital Service) Service Standard](https://www.gov.uk/service-manual/service-standard), using local council as a recent example, and sharing his top tips for ensuring success within a pilot agile project.<br/>
+<br/>
 
 ## Applying the GDS Service Standard to transform digital services 
 One of the main drivers in public sector organisations is not how to <i>make</i> money, but how to <b>save</b> money. The challenge is knowing that better services need to be delivered. There is currently a large movement in the public sector moving towards, and adopting, agile and the GDS Service Standard.<br/>
@@ -106,7 +106,7 @@ Following the arrival of their new Head of Digital, the digital team knew they w
 - At the end of Alpha, there were two services to take into the Beta phase
 - These two services are now in the Beta phase, with real people using them on a daily basis, and the cost savings are already happening through reduced volume to contact centres
 
-
+<br/>
 ## Three tips for the success of your agile pilot
 
 <b>Tip 1: Test your assumptions</b><br/>
