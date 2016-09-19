@@ -59,7 +59,7 @@ end
 ```
 
 <br/>
-## [Cale T](www.unboxed.co/people/#cale-tilford)
+## Cale T
 
 This line of code is from a project where I needed to display a randomly selected quote. Currently the database has about 3 quotes, so randomly ordering doesn't take long but if I were to scale this database and have, say, 1,000 quotes or more, this could take a considerable amount of computation. For now, this seems to be the easiest way to get a random object from a database but let's hope my application never gets particularly large as this line could increase the time it takes to load the app for users.<br/>
 

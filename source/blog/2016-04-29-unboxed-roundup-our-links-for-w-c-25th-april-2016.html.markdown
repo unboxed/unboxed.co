@@ -42,7 +42,7 @@ http://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/
 
 A recent discussion with some colleagues about deployments and whether or not to run database migrations by default made me realise that I'd internalised the "fact" that automatically running migrations as part of a deploy was bad, but I couldn't recall any of the arguments for why.  This article gave me a good refresher on those arguments, and even better I find that I still agree with them.  I just hope I remember them this time.
 
-## Track of the Week - [Cale T](/people#cale-tilford)
+## Track of the Week - Cale T
 
 It's been over three years since James Blake released his sophomore album Overgrown (which went on to win the 2013 Mercury Prize), and since then he's experimented with a number of smaller projects under his newly formed label 1-800 Dinosaur. Earlier this year, James Blake released 'Modern Soul' - the first hint that a new album was imminent. Other songs have dropped since (including a collaboration with Beyonce on Lemonade), but none have been able to match the ghostly, minimalist atmosphere created by 'Modern Soul'.
 
