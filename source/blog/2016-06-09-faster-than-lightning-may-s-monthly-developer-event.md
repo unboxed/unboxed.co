@@ -64,7 +64,7 @@ I chose this code as it reminded me of similar code that my university lecturer 
 
 
 <br/>
-## [Cale T](https://unboxed.co/people/#cale-tilford)
+## [Cale T](https://unboxed.co/people)
  
 Over the last week I’ve been working on [SH:24](https://unboxed.co/project-stories/sh24), writing lots of ‘yes’/’no’ questions for a new order form. Writing out the same code repeatedly was inefficient, so I extracted the code out and put it into a partial. This has allowed the code to become easily reusable. Any experienced Rails developer will have done this a hundred times before but this was my first experience of the awesome clarity and time-saving capabilities of Rails’ partials.<br/>
 
