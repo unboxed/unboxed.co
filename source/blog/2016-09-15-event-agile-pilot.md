@@ -31,10 +31,28 @@ Melissa Sabella ([@msabella](https://twitter.com/msabella)) - Founder and CEO, T
 
 ![Melissa Sabella 1](http://i1291.photobucket.com/albums/b548/grammccram/9cc234de-2baf-4435-b62e-16b1db125345_zpswxbvqtls.jpg)
 
+<i>Previously working as the Director of Strategy, Delivery, Product and Innovation at Reed Learning, Melissa was responsible for the overall strategy of Reed Learning, reporting directly into the CEO of the Reed Group. She has led digital transformation in professional learning and development by piloting Agile teams in organisations to deliver fast tangible results for key stakeholders.</i><br/>
+
+Melissa’s session addressed the situation where an organisation moves too slowly for too long and, just when the light bulb strikes… It’s too late. The organisation has found itself in a position where it’s too late and, unfortunately, there isn't enough time left to show results and funding gets cut off.<br/>
 
 
+## Failure is not an easy thing
+
+- In baseball, the elite players fail 7 out of 10 times - we have to get as comfortable with failure as they are
+- It's easy to say we do, but when it comes to money being invested and people's jobs on the line, protecting the status quo feels responsible 
+- When failure does happen, sometimes it's the right thing after all
+
+## What could we have done differently?
+When a great project idea doesn’t achieve the result you were hoping and aiming for, you then look into asking <i>“why?”</i>. For example, it could be that an organisation loses their nerve, the sponsor leaves, funding gets cut off, etc. But remember if this happens that it’s important to look back and ask yourself <i>“what could we have done differently?”</i>.<br/>
+
+- If  massive transformation invloves management changing roles and collaborating , be sure accountabilities and ownership are clearly negotiated and expectations are set from the start
+- Get the structures and incentives right - i.e. make sure your marketing is sitting with your product and your sales team is rewarded to sell the new stuff
+- If you have a tough decision to make and there are two choices, do not make a decision - come up with more choices and more options
+- Take the time to create your strategy and be ruthless about focusing on what will get you there vs. generate some incremental revenue
+- Socialisation of the product idea is important - getting a whole organisation excited about what’s happening will keep people invested even when it gets tough
 
 
+<br/>
 # Session 2: Transforming local government services
 
 Martyn Evan ([@martynrevans](https://twitter.com/martynrevans)) - Head of Product, Unboxed ([@ubxd](https://twitter.com/Ubxd))<br/>
@@ -126,8 +144,3 @@ Richard Atherton ([@RathertonRich](https://twitter.com/RathertonRich)), Manageme
 <i>Richard Atherton is a consultant, coach and educator with more than 15 years’ experience. He has led or helped to deliver complex programmes at large organisations, which include ITV, BBC and Universal International. Richard has a major interest in human and organisational development.</i><br/>
 
 ![Richard Atherton 1](http://i1291.photobucket.com/albums/b548/grammccram/c3a6f8c7-791f-4857-9972-017d82627c35_zpsqyjuye5z.jpg)
-
-
-
-
-
