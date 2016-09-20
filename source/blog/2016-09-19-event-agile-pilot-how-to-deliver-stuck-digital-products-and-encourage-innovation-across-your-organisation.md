@@ -22,6 +22,9 @@ With introductions by [Carrie Bedingfield](https://unboxed.co/people/#carrie-bed
 
 ![Yes But 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5529_zpspmxtwdxb.jpg)
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Kicking off our <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a> event with <a href="https://twitter.com/CBedingfield">@CBedingfield</a> and a game of &quot;Yes, And...&quot; <a href="https://t.co/MRYqsQrsPd">pic.twitter.com/MRYqsQrsPd</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/773430647645958144">September 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Good start to <a href="https://twitter.com/hashtag/agilepilot?src=hash">#agilepilot</a>. Great crowd. <a href="https://twitter.com/msabella">@msabella</a> starting us off...</p>&mdash; Adam Cranfield (@adamcranfield) <a href="https://twitter.com/adamcranfield/status/773440556689162240">September 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -188,6 +191,9 @@ Richard completed the session by getting the Lego out and leading a [Lego Seriou
 ![Richard Atherton 2](http://i1291.photobucket.com/albums/b548/grammccram/8e9cecd9-a946-428e-87bf-b9053ba6d6a1_zpszz7g9l0w.png)
 
 Each person created a model to represent a time where they had either gotten stuck or had experienced trouble in getting started with a project to share with the people on their table. The aim of this session was for each situation to take a visual form, for people to open up about their challenges, and discuss ways of overcoming this - harnessing the table's collective intelligence.
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Getting in some <a href="https://twitter.com/hashtag/seriousplay?src=hash">#seriousplay</a> with <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a> <a href="https://t.co/Z6xk8RGwTQ">pic.twitter.com/Z6xk8RGwTQ</a></p>&mdash; Richard Atherton (@RathertonRich) <a href="https://twitter.com/RathertonRich/status/773471524841979904">September 7, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And Richard's slides from the session:<br/>
 
