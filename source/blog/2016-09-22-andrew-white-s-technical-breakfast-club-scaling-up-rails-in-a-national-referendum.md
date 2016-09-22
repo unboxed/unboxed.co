@@ -56,16 +56,16 @@ Both CloudFormation and Elastic Compute Cloud (EC2) are used to automatically de
 We have encountered, and surpassed, a number of milestones over the last 13 months. Lessons we have learnt through these experiences, since launching, include:<br/>
 
 
-<b>1. Jeremy Hunt (120,680 signatures)<b></br>
+<b>1. Jeremy Hunt (120,680 signatures)</b></br>
 During the ‘Jeremy Hunt to resume meaningful contract negotiations with the BMA’ petition, the system was processing 21,000 signatures per hour, surpassing the peak of 12,000 per hour from the previous version of the site. Some invalid signature counts were highlighted, resulting in making the change of locking the signature row before applying.</br>
 
-<b>2. Jamie Oliver’s Sugar Rush (155,516 signatures)<b></br>
+<b>2. Jamie Oliver’s Sugar Rush (155,516 signatures)</b></br>
 Launched by Jamie Oliver, the ‘Introduce a tax on sugary drinks in the UK to improve our children's health’ petition received national coverage when the URL to the petition was included at the very end of his television programme. Google Analytics then showed the number of concurrent users jumping from 9,000 to 21,000 in the space of seconds. We don’t use custom AMIs due to the reaction time (one-to-two minutes), but learned that spare capacity is required at all times for instances such as this.</br>
 
-<b>3. Donald Trump (586,933 signatures)<b></br>
+<b>3. Donald Trump (586,933 signatures)</b></br>
 The ‘Block Donald J Trump from UK entry’ petition in December 2015 showed a large amount of locks when trying to update the signature count on the petition. This was because we ran a lot of the code for validating a signature inside a database lock. We realised we could move part of it, the signature count update, outside the lock without risking counting double clicks.</br>
 
-<b>4. Meningitis B vaccine (823,346 signatures)<b></br>
+<b>4. Meningitis B vaccine (823,346 signatures)</b></br>
 The ‘Give the Meningitis B vaccine to ALL children, not just newborn babies’ petition hit a new peak for the system, at the time, receiving 54,000 signatures per hour. We scaled the number of app servers, as expected this pushes more load onto the database but not enough for us to be worried (yet). We needed to achieve and maintain a balance in the application to ensure there were no bottlenecks.</br>
 
 ![Andrew White's Technical Breakfast Club 6](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5406_zpswmxkza62.jpg)
