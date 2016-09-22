@@ -104,7 +104,7 @@ When scaling up to the 12th application server for the evening, we hit a problem
 - 100,000+ concurrent users
 - 141,000 signatures per hour
 
-
+<br/>
 <b>Sunday 26th June</b><br/>
 Reports of fraudulent signatures arrived in the media by day three. [Oskar](https://twitter.com/oskarpearson), [Murray](https://unboxed.co/people#andrew-white) and myself investigated and removed any fraudulent signatures from the system that had previously been processed and ensured these were constantly monitored going forward. Helen Jones MP, Chair of the Petitions Committee, released a statement from the House of Commons to address this issue:<br/>
 
@@ -128,7 +128,10 @@ The following week, we embraced our Agile culture and held a retrospective to re
 - In terms of performance, application monitoring is essential as you need to know where your hotspots are
 - You can’t just scale up if you’re not constantly improving and looking at your application on an ongoing basis - there are no magic bullets
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">In order to scale successfully, you need to be constantly improving your app. <a href="https://twitter.com/hashtag/AWTBC?src=hash">#AWTBC</a> <a href="https://t.co/cmGLCtJy00">pic.twitter.com/cmGLCtJy00</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/770910803042177024">August 31, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 We are now focussing on improving our approach to handling fraud on the system, including:<br/>
 
 Moving the task of removing invalid signatures from a developer task to an admin task
@@ -140,6 +143,5 @@ From scaling up to accommodate a 403%+ increase in signatures (823,346 to 4,146,
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3KIGbLyzMZz182" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/andrew-whites-technical-breakfast-club" title="Andrew White&#x27;s Technical Breakfast Club" target="_blank">Andrew White&#x27;s Technical Breakfast Club</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">In order to scale successfully, you need to be constantly improving your app. <a href="https://twitter.com/hashtag/AWTBC?src=hash">#AWTBC</a> <a href="https://t.co/cmGLCtJy00">pic.twitter.com/cmGLCtJy00</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/770910803042177024">August 31, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
