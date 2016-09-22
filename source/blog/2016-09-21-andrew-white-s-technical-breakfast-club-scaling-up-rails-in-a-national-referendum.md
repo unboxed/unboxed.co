@@ -1,23 +1,22 @@
 ---
-date: '2016-09-21 21:22 +0100'
-published: false
+date: '2016-09-22 10:22 +0100'
+published: true
 title: >-
   Andrew White’s Technical Breakfast Club: Scaling up Rails in a national
   referendum
 author: Andrew White
 tags:
-  - Design
   - Rails
 main_image: >-
   http://i1291.photobucket.com/albums/b548/grammccram/6c099d53-a307-45f0-ba03-7c8b8dd9f6bf_zpsoyjrhpgo.png
 ---
-<i>This was the next installment of Andrew White’s Technical Breakfast Club – the breakfast club for the Rails developers and architects, hosted by Rails Core Team Member and our CTO, [Andrew White](https://unboxed.co/people#andrew-white).</i><br/>
+<i>This was the next installment of Andrew White’s Technical Breakfast Club – the breakfast club for Rails developers and architects, hosted by Rails Core Team Member and our CTO, [Andrew White](https://unboxed.co/people#andrew-white).</i><br/>
 
 ![Andrew White's Technical Breakfast Club 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5405_zpsmatdnvv9.jpg)
 
 <i>The topic of this installment was ‘Scaling up Rails in a national referendum’ – the story of how over four million UK citizens took to the Parliament Petitions website, following the EU referendum result, to sign the ‘EU Referendum Rules triggering a 2nd EU referendum’ petition.</i><br/>
 
-![Andrew White's Technical Breakfast Club 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5419_zps3rnesjyf.jpg)
+![Andrew White's Technical Breakfast Club 2](http://i1291.photobucket.com/albums/b548/grammccram/16bb3aca-7745-4ab6-9857-5cd4625e49cd_zps0f5dviap.jpg)
 
 # The background to the Petitions website and its design
 [Petitions](https://petition.parliament.uk/) is an online government platform, enabling members of the public to create or sign petitions that ask for a change to the law or to government policy. Built as an open source Rails application, the platform is used to open up new dialogue between public and Parliament. Individual petitions that receive 10,000 signatures get a response from the government, and 100,000+ signatures are considered for debate in Parliament.<br/>
@@ -26,7 +25,7 @@ main_image: >-
 The first Petitions site was launched in November 2006, during Tony Blair’s time as Prime Minister. This system was developed by [MySociety](https://www.mysociety.org/2010/12/15/local-e-petitions-see-if-mysociety-is-providing-your-local-system/).<br/>
 
 <b>Version 2</b><br/>
-We began working with GDS on the second version of the Petitions site, launched as e-Petitions by the coalition government in July 2011. This system experienced heightened popularity during the 2011 London Riots and was immediately required to scale for the surge of signatures during the ‘Convicted London rioters should loose (sic) all benefits’ [https://petition.parliament.uk/archived/petitions/7337] petition, which received 258,276 signatures.<br/>
+We began working with GDS on the second version of the Petitions site, launched as e-Petitions by the coalition government in July 2011. This system experienced heightened popularity during the 2011 London Riots and was immediately required to scale for the surge of signatures during the [‘Convicted London rioters should loose (sic) all benefits’]( [https://petition.parliament.uk/archived/petitions/7337) petition, which received 258,276 signatures.<br/>
 
 <b>Version 3 (current version)</b><br/>
 The [current version of Petitions was launched in July 2015](https://unboxed.co/project-stories/petitions/), in partnership with GDS, as a platform to open new dialogue between the public and Parliament. Developing on the existing codebase allowed our team to get moving from day one, with only a limited amount of time due to the government being closed for the 2015 election.<br/>
@@ -139,29 +138,4 @@ From scaling up to accommodate a 403%+ increase in signatures (823,346 to 4,146,
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">In order to scale successfully, you need to be constantly improving your app. <a href="https://twitter.com/hashtag/AWTBC?src=hash">#AWTBC</a> <a href="https://t.co/cmGLCtJy00">pic.twitter.com/cmGLCtJy00</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/770910803042177024">August 31, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
