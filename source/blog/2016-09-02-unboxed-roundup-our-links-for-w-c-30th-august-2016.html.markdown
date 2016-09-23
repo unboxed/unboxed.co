@@ -20,7 +20,7 @@ http://www.theverge.com/2016/8/30/12706316/spike-jonze-perfume-ad-watch-this
 
 … I just wasn’t expecting that!
 
-## This program can mimic your handwriting with shocking accuracy — what could go wrong? - [Jon P](/people#jon-pepler)
+## This program can mimic your handwriting with shocking accuracy — what could go wrong? - Jon P
 
 http://www.dailydot.com/layer8/handwriting-algorithm-privacy-security/
 

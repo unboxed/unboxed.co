@@ -341,22 +341,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/mattturrell1"
 
-- name: "Cale Tilford"
-  short_name: "cale-tilford"
-  role: "Developer"
-  email: "cale.tilford"
-  bio: |
-    I’m currently studying Computing at Imperial College London, however, my interest in web and software development started much earlier.
-    Like many of my generation, the web has had a profound influence on my youth. As an developer at Unboxed, I’m excited to begin contributing to the platform that has been so integral to my life so far.
-    When I’m not lost in the digital world I enjoy reading comics, listening to records, drinking coffee, and writing.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/tlfrd"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/cale-evan-tilford-bb519855"
-    - name: "GitHub"
-      link: "https://github.com/tlfrd"
-
 - name: "Tom Russell"
   short_name: "tom-russell"
   role: "Developer"
@@ -391,20 +375,6 @@
   short_name: "lloyd-africa"
   role: "Developer"
   email: "lloyd.africa"
-
-- name: "Jon Pepler"
-  short_name: "jon-pepler"
-  role: "Developer"
-  email: "jon.pepler"
-  bio: |
-    I am a developer with a passion for innovative and emergent buzzwords. I love cats and knitwear.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/JonPepler"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/jonathan-pepler-593191b7"
-    - name: "GitHub"
-      link: "https://github.com/jon1467"
 
 - name: "Gary Millar"
   short_name: "gary-millar"
