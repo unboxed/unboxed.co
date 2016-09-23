@@ -20,4 +20,10 @@ http://amir.rachum.com/blog/2016/09/15/knowledge-debt/
 
 It's worth remembering that as a developer there's always more to learn. New frameworks crop up every other week, new languages every year or so, and existing tools change as well. The constant rate of change can be daunting.  This article reminds us that the important thing is to learn enough to get you through the task you're trying to complete. You can come back and do some deeper investigation to gain a better understanding later if you have to.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Mareliza K](/people#mareliza-kirschbaum)
+
+We used to listen to Sigur Ros, drink condensed milk and smoke menthol cigarettes in university. Nowadays, in between baby, work and rest we put Sigur Ros on repeat over weekends... :)
+
+<iframe src="https://player.vimeo.com/video/53394874?color=d8c288&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+[Valtari by Sigur R&oacute;s](https://vimeo.com/53394874)
