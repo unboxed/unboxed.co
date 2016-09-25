@@ -20,7 +20,7 @@ http://amir.rachum.com/blog/2016/09/15/knowledge-debt/
 
 It's worth remembering that as a developer there's always more to learn. New frameworks crop up every other week, new languages every year or so, and existing tools change as well. The constant rate of change can be daunting.  This article reminds us that the important thing is to learn enough to get you through the task you're trying to complete. You can come back and do some deeper investigation to gain a better understanding later if you have to.
 
-## MIT License Line by Line - [Andrew S](/people#andrew-white)
+## MIT License Line by Line - [Andrew W](/people#andrew-white)
 
 https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html
 
