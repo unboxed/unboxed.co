@@ -42,11 +42,11 @@ The next step was to map out the current user journey their patients take, along
 
 <br/>
 # User interviews
-As I arrived, the team had just kicked off telephone user interview sessions. A set of long-term service users (the parents of younger existing patients of the department) joined the team to go through their experiences of using the service, from beginning to finish (from the initial appointment to final discharge) and raise any questions they had about the current service. These sessions were used as a two-way method conversation, also providing a platform for members of the team (NHS and Unboxed) to ask users any specific questions about their experiences with the service.<br/>
+As I arrived, the team had just kicked off telephone user interview sessions. A set of long-term service users (the parents of younger existing patients of the department) joined the team to go through their experiences of using the service, from beginning to finish (from the initial appointment to final discharge) and raise any questions about the current service. These sessions are used as a two-way method conversation, also providing a platform for members of the team (NHS and Unboxed) to ask users any specific questions about their experiences with the service.<br/>
 
 ![Healthcare digital transformation 5](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5678_zpsjxrez1hj.jpg)
 
-Pain points were drawn from these interviews to identify where the current service may not be working as efficiently as it could be, also drilling down into the specific steps in the process that work efficiently and those that aren’t working so well.<br/>
+Pain points are drawn from these interviews to identify where the current service may not be working as efficiently as it could be, also drilling down into the specific steps in the process that work efficiently and those that aren’t working so well.<br/>
 
 <br/>
 # Ask the experts
