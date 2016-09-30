@@ -17,7 +17,7 @@ pull-requests](https://github.com/blog/2256-a-whole-new-github-universe-announci
 so it's a good time to have a think about what code-review really is,
 and how we should go about doing it.  I really like the things that [David A.
 Black](http://www.davidablack.net/) says in this timely article.  He
-suggests that reivew is about checking for unclear code, not nitpicking
+suggests that review is about checking for unclear code, not nitpicking
 that it's not exactly the code you would have written.
 
 ## Running Online Services at Riot - [Charlie E](/people#charlie-egan)
