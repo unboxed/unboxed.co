@@ -38,6 +38,12 @@ https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8
 
 While perhaps a little long, it raises some interesting points about what object orientation really means.
 
+## Ruby vs. Python - [Murray S](/people#murray-steele)
+
+https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.jiq26lsmq
+
+As a former Python developer and a current Ruby developer I found this article about the differences between the two extremely useful.
+
 ## Track of the Week - [Carlo K](/people#carlo-kruger)
 
 Something a little different. Carl Cox's iconic Ibiza club night Space is closed after 15 years. This is his 8 hour closing set presented in two parts. Part one has a more retro feel as he tries to summarize 15 years of dance music including classics like "The Bells" by Jeff Mills.
