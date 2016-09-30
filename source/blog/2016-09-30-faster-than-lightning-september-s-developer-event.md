@@ -6,19 +6,22 @@ author: Neil van Beinum
 tags:
   - Culture
   - Innovation
-main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/IMG_6060_zpsyasxbtzv.jpg'
+main_image: >-
+  http://i1291.photobucket.com/albums/b548/grammccram/fc673061-7bf3-4522-8124-54bd8d15b16e_zpszdfkg9wk.jpg
 ---
 This month we hosted our regular 'Faster than Lightning' developer talks, where Unboxed developers get together to discuss code that we’ve been working with, and share stories about these with each other. The idea is to get together and have a chat about what we’ve been thinking about, with the code as a talking point.<br/>
 
+![Faster than Lightning 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_6055_zps2ixg9mbt.jpg)
+
 Here’s a selection of the submissions from this month:<br/>
+<br/>
 
 ## [Charlie Egan](https://unboxed.co/people/#charlie-egan)
 
 We all place a high value on project documentation and setup instructions, regularly changing projects it's important that this is the best it can be. However, when it comes to setting up _personal_ development environments often the approach is less rigorous. Last weekend I was adding a system tool for use via my editor and decided to write up a [Dockerfile](https://github.com/charlieegan3/dotfiles/blob/85405d3d93ef23374d2d234af525644560156144/Dockerfile) to codify the process. I looked around and found that other's containerized vim setups were all [heavily tailored](https://github.com/JAremko/alpine-vim/blob/master/Dockerfile) and opted to write my own (heavily tailored) Dockerfile.<br/>
 
-![Faster than Lightning 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_6055_zps2ixg9mbt.jpg)
-<br/>
 
+<br/>
 ## [Andrew White](https://unboxed.co/people/#andrew-white)
 
 **Q.** Why does this [template fragment][1] sometimes blow up with an
@@ -71,7 +74,7 @@ to think about turning off that hidden field which you can do by passing the opt
 [1]: https://github.com/alphagov/e-petitions/blob/9080c2b/app/views/application/_social_meta.html.erb#L18-L19
 [2]: https://tools.ietf.org/html/rfc3986
 
-
+<br/>
 ![Faster than Lightning 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_6060_zpsyasxbtzv.jpg)
 <br/>
 
@@ -106,7 +109,7 @@ function leadChordNotes(winnerNameHash) {
 };
 ```
 
-
+<br/>
 ## [Murray Steele](https://unboxed.co/people/#murray-steele)
 
 I recently added a [linter](https://github.com/alphagov/govuk_lint) to a project I was working on, and running it produced a warning about this fragment of code:
@@ -156,4 +159,3 @@ end
 ```
 
 What I learned from this was that it's definitely worth reviewing any changes that your linter suggests or autocorrects before accepting them.  You'll learn a little bit more about the style that your linter prefers and hopefully avoid linting errors in future changes.  More importantly, it might be that the linter has exposed something that you didn't fully understand about your code and that the autocorrect is only one possible way to appease the linter.  Often it can be re-written to avoid the linting error but also make the code clearer.
-
