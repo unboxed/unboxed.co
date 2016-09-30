@@ -7,7 +7,7 @@ tags:
   - Culture
   - Innovation
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/fc673061-7bf3-4522-8124-54bd8d15b16e_zpszdfkg9wk.jpg
+  http://i1291.photobucket.com/albums/b548/grammccram/FTL%20dev%20talk%202%20-%20September_zpsldw6i9ou.png
 ---
 This month we hosted our regular 'Faster than Lightning' developer talks, where Unboxed developers get together to discuss code that we’ve been working with, and share stories about these with each other. The idea is to get together and have a chat about what we’ve been thinking about, with the code as a talking point.<br/>
 
