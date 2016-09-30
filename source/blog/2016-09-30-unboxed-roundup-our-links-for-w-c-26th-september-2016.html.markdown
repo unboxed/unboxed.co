@@ -38,4 +38,14 @@ https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8
 
 While perhaps a little long, it raises some interesting points about what object orientation really means.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Carlo K](/people#carlo-kruger)
+
+Something a little different. Carl Cox's iconic Ibiza club night Space is closed after 15 years. This is his 8 hour closing set presented in two parts. Part one has a more retro feel as he tries to summarize 15 years of dance music including classics like "The Bells" by Jeff Mills.
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/284297717&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+[Carl Cox - Live @ Space, Ibiza Sept 2016 Closing Party, Part 1 of 2](https://soundcloud.com/avidmuzikfan/carl-cox-live-space-ibiza-sept-2016-closing-party-part-1-of-2week-15)
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/284310609&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+[Carl Cox - Live @ Space, Ibiza Sept 2016 Closing Party, Part 2 of 2](https://soundcloud.com/avidmuzikfan/carl-cox-live-space-ibiza-sept-2016-closing-party-part-2-of-2week-15)
