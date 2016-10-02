@@ -77,3 +77,8 @@ Others speakers will be announced as they are confirmed.<br/>
 
 
 <div style="width:100%; text-align:left;" ><iframe  src="//eventbrite.co.uk/tickets-external?eid=26517584810&ref=etckt" frameborder="0" height="214" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/r/etckt">Powered by Eventbrite</a></div></div>
+
+<br/>
+# Session write-up
+
+The write-up of our Agile Pilot event [can be found here](https://unboxed.co/blog/event-agile-pilot-how-to-deliver-stuck-digital-products-and-encourage-innovation-across-your-organisation/).
