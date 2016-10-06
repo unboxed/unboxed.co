@@ -31,6 +31,8 @@ activate :directory_indexes
 
 activate :sitemap, hostname: "https://unboxed.co"
 
+activate :syntax
+
 configure :development do
   activate :livereload
 end
