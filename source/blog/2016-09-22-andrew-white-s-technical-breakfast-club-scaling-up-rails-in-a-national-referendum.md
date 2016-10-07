@@ -106,7 +106,7 @@ When scaling up to the 12th application server for the evening, we hit a problem
 
 <br/>
 <b>Sunday 26th June</b><br/>
-Reports of fraudulent signatures arrived in the media by day three. [Oskar](https://twitter.com/oskarpearson), [Murray](https://unboxed.co/people#andrew-white) and myself investigated and removed any fraudulent signatures from the system that had previously been processed and ensured these were constantly monitored going forward. Helen Jones MP, Chair of the Petitions Committee, released a statement from the House of Commons to address this issue:<br/>
+Reports of fraudulent signatures arrived in the media by day three. [Oskar](https://twitter.com/oskarpearson), [Murray](https://unboxed.co/people#murray-steele) and myself investigated and removed any fraudulent signatures from the system that had previously been processed and ensured these were constantly monitored going forward. Helen Jones MP, Chair of the Petitions Committee, released a statement from the House of Commons to address this issue:<br/>
 
 ![Andrew White's Technical Breakfast Club 8](http://i1291.photobucket.com/albums/b548/grammccram/petition%20statement_zpsi9qpmcxo.jpg)
 
