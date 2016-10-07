@@ -32,5 +32,11 @@ http://worldbuilding.stackexchange.com/questions/57014/how-could-banks-with-mult
 
 This stackexchange site has [loads of interesting questions](http://worldbuilding.stackexchange.com/questions?sort=votes). This is a good one from this week about banking and systems of trust. The answers have interesting parallels with TransferWise, cryptocurrencies and the like.
 
-## Track of the Week - [](/people#)
+## ## Track of the Week - [Pawel J](/people#pawel-janiak)
+
+Light up your Friday afternoon. Grab a drink from your company's bar if you have one. Grab a friend if you can, and get your mind right for the weekend.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uk_2Eo0No_k" frameborder="0" allowfullscreen></iframe>
+
+[Rae Sremmurd - Look Alive](https://www.youtube.com/watch?v=Uk_2Eo0No_k)
 
