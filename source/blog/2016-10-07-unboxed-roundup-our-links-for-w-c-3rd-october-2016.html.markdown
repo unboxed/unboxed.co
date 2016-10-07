@@ -32,6 +32,12 @@ http://worldbuilding.stackexchange.com/questions/57014/how-could-banks-with-mult
 
 This stackexchange site has [loads of interesting questions](http://worldbuilding.stackexchange.com/questions?sort=votes). This is a good one from this week about banking and systems of trust. The answers have interesting parallels with TransferWise, cryptocurrencies and the like.
 
+## React Props/State Explained Through Darth Vader's Hunt for the Rebels - [Chris H](/people#chris-holmes)
+
+https://medium.freecodecamp.com/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492
+
+A nice explanation of React props and state explained using a Star Wars analogy.
+
 ## ## Track of the Week - [Pawel J](/people#pawel-janiak)
 
 Light up your Friday afternoon. Grab a drink from your company's bar if you have one. Grab a friend if you can, and get your mind right for the weekend.
