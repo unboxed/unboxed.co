@@ -9,7 +9,7 @@ tags:
   - Innovation
   - Lean
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/6132a498-342e-4307-bf4f-1e759bc7e450_zpss94lcxz7.jpg
+  http://i1291.photobucket.com/albums/b548/grammccram/9e07f979-a0b6-444f-bb98-6b8c033ff153_zpsey0p09am.jpg
 ---
 I spent Wednesday morning visiting the Digital Team at Newham Council, to attend the first Show & Tell of their [10-week Digital Customer Programme Discovery Phase](https://unboxed.co/news/unboxed-is-awarded-digital-customer-programme-discovery-phase-contract-with-newham-council/).<br/>
 
@@ -25,6 +25,7 @@ These Show & Tell sessions are open to anyone and everyone who would like to com
 <i>Show & Tell duration: 20 minutes</i><br/>
 
 Led by [Martyn](https://unboxed.co/people/#martyn-evans), the Digital Team summarised the progress they have been making across the first sprint of the project:<br/>
+<br/>
 
 ## 1. Holding an Inception Workshop
 The team kick-started progress by holding an Inception Workshop to align the project strategy, activities of which included:<br/>
@@ -39,6 +40,7 @@ The team kick-started progress by holding an Inception Workshop to align the pro
 
 ![Newham Council Digital Customer Programme Discovery Phase 3](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5941_zpsatarmn5f.jpg)
 
+<br/>
 ## 2. Service team introductions
 The important introductions have been made with key stakeholders and departments within a number of different service areas, including:<br/>
 
@@ -47,6 +49,7 @@ The important introductions have been made with key stakeholders and departments
 - Planning
 - Customer service
 
+<br/>
 ## 3. Establishing the ways of working
 The necessary systems have been set up by the team to establish how they can successfully progress forward, including:<br/>
 
@@ -65,7 +68,7 @@ In the final part of the Show & Tell, the team shared the activities they aim to
 - Beginning to create and build up user personas
 - Mapping the current resident user journey for the Housing service to visualise how users flow through the journey, from entry to exit
 
-
+<br/>
 # Debrief and plan of action
 
 ![Newham Council Digital Customer Programme Discovery Phase 5](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5951_zpsiq5cko1m.jpg)
