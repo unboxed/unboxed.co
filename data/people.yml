@@ -281,6 +281,11 @@
     - name: "GitHub"
       link: "https://github.com/FriedSock"
 
+- name: "Anissa Said"
+  short_name: "anissa-said"
+  role: "Admin"
+  email: "anissa.said"
+
 - name: "Neil Van Beinum"
   short_name: "neil-van-beinum"
   role: "Developer"
