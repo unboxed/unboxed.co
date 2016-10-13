@@ -10,7 +10,7 @@ tags:
 
 ##Tillie McCarthy
 During these last two months I have been doing a lot mainly involving assisting in pairing proposals, updating CV’s as part of our customer submissions and researching about marketing and sales agencies that are helpful to Unboxed Consulting. I also attended an event, which was a great experience. I have learnt many useful skills so far from joining unboxed and look forward to learning many more.
-##[Shirin Ullah](/people#shirin-ullah)
+##Shirin Ullah
 I have been working closely with Suki the Finance Manager! I have learnt a lot about how the accounts are managed and what the process is with the client and supplier invoices.
 ##Abbie Ferguson
 I have been at Unboxed for about 2 months now and the time has flown! My duties here include: tweeting on behalf of the company, participating in organising events, entering data, and many more. I have learned a lot of new skills since joining Unboxed Consulting and I am looking forward to learning lots more.
