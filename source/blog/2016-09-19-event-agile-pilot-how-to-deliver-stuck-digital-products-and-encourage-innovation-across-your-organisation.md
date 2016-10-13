@@ -197,9 +197,6 @@ Each person created a model to represent a time where they had either gotten stu
 
 And Richard's slides from the session:<br/>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/6tDwI52QAJg9S3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/richard-athetoon-agile-pilot" title="Richard Atherton - Agile Pilot" target="_blank">Richard Atherton - Agile Pilot</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Thanks for inspirational morning <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a> - took lots away particularly about approach to start up and generation energy for projects</p>&mdash; Maijakatrine (@maijahansen31) <a href="https://twitter.com/maijahansen31/status/773501920887578624">September 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
