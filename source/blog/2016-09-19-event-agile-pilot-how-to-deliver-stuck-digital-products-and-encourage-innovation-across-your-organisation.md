@@ -195,8 +195,6 @@ Each person created a model to represent a time where they had either gotten stu
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Getting in some <a href="https://twitter.com/hashtag/seriousplay?src=hash">#seriousplay</a> with <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a> <a href="https://t.co/Z6xk8RGwTQ">pic.twitter.com/Z6xk8RGwTQ</a></p>&mdash; Richard Atherton (@RathertonRich) <a href="https://twitter.com/RathertonRich/status/773471524841979904">September 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-And Richard's slides from the session:<br/>
-
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Thanks for inspirational morning <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a> - took lots away particularly about approach to start up and generation energy for projects</p>&mdash; Maijakatrine (@maijahansen31) <a href="https://twitter.com/maijahansen31/status/773501920887578624">September 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
