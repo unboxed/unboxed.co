@@ -217,18 +217,6 @@
     - name: "GitHub"
       link: "https://github.com/richarcher"
 
-- name: "Grant Speelman"
-  short_name: "grant-speelman"
-  role: "Developer"
-  email: "grant.speelman"
-  bio: |
-    Unboxed Consulting is exactly that - Unboxed. Innovative and fresh. Up-to-date Ruby developments and energized team work keeps me inspired and motivated. Making the shift to work here, has allowed me to be at the forefront of professional development and the expansion of my career choice. True to my personality, at this company room is made for some serious work, some serious play and cutting edge programming / mobile development.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/gspeelman"
-    - name: "GitHub"
-      link: "https://github.com/grantspeelman"
-
 - name: "Concetta Isolano"
   short_name: "concetta-isolano"
   role: "Developer"
