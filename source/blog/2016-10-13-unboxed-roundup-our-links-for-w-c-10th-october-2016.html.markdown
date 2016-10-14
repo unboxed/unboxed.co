@@ -22,7 +22,7 @@ I thought this was an interesting site showcasing some of the things possible wi
 
 ## Track of the Week - Dreyer Calitz
 
-For those of you who _can't get enough_ of the weekend! Chill out and get your groove on.
+For those of you who *can't get enough* of the weekend! Chill out and get your groove on.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e-EL0Dhez_Y" frameborder="0" allowfullscreen></iframe>
 
