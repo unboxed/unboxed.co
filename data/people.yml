@@ -217,18 +217,6 @@
     - name: "GitHub"
       link: "https://github.com/richarcher"
 
-- name: "Grant Speelman"
-  short_name: "grant-speelman"
-  role: "Developer"
-  email: "grant.speelman"
-  bio: |
-    Unboxed Consulting is exactly that - Unboxed. Innovative and fresh. Up-to-date Ruby developments and energized team work keeps me inspired and motivated. Making the shift to work here, has allowed me to be at the forefront of professional development and the expansion of my career choice. True to my personality, at this company room is made for some serious work, some serious play and cutting edge programming / mobile development.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/gspeelman"
-    - name: "GitHub"
-      link: "https://github.com/grantspeelman"
-
 - name: "Concetta Isolano"
   short_name: "concetta-isolano"
   role: "Developer"
@@ -293,12 +281,10 @@
     - name: "GitHub"
       link: "https://github.com/FriedSock"
 
-- name: "Shirin Ullah"
-  short_name: "shirin-ullah"
+- name: "Anissa Said"
+  short_name: "anissa-said"
   role: "Admin"
-  email: "shirin.ullah"
-  bio: |
-    I am the helpful office admin, I've been learning new ways of adapting to the language of business. One of the best things about Unboxed is you're always learning. In my spare time I enjoy going to the gym.
+  email: "anissa.said"
 
 - name: "Neil Van Beinum"
   short_name: "neil-van-beinum"

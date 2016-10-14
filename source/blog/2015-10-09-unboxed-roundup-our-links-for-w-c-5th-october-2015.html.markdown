@@ -20,7 +20,7 @@ http://www.estherderby.com/2015/10/seven-agile-best-practices.html
 
 A great list of practices to think about when attempting to be work in an agile way. Esther Derby doesn't believe in best practices and silver bullets, but when making herself list some - they all come out to do some thinking, and learn some theory.  Coming up with multiple solutions to the problem is something I find particularly useful when writing software
 
-## Track of the Week - [Shirin U](/people#shirin-ullah)
+## Track of the Week - Shirin U
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/122899544&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 ["I see fire" by Ed Sheeran (Kygo Remix)](https://soundcloud.com/kygo/ed-sheeran-i-see-fire-kygo)

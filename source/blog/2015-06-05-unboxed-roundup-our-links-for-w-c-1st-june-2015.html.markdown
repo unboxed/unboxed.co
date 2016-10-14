@@ -16,7 +16,7 @@ tags:
 > I follow this pattern for most Rails apps, however after reading this short opinion article, I totally agree and have started to follow his alternative instead. Short summary is, yes, loading data in before actions keeps the controller DRY, but perhaps too DRY. The alternative is to explicitly set the instance variables for each action - it will read much clearer.
 
 <br/>
-## Comfortable Mexican Sofa - [Grant S](/people#grant-speelman)
+## Comfortable Mexican Sofa - Grant S
 
 * https://github.com/comfy/comfortable-mexican-sofa
 
