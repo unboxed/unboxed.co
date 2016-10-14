@@ -13,7 +13,7 @@ main_image: >-
 ---
 I spent Wednesday morning visiting the Digital Team at Newham Council, to attend the first Show & Tell of their [10-week Digital Customer Programme Discovery Phase](https://unboxed.co/news/unboxed-is-awarded-digital-customer-programme-discovery-phase-contract-with-newham-council/).<br/>
 
-![Newham Council Digital Customer Programme Discovery Phase 1](http://imgur.com/407co5S)
+![Newham Council Digital Customer Programme Discovery Phase 0](http://imgur.com/407co5S)
 
 Over the last week, a small Unboxed team have been working alongside the Digital Team at Newham Council to take the first steps in transforming how they deliver their key services to 325,000 local residents, as well as making these services increasingly efficient for the council, through taking an innovative approach.<br/>
 
