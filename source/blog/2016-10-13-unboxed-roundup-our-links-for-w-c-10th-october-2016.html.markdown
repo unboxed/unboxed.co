@@ -13,3 +13,11 @@ tags: # (Delete as appropiate)
 https://about.radiopublic.com/why-podcasting-still-needs-rss-6a2779e94e96
 
 A post about building on an existing standard - rather than replacing it with a propriety one (as various other podcast services are doing).
+
+## Track of the Week - Dreyer Calitz
+
+For those of you who _can't get enough_ of the weekend! Chill out and get your groove on.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e-EL0Dhez_Y" frameborder="0" allowfullscreen></iframe>
+
+[Kyle Deutsch - Can't get enough](https://www.youtube.com/watch?v=e-EL0Dhez_Y)
