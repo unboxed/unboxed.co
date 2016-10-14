@@ -8,18 +8,17 @@ tags:
   - Culture
   - Innovation
   - Lean
-main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/9e07f979-a0b6-444f-bb98-6b8c033ff153_zpsey0p09am.jpg
+main_image: 'http://i.imgur.com/UkJaBbK.jpg?1'
 ---
 I spent Wednesday morning visiting the Digital Team at Newham Council, to attend the first Show & Tell of their [10-week Digital Customer Programme Discovery Phase](https://unboxed.co/news/unboxed-is-awarded-digital-customer-programme-discovery-phase-contract-with-newham-council/).<br/>
 
-![Newham Council Digital Customer Programme Discovery Phase 0](http://imgur.com/407co5S)
+![Newham Council Digital Customer Programme Discovery Phase 1](http://i.imgur.com/407co5S.jpg)
 
 Over the last week, a small Unboxed team have been working alongside the Digital Team at Newham Council to take the first steps in transforming how they deliver their key services to 325,000 local residents, as well as making these services increasingly efficient for the council, through taking an innovative approach.<br/>
 
 These Show & Tell sessions are open to anyone and everyone who would like to come along, including key stakeholders, eager colleagues and those just looking to see what the team are up to. The aim of this 20-minute session is to have a transparent platform for the team to share their progress from the previous one-week sprint, address what they plan on tackling in the following sprint, and answer any questions or queries attendees may have.<br/>
 
-![Newham Council Digital Customer Programme Discovery Phase 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5944_zpswi3lugyk.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 2](http://i.imgur.com/UkJaBbK.jpg)
 
 # Digital Discovery - Sprint 1
 <i>Show & Tell duration: 20 minutes</i><br/>
@@ -38,7 +37,7 @@ The team kick-started progress by holding an Inception Workshop to align the pro
 - Planning for the current Discovery phase and thinking about early-stage visions
 - Addressing the risks and assumptions surrounding this 10-week phase
 
-![Newham Council Digital Customer Programme Discovery Phase 3](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5941_zpsatarmn5f.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 3](http://i.imgur.com/7WI0jFM.jpg)
 
 <br/>
 ## 2. Service team introductions
@@ -58,7 +57,7 @@ The necessary systems have been set up by the team to establish how they can suc
 - Sharing calendars and online document folders for collaborative working
 - Planning further stakeholder engagement
 
-![Newham Council Digital Customer Programme Discovery Phase 4](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5948_zpsnry2mbhw.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 4](http://i.imgur.com/6KhRVfs.jpg)
 
 In the final part of the Show & Tell, the team shared the activities they aim to cover across Sprint Two:<br/>
 
@@ -71,7 +70,7 @@ In the final part of the Show & Tell, the team shared the activities they aim to
 <br/>
 # Debrief and plan of action
 
-![Newham Council Digital Customer Programme Discovery Phase 5](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5951_zpsiq5cko1m.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 5](http://i.imgur.com/E4sGVoS.jpg)
 
 With the Show & Tell wrapped up in exactly 20 minutes, the team sat together to debrief, sharing how each person thought the session went and discuss the plan of action for the afternoon, focussing mostly around user interview activities with local residents:<br/>
 
