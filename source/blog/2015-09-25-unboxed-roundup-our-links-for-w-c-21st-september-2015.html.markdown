@@ -14,7 +14,7 @@ http://avc.com/2015/09/the-return-of-the-command-line-interface/
 
 The increased use of a programmatic lexicon within text messaging and bots within messaging apps makes many conversations within Twitter and Slack approach command line code.
 
-## Using SimpleDelegator for your Decorators - [Grant S](/people#grant-speelman)
+## Using SimpleDelegator for your Decorators - Grant S
 
 http://hashrocket.com/blog/posts/using-simpledelegator-for-your-decorators
 

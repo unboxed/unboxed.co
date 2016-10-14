@@ -29,7 +29,7 @@ Sarah's comment:<i>“I hadn't heard this until I had to search for it! I wish i
 Claire's comment: <i>“This is the beat for CPR repetition. I had a 70's party for my 21st, we played it. I also still like to listen to it but not too often!"</i><br/>
 <br/>
 
-##8. [Shirin](/people#shirin-ullah):<br/>
+##8. Shirin:<br/>
 <h1>Mariah Carey - Without You</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/Hat1Hc9SNwE" frameborder="0" allowfullscreen></iframe><br/>
 Shirin's comment: <i>“On a serious note, you can't live without food.”</i><br/>

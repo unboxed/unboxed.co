@@ -54,7 +54,7 @@ https://learnappmaking.com/how-to-migrate-parse-app-parse-server-heroku-mongolab
 
 With the recent announcement about Parse shutting down a lot of app developers have been left wondering what to do. Since Parse have graciously open-sourced a server app, one such option is to host your own and Reinder de Vries explains here how to go about it using Heroku and MongoLab.
 
-## Track of the Week - [Grant S](/people#grant-speelman)
+## Track of the Week - Grant S
 
 <iframe src="https://player.vimeo.com/video/21681429" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ["Three Little Birds" by Bob Marley](https://vimeo.com/21681429)
