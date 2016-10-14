@@ -14,6 +14,12 @@ https://about.radiopublic.com/why-podcasting-still-needs-rss-6a2779e94e96
 
 A post about building on an existing standard - rather than replacing it with a propriety one (as various other podcast services are doing).
 
+## You might not need Javascript - [Chris H](/people#chris-holmes)
+
+http://youmightnotneedjs.com/
+
+I thought this was an interesting site showcasing some of the things possible with modern native HTML and CSS.
+
 ## Track of the Week - Dreyer Calitz
 
 For those of you who _can't get enough_ of the weekend! Chill out and get your groove on.
