@@ -20,6 +20,18 @@ https://tech.vijayp.ca/adding-a-phone-number-to-your-google-account-can-make-it-
 
 A reminder to enable two-factor auth, especially important when access could used to infiltrate a number of accounts.
 
+## Playing Overwatch on Azure's new monster GPU instances - [Charlie E](/people#charlie-egan)
+
+http://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html
+
+After the Google Cloud event yesterday this cool use of _Azure_ should balance things out. Azure have a preview for GPU compute resources. With a good enough internet connection, you can use these to lease an powerful gaming setup and build your own onlive.com.
+
+## Your Social Media Fingerprint - [Charlie E](/people#charlie-egan)
+
+https://robinlinus.github.io/socialmedia-leak/
+
+Need a quick summary of all the places you're logged in? Try this handy vulnerability(?).
+
 ## Track of the Week - [Gary](/people#gary-millar)
 
 Just a reminder of my younger days... Hopefully it brings back some memories for a few people.
