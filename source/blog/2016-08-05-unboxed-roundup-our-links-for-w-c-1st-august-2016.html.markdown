@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=cYVBshcN7wU
 
 An old video, but may well still apply to a horrendously large amount of people. Lock down your social media privacy settings!
 
-## The Churn - [Tom R](/people#tom-russell)
+## The Churn - Tom R
 
 http://blog.cleancoder.com/uncle-bob/2016/07/27/TheChurn.html
 
