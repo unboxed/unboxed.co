@@ -357,4 +357,12 @@
   role: "Tester"
   email: "gary.millar"
 
-
+- name: "Bergen Larsen"
+  short_name: "bergen-larsen"
+  role: "Designer"
+  email: "bergen.larsen"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/BergenLarsen"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/bergenlarsen"
