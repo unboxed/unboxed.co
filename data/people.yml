@@ -327,16 +327,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/mattturrell1"
 
-- name: "Tom Russell"
-  short_name: "tom-russell"
-  role: "Developer"
-  email: "tom.russell"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/khalleth"
-    - name: "GitHub"
-      link: "https://github.com/kalleth"
-
 - name: "Mareliza Kirschbaum"
   short_name: "mareliza-kirschbaum"
   role: "Admin"
