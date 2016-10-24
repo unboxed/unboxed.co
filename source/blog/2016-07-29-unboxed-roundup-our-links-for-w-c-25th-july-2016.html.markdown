@@ -26,7 +26,7 @@ https://imageoptim.com/mac
 
 Often I find myself opening up Photoshop just to compress an image which seems like an overkill and Preview isn’t quite fully equipped for the job. This little application, ImageOptim, which is just the right middle ground, is a fantastic free app. Best of all is that it can handle bulk image compression in a simple drag and drop interface.
 
-## Flynn platform-as-a-service releases v1.0 - [Tom R](/people/#tom-russell)
+## Flynn platform-as-a-service releases v1.0 - Tom R
 
 https://flynn.io/blog/one-point-oh
 

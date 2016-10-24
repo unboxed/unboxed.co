@@ -26,7 +26,7 @@ https://engineering.riotgames.com/news/running-online-services-riot-part-i
 
 First in a series about the process & infrastructure behind League of Legends.
 
-## 15 Sorting Algorithms in 6 minutes - [Tom R](/people#tom-russell)
+## 15 Sorting Algorithms in 6 minutes - Tom R
 
 https://www.youtube.com/watch?v=kPRA0W1kECg
 

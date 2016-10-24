@@ -327,16 +327,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/mattturrell1"
 
-- name: "Tom Russell"
-  short_name: "tom-russell"
-  role: "Developer"
-  email: "tom.russell"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/khalleth"
-    - name: "GitHub"
-      link: "https://github.com/kalleth"
-
 - name: "Mareliza Kirschbaum"
   short_name: "mareliza-kirschbaum"
   role: "Admin"
@@ -375,4 +365,29 @@
   role: "Tester"
   email: "gary.millar"
 
+- name: "Bergen Larsen"
+  short_name: "bergen-larsen"
+  role: "Designer"
+  email: "bergen.larsen"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/BergenLarsen"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/bergenlarsen"
 
+- name: "Dreyer Calitz"
+  short_name: "dreyer-calitz"
+  role: "Developer"
+  email: "dreyer.calitz"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/dreyercalitz"
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/dreyer-calitz-735a1597"
+    - name: "Github"
+      link: "https://github.com/dreyercalitz"
+
+- name: "Tom Gladhill"
+  short_name: "tom-gladhill"
+  role: "Developer"
+  email: "tom.gladhill"
