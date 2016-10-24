@@ -366,3 +366,15 @@
       link: "https://twitter.com/BergenLarsen"
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/bergenlarsen"
+
+- name: "Dreyer Calitz"
+  short_name: "dreyer-calitz"
+  role: "Developer"
+  email: "dreyer.calitz"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/dreyercalitz"
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/dreyer-calitz-735a1597"
+    - name: "Github"
+      link: "https://github.com/dreyercalitz"
