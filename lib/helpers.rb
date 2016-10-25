@@ -30,4 +30,8 @@ module Helpers
   def add_atom_feed_to_head
     content_for(:head) { feed_tag :atom, "#{blog(:blog).options.prefix.to_s}/feed.xml", title: "The Unboxed Blog" }
   end
+
+  def image_url(source)
+    URI.join("http://unboxed.co/", image_path(source))
+  end
 end
