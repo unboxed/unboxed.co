@@ -1,15 +1,17 @@
 <% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
+<% content_for(:title) { "Blog - #{current_page.data.title}" } %>
+<% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
+<% content_for(:meta_keywords) { "unboxed consulting, news, technical, web, development, marketing, graphic design, Unboxed, Ruby on Rails, Blog, #{current_page.data.tags.join(', ')}" } %>
+<% add_atom_feed_to_head %>
+
+<!--Twitter card tags-->
 <% content_for(:head) do %>
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Ubxd">
   <meta name="twitter:title" content="<%= current_page.data.title %>">
   <meta name="twitter:description" content="<%= truncate(strip_tags(current_article.body), length: 150) %>">
-  <meta name="twitter:image" content="<%= current_page.data.main_image %>">
+  <meta name="twitter:image" content="<%= current_page.data.weekly_roundup ? image_url("assets/images/blog/unboxed_roundup.jpg") : current_page.data.main_image %>">
 <% end %>
-<% content_for(:title) { "Blog - #{current_page.data.title}" } %>
-<% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
-<% content_for(:meta_keywords) { "unboxed consulting, news, technical, web, development, marketing, graphic design, Unboxed, Ruby on Rails, Blog, #{current_page.data.tags.join(', ')}" } %>
-<% add_atom_feed_to_head %>
 
 <% wrap_layout :application do %>
   <section class="blog-article">
