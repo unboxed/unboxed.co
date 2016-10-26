@@ -3,7 +3,7 @@ title: Brighton Ruby Conference 2016
 date: '2016-07-22 10:00:53 UTC'
 published: true
 main_image: >-
-  /assets/images/blog/Ruby_Team.png
+  http://unboxed.co/assets/images/blog/Ruby_Team.png
 tags:
   - Culture
   - Innovation
