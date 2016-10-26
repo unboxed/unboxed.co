@@ -20,7 +20,7 @@ With a couple of sprints under their belts since last there, I went along to New
 
 Led by [Martyn](https://unboxed.co/people/#martyn-evans) and Paul (the service designer of the project), the team shared the progress that has been happening across the previous one-week sprint of the project, with stakeholders and interested parties from around the council.
 
-A few examples of important progress milestones the team have made include:
+A few examples of important progress milestones the team have achieved include:
 
 - Meeting key stakeholders around other major services within the council
 - Exploring the customer journeys in the Housing service department in more depth
