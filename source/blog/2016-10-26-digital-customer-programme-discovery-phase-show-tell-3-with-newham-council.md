@@ -14,6 +14,7 @@ With a couple of sprints under their belts since last there, I went along to New
 
 ![Discovery Show & Tell 3 with Newham Council 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_6268_zpsijy2mxvi.jpg)
 
+<br/>
 # Digital Discovery - Sprint Three
 <i>Show & Tell duration: 20 minutes</i>
 
@@ -35,7 +36,8 @@ Other specific milestones met over the last week include:<br/>
 - Thinking about how to prioritise candidate services within the overall bigger picture
 
 ![Discovery Show & Tell 3 with Newham Council 3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-10-18%20at%2021.19.08_zpsqlproqwt.png)
-<i align="center">The team beginning to draft solutions during the sprint</i>
+<i>The team beginning to draft solutions during the sprint</i>
+<br/>
 
 
 # Customer journeys in Housing
@@ -47,7 +49,7 @@ One of the specific areas that has been focused on is within the council’s cur
 It was also highlighted that the agile process has slowly begun spreading across departments. The Housing team are beginning to adopt these new agile ways of working, such as getting a physical prioritised project board up on the wall of their working space - making the sharing of this information much more open and transparent.<br/>
 
 ![Discovery Show & Tell 3 with Newham Council 5](http://i1291.photobucket.com/albums/b548/grammccram/IMG_6272_zpsmuj3nyqh.jpg)
-
+<br/>
 
 # What’s next on the roadmap?
 The team wrapped up this Show & Tell installment by sharing what’s next on their roadmap and the tasks they aim to tackle across the next sprint. Some of these individual tasks include:<br/>
