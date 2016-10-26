@@ -27,6 +27,7 @@ A few examples of important progress milestones the team have made include:
 - Interviewing local residents across a range of council services
 
 ![Discovery Show & Tell 3 with Newham Council 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_6283_zpslxktsuhm.jpg)
+<br/>
 
 Other specific milestones met over the last week include:<br/>
 
@@ -39,7 +40,7 @@ Other specific milestones met over the last week include:<br/>
 <i>The team beginning to draft solutions during the sprint</i>
 <br/>
 
-
+<br/>
 # Customer journeys in Housing
 One of the specific areas that has been focused on is within the council’s current Housing service. The team have began to get a focus on the overall service, with members branching off to address individual areas, for example - the journey residents take to join the housing register and what pain points they are faced with in this journey.<br/>
 
