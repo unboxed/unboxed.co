@@ -4,6 +4,15 @@
 <% content_for(:meta_keywords) { "unboxed consulting, news, technical, web, development, marketing, graphic design, Unboxed, Ruby on Rails, Blog, #{current_page.data.tags.join(', ')}" } %>
 <% add_atom_feed_to_head %>
 
+<!--Twitter card tags-->
+<% content_for(:head) do %>
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@Ubxd">
+  <meta name="twitter:title" content="<%= current_page.data.title %>">
+  <meta name="twitter:description" content="<%= truncate(strip_tags(current_article.body), length: 150) %>">
+  <meta name="twitter:image" content="<%= current_page.data.weekly_roundup ? image_url("assets/images/blog/unboxed_roundup.jpg") : current_page.data.main_image %>">
+<% end %>
+
 <% wrap_layout :application do %>
   <section class="blog-article">
     <div class="blog-article__container">
