@@ -29,5 +29,10 @@ mistake.  Viewing the source and using the browser to make changes to see how
 things work is one of the best ways we have to encourage people to learn about
 how the web works.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Bergen L](/people#bergen-larsen)
 
+Following on from Gary's inspiration of old school punk rock, it is a song from my youth which seems appropriate considering the fact that I'm mid-way through exam season and my brain feels like stew.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UNq9gmY_Oz4" frameborder="0" allowfullscreen></iframe>
+
+[Green Day - Brain Stew/Jaded](https://www.youtube.com/watch?v=UNq9gmY_Oz4)
