@@ -7,6 +7,7 @@ main_image: "http://i.imgur.com/jxhQ4jE.jpg"
 date: "2016-09-05 12:00 +0000"
 published: true
 title: "Development Re-bundling in Dockerland"
+has_syntax: true
 ---
 
 # Development Re-bundling in Dockerland
@@ -21,7 +22,7 @@ For those not familiar with Docker's vocabulary here's a quick intro. Docker con
 
 Images are built up in a series of 'layers'. Each layer represents a change to the previous layer. For example, this excerpt from a Dockerfile:
 
-```
+```dockerfile
 ...
 COPY Gemfile /app/Gemfile
 COPY Gemfile.lock /app/Gemfile.lock
@@ -54,7 +55,7 @@ We came to the conclusion that it's not really possible to have a cache when bui
 
 First we created a bundle cache service in docker-compose, as outlined in the linked posts above:
 
-```
+```yml
 bundle_cache:
   image: busybox
   volumes:
@@ -63,7 +64,7 @@ bundle_cache:
 
 Next we created an entrypoint script for our container, this script runs bundle install before any command issued. Here the container command is run at `exec "$@"`, after checking and optionally installing the bundle.
 
-```
+```bash
 #!/bin/bash
 set -e
 
@@ -74,7 +75,7 @@ exec "$@"
 
 This entry point is then added used in our service Dockerfile:
 
-```
+```dockerfile
 FROM ruby
 
 WORKDIR /app

@@ -25,6 +25,12 @@
     <% if content_for?(:head) %>
       <%= yield_content(:head) %>
     <% end %>
+    <% if current_page.data.has_syntax? %>
+      <style>
+        <%= Rouge::Themes::Github.render(:scope => '.highlight') %>
+        code { line-height: 20px; }
+      </style>
+    <% end %>
     <script>
       function deferredScript(path) {
         function addScript(path) {

@@ -6,6 +6,7 @@ author: Neil van Beinum
 tags:
   - Culture
   - Innovation
+has_syntax: true
 main_image: >-
   http://i1291.photobucket.com/albums/b548/grammccram/FTL%20dev%20talk%202%20-%20September_zpsldw6i9ou.png
 ---
@@ -27,14 +28,14 @@ We all place a high value on project documentation and setup instructions, regul
 **Q.** Why does this [template fragment][1] sometimes blow up with an
 encoding mismatch error on the second line?<br/>
 
-``` erb
+```erb
 <%= open_graph_tag 'url', request.original_url %>
 <%= open_graph_tag 'type', 'website' %>
 ```
 
 when doing the following request:<br/>
 
-``` bash
+```bash
 curl -I 'https://petition.parliament.uk/petitions?utf8=✓'
 ```
 
@@ -51,7 +52,7 @@ so you end up scratching your head wondering why it's happening.<br/>
 
 The fix is to make a helper that forces the encoding to UTF-8:<br/>
 
-``` ruby
+```ruby
 def original_url
   request.original_url.force_encoding('utf-8')
 end
@@ -59,7 +60,7 @@ end
 
 and use that in your template instead:
 
-``` erb
+```erb
 <%= open_graph_tag 'url', original_url %>
 ```
 
@@ -84,7 +85,7 @@ This code snippet is part of a work-in-progress project. I’ve been experimenti
 
 This function is part of a first attempt at this. It takes a hash of the person’s name and then converts any 0 characters to ‘G’s. It then strips out the numbers and attempts to populate the returned array with 6 characters representing musical notes. However, there are a couple of problems including the inability to handle hashes containing no letters. Following a discussion in the session I will look at converting the name into a series of base-7 numbers which represent the musical notes. I will also need to think about how to include  the various flat and sharp notes that are possible.<br/>
 
-```
+```javascript
 function leadChordNotes(winnerNameHash) {
   var NUMBER_OF_NOTES = 6,
       chordNotes = winnerNameHash.toUpperCase(),
@@ -114,7 +115,7 @@ function leadChordNotes(winnerNameHash) {
 
 I recently added a [linter](https://github.com/alphagov/govuk_lint) to a project I was working on, and running it produced a warning about this fragment of code:
 
-```
+```ruby
 def can_edit_site?(site_to_edit)
   can_edit_sites[site_to_edit.abbr] ||= begin
     gds_editor? ||
@@ -127,7 +128,7 @@ end
 
 It was complaing about the wrong indenting.  The linter also has an autocorrect mode so it also fixed the indenting to make the code look like this:
 
-```
+```ruby
 def can_edit_site?(site_to_edit)
   can_edit_sites[site_to_edit.abbr] ||= begin
     gds_editor? ||
@@ -140,7 +141,7 @@ end
 
 There were many other autocorrected linting violations in the PR I made so I didn't pay much attention to this.  Luckily, someone else on the team did and she asked me why we were getting the extra indent here as it looked odd.  It turns out that the linter wants you to indent an expression if you break it onto separate lines, which is what we'd done, but we hadn't realised that the expression we thought we'd written was more deeply nested than we thought.  [Ruby's operator precedence rules](https://ruby-doc.org/core-2.3.0/doc/syntax/precedence_rdoc.html) mean that `&&` binds more closely than `||`, so we'd introduced a subtle permissions bug.  After working this out we refactored to make the code clearer and ended up with this:
 
-```
+```ruby
 def can_edit_site?(site_to_edit)
   can_edit_sites[site_to_edit.abbr] ||= 
     site_is_editable?(site_to_edit) && has_permission_to_edit_site?(site_to_edit)
