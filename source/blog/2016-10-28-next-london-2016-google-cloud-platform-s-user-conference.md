@@ -6,17 +6,18 @@ author: Charlie Egan
 tags:
   - Culture
   - Innovation
-main_image: 'http://imageshack.com/a/img922/7448/WzW0xt.jpg'
+main_image: >-
+  http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-10-28%20at%2012.06.26_zpsiskyzric.png
 ---
 Paula and I attended last Friday’s [NEXT London 2016 - Google Cloud Platform's User Conference](https://cloudplatformonline.com/NEXT2016-London.html) - the largest Google developer and IT gathering in the UK, exploring the latest developments in cloud technology.<br/>
 
 ![Google Cloud Platform's User Conference](http://i1291.photobucket.com/albums/b548/grammccram/67986f78-d115-40c8-bd50-a48ead03e4e6_zpsxbldytwq.png)
 
 Across the day, we attended a number of sessions from the Plenary and Breakout tracks. Here are our summaries of some these talks... <br/>
+<br/>
 
 ## GCP Next 2016 conference impressions - [Charlie](https://unboxed.co/people#charlie-egan)
 
-<br/>
 # Painless container management with Google Container Engine & Kubernetes
 This was the first talk in the big hall. Craig Box gave a similar overview of 
 Kubernetes to his presentation at Container Camp last month. Kubernetes is
@@ -82,7 +83,6 @@ the process and was a great bonus - people were clearly interested, but
 skeptical, in the SRE setup.<br/>
 <br/>
 
-<br/>
 ## GCP Next 2016 conference impressions - [Paula](https://unboxed.co/people#paula-stepinska)
 
 This certainly was a big selling event. But Google managed to spark the interest 
