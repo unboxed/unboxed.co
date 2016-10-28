@@ -1,6 +1,6 @@
 ---
 date: '2016-10-28 10:39 +0100'
-published: false
+published: true
 title: NEXT London 2016 - Google Cloud Platform's User Conference
 author: Charlie Egan
 tags:
@@ -10,8 +10,7 @@ main_image: 'http://imageshack.com/a/img922/7448/WzW0xt.jpg'
 ---
 Paula and I attended last Friday’s [NEXT London 2016 - Google Cloud Platform's User Conference](https://cloudplatformonline.com/NEXT2016-London.html) - the largest Google developer and IT gathering in the UK, exploring the latest developments in cloud technology.<br/>
 
-
-![Google Cloud Platform's User Conference](http://i1291.photobucket.com/albums/b548/grammccram/hF6BIP_zps8fhyxber.jpg)
+![Google Cloud Platform's User Conference](http://i1291.photobucket.com/albums/b548/grammccram/67986f78-d115-40c8-bd50-a48ead03e4e6_zpsxbldytwq.png)
 
 Across the day, we attended a number of sessions from the Plenary and Breakout tracks. Here are our summaries of some these talks... <br/>
 
