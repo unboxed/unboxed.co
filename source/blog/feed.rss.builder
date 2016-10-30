@@ -21,7 +21,8 @@ xml.rss :version => "2.0", "xmlns:atom" => "http://www.w3.org/2005/Atom" do
         xml.link URI.join(site_url, article.url)
         xml.guid atom_id(article), "isPermaLink" => "false"
 
-        author = data.people.detect { |person| person.name.downcase == article.data.author.downcase }
+        article_author = article.data.author || article.data.authors.first
+        author = data.people.detect { |person| person.name.downcase == article_author.downcase }
         if author
           xml.author "#{author.email}@unboxed.co (#{author.name})"
         end

@@ -20,7 +20,8 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom", "xml:lang" => "en-GB" do
       xml.updated File.mtime(article.source_file).iso8601
       xml.tags article.tags
       xml.author do
-        author = data.people.detect { |person| person.name.downcase == article.data.author.downcase }
+        article_author = article.data.author || article.data.authors.first
+        author = data.people.detect { |person| person.name.downcase == article_author.downcase }
         if author
           xml.name author.name
           xml.email "#{author.email}@unboxed.co"

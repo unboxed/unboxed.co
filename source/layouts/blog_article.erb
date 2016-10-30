@@ -1,8 +1,10 @@
 <% if current_page.data.author %>
   <% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
-  <% authors = [author] %>
+  <% authors = author.nil? ? false : [author] %>
 <% elsif current_page.data.authors %>
   <% authors = current_page.data.authors.map { |name| data.people.detect { |author| author.name.downcase == name.downcase } }.compact %>
+<% else %>
+  <% authors = false %>
 <% end %>
 
 <% content_for(:title) { "Blog - #{current_page.data.title}" } %>
