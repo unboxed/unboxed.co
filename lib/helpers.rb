@@ -1,3 +1,5 @@
+require './lib/article_info'
+
 module Helpers
   def retina_srcset(path)
     return %(src="#{path}") if path =~ /^http(s)?/
@@ -33,5 +35,9 @@ module Helpers
 
   def image_url(source)
     URI.join("http://unboxed.co/", image_path(source))
+  end
+
+  def article_info(people, page)
+    ArticleInfo.new(people, page)
   end
 end

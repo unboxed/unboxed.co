@@ -1,12 +1,3 @@
-<% if current_page.data.author %>
-  <% author = data.people.detect { |person| person.name.downcase == current_page.data.author.downcase } %>
-  <% authors = author.nil? ? false : [author] %>
-<% elsif current_page.data.authors %>
-  <% authors = current_page.data.authors.map { |name| data.people.detect { |author| author.name.downcase == name.downcase } }.compact %>
-<% else %>
-  <% authors = false %>
-<% end %>
-
 <% content_for(:title) { "Blog - #{current_page.data.title}" } %>
 <% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
 <% content_for(:meta_keywords) { "unboxed consulting, news, technical, web, development, marketing, graphic design, Unboxed, Ruby on Rails, Blog, #{current_page.data.tags.join(', ')}" } %>
@@ -22,6 +13,9 @@
 <% end %>
 
 <% wrap_layout :application do %>
+  <% article_info = article_info(data.people, current_page.data) %>
+  <% authors = article_info.authors %>
+
   <section class="blog-article">
     <div class="blog-article__container">
 
@@ -31,15 +25,18 @@
         </h1>
 
         <div class="blog-header__subtitle">
-          <% if authors %>
-            <% authors.each_with_index do |a, i| %>
-              <a class="blog-header__author--linked" href="/people#<%= a.short_name %>" rel="author"><%= a.name %></a><!--
-              --><%= ", " if i != authors.size - 1 %>
+          <% authors.each_with_index do |author, index| %>
+            <% if author.short_name %>
+              <a class="blog-header__author--linked" href="/people#<%= author.short_name %>" rel="author">
+                <%= author.name %>
+              </a>
+            <% else %>
+              <div class="blog-header__author">
+                <%= author.name %>
+              </div>
             <% end %>
-          <% else %>
-            <div class="blog-header__author">
-              <%= current_page.data.author %>
-            </div>
+
+            <%= ", " if index != authors.size - 1 %>
           <% end %>
 
           <div class="blog-header__published-date">
@@ -67,28 +64,26 @@
 
   <div class="blog-footer">
     <div class="blog-footer__container">
-      <% if authors %>
-        <% authors.each_with_index do |a, i| %>
-          <section class="blog-author">
-            <% if sitemap.find_resource_by_path "/assets/images/people/#{a.short_name}.png" %>
-              <img class="blog-author__image" src="/assets/images/people/<%= a.short_name %>.png" alt="<%= a.name %>"/>
-            <% end %>
-            <aside class="blog-author__right-section">
-              <a class="blog-author__name" href="/people#<%= a.short_name %>">
-                <%= a.name %>
-              </a>
-              <div class="blog-author__bio">
-                <%= simple_format a.bio %>
-              </div>
+      <% article_info.current_authors.each_with_index do |a, i| %>
+        <section class="blog-author">
+          <% if sitemap.find_resource_by_path "/assets/images/people/#{a.short_name}.png" %>
+            <img class="blog-author__image" src="/assets/images/people/<%= a.short_name %>.png" alt="<%= a.name %>"/>
+          <% end %>
+          <aside class="blog-author__right-section">
+            <a class="blog-author__name" href="/people#<%= a.short_name %>">
+              <%= a.name %>
+            </a>
+            <div class="blog-author__bio">
+              <%= simple_format a.bio %>
+            </div>
 
-              <% if blog(:blog).articles.select { |article| article.data.author == a.name }.size >= 2 %>
-                <a class="blog-author__read-more" href="/blog/author/<%= a.short_name %>">
-                  Read more posts by <%= a.name %>
-                </a>
-              <% end %>
-            </aside>
-          </section>
-        <% end %>
+            <% if blog(:blog).articles.select { |article| article.data.author == a.name }.size >= 2 %>
+              <a class="blog-author__read-more" href="/blog/author/<%= a.short_name %>">
+                Read more posts by <%= a.name %>
+              </a>
+            <% end %>
+          </aside>
+        </section>
       <% end %>
 
       <%= partial 'layouts/disqus', locals: { article_slug: current_page.slug } %>
