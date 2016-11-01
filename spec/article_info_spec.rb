@@ -1,11 +1,10 @@
 require './lib/article_info.rb'
 
 class PageData
-  attr_reader :author, :coauthors
+  attr_reader :authors
 
-  def initialize(author: nil, coauthors: nil)
-    @author = author
-    @coauthors = coauthors
+  def initialize(authors: nil)
+    @authors = authors
   end
 end
 
@@ -22,7 +21,7 @@ RSpec.describe ArticleInfo do
     it "returns a collection with the author and coauthors" do
       johnny = PersonData.new(name: "Johnny")
       jane = PersonData.new(name: "Jane")
-      page = PageData.new(author: "Johnny", coauthors: ["Jane", "Jimmy"])
+      page = PageData.new(authors: ["Johnny", "Jane", "Jimmy"])
       people = [jane, johnny]
 
       article = described_class.new(people, page)
@@ -34,7 +33,7 @@ RSpec.describe ArticleInfo do
   describe "#current_authors" do
     it "returns authors excluding any who are not currently in people" do
       johnny = PersonData.new(name: "Johnny")
-      page = PageData.new(author: "Johnny", coauthors: ["Jane", "Jimmy"])
+      page = PageData.new(authors: ["Johnny", "Jane", "Jimmy"])
       people = [johnny]
 
       article = described_class.new(people, page)
@@ -47,7 +46,7 @@ RSpec.describe ArticleInfo do
     it "returns the author names in a comma separated string" do
       johnny = PersonData.new(name: "Johnny")
       jane = PersonData.new(name: "Jane")
-      page = PageData.new(author: "Johnny", coauthors: ["Jane", "Jimmy"])
+      page = PageData.new(authors: ["Johnny", "Jane", "Jimmy"])
       people = [jane, johnny]
 
       article = described_class.new(people, page)

@@ -26,12 +26,8 @@ class ArticleInfo
 
   attr_reader :page, :people
 
-  def coauthors
-    page.coauthors || []
-  end
-
   def page_authors
-    @_page_authors ||= coauthors.unshift(page.author)
+    @_page_authors ||= page.authors || []
   end
 
   def find_person(author_name)
