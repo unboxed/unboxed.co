@@ -42,4 +42,17 @@ RSpec.describe ArticleInfo do
       expect(article.current_authors).to eq [johnny]
     end
   end
+
+  describe "#author_names" do
+    it "returns the author names in a comma separated string" do
+      johnny = PersonData.new(name: "Johnny")
+      jane = PersonData.new(name: "Jane")
+      page = PageData.new(author: "Johnny", coauthors: ["Jane", "Jimmy"])
+      people = [jane, johnny]
+
+      article = described_class.new(people, page)
+
+      expect(article.author_names).to eq "Johnny, Jane, Jimmy"
+    end
+  end
 end

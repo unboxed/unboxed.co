@@ -18,6 +18,10 @@ class ArticleInfo
     end.compact
   end
 
+  def author_names
+    authors.map(&:name).join(", ")
+  end
+
   private
 
   attr_reader :page, :people
