@@ -2,7 +2,8 @@
 date: "2015-01-26 01:50:00 UTC"
 published: true
 title: "Sending S/MIME encrypted emails with Action Mailer"
-author: "Andrew White"
+authors:
+  - "Andrew White"
 tags:
   - Rails
 ---

@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-02-10 13:23:00 UTC"
 published: true
 title: "Migrating data, games on the web platform, better calendars and active record relation counting."
-author: "Ben Janecke"
+authors:
+  - "Ben Janecke"
 tags:
   - Rails
 ---

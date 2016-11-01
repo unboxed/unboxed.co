@@ -2,7 +2,8 @@
 date: "2014-10-10 10:46:00 UTC"
 published: true
 title: "Diving Into the Front End"
-author: "Neil Van Beinum"
+authors:
+  - "Neil Van Beinum"
 tags:
   - Rails
   - Design

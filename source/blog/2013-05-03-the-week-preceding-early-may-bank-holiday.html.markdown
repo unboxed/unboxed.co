@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-05-03 14:18:00 UTC"
 published: true
 title: "The Week Preceding Early May Bank Holiday"
-author: "Matt Peperell"
+authors:
+  - "Matt Peperell"
 tags:
   - Rails
 ---

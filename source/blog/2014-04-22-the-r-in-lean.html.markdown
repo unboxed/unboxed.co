@@ -2,7 +2,8 @@
 date: "2014-04-22 14:38:00 UTC"
 published: true
 title: "The \"r\" in lean"
-author: "Martyn Evans"
+authors:
+  - "Martyn Evans"
 tags:
   - Lean
   - Design

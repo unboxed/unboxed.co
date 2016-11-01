@@ -1,5 +1,6 @@
 ---
-author: Andrew White
+authors:
+  - Andrew White
 tags: 
   - Agile
   - Design

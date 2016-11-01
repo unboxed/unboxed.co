@@ -2,7 +2,8 @@
 date: "2015-07-28 13:36:00 UTC"
 published: true
 title: "Why should you have a zero-defect strategy?"
-author: "Richard Stobart"
+authors:
+  - "Richard Stobart"
 tags:
   - Agile
 ---

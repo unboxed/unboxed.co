@@ -2,7 +2,8 @@
 date: "2010-08-13 00:00:00 UTC"
 published: true
 title: "Appetite for Agile"
-author: "Tom Dickinson"
+authors:
+  - "Tom Dickinson"
 tags:
   - Rails
 ---

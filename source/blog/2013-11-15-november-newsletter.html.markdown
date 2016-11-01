@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-11-15 14:00:00 UTC"
 published: true
 title: "November Newsletter"
-author: "Tom Sabin"
+authors:
+  - "Tom Sabin"
 tags:
   - Rails
   - Agile

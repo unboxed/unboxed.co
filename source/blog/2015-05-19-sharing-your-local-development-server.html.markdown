@@ -2,7 +2,8 @@
 date: "2015-05-19 12:31:00 UTC"
 published: true
 title: "Sharing your local development server and setting up a local mail server"
-author: "Alan Thomas"
+authors:
+  - "Alan Thomas"
 tags:
   - Rails
 ---

@@ -1,5 +1,6 @@
 ---
-author: Steve Lennon
+authors:
+  - Steve Lennon
 tags: 
   - Agile
   - Innovation

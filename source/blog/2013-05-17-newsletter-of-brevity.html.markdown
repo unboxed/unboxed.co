@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-05-17 13:18:00 UTC"
 published: true
 title: "Newsletter of Brevity"
-author: "Ben Wong"
+authors:
+  - "Ben Wong"
 tags:
   - Rails
   - Design

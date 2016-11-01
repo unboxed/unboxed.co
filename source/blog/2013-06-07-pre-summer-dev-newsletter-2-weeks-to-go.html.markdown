@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-06-07 14:05:00 UTC"
 published: true
 title: "Pre Summer Dev Newsletter (2 weeks to go)"
-author: "Seb Jacobs"
+authors:
+  - "Seb Jacobs"
 tags:
   - Rails
   - Agile

@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-03-08 15:33:00 UTC"
 published: true
 title: "Improve your week with this 1 weird old tip"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Rails
 ---

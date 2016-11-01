@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-10-19 15:12:00 UTC"
 published: true
 title: "This Week in Ruby, 19th October"
-author: "Leo Cassarani"
+authors:
+  - "Leo Cassarani"
 tags:
   - Rails
 ---

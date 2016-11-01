@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-12-20 16:22:00 UTC"
 published: true
 title: "The Devmas Newsletter "
-author: "Andrew Mitchell"
+authors:
+  - "Andrew Mitchell"
 tags:
   - Design
   - Rails

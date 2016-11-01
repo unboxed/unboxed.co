@@ -2,7 +2,8 @@
 date: "2010-10-05 00:00:00 UTC"
 published: true
 title: "Unit testing on the iPhone"
-author: "Borja Arias"
+authors:
+  - "Borja Arias"
 tags:
   - Testing
   - Rails

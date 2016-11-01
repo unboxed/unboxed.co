@@ -2,7 +2,8 @@
 date: "2014-08-12 14:33:00 UTC"
 published: true
 title: "The Agile LEGO village"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Agile
 ---

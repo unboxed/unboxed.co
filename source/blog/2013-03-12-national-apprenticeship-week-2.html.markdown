@@ -2,7 +2,8 @@
 date: "2013-03-12 15:17:00 UTC"
 published: true
 title: National Apprenticeship Week
-author: Tillie McCarthy
+authors:
+  - Tillie McCarthy
 tags: 
   - Culture
 main_image: ""

@@ -2,7 +2,8 @@
 date: "2010-10-21 00:00:00 UTC"
 published: true
 title: "Waterfall Syndrome"
-author: "Tim Higgins"
+authors:
+  - "Tim Higgins"
 tags:
   - Rails
 ---

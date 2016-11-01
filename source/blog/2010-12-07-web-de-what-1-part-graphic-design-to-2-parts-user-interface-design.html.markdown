@@ -2,7 +2,8 @@
 date: "2010-12-07 00:00:00 UTC"
 published: true
 title: "Web De-What?! (1 Part Graphic Design to 2 Parts User-Interface Design). "
-author: "Tom Dickinson"
+authors:
+  - "Tom Dickinson"
 tags:
   - Rails
 ---

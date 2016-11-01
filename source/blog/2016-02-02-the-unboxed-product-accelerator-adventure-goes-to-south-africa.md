@@ -1,5 +1,6 @@
 ---
-author: Carrie Bedingfield
+authors:
+  - Carrie Bedingfield
 tags: 
   - Culture
   - Innovation

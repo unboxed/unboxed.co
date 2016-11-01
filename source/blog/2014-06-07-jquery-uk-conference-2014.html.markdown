@@ -2,7 +2,8 @@
 date: "2014-06-07 18:30:00 UTC"
 published: true
 title: "jQuery UK 2014"
-author: "Tom Sabin"
+authors:
+  - "Tom Sabin"
 tags:
   - Rails
 ---

@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-11-04 15:02:00 UTC"
 published: true
 title: "Post Halloween Developer Newsletter - 4th October"
-author: "Richard Archer"
+authors:
+  - "Richard Archer"
 tags:
   - Rails
   - Agile

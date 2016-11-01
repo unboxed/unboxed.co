@@ -2,7 +2,8 @@
 date: "2010-09-22 00:00:00 UTC"
 published: true
 title: "Fix your broken window!"
-author: "Petr Zaparka"
+authors:
+  - "Petr Zaparka"
 tags:
   - Rails
 ---

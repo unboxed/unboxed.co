@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-08-24 15:10:00 UTC"
 published: true
 title: "The week that almost didn't happen"
-author: "Tom ten Thij"
+authors:
+  - "Tom ten Thij"
 tags:
   - Rails
 ---

@@ -2,7 +2,8 @@
 date: "2012-08-21 09:40:00 UTC"
 published: true
 title: "One Month and Eight Arms: Starting at Unboxed Consulting and Launching tentacl.es"
-author: "Tom Sabin"
+authors:
+  - "Tom Sabin"
 tags:
   - Culture
 

@@ -2,7 +2,8 @@
 date: "2010-09-10 00:00:00 UTC"
 published: true
 title: "Plenty more fish in the sea..."
-author: "Tom Dickinson"
+authors:
+  - "Tom Dickinson"
 tags:
   - Rails
 ---

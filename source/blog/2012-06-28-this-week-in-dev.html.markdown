@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-06-28 23:00:00 UTC"
 published: true
 title: "This Week In Dev"
-author: "Chris Carter"
+authors:
+  - "Chris Carter"
 tags:
   - Rails
 ---

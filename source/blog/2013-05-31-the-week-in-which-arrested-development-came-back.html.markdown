@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-05-31 11:13:00 UTC"
 published: true
 title: "The Week In Which Arrested Development Came Back"
-author: "Carl Whittaker"
+authors:
+  - "Carl Whittaker"
 tags:
   - Rails
   - Agile

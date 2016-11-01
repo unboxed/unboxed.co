@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-07-26 08:33:00 UTC"
 published: true
 title: "By George! A newsletter! What-ho!"
-author: "Andrew Mitchell"
+authors:
+  - "Andrew Mitchell"
 tags:
   - Rails
   - Agile

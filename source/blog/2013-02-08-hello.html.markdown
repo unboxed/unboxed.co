@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-02-08 12:36:00 UTC"
 published: true
 title: "There's something in the woodshed"
-author: "Jolyon Pawlyn"
+authors:
+  - "Jolyon Pawlyn"
 tags:
   - Rails
 ---

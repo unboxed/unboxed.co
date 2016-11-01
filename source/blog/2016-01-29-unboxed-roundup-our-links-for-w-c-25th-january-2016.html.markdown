@@ -2,7 +2,8 @@
 weekly_roundup: true
 title: 'Unboxed Roundup: Our links for w/c 25th January 2016'
 date: '2016-01-29 14:30:00 UTC'
-author: 'Murray Steele'
+authors:
+  - 'Murray Steele'
 tags: # (Delete as appropriate)
 - Culture
 

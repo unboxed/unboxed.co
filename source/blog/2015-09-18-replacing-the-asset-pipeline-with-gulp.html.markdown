@@ -2,7 +2,8 @@
 date: "2015-09-18 16:15:00 UTC"
 published: true
 title: "Replacing the Asset pipeline with Gulp"
-author: "Anson Kelly"
+authors:
+  - "Anson Kelly"
 tags:
   - Rails
 ---

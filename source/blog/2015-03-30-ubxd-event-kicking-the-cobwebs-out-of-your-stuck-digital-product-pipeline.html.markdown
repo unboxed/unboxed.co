@@ -2,7 +2,8 @@
 date: "2015-03-30 12:00:00 UTC"
 published: true
 title: "Event: Kicking the cobwebs out of your stuck digital product pipeline"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Agile
 ---

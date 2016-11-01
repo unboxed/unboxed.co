@@ -2,7 +2,8 @@
 date: "2012-03-11 00:12:00 UTC"
 published: true
 title: "Gemnastics with ActiveRecord"
-author: "Christopher Patuzzo"
+authors:
+  - "Christopher Patuzzo"
 tags:
   - Rails
   - Testing

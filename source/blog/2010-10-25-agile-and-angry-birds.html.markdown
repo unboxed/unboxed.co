@@ -2,7 +2,8 @@
 date: "2010-10-25 00:00:00 UTC"
 published: true
 title: "Agile and Angry Birds"
-author: "Tracey Berman"
+authors:
+  - "Tracey Berman"
 tags:
   - Rails
 ---

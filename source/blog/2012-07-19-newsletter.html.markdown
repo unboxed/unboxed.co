@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-07-19 23:00:00 UTC"
 published: true
 title: "Newsletter"
-author: "Grant Speelman"
+authors:
+  - "Grant Speelman"
 tags:
   - Rails
 ---

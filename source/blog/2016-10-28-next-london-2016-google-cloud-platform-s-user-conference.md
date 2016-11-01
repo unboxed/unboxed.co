@@ -2,8 +2,8 @@
 date: '2016-10-28 10:39 +0100'
 published: true
 title: NEXT London 2016 - Google Cloud Platform's User Conference
-author: Charlie Egan
-coauthors:
+authors:
+  - Charlie Egan
   - Paula Stepinska
 tags:
   - Culture

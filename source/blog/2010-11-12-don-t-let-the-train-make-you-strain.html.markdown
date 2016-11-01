@@ -2,7 +2,8 @@
 date: "2010-11-12 00:00:00 UTC"
 published: true
 title: "Don't let the Train make you Strain"
-author: "Nigel Taylor"
+authors:
+  - "Nigel Taylor"
 tags:
   - Rails
 ---

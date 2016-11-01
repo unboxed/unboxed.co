@@ -2,7 +2,8 @@
 date: "2011-03-23 12:10:00 UTC"
 published: true
 title: "Kanban in the Cape - Part 2"
-author: "Kevin Pedersen"
+authors:
+  - "Kevin Pedersen"
 tags:
   - Agile
   - Rails

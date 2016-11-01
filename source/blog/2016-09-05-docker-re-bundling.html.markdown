@@ -1,5 +1,6 @@
 ---
-author: Charlie Egan
+authors:
+  - Charlie Egan
 tags: 
   - Rails
   - Innovation

@@ -2,7 +2,8 @@
 date: "2015-05-12 16:32:00 UTC"
 published: true
 title: "Unstick your digital products"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Agile
 

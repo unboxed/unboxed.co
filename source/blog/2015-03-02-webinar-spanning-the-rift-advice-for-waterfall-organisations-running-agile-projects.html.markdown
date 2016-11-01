@@ -2,7 +2,8 @@
 date: "2015-03-02 13:30:00 UTC"
 published: true
 title: "Webinar: Spanning the rift - Advice for waterfall organisations running Agile projects"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Agile
   - Culture

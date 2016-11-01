@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-02-22 14:04:00 UTC"
 published: true
 title: "This week's dev newsletter"
-author: "Matt Peperell"
+authors:
+  - "Matt Peperell"
 tags:
   - Rails
 ---

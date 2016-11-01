@@ -2,7 +2,8 @@
 date: "2010-10-18 00:00:00 UTC"
 published: true
 title: "7 reasons why pair programming works"
-author: "Petr Zaparka"
+authors:
+  - "Petr Zaparka"
 tags:
   - Rails
 ---

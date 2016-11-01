@@ -2,7 +2,8 @@
 date: "2015-07-06 08:30:00 UTC"
 published: true
 title: "Why a UX-er and a Developer trumps System and Business Analysts"
-author: "Richard Stobart"
+authors:
+  - "Richard Stobart"
 tags:
   - Agile
   - Culture

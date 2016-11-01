@@ -2,7 +2,8 @@
 date: "2014-11-24 10:58:00 UTC"
 published: true
 title: "Webinar: Communication Ceremonies"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Agile
   - Culture

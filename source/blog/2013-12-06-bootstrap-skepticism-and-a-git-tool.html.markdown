@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-12-06 13:29:00 UTC"
 published: true
 title: "Bootstrap, skepticism and a git tool"
-author: "Pawel Janiak"
+authors:
+  - "Pawel Janiak"
 tags:
   - Rails
   - Agile

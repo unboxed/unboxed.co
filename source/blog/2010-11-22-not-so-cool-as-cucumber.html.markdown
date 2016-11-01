@@ -2,7 +2,8 @@
 date: "2010-11-22 00:00:00 UTC"
 published: true
 title: "Not so cool as cucumber"
-author: "Jolyon Pawlyn"
+authors:
+  - "Jolyon Pawlyn"
 tags:
   - Rails
 ---

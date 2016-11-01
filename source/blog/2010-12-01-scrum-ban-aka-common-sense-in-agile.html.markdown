@@ -2,7 +2,8 @@
 date: "2010-12-01 00:00:00 UTC"
 published: true
 title: "Scrum-ban aka common sense in Agile"
-author: "Petr Zaparka"
+authors:
+  - "Petr Zaparka"
 tags:
   - Rails
 ---

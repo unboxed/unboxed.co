@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-08-30 10:00:00 UTC"
 published: true
 title: "On the 29th anniversary of Space Shuttle Discovery's maiden flight"
-author: "Matt Peperell"
+authors:
+  - "Matt Peperell"
 tags:
   - Agile
   - Rails

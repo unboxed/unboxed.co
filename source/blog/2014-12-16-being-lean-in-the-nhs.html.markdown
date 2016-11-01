@@ -2,7 +2,8 @@
 date: "2014-12-16 18:11:00 UTC"
 published: true
 title: Being lean in the NHS
-author: Martyn Evans
+authors:
+  - Martyn Evans
 tags: 
   - Agile
   - Lean

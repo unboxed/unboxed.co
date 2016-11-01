@@ -2,7 +2,8 @@
 weekly_roundup: true
 title: 'Unboxed Roundup: Our links for w/c 18th April 2016'
 date: '2016-04-22 13:30:00 UTC'
-author: 'Chris Carter'
+authors:
+  - 'Chris Carter'
 tags: # (Delete as appropriate)
 - Culture
 

@@ -2,7 +2,8 @@
 date: "2014-07-31 13:42:00 UTC"
 published: true
 title: "A Ruby-plated breakfast"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Rails
 ---

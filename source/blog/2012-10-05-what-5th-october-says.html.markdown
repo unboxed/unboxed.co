@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-10-05 15:00:00 UTC"
 published: true
 title: "What 5th October says"
-author: "Grant Speelman"
+authors:
+  - "Grant Speelman"
 tags:
   - Rails
 ---

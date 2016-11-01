@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-06-27 12:30:00 UTC"
 published: true
 title: "Spread to the four corners of the dev"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Rails
 ---

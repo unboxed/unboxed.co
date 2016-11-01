@@ -1,7 +1,8 @@
 ---
 title: Unboxed Hackathon - what a difference a day makes
 date: '2016-10-14 09:13:05 UTC'
-author: Chris Holmes
+authors:
+  - Chris Holmes
 tags:
   - Culture
   - Innovation

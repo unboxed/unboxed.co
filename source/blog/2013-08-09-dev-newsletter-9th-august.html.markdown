@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-08-09 16:35:00 UTC"
 published: true
 title: "Dev Newsletter, 9th August"
-author: "Leo Cassarani"
+authors:
+  - "Leo Cassarani"
 tags:
   - Rails
   - Design

@@ -2,7 +2,8 @@
 date: "2015-07-01 16:53:00 UTC"
 published: true
 title: "10 things that make a great Product Owner"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Agile
 

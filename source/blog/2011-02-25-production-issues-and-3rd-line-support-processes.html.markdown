@@ -2,7 +2,8 @@
 date: "2011-02-25 14:53:00 UTC"
 published: true
 title: "Production Issues and 3rd Line Support Processes"
-author: "Austin Fagan"
+authors:
+  - "Austin Fagan"
 tags:
   - Agile
   - Testing

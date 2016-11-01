@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-05-17 23:00:00 UTC"
 published: true
 title: "The Week That Was"
-author: "Jolyon Pawlyn"
+authors:
+  - "Jolyon Pawlyn"
 tags:
   - Rails
 ---

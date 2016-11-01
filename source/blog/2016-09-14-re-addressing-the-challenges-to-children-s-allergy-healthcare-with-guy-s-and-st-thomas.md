@@ -4,7 +4,8 @@ published: true
 title: >-
   Re-addressing the challenges to children’s allergy healthcare with Guy’s and
   St. Thomas’
-author: Graeme McCubbin
+authors:
+  - Graeme McCubbin
 tags:
   - Agile
   - Design

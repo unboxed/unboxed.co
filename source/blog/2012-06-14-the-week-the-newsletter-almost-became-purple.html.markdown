@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-06-14 23:00:00 UTC"
 published: true
 title: "The Week The Newsletter Almost Became Purple"
-author: "Robert Fall"
+authors:
+  - "Robert Fall"
 tags:
   - Rails
 ---

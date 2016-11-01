@@ -2,7 +2,8 @@
 date: "2010-12-01 00:00:00 UTC"
 published: true
 title: "Shonky Internet - Cowboy Builders and the Online Gold Rush"
-author: "Tom Dickinson"
+authors:
+  - "Tom Dickinson"
 tags:
   - Rails
 ---

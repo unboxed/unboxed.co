@@ -2,7 +2,8 @@
 date: "2015-04-03 12:40:00 UTC"
 published: true
 title: "jQuery UK 2015"
-author: "Neil Van Beinum"
+authors:
+  - "Neil Van Beinum"
 tags:
   - Design
 ---

@@ -2,7 +2,8 @@
 date: '2016-08-12 12:15 +0100'
 published: true
 title: 'Faster than Lightning: July’s Developer Event'
-author: Neil van Beinum
+authors:
+  - Neil van Beinum
 tags:
   - Culture
   - Innovation

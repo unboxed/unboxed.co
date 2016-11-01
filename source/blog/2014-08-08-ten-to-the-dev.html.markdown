@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-08-08 13:40:00 UTC"
 published: true
 title: "Ten to the dev"
-author: "Chris Carter"
+authors:
+  - "Chris Carter"
 tags:
   - Rails
 ---

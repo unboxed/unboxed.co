@@ -2,7 +2,8 @@
 date: '2016-07-22 11:03 +0100'
 published: true
 title: 'Meetup: UX For Life '
-author: Graeme McCubbin
+authors:
+  - Graeme McCubbin
 tags:
   - Culture
   - Innovation

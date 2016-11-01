@@ -1,5 +1,6 @@
 ---
-author: Graeme McCubbin
+authors:
+  - Graeme McCubbin
 tags: 
   - Agile
   - Culture

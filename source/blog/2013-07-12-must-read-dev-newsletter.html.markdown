@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-07-12 15:00:00 UTC"
 published: true
 title: "Must Read Dev Newsletter"
-author: "Grant Speelman"
+authors:
+  - "Grant Speelman"
 tags:
   - Rails
   - Testing

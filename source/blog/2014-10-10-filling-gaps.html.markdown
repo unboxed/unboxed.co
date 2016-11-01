@@ -2,7 +2,8 @@
 date: "2014-10-10 11:47:00 UTC"
 published: true
 title: "Filling Gaps"
-author: "Martyn Evans"
+authors:
+  - "Martyn Evans"
 tags:
   - Lean
 ---

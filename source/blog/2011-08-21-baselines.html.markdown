@@ -2,7 +2,8 @@
 date: "2011-08-21 20:33:00 UTC"
 published: true
 title: "Using baselines for effective planning"
-author: "Austin Fagan"
+authors:
+  - "Austin Fagan"
 tags:
   - Agile
   - Rails

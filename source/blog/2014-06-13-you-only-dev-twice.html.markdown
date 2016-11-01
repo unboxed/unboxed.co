@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-06-13 11:42:00 UTC"
 published: true
 title: "You only dev twice"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Rails
 ---

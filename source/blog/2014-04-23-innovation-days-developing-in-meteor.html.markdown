@@ -2,7 +2,8 @@
 date: "2014-04-23 11:19:00 UTC"
 published: true
 title: "Innovation days - developing in Meteor"
-author: "Tom Sabin"
+authors:
+  - "Tom Sabin"
 tags:
   - Innovation
   - Rails

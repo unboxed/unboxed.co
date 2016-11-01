@@ -2,7 +2,8 @@
 date: "2010-11-15 00:00:00 UTC"
 published: true
 title: "Categorising Workarounds"
-author: "Austin Fagan"
+authors:
+  - "Austin Fagan"
 tags:
   - Rails
 ---

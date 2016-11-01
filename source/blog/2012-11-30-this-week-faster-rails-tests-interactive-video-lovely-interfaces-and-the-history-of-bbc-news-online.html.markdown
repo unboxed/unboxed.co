@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-11-30 15:08:00 UTC"
 published: true
 title: "This week: Faster Rails tests, Interactive Video,  Lovely Interfaces and the history of BBC News online"
-author: "Richard Archer"
+authors:
+  - "Richard Archer"
 tags:
   - Rails
 ---

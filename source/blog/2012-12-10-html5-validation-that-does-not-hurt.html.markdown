@@ -2,7 +2,8 @@
 date: "2012-12-10 12:10:00 UTC"
 published: true
 title: "HTML5 validation that does not hurt"
-author: "Attila Gyorffy"
+authors:
+  - "Attila Gyorffy"
 tags:
   - Rails
 ---

@@ -2,7 +2,8 @@
 date: "2010-08-20 00:00:00 UTC"
 published: true
 title: "I'm not working"
-author: "Petr Zaparka"
+authors:
+  - "Petr Zaparka"
 tags:
   - Rails
 ---

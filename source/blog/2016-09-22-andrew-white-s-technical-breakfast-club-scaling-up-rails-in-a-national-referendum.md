@@ -4,7 +4,8 @@ published: true
 title: >-
   Andrew White’s Technical Breakfast Club: Scaling up Rails in a national
   referendum
-author: Andrew White
+authors:
+  - Andrew White
 tags:
   - Rails
 main_image: >-

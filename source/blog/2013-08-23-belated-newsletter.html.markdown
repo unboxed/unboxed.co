@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-08-23 12:00:00 UTC"
 published: true
 title: "Belated Newsletter"
-author: "Ben Janecke"
+authors:
+  - "Ben Janecke"
 tags:
   - Rails
   - Design

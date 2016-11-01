@@ -2,7 +2,8 @@
 date: "2010-07-26 00:00:00 UTC"
 published: true
 title: "Hacking Safari’s auto-complete feature"
-author: "Attila Gyorffy"
+authors:
+  - "Attila Gyorffy"
 tags:
   - Rails
 ---

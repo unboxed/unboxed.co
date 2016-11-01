@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-10-18 10:29:00 UTC"
 published: true
 title: "The blog post title!"
-author: "Elizabeth Curson"
+authors:
+  - "Elizabeth Curson"
 tags:
   - Rails
   - Agile

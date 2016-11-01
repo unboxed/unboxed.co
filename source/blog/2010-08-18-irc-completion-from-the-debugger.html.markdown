@@ -2,7 +2,8 @@
 date: "2010-08-18 11:09:00 UTC"
 published: true
 title: "IRB completion from the debugger"
-author: "Tom ten Thij"
+authors:
+  - "Tom ten Thij"
 tags:
   - Rails
 ---
