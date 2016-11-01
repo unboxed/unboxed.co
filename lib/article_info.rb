@@ -1,4 +1,4 @@
-require './lib/former_employee'
+require './lib/non_employee'
 
 class ArticleInfo
   def initialize(people, page)
@@ -8,7 +8,7 @@ class ArticleInfo
 
   def authors
     @_authors ||= page_authors.map do |author_name|
-      find_person(author_name) || FormerEmployee.new(author_name)
+      find_person(author_name) || NonEmployee.new(author_name)
     end
   end
 

@@ -1,4 +1,4 @@
-class FormerEmployee
+class NonEmployee
   attr_reader :name
 
   def initialize(name)

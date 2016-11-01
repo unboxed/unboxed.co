@@ -1,6 +1,6 @@
-require './lib/former_employee'
+require './lib/non_employee'
 
-RSpec.describe FormerEmployee do
+RSpec.describe NonEmployee do
   let(:former_employee) { described_class.new("Chris Holmes") }
 
   it "returns the employees name" do
