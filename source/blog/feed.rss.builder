@@ -14,6 +14,8 @@ xml.rss :version => "2.0", "xmlns:atom" => "http://www.w3.org/2005/Atom" do
     xml.tag! 'atom:link', 'href' => URI.join(site_url, current_page.path), 'rel' => 'self', 'type' => 'application/rss+xml'
 
     articles.each do |article|
+      current_authors = article_info(data.people, article.data).current_authors
+
       xml.item do
         xml.title article.title
         xml.description article.body
@@ -21,9 +23,7 @@ xml.rss :version => "2.0", "xmlns:atom" => "http://www.w3.org/2005/Atom" do
         xml.link URI.join(site_url, article.url)
         xml.guid atom_id(article), "isPermaLink" => "false"
 
-        article_author = article.data.author || article.data.authors.first
-        author = data.people.detect { |person| person.name.downcase == article_author.downcase }
-        if author
+        current_authors.each do |author|
           xml.author "#{author.email}@unboxed.co (#{author.name})"
         end
       end
