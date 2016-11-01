@@ -8,19 +8,13 @@ class ArticleInfo
 
   def authors
     @_authors ||= page_authors.map do |author_name|
-      people_data = people.detect do |person|
-        person.name.downcase == author_name.downcase
-      end
-
-      people_data || FormerEmployee.new(author_name)
+      find_person(author_name) || FormerEmployee.new(author_name)
     end
   end
 
   def current_authors
     @_current_authors ||= page_authors.map do |author_name|
-      people.detect do |person|
-        person.name.downcase == author_name.downcase
-      end
+      find_person(author_name)
     end.compact
   end
 
@@ -34,5 +28,9 @@ class ArticleInfo
 
   def page_authors
     @_page_authors ||= coauthors.unshift(page.author)
+  end
+
+  def find_person(author_name)
+    people.find { |person| person.name.downcase == author_name.downcase }
   end
 end
