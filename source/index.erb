@@ -246,7 +246,7 @@ blog_title: "What we have been blogging about"
 
           <div>
             <div class="homepage-blog-tile__author">
-              <%= article.data.author %>
+              <%= article_info(data.people, article.data).author_names %>
             </div>
 
             <div class="homepage-blog-tile__date">
