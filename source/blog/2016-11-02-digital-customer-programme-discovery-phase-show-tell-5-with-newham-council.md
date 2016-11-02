@@ -47,7 +47,7 @@ Within the Housing department is the Housing Repairs service - a main service of
 <i>Shadowing a member of the customer contact centre during the sprint<i/><br/>
 
 
-From looking to move this phone call traffic from the customer contact centre to online, there is potential to make a significant impact in terms of the number of residents that can find the important information they require, but through a “self-service” online system. The team have spent time shadowing contact centre staff and speaking to tenants directly to get an overall understanding of how they can begin to address a successful traffic shift from one platform to another. The next step - beginning to sketch out what this might look like.<br/>
+From looking to move this phone call traffic from the customer contact centre to online, there is potential to make a significant impact in terms of the number of residents that can find the important information they require, but through a <i>“self-service”</i> online system. The team have spent time shadowing contact centre staff and speaking to tenants directly to get an overall understanding of how they can begin to address a successful traffic shift from one platform to another. The next step - beginning to sketch out what this might look like.<br/>
 <br/>
 
 # Gathering data
