@@ -77,7 +77,7 @@
               <%= simple_format a.bio %>
             </div>
 
-            <% if blog(:blog).articles.select { |article| article.data.author == a.name }.size >= 2 %>
+            <% if blog(:blog).articles.select { |article| article.data.authors.include? a.name }.size >= 2 %>
               <a class="blog-author__read-more" href="/blog/author/<%= a.short_name %>">
                 Read more posts by <%= a.name %>
               </a>
