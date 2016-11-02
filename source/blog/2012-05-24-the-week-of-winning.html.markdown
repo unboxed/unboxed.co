@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-05-24 23:00:00 UTC"
 published: true
 title: "The Week Of Winning"
-author: "Chris Carter"
+authors:
+  - "Chris Carter"
 tags:
   - Rails
 ---

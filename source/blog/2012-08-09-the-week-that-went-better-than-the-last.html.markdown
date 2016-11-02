@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-08-09 23:00:00 UTC"
 published: true
 title: "The Week That Went Better Than The Last"
-author: "Andrew Mitchell"
+authors:
+  - "Andrew Mitchell"
 tags:
   - Rails
 ---

@@ -2,7 +2,8 @@
 date: "2014-03-05 19:10:00 UTC"
 published: true
 title: "Haskell at the London Code Dojo"
-author: "Henry Turner"
+authors:
+  - "Henry Turner"
 tags:
   - Innovation
 

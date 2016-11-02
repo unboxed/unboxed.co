@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-12-07 15:21:00 UTC"
 published: true
 title: "Cucumbers, Missed High Fives, Dancing Hungarians and more..."
-author: "Lee Richmond"
+authors:
+  - "Lee Richmond"
 tags:
   - Rails
 ---

@@ -2,7 +2,8 @@
 date: "2013-12-19 13:42:00 UTC"
 published: true
 title: "Why failure isn’t bad, as long as you learn"
-author: "Glenn Smith"
+authors:
+  - "Glenn Smith"
 tags:
   - Innovation
   - Agile

@@ -2,7 +2,8 @@
 date: "2010-07-25 00:00:00 UTC"
 published: true
 title: "Scrum in the Deep End"
-author: "Karen van Vlaanderen"
+authors:
+  - "Karen van Vlaanderen"
 tags:
   - Rails
 ---

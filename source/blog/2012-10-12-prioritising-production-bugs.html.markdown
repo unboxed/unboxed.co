@@ -2,7 +2,8 @@
 date: "2012-10-12 14:46:00 UTC"
 published: true
 title: "Prioritising production bugs"
-author: "Austin Fagan"
+authors:
+  - "Austin Fagan"
 tags:
   - Testing
 ---

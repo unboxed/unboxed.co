@@ -2,7 +2,8 @@
 date: '2016-06-09 13:14 +0100'
 published: true
 title: 'Faster than Lightning: May’s monthly developer event'
-author: Neil van Beinum
+authors:
+  - Neil van Beinum
 tags:
   - Innovation
   - Rails

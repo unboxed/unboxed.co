@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-06-20 13:30:00 UTC"
 published: true
 title: "Three times a dev"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Rails
 ---

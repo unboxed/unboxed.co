@@ -2,7 +2,8 @@
 date: "2011-12-05 14:39:00 UTC"
 published: true
 title: "Scrum not only in projects"
-author: "Johanna Karlsson"
+authors:
+  - "Johanna Karlsson"
 tags:
   - Agile
 ---

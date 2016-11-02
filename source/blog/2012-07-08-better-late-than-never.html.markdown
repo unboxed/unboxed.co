@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-07-08 23:00:00 UTC"
 published: true
 title: "Better Late Than Never"
-author: "Seb Jacobs"
+authors:
+  - "Seb Jacobs"
 tags:
   - Rails
 ---

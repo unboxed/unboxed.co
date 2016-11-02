@@ -2,7 +2,8 @@
 date: "2014-09-26 15:33:00 UTC"
 published: true
 title: "Rapid UI prototyping and getting on the Rails"
-author: "Martyn Evans"
+authors:
+  - "Martyn Evans"
 tags:
   - Lean
   - Innovation

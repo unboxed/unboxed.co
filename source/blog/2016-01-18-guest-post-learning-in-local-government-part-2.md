@@ -1,5 +1,6 @@
 ---
-author: Helen Gracie
+authors:
+  - Helen Gracie
 tags: 
   - Agile
   - Culture

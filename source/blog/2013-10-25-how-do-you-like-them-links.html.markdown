@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-10-25 10:33:00 UTC"
 published: true
 title: "How do you like them links?!"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Rails
   - Agile

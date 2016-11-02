@@ -2,7 +2,8 @@
 date: "2010-10-11 00:00:00 UTC"
 published: true
 title: "y Cuke?"
-author: "Andrew Mitchell"
+authors:
+  - "Andrew Mitchell"
 tags:
   - Rails
 ---

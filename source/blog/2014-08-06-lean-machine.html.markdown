@@ -2,7 +2,8 @@
 date: "2014-08-06 14:50:00 UTC"
 published: true
 title: "Lean Machine"
-author: "Chris Carter"
+authors:
+  - "Chris Carter"
 tags:
   - Lean
 ---

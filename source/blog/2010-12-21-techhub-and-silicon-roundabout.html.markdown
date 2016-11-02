@@ -2,7 +2,8 @@
 date: "2010-12-21 17:09:00 UTC"
 published: true
 title: "TechHub and Silicon Roundabout"
-author: "James Darling"
+authors:
+  - "James Darling"
 tags:
   - Rails
 ---

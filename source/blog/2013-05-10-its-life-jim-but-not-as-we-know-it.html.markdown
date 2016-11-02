@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-05-10 16:55:00 UTC"
 published: true
 title: "It's life, Jim, but not as we know it"
-author: "Jolyon Pawlyn"
+authors:
+  - "Jolyon Pawlyn"
 tags:
   - Rails
 ---

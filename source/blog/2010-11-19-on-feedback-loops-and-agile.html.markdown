@@ -2,7 +2,8 @@
 date: "2010-11-19 00:00:00 UTC"
 published: true
 title: " On Feedback Loops and Agile"
-author: "Ben Wong"
+authors:
+  - "Ben Wong"
 tags:
   - Rails
 ---

@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-08-02 13:05:00 UTC"
 published: true
 title: "Undefined local variable or method 'title'"
-author: "Tom Sabin"
+authors:
+  - "Tom Sabin"
 tags:
   - Rails
 ---

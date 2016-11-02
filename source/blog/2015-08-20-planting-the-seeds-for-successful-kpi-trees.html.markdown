@@ -2,7 +2,8 @@
 date: "2015-08-20 11:30:00 UTC"
 published: true
 title: "Planting the seeds for successful KPI trees"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Agile
   - Culture

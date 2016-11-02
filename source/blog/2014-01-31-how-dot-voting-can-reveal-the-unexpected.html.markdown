@@ -2,7 +2,8 @@
 date: "2014-01-31 13:49:00 UTC"
 published: true
 title: "How dot voting can reveal the unexpected"
-author: "Glenn Smith"
+authors:
+  - "Glenn Smith"
 tags:
   - Agile
 ---

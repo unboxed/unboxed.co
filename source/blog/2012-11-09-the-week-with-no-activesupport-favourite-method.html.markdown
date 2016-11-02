@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-11-09 15:51:00 UTC"
 published: true
 title: "The week with no ActiveSupport favourite method"
-author: "Matt Peperell"
+authors:
+  - "Matt Peperell"
 tags:
   - Rails
 ---

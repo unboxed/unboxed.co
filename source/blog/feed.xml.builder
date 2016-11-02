@@ -19,16 +19,21 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom", "xml:lang" => "en-GB" do
       xml.published article.date.to_time.iso8601
       xml.updated File.mtime(article.source_file).iso8601
       xml.tags article.tags
-      xml.author do
-        author = data.people.detect { |person| person.name.downcase == article.data.author.downcase }
-        if author
-          xml.name author.name
-          xml.email "#{author.email}@unboxed.co"
-          xml.uri "https://unboxedconsulting.com/people/#{author.short_name}"
-        else
-          xml.name article.data.author
+
+      current_authors = article_info(data.people, article.data).current_authors
+
+      if current_authors.any?
+        current_authors.each do |author|
+          xml.author do
+            xml.name author.name
+            xml.email "#{author.email}@unboxed.co"
+            xml.uri "https://unboxedconsulting.com/people/#{author.short_name}"
+          end
         end
+      else
+        xml.name article.data.author
       end
+
       xml.content article.body, "type" => "html"
     end
   end

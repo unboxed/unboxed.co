@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-01-25 12:20:00 UTC"
 published: true
 title: Short and sweet
-author: Pawel Janiak
+authors:
+  - Pawel Janiak
 tags: 
   - Culture
 main_image: ""

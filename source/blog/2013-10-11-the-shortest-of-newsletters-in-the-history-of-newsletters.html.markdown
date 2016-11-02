@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-10-11 08:05:00 UTC"
 published: true
 title: "The best dev newsletter you will read today "
-author: "Elizabeth Curson"
+authors:
+  - "Elizabeth Curson"
 tags:
   - Rails
   - Agile

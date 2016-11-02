@@ -4,7 +4,8 @@ published: true
 title: >-
   Event: Agile Pilot - How to deliver "stuck" digital products and encourage
   innovation across your organisation
-author: Graeme McCubbin
+authors:
+  - Graeme McCubbin
 tags:
   - Agile
   - Culture

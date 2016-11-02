@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-03-22 14:56:00 UTC"
 published: true
 title: "[Insert your own punny title for the Developer newsletter here]"
-author: "Richard Archer"
+authors:
+  - "Richard Archer"
 tags:
   - Rails
 ---

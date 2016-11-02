@@ -2,7 +2,8 @@
 date: "2010-05-30 00:00:00 UTC"
 published: true
 title: "CSS id and class naming"
-author: "Simon Rentzke"
+authors:
+  - "Simon Rentzke"
 tags:
   - Rails
 ---

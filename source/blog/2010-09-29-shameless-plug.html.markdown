@@ -2,7 +2,8 @@
 date: "2010-09-29 00:00:00 UTC"
 published: true
 title: "Shameless Plug"
-author: "Tom Dickinson"
+authors:
+  - "Tom Dickinson"
 tags:
   - Rails
 ---

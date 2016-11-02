@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2015-03-06 14:30:00 UTC"
 published: true
 title: "Unboxed Roundup: our links for w/c 2nd March 2015"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Culture
 ---

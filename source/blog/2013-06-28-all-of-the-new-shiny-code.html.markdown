@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-06-28 16:05:00 UTC"
 published: true
 title: "All of the new shiny code"
-author: "Andrew Mitchell"
+authors:
+  - "Andrew Mitchell"
 tags:
   - Design
   - Rails

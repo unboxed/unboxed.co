@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-01-10 12:25:00 UTC"
 published: true
 title: "Happy New Year Unboxedians and commiserations on the ashes"
-author: "Tyrone Toplis"
+authors:
+  - "Tyrone Toplis"
 tags:
   - Rails
 ---

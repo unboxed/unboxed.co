@@ -7,7 +7,8 @@ main_image: >-
 tags:
   - Culture
   - Innovation
-author: Graeme McCubbin
+authors:
+  - Graeme McCubbin
 ---
 <b>The conference:</b> Share Digital 2016<br/>
 <b>The date:</b> Wednesday 6th July<br/>

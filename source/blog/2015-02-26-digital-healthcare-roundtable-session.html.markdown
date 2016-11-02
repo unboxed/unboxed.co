@@ -2,7 +2,8 @@
 date: "2015-02-26 13:04:00 UTC"
 published: true
 title: "Roundtable: Digital Healthcare"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Agile
   - Culture

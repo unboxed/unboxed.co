@@ -2,7 +2,9 @@
 date: '2016-10-28 10:39 +0100'
 published: true
 title: NEXT London 2016 - Google Cloud Platform's User Conference
-author: Charlie Egan
+authors:
+  - Charlie Egan
+  - Paula Stepinska
 tags:
   - Culture
   - Innovation
@@ -19,7 +21,7 @@ Across the day, we attended a number of sessions from the Plenary and Breakout t
 ## GCP Next 2016 conference impressions - [Charlie](https://unboxed.co/people#charlie-egan)
 
 # Painless container management with Google Container Engine & Kubernetes
-This was the first talk in the big hall. Craig Box gave a similar overview of 
+This was the first talk in the big hall. Craig Box gave a similar overview of
 Kubernetes to his presentation at Container Camp last month. Kubernetes is
 Google's open source container scheduler based their experience building Borg,
 their internal scheduler. The problem of running persistent workloads in
@@ -73,11 +75,11 @@ was required.<br/>
 
 He also talked about a game they played called "The Will of Misfortune". Played
 Individually or collaboratively, the game involves talking through a past failure
-scenario and discussing actions they'd take. I thought this sounded like 
+scenario and discussing actions they'd take. I thought this sounded like
 something we could have a go at sometime as a developer event.<br/>
 
 There were also a good 15 mins of questions that he handled very well. Questions
-ranged from on-call compensation (which he passed on) to some hard questions 
+ranged from on-call compensation (which he passed on) to some hard questions
 about recent downtime on GCP products. His answers to these shed more light on
 the process and was a great bonus - people were clearly interested, but
 skeptical, in the SRE setup.<br/>
@@ -85,10 +87,10 @@ skeptical, in the SRE setup.<br/>
 
 ## GCP Next 2016 conference impressions - [Paula](https://unboxed.co/people#paula-stepinska)
 
-This certainly was a big selling event. But Google managed to spark the interest 
-in their different Google Cloud products, presenting how to solve real problems 
-with these products, rather than hosting a series of marketing session to _sell_ 
-these to us. I learned that GCP has a lot to offer, with its fast, quite 
+This certainly was a big selling event. But Google managed to spark the interest
+in their different Google Cloud products, presenting how to solve real problems
+with these products, rather than hosting a series of marketing session to _sell_
+these to us. I learned that GCP has a lot to offer, with its fast, quite
 affordable and insanely scalable products.<br/>
 
 From the day-long conference, there were two presentations that I really enjoyed
@@ -97,17 +99,17 @@ From the day-long conference, there were two presentations that I really enjoyed
 <br/>
 # Presentation #1: Supercharging Firebase with Google Cloud Platform
 
-When in need of comfortable and easy-to-use "backend-as-a-service", here comes 
-a Firebase as a production ready, multi-platform (web, iOS, Android), real time 
+When in need of comfortable and easy-to-use "backend-as-a-service", here comes
+a Firebase as a production ready, multi-platform (web, iOS, Android), real time
 database solution, with an instant connection to various Google's APIs - like
-a neural network based Vision API, which is able not only to recognise an image 
-of the cat, but in many cases it will tell where the picture was taken or who 
+a neural network based Vision API, which is able not only to recognise an image
+of the cat, but in many cases it will tell where the picture was taken or who
 has produced your cat's food (at least if the bag is in the picture).<br/>
 
-During Sara Robinson’s live coding session, in which she used to build a simple 
-messaging app, she showcased how Firebase combined with GCP  provides 
-the possibilities to store images, videos or other large files, and how to use 
-Firebase Analytics. There is no doubt that these are many examples of 
+During Sara Robinson’s live coding session, in which she used to build a simple
+messaging app, she showcased how Firebase combined with GCP  provides
+the possibilities to store images, videos or other large files, and how to use
+Firebase Analytics. There is no doubt that these are many examples of
 infrastructure advantages that developers now won't have to worry about anymore.<br/>
 
 ![Firebase session](http://imageshack.com/a/img921/4791/bGWQv6.jpg)
@@ -115,24 +117,24 @@ infrastructure advantages that developers now won't have to worry about anymore.
 <br/>
 # Presentation #2: Tensorflow and deep learning (without a PhD)
 
-It was promised that no PhD was required, but 
-[Martin Gorner](https://twitter.com/martin_gorner)'s talk was definitely 
-addressed to people who have vast knowledge of Machine Learning and terms, such 
-as [Softmax classifier](https://en.wikipedia.org/wiki/Softmax_function#Neural_networks), 
+It was promised that no PhD was required, but
+[Martin Gorner](https://twitter.com/martin_gorner)'s talk was definitely
+addressed to people who have vast knowledge of Machine Learning and terms, such
+as [Softmax classifier](https://en.wikipedia.org/wiki/Softmax_function#Neural_networks),
 ringing a big bell for them.<br/>
 
-It's no secret that Google has had a major focus on machine learning for a while now. 
-Within the [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) project, 
-they have started to explore a deep learning/artificial neural networks trend 
-in ML and last year they open sourced [Tensorflow](https://www.tensorflow.org/), 
-a library for numerical computation, which uses data flow graphs. This has been 
+It's no secret that Google has had a major focus on machine learning for a while now.
+Within the [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) project,
+they have started to explore a deep learning/artificial neural networks trend
+in ML and last year they open sourced [Tensorflow](https://www.tensorflow.org/),
+a library for numerical computation, which uses data flow graphs. This has been
 used for Google Photos and voice recognition, among the others technologies.
-During the presentation, Martin was using the MNIST database of handwritten 
-digits (commonly used for training and testing in ML) to show how TensorFlow 
-works and what can be achieved with it (training a model to predict the digits 
-by looking at images). With a whole new product family, Cloud Machine Learning 
-strives to take a machine learning mainstream, and with Vision, Speech or 
-Natural Language APIs, we're much closer to developing applications that can 
+During the presentation, Martin was using the MNIST database of handwritten
+digits (commonly used for training and testing in ML) to show how TensorFlow
+works and what can be achieved with it (training a model to predict the digits
+by looking at images). With a whole new product family, Cloud Machine Learning
+strives to take a machine learning mainstream, and with Vision, Speech or
+Natural Language APIs, we're much closer to developing applications that can
 “understand” the world around them.
 
 ![Martin Gorner and TensorFlow in action](http://imageshack.com/a/img923/8261/3ZiPHl.jpg)

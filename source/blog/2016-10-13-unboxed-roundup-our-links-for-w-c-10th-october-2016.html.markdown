@@ -2,7 +2,8 @@
 weekly_roundup: true
 title: 'Unboxed Roundup: Our links for w/c 10th October 2016'
 date: '2016-10-13 13:30:00 UTC'
-author: 'Paula Stepinska'
+authors:
+  - 'Paula Stepinska'
 tags: # (Delete as appropiate) 
 - Culture
 

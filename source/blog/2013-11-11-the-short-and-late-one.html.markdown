@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-11-11 12:52:00 UTC"
 published: true
 title: "The short and late one"
-author: "Pawel Janiak"
+authors:
+  - "Pawel Janiak"
 tags:
   - Rails
   - Agile

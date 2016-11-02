@@ -2,7 +2,8 @@
 date: "2011-04-28 15:06:00 UTC"
 published: true
 title: "Icon or Ican't be bothered."
-author: "Tom Dickinson"
+authors:
+  - "Tom Dickinson"
 tags:
   - Design
   - Rails

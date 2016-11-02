@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-07-19 14:00:00 UTC"
 published: true
 title: "Happy Ashes!"
-author: "Tyrone Toplis"
+authors:
+  - "Tyrone Toplis"
 tags:
   - Rails
   - Design

@@ -2,7 +2,8 @@
 date: "2013-02-18 10:12:00 UTC"
 published: true
 title: Five myths about SMEs and public sector procurement
-author: Richard Stobart
+authors:
+  - Richard Stobart
 tags: 
   - Agile
 main_image: ""

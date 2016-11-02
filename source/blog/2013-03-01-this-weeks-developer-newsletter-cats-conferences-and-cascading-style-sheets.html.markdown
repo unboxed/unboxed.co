@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-03-01 15:26:00 UTC"
 published: true
 title: "This week's developer newsletter - cats, conferences, and cascading style sheets"
-author: "Andrew Mitchell"
+authors:
+  - "Andrew Mitchell"
 tags:
   - Rails
   - Design

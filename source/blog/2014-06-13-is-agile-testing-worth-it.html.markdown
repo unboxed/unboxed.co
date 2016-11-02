@@ -2,7 +2,8 @@
 date: "2014-06-13 10:08:00 UTC"
 published: true
 title: "Is agile testing worth it?"
-author: Graeme McCubbin
+authors:
+  - Graeme McCubbin
 tags: 
   - Agile
   - Rails

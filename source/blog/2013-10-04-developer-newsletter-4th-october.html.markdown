@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-10-04 11:59:00 UTC"
 published: true
 title: "Developer Newsletter, 4th October"
-author: "Wilhelm Kirschbaum"
+authors:
+  - "Wilhelm Kirschbaum"
 tags:
   - Rails
   - Agile

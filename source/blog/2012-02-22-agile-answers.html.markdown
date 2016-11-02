@@ -2,7 +2,8 @@
 date: "2012-02-22 10:24:00 UTC"
 published: true
 title: "Agile Answers"
-author: "Elizabeth Curson"
+authors:
+  - "Elizabeth Curson"
 tags:
   - Agile
 ---

@@ -2,7 +2,8 @@
 date: "2009-10-22 00:00:00 UTC"
 published: true
 title: "Less is More"
-author: "Attila Gyorffy"
+authors:
+  - "Attila Gyorffy"
 tags:
   - Rails
 ---

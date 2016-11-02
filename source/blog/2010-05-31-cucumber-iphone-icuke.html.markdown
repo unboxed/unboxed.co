@@ -2,7 +2,8 @@
 date: "2010-05-31 00:00:00 UTC"
 published: true
 title: "Cucumber + iPhone = iCuke"
-author: "Rob Holland"
+authors:
+  - "Rob Holland"
 tags:
   - Rails
 ---

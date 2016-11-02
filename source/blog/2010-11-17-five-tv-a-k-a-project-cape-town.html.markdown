@@ -2,7 +2,8 @@
 date: "2010-11-17 00:00:00 UTC"
 published: true
 title: "five.tv a.k.a project Cape Town"
-author: "Jolyon Pawlyn"
+authors:
+  - "Jolyon Pawlyn"
 tags:
   - Rails
 ---

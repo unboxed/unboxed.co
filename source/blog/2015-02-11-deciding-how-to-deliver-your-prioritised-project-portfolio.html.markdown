@@ -2,7 +2,8 @@
 date: "2015-02-11 13:48:00 UTC"
 published: true
 title: "Deciding how to deliver your prioritised project portfolio"
-author: "Richard Stobart"
+authors:
+  - "Richard Stobart"
 tags:
   - Agile
   - Culture

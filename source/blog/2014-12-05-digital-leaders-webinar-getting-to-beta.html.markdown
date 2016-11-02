@@ -2,7 +2,8 @@
 date: "2014-12-05 11:26:00 UTC"
 published: true
 title: "Webinar: Getting to Beta"
-author: Graeme McCubbin
+authors:
+  - Graeme McCubbin
 tags: 
   - Agile
   - Culture

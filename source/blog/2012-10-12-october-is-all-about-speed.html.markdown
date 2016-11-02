@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-10-12 11:53:00 UTC"
 published: true
 title: "October is all about speed"
-author: "Pawel Janiak"
+authors:
+  - "Pawel Janiak"
 tags:
   - Rails
 ---

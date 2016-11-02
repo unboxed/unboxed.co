@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-02-01 14:13:00 UTC"
 published: true
 title: "A New Hope"
-author: "Ben Wong"
+authors:
+  - "Ben Wong"
 tags:
   - Rails
 ---

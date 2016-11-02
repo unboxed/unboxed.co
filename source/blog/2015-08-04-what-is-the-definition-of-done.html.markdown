@@ -2,7 +2,8 @@
 date: '2015-08-04 15:30:00 UTC'
 published: true
 title: What is the definition of ‘done’?
-author: Richard Stobart
+authors:
+  - Richard Stobart
 main_image: /assets/images/prose/pedro.png
 tags:
   - Agile

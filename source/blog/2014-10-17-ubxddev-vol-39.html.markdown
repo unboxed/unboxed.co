@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-10-17 13:30:00 UTC"
 published: true
 title: "UBXDDEV Vol. 3.9"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Rails
 ---

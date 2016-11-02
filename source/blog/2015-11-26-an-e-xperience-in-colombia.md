@@ -1,5 +1,6 @@
 ---
-author: Martyn Evans
+authors:
+  - Martyn Evans
 tags: 
   - Innovation
 main_image: "http://i963.photobucket.com/albums/ae115/Ubxd/martyn-speaking-colombia_zpscahcr9us.jpg"

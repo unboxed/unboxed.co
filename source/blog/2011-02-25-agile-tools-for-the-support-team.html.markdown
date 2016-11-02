@@ -2,7 +2,8 @@
 date: "2011-02-25 13:41:00 UTC"
 published: true
 title: "Agile Tools for the Support Team"
-author: "Austin Fagan"
+authors:
+  - "Austin Fagan"
 tags:
   - Agile
   - Testing

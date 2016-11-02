@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-05-10 23:00:00 UTC"
 published: true
 title: "The Week In Links"
-author: "Luke Randall"
+authors:
+  - "Luke Randall"
 tags:
   - Rails
 ---

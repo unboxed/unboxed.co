@@ -2,7 +2,8 @@
 date: '2016-10-26 14:06 +0100'
 published: true
 title: 'Digital Customer Programme Discovery Phase: Show & Tell #3 with Newham Council'
-author: Graeme McCubbin
+authors:
+  - Graeme McCubbin
 tags:
   - Agile
   - Culture

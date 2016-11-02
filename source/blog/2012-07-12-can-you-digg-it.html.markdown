@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-07-12 23:00:00 UTC"
 published: true
 title: "Can You Digg It"
-author: "Christopher Patuzzo"
+authors:
+  - "Christopher Patuzzo"
 tags:
   - Rails
 ---

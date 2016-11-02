@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-09-14 15:59:00 UTC"
 published: true
 title: "When Carlo was in Blighty's Land"
-author: "Carlo Kruger"
+authors:
+  - "Carlo Kruger"
 tags:
   - Rails
 ---

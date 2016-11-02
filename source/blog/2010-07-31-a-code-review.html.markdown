@@ -2,7 +2,8 @@
 date: "2010-07-31 00:00:00 UTC"
 published: true
 title: "A++ code review"
-author: "Tim Higgins"
+authors:
+  - "Tim Higgins"
 tags:
   - Rails
 ---

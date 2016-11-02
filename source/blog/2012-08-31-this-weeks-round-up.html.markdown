@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-08-31 14:55:00 UTC"
 published: true
 title: "This weeks round up"
-author: "Lee Richmond"
+authors:
+  - "Lee Richmond"
 tags:
   - Rails
   - Innovation

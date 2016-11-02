@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-06-17 15:17:00 UTC"
 published: true
 title: "Something wicked this way comes"
-author: "Robert Pataki"
+authors:
+  - "Robert Pataki"
 tags:
   - Design
   - Rails

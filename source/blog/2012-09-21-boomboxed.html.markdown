@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-09-21 15:04:00 UTC"
 published: true
 title: "Boomboxed"
-author: "Robert Pataki"
+authors:
+  - "Robert Pataki"
 tags:
   - Rails
 ---

@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-07-04 12:30:00 UTC"
 published: true
 title: "Workin' dev to five, what a way to make a livin'"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Rails
 ---

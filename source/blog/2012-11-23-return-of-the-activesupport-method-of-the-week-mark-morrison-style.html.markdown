@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2012-11-23 14:42:00 UTC"
 published: true
 title: "Return Of The ActiveSupport method of the week (Mark Morrison style)"
-author: "Carl Whittaker"
+authors:
+  - "Carl Whittaker"
 tags:
   - Rails
 ---

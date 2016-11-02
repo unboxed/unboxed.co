@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2015-09-04 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 31st August 2015"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Culture
 ---

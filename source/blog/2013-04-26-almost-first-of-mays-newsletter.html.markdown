@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-04-26 12:36:00 UTC"
 published: true
 title: "Almost April's last newsletter"
-author: Tom ten Thij
+authors:
+  - Tom ten Thij
 tags: 
   - Rails
 main_image: ""

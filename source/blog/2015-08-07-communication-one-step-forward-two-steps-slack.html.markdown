@@ -2,7 +2,8 @@
 date: "2015-08-07 10:00:00 UTC"
 published: true
 title: "Communication - One Step Forward, Two Steps Slack?"
-author: "Chris Carter"
+authors:
+  - "Chris Carter"
 main_image: "http://bit.ly/1T7CAl0"
 tags:
   - Culture

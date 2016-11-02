@@ -2,7 +2,8 @@
 weekly_roundup: true
 title: 'Unboxed Roundup: Our links for w/c 11th October 2015'
 date: '2015-10-16 14:30:00 UTC'
-author: 'Murray Steele'
+authors:
+  - 'Murray Steele'
 tags:
   - Culture
 

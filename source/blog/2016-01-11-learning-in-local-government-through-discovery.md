@@ -1,5 +1,6 @@
 ---
-author: Martyn Evans
+authors:
+  - Martyn Evans
 tags: 
   - Agile
   - Design

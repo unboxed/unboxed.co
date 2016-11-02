@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2015-05-29 13:30:00 UTC"
 published: true
 title: "Unboxed Roundup: Our links for w/c 25th May 2015"
-author: "Graeme McCubbin"
+authors:
+  - "Graeme McCubbin"
 tags:
   - Culture
 

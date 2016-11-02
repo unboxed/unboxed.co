@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2014-08-01 13:30:00 UTC"
 published: true
 title: "The dev o' nine tails"
-author: "Murray Steele"
+authors:
+  - "Murray Steele"
 tags:
   - Rails
 ---

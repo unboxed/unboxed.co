@@ -3,7 +3,8 @@ weekly_roundup: true
 date: "2013-09-27 12:50:00 UTC"
 published: true
 title: "Dev Newsletter: 27th September"
-author: "Melinda Seckington"
+authors:
+  - "Melinda Seckington"
 tags:
   - Rails
   - Agile

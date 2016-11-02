@@ -2,7 +2,8 @@
 date: "2012-04-25 12:52:00 UTC"
 published: true
 title: "Code maintainability - is it a test thing?"
-author: "Andrew Mitchell"
+authors:
+  - "Andrew Mitchell"
 tags:
   - Testing
   - Rails

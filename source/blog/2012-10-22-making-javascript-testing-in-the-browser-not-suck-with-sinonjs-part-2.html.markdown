@@ -2,7 +2,8 @@
 date: "2012-10-22 14:06:00 UTC"
 published: true
 title: "Making JavaScript testing in the browser not suck with Sinon.js (Part 2)"
-author: "Carl Whittaker"
+authors:
+  - "Carl Whittaker"
 tags:
   - Testing
 ---

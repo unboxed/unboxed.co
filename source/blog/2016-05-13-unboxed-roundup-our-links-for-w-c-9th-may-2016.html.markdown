@@ -2,7 +2,8 @@
 weekly_roundup: true
 title: 'Unboxed Roundup: Our links for w/c 9th May 2016'
 date: '2016-05-13 13:30:00 UTC'
-author: 'Henry Turner'
+authors:
+  - 'Henry Turner'
 tags: # (Delete as appropriate)
 - Culture
 

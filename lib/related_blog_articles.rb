@@ -9,12 +9,10 @@ class RelatedBlogArticles
   end
 
   def author_weight
-    if @current.author.nil? && @other.author.nil?
+    if current_authors.empty? && other_authors.empty?
       0.0
-    elsif @current.author == @other.author
-      1.0
     else
-      0.0
+      (current_authors & other_authors).size.to_f / current_authors.size.to_f
     end
   end
 
@@ -24,6 +22,21 @@ class RelatedBlogArticles
     else
       (@current.tags & @other.tags).size.to_f / @current.tags.size.to_f
     end
+  end
+
+  private
+
+  attr_reader(
+    :current,
+    :other
+  )
+
+  def current_authors
+    current.authors || []
+  end
+
+  def other_authors
+    other.authors || []
   end
 end
 

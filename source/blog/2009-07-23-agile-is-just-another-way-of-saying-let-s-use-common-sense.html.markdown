@@ -2,7 +2,8 @@
 date: "2009-07-23 00:00:00 UTC"
 published: true
 title: "Agile is just another way of saying – let’s use common sense!"
-author: "Tym Moore"
+authors:
+  - "Tym Moore"
 tags:
   - Rails
 ---

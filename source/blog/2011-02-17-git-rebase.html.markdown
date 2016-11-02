@@ -2,7 +2,8 @@
 date: "2011-02-17 17:41:00 UTC"
 published: true
 title: "Git rebase"
-author: "Tom ten Thij"
+authors:
+  - "Tom ten Thij"
 tags:
   - Rails
 ---

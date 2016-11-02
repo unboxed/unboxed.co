@@ -2,7 +2,8 @@
 date: "2014-10-22 16:58:00 UTC"
 published: true
 title: "Tactile agile for Introverts"
-author: "Claire Kemp"
+authors:
+  - "Claire Kemp"
 tags:
   - Agile
   - Culture

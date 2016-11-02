@@ -1,5 +1,6 @@
 ---
-author: Claire Kemp
+authors:
+  - Claire Kemp
 tags: 
   - Culture
   - Innovation
