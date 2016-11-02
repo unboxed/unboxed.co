@@ -1,6 +1,6 @@
 ---
 date: '2016-11-02 18:24 +0000'
-published: false
+published: true
 title: 'Digital Customer Programme Discovery Phase: Show & Tell #5 with Newham Council'
 author: Graeme McCubbin
 tags:
