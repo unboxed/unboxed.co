@@ -28,15 +28,13 @@
           <% authors.each_with_index do |author, index| %>
             <% if author.short_name %>
               <a class="blog-header__author--linked" href="/people#<%= author.short_name %>" rel="author">
-                <%= author.name %>
+                <%= author.name %><%= ", " if index != authors.size - 1 %>
               </a>
             <% else %>
               <div class="blog-header__author">
-                <%= author.name %>
+                <%= author.name %><%= ", " if index != authors.size - 1 %>
               </div>
             <% end %>
-
-            <%= ", " if index != authors.size - 1 %>
           <% end %>
 
           <div class="blog-header__published-date">
