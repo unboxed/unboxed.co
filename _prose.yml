@@ -10,11 +10,12 @@ prose:
           element: 'text'
           label: 'title'
 
-      - name: 'author'
+      - name: 'authors'
         field:
-          element: 'text'
-          label: '* Author'
-          help: 'Full name of the author (e.g. Graeme McCubbin) (required)'
+          element: 'multiselect'
+          label: '* Authors'
+          help: 'Full name of the author (e.g. Graeme McCubbin) one or more supported (required)'
+          alterable: true
 
       - name: 'tags'
         field:
