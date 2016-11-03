@@ -33,12 +33,11 @@ Led by [Martyn](http://www.unboxed.co/people/#martyn-evans), Paul (the service d
 <br/>
 
 # Discovery persona #1: Jenny and her journey
-One of the key activities the team have been working on is building up a user persona - going by the name of <i>“Jenny”<i>:<br/>
+One of the key activities the team have been working on is building up a user persona - going by the name of <i>“Jenny”</i>:<br/>
 
 ![Newham Council Digital Customer Programme Discovery Phase - Sprint Five 3](http://i1291.photobucket.com/albums/b548/grammccram/fd267ddd-7b8b-4944-8cdf-12d7e636c563_zpsrzjnwfqg.png)
 
-Jenny is a [user persona](
-https://en.wikipedia.org/wiki/Persona_(user_experience), currently being built up using residental data that the team have been collecting across a variety of different sources (including new user interviews and current systems). From building up this persona, a realistic profile of a current borough resident is forming. By creating this data-led persona, any real issues and problems with current services and systems can be highlighted and addressed, to take forward in knowing how these can be improved.<br/>
+Jenny is a user persona, currently being built up using residental data that the team have been collecting across a variety of different sources (including new user interviews and current systems). From building up this persona, a realistic profile of a current borough resident is forming. By creating this data-led persona, any real issues and problems with current services and systems can be highlighted and addressed, to take forward in knowing how these can be improved.<br/>
 <br/>
 
 # Housing Repairs journey
