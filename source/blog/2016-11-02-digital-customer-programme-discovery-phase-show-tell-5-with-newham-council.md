@@ -44,7 +44,7 @@ Jenny is a user persona, currently being built up using residental data that the
 Within the Housing department is the Housing Repairs service - a main service of focus during Sprint Five. Exploration has begun to look into how to work towards successfully reducing the volume of phone calls that currently travel through the customer contact centre, as well as addressing the variety of different types of phone call queries which are received.<br/>
 
 ![Newham Council Digital Customer Programme Discovery Phase - Sprint Five 4](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-10-20%20at%2015.57.45_zpsizo4nyxs.png)
-<i>Shadowing a member of the customer contact centre during the sprint<i/><br/>
+<i>Shadowing a member of the customer contact centre during the sprint</i><br/>
 
 
 From looking to move this phone call traffic from the customer contact centre to online, there is potential to make a significant impact in terms of the number of residents that can find the important information they require, but through a “self-service” online system. The team have spent time shadowing contact centre staff and speaking to tenants directly to get an overall understanding of how they can begin to address a successful traffic shift from one platform to another. The next step - beginning to sketch out what this might look like.<br/>
