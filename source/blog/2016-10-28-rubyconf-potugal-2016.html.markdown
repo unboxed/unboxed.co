@@ -1,13 +1,14 @@
 ---
-title: 'RubyConf Potugal 2016'
-date: '2016-10-28 18:19:45 UTC'
+title: RubyConf Portugal 2016
+date: '2016-11-03 09:30:00 UTC'
 authors:
   - Chris Holmes
   - Chris Carter
 main_image: /assets/images/blog/rubyconfpt-stage.jpeg
-tags: # (Delete as appropiate)
-- Culture
-- Rails
+tags:
+  - Culture
+  - Rails
+published: true
 ---
 
 # RubyConf Portugal 2016
