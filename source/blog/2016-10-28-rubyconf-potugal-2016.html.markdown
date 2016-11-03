@@ -1,6 +1,6 @@
 ---
 title: RubyConf Portugal 2016
-date: '2016-11-03 09:30:00 UTC'
+date: '2016-10-28 09:30:00 UTC'
 authors:
   - Chris Holmes
   - Chris Carter
