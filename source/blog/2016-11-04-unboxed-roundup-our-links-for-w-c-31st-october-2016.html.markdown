@@ -27,6 +27,28 @@ programming languages.  It'll be interesting to see how far the two diverge,
 and if this means that new language features from rubinius are now more or less
 likely to end up back in MRI ruby.
 
+## EA Games and Origin quietly bans an entire country - or, why you shouldn't take digital distribution for granted. - [Charlie E](/people#charlie-egan)
+
+https://www.reddit.com/r/gaming/comments/5a51e2/ea_games_and_origin_quietly_bans_an_entire/
+
+In what looks like an effort to avoid liability; EA turned of it's digital distribution service Origin for users in Myanmar. While an intersting story in itself, it also highlights the fragility of DRM'd services we so often take for granted.
+
+## Awesome Falsehood - [Charlie E](/people#charlie-egan)
+
+https://github.com/kdeldycke/awesome-falsehood
+
+A good long list of all the things you can get away with - most of the time.
+
+## A Rubyist looks at Crystal - [Chris H](/people#chris-holmes)
+
+https://citizen428.net/a-rubyist-looks-at-crystal-part-1-86a9284c936e
+
+An short but interesting article about [Crystal](https://crystal-lang.org/) from a
+Rubyists perspective. You will see in the examples here that the syntax is similar
+although compatability is not a goal of the language. It shows some interesting features
+like the arity and type based method overloading and has inspired me to look at some
+of the more advanced language features.
+
 ## Track of the Week - [Anissa S](/people#anissa-said)
 
 Love the different edges to the song
