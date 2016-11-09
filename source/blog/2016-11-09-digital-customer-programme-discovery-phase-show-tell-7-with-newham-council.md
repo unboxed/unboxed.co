@@ -8,6 +8,8 @@ tags:
   - Lean
 main_image: >-
   http://i1291.photobucket.com/albums/b548/grammccram/3860f2e1-5bd4-4211-8ec7-7d6b2e671e3c_zpsjfkmvi5s.jpg
+authors:
+  - Graeme McCubbin
 ---
 It’s been two weeks since I attended [Show & Tell #5](https://unboxed.co/blog/digital-customer-programme-discovery-phase-show-tell-5-with-newham-council/) at Newham Council, so back along I came for the next weekly Show & Tell to see the progress the Digital Team have made across Sprint Seven of their 10-week Digital Customer Programme Discovery Phase.<br/>
 
