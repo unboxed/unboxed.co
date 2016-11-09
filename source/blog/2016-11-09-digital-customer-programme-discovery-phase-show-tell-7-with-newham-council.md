@@ -69,15 +69,15 @@ Taking feedback from the other services being worked on and applying it to this 
 Housing Repairs is the improved system for residents to successfully book repairs to their property online. Progress with the Housing Repairs prototype was shared by Baljit, leading the room through:<br/>
 
 - The process of how users book housing repair online using their mobile device
-- The new customer journey involves residents logging into their account
+- The new customer journey involving residents logging into their account
 - Taking each step to logging a repair by providing the relevant information at each stage of the process
 
 ![Show & Tell 7 with Newham Council 5](http://i1291.photobucket.com/albums/b548/grammccram/c17b9b41-45b6-4799-9c58-326d33660d1d_zpsmqble4vt.jpg)
 
-This user journey has been improved through further user interviewing and shadowing in customer contact centres. The next step is shadowing a repairs appointment to take a tenant through this prototype service while their repair is being carried out to show how this will work for them, and gather further feedback.<br/>
+This user journey has been improved through further user interviewing and shadowing in customer contact centres. The next step is shadowing a repairs appointment to take a tenant through this prototype service while their repair is being carried out, showing how this will work for them and gathering their feedback.<br/>
 
 # What’s next on the roadmap?
 
 ![Show & Tell 7 with Newham Council 6](http://i1291.photobucket.com/albums/b548/grammccram/IMG_6840_zpsu0azzcme.jpg)
 
-One of the biggest main priorities on the team’s roadmap is to now base themselves solely in the council’s Housing office, based in Stratford. Co-locating with the Housing team and focusing even more on engaging with residents in other parts of the borough is all about reaching more service users. With the finish line crossed for Sprint Seven, it’s now into Sprint Eight in this 10-week Digital Customer Programme Discovery Phase.
+One of the main priorities on the team’s roadmap is to now base themselves solely in the council’s Housing office. Co-locating with the Housing team and focusing even more on engaging with residents in other parts of the borough is all about reaching more service users. With the finish line crossed for Sprint Seven, it’s now into Sprint Eight in this 10-week Digital Customer Programme Discovery Phase.
