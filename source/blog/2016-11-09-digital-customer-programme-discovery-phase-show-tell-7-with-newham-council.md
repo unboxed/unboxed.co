@@ -1,6 +1,6 @@
 ---
 date: '2016-11-09 10:24 +0000'
-published: false
+published: true
 title: 'Digital Customer Programme Discovery Phase: Show & Tell #7 with Newham Council'
 tags:
   - Agile
