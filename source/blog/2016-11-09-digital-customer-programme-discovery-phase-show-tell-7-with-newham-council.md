@@ -42,7 +42,7 @@ Local Offer is a platform to provide information to families on what local suppo
 - Interviewing potential users to indentify the type of results they would prefer to be provided
 
 ![Show & Tell 7 with Newham Council 3](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2586%201_zps9ilyvggf.jpg)
-<i>The team addressing resident journeys during the sprint.</i>
+<i>The team addressing resident journeys during the sprint.</i><br/>
 <br/>
 
 # 2. Homeless booking flow
@@ -56,7 +56,7 @@ From iterating on the prototypes shared in the Show & Tell for Sprint Six, progr
 
 - Further resident feedback, in the form of conversations and interviews with stakeholders at the homeless triage center, has been gathered
 - This has then been used and applied to further iterations on the next prototype stage
-- The team are now constantly addressing the question: “Can we do more to help both residents and the council team?”
+- The team are now constantly addressing the question: “Can we do more to help both residents and the council team?”<br/>
 <br/>
 
 # 3. Housing Register service prototype
