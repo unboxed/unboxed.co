@@ -33,49 +33,49 @@ The Show & Tell then drilled down into the main areas of progress:<br/>
 # 1. Local Offer
 Local Offer is a platform to provide information to families on what local support services are available for children and young people with special educational needs or disabilities. With a potential local offering for residents, progress reached with a current prototype includes:<br/>
 
-- Taking a Local Offer service leader through the current user journey
+- Taking a Local Offer service leader through the current resident journey
 - Gathering feedback by testing this with those who will be users of the service
 - Sending out and gathering back surveys from parents
 - Interviewing potential users to indentify the type of results they would prefer to be provided
 
 ![Show & Tell 7 with Newham Council 3](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2586%201_zps9ilyvggf.jpg)
-<i>The team addressing user journeys during the sprint.</i>
+<i>The team addressing resident journeys during the sprint.</i>
 
 # 2. Homeless booking flow
 The team addressed the booking flow of a homelessness service prototype by:<br/>
 
 - Meeting with service stakeholders at a homelessness triage centre for further testing
-- Looking at other similar systems across other councils 
-- Comparing what types of information might be necessary within this system when it comes to user needs and requirements
+- Looking at other similar systems across a range of other councils 
+- Comparing what types of information might be necessary within this system when it comes to resident needs and requirements
 
 From iterating on the prototypes shared in the Show & Tell for Sprint Six, progress includes:<br/>
 
-- Further user feedback, in the form of conversations and interviews with stakeholders at the homeless triage center, has been gathered
+- Further resident feedback, in the form of conversations and interviews with stakeholders at the homeless triage center, has been gathered
 - This has then been used and applied to further iterations on the next prototype stage
 - The team are now constantly addressing the question: “Can we do more to help both residents and the council team?”
 
 # 3. Housing Register service prototype
 Showcasing the first iteration of the Housing Register service prototype, Boris led the room through:<br/>
 
-- A suggested potential user journey within the service
+- A suggested potential resident journey within the service
 - The different ideas being tested, such as engaging with residents by using more “natural” language and focusing on using terms and phrases they may use
 - The relevant information required <i>before</i> entering the main service
 - First drafts of information to be available after a resident makes a submission, giving clear indication of what to expect in the next stage of the process
 
 ![Show & Tell 7 with Newham Council 4](http://i1291.photobucket.com/albums/b548/grammccram/5de4e092-1407-4993-ac03-a4a7e4032551_zpssov22afm.jpg)
 
-Taking feedback from the other services being worked on and applying it to this Housing Register service prototype has allowed the team to test the inclusion of potential required features, such as a timeline to indicate the overall process and which stage users are at in the process throughout their journey.<br/>
+Taking feedback from the other services being worked on and applying it to this Housing Register service prototype has allowed the team to test the inclusion of potential required features, such as a timeline to indicate the overall process and which stage residents are at in the process throughout their journey.<br/>
 
 # 4. Housing Repairs prototype
 Housing Repairs is the improved system for residents to successfully book repairs to their property online. Progress with the Housing Repairs prototype was shared by Baljit, leading the room through:<br/>
 
-- The process of how users book housing repair online using their mobile device
+- The process of how residents book housing repair online using their mobile device
 - The new customer journey involving residents logging into their account
 - Taking each step to logging a repair by providing the relevant information at each stage of the process
 
 ![Show & Tell 7 with Newham Council 5](http://i1291.photobucket.com/albums/b548/grammccram/c17b9b41-45b6-4799-9c58-326d33660d1d_zpsmqble4vt.jpg)
 
-This user journey has been improved through further user interviewing and shadowing in customer contact centres. The next step is shadowing a repairs appointment to take a tenant through this prototype service while their repair is being carried out, showing how this will work for them and gathering their feedback.<br/>
+This resident journey has been improved through further interviewing and shadowing in customer contact centres. The next step is shadowing a repairs appointment to take a tenant through this prototype service while their repair is being carried out, showing how this will work for them and gathering their feedback.<br/>
 
 # What’s next on the roadmap?
 
