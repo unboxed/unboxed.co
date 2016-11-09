@@ -31,12 +31,12 @@ Led by [Martyn](https://unboxed.co/people/#martyn-evans), Boris, Baljit and Ikra
 The Show & Tell then drilled down into the various areas of focus:<br/>
 
 # 1. Local Offer
-Local Offer is a platform to provide information to families on what local support services are available for children and young people with special educational needs or disabilities. With a potential local offering for residents, progress reached with the current prototype includes:<br/>
+Local Offer is a platform to provide information to families on what local support services are available for children and young people with special educational needs or disabilities. With a potential local offering for residents, progress reached with a current prototype includes:<br/>
 
 - Taking a Local Offer service leader through the current user journey
-- Gathering feedback by testing this with local residents
+- Gathering feedback by testing this with those who will be users of the service
 - Sending out and gathering back surveys from parents
-- Asking potential users for the type of results they would prefer to see provided
+- Interviewing potential users to indentify the type of results they would prefer to be provided
 
 ![Show & Tell 7 with Newham Council 3](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2586%201_zps9ilyvggf.jpg)
 
@@ -47,19 +47,19 @@ The team addressed the booking flow of a homelessness service prototype by:<br/>
 - Looking at other similar systems across other councils 
 - Comparing what types of information might be necessary within this system when it comes to user needs and requirements
 
-From iterating on the previous prototypes shared in the Show & Tell for Sprint Six:<br/>
+From iterating on the prototypes shared in the Show & Tell for Sprint Six, progress includes:<br/>
 
 - Further user feedback, in the form of conversations and interviews with stakeholders at the homeless triage center, has been gathered
-- This has then been used and applied to further iterations on the next stage of the prototype
+- This has then been used and applied to further iterations on the next prototype stage
 - The team are now constantly addressing the question: “Can we do more to help both residents and the council team?”
 
 # 3. Housing Register service prototype
-Showcasing the first iteration of the Housing Register prototype service, Boris led the room through:<br/>
+Showcasing the first iteration of the Housing Register service prototype, Boris led the room through:<br/>
 
-- A suggestion of a potential user journey within the service
+- A suggested potential user journey within the service
 - The different ideas being tested, such as engaging with residents by using more “natural” language and focusing on using terms and phrases they may use
-- Addressing what relevant information is required before entering the service
-- First drafts of what information needs to be available after a user makes a submission, in order to give an indication of what to expect in the next stage of the process
+- The relevant information required <i>before</i> entering the main service
+- First drafts of information to be available after a resident makes a submission, giving clear indication of what to expect in the next stage of the process
 
 ![Show & Tell 7 with Newham Council 4](http://i1291.photobucket.com/albums/b548/grammccram/5de4e092-1407-4993-ac03-a4a7e4032551_zpssov22afm.jpg)
 
