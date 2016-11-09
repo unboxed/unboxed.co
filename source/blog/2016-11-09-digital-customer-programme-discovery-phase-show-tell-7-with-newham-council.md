@@ -39,6 +39,7 @@ Local Offer is a platform to provide information to families on what local suppo
 - Interviewing potential users to indentify the type of results they would prefer to be provided
 
 ![Show & Tell 7 with Newham Council 3](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2586%201_zps9ilyvggf.jpg)
+<i>The team addressing user journeys during the sprint.</i>
 
 # 2. Homeless booking flow
 The team addressed the booking flow of a homelessness service prototype by:<br/>
