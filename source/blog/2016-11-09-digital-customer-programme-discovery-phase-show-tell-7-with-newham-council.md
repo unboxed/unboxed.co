@@ -28,7 +28,7 @@ Led by [Martyn](https://unboxed.co/people/#martyn-evans), Boris, Baljit and Ikra
 
 ![Show & Tell 7 with Newham Council 2](http://i1291.photobucket.com/albums/b548/grammccram/3e90825f-5382-42db-b4ed-e39ff277a3a6_zpsvnleilwe.jpg)
 
-The Show & Tell then drilled down into the various areas of focus:<br/>
+The Show & Tell then drilled down into the main areas of progress:<br/>
 
 # 1. Local Offer
 Local Offer is a platform to provide information to families on what local support services are available for children and young people with special educational needs or disabilities. With a potential local offering for residents, progress reached with a current prototype includes:<br/>
