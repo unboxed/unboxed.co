@@ -40,5 +40,11 @@ will be as fast as if you manually created the methods. One important caveat -
 don't use it with arbitrary user params as it will open your app up to a DoS
 attack by constantly creating new methods.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Sarah B](/people#sarah-beck)
+
+In order to improve this weeks mood, and to celebrate Gram and I going on holiday (separately) I think this is appropriate:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Rswx2Z7SDw" frameborder="0" allowfullscreen></iframe>
+
+[Madonna - Holiday](https://www.youtube.com/watch?v=5Rswx2Z7SDw)
 
