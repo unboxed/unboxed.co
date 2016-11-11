@@ -4,7 +4,7 @@ title: 'Unboxed Roundup: Our links for w/c 7th November 2016'
 date: '2016-11-11 14:30:00 UTC'
 authors:
   - 'Murray Steele'
-tags: # (Delete as appropiate)
+tags: # (Delete as appropriate)
 - Culture
 
 ---
@@ -40,9 +40,23 @@ will be as fast as if you manually created the methods. One important caveat -
 don't use it with arbitrary user params as it will open your app up to a DoS
 attack by constantly creating new methods.
 
+## Building a networking stack in ruby - [Murray S](/people#murray-steele)
+
+https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b
+
+This is an article on how the networking stack works, starting with the
+sockets library and going down from there.  It's all explained with ruby code
+you can use yourself to understand the raw bytes being sent over your network.
+I really enjoyed the article for it's deep-dive, but also for the neat tricks
+Daniel uses to do the low-level byte processing you need for network
+programming.  I forget that ruby has these features as I'm usually working at a
+much higher level and don't worry about bytes much, so it's nice to be reminded
+that I can work further down the stack in my favourite language.
+
 ## Track of the Week - [Sarah B](/people#sarah-beck)
 
-In order to improve this weeks mood, and to celebrate Gram and I going on holiday (separately) I think this is appropriate:
+In order to improve this weeks mood, and to celebrate Gram and I going on
+holiday (separately) I think this is appropriate:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5Rswx2Z7SDw" frameborder="0" allowfullscreen></iframe>
 
