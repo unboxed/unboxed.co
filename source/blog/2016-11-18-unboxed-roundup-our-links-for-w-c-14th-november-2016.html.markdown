@@ -29,4 +29,10 @@ interesting side projects. Some highlights for me:
 * [imguru](https://github.com/FigBug/imguru) - uploads images to Imgur from the command line
 * [transfer.sh](https://transfer.sh) - a simple CLI for file transfers.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Elena](https://twitter.com/elenatanasoiu)
+
+It's a song from Icelandic singer Asgeir. All his songs makes me relax and focus during the workday. Enjoy! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9khWBA-572A" frameborder="0" allowfullscreen></iframe>
+
+[Asgeir - King and Cross](https://www.youtube.com/watch?v=9khWBA-572A)
