@@ -29,9 +29,37 @@ interesting side projects. Some highlights for me:
 * [imguru](https://github.com/FigBug/imguru) - uploads images to Imgur from the command line
 * [transfer.sh](https://transfer.sh) - a simple CLI for file transfers.
 
+## Fast Search Using PostgreSQL Trigram Indexes - [Chris H](/people#chris-holmes)
+
+https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/
+
+This week I was looking at a slow query that had been causing problems in an app
+that I'm working on. The query was performing a "WHERE LIKE" clause against a
+table with millions of rows. I changed the query to use the case insensitive
+"ILIKE" instead of a combination of "LIKE" and the "upper" function and added
+a trigram index which gave significant performance improvements. This article
+has some useful info on trigram indexes and how to use them.
+
+## Why We Chose Turbolinks - [Charlie E](/people#charlie-egan)
+
+https://changelog.com/posts/why-we-chose-turbolinks
+
+From a podcast regularly interviewing people making the latest cool thing this
+was an interesting read about the state of Turbolinks and why they chose it for
+the new Changelog site.
+
+## Real World Rails Applications - [Andrew W](/people#andrew-white)
+
+https://github.com/eliotsykes/real-world-rails
+
+When you're starting out learning Rails it's always a difficult step to take
+from a simple CRUD application to a more complicated app. Real World Rails is a
+collection of open source apps designed to help you ease that pain by providing
+tools that allow you to analyse them.
+
 ## Track of the Week - [Elena](https://twitter.com/elenatanasoiu)
 
-It's a song from Icelandic singer Asgeir. All his songs makes me relax and focus during the workday. Enjoy! 
+It's a song from Icelandic singer Asgeir. All his songs makes me relax and focus during the workday. Enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9khWBA-572A" frameborder="0" allowfullscreen></iframe>
 
