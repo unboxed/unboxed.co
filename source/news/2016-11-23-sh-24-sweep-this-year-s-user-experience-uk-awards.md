@@ -1,6 +1,6 @@
 ---
 date: '2016-11-23 15:20 +0000'
-published: true
+published: false
 title: 'SH:24 sweep this year’s User Experience UK Awards'
 ---
 Online sexual health testing service, [SH:24](https://www.sh24.org.uk), swept this year’s [User Experience UK (UXUK) Awards](http://uxukawards.com), taking home not only two category awards but also the ceremony evening’s grand prize - Best User Experience.<br/>
@@ -18,4 +18,3 @@ SH:24 triumphed across the evening, taking home three of the 11 awards:<br/>
 Originally developed in partnership with Unboxed, from inception through to Beta, a working service was delivered for the residents of Southwark and Lambeth. The SH:24 team have now successfully scaled up and rolled out the service to further UK locations, including Herefordshire, Shropshire, Telford & Wrekin.<br/>
 
 [Read about the development of the SH:24 service here](https://unboxed.co/project-stories/sh24).
-
