@@ -52,7 +52,7 @@ Also reflecting on the new experience of the Newham Digital Team working in an A
 - It’s all about building and embedding our digital expertise now and progressing into the future
 - The next steps are about bringing more and more capabilities into the team
 
-Slack also got a special mention as being “revolutionary” in cutting down email communication and opening up more necessary and easier group and one-to-one conversations.<br/>
+[Slack](https://slack.com/) also received a special mention as being “revolutionary” in cutting down email communication and opening up more necessary and easier group and one-to-one conversations.<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Brilliant reflections from the amazing dawn turner on her experience of discovery at out last show and tell <a href="https://twitter.com/NewhamLondon">@NewhamLondon</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> - users! <a href="https://t.co/XRbVEVhru4">pic.twitter.com/XRbVEVhru4</a></p>&mdash; Tracy Green (@greentrac) <a href="https://twitter.com/greentrac/status/801381875973521408">November 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
