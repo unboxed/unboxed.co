@@ -3,7 +3,7 @@ date: '2016-11-23 15:20 +0000'
 published: true
 title: 'SH:24 sweep this year’s User Experience UK Awards'
 ---
-Online sexual health testing service, [SH:24](https://www.sh24.org.uk), swept this year’s [User Experience UK (UXUK) Awards](http://uxukawards.com), taking home not only two category awards but also the ceremony evening’s grand prize - Best User Experience.<br/>
+Online sexual and reproductive health service, [SH:24](https://www.sh24.org.uk), swept this year’s [User Experience UK (UXUK) Awards](http://uxukawards.com), taking home not only two category awards but also the ceremony evening’s grand prize - Best User Experience.<br/>
 
 ![SH24](http://i1291.photobucket.com/albums/b548/grammccram/sh24_zps2sspzd6e.jpeg)
 
