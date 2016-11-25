@@ -16,6 +16,7 @@ main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/IMG_7454_zps4k4
 The Digital Team have reached a milestone Show & Tell in their Digital Customer Programme Discovery Phase with [Newham Council](https://www.newham.gov.uk/Pages/index.aspx) - Sprint 10. With a buzz across the room, spirits are high as it reaches 11am – the time for the Show & Tell kick-off.<br/>
 
 ![Newham Council Show and Tell 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7469_zpsiuoqkgix.jpg)
+<br/>
 
 # Digital Discovery - Sprint 10
 <i>Show & Tell duration: 20 minutes</i>
@@ -29,6 +30,7 @@ The Digital Team have reached a milestone Show & Tell in their Digital Customer 
 - Addressing the smooth transition into this Alpha phase
 
 ![Newham Council Show and Tell 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7461_zpsbfvrfrnh.jpg)
+<br/>
 
 # Progress reflection
 The Newham Council team reflected over the last 10 weeks, sharing their learnings and what they have achieved so far from undertaking this Discovery phase:<br/>
@@ -62,16 +64,15 @@ The Digital Team then wrapped up this Show & Tell by summarising the overall Dis
 - The task now is to build up on the progress already made, keeping up the Discovery momentum and carrying this through to the Alpha phase
 
 ![Newham Council Show and Tell 4](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7452_zpspmweuqa9.jpg)
-<br/>
 
 Newham Council is going through a step-by-step change, with this Discovery phase being the first step in this journey to Agile. It’s a very exciting time for the Digital Team, and wider overall team, as positive change and progress has been seen week-by-week. So, Sprint 10... That's a wrap!<br/>
+<br/>
 
-#So what’s next for the team?
+# So what’s next for the team?
  
 - Heading into the Alpha phase of selected services
 - More Discovery work on services still at early stages
 
 ![Newham Council Show and Tell 4](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7475_zpssuv7omfz.jpg)
-<br/>
 
 A quick team de-brief and it’s onwards and upwards to the next challenge - the Alpha phase.
