@@ -57,6 +57,7 @@ Slack also got a special mention as being “revolutionary” in cutting down em
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Brilliant reflections from the amazing dawn turner on her experience of discovery at out last show and tell <a href="https://twitter.com/NewhamLondon">@NewhamLondon</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> - users! <a href="https://t.co/XRbVEVhru4">pic.twitter.com/XRbVEVhru4</a></p>&mdash; Tracy Green (@greentrac) <a href="https://twitter.com/greentrac/status/801381875973521408">November 23, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 The Digital Team then wrapped up this Show & Tell by summarising the overall Discovery phase so far, including:<br/>
  
 - The initial nervousness of stakeholders has now been reduced through seeing multiple prototypes come to life over this 10-week period
