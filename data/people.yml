@@ -301,6 +301,18 @@
     - name: "GitHub"
       link: "https://github.com/neilvb"
 
+- name: "Elena Tanasoiu"
+  short_name: "elena-tanasoiu"
+  role: "Developer"
+  email: "elena.tanasoiu"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/elenatanasoiu"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/elenatanasoiu"
+    - name: "GitHub"
+      link: "https://github.com/elenatanasoiu"
+
 - name: "Clive Corbishley"
   short_name: "clive-corbishley"
   role: "Developer"
