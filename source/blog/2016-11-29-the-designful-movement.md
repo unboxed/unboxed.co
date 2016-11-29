@@ -1,6 +1,6 @@
 ---
 date: '2016-11-29 15:37 +0000'
-published: false
+published: true
 title: The designful movement
 authors:
   - Leon Odey-Knight
@@ -11,8 +11,9 @@ main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/DSC03922_zpsj6q
 “Their value proposition was, ‘Make it whatever you want. You can choose whatever color you want,'...I believe that’s abdicating your responsibility as a designer.”<br/>
 - Jonathan Ive on Moto Maker<br/>
 
-![The designful movement 1](http://i1291.photobucket.com/albums/b548/grammccram/motorola-moto-x-moto-maker-screenshot-8-1500x855_zpsl7axectw.jpg)
+![The designful movement 1](http://i1291.photobucket.com/albums/b548/grammccram/motorola-moto-x-moto-maker-screenshot-8-1500x855_zpskhactzgb.jpg)
 
+<br/>
 For me this statement sums up the way we as designers often feel about design. And who can blame us?<br/>
 
 Years of being subjected to comments such as:<br/>
@@ -22,7 +23,9 @@ Years of being subjected to comments such as:<br/>
 "Maybe move it over to the right a bit..."<br/>
 "We don't need to speak to our customers, we know what they want..."<br/>
 
-![The designful movement 2](http://i1291.photobucket.com/albums/b548/grammccram/shrek_zpsdml2zfmh.jpg)
+![The designful movement 2](http://i1291.photobucket.com/albums/b548/grammccram/shrek_zpsjvmit0oj.jpg)
+
+<br/>
 Is it any surprise that we have grabbed our pitchforks and said enough is enough! This is our land!<br/>
 
 Here's the thing. In my time at Unboxed I have come to believe that there is another way.<br/>
@@ -37,15 +40,16 @@ I have facilitated numerous workshops with clients who have not been exposed to 
 
 But involve, guide and encourage them and by the end of any given session what you will find is that more often than not they feel engaged, excited and passionate about the thing you are working on together.<br/>
 
-![The designful movement 3](http://i1291.photobucket.com/albums/b548/grammccram/mash_zpsaoastgza.jpg)
+![The designful movement 3](http://i1291.photobucket.com/albums/b548/grammccram/mash_zpsjuhbxtj4.jpg)
 
 So why cut them out of the process.<br/>
 
 This shouldn't be black box thinking. We don't have all of the answers. What we have a certain set of skills...<br/>
 
-![The designful movement 4](http://i1291.photobucket.com/albums/b548/grammccram/taken_zps1spsnw05.jpg)
+![The designful movement 4](http://i1291.photobucket.com/albums/b548/grammccram/taken_zpsxfzmcs3b.jpg)
 
-and whilst we may all utter those very well known lines at times... Ultimately I feel we are missing the bigger picture.<br/>
+<br/>
+And whilst we may all utter those very well known lines at times... Ultimately I feel we are missing the bigger picture.<br/>
 
 Whether you be a UXer,  UIer, Researcher, High fidelity designer., etc...whatever your area of expertise may be. If the companies we are working within and/or clients we work with do not value what we do then let's change that.<br/>
 
@@ -64,6 +68,3 @@ Or...<br/>
 
 Let's take them on the journey with us.<br/>
 Kicking and screaming if needs be.<br/>
-
-
-
