@@ -2,11 +2,11 @@
 date: '2016-11-29 15:37 +0000'
 published: true
 title: The designful movement
-authors:
-  - Leon Odey-Knight
 tags:
   - Design
 main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/DSC03922_zpsj6qjrhvt.jpg'
+authors:
+  - Leon Odey Knight
 ---
 “Their value proposition was, ‘Make it whatever you want. You can choose whatever color you want,'...I believe that’s abdicating your responsibility as a designer.”<br/>
 - Jonathan Ive on Moto Maker<br/>
