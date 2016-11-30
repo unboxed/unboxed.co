@@ -19,7 +19,7 @@ Here’s a selection of the submissions from this month:<br/>
 <br/>
 
 
-## [Charlie Egan](https://unboxed.co/people/#charlie-egan)
+## [Charlie](https://unboxed.co/people/#charlie-egan)
 Interestingly; it's possible to use an unassigned variable in the assignment of that same variable. Otherwise Ruby raises an error that the variable is undefined. I didn't even notice that it wouldn't work outside of the assignment until Ben pointed it out to me.<br/>
 
 ```
@@ -32,7 +32,7 @@ irb(main):002:0> attempt_count = (attempt_count || 0) + 1
 ```
 
 <br/>
-## [Andrew White](https://unboxed.co/people/#andrew-white)
+## [Andrew](https://unboxed.co/people/#andrew-white)
 We recently added a small set Rubocop rules to Rails to help us make sure our relatively relaxed style rules are maintained and one of the issues was how to address indentation with case or if statements that have their result assigned to a variable. With a standard indent you tend to lose the initial case or if line and with the full indent you get large blocks of unsightly whitespace. The latter is especially irritating to myself having spent a good number of years laying out copy in Xpress or InDesign. I often write my code as if I were laying out copy for a story because that's in essence what you're trying to do for anyone else that will read your code in the future.<br/>
 
 
@@ -74,7 +74,7 @@ proceed = \
 ```
   
 <br/>
-## [Crystal Carter](https://unboxed.co/people/#chris-carter)
+## [Crystal](https://unboxed.co/people/#chris-carter)
 This is a piece of code that I wrote in order to interact with a command line utility called `ogr2ogr`. It’s used for converting map data from different formats, and in my use case I was converting it from MapInto TAB format, and importing it directly into a PostgreSQL table. The first half of the code snippet deals with pulling the credentials, host and database name from Rails configuration, and then puts it into `key=value` form for passing to the utility. The latter half of the code snippet appends arguments to the utility onto an array, adding values for several arguments an options. The options themselves aren’t important, but the call to `Kernel.system` is. Calling it with `args.join(" ")` created a String, and this ran the command line utility without an issue, however calling it with `*args` does not. This has something to do with whether the system call creates a sub-shell or not, and resulted in an issue with quoting which I hadn’t expected. Good to know!<br/>
 
 ```
@@ -114,7 +114,7 @@ Kernel.system(
 ```
 
 <br/>
-## [Tom Sabin](https://unboxed.co/people/#tom-sabin)
+## [Tom](https://unboxed.co/people/#tom-sabin)
 This is a before and after view of the same spec. When I updated the mocked response from Chargify, which changed the customer reference, the failure message wasn’t clear and meant that I spent some time investigating what the problem actually was.<br/>
 
 ```
@@ -136,7 +136,7 @@ end
 ```
 
 <br/>
-## [Charlie Egan](https://unboxed.co/people/#charlie-egan)
+## [Charlie](https://unboxed.co/people/#charlie-egan)
 We have many workers that make calls to many other workers to complete an import of some data. When there are a large number of jobs already in processing; it's hard to work out when all the jobs will finish. We implemented a ConditionallyAsync concern that could be included to workers that would switch `perform` and `perform_async` based on the current configuration. This meant that we could choose to run adhoc jobs in series. The snippet is the test for the concern using a Struct as an example worker.<br/>
 
 ```
