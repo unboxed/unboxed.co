@@ -10,6 +10,7 @@ tags:
   - Rails
 main_image: >-
   http://i1291.photobucket.com/albums/b548/grammccram/FTL%20November_zpsvbhdqhhn.png
+has_syntax: true
 ---
 Interesting code snippets, insightful discussion, story sharing and good company - it’s November’s ‘Faster than Lightning’ developer talks at Unboxed.<br/>
 
