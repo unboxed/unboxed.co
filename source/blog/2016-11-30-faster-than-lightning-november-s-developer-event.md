@@ -1,6 +1,6 @@
 ---
 date: '2016-11-30 10:31 +0000'
-published: false
+published: true
 title: 'Faster than Lightning: November''s Developer Event'
 authors:
   - Neil van Beinum
