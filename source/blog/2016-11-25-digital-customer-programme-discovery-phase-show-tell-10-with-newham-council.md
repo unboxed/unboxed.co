@@ -60,13 +60,13 @@ Also reflecting on the new experience of the Newham Digital Team working in an A
 <br/>
 The Digital Team then wrapped up this Show & Tell by summarising the overall Discovery phase so far, including:<br/>
  
-- The initial nervousness of stakeholders has now been reduced through seeing multiple prototypes come to life over this 10-week period
+- Any initial nervousness of stakeholders has now been reduced through seeing multiple prototypes come to life over this 10-week period
 - These individual service area stakeholders can now see how their services can help more people
 - The task now is to build up on the progress already made, keeping up the Discovery momentum and carrying this through to the Alpha phase
 
 ![Newham Council Show and Tell 4](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7452_zpspmweuqa9.jpg)
 
-Newham Council is going through a step-by-step change, with this Discovery phase being the first step in this journey to Agile. It’s a very exciting time for the Digital Team, and wider overall team, as positive change and progress has been seen week-by-week. So, Sprint 10... That's a wrap!<br/>
+Newham Council is going through a step-by-step change, with this Discovery phase being the first step in this journey to Agile. It’s a very exciting time for the Digital Team, and wider overall team. So, Sprint 10... That's a wrap!<br/>
 <br/>
 
 # So what’s next for the team?
