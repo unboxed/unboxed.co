@@ -14,7 +14,7 @@ Hello, I’m Boris. New to the team, I’ve recently joined Unboxed as a Designe
 
 With over 12 years of experience in creating digital services, I'm a Service Designer with an interdisciplinary background (BA in Graphic Design, MDes in Service Design).<br/>
 
-![Welcome to the team Boris 1](http://i1291.photobucket.com/albums/b548/grammccram/a38cc2c5-e42c-49d8-bf94-5300a98bad8a_zpsk3bzizdy.jpg)
+![Welcome to the team Boris 1](http://i1291.photobucket.com/albums/b548/grammccram/dcc7431b-ae40-448c-a70f-3da8706223e6_zpse9zmjwhj.jpg)
 
 I’ve worked with a range of studios and agencies, as well as a number of digital startups, collaborating on projects around digital, service and platform design. In addition to more commercial projects for clients such as Ford or Tesco, I have in recent years had a chance to work on a number of public sector and social innovation projects, aiming to leverage service design and design thinking to solve complex systemic societal issues.<br/>
 
@@ -28,5 +28,3 @@ The team at Newham have been very eager to take a step out of their comfort zone
 
 
 As a new addition to the Unboxed design team I’m looking forward to working on more challenging, complex projects like the one in Newham, as this is where design can really make a difference. I really like the approach that Unboxed has towards these projects and, as our design team grows, I hope to be able to contribute and further develop our methods as much as I can.<br/>
-
-
