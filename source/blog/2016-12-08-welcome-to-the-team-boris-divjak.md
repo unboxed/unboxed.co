@@ -14,7 +14,7 @@ Hello, I’m Boris. New to the team, I’ve recently joined Unboxed as a Designe
 
 With over 12 years of experience in creating digital services, I'm a Service Designer with an interdisciplinary background (BA in Graphic Design, MDes in Service Design).<br/>
 
-![Welcome to the team Boris 1](http://i1291.photobucket.com/albums/b548/grammccram/dcc7431b-ae40-448c-a70f-3da8706223e6_zpse9zmjwhj.jpg)
+![Welcome to the team Boris 1](http://i1291.photobucket.com/albums/b548/grammccram/fc8e9d38-8572-47c5-b5d9-91d457e727aa_zpseacz9j9c.jpg)
 
 I’ve worked with a range of studios and agencies, as well as a number of digital startups, collaborating on projects around digital, service and platform design. In addition to more commercial projects for clients such as Ford or Tesco, I have in recent years had a chance to work on a number of public sector and social innovation projects, aiming to leverage service design and design thinking to solve complex systemic societal issues.<br/>
 
