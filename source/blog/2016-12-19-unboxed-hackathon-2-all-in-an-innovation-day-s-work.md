@@ -15,6 +15,7 @@ Following the success of our last [Hackathon day](https://unboxed.co/blog/unboxe
 
 Last week, a group of six of us (Charlie, Crystal, Elena, Jack, Neil and myself) headed back down to [Campus London](https://www.campus.co/london/en), where we split into individual groups to work on some new ideas that had been batting around in conversation for a few weeks.<br/>
 
+<br/>
 # Idea 1: Visualising internet speed
 [Elena](https://unboxed.co/people/#elena-tanasoiu) and [I](https://unboxed.co/people/#chris-holmes) worked together on an app that would visualise the internet speed within our office.<br/>
 
