@@ -28,7 +28,7 @@ Chris worked on a gem to provide an executable which could be demonised using la
 # Idea 2: Linkers & Thinkers
 [Tom](https://unboxed.co/people/#tom-sabin) runs the schedule for Linkers & Thinkers at Unboxed - a monthly meeting of minds, where we each pair with another person to have lunch and talk through our ideas outside of normal project work. Each month, the ‘Linkers’ and ‘Thinkers’ are chosen at random through an application that he has already spent time developing.<br/>
 
-Tom spent time working on making improvements to the algorithm that matches the ‘Linkers’ and ‘Thinkers’ together each month, as well as implementing a bias within the application towards pairs of people who have historically been matched previously.<br/>
+He spent time working on making improvements to the algorithm that matches the ‘Linkers’ and ‘Thinkers’ together each month, as well as implementing a bias within the application towards pairs of people who have historically been matched previously.<br/>
 
 ![Unboxed Hackathon - Elena and Tom](http://i1291.photobucket.com/albums/b548/grammccram/Unboxed%20Hackathon%20-%20Elena%20and%20Tom_zpsj25m5kih.jpg)
 
