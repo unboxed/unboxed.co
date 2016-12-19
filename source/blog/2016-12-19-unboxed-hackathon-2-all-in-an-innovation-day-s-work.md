@@ -13,7 +13,7 @@ main_image: >-
 ---
 Following the success of our last [Hackathon day](https://unboxed.co/blog/unboxed-hackathon-what-a-difference-a-day-makes), we decided to make this a recurring event, spending more innovation days together as a team.<br/>
 
-Last week, a group of six of us (Charlie, Crystal, Elena, Jack, Neil and myself) headed back down to [Campus London](https://www.campus.co/london/en), where we split into individual groups to work on some new ideas that had been batting around in conversation for a few weeks.<br/>
+Last week, a group of six of us (Charlie, Crystal, Elena, Jack, Neil and Chris) headed back down to [Campus London](https://www.campus.co/london/en), where we split into individual groups to work on some new ideas that had been batting around in conversation for a few weeks.<br/>
 
 <br/>
 # Idea 1: Visualising internet speed
