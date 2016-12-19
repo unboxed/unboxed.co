@@ -17,9 +17,9 @@ Last week, a group of six of us (Charlie, Crystal, Elena, Jack, Neil and myself)
 
 <br/>
 # Idea 1: Visualising internet speed
-[Elena](https://unboxed.co/people/#elena-tanasoiu) and [I](https://unboxed.co/people/#chris-holmes) worked together on an app that would visualise the internet speed within our office.<br/>
+[Elena](https://unboxed.co/people/#elena-tanasoiu) and [Chris](https://unboxed.co/people/#chris-holmes) worked together on an app that would visualise the internet speed within our office.<br/>
 
-I worked on a gem to provide an executable which could be demonised using launchd to provide some basic metrics, while Elena spent time working on a API to consume the metrics and a front-end that displayed these using [Chartkick](https://github.com/ankane/chartkick). By the end of the day, we managed to integrate this with the ‘Unboxed Dash’ dashboard we created in our previous Hackathon day.<br/>
+Chris worked on a gem to provide an executable which could be demonised using launchd to provide some basic metrics, while Elena spent time working on a API to consume the metrics and a front-end that displayed these using [Chartkick](https://github.com/ankane/chartkick). By the end of the day, we managed to integrate this with the ‘Unboxed Dash’ dashboard we created in our previous Hackathon day.<br/>
 
 ![Unboxed Hackathon - Unboxed Dash](http://i1291.photobucket.com/albums/b548/grammccram/Unboxed%20Hackathon%20-%20Unboxed%20Dash_zpspgm7qz2z.png)
 <br/>
