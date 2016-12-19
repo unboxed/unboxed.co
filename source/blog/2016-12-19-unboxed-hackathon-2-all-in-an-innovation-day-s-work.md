@@ -1,6 +1,6 @@
 ---
 date: '2016-12-19 15:15 +0000'
-published: false
+published: true
 title: 'Unboxed Hackathon #2 - All in an innovation day’s work'
 authors:
   - Chris Holmes
@@ -11,18 +11,17 @@ tags:
 main_image: >-
   http://i1291.photobucket.com/albums/b548/grammccram/6e49f419-7407-48dd-b480-c47dbd61e495_zpsslc0nbab.jpg
 ---
-Following the success of our last [Hackathon day](/blog/unboxed-hackathon-what-a-difference-a-day-makes), we decided to make this a recurring event, spending more innovation days together as a team.<br/>
+Following the success of our last [Hackathon day](https://unboxed.co/blog/unboxed-hackathon-what-a-difference-a-day-makes), we decided to make this a recurring event, spending more innovation days together as a team.<br/>
 
 Last week, a group of six of us (Charlie, Crystal, Elena, Jack, Neil and myself) headed back down to [Campus London](https://www.campus.co/london/en), where we split into individual groups to work on some new ideas that had been batting around in conversation for a few weeks.<br/>
 
 # Idea 1: Visualising internet speed
-[Elena](https://unboxed.co/people/#elena-tanasoiu) and I worked together on an app that would
-visualise the internet speed within our office.<br/>
+[Elena](https://unboxed.co/people/#elena-tanasoiu) and [I](https://unboxed.co/people/#chris-holmes) worked together on an app that would visualise the internet speed within our office.<br/>
+
+I worked on a gem to provide an executable which could be demonised using launchd to provide some basic metrics, while Elena spent time working on a API to consume the metrics and a front-end that displayed these using [Chartkick](https://github.com/ankane/chartkick). By the end of the day, we managed to integrate this with the ‘Unboxed Dash’ dashboard we created in our previous Hackathon day.<br/>
 
 ![Unboxed Hackathon - Unboxed Dash](http://i1291.photobucket.com/albums/b548/grammccram/Unboxed%20Hackathon%20-%20Unboxed%20Dash_zpspgm7qz2z.png)
-
 <br/>
-I worked on a gem to provide an executable which could be demonised using launchd to provide some basic metrics while Elena spent time working on a API to consume the metrics and a front-end that displayed these using [Chartkick](https://github.com/ankane/chartkick). By the end of the day, we managed to integrate this with the ‘Unboxed Dash’ dashboard we created in our previous Hackathon day.<br/>
 
 
 # Idea 2: Linkers & Thinkers
