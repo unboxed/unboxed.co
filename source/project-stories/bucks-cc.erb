@@ -91,6 +91,7 @@ beta_phase:
 alpha_quote:
   quote: "With Unboxed’s help we designed Alpha to address the biggest design, business and technical risks to the project. This is part of the new ways of working we’re trying. We’re now in a good position to provide customers with good digital services that they prefer to use."
   source: "Matthew Cain, Head of Digital, Buckinghamshire County Council"
+  image: "/project-stories/bucks-cc/team/matthew-cain-full.png"
 
 team:
   title: "Unboxed team"
@@ -215,7 +216,17 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.beta_phase } %>
 
-  <%= partial 'project-stories/quote', locals: { section: current_page.data.alpha_quote } %>
+  <blockquote class="quote">
+    <aside class="quote__right-section">
+      <p class="quote__text--centered">
+        <%= current_page.data.alpha_quote.quote %>
+      </p>
+      <p class="quote__source">
+        <%= current_page.data.alpha_quote.source %>
+      </p>
+    </aside>
+    <img class="quote__source-image" src="<%= current_page.data.alpha_quote.image %>" alt="<%= current_page.data.alpha_quote.source %>"/>
+  </blockquote>
 
   <%= partial 'project-stories/project_team' %>
 
