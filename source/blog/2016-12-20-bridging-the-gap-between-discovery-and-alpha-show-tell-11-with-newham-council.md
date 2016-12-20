@@ -1,6 +1,6 @@
 ---
 date: '2016-12-20 14:22 +0000'
-published: false
+published: true
 title: >-
   Bridging the gap between Discovery and Alpha: Show & Tell #11 with Newham
   Council
@@ -11,6 +11,8 @@ tags:
   - Culture
   - Innovation
   - Lean
+main_image: >-
+  http://i1291.photobucket.com/albums/b548/grammccram/bd2c0c93-9d92-4e99-a20b-8ddef2af99b5_zpsoa3x5b4y.jpg
 ---
 The first Show & Tell [since the completion of the initial Discovery Phase](https://unboxed.co/blog/digital-customer-programme-discovery-phase-show-tell-10-with-newham-council/), and the final of 2016, with the Digital Team at Newham Council.<br/>
 
@@ -39,7 +41,7 @@ The first service to enter into the Alpha Phase is the Homelessness service, pro
 - How homelessness assessments are currently scheduled
 - The current systems in place
 
-![Digital Discovery Programme 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2705_zpsde5uhipd.jpg)
+![Digital Discovery Programme 2](http://i1291.photobucket.com/albums/b548/grammccram/2f9099a2-e458-4c36-b42a-fcd41eac8722_zps81jo4sxi.jpg)
 <i>An Alpha planning workshop carried out during Sprint #11</i><br/>
 <br/>
 
@@ -47,7 +49,7 @@ The first service to enter into the Alpha Phase is the Homelessness service, pro
 Further exploration is being taken into the Housing Account service, extending the initial Discovery Phase of this service. Further engagement with a wider range of residents has included:<br/>
 
 - Stakeholder mapping to address questions such as “Who are the residents using this service?”, “What is their current user journey?” and “How does the council currently interact with these residents?”
-- Engaging through a series of interactive exercises, compiling a prioritised list of the services within housing that residents find to be most important to them
+- Communicating through a series of interactive exercises, compiling a prioritised list of the services within housing that residents find to be most important to them
 - Interviewing these residents to uncover how they are accessing and using the current housing system
 
 ![Digital Discovery Programme 3](http://i1291.photobucket.com/albums/b548/grammccram/5ec26c8c-4676-42c7-80ec-4035124d4f84_zps2l1r8loz.jpg)
@@ -59,7 +61,7 @@ Further exploration is being taken into the Housing Account service, extending t
 ![Digital Discovery Programme 4](http://i1291.photobucket.com/albums/b548/grammccram/55a19f95-86fa-451e-9e57-d8c211cb591c_zpsdborkyug.jpg)
 <br/>
 
-With the Show & Tell for Sprint #11 almost wrapped up, the roadmap was shared for what the team will be covering across Sprint #12, with some main activities including:<br/>
+With the Show & Tell for Sprint #11 almost wrapped up, the roadmap was shared for what the team will be covering across Sprint #12, with some main planned activities including:<br/>
 
 - Creating concepts and user stories for the Housing Account service
 - Continued preparation in the lead up to the Alpha Phase launch for the Homelessness service
@@ -69,12 +71,7 @@ With the Show & Tell for Sprint #11 almost wrapped up, the roadmap was shared fo
 <i>Sharing progress updates around the Newham Council Dockside building</i><br/>
 <br/>
 
-A short break for the festive period, then the team will be pioneering on with Sprint #12.<br/>
+A short break for the festive period, then the team will be pioneering on with these activities during Sprint #12.<br/>
 
 # Attend a Show & Tell
-If you work within a local government team and would like to come along to a Show & Tell session with Newham Council, get in touch with Martyn (our Head of Product) at [martyn.evans@unboxed.co](mailto:martyn.evans@unboxed.co).<br/>
-
-
-
-
-
+If you work within a local government team and would like to come along to a Show & Tell session with Newham Council, get in touch with Martyn (our Head of Product) at [martyn.evans@unboxed.co](mailto:martyn.evans@unboxed.co) to attend as our guest.<br/>
