@@ -31,7 +31,7 @@ Led by [Boris](https://unboxed.co/people/#boris-divjak), Ikramul and Soraya of t
 - Forming the plans for further Discovery Phases of other residential services 
 - Preparing for the launch of the upcoming Alpha Phase surrounding the Homelessness service
 
-
+<br>
 # Homelessness service
 The first service to enter into the Alpha Phase is the Homelessness service, providing help and advice for residents in avoiding facing homelessness. As well as preparing to take this service through the next phase, the team have been shadowing assessments at the Homelessness Triage Centre, using these sessions to capture key metric and insights, including:<br/>
 
@@ -72,6 +72,7 @@ With the Show & Tell for Sprint #11 almost wrapped up, the roadmap was shared fo
 <br/>
 
 A short break for the festive period, then the team will be pioneering on with these activities during Sprint #12.<br/>
+<br/>
 
 # Attend a Show & Tell
 If you work within a local government team and would like to come along to a Show & Tell session with Newham Council, get in touch with Martyn (our Head of Product) at [martyn.evans@unboxed.co](mailto:martyn.evans@unboxed.co) to attend as our guest.<br/>
