@@ -1,0 +1,83 @@
+---
+weekly_roundup: true
+title: 'Unboxed Roundup: Our links for fortnight commencing 12th December 2016'
+date: '2016-12-22 14:30:00 UTC'
+authors:
+  - 'Murray Steele'
+tags: # (Delete as appropriate)
+- Culture
+
+---
+
+We missed last week because it was our Christmas party, so you get a bumper
+double edition this week to get you through until we return in January 2017.
+
+## Large Scale Scrum (LeSS) @ J.P. Morgan - [Matt T](/people#matt-turrell)
+
+https://www.infoq.com/articles/large-scale-scrum-jomorgan
+
+If you want to transform your organisation to become agile then you need to do
+it properly and embrace agile values. Values such as product/feature oriented
+teams rather than functional teams, self organisation and the removal of
+needless hierarchy.
+
+This is a great post about how a 3000+ section of J.P.Morgan’s technology group
+was transformed to use the LeSS framework (LeSS = Large Scale Scrum).
+
+## Perceived Customer Experience Improvement - [Richard S](/people#richard-stobart)
+
+https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.dlw21ages
+
+If you are looking to improve the perception of your customer's experience,
+there are two places to focus. Thinking of the good and bad customer
+experiences, this rings true.
+
+## Running Specs from Vim - [Elena T](/people#elena-tanasoiu)
+
+https://robots.thoughtbot.com/running-specs-from-vim-sent-to-tmux-via-tslime
+
+If you want to easily run your specs directly from vim, you can use thoughtbot's
+vim-rspec plugin to open a tmux window with the test right below your editor.
+This helps because it allows for instant feedback without having to leave your
+editor.
+
+The article is a bit outdated so it uses an older syntax for installing plugins
+via Vundle. The setup you need to add to your .vimrc will be:
+
+    Plugin 'thoughtbot/vim-rspec'
+    Plugin 'christoomey/vim-tmux-runner'
+    let g:rspec_command = 'VtrSendCommandToRunner! rspec {spec}'
+
+Don't forget to run `:PluginInstall`
+
+And then to map your command in .vimrc for starting a test:
+
+    let mapleader = "\<Space>"   " Defines a leader key - mine is space
+    map <leader>t :w<CR>:call RunCurrentSpecFile<CR>  " Define your rspec command - mine is space-T
+    map <leader>s :w<CR>:call RunNearestSpec<CR>
+    map <leader>l :w<CR>:call RunLastSpec<CR>
+    map <leader>a :w<CR>:call RunCurrentSpecFile<CR>
+
+Now open up your test file and press `<space-T>` to give it a spin!
+
+Alternatively you can use vim-dispatch instead of vim-tmux-runner, if you don't want to use Tmux:
+
+    Plugin 'tpope/vim-dispatch'
+    let g:rspec_command = '!clear && bundle exec rspec {spec}'
+
+This will open a new window which you can exit to go back to your test.
+
+## Tips for running code review - [Murray S](/people#murray-steele)
+
+https://hypothes.is/blog/code-review-in-remote-teams/
+
+This article collates research and tips from many other sources about the best
+ways to run ocde review for teams that are mostly remote.  It's still worth
+reading if you don't have a remote team, as the things that make things better
+for a remote team also make things better for everyone.  The thing that stands
+out for me most is the first section "What are code reviews for?" - it's
+definitely useful to agree as a team why you are doing code reviews and make
+sure everyone understands that purpose.
+
+## Track of the Fortnight - [](/people#)
+
