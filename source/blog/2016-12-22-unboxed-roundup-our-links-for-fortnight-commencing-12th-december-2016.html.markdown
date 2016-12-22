@@ -12,6 +12,21 @@ tags: # (Delete as appropriate)
 We missed last week because it was our Christmas party, so you get a bumper
 double edition this week to get you through until we return in January 2017.
 
+## Monorepos - [Murray S](/people#murray-steele)
+
+http://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/
+
+In most thinks software developers prefer small things that do one thing well.
+This can mean breaking up our applications into services or extracting reusable
+libraries, and for each part we keep it in its own code repository.  [David R.
+MacIver] suggests keeping everything in one repo because it cuts down on the
+complexity of working out which versions of which components work properly
+together.  A long time ago (we were still using CVS) I worked on an application
+that did this.  I don't remember it being particularly easy to work out the
+versioning problem, but I like to think I've learned a bit more about source
+code versioning and hygiene since then.  David is pretty convincing, but I'm
+still not sure; it's nice to think about alternative approaches.
+
 ## Large Scale Scrum (LeSS) @ J.P. Morgan - [Matt T](/people#matt-turrell)
 
 https://www.infoq.com/articles/large-scale-scrum-jomorgan
@@ -72,7 +87,7 @@ This will open a new window which you can exit to go back to your test.
 https://hypothes.is/blog/code-review-in-remote-teams/
 
 This article collates research and tips from many other sources about the best
-ways to run ocde review for teams that are mostly remote.  It's still worth
+ways to run code review for teams that are mostly remote.  It's still worth
 reading if you don't have a remote team, as the things that make things better
 for a remote team also make things better for everyone.  The thing that stands
 out for me most is the first section "What are code reviews for?" - it's
