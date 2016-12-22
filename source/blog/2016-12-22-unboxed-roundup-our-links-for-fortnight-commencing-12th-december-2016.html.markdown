@@ -16,7 +16,7 @@ double edition this week to get you through until we return in January 2017.
 
 http://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/
 
-In most thinks software developers prefer small things that do one thing well.
+In most cases software developers prefer small components that do one thing well.
 This can mean breaking up our applications into services or extracting reusable
 libraries, and for each part we keep it in its own code repository.  [David R.
 MacIver] suggests keeping everything in one repo because it cuts down on the
@@ -25,7 +25,7 @@ together.  A long time ago (we were still using CVS) I worked on an application
 that did this.  I don't remember it being particularly easy to work out the
 versioning problem, but I like to think I've learned a bit more about source
 code versioning and hygiene since then.  David is pretty convincing, but I'm
-still not sure; it's nice to think about alternative approaches.
+still not sure.  It's nice to think about alternative approaches though.
 
 ## Large Scale Scrum (LeSS) @ J.P. Morgan - [Matt T](/people#matt-turrell)
 
