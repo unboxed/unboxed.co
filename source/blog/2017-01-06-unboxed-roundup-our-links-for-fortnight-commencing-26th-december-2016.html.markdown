@@ -11,6 +11,15 @@ tags: # (Delete as appropriate)
 
 We missed last week because it was the Christmas and New Year break.
 
+## Faster than Lightning meetup - [Graeme M] (/people/#graeme-mccubbin)
+
+https://www.eventbrite.co.uk/e/meetup-faster-than-lightning-code-talks-tickets-30922768834
+
+We're bringing our monthly internal 'Faster than Lightning' event to the
+community, with the first taking place in February. A series of short, informal
+talks based around code snippets. We've got limited places, so register now if
+you're interested in coming along.
+
 ## Real life CGI Rendering - [Murray S](/people#murray-steele)
 
 http://skrekkogle.com/still-file/
