@@ -50,7 +50,7 @@ Examples of past code snippets include:<br/>
 Taking part is simple:<br/>
 
 - Register for your place
-- Submit a short snippet of code before the meetup to [neil.van.beinum@unboxed.co](neil.van.beinum@unboxed.co) or bring it with you on the day
+- Submit a short snippet of code before the meetup to neil.van.beinum@unboxed.co or bring it with you on the day
 - Chat about your snippet to the room for around 3+ minutes on the big screen - the order of submissions is random
 - Open this up to group discussion
 - Sit back, drink beer, eat pizza and enjoy the other submissions
