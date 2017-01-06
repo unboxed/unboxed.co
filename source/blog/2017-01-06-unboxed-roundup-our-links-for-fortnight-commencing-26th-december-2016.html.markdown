@@ -39,4 +39,11 @@ notable exception: data storage formats.  The Star Wars films display a baffling
 array of data storage formats, and the technology seems to go backwards from the
 prequels.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Grant S](/people#grant-speelman)
+
+My choice for track of the week is "Meghan Trainor, Me too". The youtube video is a Cape Town dance group dancing to the song.
+My Son currently loves this and I watch it at least 30 times a day because of that.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J10YcOMd6kU" frameborder="0" allowfullscreen></iframe>
+
+[Rudi Smit - Me Too](https://www.youtube.com/watch?v=J10YcOMd6kU)
