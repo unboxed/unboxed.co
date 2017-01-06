@@ -19,6 +19,14 @@ If you've studied computer graphics at all you should get a kick out of these
 photos of real world objects arranged to mimic classic CGI render scenes. The
 effort that has gone in to replicating these is quite something.
 
+## A list of programming languages that are actively developed on GitHub - [Charlie E](/people#charlie-egan)
+
+https://github.com/showcases/programming-languages
+
+The title really should be "A list of programming languages with a GitHub repo."
+since a number of these are mirrors - still, it's nice to see this extension to
+the GitHub Explore page.
+
 ## Data storage formats - [Murray S](/people#murray-steele)
 
 __Spoilers for Rogue One: A Star Wars Story within, be warned__
