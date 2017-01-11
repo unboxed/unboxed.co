@@ -3,7 +3,7 @@ date: '2017-01-11 16:15 +0000'
 published: false
 title: >-
   The five day design sprint with Guy’s & St. Thomas’ NHS Foundation Trust
-  Pediatric Allergy Team
+  Paediatric Allergy Team
 tags:
   - Agile
   - Design
@@ -27,11 +27,11 @@ Firstly, a bit about the book.<br/>
 
 ![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 1](http://i1291.photobucket.com/albums/b548/grammccram/DSC03509_zpsvmn7k0me.jpg)
 
-10am Monday morning: Day One of the sprint with The Pediatric Allergy Team.<br/>
+10am Monday morning: Day One of the sprint with The Paediatric Allergy Team.<br/>
 
 ![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 2](http://i1291.photobucket.com/albums/b548/grammccram/DSC03983%202_zps7v4tldv9.jpg)
 
-The first thing to do was introduce ourselves to one another. From left to right: Hazel (Senior Finance Manager), Yasmin (Deputy Service Manager), Miranda (Service Manager), Roisin (Service Lead) and Ruth (Dietician for Pediatric Allergy). And at the far back - left is [Cale](https://twitter.com/tlfrd) (an Unboxed developer), [myself](https://unboxed.co/people/#leon-odey-knight) on the right and [Martyn](http://www.unboxed.co/people/#martyn-evans) (our Head of Product) is the man behind the camera.<br/>
+The first thing to do was introduce ourselves to one another. From left to right: Hazel (Senior Finance Manager), Yasmin (Deputy Service Manager), Miranda (Service Manager), Roisin (Service Lead) and Ruth (Dietician for Paediatric Allergy). And at the far back - left is [Cale](https://twitter.com/tlfrd) (an Unboxed developer), [myself](https://unboxed.co/people/#leon-odey-knight) on the right and [Martyn](http://www.unboxed.co/people/#martyn-evans) (our Head of Product) is the man behind the camera.<br/>
 
 The next task: The outline for the week ahead.<br/> 
 
