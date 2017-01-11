@@ -230,7 +230,7 @@ By the time all four interviews had finished we had four A2 sheets of paper cove
 
 <br/>
 ## It’s a wrap
-That was it. The week was over. So what next…? Since completing the sprint the team has taking the prototype out to more patients. They have shared it with another 25 so far with a goal of getting to 50 in total. The feedback has thus far been overwhelmingly positive both from patients and internally.<br/>
+That was it. The week was over. So what next…? Since completing the sprint, the team has taken the prototype out to more patients. They have shared it with another 25 so far with a goal of getting to 50 in total. The feedback has thus far been overwhelmingly positive both from patients and internally.<br/>
 
 The speed at which we were able to create something that we could put in front of patients and gather feedback on has made a real difference to the teams at Guys & St Thomas’. So much so that we are looking at running several more sprints with other teams there.<br/>
  
