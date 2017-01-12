@@ -2,6 +2,10 @@
   font-weight: 300;
   padding-bottom: 8px;
   padding-top: 14px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 20px;
+  }
 }
 
 .site-footer-newsletter__email {
