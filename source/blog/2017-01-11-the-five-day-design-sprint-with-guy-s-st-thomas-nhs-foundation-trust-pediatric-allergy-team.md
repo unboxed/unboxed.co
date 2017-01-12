@@ -1,5 +1,5 @@
 ---
-date: '2017-01-12 11:15 +0000'
+date: '2017-01-11 11:15 +0000'
 published: true
 title: >-
   The five day design sprint with Guy’s & St. Thomas’ NHS Foundation Trust
