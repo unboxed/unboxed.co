@@ -1,6 +1,6 @@
 ---
-date: '2017-01-11 16:15 +0000'
-published: false
+date: '2017-01-12 11:15 +0000'
+published: true
 title: >-
   The five day design sprint with Guy’s & St. Thomas’ NHS Foundation Trust
   Paediatric Allergy Team
@@ -11,7 +11,7 @@ tags:
 authors:
   - Leon Odey Knight
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/30aded53-3662-48b4-b2ad-082fa9af3966_zpsohn1rnnn.jpg
+  http://i1291.photobucket.com/albums/b548/grammccram/547910fe-6241-4049-98bd-e3ad60de5b7e_zps4xdcbyuo.jpg
 ---
 At Unboxed, we are constantly running various workshops. But that doesn’t mean we know everything. We are always up for trying something a bit different if this will ultimately allow us to serve our customers better, so we never stop reading or exploring and are always willing to learn!<br/>
  
@@ -23,7 +23,7 @@ Bob mentioned to Martyn that he was reading Sprint, and it was at that point we 
  
 Firstly, a bit about the book.<br/>
  
-[Sprint](http://www.thesprintbook.com/) is a book about surprising ideas: that the biggest challenges require less time, not more… And that you can test anything in one week by building a realistic façade.<br/>
+Sprint is a book about surprising ideas: that the biggest challenges require less time, not more… And that you can test anything in one week by building a realistic façade.<br/>
 
 ![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 1](http://i1291.photobucket.com/albums/b548/grammccram/DSC03509_zpsvmn7k0me.jpg)
 
