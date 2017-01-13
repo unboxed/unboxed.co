@@ -87,5 +87,11 @@ I've had various interesting discussions with [petition map
 Cale](https://twitter.com/tlfrd) about heat-maps, cartograms and choropleths and
 how colour can introduce bias. Maybe textures would work better?
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Tim H](/people#tim-higgins)
+
+This cheery little tune from the mid 1980s seems so current at the moment I had to choose it ;)  Nuf said.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4VgLkk_drx4?list=RD4VgLkk_drx4" frameborder="0" allowfullscreen></iframe>
+
+[World Destruction - John Lydon, Afrika Bambaataa](https://www.youtube.com/watch?v=4VgLkk_drx4&list=RD4VgLkk_drx4)
 
