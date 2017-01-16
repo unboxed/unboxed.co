@@ -88,7 +88,7 @@ Jims comment: “I often chase them up two days before the appointment as many p
  
 ... was reframed as:<br/>
 
-“How Might We reduce the time Jim spends chasing up patients.”<br/>
+“How might we enable Jim to better manage scheduling the appointments process?”<br/>
 
 ![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 9](http://i1291.photobucket.com/albums/b548/grammccram/5935cfb9-6de7-4020-9cc6-b5f1bad756b8_zpsbw4i6wsc.jpg)
 
@@ -245,11 +245,3 @@ They arrived with a number of frustrations and a feeling of powerlessness, they 
 From my perspective, I found it hugely rewarding. I must admit that by the end of Wednesday I was feeling more than a little exhausted. There were some elements that we adapted slightly as we felt it would be of more value. For example, we added a patient to the list of experts on the first day to ensure we weren’t way off base and as mentioned above we paused mid way through Crazy 8’s. I’m not sure if I’d be able to run these sprints back to back without falling over. :-)<br/>
  
 All in all it was an incredible experience for me. I couldn’t have asked for a more dedicated team of people to work with on this sprint and I very much look forward to the next one!<br/>
-
-
-
-
-
-
-
-
