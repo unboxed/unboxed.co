@@ -88,7 +88,7 @@ Jims comment: “I often chase them up two days before the appointment as many p
  
 ... was reframed as:<br/>
 
-“How might we enable Jim to better manage scheduling the appointments process?”<br/>
+“How might we enable Jim to better manage scheduling and the appointments process?”<br/>
 
 ![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 9](http://i1291.photobucket.com/albums/b548/grammccram/5935cfb9-6de7-4020-9cc6-b5f1bad756b8_zpsbw4i6wsc.jpg)
 
