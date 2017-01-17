@@ -410,3 +410,15 @@
   short_name: "tom-gladhill"
   role: "Developer"
   email: "tom.gladhill"
+
+- name: "Josh McMillan"
+  short_name: "josh-mcmillan"
+  role: "Developer"
+  email: "josh.mcmillan"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/jshmc"
+    - name: "LinkedIn"
+      link: "linkedin.com/in/jshmc"
+    - name: "Github"
+      link: "https://github.com/mcmillan"
