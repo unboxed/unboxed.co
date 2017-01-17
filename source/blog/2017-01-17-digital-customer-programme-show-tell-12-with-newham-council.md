@@ -25,6 +25,7 @@ The Digital Customer Programme [launched last year](https://unboxed.co/news/unbo
 
 Led by [Boris](https://unboxed.co/people/#boris-divjak) (Service Designer) and Dawn (Website Product Manager), the Digital Team began by sharing the good news that the team is now growing. Expanding by two additional members, the team are welcoming a new developer and a customer services representative. As some services are moving into (and through) the Alpha Phase, as well as additional services due to enter into the Discovery Phase, a larger team is now required to continue delivering results, keeping the momentum of the project going.<br/>
 
+<br/>
 # Alpha Phase: Homelessness service
 Homelessness is the first service to progress into Alpha, having successfully passed through the Discovery Phase in the weeks leading up to the Christmas break. With Sprint #11 used to begin preparing for this upcoming Phase, progress made across this last sprint includes:<br/>
 
@@ -58,6 +59,7 @@ As well as pushing forward with the two Alpha Phase services, there is a lot mor
 
 ![Newham Council Show  & Tell 12-4](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8251_zpsosj77lbh.jpg)
 
+<br/>
 With Sprint #12 wrapped up, the team shared the other upcoming activities on the project roadmap:<br/>
 
 - The continuation of the Homelessness service Alpha Phase
