@@ -1,6 +1,6 @@
 ---
 date: '2017-01-17 14:16 +0000'
-published: false
+published: true
 title: 'Digital Customer Programme: Show & Tell #12 with Newham Council'
 authors:
   - Graeme McCubbin
