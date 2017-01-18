@@ -215,14 +215,6 @@
   }
 }
 
-.highlight__large-arrow {
-  padding-right: 5px;
-
-  @include breakpoint($desktop-breakpoint) {
-    padding-right: 12px;
-  }
-}
-
 .highlight__small-text {
   font-weight: 300;
   line-height: 1.3;

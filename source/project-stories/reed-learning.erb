@@ -22,13 +22,13 @@ digital_learning:
   image: "/project-stories/reed-learning/journey-map.jpg"
   image_description: "Journey mapping"
 
-statistics_1:
-  number: "£1,000+"
-  text: "Average L&D spend per employee by UK companies"
-
-statistics_2:
-  number: "45%"
-  text: "Percentage drop in instructor-led training hours year on year"
+highlight_1:
+  project: "reed-learning"
+  statistics:
+  - number: "£1,000+"
+    text: "Average L&D spend per employee by UK companies"
+  - number: "45%"
+    text: "Percentage drop in instructor-led training hours year on year"
 
 quote_1:
   quote: "We had aggressive goals to remake our product portfolio, using digital to change how people get learning in organisations. We needed flexible partners to help us learn and build quickly."
@@ -133,16 +133,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.digital_learning } %>
 
-  <section class="highlight--reed-learning">
-
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_1.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_2.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.agile_pioneers } %>
 

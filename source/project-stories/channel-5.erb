@@ -18,18 +18,20 @@ introduction:
   image: "/project-stories/channel-5/desktop.jpg"
   image_description: "Channel 5 website on desktop computer"
 
-statistics_1:
+highlight_1:
   title: "Channel 5 in numbers"
-  number: "74%"
-  text: "more unique visitors"
+  project: "channel-5"
+  statistics:
+  - number: "74%"
+    text: "more unique visitors"
 
-statistics_2:
-  number: "65%"
-  text: "more long form video views"
-
-statistics_3:
-  number: "9/10"
-  text: "rating for usefulness and enjoyment of use"
+highlight_2:
+  project: "channel-5"
+  statistics:
+  - number: "65%"
+    text: "more long form video views"
+  - number: "9/10"
+    text: "rating for usefulness and enjoyment of use"
 
 redeveloped:
   title: "A redeveloped VoD site designed to create greater engagement, loyalty and revenue"
@@ -119,16 +121,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-  <section class="highlight--channel-5">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_1.title %>
-    </h2>
-
-    <div class="highlight__tile--one">
-      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_1.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.redeveloped } %>
 
@@ -136,14 +129,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.visitor_experience } %>
 
-  <section class="highlight--channel-5">
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_2.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_3.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.content_management } %>
 

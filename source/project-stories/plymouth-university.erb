@@ -24,14 +24,14 @@ plymouth_cio_video:
   image: "/project-stories/plymouth-university/video-still.jpg"
   image_description: "Plymouth University CIO video"
 
-statistics_1:
+highlight_1:
   title: "Plymouth University in numbers:"
-  number: "25,895"
-  text: "Number of students enrolled in the 2014/2015 academic year"
-
-statistics_2:
-  number: "#20"
-  text: "Ranking on Sitemorse 2015 Q3/UK Universities and Higher Education list"
+  project: "plymouth-university"
+  statistics:
+  - number: "25,895"
+    text: "Number of students enrolled in the 2014/2015 academic year"
+  - number: "#20"
+    text: "Ranking on Sitemorse 2015 Q3/UK Universities and Higher Education list"
 
 emerging_demands:
   title: "A website to meet commercial demands"
@@ -39,7 +39,7 @@ emerging_demands:
   image: "/project-stories/plymouth-university/demands.jpg"
   image_description: "Design sessions with Plytmouth University students"
 
-quote_1: 
+quote_1:
   quote: "We knew the site had to change, but not just in terms of design. We had to make sure it gave a great experience on mobile devices such as smartphones, as that is how a large number of our potential students now want to interact with us."
   source: "Paul Westmore, Interim CIO, Plymouth University"
 
@@ -49,14 +49,14 @@ design_testing:
   image: "/project-stories/plymouth-university/design-testing.jpg"
   image_description: "More design sessions with Plymouth University students"
 
-statistics_3:
-  title: "Plymouth University in numbers"
-  number: "10,000+"
-  text: "Number of website pages maintained"
-
-statistics_4:
-  number: "59th"
-  text: "Ranking in world’s 150 best universities under 50 years old"
+highlight_2:
+  title: "Plymouth University in numbers:"
+  project: "plymouth-university"
+  statistics:
+  - number: "10,000+"
+    text: "Number of website pages maintained"
+  - number: "59th"
+    text: "Ranking in world’s 150 best universities under 50 years old"
 
 agile:
   title: "Advanced Agile deployed for maximum value captured"
@@ -142,18 +142,7 @@ related:
 
   <%= partial 'project-stories/full_video', locals: { section: current_page.data.plymouth_cio_video } %>
 
-  <section class="highlight--plymouth-university">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_1.title %>
-    </h2>
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_1.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_2.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.emerging_demands } %>
 
@@ -161,18 +150,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.design_testing } %>
 
-  <section class="highlight--plymouth-university">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_3.title %>
-    </h2>
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_3.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_4.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_4.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.agile } %>
 
