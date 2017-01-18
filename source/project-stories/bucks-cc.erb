@@ -168,17 +168,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.understanding_customer } %>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.impact_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.impact_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.impact_quote.image %>" alt="<%= current_page.data.impact_quote.source %>"/>
-  </blockquote>
+  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.impact_quote } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.talking_with_customers } %>
 
@@ -194,17 +184,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.beta_phase } %>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.alpha_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.alpha_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.alpha_quote.image %>" alt="<%= current_page.data.alpha_quote.source %>"/>
-  </blockquote>
+  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.alpha_quote } %>
 
   <%= partial 'project-stories/project_team' %>
 

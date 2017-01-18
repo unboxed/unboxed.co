@@ -82,7 +82,8 @@ launch:
   image_description: "Demo on laptop"
 
 quote_3:
-  quote: "We have taken two of our key residential services from inception to the Live phase, in just six months. Not only that, we have piloted Buckinghamshire County Council’s digital service standard through a full cycle, and allowed the whole team to experience transformation as a journey rather than an endpoint We now have full confidence, as a council, in delivering our next set of digital services with Unboxed."
+  quote: |
+    We have taken two of our key residential services from inception to the Live phase, in just six months. Not only that, we have piloted Buckinghamshire County Council’s digital service standard through a full cycle, and allowed the whole team to experience transformation as a journey rather than an endpoint We now have full confidence, as a council, in delivering our next set of digital services with Unboxed.
   source: "Matthew Cain, Head of Digital, Buckinghamshire County Council"
   image: "/project-stories/bucks-cc-beta/team/matthew-cain-full.png"
 
@@ -168,17 +169,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.launch } %>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.quote_3.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.quote_3.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.quote_3.image %>" alt="<%= current_page.data.quote_3.source %>"/>
-  </blockquote>
+  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_3 } %>
 
   <%= partial 'project-stories/project_team' %>
 
