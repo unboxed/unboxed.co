@@ -217,6 +217,18 @@
     - name: "GitHub"
       link: "https://github.com/richarcher"
 
+- name: "Grant Speelman"
+  short_name: "grant-speelman"
+  role: "Developer"
+  email: "grant.speelman"
+  bio: |
+    Unboxed Consulting is exactly that - Unboxed. Innovative and fresh. Up-to-date Ruby developments and energized team work keeps me inspired and motivated. Making the shift to work here, has allowed me to be at the forefront of professional development and the expansion of my career choice. True to my personality, at this company room is made for some serious work, some serious play and cutting edge programming / mobile development.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://za.linkedin.com/in/gspeelman"
+    - name: "GitHub"
+      link: "https://github.com/grantspeelman"
+
 - name: "Concetta Isolano"
   short_name: "concetta-isolano"
   role: "Developer"
@@ -259,16 +271,6 @@
     - name: "GitHub"
       link: "https://github.com/thehenster"
 
-- name: "Alan Thomas"
-  short_name: "alan-thomas"
-  role: "Tester"
-  email: "alan.thomas"
-  bio: |
-    Having spent 10 years working in a Waterfall environment, I've now joined Unboxed and have been welcomed to the world of Agile. Seeing results in hours/days is such a contrast to months and even years!
-  social_networks:
-    - name: "GitHub"
-      link: "https://github.com/alanth"
-
 - name: "Jack Bracewell"
   short_name: "jack-bracewell"
   role: "Developer"
@@ -298,6 +300,18 @@
       link: "https://twitter.com/neilvanbeinum"
     - name: "GitHub"
       link: "https://github.com/neilvb"
+
+- name: "Elena Tanasoiu"
+  short_name: "elena-tanasoiu"
+  role: "Developer"
+  email: "elena.tanasoiu"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/elenatanasoiu"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/elenatanasoiu"
+    - name: "GitHub"
+      link: "https://github.com/elenatanasoiu"
 
 - name: "Clive Corbishley"
   short_name: "clive-corbishley"
@@ -365,6 +379,11 @@
   role: "Tester"
   email: "gary.millar"
 
+- name: "Boris Divjak"
+  short_name: "boris-divjak"
+  role: "Designer"
+  email: "boris.divjak"
+
 - name: "Bergen Larsen"
   short_name: "bergen-larsen"
   role: "Designer"
@@ -391,3 +410,15 @@
   short_name: "tom-gladhill"
   role: "Developer"
   email: "tom.gladhill"
+
+- name: "Josh McMillan"
+  short_name: "josh-mcmillan"
+  role: "Developer"
+  email: "josh.mcmillan"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/jshmc"
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/jshmc"
+    - name: "Github"
+      link: "https://github.com/mcmillan"

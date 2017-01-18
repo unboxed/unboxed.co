@@ -33,28 +33,27 @@ Led by [Martyn](http://www.unboxed.co/people/#martyn-evans), Paul (the service d
 <br/>
 
 # Discovery persona #1: Jenny and her journey
-One of the key activities the team have been working on is building up a user persona - going by the name of <i>“Jenny”<i>:<br/>
+One of the key activities the team have been working on is building up a user persona - going by the name of "Jenny":<br/>
 
 ![Newham Council Digital Customer Programme Discovery Phase - Sprint Five 3](http://i1291.photobucket.com/albums/b548/grammccram/fd267ddd-7b8b-4944-8cdf-12d7e636c563_zpsrzjnwfqg.png)
 
-Jenny is a [user persona](
-https://en.wikipedia.org/wiki/Persona_(user_experience), currently being built up using residental data that the team have been collecting across a variety of different sources (including new user interviews and current systems). From building up this persona, a realistic profile of a current borough resident is forming. By creating this data-led persona, any real issues and problems with current services and systems can be highlighted and addressed, to take forward in knowing how these can be improved.<br/>
+Jenny is a user persona, currently being built up using residental data that the team have been collecting across a variety of different sources (including new user interviews and current systems). From building up this persona, a realistic profile of a current borough resident is forming. By creating this data-led persona, any real issues and problems with current services and systems can be highlighted and addressed, to take forward in knowing how these can be improved.<br/>
 <br/>
 
 # Housing Repairs journey
 Within the Housing department is the Housing Repairs service - a main service of focus during Sprint Five. Exploration has begun to look into how to work towards successfully reducing the volume of phone calls that currently travel through the customer contact centre, as well as addressing the variety of different types of phone call queries which are received.<br/>
 
 ![Newham Council Digital Customer Programme Discovery Phase - Sprint Five 4](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-10-20%20at%2015.57.45_zpsizo4nyxs.png)
-<i>Shadowing a member of the customer contact centre during the sprint<i/><br/>
+<i>Shadowing a member of the customer contact centre during the sprint.</i><br/>
 
 
 From looking to move this phone call traffic from the customer contact centre to online, there is potential to make a significant impact in terms of the number of residents that can find the important information they require, but through a “self-service” online system. The team have spent time shadowing contact centre staff and speaking to tenants directly to get an overall understanding of how they can begin to address a successful traffic shift from one platform to another. The next step - beginning to sketch out what this might look like.<br/>
 <br/>
 
 # Gathering data
-Data has been gathered from local residents to analyse and build on the Jenny persona, using this to then look into current residential data, identifying how many <i>“Jenny”</i>s there may be in the overall system - how many residents are facing same the problems, hurdles and issues that Jenny is.<br/>
+Data has been gathered from local residents to analyse and build on the Jenny persona, using this to then look into current residential data, identifying how many “Jenny”s there may be in the overall system - how many residents are facing same the problems, hurdles and issues that Jenny is.<br/>
 
-Early experiments carried out have highlighted that there is potential for residents with certain issues to be efficiently helped online - reducing the volume of contact centre calls. Jenny will be able to help with beginning to identify which information is key to being online, and where this needs to be on the user journey, in order for citizens to efficiently and effectively to move their journeys from offline to online. Giving residents the information they need to succeed as early as possible could be beneficial in making sure that these residents have a broader awareness of the processes they are required to go through. These are just some of the first steps the team are taking when looking into what a <i>“self-service”</i> online system could look like.<br/>
+Early experiments carried out have highlighted that there is potential for residents with certain issues to be efficiently helped online - reducing the volume of contact centre calls. Jenny will be able to help with beginning to identify which information is key to being online, and where this needs to be on the user journey, in order for citizens to efficiently and effectively to move their journeys from offline to online. Giving residents the information they need to succeed as early as possible could be beneficial in making sure that these residents have a broader awareness of the processes they are required to go through. These are just some of the first steps the team are taking when looking into what a “self-service” online system could look like.<br/>
 <br/>
 
 # Citizen evidence

@@ -51,6 +51,9 @@
       window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
       ga('create', 'UA-1228281-4', 'unboxed.co');
       ga('send', 'pageview');
+
+      (function(o){var b="https://api.autopilothq.com/anywhere/",t="e6f6e0b0553847be8b3f5f4058165d77a029aa289a9249c5b5e15a26a1bcad66",a=window.AutopilotAnywhere={_runQueue:[],run:function(){this._runQueue.push(arguments);}},c=encodeURIComponent,s="SCRIPT",d=document,l=d.getElementsByTagName(s)[0],p="t="+c(d.title||"")+"&u="+c(d.location.href||"")+"&r="+c(d.referrer||""),j="text/javascript",z,y;if(!window.Autopilot) window.Autopilot=a;if(o.app) p="devmode=true&"+p;z=function(src,asy){var e=d.createElement(s);e.src=src;e.type=j;e.async=asy;l.parentNode.insertBefore(e,l);};if(!o.noaa){z(b+"aa/"+t+'?'+p,false)};y=function(){z(b+t+'?'+p,true);};if(window.attachEvent){window.attachEvent("onload",y);}else{window.addEventListener("load",y,false);}})({});
+
     </script>
     <script async src="//www.google-analytics.com/analytics.js"></script>
   </head>
@@ -69,7 +72,8 @@
             <%= site_nav_link('Home', '/', class: 'site-navigation__link--home') %>
             <%= site_nav_link('News', '/news') %>
             <%= site_nav_link('Project stories', '/project-stories') %>
-            <%= site_nav_link('Spinouts', '/spinouts') %>
+            <!-- Removed temporarily to test change in user flow https://www.pivotaltracker.com/story/show/137786451 -->
+            <%#= site_nav_link('Spinouts', '/spinouts') %>
             <%= site_nav_link('People', '/people') %>
             <%= site_nav_link('Blog', '/blog') %>
             <%= site_nav_link('Join Us', '/jobs') %>

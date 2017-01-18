@@ -1,0 +1,7 @@
+compile:
+  override:
+    - bundle exec middleman build --verbose
+
+test:
+  override:
+    - bundle exec rspec spec --format=documentation
