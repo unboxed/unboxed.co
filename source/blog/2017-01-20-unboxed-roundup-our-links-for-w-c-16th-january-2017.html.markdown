@@ -35,4 +35,21 @@ Simple gem for unobtrusive spam rejection in Rails. We rolled our own version
 of this in a recent project but it's something that would be nice to reuse on
 other public forms.
 
-## Track of the Week - [](/people#)
+## How Discord Stores Billions of Messages - [Pawel J](/people#pawel-janiak)
+
+https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
+
+A rundown from Discord on moving their 120MM messages per day storage from Mongo
+to Cassandra. Comes with great advice like "build quickly to prove out a product
+feature, but always with a path to a more robust solution".
+
+## Track of the Week - [Murray S](/people#murray-steele)
+
+I've never been a fan of Neko Case, K.D. Lang, or Laura Veirs individually
+(mostly through ignorance, rather than avoidance), but I listened to their
+"supergroup" album a bunch last year.  The whole album is good, but the opening
+track says it all.  It also dooesn't hurt that the papercraft-inspired video is
+beautiful.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1udAipIBboc" frameborder="0" allowfullscreen></iframe>
+["Atomic Number" by case/lang/veirs](https://www.youtube.com/watch?v=1udAipIBboc)
