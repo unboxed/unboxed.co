@@ -68,9 +68,7 @@ With Sprint #12 wrapped up, the team shared the other upcoming activities on the
 
 ![Newham Council Show  & Tell 12-6](http://i1291.photobucket.com/albums/b548/grammccram/d80245ea-23f9-424e-9045-0b27e597ea82_zpsudxpyfyv.jpg)
 
+<br/>
+# Attend a Show & Tell
 
-
-
-
-
-
+If you work within a local government team and would like to come along to a Show & Tell session with Newham Council, get in touch with Martyn (our Head of Product) at martyn.evans@unboxed.co to attend as our guest.
