@@ -26,8 +26,10 @@ highlight_1:
 
 section_2:
   title: "Working towards overcoming an industry-specific problem"
-  content: |
-    Springer Nature is experiencing a publishing industry-specific problem - authors of scholarly books often do not receive any recognition from their university for publishing new books. Working on an idea to overcome this, Bookmetrix was born - an online platform for measuring the reach, usage and readership of a book or chapter by a published author. The system works towards to supporting academic authors in answering vital questions from funders about the broader impact of their work, as well as supporting customers in making their purchasing decisions.
+  content_1: |
+    Springer Nature is experiencing a publishing industry-specific problem - authors of scholarly books often do not receive any recognition from their university for publishing new books. Working on an idea to overcome this, Bookmetrix was born - an online platform for measuring the reach, usage and readership of a book or chapter by a published author.
+  content_2: |
+    The system works towards to supporting academic authors in answering vital questions from funders about the broader impact of their work, as well as supporting customers in making their purchasing decisions.
 
 section_3:
   title: "Partnering to deliver an impact through close collaboration"
@@ -37,8 +39,10 @@ section_3:
 
 section_4:
   title: "Quickly progressing through close collaboration"
-  content: |
-    Aligning the direction of the project with stakeholders and the team, a clear roadmap and first set of prioritised user stories emerged from this session. Collaborating closely alongside Martijn Roelandse, Head of Publishing Innovation at Springer Nature and Product Owner of Bookmetrix, the team rapidly began working on the existing code base and development environments.
+  content_1: |
+    Aligning the direction of the project with stakeholders and the team, a clear roadmap and first set of prioritised user stories emerged from this session. Collaborating closely
+  content_2: |
+    alongside Martijn Roelandse, Head of Publishing Innovation at Springer Nature and Product Owner of Bookmetrix, the team rapidly began working on the existing code base and development environments.
 
 highlight_2:
   title: "The Bookmetrix project in numbers"
@@ -51,8 +55,10 @@ highlight_2:
 
 section_5:
   title: "Growing the existing database for a broader audience"
-  content: |
-    Springer Nature were requiring a number of vital system features for Bookmetrix. Importing over 10,000+ external Palgrave ebooks grew the existing database by over 5%, reaching a total of over four million chapters, expanding the Bookmetrix offering to a broader audience. This marked a significant milestone as the first time a non-Springer publication had been imported into the system. Collaborating with a number of internal stakeholders, through close online communication, allowed the release of this major feature to open up the opportunity for further third party imports to meet future requirements.
+  content_1: |
+    Springer Nature were requiring a number of vital system features for Bookmetrix. Importing over 10,000+ external Palgrave ebooks grew the existing database by over 5%, reaching a total of over four million chapters, expanding the Bookmetrix offering to a broader audience.
+  content_2: |
+    This marked a significant milestone as the first time a non-Springer publication had been imported into the system. Collaborating with a number of internal stakeholders, through close online communication, allowed the release of this major feature to open up the opportunity for further third party imports to meet future requirements.
 
 section_6:
   title: "Emerging new features introduced to support users"
@@ -62,8 +68,10 @@ section_6:
 
 section_7:
   title: "Increasing the team to build on momentum"
-  content: |
-    Sustained growth is already beginning the develop across Bookmetrix. Individual user sessions are experiencing a 90%+ increase and pageviews are growing by 98%+. A newly-released 'Call to Action' feature has also began converting click-throughs to direct sale results. Following the success of the merger period, Springer Nature is now in a position to resume Bookmetrix development internally, bringing the project in-house. The delivered results to date and momentum surrounding the project have now justified scaling up the development team from two developers to a team of four.
+  content_1: |
+    Sustained growth is already beginning the develop across Bookmetrix. Individual user sessions are experiencing a 90%+ increase and pageviews are growing by 98%+. A newly-released 'Call to Action' feature has also began converting click-throughs to direct sale results.
+  content_2: |
+    Following the success of the merger period, Springer Nature is now in a position to resume Bookmetrix development internally, bringing the project in-house. The delivered results to date and momentum surrounding the project have now justified scaling up the development team from two developers to a team of four.
 
 quote_1:
   quote: |
@@ -98,14 +106,14 @@ quote_4:
   <%= partial 'project-stories/full_width_text_tile', locals: { section: current_page.data.introduction } %>
 
   <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
-  <%= partial 'project-stories/full_width_text_tile', locals: { section: current_page.data.section_2 } %>
+  <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_2 } %>
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.section_3 } %>
-  <%= partial 'project-stories/full_width_text_tile', locals: { section: current_page.data.section_4 } %>
+  <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_4 } %>
 
   <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
-  <%= partial 'project-stories/full_width_text_tile', locals: { section: current_page.data.section_5 } %>
+  <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_5 } %>
   <%= partial 'project-stories/text_tile_reversed', locals: { section: current_page.data.section_6 } %>
-  <%= partial 'project-stories/full_width_text_tile', locals: { section: current_page.data.section_7 } %>
+  <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_7 } %>
 
   <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_1 } %>
   <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_2 } %>

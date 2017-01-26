@@ -8,6 +8,30 @@
   }
 }
 
+.text-tile--double {
+  @extend .text-tile;
+  padding: 0 20px 10px;
+
+  &:last-of-type {
+    padding-bottom: 20px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 0 20px 20px;
+    min-height: 320px;
+  }
+}
+
+.text-tile--full-width {
+  @extend .text-tile;
+  padding: 0 20px 10px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 50px 20px;
+    min-height: 320px;
+  }
+}
+
 .text-tile__title {
   @include responsive-title;
   color: $purple;
@@ -27,6 +51,15 @@
 .text-tile__title--lowercase {
   @extend .text-tile__title;
   text-transform: lowercase;
+}
+
+.text-tile__title--narrow {
+  @extend .text-tile__title;
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-bottom: 30px;
+    max-width: 74%;
+  }
 }
 
 .text-tile__paragraph {
