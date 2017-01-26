@@ -8,7 +8,7 @@ tags:
   - Design
 ---
 
-Last night in Cape Town, Phil Barrett of [Flow](http://www.userexperience.co.za/) and [Simon Dingle](http://simon.co.za/) of [22seven](https://www.22seven.com/) gave short talks about mobile UX for the [SA UX Forum](https://groups.google.com/forum/?fromgroups#!forum/sa-ux-forum). Myself, [Rich](/people#richard-archer), [Pawel](/people#pawel-janiak), Joerg, and Seb (visiting from our London office) were there to soak up some knowledge and chat about mobile, UX, and more. Below are some brief notes that I took.
+Last night in Cape Town, Phil Barrett of [Flow](http://www.userexperience.co.za/) and [Simon Dingle](http://simon.co.za/) of [22seven](https://www.22seven.com/) gave short talks about mobile UX for the [SA UX Forum](https://groups.google.com/forum/?fromgroups#!forum/sa-ux-forum). Myself, Rich A, [Pawel](/people#pawel-janiak), Joerg, and Seb (visiting from our London office) were there to soak up some knowledge and chat about mobile, UX, and more. Below are some brief notes that I took.
 
 ## Phil's talk
 

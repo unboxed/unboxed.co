@@ -38,7 +38,7 @@ https://medium.com/accel-insights/we-dont-sell-saddles-here-4c59524d650d
 
 The core brand ethos can change the way you talk to your customers, the way your staff talk to each other and ultimately, the way you do business
 
-## Track of the Week - [Rich A](/people#richard-archer)
+## Track of the Week - Rich A
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/FTQbiNvZqaY" frameborder="0" allowfullscreen></iframe>
 

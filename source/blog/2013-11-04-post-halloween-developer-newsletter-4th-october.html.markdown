@@ -36,11 +36,11 @@ Starlogs is a toy for github projects.  Give it a project owner and project, and
 
 I find the ideas around segmented iterative development being an anti-pattern quite eye-opening because it suggests that ultimately we're only effective as an Agile company when our clients experience significant push-back into their own planning and product development cycles…
 
-## “The Ultimate guide to learning AngularJS in one day” - [Rich A](http://ubxd.com/people#richard-archer)
+## “The Ultimate guide to learning AngularJS in one day” - Rich A
 
 [This post](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/) is a great introduction to the larger concepts around AngularJS. It's a little lacking on the testing side of things, which I find to be one of Angular's greater strengths, but it's a great read with thorough examples throughout.
 
-## Snap.svg - [Rich A](http://ubxd.com/people#richard-archer)
+## Snap.svg - Rich A
 
 [snap.svg](http://snapsvg.io/)
 

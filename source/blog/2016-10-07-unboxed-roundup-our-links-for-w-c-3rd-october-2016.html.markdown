@@ -19,7 +19,7 @@ My own opinion is that you need wholesale organisational change to properly supp
 
 It concludes with a useful set of principles to follow, when undertaking agile at scale.
 
-## How to prototype in the browser - [Rich A](/people#richard-archer)
+## How to prototype in the browser - Rich A
 
 https://designnotes.blog.gov.uk/2016/10/03/how-to-prototype-in-the-browser/
 
