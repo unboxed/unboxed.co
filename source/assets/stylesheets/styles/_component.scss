@@ -33,6 +33,10 @@
 
   @include breakpoint($tablet-breakpoint) {
     padding-bottom: 0;
+    padding-top: 30px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
     padding-top: 50px;
   }
 }

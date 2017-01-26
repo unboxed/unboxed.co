@@ -10,25 +10,33 @@
 
 .text-tile--double {
   @extend .text-tile;
-  padding: 0 20px 10px;
+  padding: 0 20px 20px;
 
   &:last-of-type {
     padding-bottom: 20px;
   }
 
   @include breakpoint($tablet-breakpoint) {
-    padding: 0 20px 20px;
+    min-height: 220px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
     min-height: 320px;
   }
 }
 
 .text-tile--full-width {
   @extend .text-tile;
-  padding: 0 20px 10px;
+  padding: 30px 20px 10px;
 
   @include breakpoint($tablet-breakpoint) {
-    padding: 50px 20px;
+    padding: 30px 20px;
     min-height: 320px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-bottom: 50px;
+    padding-top: 50px;
   }
 }
 
