@@ -32,7 +32,7 @@ section_2:
     The system works towards to supporting academic authors in answering vital questions from funders about the broader impact of their work, as well as supporting customers in making their purchasing decisions.
 
 section_3:
-  title: "Partnering to deliver an impact through close collaboration"
+  title: "Partnering to deliver an impact in the world of publishing"
   content: |
     Following the global merger, Springer Nature required a development partner to bridge the gap in delivering tangible results, boosting Bookmetrix to new heights within the world of publishing. Keen to quickly begin building on the existing functionality of this highly data-driven platform, progress kicked off through an inception workshop.
   image: "/project-stories/bookmetrix/ben-charlie-postits.png"
@@ -75,15 +75,14 @@ section_7:
 
 quote_1:
   quote: |
-    I had not guided a team of developers so closely before, quite a change from the world of phone and email to Slack and Trello. A refreshing breeze actually. Thankfully, the team at Unboxed was very patient with me and guided me through this new world. I have much enjoyed working with Ben and Charlie as I believe there was a good chemistry between the three of us and they managed to temper my overly ambitious plans to tangible results. Bookmetrix has definitively gained momentum during the project at Unboxed and my colleagues at Springer Nature are very pleased with the steps we made and the swift replies of the developers took if a bug popped up.
-  source: "Martijn Roelandse, Head of Publishing Innovation &amp; Product Owner"
-  image: "/project-stories/bookmetrix/team/martijn.png"
+    As Product, Owner, I had not guided a team of developers so closely before - quite a change from the world of phone and email to Slack and Trello. A refreshing breeze actually. Thankfully, the team at Unboxed was very patient with me and guided me through this new world.
+  source: "Martijn Roelandse, Head of Publishing Innovation &amp; Product Owner, Springer Nature"
 
 quote_2:
   quote: |
-    Awaiting Comment
-  source: "Ben, Developer"
-  image: "/project-stories/bookmetrix/team/ben.png"
+    I have much enjoyed working with Ben and Charlie as I believe there was a good chemistry between the three of us and they managed to temper my overly ambitious plans to tangible results. Bookmetrix has definitively gained momentum during the project at Unboxed. My colleagues at Springer Nature are very pleased with the steps we made and the swift replies of the developers took if a bug popped up.
+  source: "Martijn Roelandse, Head of Publishing Innovation &amp; Product Owner"
+  image: "/project-stories/bookmetrix/team/martijn.png"
 
 quote_3:
   quote: |
@@ -91,11 +90,35 @@ quote_3:
   source: "Charlie, Developer"
   image: "/project-stories/bookmetrix/team/charlie.png"
 
-quote_4:
-  quote: |
-    Awaiting Comment
-  source: "Steve Lennon, Scrum Master"
-  image: "/project-stories/bookmetrix/team/steve.png"
+site:
+  link: "http://www.bookmetrix.com"
+  text: "Visit Bookmetrix"
+
+links:
+  - title: "A new chapter in scholarly impact"
+    source: ""
+    type: "news"
+    link: "http://blogs.nature.com/aviewfromthebridge/2015/06/04/a-new-chapter-in-scholarly-impact/"
+
+  - title: "Explore the impact of your book"
+    source: ""
+    type: "news"
+    link: "https://www.youtube.com/watch?v=aIJfUxbxwTY"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Recruitment site revitalisation for major scientific publishing group"
+      type: "project story"
+      link: "/project-stories/naturejobs/"
+
+    - title: "Planting the seeds for successful KPI trees"
+      type: "blog"
+      link: "/blog/planting-the-seeds-for-successful-kpi-trees"
+
+    - title: "Faster than Lightning: November's Developer Event"
+      type: "blog"
+      link: "/blog/faster-than-lightning-november-s-developer-event"
 
 ---
 
@@ -109,14 +132,16 @@ quote_4:
   <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_2 } %>
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.section_3 } %>
   <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_4 } %>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_1 } %>
 
   <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
   <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_5 } %>
   <%= partial 'project-stories/text_tile_reversed', locals: { section: current_page.data.section_6 } %>
   <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_7 } %>
 
-  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_1 } %>
   <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_2 } %>
   <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_3 } %>
-  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_4 } %>
+
+  <%= partial 'project-stories/link_tiles' %>
+  <%= partial 'project-stories/related_tiles' %>
 </div>
