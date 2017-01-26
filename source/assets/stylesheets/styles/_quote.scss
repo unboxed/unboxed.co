@@ -46,6 +46,7 @@
   color: $purple;
   font-weight: 300;
   padding-top: 20px;
+  line-height: 1.2em;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.96vw;
