@@ -19,6 +19,6 @@ tags:
 
 The latest version of the CSS framework has been released. See the changes on the [Bootstrap blog](http://blog.getbootstrap.com/2013/12/05/bootstrap-3-0-3-released/).
 
-## Has Stack Overflow saved billions in developer productivity? [Rich Archer](/people#richard-archer)
+## Has Stack Overflow saved billions in developer productivity? Rich Archer
 
 An [interesting question](http://skeptics.stackexchange.com/questions/18539/has-stack-overflow-saved-billions-of-dollars-in-programmer-productivity) with an [equally interesting discussion on HN](https://news.ycombinator.com/item?id=6850474)

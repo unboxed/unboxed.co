@@ -33,7 +33,7 @@ https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with
 Oliver Thomas Klein gives a nice introduction to ITCSS (Inverted Triangle CSS),
 a methodology to help organise your CSS.
 
-##  Yes, progressive enhancement is a fucking moral argument - [Rich A](/people#richard-archer)
+##  Yes, progressive enhancement is a fucking moral argument - Rich A
 
 https://sonniesedge.co.uk/blog/progressive-enhancement
 

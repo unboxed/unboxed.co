@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## SVGOMG - [Richard A](/people#richard-archer)
+## SVGOMG - Richard A
 
 https://jakearchibald.github.io/svgomg/
 

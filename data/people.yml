@@ -207,16 +207,6 @@
     - name: "GitHub"
       link: "https://github.com/spannerinworks"
 
-- name: "Richard Archer"
-  short_name: "richard-archer"
-  role: "Developer"
-  email: "richard.archer"
-  bio: |
-    I've been working as a front-end developer for 6 years in London, but recently upped sticks and moved to beautiful Cape Town. I love that I get to work with a fantastic team of like-minded folk that are all as passionate about the web as me, and get to enjoy the beach, beer and braai lifestyle of South Africa at the same time.
-  social_networks:
-    - name: "GitHub"
-      link: "https://github.com/richarcher"
-
 - name: "Grant Speelman"
   short_name: "grant-speelman"
   role: "Developer"

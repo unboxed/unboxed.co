@@ -27,7 +27,7 @@ http://arstechnica.co.uk/the-multiverse/2016/06/sunspring-movie-watch-written-by
 
 No, not [that one](http://www.imdb.com/title/tt0212720/).  A [recurrent neural network](https://en.wikipedia.org/wiki/Recurrent_neural_network), similar to the one that powers the word predictions in your smartphone keyboard, was trained on sci-fi screenplays and then let loose to generate it's own screenplay which was subsequently filmed.  It's not good, but neither is it particularly bad either.  It's interesting that the dialogue is mostly profound sounding, but ultimately meaningless and not particularly sci-fi-ish.  There's no exposition-style plot dumps either.  This is probably early days for this sort of technology, but I can see it being used for real some years down the line.
 
-## Track of the Week - [Richard A](/people#richard-archer)
+## Track of the Week - Richard A
 
 I'm sorry to say that track of the week is the nauseatingly punky 'Nelly the Elephant' by The Toy Dolls. Not only will it haunt the memories of University students the spent too much time at Cheesy Night in your local dive club back in the day, but it is the only song that currently puts my 4 month to sleep. It is therefore on constant play at home, and full-on earworm mode when I'm at work. If I have to suffer it, so do you.
 ...Kill me. Kill me now...
