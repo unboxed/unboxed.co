@@ -31,11 +31,15 @@ section_2:
   content_2: |
     The system works towards to supporting academic authors in answering vital questions from funders about the broader impact of their work, as well as supporting customers in making their purchasing decisions.
 
+image_section_1:
+  image: "/project-stories/bookmetrix/ben-full-width-1.jpg"
+  image_description: "Developer at work"
+
 section_3:
   title: "Partnering to deliver an impact in the world of publishing"
   content: |
     Following the global merger, Springer Nature required a development partner to bridge the gap in delivering tangible results, boosting Bookmetrix to new heights within the world of publishing. Keen to quickly begin building on the existing functionality of this highly data-driven platform, progress kicked off through an inception workshop.
-  image: "/project-stories/bookmetrix/ben-charlie-postits.png"
+  image: "/project-stories/bookmetrix/ben-charlie-postits.jpg"
 
 section_4:
   title: "Quickly progressing through close collaboration"
@@ -71,6 +75,10 @@ section_7:
     Sustained growth is already beginning the develop across Bookmetrix. Individual user sessions are experiencing a 90%+ increase and pageviews are growing by 98%+. A newly-released 'Call to Action' feature has also began converting click-throughs to direct sale results.
   content_2: |
     Following the success of the merger period, Springer Nature is now in a position to resume Bookmetrix development internally, bringing the project in-house. The delivered results to date and momentum surrounding the project have now justified scaling up the development team from two developers to a team of four.
+
+image_section_2:
+  image: "/project-stories/bookmetrix/ben-full-width-2.jpg"
+  image_description: "Developers at work"
 
 quote_1:
   quote: |
@@ -127,17 +135,19 @@ related:
 <div class="container" data-header-waypoint>
   <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
   <%= partial 'project-stories/full_width_text_tile', locals: { section: current_page.data.introduction } %>
-
   <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
   <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_2 } %>
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.section_3 } %>
   <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_4 } %>
   <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_1 } %>
 
-  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
+  <%= image_tag current_page.data.image_section_1.image, alt: current_page.data.image_section_1.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_1.image) %>
+
   <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_5 } %>
   <%= partial 'project-stories/text_tile_reversed', locals: { section: current_page.data.section_6 } %>
   <%= partial 'project-stories/two_text_tiles', locals: { section: current_page.data.section_7 } %>
+
+  <%= image_tag current_page.data.image_section_2.image, alt: current_page.data.image_section_2.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_2.image) %>
 
   <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_2 } %>
   <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_3 } %>
