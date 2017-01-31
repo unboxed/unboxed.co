@@ -84,19 +84,35 @@ quote_1:
   quote: |
     As Product Owner, I had not guided a team of developers so closely before - quite a change from the world of phone and email to Slack and Trello. A refreshing breeze actually. Thankfully, the team at Unboxed was very patient with me and guided me through this new world.
   source: "Martijn Roelandse, Head of Publishing Innovation &amp; Product Owner, Springer Nature"
-  image: "/project-stories/bookmetrix/team/martijn-roelandse.png"
+  image: "/project-stories/bookmetrix/team/martijn-roelandse-full.png"
 
 quote_2:
   quote: |
     I have much enjoyed working with Ben and Charlie as I believe there was a good chemistry between the three of us and they managed to temper my overly ambitious plans to tangible results. Bookmetrix has definitively gained momentum during the project at Unboxed. My colleagues at Springer Nature are very pleased with the steps we made and the swift replies of the developers took if a bug popped up.
   source: "Martijn Roelandse, Head of Publishing Innovation &amp; Product Owner"
-  image: "/project-stories/bookmetrix/team/martijn-roelandse.png"
 
 quote_3:
   quote: |
     I've really enjoyed my time as part of the Bookmetrix team. From refining a containerized development environment to aggregating data of thousands of books, it’s been a fantastic experience. It’s been great working with Martijn and Ben on practical features for users; digging in and presenting an increasingly complete picture of books.
   source: "Charlie, Developer"
-  image: "/project-stories/bookmetrix/team/charlie-egan.png"
+
+team:
+  title: "Team"
+  people:
+    - full_name: "Ben Wong"
+      image: "/project-stories/bookmetrix/team/ben-wong.png"
+      link: "/people#ben-wong"
+
+    - full_name: "Charlie Egan"
+      image: "/project-stories/bookmetrix/team/charlie-egan.png"
+      link: "/people#charlie-egan"
+
+    - full_name: "Steve Lennon"
+      image: "/project-stories/bookmetrix/team/steve-lennon.png"
+      link: "/people#steve-lennon"
+
+    - full_name: "Martijn Roelandse"
+      image: "/project-stories/bookmetrix/team/martijn-roelandse.png"
 
 site:
   link: "http://www.bookmetrix.com"
@@ -149,8 +165,10 @@ related:
 
   <%= image_tag current_page.data.image_section_2.image, alt: current_page.data.image_section_2.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_2.image) %>
 
-  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_2 } %>
-  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_3 } %>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_2 } %>
+  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_3 } %>
+
+  <%= partial 'project-stories/project_team' %>
 
   <%= partial 'project-stories/link_tiles' %>
   <%= partial 'project-stories/related_tiles' %>
