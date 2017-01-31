@@ -177,6 +177,7 @@ The next meeting is on Thursday 23rd March, 3-6pm at [Health Foundry](http://www
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Feeling hopeful for Jose, the user persona we formed today, may his challenges be addressed effectively 😀 <a href="https://t.co/nwaj6KH9Do">https://t.co/nwaj6KH9Do</a></p>&mdash; SaraMarques (@slamasol) <a href="https://twitter.com/slamasol/status/821789289302392835">January 18, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+(Also, a huge thank you to the brilliant team at the Health Foundry for the fantastic session photos).
 
 <br/>
 # HealthTechqala - the 5-day healthcare product accelerator 
