@@ -19,7 +19,7 @@ Working on a programme to address these barriers to healthcare, since 2015 a sma
 
 From already delivering results across the past year, this group are now moving into the next steps of this exciting project, broadening out to form a larger working group of key members who have expertise, insight and influence within the healthcare sector, the Portuguese community and in language, education and culture. Above all, this group share a passion for wanting to work together to support the health and wellbeing of the Portuguese community in Lambeth.<br/>
 
-This is Wednesday 18th January, this is the [Health Foundry](http://www.healthfoundry.org/), this is the Lambeth Portuguese Community Workshop and this is session is being facilitated by [Leon Odey-Knight](https://unboxed.co/people/#leon-odey-knight):<br/>
+This is Wednesday 18th January, this is the [Health Foundry](http://www.healthfoundry.org/), this is the Lambeth Portuguese Community Workshop and this session is being facilitated by [Leon Odey-Knight](https://unboxed.co/people/#leon-odey-knight):<br/>
 
 ![Lambeth Portuguese community workshop 1](http://i1291.photobucket.com/albums/b548/grammccram/2017-01-18%2017.32.28%202_zpspfwnqy2s.jpg)
 
