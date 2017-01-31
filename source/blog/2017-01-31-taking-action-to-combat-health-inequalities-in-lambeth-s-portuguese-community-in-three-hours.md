@@ -165,7 +165,7 @@ Our next steps are to begin testing these initial ideas within the community to 
 
 See more about what's been happening across the project [here](https://www.facebook.com/RTP.Londres/videos/1887464544822319/).<br/>
 
-The next meeting is on Thursday 23rd March, 3-6pm at [Health Foundry](http://www.healthfoundry.org/). If you would like to get involved, get in contact:<br/>
+The next meeting is on Thursday 23rd March, 3-6pm at [Health Foundry](http://www.healthfoundry.org/). If you would like to be involved, get in touch:<br/>
 
 - hello@healthfoundry.org
 - [@health_foundry](https://twitter.com/health_foundry)
@@ -181,10 +181,3 @@ The next meeting is on Thursday 23rd March, 3-6pm at [Health Foundry](http://www
 <br/>
 # HealthTechqala - the 5-day healthcare product accelerator 
 <i>We’re looking to run a 5-day product accelerator later in the year within public and private sector healthcare at the Health Foundry. If you have an idea for a product that you think can help patients or transform how your NHS department works, email graeme.mccubbin@unboxed.co to register your interest.</i><br/>
-
- 
-
-
-
-
-
