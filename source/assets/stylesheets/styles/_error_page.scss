@@ -1,21 +1,11 @@
-.error-page {
-  @extend %page-content-margins;
-  background-color: $white;
-  padding-bottom: 50px;
-
-  @include breakpoint($desktop-breakpoint) {
-    padding-bottom: 0;
-  }
-}
-
 .error-page__container {
   @extend .container;
   box-sizing: border-box;
   text-align: center;
-  padding: 50px 20px 30px;
+  padding-top: 6px;
 
   @include breakpoint($tablet-breakpoint) {
-    padding-top: 70px;
+    padding: 70px 20px 30px;
   }
 
   @include breakpoint($desktop-breakpoint) {
@@ -24,11 +14,45 @@
   }
 }
 
-.error-page__title {
+.error-page-tile {
+  box-sizing: border-box;
+  color: $dark-gray;
+  display: block;
+  font-weight: 300;
+  margin-bottom: 6px;
+  padding: 0 6px;
+  text-decoration: none;
+
+  @include breakpoint($desktop-breakpoint) {
+    height: 464px;
+    padding: 0;
+  }
+}
+
+.error-page-tile__container {
+  background-color: $white;
+  border: 1px solid darken($light-gray, 5%);
+  box-sizing: border-box;
+  padding: 6px;
+  height: 280px;
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 350px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+  }
+}
+
+.error-page-tile__title {
   color: $purple;
   font-weight: 300;
   font-size: 2.6em;
-  padding-bottom: 30px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 5.3vw;
@@ -39,32 +63,37 @@
     font-size: 3.6em;
     font-weight: 200;
     padding-bottom: 50px;
+    padding-top: 50px
   }
 }
 
-.error-page__text {
+.error-page-tile__text {
   font-weight: 200;
   line-height: 1.4;
   padding-bottom: 20px;
 
   &:last-of-type {
-    padding-bottom: 50px;
+    padding-bottom: 40px;
   }
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 2.27vw;
+
+    &:last-of-type {
+      padding-bottom: 60px;
+    }
   }
 
   @include breakpoint($desktop-breakpoint) {
     font-size: 1.2em;
 
     &:last-of-type {
-      padding-bottom: 70px;
+      padding-bottom: 90px;
     }
   }
 }
 
-.error-page__home-button {
+.error-page-tile__home-button {
   @include responsive-text;
   color: $purple;
   background-color: $white;
