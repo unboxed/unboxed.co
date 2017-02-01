@@ -65,7 +65,7 @@
   @extend %highlight;
   background-color: #00C2D6;
   color: $white;
-} 
+}
 
 .highlight--pearson {
   @extend %highlight;
@@ -82,6 +82,12 @@
 .highlight--petition-map {
   @extend %highlight;
   background-color: #8A2D8E;
+  color: $white;
+}
+
+.highlight--bookmetrix {
+  @extend %highlight;
+  background-color: #CC6247;
   color: $white;
 }
 
@@ -206,14 +212,6 @@
 
   @include breakpoint($desktop-breakpoint) {
     font-size: 3.8em;
-  }
-}
-
-.highlight__large-arrow {
-  padding-right: 5px;
-
-  @include breakpoint($desktop-breakpoint) {
-    padding-right: 12px;
   }
 }
 

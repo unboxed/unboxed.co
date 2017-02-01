@@ -17,23 +17,23 @@ introduction:
   image: "project-stories/bucks-cc/potholes.jpg"
   image_description: "Potholes app"
 
-statistics_1:
+highlight_1:
   title: "Buckinghamshire County Council in numbers"
-  number: "£200,000"
-  text: "Estimated combined cost-saving by these new services per year"
+  project: "bucks-cc"
+  statistics:
+  - number: "£200,000"
+    text: "Estimated combined cost-saving by these new services per year"
+  - number: "£1.8m"
+    text: "Overall cost-saving target to 2017/18"
 
-statistics_2:
-  number: "£1.8m"
-  text: "Overall cost-saving target to 2017/18"
-
-statistics_3:
+highlight_2:
   title: "Buckinghamshire County Council in numbers"
-  number: "18,000"
-  text: "Children placed in schools per year in the district"
-
-statistics_4:
-  number: "322"
-  text: "Responses to customer surveys"
+  project: "bucks-cc"
+  statistics:
+  - number: "18,000"
+    text: "Children placed in schools per year in the district"
+  - number: "322"
+    text: "Responses to customer surveys"
 
 digital_service_standard:
   title: "Step one: Adopting a digital service standard"
@@ -160,18 +160,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-  <section class="highlight--bucks-cc">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_1.title %>
-    </h2>
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_1.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_2.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.digital_service_standard } %>
 
@@ -179,17 +168,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.understanding_customer } %>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.impact_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.impact_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.impact_quote.image %>" alt="<%= current_page.data.impact_quote.source %>"/>
-  </blockquote>
+  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.impact_quote } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.talking_with_customers } %>
 
@@ -201,32 +180,11 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.mvp_prototyping } %>
 
-  <section class="highlight--bucks-cc">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_3.title %>
-    </h2>
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_3.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_4.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_4.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.beta_phase } %>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.alpha_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.alpha_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.alpha_quote.image %>" alt="<%= current_page.data.alpha_quote.source %>"/>
-  </blockquote>
+  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.alpha_quote } %>
 
   <%= partial 'project-stories/project_team' %>
 

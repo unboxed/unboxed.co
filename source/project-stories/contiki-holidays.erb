@@ -24,18 +24,23 @@ introduction:
   image: "/project-stories/contiki-holidays/team-meeting.jpg"
   image_description: "Team meeting"
 
-statistics_1:
+highlight_1:
   title: "Contiki in numbers"
-  number: "78%"
-  text: "the increased likelihood of users willing to book online"
+  project: "contiki-holidays"
+  statistics:
+  - number: 78%
+    icon: fa-arrow-up
+    text: "the increased likelihood of users willing to book online"
 
-statistics_2:
-  number: "43%"
-  text: "conversion rate increase from previous period"
-
-statistics_3:
-  number: "47%"
-  text: "increase in bookings over previous period"
+highlight_2:
+  project: "contiki-holidays"
+  statistics:
+  - number: "43%"
+    text: "conversion rate increase from previous period"
+    icon: fa-arrow-up
+  - number: "47%"
+    text: "increase in bookings over previous period"
+    icon: fa-arrow-up
 
 agile:
   title: "Agile key in move to iterative customer-led design development"
@@ -136,16 +141,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.partnership } %>
 
-  <section class="highlight--contiki-holidays">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_1.title %>
-    </h2>
-
-    <div class="highlight__tile--one">
-      <p class="highlight__large-text"><i class="fa fa-arrow-up highlight__large-arrow"></i><%= current_page.data.statistics_1.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_1.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
@@ -153,14 +149,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.agile } %>
 
-  <section class="highlight--contiki-holidays">
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><i class="fa fa-arrow-up highlight__large-arrow"></i><%= current_page.data.statistics_2.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_2.text %></p>
-      <p class="highlight__large-text"><i class="fa fa-arrow-up highlight__large-arrow"></i><%= current_page.data.statistics_3.number %><p>
-      <p class="highlight__small-text"><%=current_page.data.statistics_3.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.collaboration } %>
 

@@ -17,23 +17,23 @@ introduction:
   image: "/project-stories/petitions/donald-trump-petition.jpg"
   image_description: "Petition on blocking Donald Trump from UK entry"
 
-statistics_1:
+highlight_1:
   title: "Petitions in numbers"
-  number: "19,136,493"
-  text: "Signatures collected to date (June 2016)"
+  project: "petitions"
+  statistics:
+  - number: "19,136,493"
+    text: "Signatures collected to date (June 2016)"
+  - number: "27"
+    text: "Petitions exceeding 100,000 signatures and debated in the House of Commons"
 
-statistics_2:
-  number: "27"
-  text: "Petitions exceeding 100,000 signatures and debated in the House of Commons"
-
-statistics_3:
+highlight_2:
   title: "Petitions in numbers since launch"
-  number: "42,101,742"
-  text: "Unique site visitors"
-
-statistics_4:
-  number: "246,930,801"
-  text: "Pages viewed"
+  project: "petitions"
+  statistics:
+  - number: "42,101,742"
+    text: "Unique site visitors"
+  - number: "246,930,801"
+    text: "Pages viewed"
 
 petition_process:
   title: "A voice for the public"
@@ -62,7 +62,8 @@ tech_spec:
   image_description: "Working on developing Petitions platform"
 
 tech_quote:
-  quote: "We architected for robustness and speed, based on previous peak numbers from the old system. We now regularly hit those numbers on a quiet day."
+  quote: |
+    We architected for robustness and speed, based on previous peak numbers from the old system. We now regularly hit those numbers on a quiet day.
   source: "Andrew White, CTO, Unboxed"
   image: "/project-stories/petitions/team/andrew-white-full.png"
 
@@ -135,18 +136,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-  <section class="highlight--petitions">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_1.title %>
-    </h2>
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %></p>
-      <p class="highlight__small-text"><%= current_page.data.statistics_1.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %></p>
-      <p class="highlight__wide-text"><%= current_page.data.statistics_2.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.petition_process } %>
 
@@ -158,17 +148,7 @@ related:
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.tech_spec } %>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.tech_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.tech_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.tech_quote.image %>" alt="<%= current_page.data.tech_quote.source %>"/>
-  </blockquote>
+  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.tech_quote } %>
 
   <%= partial 'project-stories/text_tile', locals: { section: current_page.data.result } %>
 
@@ -176,18 +156,7 @@ related:
 
   <%= partial 'project-stories/project_team' %>
 
-  <section class="highlight--petitions">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_3.title %>
-    </h2>
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %></p>
-      <p class="highlight__small-text"><%= current_page.data.statistics_3.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_4.number %></p>
-      <p class="highlight__small-text"><%= current_page.data.statistics_4.text %></p>
-    </div>
-  </section>
+  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
 
   <%= partial 'project-stories/link_tiles' %>
 

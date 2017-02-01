@@ -1,0 +1,25 @@
+<section class="component">
+  <div class="component__tile--title">
+    <% if section.title %>
+        <h2 class="text-tile__title--narrow">
+          <%= section.title %>
+        </h2>
+    <% end %>
+  </div>
+
+  <div class="component__tile text-tile--double-tile">
+    <% if section.content_1 %>
+        <p class="text-tile__paragraph">
+          <%= section.content_1 %>
+        </p>
+    <% end %>
+  </div>
+
+  <div class="component__tile text-tile--double-tile">
+    <% if section.content_2 %>
+        <p class="text-tile__paragraph">
+          <%= section.content_2 %>
+        </p>
+    <% end %>
+  </div>
+</section>

@@ -1,0 +1,13 @@
+<blockquote class="quote">
+  <aside class="quote__right-section">
+    <p class="quote__text--centered">
+      <%= section.quote %>
+    </p>
+    <p class="quote__source">
+      <%= section.source %>
+    </p>
+  </aside>
+  <% if section.image %>
+    <img class="quote__source-image" src="<%= section.image %>" alt="<%= section.source %>"/>
+  <% end %>
+</blockquote>
