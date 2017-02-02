@@ -112,7 +112,7 @@ With Maria identified and firmly on our radar, it’s time to broaden out to ide
 “He can’t afford the rent on his own so has to share a bedroom with three other men.”<br/>
 “He’s HIV+. He carries a stigma with this.”<br/>
 
-We’re now beginning to form a more and more potential faces of people within Lambeth’s wider community, directly from people they engage with on a close basis.<br/>
+We’re now beginning to form more and more potential faces of people within Lambeth’s wider community, directly from people they engage with on a close basis.<br/>
 
 ![Lambeth Portuguese community workshop 9](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8462_zpsjxfgcuoz.jpg)
 
@@ -120,7 +120,7 @@ We’re now beginning to form a more and more potential faces of people within L
 
 ![Lambeth Portuguese community workshop 11](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8436_zps211bxdst.jpg)
 
-With the wall now filled with our personas, it’s time identify one to bring forward into the next stage - journey mapping.<br/>
+With the wall now filled with our personas, it’s time to identify one to bring forward into the next stage - journey mapping.<br/>
 
 Taking José as an example member of the community, Leon now poses a question to the room: “What does a typical day look like in José’s life? We’re aiming to uncover what he does during a normal day, identify the troubles he is facing and pinpoint the areas in which we can intervene to overcome these troubles, or reduce the impact they will have on him.”<br/>
 
