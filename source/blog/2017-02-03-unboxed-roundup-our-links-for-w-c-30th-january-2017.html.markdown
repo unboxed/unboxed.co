@@ -1,0 +1,38 @@
+---
+weekly_roundup: true
+title: 'Unboxed Roundup: Our links for w/c 30th January 2017'
+date: '2017-02-03 14:30:00 UTC'
+authors:
+  - 'Murray Steele'
+tags: # (Delete as appropriate)
+- Culture
+
+---
+
+## Static Site Generators - [Charlie E](/people#charlie-egan)
+
+https://staticsitegenerators.net/
+
+A static site generator for every language. I feel like I missed someone
+influential claiming static site generators are literally _the best_ side
+project ever. Good list nonetheless.
+
+## PostgreSQL's Powerful Lateral Join - [Elena T](/people#elena-tanasoiu)
+
+https://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/
+
+Although it was introduced a few iterations ago, in Postgres 9.3, the LATERAL
+join is worth a mention since it allows you to go over each resulting row of a
+query and perform a second sub-query. This is also cool because the subquery
+can take parameters. The subqueries are not evaluated independently so you
+have access to the results from previous executions.
+
+## awesome-bits - [Charlie E](/people#charlie-egan)
+
+https://github.com/keon/awesome-bits
+
+Another (more awesome) list. Basically it's a write up of bit wise operations
+of varying complexity, most of the simple ones work in Ruby too.
+
+## Track of the Week - [](/people#)
+
