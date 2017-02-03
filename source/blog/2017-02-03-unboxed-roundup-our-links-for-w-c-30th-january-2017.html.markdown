@@ -34,6 +34,17 @@ https://github.com/keon/awesome-bits
 Another (more awesome) list. Basically it's a write up of bit wise operations
 of varying complexity, most of the simple ones work in Ruby too.
 
+## Doors - [Murray S](/people#murray-steele)
+
+http://www.lizengland.com/blog/2014/04/the-door-problem/
+
+In my time I've certainly played enough games to understand the specific design
+problem that Liz England describes for doors in game worlds.  That's not the
+only reason I like this article though.  It makes me think about other design
+choices I might make when building software and reminds me that if it seems
+"simple" I might need to think a bit more about it to understand the true impact
+on other users.
+
 ## Track of the Week - [Leon O K](/people#leon-odey-knight)
 
 ...gloriously fragile, yet overwhelmingly powerful. Like the innocent memories of youth are fogged by excess.
