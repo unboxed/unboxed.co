@@ -34,5 +34,11 @@ https://github.com/keon/awesome-bits
 Another (more awesome) list. Basically it's a write up of bit wise operations
 of varying complexity, most of the simple ones work in Ruby too.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Leon O K](/people#leon-odey-knight)
+
+...gloriously fragile, yet overwhelmingly powerful. Like the innocent memories of youth are fogged by excess.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9dSYgd5Elk" frameborder="0" allowfullscreen></iframe>
+
+[MGMT - Time to Pretend](https://www.youtube.com/watch?v=B9dSYgd5Elk)
 
