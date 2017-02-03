@@ -6,45 +6,79 @@ header:
   subtitle: "ruby on rails developer"
 
 introduction:
-  title: "are you a ruby on rails developer?"
-  text_1: "We are looking for Ruby on Rails developers to join our London and Cape Town offices."
+  title: "Are you a Ruby on Rails developer?"
+  text_1: "We are looking for Ruby on Rails developers to join our London office."
   text_2: "Recognised as being key members in the community, our developers are responsible for building scalable, sustainable systems from project inception right through to production."
-  text_3: "Our Ruby and Rails experts code to the best of their ability to ensure the highest level of quality in our digital products."
-  image: "/jobs/images/chris.jpg"
-  image_description: "A developer at work"
-
-developer_image:
-  image: "/jobs/images/developers.jpg"
-  image_description: "Developers presenting code"
-
-description:
-  title: "we need someone who can"
+  text_3: "We need people who can:"
   requirements:
     - Develop and maintain complex Ruby on Rails applications through agile ways of working
     - Make informed decisions quickly drawing from experience across a wide technical stack
     - Involve your team in discussions on progress of stories
     - Turn designs and wireframes into functional applications
-  image: "/jobs/images/chris2.jpg"
-  image_description: "Developers help each other out"
 
-experience:
-  title: "what experience will you need?"
+developers_image:
+  image: "/jobs/images/developers-1.jpg"
+  image_description: "Developers presenting code"
+
+description:
+  title: "Key competencies and skills"
   requirements:
-    - Experience of pioneering the way people work in an agile environment
-    - Strong object-oriented design skills
-    - Experience in setting up and maintaining UNIX systems
-    - Use of JavaScript tools
-    - An understanding of continuous integration and delivery
-  image: "/jobs/images/developers2.jpg"
-  image_description: "Developers meet"
+    - Solid experience in Ruby and Ruby on Rails
+    - Experience of version control (ideally Git)
+    - TDD/BDD experience
+    - SQL (preferably MySQL or PostgreSQL)
+    - Architect, develop and maintain complex Ruby and Rails applications
+    - Ability to work with other developers and QA testers to plan and ship projects
+    - Able to identify areas of risk and complexity during the planning process
+    - Communicate continually with team on progress of stories
+    - Can turn wireframes and designs into functional applications
+    - Write and maintain integration and unit test suites
+
+other_requirements:
+  title: "Highly desirable"
+  requirements:
+    - HTML and CSS experience
+    - Experience working in an agile environment
+    - Open source contributions
+    - Experience setting up and maintaining UNIX systems
+    - JavaScript
+    - A keen eye for detail
+    - Understanding of continuous integration and delivery
+  image: "/jobs/images/developers-2.jpg"
+  image_description: "Developer at work"
+
+benefits:
+  title: "Benefits of working with us"
+  list:
+    - 25 holiday days per year, on top of the bank holiday allowance
+    - Holiday flexibility and loyalty bonus benefits
+    - An informal, startup culture of growth and flexible working hours
+    - 10 Innovation Days per year
+    - A generous conference budget to attend the conferences of your choice
+    - A peer-to-peer mentoring programme
+    - Life assurance policy at 4x salary
+    - A workplace pension with Standard Life
+    - A 'Bike To Work' scheme
+
+developers_meeting_image:
+  image: "/jobs/images/developers-3.jpg"
+  image_description: "Developers meetup"
+
+other_benefits:
+  title: "Other benefits include"
+  list:
+    - Weekly reflection and drinks at our Whines & Cheers session (our Friday evening company retrospective)
+    - Bi-annual reviews
+    - The potential for equity in an Unboxed 'spin-off' product
+    - Monthly 'Linkers & Thinkers' lunches
+    - Your own caricature
 
 process:
-  title: "what next?"
-  requirements:
+  title: "What next?"
   text_1: "Send us your CV and, if we think you will make a good team member, we will get you to complete a short coding exercise. This gives you the an opportunity to showcase your approach to solving problems and for us to see your code on a clean build project."
   text_2: "If we like what we see we will invite you in for a pairing session with one of our developers where we will talk over the choices you have made in your solution and get to know you a little better."
-  image: "/jobs/images/developers3.jpg"
-  image_description: "A developer works at his desk"
+  image: "/jobs/images/developers-4.jpg"
+  image_description: "Developers working together"
 
 developer_quote:
   quote: "My goal is to become the best developer I can be and, for me, this ultimately means being part of a productive and stimulating community that cares about adopting best practices and sharing knowledge. That’s why I joined the Unboxed team. I believe these concepts are at the core of our success in producing high quality web applications."
@@ -58,8 +92,23 @@ contact_us:
   text_3: "Send your CV through to Claire at: "
   email: "iwantajob@unboxed.co"
   text_4: "From there, she'll be in touch. Good luck!"
-  image: "/jobs/images/ubxd-gardener2.jpg"
-  image_description: "Our gardener at work"
+  image: "/jobs/images/ubxd-gardener-2.jpg"
+  image_description: "Our gardener"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Unboxed Hackathon #2 - All in an innovation day’s work"
+      type: "blog"
+      link: "/blog/unboxed-hackathon-2-all-in-an-innovation-day-s-work"
+
+    - title: "RubyConf Portugal 2016"
+      type: "blog"
+      link: "/blog/rubyconf-portugal-2016"
+
+    - title: "Faster than Lightning: November's Developer Event"
+      type: "blog"
+      link: "/blog/faster-than-lightning-november-s-developer-event"
 ---
 
 <header class="page-header page-header--bottom-margin">
@@ -73,8 +122,8 @@ contact_us:
 
 <div class="container" data-header-waypoint>
   <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
         <%= current_page.data.introduction.title %>
       </h2>
 
@@ -87,50 +136,84 @@ contact_us:
       <p class="text-tile__paragraph--with-spacing">
         <%= current_page.data.introduction.text_3 %>
       </p>
-    </div>
 
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.introduction.image, alt: current_page.data.introduction.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.introduction.image) %>
+      <ul class="text-tile__list">
+        <% current_page.data.introduction.requirements.each do |requirement| %>
+            <li class="text-tile__list-item">
+              <%= requirement %>
+            </li>
+        <% end %>
+      </ul>
     </div>
   </section>
 
-  <%= image_tag current_page.data.developer_image.image, alt: current_page.data.developer_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.developer_image.image) %>
+  <%= image_tag current_page.data.developers_image.image, alt: current_page.data.developers_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.developers_image.image) %>
 
   <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
         <%= current_page.data.description.title %>
       </h2>
 
       <ul class="text-tile__list">
-        <% current_page.data.description.requirements.each do |requirement| %>
+        <% current_page.data.description.requirements.each do |item| %>
           <li class="text-tile__list-item">
-            <%= requirement %>
+            <%= item %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  </section>
+
+	<section class="component">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.other_requirements.title %>
+      </h2>
+
+      <ul class="text-tile__list">
+        <% current_page.data.other_requirements.requirements.each do |item| %>
+          <li class="text-tile__list-item">
+            <%= item %>
           </li>
         <% end %>
       </ul>
     </div>
 
     <div class="component__tile image-tile">
-      <%= image_tag current_page.data.description.image, alt: current_page.data.description.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.description.image) %>
+      <%= image_tag current_page.data.other_requirements.image, alt: current_page.data.other_requirements.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.other_requirements.image) %>
     </div>
   </section>
 
-	<section class="component">
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.experience.image, alt: current_page.data.experience.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.experience.image) %>
-    </div>
-
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
-        <%= current_page.data.experience.title %>
+  <section class="component">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.benefits.title %>
       </h2>
 
       <ul class="text-tile__list">
-        <% current_page.data.experience.requirements.each do |requirement| %>
-          <li class="text-tile__list-item">
-            <%= requirement %>
-          </li>
+        <% current_page.data.benefits.list.each do |item| %>
+            <li class="text-tile__list-item">
+              <%= item %>
+            </li>
+        <% end %>
+      </ul>
+    </div>
+  </section>
+
+  <%= image_tag current_page.data.developers_meeting_image.image, alt: current_page.data.developers_meeting_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.developers_meeting_image.image) %>
+
+  <section class="component">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.other_benefits.title %>
+      </h2>
+
+      <ul class="text-tile__list">
+        <% current_page.data.other_benefits.list.each do |item| %>
+            <li class="text-tile__list-item">
+              <%= item %>
+            </li>
         <% end %>
       </ul>
     </div>
@@ -138,7 +221,7 @@ contact_us:
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+      <h2 class="text-tile__title">
         <%= current_page.data.process.title %>
       </h2>
 
@@ -169,7 +252,7 @@ contact_us:
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+      <h2 class="text-tile__title">
         <%= current_page.data.contact_us.title %>
       </h2>
 
@@ -195,4 +278,6 @@ contact_us:
       <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
     </div>
   </section>
+
+  <%= partial 'project-stories/related_tiles' %>
 </div>
