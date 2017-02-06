@@ -152,24 +152,7 @@ related:
 
   <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.other_benefits } %>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.process.title %>
-      </h2>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.process.text_1 %>
-      </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.process.text_2 %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.process.image, alt: current_page.data.process.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.process.image) %>
-    </div>
-  </section>
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
 
   <%= partial 'jobs/quote_image', locals: { section: current_page.data.developer_quote } %>
 
