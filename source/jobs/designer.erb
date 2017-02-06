@@ -6,15 +6,13 @@ header:
   subtitle: "strategic designer"
 
 introduction:
-  title: "At unboxed, design is a team sport"
+  title: "At Unboxed, design is a team sport"
   text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector."
   text_2: "We are looking for a talented and confident strategic designer to join us."
-  image: "/jobs/images/design-meeting.jpg"
-  image_description: "Design team at work"
 
 design_image:
-  image: "/jobs/images/design-image.jpg"
-  image_description: "Examples of unboxed design work"
+  image: "/jobs/images/designer.jpg"
+  image_description: "Designer at work"
 
 description:
   title: "We need someone who"
@@ -24,8 +22,6 @@ description:
     - Takes a highly collaborative approach, facilitating design within teams
     - Is a passionate advocate for Design Thinking and Lean and Agile principles
     - Loves to get out and learn from users, customers and stakeholders
-  image: "/jobs/images/design-outcome.jpg"
-  image_description: "Presenting a design project"
 
 design_quote:
   quote: "For me, design is as much about attitude as it is about experience or specific expertise. Great looking visuals and considered user journeys are important but I most enjoy working with designers who are open in their thinking and encourage the team to collectively tackle and solve important problems."
@@ -34,11 +30,28 @@ design_quote:
 
 contact_us:
   title: "Send us your CV"
-  text_1: "Claire is our people gardener. Being a \"gardener\" is Claire's analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. If you are the strategic designer we're looking for, send your CV through to her:"
+  text_1: "Claire is our “people gardener” and she would love to hear from you."
+  text_2: "We like to do the most valuable things first - employing you could be exactly that."
+  text_3: "Send your CV through to Claire at: "
   email: "iwantajob@unboxed.co"
-  text_2: "From there, she'll be in touch. Good luck."
-  image: "/jobs/images/ubxd-gardener.jpg"
-  image_description: "Our gardener at work"
+  text_4: "From there, she'll be in touch. Good luck!"
+  image: "/jobs/images/ubxd-gardener-2.jpg"
+  image_description: "Our gardener"
+
+related:
+  title: "Related"
+  articles:
+    - title: "The five day design sprint with Guy’s & St. Thomas’ NHS Foundation Trust Paediatric Allergy Team"
+      type: "blog"
+      link: "/blog/the-five-day-design-sprint-with-guy-s-st-thomas-nhs-foundation-trust-pediatric-allergy-team"
+
+    - title: "Welcome to the team: Boris Divjak"
+      type: "blog"
+      link: "/blog/welcome-to-the-team-boris-divjak"
+
+    - title: "Shaking up early product development, part 1: Using journey mapping to improve your user journey"
+      type: "blog"
+      link: "/blog/shaking-up-early-product-development-part-1-using-journey-mapping-to-improve-your-user-journey"
 ---
 
 <header class="page-header page-header--bottom-margin">
@@ -52,8 +65,8 @@ contact_us:
 
 <div class="container" data-header-waypoint>
   <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
         <%= current_page.data.introduction.title %>
       </h2>
 
@@ -64,17 +77,13 @@ contact_us:
         <%= current_page.data.introduction.text_2 %>
       </p>
     </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.introduction.image, alt: current_page.data.introduction.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.introduction.image) %>
-    </div>
   </section>
 
   <%= image_tag current_page.data.design_image.image, alt: current_page.data.design_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.design_image.image) %>
 
   <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
         <%= current_page.data.description.title %>
       </h2>
 
@@ -85,10 +94,6 @@ contact_us:
           </li>
         <% end %>
       </ul>
-    </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.description.image, alt: current_page.data.description.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.description.image) %>
     </div>
   </section>
 
@@ -127,4 +132,6 @@ contact_us:
       <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
     </div>
   </section>
+
+  <%= partial 'project-stories/related_tiles' %>
 </div>
