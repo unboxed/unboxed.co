@@ -16,7 +16,7 @@ design_image:
 
 description:
   title: "We need someone who"
-  requirements:
+  content:
     - Has a breadth of experience several different design disciplines
     - Is a strategic thinker, comfortable with uncertainty and complexity
     - Takes a highly collaborative approach, facilitating design within teams
@@ -54,14 +54,7 @@ related:
       link: "/blog/shaking-up-early-product-development-part-1-using-journey-mapping-to-improve-your-user-journey"
 ---
 
-<header class="page-header page-header--bottom-margin">
-  <div class="job-page-header__container">
-    <h1 class="job-page-header__introduction">
-      <a href="/jobs"><%= current_page.data.header.title %></a>
-      <span> / <%= current_page.data.header.subtitle %></span>
-    </h1>
-  </div>
-</header>
+<%= partial 'jobs/page_header' %>
 
 <div class="container" data-header-waypoint>
   <section class="component">
@@ -79,59 +72,13 @@ related:
     </div>
   </section>
 
-  <%= image_tag current_page.data.design_image.image, alt: current_page.data.design_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.design_image.image) %>
+  <%= partial 'jobs/full_image', locals: { section: current_page.data.design_image } %>
 
-  <section class="component">
-    <div class="text-tile--full-width">
-      <h2 class="text-tile__title">
-        <%= current_page.data.description.title %>
-      </h2>
+  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.description } %>
 
-      <ul class="text-tile__list">
-        <% current_page.data.description.requirements.each do |requirement| %>
-          <li class="text-tile__list-item">
-            <%= requirement %>
-          </li>
-        <% end %>
-      </ul>
-    </div>
-  </section>
+  <%= partial 'jobs/quote_image', locals: { section: current_page.data.design_quote } %>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.design_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.design_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.design_quote.image %>" alt="<%= current_page.data.design_quote.source %>"/>
-  </blockquote>
+  <%= partial 'jobs/contact_us' %>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
-        <%= current_page.data.contact_us.title %>
-      </h2>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_1 %>
-      </p>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
-      </p>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_2 %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
-    </div>
-  </section>
-
-  <%= partial 'project-stories/related_tiles' %>
+  <%= partial 'jobs/related_tiles' %>
 </div>
