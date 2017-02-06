@@ -18,7 +18,7 @@ Are you a change-maker taking on the status quo? Do you want to improve your lif
 
 Lean Change is an iterative, non-linear, feedback-driven approach particularly suited to fast-paced agile environments. Discover the model, tools and techniques to have you and you team successfully deliver change at speed.<br/>
 
-
+<br/>
 # What will be covered
 
 - Lean-Agile Change Management defined, and the 'why' and 'when' to apply it
@@ -29,7 +29,7 @@ Lean Change is an iterative, non-linear, feedback-driven approach particularly s
 - Tools and practices that you can use right away
 - War stories from Richard and real-life examples from other Lean Change pioneers
 
-
+<br/>
 # What you will get
 
 - A copy of Lean Change Management
@@ -39,7 +39,7 @@ Lean Change is an iterative, non-linear, feedback-driven approach particularly s
 - Two fantastic days of conversations and learning
 - Ability to become [a licensed facilitator](http://leanchange.org/workshop/becoming-a-lean-change-agent-facilitator)
 
-
+<br/>
 # Agenda
 
 Workshops are adapted to sector and attendees’ needs and include topics from the following list:<br/>
@@ -55,6 +55,7 @@ Workshops are adapted to sector and attendees’ needs and include topics from t
 - Transformational leadership
 - Engagement, morale, and motivation
 - Business experiments and culture hacks
+<br/>
 
 
 <iframe src="https://www.picatic.com/events/widget/100620?utm_source=promotion&utm_medium=widget&utm_campaign=100620&event_title=true&event_image=true&ticket_description=true&width=std" frameborder="0" style="display:block;height:413px;max-width:none;width:100%;"></iframe>
