@@ -55,9 +55,9 @@ Workshops are adapted to sector and attendees’ needs and include topics from t
 - Transformational leadership
 - Engagement, morale, and motivation
 - Business experiments and culture hacks
+
+
 <br/>
-
-
 <iframe src="https://www.picatic.com/events/widget/100620?utm_source=promotion&utm_medium=widget&utm_campaign=100620&event_title=true&event_image=true&ticket_description=true&width=std" frameborder="0" style="display:block;height:413px;max-width:none;width:100%;"></iframe>
 
 
