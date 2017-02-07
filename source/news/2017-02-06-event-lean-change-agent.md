@@ -12,6 +12,8 @@ Based on Richard's 10-year practice of leading change, and the techniques laid o
 
 <a href="https://www.picatic.com/lean-change-agent-london-april?utm_source=promotion&utm_medium=button&utm_campaign=100620" target="_blank"> <img border="0" src="https://www.picatic.com/img/picatic-buy-button-grey.png" alt="Buy Tickets For This Event" /> </a>
 
+![Lean Change Agent 1](http://i1291.photobucket.com/albums/b548/grammccram/Lean%20Change%20Agent%202_zpsia5l33qy.png)
+
 
 # You
 Are you a change-maker taking on the status quo? Do you want to improve your life and those of your co-workers? Do you want to build an organisation that's continually expressing the best possible version of itself?<br/>
@@ -28,6 +30,8 @@ Lean Change is an iterative, non-linear, feedback-driven approach particularly s
 - How to lead change from any level in your organization
 - Tools and practices that you can use right away
 - War stories from Richard and real-life examples from other Lean Change pioneers
+
+![Lean Change Agent 2](http://i1291.photobucket.com/albums/b548/grammccram/Lean%20Change%20Agent%201_zpsn9gzihur.png)
 
 <br/>
 # What you will get
@@ -63,8 +67,3 @@ Workshops are adapted to sector and attendees’ needs and include topics from t
 
 <b>Terms & Conditions</b><br/>
 These can be found on the [official event page here](https://www.picatic.com/lean-change-agent-london-april).
-
-
-
-
-
