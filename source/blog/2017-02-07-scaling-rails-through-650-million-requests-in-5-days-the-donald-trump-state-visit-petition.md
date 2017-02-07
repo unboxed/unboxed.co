@@ -8,8 +8,7 @@ authors:
   - Andrew White
 tags:
   - Rails
-main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202017-02-07%20at%2015.17.39_zpsgdfsfk12.png
+main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/Petitions_zpsrcp2qsm6.png'
 ---
 
 <i>[Parliament Petitions](https://petition.parliament.uk/) is a Rails app which [we built in collaboration with GDS](https://unboxed.co/project-stories/petitions/) during the summer of 2015. Andrew is the lead developer and lead support of the platform, working alongside [Pete Herlihy](https://twitter.com/yahoo_pete) - the Product Owner.</i><br/>
@@ -40,6 +39,7 @@ The system hadn’t quite seen the peak of this campaign yet. As the media cover
 Entering into Monday, this traffic continued growing and excelling. By Monday afternoon, the number of concurrent users had peaked at 50,000, with the system still functioning to accommodate this number of users at one time. In less than 24 hours, the petition had crashed through the 1,000,000-signature barrier - only the second petition to do so.<br/>
 
 From Monday evening, as the media coverage surrounding the campaign and petition began winding down, the traffic in the system slowly began declining. From Tuesday onwards, I could predict that we had seen the peak of this individual petition (although still preparing for this not being the case!). Across Wednesday and Thursday saw a similar trend, with activity gradually slowing down.<br/>
+<br/>
 
 # The aftermath
 Currently sitting at 1,849,185 signatures (at the time of posting), this is the second biggest petition the system has handled since its launch in 2015.<br/>
@@ -69,6 +69,7 @@ During this campaign, the number of [Petition Map](http://petitionmap.unboxedcon
 
 ![Prevent Donald Trump from making a State Visit to the United Kingdom 4](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202017-02-02%20at%2020.56.25_zpshatnapr2.png)
 
+<br/>
 Over 953,000 Petition Map sessions took place over the most active five days, with features in online publications such as [Buzzfeed](https://www.buzzfeed.com/jimwaterson/heres-what-that-incredibly-viral-donald-trump-petition-says?utm_term=.ku5GvkBXy#.nag7EkB2Z), [Mail Online](http://www.dailymail.co.uk/news/article-4168906/More-100-000-sign-petition-cancel-Trump-s-UK-visit.html) and Sky News.<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When I first made Petition Map while working <a href="https://twitter.com/Ubxd">@ubxd</a> I never expected this many people would be using it</p>&mdash; Cale Tilford (@tlfrd) <a href="https://twitter.com/tlfrd/status/826057195913637889">January 30, 2017</a></blockquote>
