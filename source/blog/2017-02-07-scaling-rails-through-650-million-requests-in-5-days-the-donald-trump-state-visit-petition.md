@@ -83,4 +83,5 @@ Extra special thanks must go to Matthew Somerville ([@dracos](https://twitter.co
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Watching this go up in real time has greatly enhanced the enjoyment of our Sunday roast. <a href="https://t.co/ziv1gammmp">https://t.co/ziv1gammmp</a></p>&mdash; Armando Iannucci (@Aiannucci) <a href="https://twitter.com/Aiannucci/status/825692021797027840">January 29, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
   
+<br/>
 Even though Matthew isn't part of the official Petitions team he saw the need for a feature that automatically updated the signature count on the page without having to refresh the page. Because we work in the open, Matthew was able to [download the code](https://github.com/alphagov/e-petitions), add the new feature and then [submit a pull request back](https://github.com/alphagov/e-petitions/pull/482) to us. We then merged it and then deployed it back in August last year.
