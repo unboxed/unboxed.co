@@ -364,6 +364,16 @@
   role: "Developer"
   email: "lloyd.africa"
 
+- name: "Lawrence Richards"
+  short_name: "lawrence-richards"
+  role: "Designer"
+  email: "lawrence.richards"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/lawrence_design"
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/lawrencer/"
+
 - name: "Gary Millar"
   short_name: "gary-millar"
   role: "Tester"
