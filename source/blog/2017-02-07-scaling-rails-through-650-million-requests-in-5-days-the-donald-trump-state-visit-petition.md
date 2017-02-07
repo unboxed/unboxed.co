@@ -1,6 +1,6 @@
 ---
 date: '2017-02-07 15:19 +0000'
-published: false
+published: true
 title: >-
   Scaling Rails through 650 million requests in 5 days: The Donald Trump State
   Visit petition
@@ -82,8 +82,3 @@ On a final note, we must say thanks to the thousands of people who have contribu
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">He had the idea, downloaded the open source code, wrote the counter code, then submitted a &#39;Pull Request&#39; which <a href="https://twitter.com/gdsteam">@gdsteam</a> then accepted. 3/3</p>&mdash; Tom Loosemore (@tomskitomski) <a href="https://twitter.com/tomskitomski/status/826137176710733827">January 30, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
-
