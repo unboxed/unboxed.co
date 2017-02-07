@@ -49,13 +49,6 @@ alumni_quote:
   source: "Pedro Moreira, Unboxed Alumnus"
   image: "/assets/images/jobs/pedro-moreira.png"
 
-contact_us:
-  title: "Send us your CV"
-  text_1: "Claire is our people gardener. Being a \"gardener\" is Claire's analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. Send your CV through to her:"
-  email: "iwantajob@unboxed.co"
-  text_2: "From there, she'll be in touch. Good luck."
-  image: "/jobs/images/ubxd-gardener.jpg"
-  image_description: "Unboxed gardener at work"
 ---
 
 <header class="page-header page-header--bottom-margin">
@@ -153,27 +146,5 @@ contact_us:
     <img class="quote__source-image" src="<%= current_page.data.alumni_quote.image %>" alt="<%= current_page.data.alumni_quote.source %>"/>
   </blockquote>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
-        <%= current_page.data.contact_us.title %>
-      </h2>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_1 %>
-      </p>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
-      </p>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_2 %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
-    </div>
-  </section>
+  <%= partial 'jobs/contact_us' %>
 </div>

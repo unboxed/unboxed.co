@@ -1,28 +1,28 @@
 <section class="component">
   <div class="component__tile text-tile">
     <h2 class="text-tile__title">
-      <%= current_page.data.contact_us.title %>
+      Send us your CV
     </h2>
 
     <p class="text-tile__paragraph--with-spacing">
-      <%= current_page.data.contact_us.text_1 %>
+      Claire is our “people gardener” and she would love to hear from you.
     </p>
 
     <p class="text-tile__paragraph--with-spacing">
-      <%= current_page.data.contact_us.text_2 %>
+      We like to do the most valuable things first - employing you could be exactly that.
     </p>
 
     <p class="text-tile__paragraph--with-spacing">
-      <%= current_page.data.contact_us.text_3 %>
-      <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
+      Send your CV through to Claire at:
+      <a href="mailto:iwantajob@unboxed.co">iwantajob@unboxed.co</a>
     </p>
 
     <p class="text-tile__paragraph--with-spacing">
-      <%= current_page.data.contact_us.text_4 %>
+      From there, she'll be in touch. Good luck!
     </p>
   </div>
 
   <div class="component__tile image-tile">
-    <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
+    <%= image_tag '/jobs/images/ubxd-gardener.jpg', alt: 'Our gardener', class: "image-tile__image", srcset: retina_srcset('/jobs/images/ubxd-gardener.jpg') %>
   </div>
 </section>
