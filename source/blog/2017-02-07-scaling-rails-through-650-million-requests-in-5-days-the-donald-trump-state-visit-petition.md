@@ -76,10 +76,11 @@ Over 953,000 Petition Map sessions took place over the most active five days, wi
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
-On a final note, we must say thanks to the thousands of people who have contributed over the years to the open source tools we use like Ruby on Rails, Puma and Delayed Job. You all helped to make a fantastic platform for building stable and scalable web applications. 👍
+On a final note, we must say thanks to the thousands of people who have contributed over the years to the open source tools we use like Ruby on Rails, Puma and Delayed Job. You all helped to make a fantastic platform for building stable and scalable web applications. 👍 <br/>
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Have you been mesmerised by the real-time updating counter on *that* e-petition? (Y&#39;know, this one <a href="https://t.co/jqxiwGa7Fk">https://t.co/jqxiwGa7Fk</a> ) 1/3</p>&mdash; Tom Loosemore (@tomskitomski) <a href="https://twitter.com/tomskitomski/status/826136407647326208">January 30, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Extra special thanks must go to Matthew Somerville ([@dracos](https://twitter.com/dracos)) who wrote the feature that everyone was talking about on Twitter:<br/>
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">He had the idea, downloaded the open source code, wrote the counter code, then submitted a &#39;Pull Request&#39; which <a href="https://twitter.com/gdsteam">@gdsteam</a> then accepted. 3/3</p>&mdash; Tom Loosemore (@tomskitomski) <a href="https://twitter.com/tomskitomski/status/826137176710733827">January 30, 2017</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Watching this go up in real time has greatly enhanced the enjoyment of our Sunday roast. <a href="https://t.co/ziv1gammmp">https://t.co/ziv1gammmp</a></p>&mdash; Armando Iannucci (@Aiannucci) <a href="https://twitter.com/Aiannucci/status/825692021797027840">January 29, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+Even though Matthew isn't part of the official Petitions team he saw the need for a feature that automatically updated the signature count on the page without having to refresh the page. Because we work in the open, Matthew was able to [download the code](https://github.com/alphagov/e-petitions), add the new feature and then [submit a pull request back](https://github.com/alphagov/e-petitions/pull/482) to us. We then merged it and then deployed it back in August last year.
