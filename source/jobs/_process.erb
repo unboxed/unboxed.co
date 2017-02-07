@@ -1,0 +1,18 @@
+<section class="component">
+  <div class="component__tile text-tile">
+    <h2 class="text-tile__title">
+      <%= section.title %>
+    </h2>
+
+    <p class="text-tile__paragraph--with-spacing">
+      <%= section.text_1 %>
+    </p>
+    <p class="text-tile__paragraph--with-spacing">
+      <%= section.text_2 %>
+    </p>
+  </div>
+
+  <div class="component__tile image-tile">
+    <%= image_tag section.image, alt: section.image_description, class: "image-tile__image", srcset: retina_srcset(section.image) %>
+  </div>
+</section>

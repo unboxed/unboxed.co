@@ -22,7 +22,7 @@ developers_image:
 
 description:
   title: "Key competencies and skills"
-  requirements:
+  content:
     - Solid experience in Ruby and Ruby on Rails
     - Experience of version control (ideally Git)
     - TDD/BDD experience
@@ -36,7 +36,7 @@ description:
 
 other_requirements:
   title: "Highly desirable"
-  requirements:
+  content:
     - HTML and CSS experience
     - Experience working in an agile environment
     - Open source contributions
@@ -49,7 +49,7 @@ other_requirements:
 
 benefits:
   title: "Benefits of working with us"
-  list:
+  content:
     - 25 holiday days per year, on top of the bank holiday allowance
     - Holiday flexibility and loyalty bonus benefits
     - An informal, startup culture of growth and flexible working hours
@@ -66,7 +66,7 @@ developers_meeting_image:
 
 other_benefits:
   title: "Other benefits include"
-  list:
+  content:
     - Weekly reflection and drinks at our Whines & Cheers session (our Friday evening company retrospective)
     - Bi-annual reviews
     - The potential for equity in an Unboxed 'spin-off' product
@@ -111,14 +111,7 @@ related:
       link: "/blog/faster-than-lightning-november-s-developer-event"
 ---
 
-<header class="page-header page-header--bottom-margin">
-  <div class="job-page-header__container">
-    <h1 class="job-page-header__introduction">
-      <a href="/jobs"><%= current_page.data.header.title %></a>
-      <span> / <%= current_page.data.header.subtitle %></span>
-    </h1>
-  </div>
-</header>
+<%= partial 'jobs/page_header' %>
 
 <div class="container" data-header-waypoint>
   <section class="component">
@@ -147,137 +140,23 @@ related:
     </div>
   </section>
 
-  <%= image_tag current_page.data.developers_image.image, alt: current_page.data.developers_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.developers_image.image) %>
+  <%= partial 'jobs/full_image', locals: { section: current_page.data.developers_image } %>
 
-  <section class="component">
-    <div class="text-tile--full-width">
-      <h2 class="text-tile__title">
-        <%= current_page.data.description.title %>
-      </h2>
+  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.description } %>
 
-      <ul class="text-tile__list">
-        <% current_page.data.description.requirements.each do |item| %>
-          <li class="text-tile__list-item">
-            <%= item %>
-          </li>
-        <% end %>
-      </ul>
-    </div>
-  </section>
+  <%= partial 'jobs/text_tile', locals: { section: current_page.data.other_requirements } %>
 
-	<section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.other_requirements.title %>
-      </h2>
+  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.benefits } %>
 
-      <ul class="text-tile__list">
-        <% current_page.data.other_requirements.requirements.each do |item| %>
-          <li class="text-tile__list-item">
-            <%= item %>
-          </li>
-        <% end %>
-      </ul>
-    </div>
+  <%= partial 'jobs/full_image', locals: { section: current_page.data.developers_meeting_image } %>
 
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.other_requirements.image, alt: current_page.data.other_requirements.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.other_requirements.image) %>
-    </div>
-  </section>
+  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.other_benefits } %>
 
-  <section class="component">
-    <div class="text-tile--full-width">
-      <h2 class="text-tile__title">
-        <%= current_page.data.benefits.title %>
-      </h2>
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
 
-      <ul class="text-tile__list">
-        <% current_page.data.benefits.list.each do |item| %>
-            <li class="text-tile__list-item">
-              <%= item %>
-            </li>
-        <% end %>
-      </ul>
-    </div>
-  </section>
+  <%= partial 'jobs/quote_image', locals: { section: current_page.data.developer_quote } %>
 
-  <%= image_tag current_page.data.developers_meeting_image.image, alt: current_page.data.developers_meeting_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.developers_meeting_image.image) %>
+  <%= partial 'jobs/contact_us' %>
 
-  <section class="component">
-    <div class="text-tile--full-width">
-      <h2 class="text-tile__title">
-        <%= current_page.data.other_benefits.title %>
-      </h2>
-
-      <ul class="text-tile__list">
-        <% current_page.data.other_benefits.list.each do |item| %>
-            <li class="text-tile__list-item">
-              <%= item %>
-            </li>
-        <% end %>
-      </ul>
-    </div>
-  </section>
-
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.process.title %>
-      </h2>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.process.text_1 %>
-      </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.process.text_2 %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.process.image, alt: current_page.data.process.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.process.image) %>
-    </div>
-  </section>
-
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.developer_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.developer_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.developer_quote.image %>" alt="<%= current_page.data.developer_quote.source %>"/>
-  </blockquote>
-
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title">
-        <%= current_page.data.contact_us.title %>
-      </h2>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_1 %>
-      </p>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_2 %>
-      </p>
-
-			<p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_3 %>
-        <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
-      </p>
-
-			<p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_4 %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
-    </div>
-  </section>
-
-  <%= partial 'project-stories/related_tiles' %>
+  <%= partial 'jobs/related_tiles' %>
 </div>

@@ -6,26 +6,75 @@ header:
   subtitle: "strategic designer"
 
 introduction:
-  title: "At unboxed, design is a team sport"
+  title: "At Unboxed, design is a team sport"
   text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector."
   text_2: "We are looking for a talented and confident strategic designer to join us."
-  image: "/jobs/images/design-meeting.jpg"
-  image_description: "Design team at work"
-
-design_image:
-  image: "/jobs/images/design-image.jpg"
-  image_description: "Examples of unboxed design work"
-
-description:
-  title: "We need someone who"
+  text_3: "We need someone who:"
   requirements:
     - Has a breadth of experience several different design disciplines
     - Is a strategic thinker, comfortable with uncertainty and complexity
     - Takes a highly collaborative approach, facilitating design within teams
     - Is a passionate advocate for Design Thinking and Lean and Agile principles
     - Loves to get out and learn from users, customers and stakeholders
-  image: "/jobs/images/design-outcome.jpg"
-  image_description: "Presenting a design project"
+
+design_image_1:
+  image: "/jobs/images/designer-1.jpg"
+  image_description: "Designer at work"
+
+description:
+  title: "Key competencies and skills"
+  content:
+    - Working collaboratively with the project's Product Owner and end users to deliver designs that meet the product need
+    - Maintaining design iterations from low-fidelity sketches, through wireframes to high fidelity visual designs
+    - Translating extracted requirements from clients and end users into design and UX priorities
+    - Researching material in support of new design concepts and produce interactive design tools to evaluate and present these ideas
+    - Finding a way to be a part of the whole development life cycle, including sprint planning and daily Scrum meetings
+    - Working with developers to ensure best practice design is implemented correctly
+
+other_requirements:
+  title: "Highly desirable"
+  content:
+    - Experience and desire to work on the types of project we are looking for
+    - Willingness to work collaboratively with a cross-functional team
+    - A thorough understanding of digital design
+    - Skills in communicating the process with stakeholders and other interested parties
+    - Potential to champion the value of design within Unboxed
+    - Presence within the broader design community
+  image: "/jobs/images/designers-session.jpg"
+  image_description: "Designers meeting"
+
+benefits:
+  title: "Benefits of working with us"
+  content:
+    - 25 holiday days per year, on top of the bank holiday allowance
+    - Holiday flexibility and loyalty bonus benefits
+    - An informal, startup culture of growth and flexible working hours
+    - 10 Innovation Days per year
+    - A generous conference budget to attend the conferences of your choice
+    - A peer-to-peer mentoring programme
+    - Life assurance policy at 4x salary
+    - A workplace pension with Standard Life
+    - A 'Bike To Work' scheme
+
+design_image_2:
+  image: "/jobs/images/designer-2.jpg"
+  image_description: "Designer at work"
+
+other_benefits:
+  title: "Other benefits include"
+  content:
+    - Weekly reflection and drinks at our Whines & Cheers session (our Friday evening company retrospective)
+    - Bi-annual reviews
+    - The potential for equity in an Unboxed 'spin-off' product
+    - Monthly 'Linkers & Thinkers' lunches
+    - Your own caricature
+
+process:
+  title: "What next?"
+  text_1: "Send us your CV and, if we think you will make a good team member, we will arrange to meet with you. Here, we are trying to understand what motivates you and get some initial thoughts on how you might fit within our team."
+  text_2: "If we think you will compliment our team, we will invite you into our office to collaborate on a short whiteboard exercise. This gives us the opportunity to see how you uncover constraints to inform design decisions."
+  image: "/jobs/images/designer-3.jpg"
+  image_description: "Designer presenting personas"
 
 design_quote:
   quote: "For me, design is as much about attitude as it is about experience or specific expertise. Great looking visuals and considered user journeys are important but I most enjoy working with designers who are open in their thinking and encourage the team to collectively tackle and solve important problems."
@@ -34,26 +83,36 @@ design_quote:
 
 contact_us:
   title: "Send us your CV"
-  text_1: "Claire is our people gardener. Being a \"gardener\" is Claire's analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. If you are the strategic designer we're looking for, send your CV through to her:"
+  text_1: "Claire is our “people gardener” and she would love to hear from you."
+  text_2: "We like to do the most valuable things first - employing you could be exactly that."
+  text_3: "Send your CV through to Claire at: "
   email: "iwantajob@unboxed.co"
-  text_2: "From there, she'll be in touch. Good luck."
-  image: "/jobs/images/ubxd-gardener.jpg"
-  image_description: "Our gardener at work"
+  text_4: "From there, she'll be in touch. Good luck!"
+  image: "/jobs/images/ubxd-gardener-2.jpg"
+  image_description: "Our gardener"
+
+related:
+  title: "Related"
+  articles:
+    - title: "The five day design sprint with Guy’s & St. Thomas’ NHS Foundation Trust Paediatric Allergy Team"
+      type: "blog"
+      link: "/blog/the-five-day-design-sprint-with-guy-s-st-thomas-nhs-foundation-trust-pediatric-allergy-team"
+
+    - title: "Welcome to the team: Boris Divjak"
+      type: "blog"
+      link: "/blog/welcome-to-the-team-boris-divjak"
+
+    - title: "Shaking up early product development, part 1: Using journey mapping to improve your user journey"
+      type: "blog"
+      link: "/blog/shaking-up-early-product-development-part-1-using-journey-mapping-to-improve-your-user-journey"
 ---
 
-<header class="page-header page-header--bottom-margin">
-  <div class="job-page-header__container">
-    <h1 class="job-page-header__introduction">
-      <a href="/jobs"><%= current_page.data.header.title %></a>
-      <span> / <%= current_page.data.header.subtitle %></span>
-    </h1>
-  </div>
-</header>
+<%= partial 'jobs/page_header' %>
 
 <div class="container" data-header-waypoint>
   <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
         <%= current_page.data.introduction.title %>
       </h2>
 
@@ -63,68 +122,37 @@ contact_us:
       <p class="text-tile__paragraph--with-spacing">
         <%= current_page.data.introduction.text_2 %>
       </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.introduction.image, alt: current_page.data.introduction.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.introduction.image) %>
-    </div>
-  </section>
-
-  <%= image_tag current_page.data.design_image.image, alt: current_page.data.design_image.image_description, class: "full-image", srcset: retina_srcset(current_page.data.design_image.image) %>
-
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
-        <%= current_page.data.description.title %>
-      </h2>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_3 %>
+      </p>
 
       <ul class="text-tile__list">
-        <% current_page.data.description.requirements.each do |requirement| %>
-          <li class="text-tile__list-item">
-            <%= requirement %>
-          </li>
+        <% current_page.data.introduction.requirements.each do |requirement| %>
+            <li class="text-tile__list-item">
+              <%= requirement %>
+            </li>
         <% end %>
       </ul>
     </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.description.image, alt: current_page.data.description.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.description.image) %>
-    </div>
   </section>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.design_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.design_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.design_quote.image %>" alt="<%= current_page.data.design_quote.source %>"/>
-  </blockquote>
+  <%= partial 'jobs/full_image', locals: { section: current_page.data.design_image_1 } %>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
-        <%= current_page.data.contact_us.title %>
-      </h2>
+  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.description } %>
 
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_1 %>
-      </p>
+  <%= partial 'jobs/text_tile', locals: { section: current_page.data.other_requirements } %>
 
-      <p class="text-tile__paragraph--with-spacing">
-        <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
-      </p>
+  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.benefits } %>
 
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_2 %>
-      </p>
-    </div>
+  <%= partial 'jobs/full_image', locals: { section: current_page.data.design_image_2 } %>
 
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
-    </div>
-  </section>
+  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.other_benefits } %>
+
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
+
+  <%= partial 'jobs/quote_image', locals: { section: current_page.data.design_quote } %>
+
+  <%= partial 'jobs/contact_us' %>
+
+  <%= partial 'jobs/related_tiles' %>
 </div>

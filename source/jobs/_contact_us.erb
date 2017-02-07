@@ -1,0 +1,28 @@
+<section class="component">
+  <div class="component__tile text-tile">
+    <h2 class="text-tile__title">
+      <%= current_page.data.contact_us.title %>
+    </h2>
+
+    <p class="text-tile__paragraph--with-spacing">
+      <%= current_page.data.contact_us.text_1 %>
+    </p>
+
+    <p class="text-tile__paragraph--with-spacing">
+      <%= current_page.data.contact_us.text_2 %>
+    </p>
+
+    <p class="text-tile__paragraph--with-spacing">
+      <%= current_page.data.contact_us.text_3 %>
+      <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
+    </p>
+
+    <p class="text-tile__paragraph--with-spacing">
+      <%= current_page.data.contact_us.text_4 %>
+    </p>
+  </div>
+
+  <div class="component__tile image-tile">
+    <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
+  </div>
+</section>
