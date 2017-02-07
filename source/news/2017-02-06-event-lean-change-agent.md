@@ -14,7 +14,7 @@ Based on Richard's 10-year practice of leading change, and the techniques laid o
 
 ![Lean Change Agent 1](http://i1291.photobucket.com/albums/b548/grammccram/Lean%20Change%20Agent%202_zpsia5l33qy.png)
 
-
+<br/>
 # You
 Are you a change-maker taking on the status quo? Do you want to improve your life and those of your co-workers? Do you want to build an organisation that's continually expressing the best possible version of itself?<br/>
 
