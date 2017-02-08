@@ -92,6 +92,17 @@
   }
 }
 
+.text-tile__list--unstyled {
+  @include responsive-text;
+  font-weight: 300;
+  line-height: 1.3em;
+  list-style: none;
+}
+
+.text-tile__list-item--unstyled {
+  padding-bottom: 30px;
+}
+
 .text-tile__paragraph--with-spacing {
   @extend .text-tile__paragraph;
   padding-bottom: 15px;
