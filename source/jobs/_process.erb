@@ -1,4 +1,4 @@
-<section class="component">
+<section class="component jobs-page">
   <div class="component__tile text-tile">
     <h2 class="text-tile__title">
       <%= section.title %>
@@ -7,9 +7,8 @@
     <p class="text-tile__paragraph--with-spacing">
       <%= section.text_1 %>
     </p>
-    <p class="text-tile__paragraph--with-spacing">
-      <%= section.text_2 %>
-    </p>
+
+    <%= Tilt['markdown'].new{ section.text_2 }.render %>
   </div>
 
   <div class="component__tile image-tile">

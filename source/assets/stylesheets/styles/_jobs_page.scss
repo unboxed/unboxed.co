@@ -1,0 +1,22 @@
+.jobs-page {
+  // we need to add an extra styling for <p> tag here since we use Tilt to generate a text content to have a possibility
+  // of putting links into frontmatter. Tilt will generate <p> element without picking up a css class what affects styling
+
+  p {
+    @extend .text-tile__paragraph;
+    padding-bottom: 15px;
+
+    &:last-child {
+      padding-bottom: 0;
+    }
+
+    a {
+      color: $purple;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
