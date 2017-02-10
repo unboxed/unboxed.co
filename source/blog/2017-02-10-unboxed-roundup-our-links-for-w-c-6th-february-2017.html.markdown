@@ -51,5 +51,11 @@ There's also an [SE Daily
 episode](https://softwareengineeringdaily.com/2016/12/16/scale-api-with-lucy-guo-and-alexandr-wang/)
 with an interview for those into podcasts.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Boris D](/people#boris-divjak)
 
+While I didn’t like the movie very much (I thought the story was pretty weak) I did like the music and I still finding
+myself humming bits of it after a week. Also, the colours in the movie were amazing (seriously)!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NS0_AOuBF9A" frameborder="0" allowfullscreen></iframe>
+
+[La La Land - City of Stars](https://www.youtube.com/watch?v=NS0_AOuBF9A)
