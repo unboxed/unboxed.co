@@ -6,11 +6,13 @@ header:
   title: "Join Us"
 
 introduction:
-  title: "Learn. Innovate. Deliver. It's how we roll..."
+  title: "Learn. Innovate. Deliver. Share. It's how we roll..."
   text_1: "We foster an environment in which entrepreneurial thinking can thrive."
   text_2: "We use Innovation Days to build on our own ideas that we are passionate about. Then apply the techniques that we use to incubate these ideas internally. Because without an equity share we know not to expect brilliant ideas to be born."
-  image: "/assets/images/jobs/ubxd-xmas-party.jpg"
-  image_description: "Xmas party at Unboxed office"
+
+unboxed_meeting_image:
+  image: "/assets/images/jobs/unboxed-meeting.jpg"
+  image_description: "Unboxers doing agile retrospective"
 
 roles:
   title: "Roles we are looking to fill"
@@ -41,21 +43,29 @@ offer:
     - Generous conference budget
     - Holiday loyalty and flex bonus
     - A bike to work scheme
-  image: "/assets/images/jobs/weekly-games.jpg"
-  image_description: "Weekly socialising at Unboxed"
+  image: "/assets/images/jobs/agile-retro.jpg"
+  image_description: "Agile retrospective at Unboxed"
 
 alumni_quote:
   quote: "To me Unboxed is distinct in that it gathers and brings to the table a huge pool of great, diversified talent. That seems to be our greatest assets: our people and the way we empower them to create solutions to problems."
   source: "Pedro Moreira, Unboxed Alumnus"
   image: "/assets/images/jobs/pedro-moreira.png"
 
-contact_us:
-  title: "Send us your CV"
-  text_1: "Claire is our people gardener. Being a \"gardener\" is Claire's analogy for cultivating an environment in which our talent can thrive and great ideas grow into products that add more colour to life. She would love to hear from you. Send your CV through to her:"
-  email: "iwantajob@unboxed.co"
-  text_2: "From there, she'll be in touch. Good luck."
-  image: "/jobs/images/ubxd-gardener.jpg"
-  image_description: "Unboxed gardener at work"
+related:
+  title: "Related"
+  articles:
+    - title: "Public sector collaboration with GDS to relaunch Petitions platform for UK citizens"
+      type: "project story"
+      link: "/project-stories/petitions"
+
+    - title: "Welcome to the team: Elena Tanasoiu"
+      type: "blog"
+      link: "/blog/welcome-to-the-team-elena-tanasoiu"
+
+    - title: "Recruitment: Test Driven Candidate Self Selection"
+      type: "blog"
+      link: "/blog/recruitment-test-driven-candidate-self-selection"
+
 ---
 
 <header class="page-header page-header--bottom-margin">
@@ -68,8 +78,8 @@ contact_us:
 
 <div class="container" data-header-waypoint>
   <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
         <%= current_page.data.introduction.title %>
       </h2>
 
@@ -80,11 +90,9 @@ contact_us:
         <%= current_page.data.introduction.text_2 %>
       </p>
     </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.introduction.image, alt: current_page.data.introduction.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.introduction.image) %>
-    </div>
   </section>
+
+  <%= partial 'jobs/full_image', locals: { section: current_page.data.unboxed_meeting_image } %>
 
   <section class="jobs-page-roles">
     <h2 class="jobs-page-roles__title">
@@ -123,7 +131,7 @@ contact_us:
 
   <section class="component">
     <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
+      <h2 class="text-tile__title">
         <%= current_page.data.offer.title %>
       </h2>
 
@@ -141,39 +149,9 @@ contact_us:
     </div>
   </section>
 
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.alumni_quote.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.alumni_quote.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.alumni_quote.image %>" alt="<%= current_page.data.alumni_quote.source %>"/>
-  </blockquote>
+  <%= partial 'jobs/quote_image', locals: { section: current_page.data.alumni_quote } %>
 
-  <section class="component">
-    <div class="component__tile text-tile">
-      <h2 class="text-tile__title--lowercase">
-        <%= current_page.data.contact_us.title %>
-      </h2>
+  <%= partial 'jobs/contact_us' %>
 
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_1 %>
-      </p>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <a href="mailto:<%= current_page.data.contact_us.email %>"><%= current_page.data.contact_us.email %></a>
-      </p>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.contact_us.text_2 %>
-      </p>
-    </div>
-
-    <div class="component__tile image-tile">
-      <%= image_tag current_page.data.contact_us.image, alt: current_page.data.contact_us.image_description, class: "image-tile__image", srcset: retina_srcset(current_page.data.contact_us.image) %>
-    </div>
-  </section>
+  <%= partial 'jobs/related_tiles' %>
 </div>
