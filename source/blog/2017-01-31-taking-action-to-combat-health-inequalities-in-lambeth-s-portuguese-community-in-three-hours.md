@@ -50,6 +50,7 @@ It’s time for individual introductions. Each person stands up to share who the
 - [Certitude](http://www.certitude.org.uk/)
 - [Guy’s & St. Thomas’ Charity](https://www.gsttcharity.org.uk/)
 - [London Community Foundation](http://www.londoncf.org.uk/)
+- Respeito
 
 Introductions done - it’s now time to address why we’re all here, why we’re all sitting together in this room. The driving force behind this is Dr Vikesh Sharma, a GP based in the heart of the Portuguese Community in Stockwell. Vikesh is passionate about wanting to understand the multitude of reasons behind the health inequalities that his patients from the Portuguese Community have been experiencing and wanting to tackle these in a very different way:<br/>
 
