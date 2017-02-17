@@ -43,4 +43,11 @@ machine, it's possible to track the same device across sessions from multiple
 browsers. Tasks make use of the GPU and the installed fonts among other
 features to build profiles.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Lawrence R](/people#lawrence-richards)
+
+It’s been quite warm this week hasn’t it? Is it too early to think that winters finally coming to an end and spring
+(definitely the best season) is soon on the way?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DLDvbnK_Sqk" frameborder="0" allowfullscreen></iframe>
+
+[Recomposed by Max Richter - Vivaldi - The Four Seasons, 1. Spring ](https://www.youtube.com/watch?v=DLDvbnK_Sqk)
