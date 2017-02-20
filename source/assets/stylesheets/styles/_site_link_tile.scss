@@ -6,7 +6,7 @@
   box-sizing: border-box;
   padding: 16px;
   text-decoration: none;
-  min-height: 80px;
+  height: 80px;
 
   &:last-of-type {
     border-bottom: none;
@@ -14,7 +14,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
-    min-height: 160px;
+    height: 160px;
     width: 33.33%;
 
     &:hover {

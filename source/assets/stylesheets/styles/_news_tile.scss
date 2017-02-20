@@ -20,4 +20,10 @@
 
 .news-tile__article-body {
   @extend .blog-medium-tile__article-body;
+  padding-bottom: 14px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 0;
+  }
+
 }
