@@ -38,7 +38,7 @@
     @include flex-direction(column);
     @include justify-content(space-between);
 
-    min-height: 140px;
+    height: 140px;
   }
 }
 
