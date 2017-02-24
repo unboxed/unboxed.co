@@ -19,6 +19,28 @@ good diagram for something that's not easily understood. There's even a [PDF
 version](https://rufflewind.com/img/rust-move-copy-borrow.pdf) for making
 posters to spread the good word.
 
+## Rails 5.1.0.beta1: Loving JavaScript, System Tests, Encrypted Secrets, and more - [Chris H](/people#chris-holmes)
+
+http://weblog.rubyonrails.org/2017/2/23/Rails-5-1-beta1/
+
+The first beta of Rails 5.1 has been released this week and this post details
+the changes. It's really great to see system tests become part of the framework
+and there are lots of changes in JavaScript land with the introduction of Yarn,
+Webpack and JQuery being removed as a dependency and much more.
+
+## The first SHA-1 collision has been found - [Elena](/people#elena-tanasoiu)
+
+https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
+
+According to [Bruce
+Schneier](https://www.schneier.com/blog/archives/2017/02/sha-1_collision.html)
+the first SHA1 collission has been expected for over a decade. Now there's an
+ algorithm to speed up collision generation.
+
+Nine quintillion SHA1 computations and 110 GPU years were needed to arrive at
+ the first collision. Comparatively MD5 can be broken on a smartphone in 30
+  seconds, and traditionally bruteforcing SHA1 would take 12 million GPU years.
+
 ## Making animations from a series of images - [Tom S](/people#tom-sabin)
 
 Using ImageMagick (installable from homebrew), you can do some cool simple
@@ -32,6 +54,19 @@ sequentially:
 
 This creates an `animated.gif` image which loops endlessly and has a delay of
 100 ticks per second. If you want the animation faster then decrease the ticks.
+
+## Image to Image translation in Tensorflow - [Elena](/people#elena-tanasoiu)
+
+http://affinelayer.com/pixsrv/index.html
+
+pix2pix-tensorflow is able analyze a sketch and generate an image of what it
+thinks you were imagining. It works by training on pairs of images (a sketch
+and an outcome).
+
+From the examples given, it seems to be pretty intelligent in realistically
+rendering someone's doodles. It's fun to think that this might become useful
+for people who can't draw but would like to generate decent, believable
+artwork.
 
 ## Here's What TfL Learned From Tracking Your Phone On the Tube - [Charlie](/people#charlie-egan)
 
