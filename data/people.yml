@@ -422,3 +422,15 @@
       link: "https://www.linkedin.com/in/jshmc"
     - name: "Github"
       link: "https://github.com/mcmillan"
+
+- name: "David Henry"
+  short_name: "david-henry"
+  role: "Developer"
+  email: "david.henry"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/dw_henry"
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/david-henry-000b603/"
+    - name: "Github"
+      link: "https://github.com/dwhenry"
