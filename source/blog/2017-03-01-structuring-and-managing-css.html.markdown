@@ -8,6 +8,7 @@ tags:
 - Design
 - Rails
 - Testing
+has_syntax: true
 
 ---
 
@@ -33,7 +34,7 @@ The two combined together is a perfect match. ITCSS provides organisation to the
 
 In practice, this is how ITCSS looks like in a Rails project. We use SASS partials to include files in the order that the CSS architecture dictates.
 
-```CSS
+```scss
 // app/assets/stylesheets/application.scss
 
 // We are following a pattern called ITCSS (Inverted Triangle CSS). ITCSS's
