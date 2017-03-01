@@ -8,7 +8,7 @@
   text-decoration: none;
 
   @include breakpoint($desktop-breakpoint) {
-    height: 464px;
+    height: 495px;
     padding: 0;
   }
 }
@@ -53,7 +53,7 @@ iframe.contact-page-tile__image {
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 464px;
+    min-height: 495px;
     width: 50%;
   }
 }
