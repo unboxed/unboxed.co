@@ -9,9 +9,11 @@ title: 'Event: Kickstarting your innovation to discover and validate new product
 <b>Date:</b> Wednesday 26th April 2017<br/>
 <b>Time:</b> 9.00am – 12.30pm (coffee and warming up from 8.30am)<br/>
 <b>Location:</b> Adam House, 7-10 Adam Street, London, WC2N 6AA<br/>
+<br/>
 
 <a href="https://www.eventbrite.co.uk/e/kickstarting-your-innovation-to-discover-and-validate-new-product-ideas-tickets-32328835417?ref=ebtn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=32328835417" alt="Eventbrite - Kickstarting your innovation to discover and validate new product ideas" /></a>
 
+<br/>
 Innovation can be a tough nut to crack if your organisation has a largely traditional mindset. Ideas for new market-changing products are what teams are striving towards delivering, but these very rarely gather enough momentum to be anything more than just great ideas.<br/>
 
 Time, budget and effort are all used up but the big questions still remain: “What do our customers want from our next product offering?” and “How do we get this into their hands?”.<br/>
