@@ -3,9 +3,9 @@ date: '2017-03-03 10:11 +0000'
 published: true
 title: 'Event: Kickstarting your innovation to discover and validate new product ideas'
 ---
-![Kickstarting your innovation to discover and validate new product ideas](http://i1291.photobucket.com/albums/b548/grammccram/Kickstarting%20your%20innovation%20to%20discover%20and%20validate%20new%20product%20ideas_zpsstinyy5m.png)
+![Kickstarting your innovation to discover and validate new product ideas](http://i1291.photobucket.com/albums/b548/grammccram/Kickstarting%20your%20innovation%20to%20discover%20and%20validate%20new%20product%20ideas1_zpsemc0jvhr.png)
 
-<br/>
+# When and where?
 <b>Date:</b> Wednesday 26th April 2017<br/>
 <b>Time:</b> 9.00am – 12.30pm (coffee and warming up from 8.30am)<br/>
 <b>Location:</b> Adam House, 7-10 Adam Street, London, WC2N 6AA<br/>
@@ -58,7 +58,7 @@ Other speakers include digital leaders from:<br/>
 - Learning & Development
 - IT services
 
-(Other speakers will be revealed as they are confirmed).
+(Other speakers will be revealed as they are confirmed).<br/>
 <br/>
 
 # Get your place
