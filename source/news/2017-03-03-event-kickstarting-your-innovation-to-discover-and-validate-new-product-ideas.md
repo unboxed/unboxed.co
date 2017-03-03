@@ -12,7 +12,7 @@ title: 'Event: Kickstarting your innovation to discover and validate new product
 
 <a href="https://www.eventbrite.co.uk/e/kickstarting-your-innovation-to-discover-and-validate-new-product-ideas-tickets-32328835417?ref=ebtn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=32328835417" alt="Eventbrite - Kickstarting your innovation to discover and validate new product ideas" /></a>
 
-Innovation can be a tough nut to crack if your organisation has a largely traditional mindset. Ideas for new market-changing products is what teams are striving towards delivering, but these very rarely gather enough momentum to be anything more than just great ideas.<br/>
+Innovation can be a tough nut to crack if your organisation has a largely traditional mindset. Ideas for new market-changing products are what teams are striving towards delivering, but these very rarely gather enough momentum to be anything more than just great ideas.<br/>
 
 Time, budget and effort are all used up but the big questions still remain: “What do our customers want from our next product offering?” and “How do we get this into their hands?”.<br/>
 
@@ -58,7 +58,7 @@ Other speakers include digital leaders from:<br/>
 - Learning & Development
 - IT services
 
-(Other speakers will be revealed as they are confirmed).<br/>
+(Speakers will be revealed as they are confirmed).<br/>
 <br/>
 
 # Get your place
