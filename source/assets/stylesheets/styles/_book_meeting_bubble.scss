@@ -22,21 +22,23 @@
       @include transform(rotate(0deg));
       background-color: $white;
       color: $purple;
-      right: -20px;
+      right: -15px;
     }
   }
 }
 
 .book-meeting-bubble__text {
-  display: inline-block;
-  float: left;
-  height: 75px;
-  padding-top: 15px;
-  padding-left: 25px;
-  text-transform: lowercase;
+  @include breakpoint($desktop-breakpoint) {
+    display: inline-block;
+    float: left;
+    height: 75px;
+    padding-top: 15px;
+    padding-left: 25px;
+    text-transform: lowercase;
 
-  &:hover {
-    padding-left: 20px;
-    padding-top: 38px;
+    &:hover {
+      padding-left: 24px;
+      padding-top: 38px;
+    }
   }
 }
