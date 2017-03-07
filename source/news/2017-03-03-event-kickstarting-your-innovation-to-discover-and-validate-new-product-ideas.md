@@ -57,10 +57,15 @@ Speakers include:<br/>
 As Head of Product, Martyn has collaborated with a range of teams and organisations to kickstart innovation and uncover new product ideas. Recent projects include [Pearson](https://unboxed.co/project-stories/pearson), [Reed Learning](https://unboxed.co/project-stories/reed-learning), [SH:24](https://unboxed.co/project-stories/sh24/), [Guy’s & St. Thomas’ NHS Foundation Trust](https://unboxed.co/blog/the-five-day-design-sprint-with-guy-s-st-thomas-nhs-foundation-trust-pediatric-allergy-team/) and Newham Council.<br/>
 <br/>
 
+## [Melissa Sabella](https://www.linkedin.com/in/melissa-sabella-a221575/) - Founder & CEO, [The HoneyComb Works](http://www.thehoneycombworks.com)<br/>
+[@msabella](https://twitter.com/msabella)<br/>
+
+![Melissa Sabella, The Honeycomb Works](http://i1291.photobucket.com/albums/b548/grammccram/316b49ee-0d74-44ac-81ee-34d3c60b68ad_zpsezjhpqlh.png)
+
+<br/>
 Other speakers include digital leaders from:<br/>
 
 - Healthcare
-- Learning & Development
 - IT services
 
 (Speakers will be revealed as they are confirmed).<br/>
