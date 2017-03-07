@@ -79,7 +79,9 @@ offices:
 
           <% if office.calendly_link %>
             <div class="contact-page-address__button-container">
-              <a class="contact-page-address__button" href="<%= office.calendly_link %>" target="_blank">
+              <a class="contact-page-address__button" href="<%= office.calendly_link %>"
+                 onClick="ga('send', 'event', 'Traffic to Other Websites', 'Click', 'Book a Meeting on Calendly');"
+                 target="_blank">
                 <%= office.calendly_link_title %>
               </a>
             </div>
