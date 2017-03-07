@@ -54,6 +54,9 @@ Speakers include:<br/>
 
 ![Martyn Evans, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/f1ee6370-00fd-4f20-9503-055d86aad011_zpswhnuvet6.png)
 
+As Head of Product, Martyn has collaborated with a range of teams and organisations to kickstart innovation and uncover new product ideas. Recent projects include [Pearson](https://unboxed.co/project-stories/pearson), [Reed Learning](https://unboxed.co/project-stories/reed-learning), [SH:24](https://unboxed.co/project-stories/sh24/), [Guy’s & St. Thomas’ NHS Foundation Trust](https://unboxed.co/blog/the-five-day-design-sprint-with-guy-s-st-thomas-nhs-foundation-trust-pediatric-allergy-team/) and Newham Council.<br/>
+<br/>
+
 Other speakers include digital leaders from:<br/>
 
 - Healthcare
