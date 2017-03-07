@@ -61,6 +61,15 @@ As Head of Product, Martyn has collaborated with a range of teams and organisati
 [@msabella](https://twitter.com/msabella)<br/>
 
 ![Melissa Sabella, The Honeycomb Works](http://i1291.photobucket.com/albums/b548/grammccram/316b49ee-0d74-44ac-81ee-34d3c60b68ad_zpsezjhpqlh.png)
+<br/>
+
+
+## [Mike Baddeley](https://www.linkedin.com/in/michael-baddeley-396a962/) - Head of Business Excellence, [Ricoh UK](https://www.ricoh.co.uk/index.html)<br/>
+[@MrBaddeley](https://twitter.com/MrBaddeley)<br/>
+
+![Mike Baddeley, Ricoh UK](http://i1291.photobucket.com/albums/b548/grammccram/701de50a-9e6a-4ee5-b8d7-0f0f82126e59_zpsdpt6ucir.png)
+
+
 
 <br/>
 Other speakers include digital leaders from:<br/>
