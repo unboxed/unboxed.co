@@ -1,0 +1,44 @@
+.book-meeting-bubble {
+  display: none;
+
+  @include breakpoint($desktop-breakpoint) {
+    @include transform(rotate(-90deg));
+    background-color: $purple;
+    border-radius: 110px;
+    border: 1px solid $purple;
+    box-sizing: border-box;
+    color: $white;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: 300;
+
+    position: fixed;
+    height: 110px;
+    width: 110px;
+    top: 380px;
+    right: -55px;
+
+    &:hover {
+      @include transform(rotate(0deg));
+      background-color: $white;
+      color: $purple;
+      right: -15px;
+    }
+  }
+}
+
+.book-meeting-bubble__text {
+  @include breakpoint($desktop-breakpoint) {
+    display: inline-block;
+    float: left;
+    height: 75px;
+    padding-top: 15px;
+    padding-left: 25px;
+    text-transform: lowercase;
+
+    &:hover {
+      padding-left: 24px;
+      padding-top: 38px;
+    }
+  }
+}
