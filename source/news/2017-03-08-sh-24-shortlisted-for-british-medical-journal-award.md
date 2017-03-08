@@ -17,4 +17,4 @@ Originally delivered in partnership with Unboxed, an innovative approach was tak
 
 [Read more about the development of SH:24 here](https://unboxed.co/project-stories/sh24/).<br/>
 
-The BMJ 2017 Awards are due to take place on Thursday 4th May at the Park Plaza Westminster.
+The BMJ 2017 Awards are set to take place on Thursday 4th May at the Park Plaza Westminster.
