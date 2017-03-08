@@ -7,7 +7,7 @@ Online sexual and reproductive health service [SH:24](https://www.sh24.org.uk/) 
 
 ![SH:24 BMJ Awards](http://i1291.photobucket.com/albums/b548/grammccram/SH-24BMJ_zpsbwsg3hb3.jpeg)
 
-Now in their 9th year, the BMJ Awards are the UK’s leading medical awards, recognising and celebrating the inspirational work of healthcare teams across the country. Selected alongside a cohort of inspirational healthcare teams and services, also collaborating and working in and alongside the NHS, SH:24 has made it through to the [60 overall shortlisted teams](http://thebmjawards.bmj.com/83171) and 5 nominations within the ‘Innovation Team’ category.<br/>
+Now in their 9th year, the BMJ Awards are the UK’s leading medical awards, recognising and celebrating the inspirational work of healthcare teams across the country. Selected alongside a cohort of inspirational healthcare teams and services, also collaborating and working in and alongside the NHS, SH:24 has made it through to the [60 overall shortlisted teams](http://thebmjawards.bmj.com/83171) and five nominations within the ‘Innovation Team’ category.<br/>
 
 On the shortlisting, [Chris Howroyd](https://twitter.com/chrishowroyd) - Service Director at SH:24 said:<br/>
 
