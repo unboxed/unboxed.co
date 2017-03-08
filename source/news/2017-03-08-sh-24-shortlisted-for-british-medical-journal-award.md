@@ -13,7 +13,7 @@ On the shortlisting, [Chris Howroyd](https://twitter.com/chrishowroyd) - Service
 
 “We are delighted to have been shortlisted in the ‘Innovation Team’ category at this year’s BMJ Awards. Innovation is at the very heart of SH:24, forming the basis of how this service is succeeding in helping more and more people, so to be recognised in this area, alongside so many other groundbreaking public services, is a great honour.”<br/>
 
-Originally delivered in partnership with Unboxed, an innovative approach was taken to tackle rising STI rates across the London boroughs of Lambeth and Southwark. With diagnosis rates of 3,209.7 per 100,000 residents (Lambeth) and 2,199.4 per 100,000 residents (Southwark), these areas were experiencing some of the highest rates across Europe. Through collaborating to validate and deliver this user-led service to help reduce these numbers, the SH:24 service has now been scaled up and rolled out across further areas of the UK.<br/>
+Originally delivered in partnership with Unboxed, an innovative approach was taken to tackle rising STI rates across the London boroughs of Lambeth and Southwark. At the time, with diagnosis rates of 3,209.7 per 100,000 residents (Lambeth) and 2,199.4 per 100,000 residents (Southwark), these areas were experiencing some of the highest rates across Europe. Through collaborating to validate and deliver this user-led service to help reduce these numbers, the SH:24 service has now been scaled up and rolled out across further areas of the UK.<br/>
 
 [Read more about the development of SH:24 here](https://unboxed.co/project-stories/sh24/).<br/>
 
