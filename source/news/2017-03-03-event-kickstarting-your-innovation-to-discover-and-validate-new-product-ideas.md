@@ -75,7 +75,6 @@ As Head of Product, Martyn has collaborated with a range of teams and organisati
 ![Bob Cook, Guy's & St. Thomas' NHS Foundation Trust](http://i1291.photobucket.com/albums/b548/grammccram/19060e80-132c-4253-952b-fead089bdcea_zpsbkoepuzz.png)
 <br/>
 
-<br/>
 # Get your place
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=32328835417&ref=etckt" frameborder="0" height="308" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
