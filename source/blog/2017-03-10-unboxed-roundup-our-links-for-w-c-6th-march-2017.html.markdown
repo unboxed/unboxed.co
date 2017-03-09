@@ -24,6 +24,22 @@ of "senior" I want to be.
 
 <small><a name="fn-1">*</a>: delete as appropriate. You can call yourselves whatever you want.  But not ninja-rockstars, m'kay?</small>
 
+## Scrimba - [Charlie](/people#charlie-egan)
+
+https://scrimba.com
+
+This is a tool to create short video demonstrations of simple web 'programs'. Sort of like [asciinema](https://asciinema.org) only more... webby?
+
+## Google Cloud Container Builder - [Charlie](/people#charlie-egan)
+
+https://cloudplatform.googleblog.com/2017/03/Google-Cloud-Container-Builder-a-fast-and-flexible-way-to-package-your-software.html
+
+I spent a few innovation days playing with various container-based continuous
+deployment tools last year. I played with both [Wercker](http://www.wercker.com)
+and [Distelli](https://www.distelli.com) but found both had their quirks when deploying
+to a GCE cluster. I've yet to play with GCCB but hopefully better ease of use will
+come from the closer integration.
+
 ## Track of the Week - [](/people#)
 
 <iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
