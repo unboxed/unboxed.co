@@ -40,6 +40,12 @@ and [Distelli](https://www.distelli.com) but found both had their quirks when de
 to a GCE cluster. I've yet to play with GCCB but hopefully better ease of use will
 come from the closer integration.
 
+## Faster RSpec - [Elena T](/people#elena-tanasoiu)
+
+https://www.wetestrails.com/blog/profiling-factorygirl
+
+I found this article interesting because it describes how you can use a profiling tool to optimize your usage of FactoryGirl. The tool is called, unsurprisingly, FactoryGirlProfiler. It allows you to see which factories are taking up the most time, and hopefully give you a better picture of your usage.
+
 ## Track of the Week - [Matt T](/people#matt-turrell)
 
 This is one of my faves at the moment, I love it because it's uplifting and hints at summer fun!
