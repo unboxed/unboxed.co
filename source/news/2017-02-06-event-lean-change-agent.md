@@ -7,7 +7,7 @@ We are partnering with management pioneer [Richard Atherton](http://richardather
 
 Based on Richard's 10-year practice of leading change, and the techniques laid out in the seminal book [Lean Change Management](http://leanchange.org/lean-change-management/), you will discover powerful practices for introducing, and managing, change. You will learn hands-on, focussing on real obstacles in your business. Along the way Richard will share real-life examples of how he has effected Lean/Agile transformation across the enterprise.<br/>
 
-<b>Date:</b> Wednesday 19th & Thursday 20th April 2017<br/>
+<b>Date:</b> Thursday 20th and Friday 21st April 2017<br/>
 <b>Location:</b> Unboxed, 17 Blossom Street, London, E1 6PL<br/>
 
 <a href="https://www.picatic.com/lean-change-agent-london-april?utm_source=promotion&utm_medium=button&utm_campaign=100620" target="_blank"> <img border="0" src="https://www.picatic.com/img/picatic-buy-button-grey.png" alt="Buy Tickets For This Event" /> </a>
