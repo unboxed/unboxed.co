@@ -21,8 +21,10 @@ https://github.com/rust-lang/cargo/blob/d8159308bde4f3a3ad20a67fb80a6956a64d91d2
 
 Rust 1.16 was [announced yesterday](https://blog.rust-lang.org/2017/03/16/Rust-1.16.html) with various interesting changes. `cargo check` is a tool to validate the correctness of a program is now built into Cargo; Rust's build system and package manager. Cargo check is interesting as it saves time by not building the program's binary. Coupled with Rust's compiler messages I thought this sounded pretty useful.
 
-## Track of the Week - []()
+## Track of the Week - [Paula S](/people#paula-stepinska)
 
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+Here's to my Unboxed friends! Thank you for a great 2.5 years journey :)
 
-[]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nr90nbqxuZk" frameborder="0" allowfullscreen></iframe>
+
+[Justice vs Simian - We Are Your Friends](https://www.youtube.com/watch?v=nr90nbqxuZk)
