@@ -68,6 +68,9 @@ Beginning with the concepts around Point #3 of the Service Standard, we’re bro
 ![LGDSS TeaCamp - Lean Startup](http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-1_zpsenzkc1c6.png)
 <br/>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Be open. Share what you&#39;re doing all the time. <a href="https://twitter.com/martynrevans">@martynrevans</a> <a href="https://twitter.com/LocalGovDigital">@LocalGovDigital</a> <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/A4ycygxNyI">pic.twitter.com/A4ycygxNyI</a></p>&mdash; LoGov (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/842417304289832960">March 16, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">So what does agile look like in a real environment? Sharing experiences is the team from <a href="https://twitter.com/NewhamLondon">@NewhamLondon</a>. <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/eZYrUkzIUq">pic.twitter.com/eZYrUkzIUq</a></p>&mdash; LoGov (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/842420308590116866">March 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -97,7 +100,6 @@ The conversation is continuing to flow. The first person from the audience has a
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/desire_line">@desire_line</a> talking about how <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> has improved relationships between teams <a href="https://twitter.com/camdentalking">@camdentalking</a> <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/QQn6Q2zeYY">pic.twitter.com/QQn6Q2zeYY</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/842422892457558017">March 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Good question about how you identify user needs when you&#39;re not delivering public services <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/LocalGovDigital">@LocalGovDigital</a> <a href="https://t.co/EpwJojJsKp">pic.twitter.com/EpwJojJsKp</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/842433603069968386">March 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
