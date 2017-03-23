@@ -10,8 +10,10 @@ tags:
   - Lean
 main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-2_zpswz2ghl56.png'
 ---
+<br/>
 ![LGDSS TeaCamp](http://i1291.photobucket.com/albums/b548/grammccram/lgd_logo_zpsoqkdlbap.png)
 
+<br/>
 As a network for digital practitioners in local government, [LocalGov Digital](http://localgovdigital.info) is on a mission to raise standards in web provision and the use of digital by councils across the country.<br/>
 
 Through releasing the [Local Government Digital Service Standard](http://localgovdigital.info/assets/documents/local-government-digital-service-standard.pdf), this aims to suggest a common approach for local authorities to deliver good quality, user centered, value for money digital services. With the Standard set in place, the focus is now on raising awareness across individual councils.<br/>
