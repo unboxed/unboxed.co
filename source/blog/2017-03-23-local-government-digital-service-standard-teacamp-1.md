@@ -32,7 +32,7 @@ After half an hour of sipping tea, devouring cake and meeting people around the 
 <br/>
 
 # Introductions
-Introducing the session is [Natalie Taylor](https://twitter.com/NatalieRobson) from City Hall and [Joshua Mouldey](https://twitter.com/desire_line) from Camden Council. Natalie and Joshua are the faces behind the London Peer Group, as the committee co-chairs for this region, pioneering the LGDSS TeaCamp from initial early idea to the reality of this afternoon.<br/>
+Introducing this afternoon's session are [Natalie Taylor](https://twitter.com/NatalieRobson) from City Hall and [Joshua Mouldey](https://twitter.com/desire_line) from Camden Council. Natalie and Joshua are the faces behind the London Peer Group, as the committee co-chairs for this region, pioneering the LGDSS TeaCamp from initial early idea to the reality of this afternoon.<br/>
 
 ![LGDSS TeaCamp - Natalie Taylor introduction](http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-2_zpswz2ghl56.png)
 
@@ -120,4 +120,3 @@ Having had more than my fair share of tea this afternoon, it’s now time to hea
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">A very pleasant evening discussing agile in local councils with the new <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> gang. Thanks for the invite <a href="https://twitter.com/NatalieRobson">@NatalieRobson</a> and <a href="https://twitter.com/desire_line">@desire_line</a></p>&mdash; Martyn Evans (@martynrevans) <a href="https://twitter.com/martynrevans/status/842457447876952064">March 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
