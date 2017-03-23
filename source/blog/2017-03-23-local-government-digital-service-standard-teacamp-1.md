@@ -10,6 +10,8 @@ tags:
   - Lean
 main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-2_zpswz2ghl56.png'
 ---
+![LGDSS TeaCamp](http://i1291.photobucket.com/albums/b548/grammccram/lgd_logo_zpsoqkdlbap.png)
+
 As a network for digital practitioners in local government, [LocalGov Digital](http://localgovdigital.info) is on a mission to raise standards in web provision and the use of digital by councils across the country.<br/>
 
 Through releasing the [Local Government Digital Service Standard](http://localgovdigital.info/assets/documents/local-government-digital-service-standard.pdf), this aims to suggest a common approach for local authorities to deliver good quality, user centered, value for money digital services. With the Standard set in place, the focus is now on raising awareness across individual councils.<br/>
@@ -70,6 +72,7 @@ Beginning with the concepts around Point #3 of the Service Standard, we’re bro
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Colleagues from Newham Council talking about their positive experiences <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> working and how valuable it is to focus on the users <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/Y0CDFMX339">pic.twitter.com/Y0CDFMX339</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/842421475613253632">March 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 Question time has arrived:<br/>
 
 - “How has your day-to-day role at Newham changed since adopting an agile way of working?”
@@ -88,12 +91,15 @@ The conversation is continuing to flow. The first person from the audience has a
 - Improving relationships between different teams and stakeholders
 - How to get the right people aboard and where to find them
 
+<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/desire_line">@desire_line</a> talking about how <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> has improved relationships between teams <a href="https://twitter.com/camdentalking">@camdentalking</a> <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/QQn6Q2zeYY">pic.twitter.com/QQn6Q2zeYY</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/842422892457558017">March 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Good question about how you identify user needs when you&#39;re not delivering public services <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://twitter.com/hashtag/agile?src=hash">#agile</a> <a href="https://twitter.com/LocalGovDigital">@LocalGovDigital</a> <a href="https://t.co/EpwJojJsKp">pic.twitter.com/EpwJojJsKp</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/842433603069968386">March 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 We’ve gone from Martyn, Dawn and Daniel to whole new panels of attendees, all ready and eager to share their experiences and ask the questions that are preying on their minds. It’s fantastic to have such a wide variety of examples, all from different perspectives and varying stages in their agile journeys.<br/>
 
 The fishbowl has been busy. Further topics have ranged from using suppliers to upskill existing teams, to central digital team running master classes for the rest of the business, to upskilling developers using open source communities for support.<br/>
@@ -103,6 +109,7 @@ Without realising it, the time has been flying - it’s almost 6 o’clock. It�
 With introductions made to this new network of pioneers, and a starting point created for the ongoing conversation around Point #3 of the Service Standard, the beginnings of the London Peer Group TeaCamp have formed. It's going to be exciting to see how this progresses across the next few months.<br/>
 
 Having had more than my fair share of tea this afternoon, it’s now time to head on upstairs to begin #BeerCamp.<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Lots of interesting stuff about how agile is being used at councils (and the challenges of introducing it) at today&#39;s <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> tea camp.</p>&mdash; Rob Miller (@RobMiller31) <a href="https://twitter.com/RobMiller31/status/842515327003086848">March 16, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
