@@ -39,6 +39,12 @@ https://gist.github.com/tomsabin/652be7272c9829bde9f4409e95ae57bd
 
 Sometimes you need to be switching sessions in your spec, perhaps to check that a change to one view does not impact another. Capybara allows us to create new sessions easily with `Capybara.session_name = :foo`. This little helper allows you write blocks of code that are executed in an independent session and switches you back to the main, default, session. Make use of it as you see fit!
 
+## Recruiting Right - [Claire K](/people#claire-kemp)
+
+https://github.com/poteto/hiring-without-whiteboards
+
+There have been a couple of links flying around over the last week or so related to how recruitment processes in companies are broken. What we actually want is to have as many conversations about the good stuff a candidate can do as possible. We also want to give that candidate enough information about us to enable them to make better choices. Which is why we send detailed feedback on their coding test, regardless of whether or not we progress. It seems that these companies try to do similar things.
+
 ## Git Standup - [Charlie E](/people/charlie-egan)
 
 https://github.com/kamranahmedse/git-standup
