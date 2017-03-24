@@ -51,8 +51,9 @@ https://stackoverflow.com/insights/survey/2017
 
 Thought it was worth posting this; some interesting bits in there (Rust and Smalltalk as 'most loved'; developers using Windows - even if there's likely to be something of a .Net skew)
 
-## Track of the Week - []()
+## Track of the Week - [Gram](/people#graeme-mccubbin)
 
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
+I was going to choose a Janet Jackson song. But as it's Paula's last day (sob), I've gone for a [Paula](/people#paula-stepinska) classic!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N4d7Wp9kKjA" frameborder="0" allowfullscreen></iframe>
 
-[]()
+[David Bowie - Let's Dance](https://www.youtube.com/watch?v=N4d7Wp9kKjA)
