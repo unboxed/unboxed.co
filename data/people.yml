@@ -207,18 +207,6 @@
     - name: "GitHub"
       link: "https://github.com/spannerinworks"
 
-- name: "Grant Speelman"
-  short_name: "grant-speelman"
-  role: "Developer"
-  email: "grant.speelman"
-  bio: |
-    Unboxed Consulting is exactly that - Unboxed. Innovative and fresh. Up-to-date Ruby developments and energized team work keeps me inspired and motivated. Making the shift to work here, has allowed me to be at the forefront of professional development and the expansion of my career choice. True to my personality, at this company room is made for some serious work, some serious play and cutting edge programming / mobile development.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/gspeelman"
-    - name: "GitHub"
-      link: "https://github.com/grantspeelman"
-
 - name: "Concetta Isolano"
   short_name: "concetta-isolano"
   role: "Developer"
@@ -358,7 +346,6 @@
   bio: |
     Over the last five years I’ve been fortunate enough to work on some interesting and complex problems with great people and my passion for development has continued to grow. Here at Unboxed I'm working alongside talented, like minded people and learning new things every day. When I’m not at my machine I can usually be found by a lake fishing for carp.
 
-
 - name: "Lloyd Africa"
   short_name: "lloyd-africa"
   role: "Developer"
@@ -410,18 +397,6 @@
   short_name: "tom-gladhill"
   role: "Developer"
   email: "tom.gladhill"
-
-- name: "Josh McMillan"
-  short_name: "josh-mcmillan"
-  role: "Developer"
-  email: "josh.mcmillan"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/jshmc"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/jshmc"
-    - name: "Github"
-      link: "https://github.com/mcmillan"
 
 - name: "David Henry"
   short_name: "david-henry"
