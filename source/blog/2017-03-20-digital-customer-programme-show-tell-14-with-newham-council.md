@@ -1,6 +1,6 @@
 ---
 date: '2017-03-20 09:47 +0000'
-published: true
+published: false
 title: 'Digital Customer Programme: Show & Tell #14 with Newham Council'
 authors:
   - Graeme McCubbin
@@ -117,4 +117,3 @@ As well as live testing, the team has been:<br/>
 <br/>
 # Come along to a Show & Tell
 If you work within a local government team and would like to come along to one of the Show & Tell sessions at Newham Council, get in touch with Martyn (our Head of Product) by emailing [martyn.evans@unboxed.co](mailto: martyn.evans@unboxed.co) to attend as our guest.
-
