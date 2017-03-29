@@ -57,22 +57,21 @@ Speakers include:<br/>
 As Head of Product, Martyn has collaborated with a range of teams and organisations to kickstart innovation and uncover new product ideas. Recent projects include [Pearson](https://unboxed.co/project-stories/pearson), [Reed Learning](https://unboxed.co/project-stories/reed-learning), [SH:24](https://unboxed.co/project-stories/sh24/), [Guy’s & St. Thomas’ NHS Foundation Trust](https://unboxed.co/blog/the-five-day-design-sprint-with-guy-s-st-thomas-nhs-foundation-trust-pediatric-allergy-team/) and Newham Council.<br/>
 <br/>
 
-## [Melissa Sabella](https://www.linkedin.com/in/melissa-sabella-a221575/) - Founder & CEO, [The HoneyComb Works](http://www.thehoneycombworks.com)<br/>
+## [Melissa Sabella](https://www.linkedin.com/in/melissa-sabella-a221575/) - Founder & CEO, [The Honeycomb Works](http://www.thehoneycombworks.com)<br/>
 [@msabella](https://twitter.com/msabella)<br/>
 
 ![Melissa Sabella, The Honeycomb Works](http://i1291.photobucket.com/albums/b548/grammccram/316b49ee-0d74-44ac-81ee-34d3c60b68ad_zpsezjhpqlh.png)
 <br/>
 
-
-## [Mike Baddeley](https://www.linkedin.com/in/michael-baddeley-396a962/) - Head of Business Excellence, [Ricoh UK](https://www.ricoh.co.uk/index.html)<br/>
-[@MrBaddeley](https://twitter.com/MrBaddeley)<br/>
-
-![Mike Baddeley, Ricoh UK](http://i1291.photobucket.com/albums/b548/grammccram/701de50a-9e6a-4ee5-b8d7-0f0f82126e59_zpsdpt6ucir.png)
-<br/>
-
 ## [Bob Cook](https://www.linkedin.com/in/bob-cook-3307a934/) - General Manager, [Guy's & St. Thomas' NHS Foundation Trust](http://www.guysandstthomas.nhs.uk/Home.aspx)<br/>
 
 ![Bob Cook, Guy's & St. Thomas' NHS Foundation Trust](http://i1291.photobucket.com/albums/b548/grammccram/19060e80-132c-4253-952b-fead089bdcea_zpsbkoepuzz.png)
+<br/>
+
+## [Boris Divyak](https://www.linkedin.com/in/borisdivjak/) - Service Designer, [Unboxed](https://www.unboxe.co)<br/>
+[@borisdivjak](https://twitter.com/borisdivjak)<br/>
+
+![Boris Divjak, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/aeb4c9cd-451c-433d-9faa-5a54a986662e_zps7ylopsad.png)
 <br/>
 
 # Get your place
