@@ -49,7 +49,7 @@ Hosted by [Carrie Bedingfield](https://unboxed.co/people#carrie-bedingfield), Fo
 <br/>
 Speakers include:<br/>
 
-## [Martyn Evans](https://unboxed.co/people#martyn-evans) - Head of Product, Unboxed<br/>
+## [Martyn Evans](https://unboxed.co/people#martyn-evans) - Head of Product, [Unboxed](https://www.unboxe.co)<br/>
 [@martynrevans](https://twitter.com/martynrevans)<br/>
 
 ![Martyn Evans, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/f1ee6370-00fd-4f20-9503-055d86aad011_zpswhnuvet6.png)
@@ -67,6 +67,13 @@ As Head of Product, Martyn has collaborated with a range of teams and organisati
 
 ![Bob Cook, Guy's & St. Thomas' NHS Foundation Trust](http://i1291.photobucket.com/albums/b548/grammccram/19060e80-132c-4253-952b-fead089bdcea_zpsbkoepuzz.png)
 <br/>
+
+## [Claire Heenan](https://www.linkedin.com/in/claire-heenan-8255a160/) - New Way of Working Specialist , [Ricoh UK](https://www.ricoh.co.uk/index.html)<br/>
+[@claire_heenan](https://twitter.com/claire_heenan)<br/>
+
+![Claire Heenan, Ricoh UK](http://i1291.photobucket.com/albums/b548/grammccram/09c44a3f-4df2-47c2-9c73-76af9be1abbc_zpsarvquze3.png)
+<br/>
+
 
 ## [Boris Divyak](https://www.linkedin.com/in/borisdivjak/) - Service Designer, [Unboxed](https://www.unboxe.co)<br/>
 [@borisdivjak](https://twitter.com/borisdivjak)<br/>
