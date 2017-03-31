@@ -69,3 +69,11 @@ One of the hardest things in programming is naming things. This article explores
 https://lucatnt.com/2017/02/display-the-currently-playing-track-in-itunesspotify-on-the-touch-bar/
 
 I've been waiting for iTunes/Spotify to release an update so that the currently playing track shows on the Touch Bar. However, this blog post has taught me that by using [Better Touch Tool](https://www.boastr.net/) and Apple Scripts, you can it now along with an awful lot of other stuff. Handy.
+
+## Track of the Week - [Graeme M](www.unboxed.co/people/#graeme-mccubbin)
+
+I was chosen for Track of the Week last Friday, going for a popular David Bowie number. Then due to some internal error (or indication of good taste - however you like to look at it…), I've been nominated for Track of the Week again! I thought this track was a suitable choice, given the situation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CduA0TULnow" frameborder="0" allowfullscreen></iframe>
+
+[Britney Spears - Oops!...I Did It Again](https://www.youtube.com/watch?v=CduA0TULnow)
