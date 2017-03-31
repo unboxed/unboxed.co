@@ -8,11 +8,10 @@ authors:
 tags:
   - Rails
   - Innovation
+  - Testing
 has_syntax: true
 main_image: http://i.imgur.com/mhu8lOx.png
 ---
-
-# Running ActionCable behind Elastic Load Balancers on AWS
 
 We were recently tasked with adding a feature that showed the status of a IoT
 device as it changed. It was important that the status page updated quickly;
