@@ -145,7 +145,7 @@ environments on AWS: app instances were spawned into an _Auto Scaling Group_
 (as per a launch configuration) which was in turn connected to an Elastic Load
 Balancer. Here's a simplified example of how this was setup in Terraform:
 
-```terraform
+```tf
 resource "aws_elb" "default" {
   name = "elb-${var.environment}"
   ...
@@ -172,7 +172,7 @@ spawned into Auto Scaling Groups but this is now connected to an ALB
 _Target Group_ instead of an ELB. This _Target Group_ is connected to the
 listeners of a new ALB - which looks something like this in Terraform:
 
-```terraform
+```tf
 resource "aws_alb" "default" {
   name = "alb-${var.environment}"
   ...
