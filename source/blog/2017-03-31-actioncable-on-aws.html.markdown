@@ -141,7 +141,7 @@ WebSocket connection to 'wss://example.com/cable/' failed: Error during WebSocke
 ```
 
 Before adding ActionCable, we had this setup for our
-environments on AWS: app instances were spawned into an _Auto Scaling Group_
+environments on AWS: app instances were spawned into an *Auto Scaling Group*
 (as per a launch configuration) which was in turn connected to an Elastic Load
 Balancer. Here's a simplified example of how this was setup in Terraform:
 
@@ -169,7 +169,7 @@ resource "aws_launch_configuration" "app" {
 We needed to change this to use an ALB to for our ActionCable feature to work.
 After upgrading, our AWS environments are setup as follows; instances are still
 spawned into Auto Scaling Groups but this is now connected to an ALB
-_Target Group_ instead of an ELB. This _Target Group_ is connected to the
+*Target Group* instead of an ELB. This *Target Group* is connected to the
 listeners of a new ALB - which looks something like this in Terraform:
 
 ```tf
