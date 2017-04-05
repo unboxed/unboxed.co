@@ -62,7 +62,7 @@ As Head of Product, Martyn has collaborated with a range of teams and organisati
 
 ![Melissa Sabella, The Honeycomb Works](http://i1291.photobucket.com/albums/b548/grammccram/316b49ee-0d74-44ac-81ee-34d3c60b68ad_zpsezjhpqlh.png)
 
-Twelve years in Product and Innovation at [Pearson](https://www.pearson.com/uk/) US and UK, working in markets across the world, has given Melissa a global perspective and an acute understanding of how innovation happens in large organisations. Throughout her career, she has been focused on learning with impact through scientific design, digital intervention and cutting edge content. In 2016, Melissa founded The Honeycomb Works, a development partner for organisations who need to drive behavioural change for business transformation.
+Twelve years in Product and Innovation at [Pearson](https://www.pearson.com/uk/) US and UK, working in markets across the world, has given Melissa a global perspective and an acute understanding of how innovation happens in large organisations. Throughout her career, she has been focused on learning with impact through scientific design, digital intervention and cutting edge content. In 2016, Melissa founded The Honeycomb Works, a development partner for organisations who need to drive behavioural change for business transformation.<br/>
 <br/>
 
 ## [Bob Cook](https://www.linkedin.com/in/bob-cook-3307a934/) - General Manager, [Guy's & St. Thomas' NHS Foundation Trust](http://www.guysandstthomas.nhs.uk/Home.aspx)<br/>
@@ -82,7 +82,7 @@ Twelve years in Product and Innovation at [Pearson](https://www.pearson.com/uk/)
 
 ![Boris Divjak, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/aeb4c9cd-451c-433d-9faa-5a54a986662e_zps7ylopsad.png)
 
-Boris is a service designer with over 12 years of experience in creating innovative and ground-breaking digital products and services. From working with digital startups through to studios and agencies, he collaborates on projects around digital, service and platform design. In recent years, Boris has worked on a number of social innovation projects, aiming to leverage service design and design thinking to solve social problems. More recently, he has been working alongside the Digital Team at [Newham Council](https://www.newham.gov.uk/) on their Digital Customer Programme.
+Boris is a service designer with over 12 years of experience in creating innovative and ground-breaking digital products and services. From working with digital startups through to studios and agencies, he collaborates on projects around digital, service and platform design. In recent years, Boris has worked on a number of social innovation projects, aiming to leverage service design and design thinking to solve social problems. More recently, he has been working alongside the Digital Team at [Newham Council](https://www.newham.gov.uk/) on their Digital Customer Programme.<br/>
 <br/>
 
 # Get your place
