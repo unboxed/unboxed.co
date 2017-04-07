@@ -9,7 +9,6 @@ tags:
 main_image: 'http://i.imgur.com/RjCt9QL.png'
 ---
 I was with a developer friend recently who asked to pick my mind on an agile challenge he’s been experiencing at work.<br/>
-<br/>
 
 <b>The problem:</b> how do you deal with the time lag between Dev and QA, leading to devs twiddling their thumbs at the end of the sprint. Their solution, do the testing in the following sprint.<br/>
 
