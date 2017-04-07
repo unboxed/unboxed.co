@@ -52,7 +52,7 @@ Previous snippets have included:<br/>
 # How do I take part?
 Taking part is simple:<br/>
 
-- Register for your place
+- [Register for your place](https://www.eventbrite.co.uk/e/may-meetup-faster-than-lightning-code-talks-tickets-33521133613)
 - Submit a short snippet of code or slide before the meetup to neil.van.beinum@unboxed.co
 - Chat about your slide to the room for around 3+ minutes on the big screen
 - Open this up to group discussion
