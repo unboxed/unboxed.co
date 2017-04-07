@@ -1,6 +1,6 @@
 ---
 date: '2017-04-06 16:40 +0100'
-published: false
+published: true
 title: 'Testing in the sprint following development, should you do it?'
 authors:
   - Matt Turrell
@@ -53,7 +53,7 @@ Working like this will minimise the bugs found if there does end up being a hand
 # Visibility ASAP
 The earlier your PO has sight of the functionality, the earlier everyone’s expectations are aligned, helping to minimise last minute surprises when (s)he’s running through stories to sign them off. A good way of doing this is to ask the team to demonstrate functionality to the PO before completing pull requests. It may not be the whole user story, but it shows where it’s going early on.<br/>
 
-![Demonstrating functionality](http://i.imgur.com/ih8F7T2.png)
+![Demonstrating functionality](http://i.imgur.com/5DxzGT7.png)
 
 <br/>
 # Granularity
