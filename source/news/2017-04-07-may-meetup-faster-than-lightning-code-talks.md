@@ -7,7 +7,7 @@ title: 'May Meetup: ‘Faster than Lightning’ code talks'
 
 Join us on <b>Thursday 11th May</b> for next ‘Faster than Lightning’ session - our informal meetup where developers present and share small snippets of code or workflow tips for discussion.<br/>
 
-<b>Date:</b> Thursday 11th May<br/>
+<b>Date:</b> Thursday 11th May 2017<br/>
 <b>Time:</b> 19:00 - 20:00 (beer, pizza and chat from 18:30)<br/>
 <b>Location:</b> Unboxed HQ, 17 Blossom Street, London, E1 6PL<br/>
 <br/>
