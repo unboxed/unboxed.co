@@ -1,6 +1,6 @@
 ---
 date: '2017-04-07 10:31 +0100'
-published: false
+published: true
 title: 'May Meetup: ‘Faster than Lightning’ code talks'
 ---
 ![May meetup: Faster than Lighting](http://i.imgur.com/YdPnJDR.png)
@@ -11,11 +11,13 @@ Join us on <b>Thursday 11th May</b> for next ‘Faster than Lightning’ session
 <b>Time:</b> 19:00 - 20:00 (beer, pizza and chat from 18:30)<br/>
 <b>Location:</b> Unboxed HQ, 17 Blossom Street, London, E1 6PL<br/>
 
+<a href="https://www.eventbrite.co.uk/e/may-meetup-faster-than-lightning-code-talks-tickets-33521133613?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=33521133613" alt="Eventbrite - May Meetup: ‘Faster than Lightning’ code talks" /></a>
 
+<br/>
 # What is ‘Faster than Lightning’?
 This is a series of very short (suggested up to around three minutes) and informal talks, based around a snippet of code that you found interesting or a tip about something that makes your life easier as a developer. We ask that each submission fits onto a single slide. Each talk is then followed by a casual chat within a friendly group.<br/>
 
-![FTL](http://i.imgur.com/2mLmiMv.png?1)
+![May meetup : Faster than Lighting 2](http://i.imgur.com/2mLmiMv.png?1)
 
 (Please note: we will do our very, very best to allow everyone who submitted a snippet to present, but in order to keep the session within the allocated time (an 8pm finish), some attendees may have to leave if we carry over this time).<br/>
 
@@ -51,9 +53,11 @@ Taking part is simple:<br/>
 - Chat about your slide to the room for around 3+ minutes on the big screen
 - Open this up to group discussion
 - Sit back, drink beer, eat pizza, and enjoy the other submissions and chats
+<br/>
 
-![May meetup 3: Faster than Lighting](http://i.imgur.com/tW4vUUb.png)
+# Get your place
 
+<div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=33521133613&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
 
-
-
+<br/>
+![May meetup: Faster than Lighting 3](http://i.imgur.com/tW4vUUb.png)
