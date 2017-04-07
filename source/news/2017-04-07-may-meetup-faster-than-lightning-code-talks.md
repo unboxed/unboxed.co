@@ -10,6 +10,7 @@ Join us on <b>Thursday 11th May</b> for next ‘Faster than Lightning’ session
 <b>Date:</b> Thursday 11th May<br/>
 <b>Time:</b> 19:00 - 20:00 (beer, pizza and chat from 18:30)<br/>
 <b>Location:</b> Unboxed HQ, 17 Blossom Street, London, E1 6PL<br/>
+<br/>
 
 <a href="https://www.eventbrite.co.uk/e/may-meetup-faster-than-lightning-code-talks-tickets-33521133613?ref=ebtnebregn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=33521133613" alt="Eventbrite - May Meetup: ‘Faster than Lightning’ code talks" /></a>
 
@@ -19,7 +20,7 @@ This is a series of very short (suggested up to around three minutes) and inform
 
 ![May meetup : Faster than Lighting 2](http://i.imgur.com/2mLmiMv.png?1)
 
-(Please note: we will do our very, very best to allow everyone who submitted a snippet to present, but in order to keep the session within the allocated time (an 8pm finish), some attendees may have to leave if we carry over this time).<br/>
+<i>(Please note: we will do our very, very best to allow everyone who submitted a snippet to present, but in order to keep the session within the allocated time (an 8pm finish), some attendees may have to leave if we carry over this time).</i><br/>
 
 Here’s some more information about submissions:<br/>
 
@@ -29,6 +30,7 @@ Here’s some more information about submissions:<br/>
 - Your snippet can be something that you thought was good or something that you think could be improved (or something you’re having trouble with and you would like help with)
 - The order of submissions is random and we will keep having presenters until we run out or 8pm, whichever is sooner
 
+<br/>
 Previous snippets have included:<br/>
 
 - A Rails view partial
@@ -37,6 +39,7 @@ Previous snippets have included:<br/>
 - A puppet server configuration file
 - A single line of Ruby code in IRB
 
+<br/>
 … and many more. More detailed examples can be seen in the blogs of past events:<br/>
 
 - [Faster than Lightning: November's Developer Event](https://unboxed.co/blog/faster-than-lightning-november-s-developer-event/)
@@ -45,6 +48,7 @@ Previous snippets have included:<br/>
 - [Faster than Lightning: May’s Developer Event](https://unboxed.co/blog/faster-than-lightning-may-s-monthly-developer-event/)
 <br/>
 
+<br/>
 # How do I take part?
 Taking part is simple:<br/>
 
@@ -55,6 +59,7 @@ Taking part is simple:<br/>
 - Sit back, drink beer, eat pizza, and enjoy the other submissions and chats
 <br/>
 
+<br/>
 # Get your place
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=33521133613&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
