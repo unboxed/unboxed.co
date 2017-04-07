@@ -25,6 +25,7 @@ One of the main benefits of Scrum is that during each sprint, you’re producing
 
 ![Scrum board in action](http://i.imgur.com/RjCt9QL.png)
 
+<br/>
 The longer it takes to get that functionality ‘done’, the less agile you’re being.<br/>
 
 It means delays to delivering value, changes becoming stale and requiring refactoring and, perhaps worst of all, it means that the team can’t fully focus on the next thing.<br/>
@@ -45,6 +46,7 @@ Absolutely all team members are responsible for getting stories in the sprint co
 
 ![Developer and tester pairing](http://i.imgur.com/m4zJPRI.png)
 
+<br/>
 Working like this will minimise the bugs found if there does end up being a hand-off between dev and test. The automated tests will all be ready at roughly the same time as ‘code complete’ and only a handful of manual tests should be required.<br/>
 <br/>
 
@@ -52,17 +54,18 @@ Working like this will minimise the bugs found if there does end up being a hand
 The earlier your PO has sight of the functionality, the earlier everyone’s expectations are aligned, helping to minimise last minute surprises when (s)he’s running through stories to sign them off. A good way of doing this is to ask the team to demonstrate functionality to the PO before completing pull requests. It may not be the whole user story, but it shows where it’s going early on.<br/>
 
 ![Demonstrating functionality](http://i.imgur.com/ih8F7T2.png)
-<br/>
 
+<br/>
 # Granularity
 Make stories smaller. There’s almost always a way to make a story smaller, but it can often bring either team members or the PO out of their comfort zone and there may be objections of “there’s no point in implementing these two stories separately as they’re both using the same module of code” or “we can’t deliver the story without this particular functionality”.<br/>
 <br/>
 
-The point of stories is that they’re small, independent and user oriented.<br/>
+The point of stories is that they’re small, independent and user-oriented.<br/>
 
 ![Smaller stories](http://i.imgur.com/tVrarS5.png)
+<br/>
 
-If the team want to implement two stories together as one, remind them that the bigger the piece of work the longer it’ll take, the more testing there is and the more complexity (aka risk of bugs and misinterpretation). In turn that means the story may not get completed in the sprint.<br/>
+If the team want to implement two stories together as one, remind them that the bigger the piece of work the longer it’ll take, the more testing there is and the more complexity (a.k.a. risk of bugs and misinterpretation). In turn that means the story may not get completed in the sprint.<br/>
 
 Even if it means revisiting the same area of code later in the sprint, it’s better to decouple the stories, giving more certainty that they’ll be delivered in the sprint.<br/>
 
