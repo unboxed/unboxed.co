@@ -16,7 +16,9 @@ Join us on <b>Thursday 11th May</b> for next ‘Faster than Lightning’ session
 
 <br/>
 # What is ‘Faster than Lightning’?
-This is a series of very short (suggested up to around three minutes) and informal talks, based around a snippet of code that you found interesting or a tip about something that makes your life easier as a developer. We ask that each submission fits onto a single slide. Each talk is then followed by a casual chat within a friendly group.<br/>
+Faster than Lightning’ is a series of very short and informal talks (around three minutes each), based around a snippet of code that you find interesting and/or conversation-worthy. Each talk is then followed by a casual discussion across the group.<br/>
+
+The idea is to get to know what other developers have been thinking about and doing, with code sharing as a talking point.<br/>
 
 ![May meetup : Faster than Lighting 2](http://i.imgur.com/2mLmiMv.png?1)
 
@@ -25,10 +27,10 @@ This is a series of very short (suggested up to around three minutes) and inform
 Here’s some more information about submissions:<br/>
 
 - Code snippets can be your code or someone else’s, in any programming language, and can be anonymised
-- A workflow tip may take the form of a UI screenshot or terminal command of an app or tool that you use. It may even be something that irritates you and you’d like to hear about how other developers approach it
+- A workflow tip may take the form of a UI screenshot or terminal command of an app or tool that you use - it may even be something that irritates you and you’d like to hear about how other developers approach it
 - There is no such thing as a snippet or tip that is too simple or too basic - you’ll be among a friendly bunch of developers of all different experience levels and specialisms
 - Your snippet can be something that you thought was good or something that you think could be improved (or something you’re having trouble with and you would like help with)
-- The order of submissions is random and we will keep having presenters until we run out or 8pm, whichever is sooner
+- The order of submissions is random and we will keep having presenters until we run out or 8pm approaches - whichever is sooner
 
 <br/>
 Previous snippets have included:<br/>
