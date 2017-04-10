@@ -76,6 +76,8 @@ Twelve years in Product and Innovation at [Pearson](https://www.pearson.com/uk/)
 ![Claire Heenan, Ricoh UK](http://i1291.photobucket.com/albums/b548/grammccram/09c44a3f-4df2-47c2-9c73-76af9be1abbc_zpsarvquze3.png)
 <br/>
 
+Specialising in change mangement, Claire has been part of the Ricoh UK team since 2007. Now as a New Way of Working Specialist, she is part of a large range of projects across this global organisation, more recently the [Ricoh Ignite](https://ignite.ricoh.co.uk/#whatisignite) incubator - a year-long accelerator, based on some of the most advanced business growth methodology on the planet.<br/>
+
 
 ## [Boris Divyak](https://www.linkedin.com/in/borisdivjak/) - Service Designer, [Unboxed](https://www.unboxe.co)<br/>
 [@borisdivjak](https://twitter.com/borisdivjak)<br/>
