@@ -17,7 +17,7 @@ To get things running on your machine:
 
     git clone git@github.com:unboxed/unboxed.co.git
 
-* ###Install Dependencies
+* ### Install Dependencies
     cd ubxd_web_refresh
     bundle install
 
