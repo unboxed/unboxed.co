@@ -409,3 +409,13 @@
       link: "https://www.linkedin.com/in/david-henry-000b603/"
     - name: "Github"
       link: "https://github.com/dwhenry"
+
+- name: "Abraao Mota"
+  short_name: "abraao-mota"
+  role: "Developer"
+  email: "abraao.mota"
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/abraaomota"
+    - name: "Github"
+      link: "https://github.com/abraaomota"
