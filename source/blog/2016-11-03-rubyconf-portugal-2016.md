@@ -26,7 +26,7 @@ He also made a point of how it he often hears "favour composition over inheritan
 
 Later that afternoon [Tobias Pfeiffer](https://twitter.com/pragtob) compared feature of the Phoenix framework and Elixir to that of Rails and Ruby. He ran through some of the language and framework features including pattern matching, compile time macros and doc testing and the benefits of using them.
 
-![Dinner in Braga](http://i1291.photobucket.com/albums/b548/grammccram/rubyconfpt_zps4du5hu88.png)
+![Dinner in Braga](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/df9fccdd8c75372c51f63ce80997f49a.png)
 
 Day two kicked off with [Yehuda Katz](https://twitter.com/wycats) talking about the art of package management, he drew on his experiences with Bundler, Cargo and Yarn to explain what he felt makes for a good local package manager. I was left feeling that we are fortunate to have Bundler and not have to worry about multiple versions of dependencies being available.
 

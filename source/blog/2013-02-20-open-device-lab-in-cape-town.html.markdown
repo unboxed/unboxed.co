@@ -29,7 +29,7 @@ A long time ago, in a city far, far, away (Brighton. Which is far from Cape Town
 
 In the months that followed, [other device labs](http://adactio.com/journal/5622/) started [popping up](http://adactio.com/journal/5767/). I thought this was an amazing idea and started  [Nomad Device Lab](http://devicelab.co.za/) in Cape Town. Andre Jay Meissner started keeping [a list of open device labs across the globe](http://klick-ass.com/awesomeness/avoid-the-tamagotchis-a-list-of-open-device-labs/), and recently, with a little (okay, maybe a lot) of help from his friends, he launched [Open Device Lab dot com](http://opendevicelab.com/).
 
-<img src="https://dl.dropbox.com/u/3831832/device-lab-at-ubxd.jpg" alt="A selection of mobile devices" />
+<img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2e6613f3c4f3415f5abfa23ad772f2fa.jpg" alt="A selection of mobile devices" />
 
 After many months of bouncing around various venues around town, the Nomad Device Lab now has a permanent home at [Unboxed Consulting in Cape Town](/contact). At the time of writing, the lab is the only Open Device Lab in Cape Town. In fact, it's the only one in Africa!
 

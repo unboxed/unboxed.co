@@ -16,7 +16,7 @@ Once you’ve [prioritised your project portfolio using the t-shirt sizing matri
 <h2>Making decisions about Work In Progress (WIP)</h2>
 The theory says you should limit your work in progress, which brings mean delivery time down and allows you to finish off something of value before working on the next feature or project. You <b>may</b> need to deliver several of these in parallel; be honest with yourself and try and deliver as few projects in parallel as you can. Try to get <b>each</b> finished and out into production. It takes discipline and nerves of steel but stopping work on all but a handful of projects (and potentially having some people idle) is more efficient.<br/>
 <br/>
-![blog21](http://i1291.photobucket.com/albums/b548/grammccram/f08a4d9c-e7ed-4dfc-884d-82106a1eb3c2_zpsod2tl0wk.png)
+![blog21](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/8a9dbdd281a7d52022667dc54dd076be.png)
 <br/>
 <br/>
 
@@ -35,7 +35,7 @@ If you are struggling to get things live, maybe you need to make your projects s
 <h2>Make it transparent</h2>
 Be totally transparent in what you do and how you’re doing it. Create a portfolio board of the somewhere in the organisation that everyone can see. Put all your project epics on it so everyone can see what is and isn’t being delivered. Make it clear that there are only a few slots available in the WIP columns.  Everything else needs to wait.<br/>
 <br/>
-![blog22](http://i1291.photobucket.com/albums/b548/grammccram/a5c8074e-3d6d-4480-aead-d1b8aae5774b_zpsvwxzl0t6.png)
+![blog22](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/783f3b175cba59cc8445cf7a066f5388.png)
 <br/>
 <br/>
 

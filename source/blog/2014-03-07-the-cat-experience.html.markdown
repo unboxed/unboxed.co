@@ -8,7 +8,7 @@ tags:
   - Testing
 ---
 
-![Cat](http://i58.tinypic.com/fxb40i.jpg)
+![Cat](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/5f6d300a3c662fade1756585c5b4a8bd.jpg)
 
 As a software tester within an agile environment I ascertained that it is not enough to reduce the project timeframes, discard the documentation and change the requirements document name for a project to be true agile. In order for an agile project to work well it requires a fundamentally different mind-set from everyone involved.
 

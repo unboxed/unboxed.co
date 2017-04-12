@@ -39,7 +39,7 @@ I’ve seen some crazy setups — my favorite and weirdest is probably MailChimp
 
 I ended up going with [Bowmast](http://www.bowmast.com)’s [Mr. Tappy](http://www.mrtappy.com) kit, and I attached a [Logitech HD Pro Webcam C920](http://www.amazon.com/Logitech-Webcam-Widescreen-Calling-Recording/dp/B006JH8T3S/ref=sr_1_1?sr=8-1&ie=UTF8&tag=leavethegreat-20&qid=1422922486) to it. This is what it looks like with a prototype loaded on an iPhone:<br/>
 
-![image1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-27%20at%2014.17.43_zpsxgosgalf.png)
+![image1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2cfacaf4c300d07972929f14c7bc1795.png)
 <br/>
 
 One of the more annoying issues you’ll have to sort out is focus and brightness. With autofocus and automatic brightness adjustment, most cameras are way too smart for this kind of dynamic recording. What ends up on the screen is often blurry and/or awash in a sea of bright light — especially since the user’s fingers are frequently in the way. So you’ll need to download your camera’s OEM software to be able to adjust focus and brightness manually (I used [Logitech’s Camera Settings](https://itunes.apple.com/us/app/logitech-camera-settings/id638332853?mt=12)).<br/>
@@ -64,7 +64,7 @@ The solution we came up with seems like quite a hack, but it ended up working re
 The Silverback recording will now record the desktop (which has the QuickTime viewer on the testing rig camera), as well as a picture-in-picture using the webcam. Voila!
 Here’s what it looks like when it’s all set up and recording:<br/>
 
-![image2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-27%20at%2014.17.53_zpsatmj9wvj.png)
+![image2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3fa66da621cb6739bfc9da6f4c6602d8.png)
 <br/>
 
 With this setup we accomplished all our goals. Everything you see in that photo can easily fit in my backpack so we can take it wherever we want. And since we’re recording all sessions the entire team is able to view the sessions once they’re all done. I do usually make highlight videos, but hey, if someone wants to watch 5 hours of usability testing on a Friday night, who am I to judge!<br/>

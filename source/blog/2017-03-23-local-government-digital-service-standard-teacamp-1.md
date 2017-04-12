@@ -8,10 +8,10 @@ tags:
   - Agile
   - Innovation
   - Lean
-main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-2_zpswz2ghl56.png'
+main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c306939fa559f21a0cde7f04cd0f94ac.png'
 ---
 <br/>
-![LGDSS TeaCamp](http://i1291.photobucket.com/albums/b548/grammccram/lgd_logo_zpsoqkdlbap.png)
+![LGDSS TeaCamp](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c4a4bea8a1a22e4714223fb1075a0bd1.png)
 
 <br/>
 As a network for digital practitioners in local government, [LocalGov Digital](http://localgovdigital.info) is on a mission to raise standards in web provision and the use of digital by councils across the country.<br/>
@@ -34,7 +34,7 @@ After half an hour of sipping tea, devouring cake and meeting people around the 
 # Introductions
 Introducing this afternoon's session are [Natalie Taylor](https://twitter.com/NatalieRobson) from City Hall and [Joshua Mouldey](https://twitter.com/desire_line) from Camden Council. Natalie and Joshua are the faces behind the London Peer Group, as the committee co-chairs for this region, pioneering the LGDSS TeaCamp from initial early idea to the reality of this afternoon.<br/>
 
-![LGDSS TeaCamp - Natalie Taylor introduction](http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-2_zpswz2ghl56.png)
+![LGDSS TeaCamp - Natalie Taylor introduction](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c306939fa559f21a0cde7f04cd0f94ac.png)
 
 <br/>
 Initial introductions done. It’s time to go around the room and introduce who we all are, as individual attendees. As expected, we have a wide range of representatives from across the boroughs of London, including those from:<br/>
@@ -49,7 +49,7 @@ Initial introductions done. It’s time to go around the room and introduce who 
 
 This first TeaCamp is primarily focused around [Point #3 of the Service Standard](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/3/):<br/>
 
-![LGDSS TeaCamp - Point 3](http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-3_zpst6ge9mn5.png)
+![LGDSS TeaCamp - Point 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/5a9c6758e9323c1efcfdbc8dc5c9b5df.png)
 
 <br/>
 We now have one hour to begin exploring how creating a service using the agile, iterative and user-centred methods set out in the Government Service Design Manual can be (and is being) done.<br/>
@@ -60,12 +60,12 @@ Leading a practical introduction to agile ways of working within a local governm
 # Agile working within Newham Council
 Martyn begins by sharing the background into the journey that Newham Council are embarking on, as part of their Digital Customer Programme. Pioneering how they deliver their key services to local residents, the Digital Team are currently heading through their first service redesign to deliver improved services.<br/>
 
-![LGDSS TeaCamp - Martyn, Daniel and Dawn](http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-6_zpsijhoqqvj.png)
+![LGDSS TeaCamp - Martyn, Daniel and Dawn](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/5aa3cebf4d2d0ef71118af10602caf6b.png)
 
 <br/>
 Beginning with the concepts around Point #3 of the Service Standard, we’re brought directly into principles behind agile and Lean Startup, as well as finding out how these concepts are being implemented (and what they look like) within the Newham Council team.<br/>
 
-![LGDSS TeaCamp - Lean Startup](http://i1291.photobucket.com/albums/b548/grammccram/TeaCamp1-1_zpsenzkc1c6.png)
+![LGDSS TeaCamp - Lean Startup](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/d2fa17dd1229d1a3777e210e7d621fbc.png)
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Be open. Share what you&#39;re doing all the time. <a href="https://twitter.com/martynrevans">@martynrevans</a> <a href="https://twitter.com/LocalGovDigital">@LocalGovDigital</a> <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/A4ycygxNyI">pic.twitter.com/A4ycygxNyI</a></p>&mdash; LoGov (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/842417304289832960">March 16, 2017</a></blockquote>

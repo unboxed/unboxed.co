@@ -5,7 +5,7 @@ tags:
   - Agile
   - Culture
   - Innovation
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-01-17%20at%2015.53.24_zpsttstchol.png"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/df47c2e5652440ba9bd585134aad74e0.png"
 date: "2016-01-18 10:27 +0000"
 published: true
 title: "Guest post: Learning in Local Government - Part 2"
@@ -13,7 +13,7 @@ title: "Guest post: Learning in Local Government - Part 2"
 
 <i>Following on from [part one](http://unboxed.co/blog/learning-in-local-government-through-discovery/) in our 'Learning in Local Government through Discovery' series, part two is a guest post by [Helen Gracie](https://twitter.com/HelenJGracie), a Business Improvement Advisor for Buckinghamshire County Council. We’re currently working alongside Buckinghamshire County Council to digitalise their public services.</i>
 
-![Helen Gracie](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-01-17%20at%2015.50.20_zpsgxfzzmfj.png)
+![Helen Gracie](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b5aa5b081f4465377e0633b1619f2415.png)
 
 As a public sector organisation, we have felt the pressures of government budget cuts. Local government has been encouraged to think more commercially and as such we have been reviewing how we deliver many of our services. It was immediately evident to us that there is a big opportunity to improve the customer journey with the Council through Digital Services.
  
@@ -31,7 +31,7 @@ An infamous Council habit is to presume that we know exactly what the customer w
 # Agile working
 Another hurdle has been the speed at which we have worked through Discovery and are now working through Alpha. In the public sector it is comfortable to organise meetings far in advance, send emails rather than phone or talk face to face and take a lot of time to make each and every decision. The timeframes we have been working to have not allowed us to work in this way. We have been forced to move away from our comfort zone, leave our desks and find the people within the organisation with the authority to make a decision quickly. Some might call it being more agile. It has worked. We have achieved a lot in a short frame of time and impressed our colleagues sat in their meetings along the way.
 
-![Bucks CC team](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-01-17%20at%2015.53.24_zpsttstchol.png)
+![Bucks CC team](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/df47c2e5652440ba9bd585134aad74e0.png)
 
 # Thinking creatively
 As well as working within quick timeframes, working with Unboxed has taken us outside the realms of project management towards a more creative way of thinking and working. This has not come easily to many of us who have felt restricted by our lack of artistic talent. The first workshop where we were asked to draw was downright terrifying. However, once we realised that we weren’t being graded on our portraiture and had a few chances to practice it became fun. We have even started inflicting this exercise on other colleagues in the Council.

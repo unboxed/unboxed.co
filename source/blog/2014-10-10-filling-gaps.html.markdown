@@ -8,7 +8,7 @@ tags:
   - Lean
 ---
 
-![Kintsukuroi: The beauty of being broken](http://iamsimplyblessed.files.wordpress.com/2013/11/kintsukuroi3.png "Kintsukuroi: The beauty of being broken")
+![Kintsukuroi: The beauty of being broken](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/e0ebf997d5f82997ef4dfe669124cd2e.png "Kintsukuroi: The beauty of being broken")
 
 We’re not big on job titles at Unboxed Consulting and if you have the smarts to get through the door you can pretty much grab any one that takes your fancy assuming there’s no reasonable resistance. I took "Head of Product" without much thought about the implications but quite enjoyed the sense of importance it might give me - lolz.
 

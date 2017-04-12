@@ -35,7 +35,7 @@ A fun and outrageous set of scrolling effects, my favourite is "Fling it".
 
 ## smile.exe :] - [Tom S](/people#tom-sabin)
 
-![invisible bread - he's very good](http://invisiblebread.com/comics/2014-10-02-hes-very-good.png)
+![invisible bread - he's very good](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3908fbd8f15b8fb902f019ba5826a3ae.png)
 
 [http://invisiblebread.com/2014/10/hes-very-good/](http://invisiblebread.com/2014/10/hes-very-good/)
 

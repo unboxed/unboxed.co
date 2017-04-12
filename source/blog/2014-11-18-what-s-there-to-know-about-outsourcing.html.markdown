@@ -13,7 +13,7 @@ tags:
 At our recent event, we discovered the 'new rules' of outsourcing. I opened the floor to our attendees, finding out what they really wanted to know about outsourced agile teams:</br>
 
 <h2><b>When does outsourcing work really well? What are your top tips for making outsourcing work efficiently?</b></h2>
-![outsource1](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165614_zps04b1e59c.png)<br/>
+![outsource1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/22194c42b081dd55daa866baa41b59fb.png)<br/>
 
 <i>"Outsourcing is a partnership and partnerships work well when they are based on trust and constantly nurtured by frequent, open communication. I would focus on making outsourcing “effective” rather than “efficient”.<br/>
 
@@ -21,13 +21,13 @@ For example efficiency might suggest cutting down on travel between sites becaus
 <br/>
 
 <h2><b>Does the Product Owner need to be from the client company?</b></h2>
-![outsource2](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165655_zpsd47eb8fd.png)
+![outsource2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/eace3c6f482e97e1dd88d3fe293c7b11.png)
 
 <i>"In a word, yes.  If it is worth building with an outsourcer, it is worth building well and if it’s worth building well you want constant control of what is being built and you want someone employed by you, that owns the solution."</i><br/>
 <br/>
 
 <h2><b>How do you find the right Product Owner and keep them sane through an agile development?</b></h2>
-![outsource1](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165557_zpsdc74de01.png)
+![outsource1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/73d322693f8901ab7d53d428639e307f.png)
 
 <i>"First and foremost a good Product Owner really *owns* the product. They are passionate about it and can articulate a clear vision for its future direction. They need to have the respect and trust of a wider stakeholder group and at the same time be able to take on a wide range of view and needs and incorporate into a clear future roadmap.<br/>
 
@@ -36,19 +36,19 @@ For me, this is the single most important role and so the best advice I can give
 
 <h2><b>How do you manage the business' expectations from a service level standpoint?</b></h2>
 
-![outsource1](http://i1291.photobucket.com/albums/b548/grammccram/62169893-b205-4710-a62d-e2c5f8d6348b_zpsad715299.png)<br/>
+![outsource1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/d8f6ae963dadaf2e360499d4be7ce64f.png)<br/>
 
 <i>"Quality shouldn’t be a variable.  A good partnership will result in a robust product that is resilient. Once you are managing the relationship through service level monitoring and service credits, something has already gone wrong.  Hold a drains-up meeting and discuss where each other’s expectations are not being met.  What often happens is that during the build technical debt is built up and short-cuts are taken then this is forgotten when the product goes into producing and the chickens come home to roost."</i><br/>
 <br/>
 
 <h2><b>How can you manage staff reactions to sourcing worries</b></h2>
-![outsource6](http://i1291.photobucket.com/albums/b548/grammccram/73e5d579-68ef-437f-a50a-bc97f8ba4576_zps7e586b8d.png)
+![outsource6](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c97861f734f33ab9b3f4d4f9410e45be.png)
 
 <i>"Our experience is that honesty is always the best policy.  Be honest with the staff but also be honest with yourself.  Is outsourcing going to solve a cultural problem of will it be moving it to arms length, where it will never be solved."</i><br/>
 <br/>
 
 <h2><b>How can you REALLY protect IP with an outsourced IT team?</b></h2>
-![outsource7](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165622_zps8388a36d.png)
+![outsource7](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/1f8932ed6a61574140ec80d0e9f03d0f.png)
 
 <i>"It is difficult to completely protect IP.  I am not a solicitor so this is purely my opinion: There are more protections available from an outsourced partner, whose business is reliant on maintaining a reputation of integrity, than with ex-employees who may leave to start a competing product or work for for a competitor.
 <br/>
@@ -62,13 +62,13 @@ Use a solicitor who has IP experience to review the contract."</i><br/>
 <br/>
 
 <h2><b>Why when you outsource do you not always get what you want?</b></h2>
-![outsource8](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165605_zpsb1473e21.png)
+![outsource8](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c96b32a2265c3dc4176e09599f4a97af.png)
 
 <i>"Part of the problem is that it is difficult to know exactly what you need up-front.  The best situation to be in is to be in a long-term outsourcing partnership where you can constantly adjust what you are getting (and how you are getting it delivered). Another problem is that what you want can be lost in translation if communication is very document focussed (write a requirements document and hand it over). Focus on constant communication, collaboration and shared understanding."</i></br/>
 <br/>
 
 <h2><b>As a trainee scrum master, how can I lead the dev team without them feeling like I'm 'micromanaging'?</b></h2>
-![outsource9](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165548_zps20d28143.png)<br/>
+![outsource9](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/0f4df7b87bfdb2739f66407cef9a673c.png)<br/>
 
 <i>"Being a Scrum Master is very different from traditional project management and the likelihood is that if the team feel like you are micromanaging them then you probably are. The leadership in a Scrum Master doesn’t come from telling people what to do but in explicitly encouraging the team to use their own judgement to make decisions while helping them to consider things they may not have thought about and keeping Agile practices front and centre.<br/>
 <br/>
@@ -78,7 +78,7 @@ If you’re really concerned that it’s going to have a big impact encourage th
 <br/>
 
 <h2><b>How do you 'sell' uncertainty as a benefit?! (you don't need to know NOW)</b></h2>
-![outsource10](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165538_zps9a8ff4c2.png)<br/>
+![outsource10](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/41fc2ef1d0d830fa8d63056a9d398433.png)<br/>
 
 <i>"I don’t see uncertainty itself as a benefit - more an inevitability. It’s accepting that uncertainty is inevitable and adjusting your process and behaviours to deal with it (rather than fooling yourselves that you really know much more than you do) that gives real benefit.<br/>
 <br/>
@@ -87,27 +87,27 @@ In order to sell the benefits you first need to help people understand the degre
 
 <h2><b>If you outsource overseas, what considerations should you make about time zone and language?<br/>
 What is best practice for geographical and timezone distributed teams?</b></h2>
-![outsource11](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165529_zps096fff02.png)
-![outsource12](http://i1291.photobucket.com/albums/b548/grammccram/57f7fdb6-4f54-4f47-9b4e-0a549044d94c_zps51f394d5.png)<br/>
+![outsource11](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/217532781c943dc66c44592230f3029a.png)
+![outsource12](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/cc8f87625ca5f3684d86e971bfe10e34.png)<br/>
 
 <i>"Every thing that doesn’t make communication easier and gets in the way of a continuous flow of work is another obstacle to productivity that *will* slow you down. I think that geographically distributed teams can work  if you invest in getting to know each other and make communication a central theme of how you operate. My personal view is that if you additionally introduce language barriers or time zones where the over-lap in the working day is small then you lose the ability to effectively work together in an Agile way and so I wouldn’t recommend going this far."</i><br/>
 <br/>
 
 <h2><b>How do you find new partners to work / outsource to?</b></h2>
-![outsource12](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165519_zps0afabfe1.png)<br/>
+![outsource12](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/268f4ec2988911ef23fa74d949b1ba18.png)<br/>
 
 <i>"Once you have a clear idea of what you are looking for then the steps I would take in order are: (if call Unboxed Consulting isn’t an option) ask friends to recommend someone to talk to, asked your personal network, post a question on LinkedIn, tweet, see who’s sponsoring meetups and conferences in your field in your location, Google and ask your personal network on Facebook,"</i><br/>
 <br/>
 
 <h2><b>How best to do long term budgeting / planning in an agile environment where requirements / design etc is not yet known?</b></h2>
-![outsource13](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165511_zps781b5139.png)<br/>
+![outsource13](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/808b6598d7818cb639124d6233526b39.png)<br/>
 
 <i>"This area is a great example of where thinking that you know or can “plan” everything you need to make a detailed decision up front can lead to a false sense of certainty and very bad decisions. There’s no single right answer but since you’re working with a very large degree of uncertainty the process you go through and outputs you produce should recognise that. I am a fan of a technique that Dan North introduced me to called Blink Estimation. You can read about it in detail [here](http://dannorth.net/2013/08/08/blink-estimation/)".</i><br/>
 <br/>
 
 <h2><b>How important are 'tools' when working in a distributed team? Which ones do you like?
 What are the best tools to use to engage your offshore team with the in-house team?</b></h2>
-![outsource14](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165115_zpsceb5eebb.png)
+![outsource14](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/65ca502cf19ed83491a357edc4805b72.png)
 
 <i>"Of course tools are important but they are just “tools”. They most important things are communication, familiarity and understanding and any tools you use need to genuinely support these. We use a variety including xxx but would encourage you to experiment with different tools and allow teams to choose what suits them best. Team choice is much more valuable that a big tool selection exercise with a mandated “right" tool for the company or spending lots of money on comms tools that aren’t really solving people’s day to day problems.<br/>
 <br/>
@@ -116,7 +116,7 @@ Having a fancy high quality video conferencing suite in each location that is sh
 
 <h2><b>Multiple teams working on the same product. The product owners are shared across teams. Is there a way to make this work efficiently? The teams are not in the same office.</b></h2>
 
-![outsource15](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165453_zps62a5665e.png)<br/>
+![outsource15](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a2b4bad1010b772da70b4355e1cea7f2.png)<br/>
 
 <i>"I've seen this work and scale best when different teams are focussed on different functional components of the product. This limits the coverage of the product that any one developer needs to have and reduces the overlap between teams. It can sometimes be useful to add proxy-product owners or business analysts for each team who are able to take a more detailed view and make quick local decisions if the Product Owner is spread quite thinly across a larger product."</i><br/>
 <br/>
@@ -138,9 +138,9 @@ Having a fancy high quality video conferencing suite in each location that is sh
 <br/>
 
 <h2><b>Where did you get that crazy shirt from?!</b></h2>
-![outsource4](http://i1291.photobucket.com/albums/b548/grammccram/e0e95824-63ad-4ee0-8a27-ca294afb2fff_zpscdb49fb3.png)<br/>
+![outsource4](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/ff14784b85a6b7b82401f898c57af849.png)<br/>
 
-![outsource4](http://i1291.photobucket.com/albums/b548/grammccram/0824761b-1e2e-4f19-9e3f-14b32f7599db_zps89af43f7.jpg)
+![outsource4](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a23fc0cf4c196df2606aeb1c7d390de1.jpg)
 
 [Hawes and Curtis](http://www.hawesandcurtis.co.uk/menswear/london_fashion_shirts_collection)<br/>
 <br/>

@@ -77,7 +77,7 @@ premium service. We also learned from customers that we needed to be more rigoro
 site if running a similar test again; many users saw conflicting information on various pages which caused some
 confusion.
 
-![A/Bingo](https://dl.dropboxusercontent.com/u/47884585/Lean%20Photos/abingo.png)
+![A/Bingo](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/dccefd0816dc4d396495423a9dfa7919.png)
 
 It's quite an incredible achievement to have prepared, launched and analysed the results of a live feature-fake test on
 a long-running website, with senior executive backing in under 7 days. When we started, we had no idea we'd be
@@ -143,7 +143,7 @@ space of 48 hours, we had converted a simple idea, a Javelin board, and some pos
 The high point of the weekend however, was actually convincing two members of the public to part with **real** money, in
 exchange for a free beta version of the app!
 
-![Money](https://dl.dropboxusercontent.com/u/47884585/Lean%20Photos/money.jpg)
+![Money](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/35c59b0c545e2a79381b5706d497ef6a.jpg)
 
 Although it was an exhausting weekend, it was a great experience. We'd taken an idea, refined our customer down to a
 specific group of people, and even shown very early versions of it to real people. We validated that people would be

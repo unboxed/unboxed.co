@@ -40,7 +40,7 @@ After a short break, Veronika went to a workshop about 'automated testing of mob
 
 Back in the main track, [Lea Verou](http://twitter.com/LeaVerou) introduced us to  colourful things. She presented some interesting demos about [The Chroma Zone: Engineering Color on the Web](http://leaverou.github.io/chroma-zone) and showed us how useful CSS colour names can be:
 
-[![Gray, dark gray](https://pbs.twimg.com/media/BnwSZxsIUAACr2-.jpg:large)](https://twitter.com/tomsabin/status/467268696470482944)
+[![Gray, dark gray](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/8d9487ccdfff59e5d5f1684826905200.jpg:large)](https://twitter.com/tomsabin/status/467268696470482944)
 
 The demos she showed us can be seen on her [GitHub](https://github.com/LeaVerou) account, but here are handful I think are definitely worth checking out:
 
@@ -54,7 +54,7 @@ In summary, conferences are awesome because...
 
 1) You get to hang out with your workmates
 
-![Pubbage in Oxford](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/t1.0-9/10314527_10152491661949203_7440674471769565980_n.jpg)
+![Pubbage in Oxford](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c7076b3546373b5853cc08bdc08c4cd8.jpg)
 
 (Pubbage in Oxford)
 
@@ -72,4 +72,4 @@ In summary, conferences are awesome because...
 
 4) Last but not least, you learn cool new things like [developing apps with PhoneGap](/blog/first-steps-with-cordova-phonegap) and find out some more [tools to pack in your web developer toolbox](/blog/dev_toolboxpack).
 
-![PhoneGap](https://dl.dropboxusercontent.com/u/2217931/jquery-blog-post.jpg)
+![PhoneGap](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/0adee346e6333fce11f0280b0d1c70cb.jpg)

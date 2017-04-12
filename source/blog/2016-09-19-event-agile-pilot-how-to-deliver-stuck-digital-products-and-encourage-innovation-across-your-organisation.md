@@ -11,7 +11,7 @@ tags:
   - Culture
   - Lean
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/7f5792ce-c8a2-49df-8911-8b38c482781a_zpsmy8xmnkw.jpg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-images/113eb7427954e17092c005b42522b510.jpg
 ---
 Complex portfolios of digital products can stall in development. It’s a fact of life. The vision gets clouded, deployment slows down, your team becomes demotivated and progress halts. You’ve stopped delivering. Or even worse, you can’t quite seem to get your ducks in a row and you’re having trouble kick-starting your new project.<br/>
 
@@ -21,7 +21,7 @@ Three speakers, three sessions, a round of Lego and room full of eager minds wer
 
 With introductions by [Carrie Bedingfield](https://unboxed.co/people/#carrie-bedingfield) done and out of the way, the morning launched with an energetic [‘Yes, But…’](http://www.yesandyourbusiness.com/portfolio/yes-but-yes-and) session, with the room pairing to build ideas for products based on their partner’s idea.<br/>
 
-![Yes But 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5529_zpspmxtwdxb.jpg)
+![Yes But 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/781346ad24b36a2bd181ecb80c91a1e2.jpg)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Kicking off our <a href="https://twitter.com/hashtag/AgilePilot?src=hash">#AgilePilot</a> event with <a href="https://twitter.com/CBedingfield">@CBedingfield</a> and a game of &quot;Yes, And...&quot; <a href="https://t.co/MRYqsQrsPd">pic.twitter.com/MRYqsQrsPd</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/773430647645958144">September 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -35,7 +35,7 @@ Melissa Sabella ([@msabella](https://twitter.com/msabella)) - Founder and CEO, T
 
 <i>Previously working as the Director of Strategy, Delivery, Product and Innovation at Reed Learning, Melissa was responsible for the overall strategy of Reed Learning, reporting directly into the CEO of the Reed Group. She has led digital transformation in professional learning and development by piloting agile teams in organisations to deliver fast tangible results for key stakeholders.</i><br/>
 
-![Melissa Sabella 1](http://i1291.photobucket.com/albums/b548/grammccram/27f866d8-a1b7-4200-846d-e4fb5442a3db_zpsbedoxckd.jpg)
+![Melissa Sabella 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c1b1e362f4ca3311016b610c134674d7.jpg)
 
 Melissa’s session addressed the situation where an organisation moves too slowly for too long and, just when the light bulb strikes… It’s too late. The organisation has found itself in a position where it’s too late and, unfortunately, there isn't enough time left to show results and funding gets cut off.<br/>
 
@@ -50,7 +50,7 @@ Melissa’s session addressed the situation where an organisation moves too slow
 ## What could we have done differently?
 When a great project idea doesn’t achieve the result you were hoping and aiming for, you then look into asking <i>“why?”</i>. For example, it could be that an organisation loses their nerve, the sponsor leaves, funding gets cut off, etc. But remember if this happens that it’s important to look back and ask yourself: <i>“What could we have done differently?”.</i><br/>
 
-![Melissa Sabella 2](http://i1291.photobucket.com/albums/b548/grammccram/a393f382-22df-4fdd-8570-00f3ebffaeba_zps6y8lkixj.jpg)
+![Melissa Sabella 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/72cbc056bbdab464219b771643081b72.jpg)
 
 
 - If  massive transformation invloves management changing roles and collaborating , be sure accountabilities and ownership are clearly negotiated and expectations are set from the start
@@ -67,7 +67,7 @@ Martyn Evan ([@martynrevans](https://twitter.com/martynrevans)) - Head of Produc
 
 <i>From working with organisations such as [SH:24](https://unboxed.co/project-stories/sh24/), [Pearson](https://unboxed.co/project-stories/pearson), [Reed Learning](https://unboxed.co/project-stories/reed-learning) and, more recently, [Buckinghamshire County Council](https://unboxed.co/project-stories/bucks-cc), Martyn has a wealth of experience in going into organisations, taking stuck or unstarted projects and kickstarting progress with agile teams to deliver results, directly from day one.</i><br/>
 
-![Pilot Agile project - Martyn Evans 1](http://i1291.photobucket.com/albums/b548/grammccram/cbaa24bf-7502-4475-bb4e-452cb06bc2b0_zpsye0zi2vr.jpg)
+![Pilot Agile project - Martyn Evans 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/846c5d48b799c0e62b929c365687677c.jpg)
 
 Martyn’s session focused around transforming digital services through applying the [GDS (Government Digital Service) Service Standard](https://www.gov.uk/service-manual/service-standard), using local council as a recent example, and sharing his top tips for ensuring success within a pilot agile project.<br/>
 <br/>
@@ -96,7 +96,7 @@ Follow the GDS Service Standard for building your digital service:
 
 Although a very linear process, the Service Standard is a very useful way of making your team not spend too much time on things that perhaps they shouldn’t be spending time on.<br/>
 
-![Pilot Agile project - Martyn Evans 2](http://i1291.photobucket.com/albums/b548/grammccram/27186269-f9a3-444b-9bc2-9e135278bc7f_zpstqz2xfxy.jpg)
+![Pilot Agile project - Martyn Evans 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b1e88bfe4a6c31bd102e104837abdc4e.jpg)
 
 ## Buckinghamshire County Council
 Buckinghamshire County Council are currently on a cost-saving mission, with a target of saving £1.8million across the council by 2017/2018.<br/>
@@ -123,7 +123,7 @@ Following the arrival of their new Head of Digital, the digital team knew they w
 - Actively show things to users and get people to tell you you’re wrong
 - Go and hear things you don’t want to hear - fail fast
 
-![Agile Pilot tip 1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-09-15%20at%2014.45.13_zpstolg5n8i.png)
+![Agile Pilot tip 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/eef34aa9666997946b3d209917ba43b2.png)
 
 <br/>
 <b>Tip 2: Show your working</b><br/>
@@ -134,7 +134,7 @@ Following the arrival of their new Head of Digital, the digital team knew they w
 - Don’t use your internal design resource to produce impressive documents for your stakeholders, but create a very simple infographic to share your progress visually
 - Use Slack to open up conversations and make these visible in public channels - stakeholders can take part if they want or they can just see the conversations
 
-![Agile Pilot tip 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-09-08%20at%2017.16.02_zps59xupiry.png)
+![Agile Pilot tip 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/aed415d1cce8fcb8b00f0d14076ff8d3.png)
 
 <br/>
 <b>Tip 3: Assemble the right team</b><br/>
@@ -144,7 +144,7 @@ Following the arrival of their new Head of Digital, the digital team knew they w
 - As your project grows, grow your team
 - Find the advocates on your team and the word spreads
 
-![Agile Pilot tip 3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-09-08%20at%2017.18.18_zpsaqyneddj.png)
+![Agile Pilot tip 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/229b0d1af3d291119e0f4497b91b3bc2.png)
 
 And Martyn's slides from the session:<br/>
 
@@ -157,7 +157,7 @@ Richard Atherton ([@RathertonRich](https://twitter.com/RathertonRich)), Manageme
 
 <i>Richard Atherton is a coach, educator and leader with more than 15 years’ experience. He has led or helped to transform numerous clients, which include ITV, BBC and Universal International. Richard works at the cutting edge of human and organisational development.</i><br/>
 
-![Richard Atherton 1](http://i1291.photobucket.com/albums/b548/grammccram/c3a6f8c7-791f-4857-9972-017d82627c35_zpsqyjuye5z.jpg)
+![Richard Atherton 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/72984076f67c4af4d3b5878f485c020c.jpg)
 
 Richard’s session took the audience through the story of his leadership of the transformation of a large media organisation. He shared the insights gained from introducing Agile into areas of their organisation for the first time:<br/>
 
@@ -189,7 +189,7 @@ Richard’s session took the audience through the story of his leadership of the
 ## Lego Serious Play
 Richard completed the session by getting the Lego out and leading a [Lego Serious Play](https://en.wikipedia.org/wiki/Lego_Serious_Play) exercise.<br/>
 
-![Richard Atherton 2](http://i1291.photobucket.com/albums/b548/grammccram/8e9cecd9-a946-428e-87bf-b9053ba6d6a1_zpszz7g9l0w.png)
+![Richard Atherton 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/59abf324b1a076307932ee11c83ece93.png)
 
 Each person created a model to represent a time where they had either gotten stuck or had experienced trouble in getting started with a project to share with the people on their table. The aim of this session was for each situation to take a visual form, for people to open up about their challenges, and discuss ways of overcoming this - harnessing the table's collective intelligence.
 

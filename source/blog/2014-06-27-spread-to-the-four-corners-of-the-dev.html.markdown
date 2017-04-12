@@ -115,7 +115,7 @@ I went to the [June Front End London meetup](http://lanyrd.com/2014/front-end-lo
 >
 > Visualise a bunch of open data on an interactive map:
 >
-> ![image](https://dl.dropboxusercontent.com/u/2217931/dev-newsletter-wearedata.png)
+> ![image](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/cd3a392fc9b151cc8f14c35db7777300.png)
 >
 > - Social posts (tweets/instagram/foursquare/flickr)
 > - CCTV cameras, traffic lights, ATMs

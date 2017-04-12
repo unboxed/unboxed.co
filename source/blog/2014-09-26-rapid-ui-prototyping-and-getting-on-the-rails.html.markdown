@@ -9,7 +9,7 @@ tags:
   - Innovation
 ---
 
-![UI prototype on phone](http://i.imgur.com/qQs8Xcu.jpg)
+![UI prototype on phone](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/9b345770dda727e5baf5c24e024b7d07.jpg)
 
 Having only been in my current position for ten months, there are many members of the Unboxed team I haven’t had the pleasure to work with yet, [Chris (Crystal) Carter](/people#chris-carter) being one of them. When we both found ourselves "on the bench” a couple of weeks ago, we decided to take some innovation days together.
 

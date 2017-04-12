@@ -12,13 +12,13 @@ tags:
   - Innovation
   - Lean
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/bd2c0c93-9d92-4e99-a20b-8ddef2af99b5_zpsoa3x5b4y.jpg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-images/1bfc1eee91b1e131bec61df5381f156b.jpg
 ---
 The first Show & Tell [since the completion of the initial Discovery Phase](https://unboxed.co/blog/digital-customer-programme-discovery-phase-show-tell-10-with-newham-council/), and the final of 2016, with the Digital Team at Newham Council.<br/>
 
 With the Digital Customer Programme now entering into the Alpha Phase, it’s a very exciting for the team as these key residential services have successfully passed through the first milestone of the GDS Service Standard. Not only a first for the Digital Team, but also the council, as we work towards delivering the first set of user-led digital services for the residents of Newham.<br/>
 
-![Digital Discovery Programme 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7761_zps6hqk4duf.jpg)
+![Digital Discovery Programme 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b7826225c9178c2059f65e181f42785e.jpg)
 <br/>
 
 # Digital Customer Programme - Sprint 11
@@ -41,7 +41,7 @@ The first service to enter into the Alpha Phase is the Homelessness service, pro
 - How homelessness assessments are currently scheduled
 - The current systems in place
 
-![Digital Discovery Programme 2](http://i1291.photobucket.com/albums/b548/grammccram/2f9099a2-e458-4c36-b42a-fcd41eac8722_zps81jo4sxi.jpg)
+![Digital Discovery Programme 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2cee5a65449ccc3f2f9dcb0934063d83.jpg)
 <i>An Alpha planning workshop carried out during Sprint #11</i><br/>
 <br/>
 
@@ -52,13 +52,13 @@ Further exploration is being taken into the Housing Account service, extending t
 - Communicating through a series of interactive exercises, compiling a prioritised list of the services within housing that residents find to be most important to them
 - Interviewing these residents to uncover how they are accessing and using the current housing system
 
-![Digital Discovery Programme 3](http://i1291.photobucket.com/albums/b548/grammccram/5ec26c8c-4676-42c7-80ec-4035124d4f84_zps2l1r8loz.jpg)
+![Digital Discovery Programme 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/e653cfee247fb61398a4b1a0a208864d.jpg)
 <i>Prioritising current service offerings with local residents</i><br/>
 <br/>
 
 # What’s next for the team?
 
-![Digital Discovery Programme 4](http://i1291.photobucket.com/albums/b548/grammccram/55a19f95-86fa-451e-9e57-d8c211cb591c_zpsdborkyug.jpg)
+![Digital Discovery Programme 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/51c00281b0d4a859ba66b6e7499b1abb.jpg)
 <br/>
 
 With the Show & Tell for Sprint #11 almost wrapped up, the roadmap was shared for what the team will be covering across Sprint #12, with some main planned activities including:<br/>
@@ -67,7 +67,7 @@ With the Show & Tell for Sprint #11 almost wrapped up, the roadmap was shared fo
 - Continued preparation in the lead up to the Alpha Phase launch for the Homelessness service
 - Soft market testing for Alpha and Beta phase procurement
 
-![Digital Discovery Programme 5](http://i1291.photobucket.com/albums/b548/grammccram/c7c1f40e-72ac-41bc-825b-441cf3471f6d_zpsj86wh4i6.jpg)
+![Digital Discovery Programme 5](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/40095d745f0d7ad9332d7cdbb8e0d6e5.jpg)
 <i>Sharing progress updates around the Newham Council Dockside building</i><br/>
 <br/>
 

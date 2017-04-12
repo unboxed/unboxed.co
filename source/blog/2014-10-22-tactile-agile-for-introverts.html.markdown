@@ -19,21 +19,21 @@ There is a delicate period when a start up turns from being pals who code togeth
 
 The result was a situation where people do not know who to ask for permission to do stuff that they have been hired for being excellent at. The management structure at Unboxed Consulting had gone from being virtually non-existent to an essential work-around with rapid growth and the culture had been diluted with an influx of new faces and ideas. "Management" seemed frustrated that given <b>all the freedom</b> they had, people did not feel empowered.
 
-Where was the button that said: ![Awesome](https://dl.dropboxusercontent.com/u/44673300/gobeawesome.jpg)
+Where was the button that said: ![Awesome](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/644ea46ac1abae10f29a5085adab74da.jpg)
 
 
 
 
-Feeling a part of the original furniture that had been taken out of storage, it was evident to me that the induction into Unboxed Consulting needed to change from a list of [TODOs](https://www.dropbox.com/s/izc00cnskoplj3r/Screenshot%202014-10-25%2012.27.48.png?dl=0) into something that was a "virtual hug" from day one.
+Feeling a part of the original furniture that had been taken out of storage, it was evident to me that the induction into Unboxed Consulting needed to change from a list of [TODOs](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/bbaaab9a0cefc888cf146c81b515a784.png?dl=0) into something that was a "virtual hug" from day one.
 
 I, Claire Kemp, was handed the challenge of
 
-![hug](https://dl.dropboxusercontent.com/u/44673300/hug.gif)
+![hug](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/00e88a77467382ae2cd0f9a66d7c7c63.gif)
 
 
 
 
-[Induction version 1](https://www.dropbox.com/s/8w993bckv8wefdl/Screenshot%202014-10-24%2016.10.50.png?dl=0), an Indesign document that could be printed off for New Joiners on day 1 is a map to navigate the way we work. It was all smart and grown up until someone left the company or made a change to the way we do things, then the document (that had already taken a week of our Designer’s time) needed refactoring.
+[Induction version 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/302d2a052ba1b28dd5e1d609460bee0a.png?dl=0), an Indesign document that could be printed off for New Joiners on day 1 is a map to navigate the way we work. It was all smart and grown up until someone left the company or made a change to the way we do things, then the document (that had already taken a week of our Designer’s time) needed refactoring.
 
 As a work around we updated pages that were referred to on the wiki and made notes in email communications to New Joiners about changes.
 

@@ -20,7 +20,7 @@ Join us on 25th March for an energetic three-hour session where you’ll learn a
 <h3><b><i>"Trust me, I’m a product manager" </i>: case study from publishing</b><br/>
 <i>Dave Evans - Product Manager (E-commerce) at Nature Publishing Group</i></h3></p>
 
-<p><img src="http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-03-12%20at%2014.29.18_zpsrf53xobd.png" alt="Event0"/></p>
+<p><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/0fe007d407e7d68161b40f47f196c592.png" alt="Event0"/></p>
 
 <p>The foundation of speed is trust. Dave will talk through how to establish trust rapidly with stakeholders, how to demonstrate value and be seen as the expert.<br/>
 <br/></p>
@@ -34,7 +34,7 @@ Join us on 25th March for an energetic three-hour session where you’ll learn a
 <h3><b>Techniques for overcoming the top digital product blockers</b><br/>
 <i>Richard Stobart – CEO, Unboxed Consulting, Agile Coach of the Year 2014</i></h3>
 
-<p><img src="http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-03-03%20at%2016.22.05_zps53cqwbt3.png" alt="Event2"/></p>
+<p><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/281c9ba6ce6e8ca517c18ac5495c9f88.png" alt="Event2"/></p>
 
 <p>Exactly why digital products get stuck and techniques to speed them up again.<br/>
 <br/></p>

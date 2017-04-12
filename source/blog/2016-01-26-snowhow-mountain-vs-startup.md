@@ -4,7 +4,7 @@ authors:
 tags: 
   - Culture
   - Innovation
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/DSC02978_zpsbli6cof5.jpg"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/905d5f6d18028af0348bfdfc77483613.jpg"
 date: "2016-01-26 15:24 +0000"
 published: true
 title: "SnowHow: Mountain vs. Startup"
@@ -28,11 +28,11 @@ Whether it’s one-to-one mentoring sessions, group learning, phone calls, Googl
 GenCamp4 took place last week, and it was a little bit more special than our usual London-based GenCamps… Bonjour, French Alps. 17 entrepreneurs – a blend of Unboxed, 50th Generation and 50th Generation mentors – all boarded flights across London airports and headed to the French Alps for a two-day extravaganza.<br/>
 <br/>
 
-![Airport](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1978_zps7lyezbzj.jpg)
+![Airport](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/59660408ec085233affc85c35b18cef2.jpg)
 
 Allow me to introduce SnowHow:<br/>
 
-![SnowHowWow](http://i1291.photobucket.com/albums/b548/grammccram/dbf9d04b-532c-434b-a286-cc6ce7133237_zpsoj9re0uu.jpg)
+![SnowHowWow](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a044d1fbb3e2e237c62961fc6f4763f2.jpg)
 <br/>
 
 # Why the French Alps?
@@ -73,43 +73,43 @@ This is a question you will probably never be able to answer, no matter how many
 **The big wide world**<br/>
 Standing at the top of a mountain peak, with only the moonlight to guide the way is quite a surreal feeling...
 
-![Up the mountain](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2134_zpsetewtl95.jpg)
+![Up the mountain](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/d1732c8898554b9e71c44dcd77713281.jpg)
 
 <br/>
 **The people**<br/>
 What a team. From those who were too scared to venture to the extremes (i.e. me), to those who were ready and raring to go from the get-go - we all pulled together to tackle the big goal:
 
-![The people](http://i1291.photobucket.com/albums/b548/grammccram/DSC02991_zpshmywx6cp.jpg)
+![The people](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f5e877fce4ff0af644366fbd8c0c0d56.jpg)
 
-![More people](http://i1291.photobucket.com/albums/b548/grammccram/7d0374f7-8705-41a9-97b6-2e30e7e0c320_zpsj41urp0l.jpg)
+![More people](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/500fb175faee4c6aa0717edff7d4b55b.jpg)
 
-![And more people](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2119_zpsfukysfbi.jpg)
+![And more people](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/6b5827dffd31adb9954f89cee80a6d7a.jpg)
 
 But as well as the big climb, there was the reward of sliding down the other side:<br/>
 
-![Slip and slide](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2074_zpsk4zpsopn.jpg)
+![Slip and slide](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/bfe187139eea6896b5a9459bee843aea.jpg)
 
 <br/>
 **Fondue**<br/>
 Melted cheese and good chat. The ultimate.<br/>
 
-![Fondue](http://i1291.photobucket.com/albums/b548/grammccram/DSC03012_zpstamec1r7.jpg)
+![Fondue](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/8df0a223e9ce15ef101d903ba9c4c8dd.jpg)
 
 <br/>
 **Time to listen**<br/>
 Being so far from “civilisation” and being in a small group gave a great opportunity to listen to others, with no real distraction. A great platform for hearing what challenges others are facing in their startups and batting around ideas together to overcome these challenges.<br/>
 
-![Running across](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2117_zpsjihbrvoa.jpg)
+![Running across](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b3e533be773be071c78f1a422552ebf2.jpg)
 
 <br/>
 **The sights**<br/>
 Just amazing.<br/>
 
-![SnowWow](http://i1291.photobucket.com/albums/b548/grammccram/DSC03057_zps6kowsuko.jpg)
+![SnowWow](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/7c8ae3c0cf6b3f285cdbccc1880621d0.jpg)
 
-![Happy Claire](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2042_zpsdski8hoz.jpg)
+![Happy Claire](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/714b95279e9cabd8439a59f5f144e063.jpg)
 
-![Clouds below](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2112_zps9krtzvqj.jpg)
+![Clouds below](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/aff60a0360bae672d4c7245bd0b7551f.jpg)
 
 Are they clouds? Is it snow? Turns out, both. The clouds of the town beneath and the snow under us. Thankfully, we didn’t walk onto the clouds.
 
@@ -117,7 +117,7 @@ Are they clouds? Is it snow? Turns out, both. The clouds of the town beneath and
 **Unboxed**<br/>
 I’m part of a great team.<br/>
 
-![Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/DSC03091_zpsocabs4fa.jpg)
+![Unboxed](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c7c1cf92e3e4aa8cbfa5ea746a1a1afa.jpg)
 
 
 # SnowHow in numbers
@@ -135,9 +135,9 @@ Entrepreneurs<br/>
 Cereal bars consumed (*approximate)<br/>
 <br/>
 
-![The top](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2149_zpsbkmj3ka9.jpg)
+![The top](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/dda0c6bc4bd333e953a29b58ffe1a284.jpg)
 
-![Snowbye](http://i1291.photobucket.com/albums/b548/grammccram/IMG_2097_zpsvqw4ovx9.jpg)
+![Snowbye](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b674b0b5df6cbc958c6f54b4d3d508dd.jpg)
 
 
 

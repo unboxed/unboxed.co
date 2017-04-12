@@ -17,7 +17,7 @@ The morning began with a delicious breakfast (with many, many chocolate croissan
 
 The session began with a fantastic pairing activity. Each person was given a card with one half of a famous pair, with the aim to find their other half from around the room:<br/>
 
-![outsource1]( http://i1291.photobucket.com/albums/b548/grammccram/e9769c6b-8374-4026-8426-0bb3991168a3_zpscccb9991.jpg)
+![outsource1]( https://s3-eu-west-1.amazonaws.com/unboxed-web-images/94ec00ed41be1dc009f6f0c6602d359a.jpg)
 
 [Carrie](/people#carrie-bedingfield) and Paul Westmore matched as Mario and Luigi, making a perfect plumbing/hero partnership.<br/>
 
@@ -25,15 +25,15 @@ The first pairing activity then paved the way for the second, the origami challe
 
 Here is the “fox” from my partnership…<br/>
 
- ![outsource2]( http://i1291.photobucket.com/albums/b548/grammccram/aa149b6f-dda6-4dfb-b24d-2dc58f688a67_zpsfe5df3b6.png)
+ ![outsource2]( https://s3-eu-west-1.amazonaws.com/unboxed-web-images/1a8a0dd1732242f873a02cde22c5fab9.png)
 
 So with the partnership activities complete, it was time for Dom to introduce the agenda: <br/>
 
-![outsource3]( http://i1291.photobucket.com/albums/b548/grammccram/2a870781-64be-4817-9d48-b873755d836e_zpsc044c166.jpg)
+![outsource3]( https://s3-eu-west-1.amazonaws.com/unboxed-web-images/be661643d80b8813995360e7c62acfc0.jpg)
 
 James Tatam, Digital Media Director at Channel 5, was first to share his experience with us. James spoke of his philosophy on outsourcing: <br/>
 
-![outsource4]( http://i1291.photobucket.com/albums/b548/grammccram/db65835f-a155-4a05-8834-e5d62fce6dac_zpsb98521ab.jpg)
+![outsource4]( https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b5df4ffc7f2a8959747b3e97edd3e2f5.jpg)
 
 <i>"Our motto at Five is 'if you can outsource it, do'. We want low overheads and the best possible talent on each project."</i><br/>
 
@@ -41,7 +41,7 @@ James Tatam, Digital Media Director at Channel 5, was first to share his experie
 
 Paul Westmore, Interim CIO of Plymouth University, delivered a content-rich presentation on the key issues across all outsourcing relationships:<br/>
 
- ![outsource5]( http://i1291.photobucket.com/albums/b548/grammccram/d1f628ab-d02c-4ff8-bdac-b5318df7ff68_zpsfb9999ea.jpg)
+ ![outsource5]( https://s3-eu-west-1.amazonaws.com/unboxed-web-images/8a03f942c0541aa7290264f8935f82bf.jpg)
 
 <i>"The Product Owner is the person who makes the decisions day-to-day and is the walking/talking requirements specification. This person needs the authority to make those decisions and the knowledge of the detail to make them well."</i><br/>
 
@@ -49,7 +49,7 @@ Paul Westmore, Interim CIO of Plymouth University, delivered a content-rich pres
 
 Yoann Martin, Technical Director of Notonthehighstreet, shared what makes a successful outsourced partnership:<br/>
 
-![outsource6]( http://i1291.photobucket.com/albums/b548/grammccram/d0f02e9c-95b4-49f4-884a-1ee1cd9c3889_zpsf2b0fc2d.jpg)
+![outsource6]( https://s3-eu-west-1.amazonaws.com/unboxed-web-images/22ddeb4023d6eaaed86d0a650301c609.jpg)
 
 <i>"If you outsource, put the effort into building the relationship instead of building the process."</i><br/>
 
@@ -62,7 +62,7 @@ Our very own [Richard](/people#richard-stobart) and [Steve](/people#steve-lennon
 • How to build a super productive relationship with your partner<br/>
 • The right and wrong ways to ‘do contacts’<br/>
 
-![outsource7]( http://i1291.photobucket.com/albums/b548/grammccram/IMG_0229_zpsc7efbb63.jpg)
+![outsource7]( https://s3-eu-west-1.amazonaws.com/unboxed-web-images/83e49cd047c4167ac58cb10bc870cdaa.jpg)
 
 <i>"A great team looks like a sausage machine where you put in the requirements at the top and produce great working software out of the bottom. It’s hard to create this very well oiled team from scratch. Takes 2-3 years."</i><br/>
 - Richard Stobart

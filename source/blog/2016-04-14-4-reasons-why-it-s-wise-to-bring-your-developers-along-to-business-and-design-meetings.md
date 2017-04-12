@@ -4,7 +4,7 @@ authors:
 tags: 
   - Agile
   - Design
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-04-14%20at%2016.19.01_zps5y1hv46x.png"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/4e004676372d668269af7c3908d895de.png"
 date: "2016-04-14 11:43 +0100"
 published: true
 title: 4 reasons why it’s wise to bring your developers along to business and design meetings
@@ -22,7 +22,7 @@ Developers can help spot a problem in the very early stages by performing ‘bac
 # 2. The knowledge of involved risk is identified
 Some of the biggest concerns and risks involved with building digital products and services are security and privacy. Developers can help prevent specific features that are impossible to implement securely or limit this risk when holding sensitive personal data. For example, if personal data needs to be encrypted for data security and privacy reasons, searching based on a name won’t work. Without this knowledge from a developer, these features could make it into your specification document and be implemented, exposing your customer and their platform users to data breach risk.<br/>
 
-![Agile teams](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-04-14%20at%2016.22.43_zpsvwitq5fo.png)
+![Agile teams](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/bd5e8de8de912604fc3d40891ab8a49e.png)
 
 # 3. There may be easier ways of achieving what you’re doing
 Developers are some of the largest users of digital products and services. They may even represent your target market. By including them in your business and design decisions, they may suggest easier ways of achieving the same or similar results by using already existing technologies and services.<br/>

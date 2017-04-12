@@ -103,23 +103,23 @@ Finally, as <s>threatened</s> promised
 ##Some of my personal favourite memes of 2012 (Lizard)
 
 Fruit:
-http://i.imgur.com/C4ZLz.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/44b20b46ef31a775cc668a36501be7c3.jpg
 
 Free samsung galaxy:
-http://25.media.tumblr.com/tumblr_m9j8khGPDV1rwutrpo1_1280.png
-http://24.media.tumblr.com/tumblr_m9j8khGPDV1rwutrpo2_1280.jpg
-http://24.media.tumblr.com/tumblr_m9j8khGPDV1rwutrpo3_1280.jpg
-http://24.media.tumblr.com/tumblr_m9j8khGPDV1rwutrpo4_1280.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/0e50e3153298cb6f1218c106cf085e1c.png
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/ecc816e950290bb3acf26a1c195916a5.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/0ed3b935962319ff366caa4686b75cdd.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b429cccec90590ef93d258d1decbf367.jpg
 
 Adobe:
-http://benisawesome.files.wordpress.com/2012/09/tumblr_m9vglnlbzc1r3s5n0o1_500.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/eb40edffa89b6a51a66ee24e13f5b95e.jpg
 
 People and statues:
-http://25.media.tumblr.com/tumblr_lyihwiG0yU1qlsf5co10_500.jpg
-http://29.media.tumblr.com/tumblr_lyihwiG0yU1qlsf5co1_500.jpg
-http://29.media.tumblr.com/tumblr_lyihwiG0yU1qlsf5co4_400.jpg
-http://28.media.tumblr.com/tumblr_lyihwiG0yU1qlsf5co7_500.jpg
-http://26.media.tumblr.com/tumblr_lyihwiG0yU1qlsf5co9_500.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/e48723214f7975cddbdde6dd07dd3733.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/22d9b1980f636b117928646dc43e5bea.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/5e0fa4335fce97ff99ede1796f7f4821.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c58b101fd0a58d1b733db90bda6f304a.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a79ad803b986b6fdacf8aa138538190a.jpg
 
 Mary Jane Pose
 http://stayinbedgrowyourhair.tumblr.com/post/9711869259/panasonicyouth-belgianbollocks

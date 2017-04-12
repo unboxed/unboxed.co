@@ -4,7 +4,7 @@ authors:
 tags: 
   - Agile
   - Rails
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Carwowscreenshot-of-offer-page-64f52111e4abd0061ec79f9fe166798d_zpsyzlcomzt.jpg"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/ffaf19defd0a696b3415595415783516.jpg"
 date: "2016-01-14 13:00 +0000"
 published: false
 title: "Guest post: David Santoro, carwow CTO, talks Ruby"
@@ -15,9 +15,9 @@ title: "Guest post: David Santoro, carwow CTO, talks Ruby"
 
 ## carwow’s David Santoro talks Ruby, Extreme Programming and creating a unique space to scale a digital product
 
-![Car wow](http://i1291.photobucket.com/albums/b548/grammccram/large_blue-logo-440px_zpsflpmbgcj.png)
+![Car wow](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/1814e81fc8717e21775008bee639b0b1.png)
 
-![David Santoro Carwow](http://i1291.photobucket.com/albums/b548/grammccram/david-santoro_zpsn3wm9evi.jpg)
+![David Santoro Carwow](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3e60afb92aeb846bc1aeb00dc86b5ec2.jpg)
 
 This month, we talk to [David Santoro](https://twitter.com/soulnafein), co-founder of one of the brightest new digital products for the car market - [carwow](https://www.carwow.co.uk). What does it take to scale a digital product in a traditional and crowded market? Why is Ruby on Rails the language of choice? And what does ‘hiring great people’ mean in reality?<br/>
 <br/>
@@ -41,7 +41,7 @@ We now release code several times a day. We love working on very fast and small 
 This helps in two key ways. It keeps developers more focused on one small thing at a time and it allows us to catch problems earlier and to change direction more easily.<br/>
 <br/>
  
-![carwow in action](http://i1291.photobucket.com/albums/b548/grammccram/Carwowscreenshot-of-offer-page-64f52111e4abd0061ec79f9fe166798d_zpsyzlcomzt.jpg)
+![carwow in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/ffaf19defd0a696b3415595415783516.jpg)
  
 <br/>
 # Agile is core to your culture – what does it look like in practice? 

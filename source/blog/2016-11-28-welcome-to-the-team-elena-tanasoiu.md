@@ -5,13 +5,13 @@ title: 'Welcome to the team: Elena Tanasoiu'
 tags:
   - Rails
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/Welcome%20to%20the%20team%20Elena_zpshs1grtzd.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-images/0928675de0d35eb31ff03f334b2c6be4.png
 authors:
   - Elena Tanasoiu
 ---
 Hi there - I’m Elena! I recently joined the Unboxed team in London as a Ruby on Rails developer.<br/>
 
-![Welcome to the team Elena Tanasoiu](http://i1291.photobucket.com/albums/b548/grammccram/Welcome%20to%20the%20team%20Elena_zpshs1grtzd.png)
+![Welcome to the team Elena Tanasoiu](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/0928675de0d35eb31ff03f334b2c6be4.png)
 
 Originally from Romania (no, I'm not a vampire, but I do have friends called Vlad), I lived in Denmark for five years, during which time I studied for my masters degree. I also launched my own startup there, creating a children’s iPad app called Trunte Lunte.<br/>
 
