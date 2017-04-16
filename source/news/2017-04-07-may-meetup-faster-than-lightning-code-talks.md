@@ -16,15 +16,15 @@ Join us on <b>Thursday 11th May</b> for next ‘Faster than Lightning’ session
 
 <br/>
 # What is ‘Faster than Lightning’?
-Faster than Lightning’ is a series of very short and informal talks (around three minutes each), based around a snippet of code that you find interesting and/or conversation-worthy. Each talk is then followed by a casual discussion across the group.<br/>
+Faster than Lightning is a series of very short and informal talks (approximately three minutes each), based around a snippet of code that you find interesting and/or conversation-worthy. Each talk is then followed by a casual group discussion.<br/>
 
-The idea is to get to know what other developers have been thinking about and doing, with code sharing as a talking point.<br/>
+The idea is about getting to know what fellow developers have been thinking about and doing, with code sharing as a talking point.<br/>
+
+Here is Father than Lightning in action:<br/>
 
 ![May meetup : Faster than Lighting 2](http://i.imgur.com/2mLmiMv.png?1)
 
-<i>(Please note: we will do our very, very best to allow everyone who submitted a snippet to present, but in order to keep the session within the allocated time (an 8pm finish), some attendees may have to leave if we carry over this time).</i><br/>
-
-Here’s some more information about submissions:<br/>
+Here's a bit more about submissions:<br/>
 
 - Code snippets can be your code or someone else’s, in any programming language, and can be anonymised
 - A workflow tip may take the form of a UI screenshot or terminal command of an app or tool that you use - it may even be something that irritates you and you’d like to hear about how other developers approach it
@@ -33,7 +33,7 @@ Here’s some more information about submissions:<br/>
 - The order of submissions is random and we will keep having presenters until we run out or 8pm approaches - whichever is sooner
 
 <br/>
-Previous snippets have included:<br/>
+Previous snippets include:<br/>
 
 - A Rails view partial
 - An RSpec file
@@ -42,7 +42,7 @@ Previous snippets have included:<br/>
 - A single line of Ruby code in IRB
 
 <br/>
-… and many more. More detailed examples can be seen in the blogs of past events:<br/>
+… and many more. See some examples in blog posts of past events:<br/>
 
 - [Faster than Lightning: November's Developer Event](https://unboxed.co/blog/faster-than-lightning-november-s-developer-event/)
 - [Faster than Lightning: September's Developer Event](https://unboxed.co/blog/faster-than-lightning-september-s-developer-event/)
@@ -55,11 +55,13 @@ Previous snippets have included:<br/>
 Taking part is simple:<br/>
 
 - [Register for your place](https://www.eventbrite.co.uk/e/may-meetup-faster-than-lightning-code-talks-tickets-33521133613)
-- Submit a short snippet of code or slide before the meetup to neil.van.beinum@unboxed.co
+- Submit your code snippet before the meetup to neil.van.beinum@unboxed.co
 - Chat about your slide to the room for around 3+ minutes on the big screen
 - Open this up to group discussion
-- Sit back, drink beer, eat pizza, and enjoy the other submissions and chats
+- Sit back, drink beer, eat pizza and enjoy the other submissions and chats
 <br/>
+
+<i>(Please note: we will do our very, very best to allow everyone who submitted a snippet to present, but in order to keep the session within the allocated time, an 8pm finish, some attendees may have to leave if we carry over this time).</i><br/>
 
 <br/>
 # Get your place
