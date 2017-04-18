@@ -79,7 +79,7 @@ Specialising in change mangement, Claire has been part of the Ricoh UK team sinc
 <br/>
 
 
-## [Boris Divyak](https://www.linkedin.com/in/borisdivjak/) - Service Designer, [Unboxed](https://www.unboxe.co)<br/>
+## [Boris Divyak](https://www.linkedin.com/in/borisdivjak/) - Service Designer, [Unboxed](https://www.unboxed.co)<br/>
 [@borisdivjak](https://twitter.com/borisdivjak)<br/>
 
 ![Boris Divjak, Unboxed](http://i1291.photobucket.com/albums/b548/grammccram/aeb4c9cd-451c-433d-9faa-5a54a986662e_zps7ylopsad.png)
@@ -88,5 +88,6 @@ Boris is a service designer with over 12 years of experience in creating innovat
 <br/>
 
 # Get your place
+<i>Unfortunately the event is now full, but if you'd like to be added to the event waitlist then please add your name below and we'll be in touch if a place becomes available.</i><br/>
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=32328835417&ref=etckt" frameborder="0" height="308" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
