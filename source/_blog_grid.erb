@@ -1,12 +1,24 @@
 <div class="container--grid">
-  <div class="blog-tile__grid-sizer"></div>
-  <% articles.each do |article| %>
-    <% if article.data.weekly_roundup %>
-      <%= partial 'blog_small_tile', locals: { article: article } %>
-    <% elsif article.data.main_image.to_s.empty? %>
-      <%= partial 'blog_medium_tile', locals: { article: article } %>
-    <% else %>
-      <%= partial 'blog_large_tile', locals: { article: article } %>
-    <% end %>
-  <% end %>
+  <%
+    tiler = Tiler.new(columns: 3, rows: articles.size * 2)
+    articles.each do |article|
+      if article.data.weekly_roundup
+        tiler.add_tile([article, 'blog_small_tile'])
+      elsif article.data.main_image.to_s.empty?
+        tiler.add_tile([article, 'blog_medium_tile'], width: 1, height: 2)
+      else
+        tiler.add_tile([article, 'blog_large_tile'], width: 2, height: 2)
+      end
+    end
+    tiles = tiler.lay_tiles
+    tiles.each do |row|
+      row.each do |article_tile|
+        next if article_tile == Tiler::NoTile
+        next if article_tile.is_a? Tiler::LargeTileReference
+        %>
+          <%= partial article_tile.contents.last, locals: { article: article_tile.contents.first } %>
+        <%
+      end
+    end
+  %>
 </div>

@@ -38,6 +38,7 @@ configure :development do
 end
 
 require 'lib/helpers'
+require 'lib/tiler'
 helpers Helpers
 
 data.people.each do |person|
