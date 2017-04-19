@@ -18,3 +18,5 @@
 .DS_Store
 
 .ruby-gemset
+
+/spec/examples.txt
