@@ -1,4 +1,4 @@
-<div class="container--grid" data-packery-target>
+<div class="container--grid">
   <div class="blog-tile__grid-sizer"></div>
   <% articles.each do |article| %>
     <% if article.data.weekly_roundup %>
@@ -10,50 +10,3 @@
     <% end %>
   <% end %>
 </div>
-
-<%= javascript_include_tag "packery.min" %>
-<script>
-  var packeryContainer = document.querySelector('[data-packery-target]');
-  var packeryOptions = {
-    transitionDuration: 0,
-    percentPosition: true,
-    itemSelector: '.blog-tile',
-    columnWidth: '.blog-tile__grid-sizer'
-  };
-
-  if (typeof window.matchMedia != "undefined" || typeof window.msMatchMedia != "undefined") {
-    var mq = matchMedia('(min-width: 660px)');
-    var packery;
-
-    if (mq.matches) {
-      packery = new Packery(packeryContainer, packeryOptions);
-    }
-
-    mq.addListener(function(mql) {
-      if (mql.matches) {
-        packery = new Packery(packeryContainer, packeryOptions);
-      } else {
-        packery.destroy();
-      }
-    });
-  }
-</script>
-
-<!--[if IE 9]>
-  <script>
-
-    packery = new Packery(packeryContainer, packeryOptions);
-    var packeryEnabled = true;
-
-    window.onresize = function() {
-      if (window.innerWidth >= 660 && !packeryEnabled) {
-        packery = new Packery(packeryContainer, packeryOptions);
-        packeryEnabled = true;
-      } else if (window.innerWidth < 660 && packeryEnabled) {
-        packery.destroy();
-        packeryEnabled = false;
-      }
-    };
-
-  </script>
-<![endif]-->
