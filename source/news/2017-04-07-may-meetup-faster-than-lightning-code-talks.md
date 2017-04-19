@@ -20,7 +20,7 @@ Faster than Lightning is a series of very short and informal talks (approximatel
 
 The idea is about getting to know what fellow developers have been thinking about and doing, with code sharing as a talking point.<br/>
 
-Here is Father than Lightning in action:<br/>
+Here is Faster than Lightning in action:<br/>
 
 ![May meetup : Faster than Lighting 2](http://i.imgur.com/2mLmiMv.png?1)
 
