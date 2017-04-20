@@ -12,4 +12,6 @@
   box-sizing: border-box;
   overflow: hidden;
   padding-left: 6px;
+  display: flex;
+  flex-flow: row wrap;
 }
