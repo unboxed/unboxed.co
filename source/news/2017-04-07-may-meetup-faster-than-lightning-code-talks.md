@@ -18,7 +18,7 @@ Join us on <b>Thursday 11th May</b> for next ‘Faster than Lightning’ session
 # What is ‘Faster than Lightning’?
 Faster than Lightning is a series of very short and informal talks (approximately three minutes each), based around a snippet of code that you find interesting and/or conversation-worthy. Each talk is then followed by a casual group discussion.<br/>
 
-The idea is about getting to know what fellow developers have been thinking about and doing, with code sharing as a talking point.<br/>
+The idea is about getting to know what other developers have been thinking about and doing, with code sharing as a talking point.<br/>
 
 Here is Faster than Lightning in action:<br/>
 
