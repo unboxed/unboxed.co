@@ -1,3 +1,4 @@
+//= require tiler
 //= require waypoints.min
 
 var waypointElement = document.querySelector('[data-header-waypoint]');

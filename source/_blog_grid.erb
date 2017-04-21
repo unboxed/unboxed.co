@@ -1,4 +1,4 @@
-<div class="container--grid">
+<div class="container--grid" data-tile-layout data-tile-gap="6">
   <%
     tiler = Tiler.new(columns: 3, rows: articles.size * 2)
     articles.each do |article|
@@ -11,12 +11,12 @@
       end
     end
     tiles = tiler.lay_tiles
-    tiles.each do |row|
-      row.each do |article_tile|
+    tiles.each.with_index do |row, row_idx|
+      row.each.with_index do |article_tile, column_idx|
         next if article_tile == Tiler::NoTile
         next if article_tile.is_a? Tiler::LargeTileReference
         %>
-          <%= partial article_tile.contents.last, locals: { article: article_tile.contents.first } %>
+          <%= partial article_tile.contents.last, locals: { article: article_tile.contents.first, row: row_idx, column: column_idx } %>
         <%
       end
     end
