@@ -37,6 +37,14 @@ user permission by showing it's possible to exfiltrate browser data (such as
 account recovery QR codes) by flashing the screen. It's a fairly slow to exploit
 in a real scenario but shows the dangers of exposing sensitive API's.
 
-## Track of the Week - [](/people#)
+## Track of the Week - [Murray S](/people#murray-steele)
+
+You know who is brilliant?  It's Björk.  It's always Björk.  I can't think of
+a situation that wouldn't be improved by a Björk soundtrack.  What I'm saying is
+that you should probably be listening to more Björk.  In fact, why not listen to
+some now:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ahhieWx7vc" frameborder="0" allowfullscreen></iframe>
+[Björk - Jóga](https://www.youtube.com/watch?v=3ahhieWx7vc)
 
 
