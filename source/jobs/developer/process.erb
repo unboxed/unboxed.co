@@ -1,0 +1,46 @@
+---
+title: "Join Us - Developer - Our process"
+
+header:
+  title: "join us"
+  subtitle_1: "ruby on rails developer"
+  subtitle_2: "process"
+
+process:
+  title: "Our process"
+  content:
+    - Once we receive your CV, if we like what we see, then will ask you to complete a short coding exercise.
+    - This is an opportunity to see your approach to solving problems and some of your code on a clean build project. Although quite simple, we specifically ask that you treat the problems as real feature requests.
+    - We expect that you will return a submission within one working week. Your submission is used to support the full recruitment process so please do take as long as you need to showcase your best skill.
+    - We will then send back our feedback on this solution within one week (even if we do not progress with the application, we will still send you this).
+    - If we do progress your application, we will then invite you into our offices the following week to talk through the choices you made, then pair with one of our developers on your solution. Here, we are looking for you to either extend the functionality or incorporate changes suggested by our feedback.
+    - During your time here, we will introduce you to a few team members, who will talk you through how we work and answer any questions you may have about the role. This is time for you to explore how you might like the idea of working with us and what it’s like to be as part of our team.
+    - Following this, we will all share our thoughts of working with you with one of our Directors, who will then interview you as the final step. It is at this point that we will potentially make an offer.
+---
+
+<header class="page-header page-header--bottom-margin">
+  <div class="job-page-header__container">
+    <h1 class="job-page-header__introduction">
+      <a href="/jobs/developer"><%= current_page.data.header.subtitle_1 %></a>
+      <span> / <%= current_page.data.header.subtitle_2 %></span>
+    </h1>
+  </div>
+</header>
+
+<div class="container" data-header-waypoint>
+  <section class="component">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.process.title %>
+      </h2>
+
+      <ul class="text-tile__list--unstyled">
+        <% current_page.data.process.content.each do |item| %>
+          <li class="text-tile__list-item--unstyled">
+            <%= item %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  </section>
+</div>
