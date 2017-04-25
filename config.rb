@@ -15,6 +15,8 @@ activate :blog do |blog|
   blog.permalink = "{title}.html"
   blog.tag_template = 'blog/tag.html'
   blog.new_article_template = 'templates/blog_article.md'
+  blog.paginate = true
+  blog.per_page = 30
 end
 
 # news
