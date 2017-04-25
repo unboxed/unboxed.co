@@ -38,6 +38,7 @@ activate :blog do |blog|
   }
   blog.paginate = true
   blog.per_page = 30
+  blog.page_link = 'page-{num}'
 end
 
 # news
@@ -49,6 +50,7 @@ activate :blog do |blog|
   blog.new_article_template = 'templates/news_article.md'
   blog.paginate = true
   blog.per_page = 30
+  blog.page_link = 'page-{num}'
 end
 
 activate :similar, algorithm: :related_blog_articles
@@ -85,4 +87,15 @@ end
 after_build do |builder|
   builder.source_paths << File.dirname(__FILE__)
   builder.copy_file('data/_redirects', 'build/_redirects')
+
+  page_twos = sitemap.resources.select { |resource| resource.url =~ /\/page-2\/$/ }
+  # The pagination doesn't generate /page-1/ urls, so put in redirects
+  # for them that take you back to the "parent" (which contains the 1st page)
+  builder.append_to_file('build/_redirects') do
+    page_twos.map do |page_two|
+      parent_url = page_two.url.gsub(/\/page-2\/$/, '/')
+      page_one_url = page_two.url.gsub(/\/page-2\/$/, '/page-1/')
+      "#{page_one_url}  #{parent_url}"
+    end.join("\n")
+  end
 end
