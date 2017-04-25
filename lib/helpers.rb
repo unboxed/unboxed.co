@@ -40,4 +40,8 @@ module Helpers
   def article_info(people, page)
     ArticleInfo.new(people, page)
   end
+
+  def articles_by_author(author_name)
+    blog(:blog).articles.select { |article| article.data.authors.map(&:downcase).include? author_name.downcase }
+  end
 end
