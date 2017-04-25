@@ -4,4 +4,4 @@ compile:
 
 test:
   override:
-    - bundle exec rspec spec --format=documentation
+    - bundle exec rspec --format=documentation

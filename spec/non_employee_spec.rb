@@ -1,4 +1,5 @@
-require './lib/non_employee'
+require 'spec_helper'
+require 'non_employee'
 
 RSpec.describe NonEmployee do
   let(:former_employee) { described_class.new("Chris Holmes") }

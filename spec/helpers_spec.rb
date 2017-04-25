@@ -1,7 +1,9 @@
-require './lib/helpers.rb'
-include Helpers
+require 'spec_helper'
+require 'helpers'
 
-describe Helpers do
+RSpec.describe Helpers do
+  include Helpers
+
   describe 'is_matching_link?' do
     it 'does not match when current url is not the same link or a child link' do
       expect(is_matching_link?('/blog', '/project-stories')).to be_falsey

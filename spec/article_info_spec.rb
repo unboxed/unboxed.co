@@ -1,4 +1,5 @@
-require './lib/article_info.rb'
+require 'spec_helper'
+require 'article_info'
 
 class PageData
   attr_reader :authors

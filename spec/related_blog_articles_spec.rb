@@ -1,4 +1,5 @@
-require './lib/related_blog_articles.rb'
+require 'spec_helper'
+require 'related_blog_articles'
 
 class BlogData
   attr_reader :authors, :tags
@@ -13,7 +14,7 @@ class BlogData
   # end
 end
 
-describe RelatedBlogArticles do
+RSpec.describe RelatedBlogArticles do
   describe '.weight' do
     describe 'authors' do
       it 'has the maximum author weighting when authors are the same' do
