@@ -34,9 +34,12 @@ RSpec.describe Helpers do
     let(:article_1) { double("BlogArtcile", data: double('data', authors: ['Brian de la Smith'])) }
     let(:article_2) { double("BlogArtcile", data: double('data', authors: ['Brian DE LA Smith', 'Simone Grant'])) }
     let(:article_3) { double("BlogArtcile", data: double('data', authors: ['Aisling Noble'])) }
-    let(:blog) { double('blog', articles: [article_1, article_2, article_3]) }
-    before do
-      allow(self).to receive(:blog).with(:blog).and_return(blog)
+    let(:blog_object) { double('blog', articles: [article_1, article_2, article_3]) }
+
+    # this method is implemented by middleman-blog and we can't stub it directly
+    # because the helpers module doesn't implement it on it's own
+    def blog(which_blog)
+      blog_object
     end
 
     it 'includes articles written by the supplied author if they are the sole author' do
