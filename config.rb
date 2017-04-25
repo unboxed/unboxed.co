@@ -47,6 +47,8 @@ activate :blog do |blog|
   blog.prefix = 'news'
   blog.permalink = "{title}.html"
   blog.new_article_template = 'templates/news_article.md'
+  blog.paginate = true
+  blog.per_page = 30
 end
 
 activate :similar, algorithm: :related_blog_articles
