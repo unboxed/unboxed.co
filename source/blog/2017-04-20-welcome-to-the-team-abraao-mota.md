@@ -24,6 +24,6 @@ Unboxed offers an opportunity to expand my skills beyond that and to take my kno
 ![Welcome to the team - Abraao Mota 2](http://i.imgur.com/HJKNxV2.png)
 
 <br/>
-So far I’ve been kept busy by going through the New Joiners Induction game, as well as improving the speed and reliability of the Unboxed website by migrating images hosted all over the web onto a single reliable source in Amazon S3. To complement this, I’m working on S3ify, a website to make the process of adding S3 images to the Unboxed website easier and more consistent for those involved in regular website updates.<br/>
+So far I’ve been kept busy by going through the New Joiners Induction game, as well as improving the speed and reliability of a website by migrating images hosted all over the web onto a single reliable source in Amazon S3. To complement this, I’m working on S3ify, a website to make the process of adding S3 images to this website easier and more consistent for those involved in regular updates.<br/>
 
 When I'm not programming, I do all sorts of sports and probably spend way too much time gaming; I'm crazy about Rocket League!
