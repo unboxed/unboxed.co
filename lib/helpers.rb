@@ -44,4 +44,9 @@ module Helpers
   def articles_by_author(author_name)
     blog(:blog).articles.select { |article| article.data.authors.map(&:downcase).include? author_name.downcase }
   end
+
+  def find_person_by_short_name(author_short_name)
+    data.people.find { |person| person.short_name.downcase == author_short_name.downcase }
+  end
+
 end

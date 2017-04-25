@@ -6,6 +6,9 @@ set :images_dir, 'assets/images'
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, autolink: true, smartypants: true, underline: true
 
+require 'lib/middleman_blog_more_dynamic_custom_pages'
+require 'lib/article_info'
+
 # blog
 activate :blog do |blog|
   blog.name = 'blog'
@@ -15,6 +18,24 @@ activate :blog do |blog|
   blog.permalink = "{title}.html"
   blog.tag_template = 'blog/tag.html'
   blog.new_article_template = 'templates/blog_article.md'
+  blog.custom_collections = {
+    author: {
+      link: 'author/{author}.html',
+      template: 'blog/author.html',
+      filter: -> (articles) do
+        articles_with_authors = articles.select {|a| a.metadata[:page]['authors'] }
+        articles_by_author = {}
+        articles_with_authors.each do |article|
+          ai = ArticleInfo.new(data.people, article.data)
+          ai.authors.reject { |author| author.is_a? NonEmployee }.each do |author|
+            articles_by_author[author.short_name] ||= []
+            articles_by_author[author.short_name] << article
+          end
+        end
+        articles_by_author
+      end
+    }
+  }
   blog.paginate = true
   blog.per_page = 30
 end
@@ -41,11 +62,6 @@ end
 
 require 'lib/helpers'
 helpers Helpers
-
-data.people.each do |person|
-  proxy "blog/author/#{person.short_name}.html", "blog_author_grid.html",
-    locals: { author_name: person.name }, ignore: true
-end
 
 ignore '/templates/*'
 ignore '/partials/*'
