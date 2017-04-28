@@ -23,7 +23,7 @@ Specifically Richard:<br/></p>
 
 <p>The Awards, now in their 5th year, took place in London, were attended by senior leaders and practitioners in the Agile community. </p>
 
-<p><img src="http://i1291.photobucket.com/albums/b548/grammccram/182319a3-c03a-48d8-a793-8de3bb71db40_zps20582be7.png" alt="agile1"/></p>
+<p><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b25b87ed6de77cec786a3e20048f943c.png" alt="agile1"/></p>
 
 <p>The winning moment:<br/>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/rHJyBhfik94" frameborder="0" allowfullscreen></iframe></p>

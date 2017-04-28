@@ -56,7 +56,7 @@ An explanation of the hidden `git rerere` feature that, using information about 
 
 https://github.com/luanfujun/deep-photo-styletransfer
 
-This is a cool project that puts one image in another (massive oversimplification?) - and in a much more pleasing way than the convolutional network [generated images](http://i.imgur.com/6ocuQsZ.jpg). Seems to need CUDA and various other dependencies but it'd be good to get this running sometime.
+This is a cool project that puts one image in another (massive oversimplification?) - and in a much more pleasing way than the convolutional network [generated images](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a11962763a5658559211da36448b089f.jpg). Seems to need CUDA and various other dependencies but it'd be good to get this running sometime.
 
 ## AI's PR problem - [Elena](/people#elena-tanasoiu)
 

@@ -10,7 +10,7 @@ tags:
 
 <p>I&#39;m a developer, I like structure, I like clean code, I like DRY code. I find writing CSS incredibly painful.</p>
 <p>CSS1 was first published in December 1996, so I ask, why in 2010 does it feel like CSS is just as painful as it was 14 years ago?</p>
-<p><a href="http://www.flickr.com/photos/popandshorty/"><img alt="" src="http://farm3.static.flickr.com/2461/3970138375_3e68095deb_o.jpg" width="500" /></a></p>
+<p><a href="http://www.flickr.com/photos/popandshorty/"><img alt="" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/7b5f66f1bec7987dfa3a1072f91de964.jpg" width="500" /></a></p>
 <p>A few great CSS tools exist to make the process of defining layout and structures much easier. &nbsp;A few different examples include; <a href="http://baselinecss.com">Baseline</a>, <a href="http://sass-lang.com/">Sass</a>, <a href="http://lesscss.org">Less</a>, <a href="http://960.gs">960</a>, <a href="http://developer.yahoo.com/yui/grids/">Yahoo! grids</a>&nbsp;and <a href="http://blueprintcss.org">Blueprint</a>. Unfortunately nothing quite cuts the mustard. &nbsp;We&#39;ve tried a few of these at Unboxed, but they still fail to some degree on the bigger projects.</p>
 <p>Where are the standards? &nbsp;You can&#39;t lay all the blame on IE6 can you? Recently Jason Cale dedicated a fairly lengthy blog post to&nbsp;<a href="http://jasoncale.com/articles/5-dont-format-your-css-onto-one-line">why you should hit return whilst writing your CSS</a>.</p>
 <p>A very simple problem I often find is what I should name different elements, and if I should use ids or classes. After often hearing the two <a href="http://twitter.com/ubxd">@ubxd</a> CSS heroes Attila and Will have lengthy debates on the best way of doing things, &nbsp;I think the real answer is that there isn&#39;t one.</p>
@@ -275,7 +275,7 @@ navigation</td>
 </table>
 </div>
 <div style="clear: left;">&nbsp;</div>
-<p><a href="http://www.flickr.com/photos/stephenhackett/"><img alt="" src="http://farm2.static.flickr.com/1296/3424929417_b83f4bd2f8.jpg" width="500" /></a></p>
+<p><a href="http://www.flickr.com/photos/stephenhackett/"><img alt="" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3f5eec2565f6cbb7a0a07f7224d7a5bb.jpg" width="500" /></a></p>
 <p>So, not that interesting I&#39;m afraid. &nbsp;But what is interesting?</p>
 <ul>
 <li>Some of top ids are elements in HTML5 for example &quot;footer&quot;, &quot;header&quot; and &quot;nav&quot; so we&#39;re making some progression in standards.</li>

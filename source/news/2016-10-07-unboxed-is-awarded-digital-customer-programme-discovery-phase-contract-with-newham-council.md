@@ -7,7 +7,7 @@ title: >-
 ---
 We are pleased to announce that we have been awarded the contract for the Digital Customer Programme Discovery Phase with [Newham Council](https://www.newham.gov.uk/Pages/index.aspx), procured through the Digital Marketplace.<br/>
 
-![Newham Council Digital Customer Programme Discovery](http://i1291.photobucket.com/albums/b548/grammccram/LBN_Ribbon_Logo_RGB_zpso6guutz4.jpg)
+![Newham Council Digital Customer Programme Discovery](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c4d321fe9b66c6408554ca8c7fbaa942.jpg)
 
 Newham Council is transforming the way they deliver their key services to 325,000 local residents, as well as making these services increasingly efficient for the council, through taking an innovative approach.<br/>
 

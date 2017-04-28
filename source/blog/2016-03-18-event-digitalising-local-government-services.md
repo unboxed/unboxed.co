@@ -5,7 +5,7 @@ tags:
   - Agile
   - Culture
   - Innovation
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/IMG_2601_zps42th3rl9.jpg"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f7875ccc0a3bdae66c14f26fc9d2a861.jpg"
 date: "2016-03-18 10:46 +0000"
 published: true
 title: "Event: Digitalising Local Government Services"
@@ -26,7 +26,7 @@ Buckinghamshire County Council ([@buckscc](https://twitter.com/buckscc))<br/>
 
 <i>Matthew Cain is Head of Digital at Buckinghamshire County Council. He led the work to refresh the digital strategy, establish a digital exemplars programme and adopt a digital service standard. Matthew shared his war story in detail in making this digital transformation a reality for Bucks CC.</i><br/>
 
-![Matthew Cain speaking](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2011.26.05_zpsahx2dkzt.png)
+![Matthew Cain speaking](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/14af314c50fd45706c47413e6b48aa78.png)
 
 <b>What people think <i>“digital transformation”</i> might mean</b><br/>
 Some think it means savings. Some think it’s your current web team and system associates. But what does <i>“digital transformation”</i> really mean?<br/>
@@ -46,7 +46,7 @@ With financial pressures everywhere, you need to run the hardest thing first to 
 - Surface your customer satisfaction survey data and have a very sound evidence base – let the data drive you
 - Provide your team with protection to fail – to do things knowing that they might make mistakes along the way
  
-![Bucks CC](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2014.37.02_zps9989a1ns.png) 
+![Bucks CC](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/66c676fdfa072fed8452cc401dbfd232.png) 
  
 From the inside of your organisation:<br/>
 
@@ -72,7 +72,7 @@ Unboxed ([@ubxd](https://twitter.com/Ubxd))<br/>
 <b>Everyone is a designer</b><br/>
 Everyone should be a designer, even if they’re not a designer – it’s within everyone’s remit. When everyone in the team acts as a designer, it gives more insight and leads to less guess work. There are pockets of insight that other team members will have that a designer won’t.<br/>
 
-![Leon Odey-Knight session](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2012.10.55_zpswctmzrbe.png)
+![Leon Odey-Knight session](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/85af8e994c841e35d7386625ad41b648.png)
 
 <b>Think like the customer</b><br/>
 You need to be able to constantly validate what you’re doing with your customers:
@@ -98,7 +98,7 @@ The only way to be sure you’re designing a service that will add value to your
 - Gain a deeper understanding from their feedback
 - Use this new insight to move forward
 
-![Test test test](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2014.26.58_zps37gk7azd.png)
+![Test test test](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f8c34af033c6da52cd39863d9a8652ef.png)
 
 <b>Making space to be creative</b><br/>
 Geting into the right frame of mind can be challenging, you need a bit of space to ‘think different’<br/>
@@ -133,7 +133,7 @@ Begin your service design with an Inception Workshop – cover your:<br/>
 - Stakeholder mapping - Identify all the different actors in the delivery of the service and arrange them on post-its on the wall
 - Personas - Map these out
 
-![Tunbridge Wells](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2011.31.34_zpslzcccewm.png)
+![Tunbridge Wells](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f55659003ccf56fe740c36ea80182339.png)
 
 <b>What’s next?</b><br/>
 Follow your Inception Workshop with a Design Workshop. Draw out the future service – what will it look like? Combine ideas from within the team and beyond, then follow this with your user stories.<br/>
@@ -164,7 +164,7 @@ Digital expertise in councils is placed in certain areas – IT, for example. Wi
  
 The answer to this problem - a team of agile pioneers is needed:<br/>
 
-![Agile pioneers](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-18%20at%2011.38.00_zpslordwse4.png)
+![Agile pioneers](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/42528fdf46ccc97cfbf3ae0ba5e20cad.png)
  
 A team of these agile specialists can come into an organisation, communicate the ‘why’ (why they’re doing what they’re doing) and integrate, embed and co-locate themselves within a council team.<br/>
  

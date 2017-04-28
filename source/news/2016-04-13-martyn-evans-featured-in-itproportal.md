@@ -7,7 +7,7 @@ title: Martyn Evans featured in ITProPortal
 
 Martyn Evans, our Head of Product, is featured in online leading and technology platform, ITProPortal with his guide for public sector service transformation projects: <i>‘Seven ways to kickstart your local digital services platform’</i>.<br/>
 
-![Martyn Evans](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-04-14%20at%2010.17.12_zps6oqcezpo.png)
+![Martyn Evans](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/5c56db64bd3ff6e12bd7f66f5677c9dc.png)
 
 In this guide, Martyn provides a seven-step point checklist to consider in the lead up to your digital transformation project launch.<br/>
 

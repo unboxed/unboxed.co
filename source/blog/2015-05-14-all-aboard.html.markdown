@@ -15,7 +15,7 @@ The sooner New Joiners feel welcome and prepared for their jobs, the sooner they
 
 New Joiners get about <b>90 days</b> to prove themselves in an organisation, marked by a 3 month probation period as per contractual clause. In our journey from a Start up to a SME we have learnt the importance of allowing New Joiners to hit the ground running.
 
-<p align="center"><img src="http://i1060.photobucket.com/albums/t447/claire_wags/landing_zps9vecll4f.png" alt="image1" height="449" width="581"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c653d6a0518b936c0cbb2eb51b1dc0f2.png" alt="image1" height="449" width="581"></p>
 
 
 This is how we do it at Unboxed Consulting...
@@ -26,7 +26,7 @@ Great talent may not be worth the trouble if the person can’t fit into the cul
 
 The kind of people you seek to recruit should be enthusiastic about the things that make your organisation tick. And, as all jobs involve dealing with people it is important that soft skills are captured in the <i>definition of success in your organisation</i>.
 
-<p align="center"><img src="http://i1060.photobucket.com/albums/t447/claire_wags/Screenshot%202015-04-28%2016.27.44_zpsofgbkwy7.png" alt="image1" height="449" width="581"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c46e7c51e914ccc9c654f4cecf064e6d.png" alt="image1" height="449" width="581"></p>
 >
 <h2>T-15: Get to know your newbie</h2>
 
@@ -39,7 +39,7 @@ Give New Joiners access to your systems before they start. At Unboxed Consulting
 
 One of the tasks on the UBXD Induction Game Trello board relates to the [caricatures](/people) that we have on our virtual and physical walls. A New Joiner looks on our “Wall of Faces” to identify who they have met during the recruitment process and who they will be working with on their first project. It helps us to identify who the New Joiner has yet to meet too.
 
-<p align="center"><img src="http://i1060.photobucket.com/albums/t447/claire_wags/wall%20of%20face_zpsu3mpyuiq.jpg" alt="image1" height="449" width="581"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/ab5d59b7ab136dd273a158d4a45d8ce5.jpg" alt="image1" height="449" width="581"></p>
 
 
 
@@ -68,20 +68,20 @@ Schedule time in your calendar to remind you to check in with your New Joiner an
 <h2>The 3 Keys to Doing it Right</h2>
 
 
-<p align="center"><img src="http://i1060.photobucket.com/albums/t447/claire_wags/Screenshot%202015-05-14%2017.12.33_zpscnlhvhvq.png" alt="image1" height="150" width="550"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f82f83e2215a3ee94d0a38b60ab98777.png" alt="image1" height="150" width="550"></p>
 
 
 
-<p align="center"><img src="http://i1060.photobucket.com/albums/t447/claire_wags/Screenshot%202015-05-14%2016.40.48_zpsrhd8x7q0.png" alt="image1" height="100" width="500"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f8cb234d9943df2bdf7d993642d3ab36.png" alt="image1" height="100" width="500"></p>
 
 
-<p align="center"><img src="http://i1060.photobucket.com/albums/t447/claire_wags/Screenshot%202015-05-14%2016.41.37_zpsgtmhpnjd.png" alt="image1" height="120" width="400"></p>>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/8fd4a814898c5535ab10e49ae76a5037.png" alt="image1" height="120" width="400"></p>>
 <h2>T +80: Retrospect</h2>
 
 Making a New Joiner feel special and welcome in the organisation will help your team to bond and ultimately produce better work faster. Ensure your process works and is current so that your New Joiners have been given all the tools necessary to prepare them for their new job and that you are in the best position to maximise synergies.
 
 
-<p align="center"><img src="http://i1060.photobucket.com/albums/t447/claire_wags/Hugs_zpsn05wwsri.jpg" alt="image1" height="400" width="581"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2c28357fa0d857a77e7cb5c9ae308fb6.jpg" alt="image1" height="400" width="581"></p>
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Give new joiners access to your systems before they start. <a href="https://twitter.com/ClaireKmp">@ClaireKmp</a> <a href="https://twitter.com/hashtag/AHugAtTheDoor?src=hash">#AHugAtTheDoor</a> <a href="https://twitter.com/hashtag/DS15?src=hash">#DS15</a></p>&mdash; Unboxed Consulting (@Ubxd) <a href="https://twitter.com/Ubxd/status/598042405569470464">May 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 

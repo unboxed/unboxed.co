@@ -30,7 +30,7 @@ Join us for this one-off meetup where [Andrew White](https://unboxed.co/people/#
 <br/>
 # About Andrew White
 
-![Andrew White's Technical Breakfast Club](http://i1291.photobucket.com/albums/b548/grammccram/94306a3c-3577-4005-a4d0-673202e2db1c_zps8xf0g9cb.png)
+![Andrew White's Technical Breakfast Club](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/9e40716a3e783a1860f40af935d44b21.png)
 
 Andrew has been a contributor to Rails since 2007 and since 2012 has been one of 12 Rails Core Team members responsible for setting the future direction of the framework. He is currently the only Core Team member based in the UK.<br/>
 

@@ -15,7 +15,7 @@ Digital technology is too – but not in healthcare. Facebook, Twitter, Skype an
 - Why don’t I have an online record of my healthcare treatment?<br/>
 - Why are so many UK citizens who try to manage their own health and wellbeing feeling isolated from the NHS?<br/></p>
 
-<p><img src="http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-02%20at%2012.42.46_zpsqsnmoxgd.png" alt="healthcare1"/></p>
+<p><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/4ced5e08de00fe150351831c99b1d367.png" alt="healthcare1"/></p>
 
 <p>We&#39;ll be hearing from health technology leaders:</p>
 - Kumar Jacob MBE - Principal Consultant, KJx

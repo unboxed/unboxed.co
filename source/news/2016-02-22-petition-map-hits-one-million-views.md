@@ -18,11 +18,11 @@ The map has also featured in a number of national online publications, including
 
 Petition Map is a heat map of the UK, which allows users to select from all live petitions (direct from [Parliament Petitions](https://petition.parliament.uk)) and generate a map visualisation based on petition popularity by constituency, using open source data. Users can also search through each constituency to find out the number of signatures on petitions in each individual area.<br/>
 
-![Petition Map](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-20%20at%2016.05.50_zpsi6t0cifh.png)
+![Petition Map](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/80eb889dcf49c2944e061d5fec8f6f96.png)
 
 The map can be accessed directly from each live petition on the Parliament Petitions website:
 
-![Petition Map link](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-19%20at%2021.54.43_zpsqmfbcvq4.png)
+![Petition Map link](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/16a3e6855145b0cd63995fe3bd6cae28.png)
 
 We [worked with Government Digital Service](https://unboxed.co/project-stories/petitions/) last year to re-build the Petitions platform. Petition Map was built by our intern, Cale.<br/>
 

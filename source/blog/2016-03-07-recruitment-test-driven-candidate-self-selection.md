@@ -4,7 +4,7 @@ authors:
 tags: 
   - Culture
   - Innovation
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/86d043f014ddb0bf7f23bd1bd1ee098b.png"
 date: "2016-03-07 10:47 +0000"
 published: true
 title: "Recruitment: Test Driven Candidate Self Selection"
@@ -21,13 +21,13 @@ And I am old now, I know. I am terrified of talking to kids, who know more about
 # The Solution
 Over dinner the night before the event I applied some lean thinking to how our stand could be set up to reduce the waste of unnecessary awkwardness. Lucky for me, I work with developers who have taught me their preference for Test Driven Development (TDD) as a means of driving valuable solutions. And, as they are the sort of people I hope to attract to our stand, it made sense to “write” some tests to ensure that I was only talking to the right people.<br/>
 
-![Graduate fair 3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2011.12.53_zpsraux16in.png)
+![Graduate fair 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/5315f2a240d3dfafb245300bcf7172ec.png)
 
 # The method
 <i>Writing a test case that defined the desired candidate</i><br/>
 On arrival at the fair an ideal candidate escorted us to our stand: great communicator, helpful, funny, CompSci student in his second year. This was my opportunity to validate that my approach would select the right sort of candidate.<br/>
 
-![Graduate fair 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.47.22_zps66x7wh2k.png)
+![Graduate fair 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/86d043f014ddb0bf7f23bd1bd1ee098b.png)
 
 <i>Producing the minimum viable solution to pass that test</i><br/>
 In a mock tech test situation, I asked the trial user to lay out my test, setting the happy path in the decision tree.  This would drive the design of interaction with delegates at the fair and ensure that candidates that appeared at our stand was matched against at least one suitability criteria.<br/>
@@ -38,7 +38,7 @@ In a mock tech test situation, I asked the trial user to lay out my test, settin
 <i>Refactoring</i><br/>
 I wanted candidates to be able to identify with the apparent madness in my method so I updated the process to reflect requirement for a sense of humour. By running a couple of candidates through it we found that unsuitable candidates were eliminated early in the process.<br/>
 
-![Graduate fair 4](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2010.52.47_zpsxifuik24.png)
+![Graduate fair 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/84c10a6cf7afca012102592cba27d48c.png)
 
 I did not want to seem rude or cruel, and I respect the knowledge these people possess, so we added a chocolate prize for everybody as if to say “Well done for being clever!”. We also added a gaming incentive in the form of rewarding better quality chocolate the further along the decision tree each candidate got.<br/>
 <br/>
@@ -52,7 +52,7 @@ We know that internships are like summer camps for high-achieving insomniacs - i
 
 Savings from onboarding coupled with the savings resulting from implementing test driven candidate self selection are greater than the shame and awkwardness I feel in those conversations with students that I do not know, who are just trying to impress me as a potential new employer.<br/>
 
-![Graduate fair 1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-03-07%20at%2011.13.19_zpshxbbpe4z.png)
+![Graduate fair 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2837cdef5408f1c482b2c9c6eadcf246.png)
 
 
 

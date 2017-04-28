@@ -4,14 +4,14 @@ published: true
 title: The designful movement
 tags:
   - Design
-main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/DSC03922_zpsj6qjrhvt.jpg'
+main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/ec6d267087eafb2c933aa81cb7596329.jpg'
 authors:
   - Leon Odey Knight
 ---
 “Their value proposition was, ‘Make it whatever you want. You can choose whatever color you want,'...I believe that’s abdicating your responsibility as a designer.”<br/>
 - Jonathan Ive on Moto Maker<br/>
 
-![The designful movement 1](http://i1291.photobucket.com/albums/b548/grammccram/motorola-moto-x-moto-maker-screenshot-8-1500x855_zpskhactzgb.jpg)
+![The designful movement 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/736961afb2c9c91e90b8021c4927acfd.jpg)
 
 <br/>
 For me this statement sums up the way we as designers often feel about design. And who can blame us?<br/>
@@ -23,7 +23,7 @@ Years of being subjected to comments such as:<br/>
 "Maybe move it over to the right a bit..."<br/>
 "We don't need to speak to our customers, we know what they want..."<br/>
 
-![The designful movement 2](http://i1291.photobucket.com/albums/b548/grammccram/shrek_zpsjvmit0oj.jpg)
+![The designful movement 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/79fca004b7b94daac3de37f801a415f9.jpg)
 
 <br/>
 Is it any surprise that we have grabbed our pitchforks and said enough is enough! This is our land!<br/>
@@ -40,13 +40,13 @@ I have facilitated numerous workshops with clients who have not been exposed to 
 
 But involve, guide and encourage them and by the end of any given session what you will find is that more often than not they feel engaged, excited and passionate about the thing you are working on together.<br/>
 
-![The designful movement 3](http://i1291.photobucket.com/albums/b548/grammccram/mash_zpsjuhbxtj4.jpg)
+![The designful movement 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/909408f805560a80be051e37e8f79262.jpg)
 
 So why cut them out of the process.<br/>
 
 This shouldn't be black box thinking. We don't have all of the answers. What we have a certain set of skills...<br/>
 
-![The designful movement 4](http://i1291.photobucket.com/albums/b548/grammccram/taken_zpsxfzmcs3b.jpg)
+![The designful movement 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/496c0bb7368c1520855e66f5ef431f1d.jpg)
 
 <br/>
 And whilst we may all utter those very well known lines at times... Ultimately I feel we are missing the bigger picture.<br/>

@@ -9,11 +9,11 @@ tags:
   - Culture
   - Innovation
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-10-28%20at%2012.06.26_zpsiskyzric.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-images/d7c8603808d3584ae28ba331345993e6.png
 ---
 Paula and I attended last Friday’s [NEXT London 2016 - Google Cloud Platform's User Conference](https://cloudplatformonline.com/NEXT2016-London.html) - the largest Google developer and IT gathering in the UK, exploring the latest developments in cloud technology.<br/>
 
-![Google Cloud Platform's User Conference](http://i1291.photobucket.com/albums/b548/grammccram/67986f78-d115-40c8-bd50-a48ead03e4e6_zpsxbldytwq.png)
+![Google Cloud Platform's User Conference](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/828a78dd06656611840846f583cba741.png)
 
 Across the day, we attended a number of sessions from the Plenary and Breakout tracks. Here are our summaries of some these talks... <br/>
 <br/>
@@ -39,7 +39,7 @@ hosted storage offerings - that apparently only dropped ~100 files out of the 3
 petabytes of data. 'Coldline' was also announced at the same price point as AWS
 Glacier - only markedly faster.<br/>
 
-![GCP audience](http://imagizer.imageshack.us/a/img922/7448/WzW0xt.jpg)
+![GCP audience](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/63580f5260ca4da0dfd3ac7d6080e4ba.jpg)
 
 <br/>
 # Rats and soft drinks: stories from the IoT frontline
@@ -112,7 +112,7 @@ the possibilities to store images, videos or other large files, and how to use
 Firebase Analytics. There is no doubt that these are many examples of
 infrastructure advantages that developers now won't have to worry about anymore.<br/>
 
-![Firebase session](http://imageshack.com/a/img921/4791/bGWQv6.jpg)
+![Firebase session](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/172f6f0223c2e02ff11e7e23f3f81cd3.jpg)
 
 <br/>
 # Presentation #2: Tensorflow and deep learning (without a PhD)
@@ -137,4 +137,4 @@ strives to take a machine learning mainstream, and with Vision, Speech or
 Natural Language APIs, we're much closer to developing applications that can
 “understand” the world around them.
 
-![Martin Gorner and TensorFlow in action](http://imageshack.com/a/img923/8261/3ZiPHl.jpg)
+![Martin Gorner and TensorFlow in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/bded072910033b16dab3b4d6da114a73.jpg)

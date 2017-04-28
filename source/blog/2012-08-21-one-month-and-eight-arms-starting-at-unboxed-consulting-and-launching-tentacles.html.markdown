@@ -23,7 +23,7 @@ Behind the scenes is the first beta release after four weeks of development. Thi
 
 There have been several tools used during this project: git and Pivotal Tracker are amongst those which were new to me. I have been picking up how these tools work quite quickly, however git remains a small challenge each day after only having revision control experience with SVN. Pivotal Tracker on the other hand has been great, and certainly helps to illustrate how the project is progressing. A post by Richard showing our workflow can be seen [here](/blog/pivotal-tracker-workflow). We also keep track of our stories on the office wall. A photo of this can be seen below.
 
-<img alt='tentacl.es story wall' src='http://f.cl.ly/items/1V2j3z163i31370k380M/tentacles-wall.jpg' style='width: 580px; height: 740px'/>
+<img alt='tentacl.es story wall' src='https://s3-eu-west-1.amazonaws.com/unboxed-web-images/dfc47455701919b9f02c86cd83fccdb6.jpg' style='width: 580px; height: 740px'/>
 
 Other tools we have utilised include [Balsamiq Mockups](http://www.balsamiq.com/products/mockups) for wireframes, [Campfire](http://campfirenow.com/) for developer and project chat and iChat for individual messages. I have also been using Unboxed's wiki which provides guidance for numerous occasions, for instance how to set up a project from scratch, or how to set up the development environment on your computer.
 

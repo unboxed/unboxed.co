@@ -8,7 +8,7 @@ tags:
   - Innovation
   - Rails
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/89f18fc1-0e3a-4f1a-a413-1c03448915f9_zpsfgdzlxh0.jpg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-images/42d79fb93b6e8dc3e7dc371921f83ef1.jpg
 ---
 Each month, we host a Dev Event which is an opportunity for our developers to get together, share ideas, or just catch up with each other.<br/>
 <br/>
@@ -18,7 +18,7 @@ Each month, we host a Dev Event which is an opportunity for our developers to ge
 
 This May we hosted <i>“Faster than Lightning”</i> code talks. For this event, each developer is asked to submit a snippet of code that they found interesting. The code doesn’t have to be advanced, flashy, or something written by themselves. It can be good code or not-so-good. It can be Ruby, CSS, JS, test code, server config or anything else. The idea is to get together with our fellow devs and learn a little about what they’ve been thinking about, with the code as the talking point.<br/>
 
-![Dev event 1](http://i1291.photobucket.com/albums/b548/grammccram/d2c583d6-0533-4119-8a08-f69162bd600f_zpswfmh0tlc.jpg)
+![Dev event 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/af285d6790463b832c26e7f59d9f9923.jpg)
 <br/>
 
 Here's a selection of the submissions from May:<br/>
@@ -75,7 +75,7 @@ Over the last week I’ve been working on [SH:24](https://unboxed.co/project-sto
 
 As part of a project for [Buckinghamshire County Council](https://unboxed.co/project-stories/bucks-cc), we needed to display points on a map using longitude and latitude but the data was stored as OS grid references. To make the conversion I implemented equations supplied by the OS in Ruby which converts from the flat coordinate space of the OS grid to the polar coordinate space of latitude/longitude (commonly known as WGS84). One complicating factor was the fact that the OS uses a slightly different ellipsoid to do the mercator projection which meant applying a 3D transformation between two different ellipsoids.<br/>
 
-![Andrew White](http://i1291.photobucket.com/albums/b548/grammccram/IMG_3718_zpshzi7wsdb.jpg)
+![Andrew White](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/4235a580dc11fdd7fed9e0856e0c76d3.jpg)
 
 
 <br/>
@@ -116,7 +116,7 @@ describe CompetitorDrop do
 end
 ```
 
-![Dev event 2](http://i1291.photobucket.com/albums/b548/grammccram/344cd372-f4c3-4dcb-908a-f4eaffaa671f_zpsprtsrimc.jpg)
+![Dev event 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/bd44e13160c55abb561da5331ba26b95.jpg)
 
 
 <br/>

@@ -63,5 +63,5 @@ Awesome HTML and CSS expander, compatible with loads of editors. Problem is reme
 
 ### And finally a token Christmas Cat
 
-![Token Christmas Cat](https://lh6.googleusercontent.com/-y0WSSjWsFwU/UrRqdudzG6I/AAAAAAAAArg/piSvgsOb_jA/s700/%255Bwallcoo.com%255D_christmas_257.jpg)
+![Token Christmas Cat](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/74a2c3dc1ea5ddd3a607c883615f7344.jpg)
 

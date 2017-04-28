@@ -9,12 +9,12 @@ tags:
   - Innovation
   - Rails
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/FTL%20November_zpsvbhdqhhn.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c7bf974d0194c0ed97c26e4e19499306.png
 has_syntax: true
 ---
 Interesting code snippets, insightful discussion, story sharing and good company - it’s November’s ‘Faster than Lightning’ developer talks at Unboxed.<br/>
 
-![Faster than Lightning November](http://i1291.photobucket.com/albums/b548/grammccram/November%20FTL_zpsykl8iwst.jpg)
+![Faster than Lightning November](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/e5eafbab67a71407a8f22e7e645bc684.jpg)
 
 Here’s a selection of the submissions from this month:<br/>
 <br/>

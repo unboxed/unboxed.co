@@ -23,7 +23,7 @@ I don’t think I can talk about digital products (i.e. apps, websites or interf
 <h2>Before we think about the future of digital, let’s talk devices</h2>
 Devices have, in many ways become a commodity, most of us have at least one and they are about as powerful as we need them to be for us to get things done. Whether you need a 7.5” screen to do those things on is another matter. Whatever size you go for there is no doubt that they are our lifeline to the <i>'world within the world’</i>.<br/>
 <br/>
-![image1](http://i1291.photobucket.com/albums/b548/grammccram/cfad3e2f-62a8-40d5-8255-d132ac395ebf_zpshowlh5gh.png)<br/>
+![image1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/6bf4f30bfd2ca6e0cbd421da156f5d04.png)<br/>
 
 But what of the digital products that we view this world through? Are they, too, being commoditised? Do we need <i>another</i> social channel, music player, news feed or inaccurate fitness tracker?<br/>
 <br/>

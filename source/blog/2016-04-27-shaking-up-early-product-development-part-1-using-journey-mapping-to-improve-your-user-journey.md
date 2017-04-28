@@ -4,7 +4,7 @@ authors:
 tags: 
   - Agile
   - Design
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-04-27%20at%2012.09.11_zpsv0lbvpnk.png"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b32333f353b251071e197151b417a4a1.png"
 date: "2016-04-27 11:47 +0100"
 published: true
 title: "Shaking up early product development, part 1: Using journey mapping to improve your user journey"
@@ -16,7 +16,7 @@ Journey mapping is a very useful way of developing the user journey of your cust
 # Map, re-map, and then map again
 In agile, you will generally see lots of post-it notes, constantly mapping and capturing ideas in the most visible and simple form. It makes it possible to move these ideas around, mapping them, then re-mapping them. When creating a digital service, the digital journey part is often only a small part of a much bigger experience. It’s useful to think about your user's journey through this whole experience. For example, how did they find out about this particular service? How do they engage with it?<br/>
 
-![Early product development](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-04-20%20at%2013.50.00_zpsjpzsxa8b.png)
+![Early product development](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/50fb7030a5435024f9758bc17ca6b592.png)
 
 # Managing your users’ expectations
 Once you start to understand the journey your users might take through your service, you can then start to think about what they’re expecting to see and when. What should you provide at each stage? There are some linear things that users might expect when using your service without which, they’ll be unhappy. And there are features they could never have named, but when they are offered make the user very happy! So expectations can be subtle and wide ranging.<br/>

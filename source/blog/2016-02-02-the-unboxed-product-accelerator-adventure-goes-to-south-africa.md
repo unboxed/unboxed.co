@@ -5,7 +5,7 @@ tags:
   - Culture
   - Innovation
   - Lean
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.20.19_zpslgtell13.png"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/1af0e2faef057b8c3be4f23d2d7cd74e.png"
 date: "2016-02-02 11:13 +0000"
 published: true
 title: The Unboxed product accelerator adventure goes to South Africa
@@ -23,11 +23,11 @@ With three days to go, we’re about to fly out and we have three teams signed u
 
 [Jack Hubbard](https://twitter.com/jackhubbard), our co-conspirator and founder of [Dream Valley Projects](http://www.dreamvalleyprojects.co.uk) is there when we arrive and suddenly it’s real.
 
-![Jack Hubbard](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.30.25_zpslfedefxv.png)
+![Jack Hubbard](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/120c9cfc6c4e6a5cec9425d18832337d.png)
 
 It’s Friday night. We’re about to launch. 18 teams and 25 people arrive for opening drinks in our glorious venue - Silwood This is start up acceleration among the trees, birds and hardidaas. It’s December and I’m in my flip flops welcoming Cape Town’s most open, creative and smart entrepreneurs with drinks, music and an inspiring talk from Jack Hubbard. It’s hard to believe this is work.
 
-![Friday](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2014.11.32_zpsrjxklu4d.png)
+![Friday](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/e9a589487d40cbf7526e25e77fecb209.png)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hungry entrepreneurs <a href="https://t.co/DzNMw5lZ21">pic.twitter.com/DzNMw5lZ21</a></p>&mdash; Techqala Accelerator (@techqala) <a href="https://twitter.com/techqala/status/673447960705933312">December 6, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
@@ -39,11 +39,11 @@ The 9-day programme is structured into three parts:<br/>
 2.	Validate your persona, problem and solution<br/>
 3.	Articulate and share your product with the world<br/>
 
-![Techqala](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.20.19_zpslgtell13.png)
+![Techqala](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/1af0e2faef057b8c3be4f23d2d7cd74e.png)
 
 We spend mornings learning a concept and its associated tools over brunch, under the trees. In the afternoon, each team goes out and ‘does stuff’ – talks to customers, builds things, runs experiments. We gather back together early evening for beers and more learning.
 
-![Pitch](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.30.10_zpssazbobrg.png)
+![Pitch](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f742bb29c9a4dfcfa13639b7ec8e3d04.png)
 
 Richard does his uncomfortable but powerful ‘destroy your business’ exercise but sadly doesn’t get the opportunity to do my personal favourite ‘Faster Horse’. 
 
@@ -66,7 +66,7 @@ We spend the 9 days deeply impressed by the quality of the people and ideas in C
 - Fourteen exceptionally crisp and meaningful 3min pitches at the demo day
 - Presenting all the participants with Techqala alumni business cards and sharing the video of the journey
 
-![Business cards](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2014.03.31_zpsggastkib.png)
+![Business cards](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/34db6c3fac0d63edbf0f385ea53d4636.png)
 <br/>
 
 # What we learned
@@ -77,7 +77,7 @@ We spend the 9 days deeply impressed by the quality of the people and ideas in C
 - The size of group is part of the buzz - more than fifteen creates energy of its own
 - Weaving work, play and normal life together enables people to bring all of themselves and think bigger and with more clarity
 
-![Overstimulated](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.30.42_zpshi91khhi.png)
+![Overstimulated](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/ee26f6473536410880d3c914c1625754.png)
 
 Follow [@techqala](https://twitter.com/techqala) on Twitter
 

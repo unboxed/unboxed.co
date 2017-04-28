@@ -42,7 +42,7 @@ Here we're setting an expectation. We're expecting the "save" method on the "Net
 
 Lets run the test and watch it fail.
 
-![Failing test with a mock expectation](http://carlmw.github.com/articles/failing_mock.png)
+![Failing test with a mock expectation](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/4c44722ce825590079ad723a48104be3.png)
 
 Now we'll write some code to make it pass.
 
@@ -58,7 +58,7 @@ Now we'll write some code to make it pass.
 
 And run the tests.
 
-![Passing test with a mock](http://carlmw.github.com/articles/passing_mock.png)
+![Passing test with a mock](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2e9f3ace2606f084e75b9041cabe8d70.png)
 
 Perfect.
 
@@ -85,7 +85,7 @@ Here we're creating a stub for "save" on our Network API. We're telling it to re
 
 If we run our tests we should see one failure.
 
-![Failing test with a stub](http://carlmw.github.com/articles/failing_stub.png)
+![Failing test with a stub](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/d9b7418c034b27e5c9fad020673b5bb9.png)
 
 And if we write some code to make it pass.
 
@@ -104,7 +104,7 @@ And if we write some code to make it pass.
 
 Then run our tests.
 
-![Passing test with a stub](http://carlmw.github.com/articles/passing_stub.png)
+![Passing test with a stub](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a6a2c84a4ad61467e67530b5fa6f2f34.png)
 
 Done.
 
@@ -129,7 +129,7 @@ We're creating a spy and subscribing it to an event on our subject. We then exer
 
 Lets watch the test fail.
 
-![Failing test with a spy](http://carlmw.github.com/articles/failing_spy.png)
+![Failing test with a spy](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a9ea9188d1426d6758ea15ab4de47ee7.png)
 
 Now lets write some code to make it pass.
 
@@ -157,7 +157,7 @@ Now lets write some code to make it pass.
 
 Run the tests
 
-![Passing test with a spy](http://carlmw.github.com/articles/passing_spy.png)
+![Passing test with a spy](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3287ab91b2bf424384da40e32f9ab33a.png)
 
 Spot on.
 
