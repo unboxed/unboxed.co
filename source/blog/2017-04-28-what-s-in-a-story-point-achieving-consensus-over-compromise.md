@@ -14,6 +14,8 @@ Lots of talk and not much coding doesn’t always make for a chirpy team by lunc
 
 Depending on the team size and personalities, some things which I’d assume would be a quick conversation followed by a decision can become drawn out.<br/>
 
+![Story point estimation 1](http://i.imgur.com/UEqoalc.jpg)
+
 Something I’ve learnt as a Scrum Master is that consensus within a team is much more valuable than compromise.<br/>
 
 If you bring the whole team along on the journey, rather than forcing a compromise, what results is a great team bond, strong commitment to delivery and a shared understanding each sprint of what they’re trying to achieve and how.<br/>
@@ -28,7 +30,7 @@ Sometimes, I do this to further consolidate team collaboration, mutual respect a
 
 An example of this occurred in a recent planning session. As a result of playing planning poker, there was some debate about whether a story should be estimated as 2 or 3 story points.<br/>
 
-![Story point estimation 1](http://i.imgur.com/UEqoalc.jpg)
+![Story point estimation 2](http://i.imgur.com/twww2YL.jpg)
 
 It was a large group and I allowed the conversation to go on for 10 minutes or so.<br/>
 
@@ -38,7 +40,7 @@ However, the value of this exercise wasn’t in obtaining a super-accurate story
 
 The developer arguing for the lower estimate was making a valid point about referring to our benchmark user story and helping the team properly consider what was required to implement the story.<br/>
 
-![Story point estimation 2](http://i.imgur.com/bc8fVv5.jpg)
+![Story point estimation 3](http://i.imgur.com/bc8fVv5.jpg)
 
 When the team re-voted, they arrived at a consensus of 3 story points. Everyone had had a chance to voice their view, had a clear understanding of how they’d implement the story and an understanding of the risk level associated with it.<br/>
 
