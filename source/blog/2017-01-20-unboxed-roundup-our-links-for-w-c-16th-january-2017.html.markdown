@@ -35,7 +35,7 @@ Simple gem for unobtrusive spam rejection in Rails. We rolled our own version
 of this in a recent project but it's something that would be nice to reuse on
 other public forms.
 
-## How Discord Stores Billions of Messages - [Pawel J](/people#pawel-janiak)
+## How Discord Stores Billions of Messages - Pawel J
 
 https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
 

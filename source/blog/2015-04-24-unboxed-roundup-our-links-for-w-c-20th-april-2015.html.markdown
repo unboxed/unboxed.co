@@ -29,7 +29,7 @@ http://kryogenix.org/code/browser/everyonehasjs.html
 
 I've always felt that progressive enhancement is the correct way to build websites: make it work without JS and then layer JS on top to provide a richer experience.  It's fine if the non-JS version isn't as fancy as the JS one, but at least all the visitors to the site can actually use it.  The problem I often have during these discussions is that it sounds like some hoity-toity intellectual argument for correct-ness that doesn't really matter because "everyone has JS, no-one turns it off anymore".  This flow-chart provides good arguments for all the reasons that "everyone has JS" isn't necessarily true.  I'll be keeping this on hand for future discussions to help provide more evidence that progressive enhancement is the right thing to do.
 
-## Track of the Week - [Pawel J.](/people#pawel-janiak)
+## Track of the Week - Pawel J.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSZOiq7-3mE" frameborder="0" allowfullscreen></iframe>
 ["Lost Memory" by Boris Brejcha](https://www.youtube.com/watch?v=SSZOiq7-3mE)
