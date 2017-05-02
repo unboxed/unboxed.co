@@ -30,7 +30,7 @@ source or contribute to it so it's good to know what are the rights and
 restrictions when it comes to one of the most popular, and the one used
 by Ruby on Rails itself, the MIT License.
 
-## Track of the Week - [Mareliza K](/people#mareliza-kirschbaum)
+## Track of the Week - Mareliza K
 
 We used to listen to Sigur Ros, drink condensed milk and smoke menthol cigarettes in university. Nowadays, in between baby, work and rest we put Sigur Ros on repeat over weekends... :)
 

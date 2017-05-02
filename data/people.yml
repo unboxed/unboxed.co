@@ -269,11 +269,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/mattturrell1"
 
-- name: "Mareliza Kirschbaum"
-  short_name: "mareliza-kirschbaum"
-  role: "Admin"
-  email: "mareliza.kirschbaum"
-
 - name: "Charlie Egan"
   short_name: "charlie-egan"
   role: "Developer"
