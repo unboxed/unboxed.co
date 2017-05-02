@@ -42,6 +42,9 @@ Active reloading is configured, so the server will listen for changes and refres
 
   Use `middleman article "[article name]" --blog news` to create a new blog file.
 
+* ### Removing someone from people
+    Use `rake remove_person` to start the script to remove someone from the website. Type their proper full name into the script.
+
 ## Testing
 
 Using [BrowserStack](https://www.browserstack.com) for compatibility testing
