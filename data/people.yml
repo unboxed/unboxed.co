@@ -343,12 +343,3 @@
     - name: "Github"
       link: "https://github.com/abraaomota"
 
-- name: "Paul Springett"
-  short_name: "paul-springett"
-  role: "Developer"
-  email: "paul.springett"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/paulspringett"
-    - name: "Github"
-      link: "https://github.com/paulspringett"
