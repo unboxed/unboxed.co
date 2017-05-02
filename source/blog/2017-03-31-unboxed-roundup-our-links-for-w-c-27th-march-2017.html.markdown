@@ -34,7 +34,7 @@ https://github.com/juliangruber/travis-watch
 
 If you work on a lot of open source then you've bound to have come across Travis CI and especially on something like Rails where we test against a large matrix of Ruby version then watching the results in a web browser can be irritatingly slow. Julian Gruber comes to the rescue with travis-watch - a utility for streaming the Travis build of the current commit to the terminal, giving you your very own build status monitor in a window.
 
-## Modern DevTools course - [Pawel J](/people#pawel-janiak)
+## Modern DevTools course - Pawel J
 
 https://www.moderndevtools.com
 

@@ -215,16 +215,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/jolie-lanser-a93b3210"
 
-- name: "Pawel Janiak"
-  short_name: "pawel-janiak"
-  role: "Developer"
-  email: "pawel.janiak"
-  bio: |
-    I love Ruby. I've got a crush on JavaScript. I make terrible jokes.
-  social_networks:
-    - name: "Github"
-      link: "https://github.com/pawel2105"
-
 - name: "Henry Turner"
   short_name: "henry-turner"
   role: "Developer"
@@ -366,18 +356,6 @@
       link: "https://twitter.com/BergenLarsen"
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/bergenlarsen"
-
-- name: "Dreyer Calitz"
-  short_name: "dreyer-calitz"
-  role: "Developer"
-  email: "dreyer.calitz"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/dreyercalitz"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/dreyer-calitz-735a1597"
-    - name: "Github"
-      link: "https://github.com/dreyercalitz"
 
 - name: "Tom Gladhill"
   short_name: "tom-gladhill"

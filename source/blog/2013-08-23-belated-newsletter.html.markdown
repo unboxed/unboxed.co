@@ -48,7 +48,7 @@ https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/a047be85247755cdbe
 
 ---
 
-#[Pawel J](/people#pawel-janiak)
+#Pawel J
 
 ##Top sites built on rails
 https://netguru.co/blog/posts/top-10-sites-built-with-ruby-on-rails

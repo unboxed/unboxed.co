@@ -34,7 +34,7 @@ A blog post from a few years ago, but still useful and relevant.
 #### TDD; where did it all go wrong
 At [the Norwegian Developer Conference](http://www.ndcoslo.com/) earlier this year [Ian Cooper](https://twitter.com/ICooper) gave a talk called ["TDD; Where did it all go wrong?"](https://vimeo.com/68375232) that I recommend we all put aside an hour for and watch. This is a good summary of what any developer, no matter their language of choice, might be doing with TDD today and where we might have misinterpreted [Kent Beck's original ideas](http://www.amazon.co.uk/Driven-Development-Addison-Wesley-Signature-Series/dp/0321146530/).  A welcome hint that it's not a rubyists problem and we can look to other communities for advice.
 
-##[Pawel Janiak](/people#pawel-janiak)
+##Pawel Janiak
 
 #### setting up a digital ocean machine
 http://paweljaniak.co.za/2013/07/10/deploying-to-digital-ocean/

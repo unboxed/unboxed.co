@@ -11,7 +11,7 @@ tags:
   - Lean
 ---
 
-## Resolving schema hack nightmares - [Pawel](/people#pawel-janiak)
+## Resolving schema hack nightmares - Pawel
 
 [Auto resolving schema conflicts](http://toms.mikoss.lv/2013/10/28/git-and-rails-autoresolve-schema-conflicts/)
 

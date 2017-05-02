@@ -39,7 +39,7 @@ https://medium.freecodecamp.com/react-props-state-explained-through-darth-vaders
 
 A nice explanation of React props and state explained using a Star Wars analogy.
 
-## Track of the Week - [Pawel J](/people#pawel-janiak)
+## Track of the Week - Pawel J
 
 Light up your Friday afternoon. Grab a drink from your company's bar if you have one. Grab a friend if you can, and get your mind right for the weekend.
 
