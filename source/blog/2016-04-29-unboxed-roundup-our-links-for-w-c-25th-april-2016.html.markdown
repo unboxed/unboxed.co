@@ -21,7 +21,7 @@ It’s left me with a strange combination of bleakness and hope about the state 
 
 I thoroughly recommend investing the time in reading the series.
 
-## You might find this useful - [Carlo K](/people#carlo-kruger)
+## You might find this useful - Carlo K
 
 https://devdocs.io
 

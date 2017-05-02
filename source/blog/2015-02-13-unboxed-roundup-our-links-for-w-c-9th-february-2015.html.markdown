@@ -33,7 +33,7 @@ http://futurice.com/blog/programmer-proverbs
 
 At the very least, they're food for discussion.
 
-## The Dangerous Hero - [Carlo](/people#carlo-kruger)
+## The Dangerous Hero - Carlo
 
 http://semperagilis.blogspot.co.uk/2015/02/champions-vs-heros.html
 

@@ -21,7 +21,7 @@ http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/
 
 [Chris Parsons](http://chrismdp.com/) writes here about the lack of TDD in the games industry.  This might sound anathema to us web developers, but what I found most interesting is the description of the things that the games industry does instead of TDD.  It's not hard to have 100% test coverage of an application that doesn't work, so it's clear that TDD is not the only solution to building production-ready software and it's worth exploring those alternatives once in a while.
 
-## Why it's better to surf than have developers coding - [Carlo](/people#carlo-kruger)
+## Why it's better to surf than have developers coding - Carlo
 
 http://www.hackerchick.com/2009/01/why-you-should-let-your-developers-surf.html
 

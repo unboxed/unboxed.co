@@ -12,18 +12,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/richardstobart"
 
-- name: "Carlo Kruger"
-  short_name: "carlo-kruger"
-  role: "Operations"
-  email: "carlo.kruger"
-  bio: |
-    I believe building software is the most complex endeavor humans have set themselves to do. At Unboxed I get to do it with smart people who really value working in an Agile manner. And this is all a lot more fun than the world of financial risk management where I started my career.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/ironicbuddha"
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/carlokruger"
-
 - name: "Andrew White"
   short_name: "andrew-white"
   role: "CTO"

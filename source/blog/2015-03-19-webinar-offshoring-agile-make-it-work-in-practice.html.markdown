@@ -8,7 +8,7 @@ tags:
   - Agile
 ---
 
-[Carlo Kruger](/people#carlo-kruger) hosted the final webinar in the <i>#StrongerAgile</i> series, titled <i>‘Offshoring Agile: Make it work in practice’</i>, live from our Cape Town office. Despite the belief that Agile can’t work offshore, this webinar explains how it can flourish with the right mindset, processes and relationship.<br/>
+Carlo Kruger hosted the final webinar in the <i>#StrongerAgile</i> series, titled <i>‘Offshoring Agile: Make it work in practice’</i>, live from our Cape Town office. Despite the belief that Agile can’t work offshore, this webinar explains how it can flourish with the right mindset, processes and relationship.<br/>
 <br/>
 
 <h1>The audio of the full session:</h1>

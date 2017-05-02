@@ -29,7 +29,7 @@ http://www.userfocus.co.uk/articles/learn_from_Sherlock_Holmes.html
 
 I did love this article comparing user research to Sherlock Holmes work. I love how it shows that we should concentrate more on the problem and how to follow the scientific method. IMO we jump to soon into solution mode and we should remember to be more like Sherlock :)
 
-## Rant in JS Minor - [Carlo K](/people#carlo-kruger)
+## Rant in JS Minor - Carlo K
 
 http://naga.co.za/2015/05/08/dont-rely-on-javascript-for-key-functionality/
 
