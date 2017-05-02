@@ -153,20 +153,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/steve-lennon-2bb64555"
 
-- name: "Chris Carter"
-  short_name: "chris-carter"
-  role: "Developer"
-  email: "chris.carter"
-  bio: |
-    I'm a huge geek, with an overly-keen eye for detail, a truly terrible taste in music and a severely lacking knowledge of films. I found my love for development around the age of 16 and since progressed to study Software Engineering at Imperial College, London. I started as an intern at Unboxed in the third year of my degree, and found it so much more rewarding than being at Uni!
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/haironfire907"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/chris-carter-163a5926"
-    - name: "GitHub"
-      link: "https://github.com/chriscarter90"
-
 - name: "Tom Sabin"
   short_name: "tom-sabin"
   role: "Developer"

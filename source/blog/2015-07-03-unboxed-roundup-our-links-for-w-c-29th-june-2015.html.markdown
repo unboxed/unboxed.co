@@ -16,7 +16,7 @@ Woman named Sarah Connor tweets about robot killing man in VW factory:
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p lang="en" dir="ltr">A robot has killed a worker in a VW plant in Germany <a href="http://t.co/RRdCnNmbsj">http://t.co/RRdCnNmbsj</a></p>&mdash; Sarah O&#39;Connor (@sarahoconnor_) <a href="https://twitter.com/sarahoconnor_/status/616282747200479232">July 1, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## “A slap mitigated by permission is a hug” - [Chris C](/people#chris-carter)
+## “A slap mitigated by permission is a hug” - Chris C
 
 A slightly old (a whole year), but an interesting experiment in which pairs of strangers, and close friends, are told to hit one another in the face. Interesting to see that “if you take the destructive component out of violence, it can be kinda intimate”.
 

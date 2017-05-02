@@ -10,7 +10,7 @@ tags:
 
 Here at Unboxed, we're constantly building content management systems. As the web becomes more dynamic and user-driven, it's important to provide the necessary tools for clients to control content on their sites.
 
-One of our ambitions is to use the latest and greatest technologies, whilst ensuring our customers' sites are of a high quality and well-supported. To meet this demand, [Chris Carter](/people#chris-carter) and myself have spent the last week exploring CMS-oriented technologies to help streamline this process.
+One of our ambitions is to use the latest and greatest technologies, whilst ensuring our customers' sites are of a high quality and well-supported. To meet this demand, Chris Carter and myself have spent the last week exploring CMS-oriented technologies to help streamline this process.
 
 # [ActiveAdmin](http://activeadmin.info/)
 

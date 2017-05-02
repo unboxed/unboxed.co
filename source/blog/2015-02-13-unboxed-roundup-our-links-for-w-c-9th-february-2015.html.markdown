@@ -21,7 +21,7 @@ https://github.com/maltize/sublime-text-2-ruby-tests
 
 There are a number of things this package adds to Sublime Text, but the most useful shortcut this adds for me is being able to press `Command + .` to switch between code and its respective test file.
 
-## Mr Data Converter - [Chris](/people#chris-carter)
+## Mr Data Converter - Chris
 
 http://shancarter.github.io/mr-data-converter/
 

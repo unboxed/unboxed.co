@@ -36,7 +36,7 @@ http://martinfowler.com/articles/refactoring-external-service.html
 
 Martin Fowler walks through an example of a single script doing a bunch of things into a more modular design.  The example isn't complex, but it is nicely indicative of the process.  The discussion of other design patterns and trade-offs of how the code could also have been refactored in order to make things more single responsibility is great - highlighting that there is never one answer.
 
-## What colour is this dress? - [Chris C](/people#chris-carter)
+## What colour is this dress? - Chris C
 
 http://www.wired.com/2015/02/science-one-agrees-color-dress/
 

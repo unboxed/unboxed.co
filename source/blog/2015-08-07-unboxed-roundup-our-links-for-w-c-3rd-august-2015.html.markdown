@@ -21,7 +21,7 @@ https://www.rentapplication.com/these-are-the-most-sexually-diseased-cities-in-t
 
 This is the perfect intersection of [Unboxed's work with SH:24](/project-stories/sh24), providing digital sexual health testing 24hrs a day in London, and our love of data...
 
-## One Step Forward, Two Steps Slack? - [Chris C](/people#chris-carter)
+## One Step Forward, Two Steps Slack? - Chris C
 
 www.unboxed.co/blog/communication-one-step-forward-two-steps-slack
 

@@ -55,6 +55,6 @@ A polymorphic association allows us to specify a belongs_to relationship on one 
 
 ## Track of the Week - [Sarah B](/people#sarah-beck)
 
-This time next Friday [Chris](/people#chris-carter) and I will be on the way to Japan, probably somewhere over Siberia. So it would only be right to have a Japanese themed song to get in the mood:
+This time next Friday Chris and I will be on the way to Japan, probably somewhere over Siberia. So it would only be right to have a Japanese themed song to get in the mood:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DdWZKb659K0" frameborder="0" allowfullscreen></iframe>

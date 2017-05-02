@@ -33,7 +33,7 @@ https://robots.thoughtbot.com/derive-inject-for-a-better-understanding
 
 I have found myself return to this blog post lately trying to solve a couple of problems. It gives the kind of headache I like: the one caused by learning. It is approaches the concept of monoids and their use in composition.
 
-## DateTime vs Time - [Chris C](/people#chris-carter)
+## DateTime vs Time - Chris C
 
 https://gist.github.com/pixeltrix/e2298822dd89d854444b
 
