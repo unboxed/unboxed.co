@@ -33,7 +33,7 @@ https://robinlinus.github.io/socialmedia-leak/
 
 Need a quick summary of all the places you're logged in? Try this handy vulnerability(?).
 
-## Track of the Week - [Gary](/people#gary-millar)
+## Track of the Week - Gary
 
 Just a reminder of my younger days... Hopefully it brings back some memories for a few people.
 

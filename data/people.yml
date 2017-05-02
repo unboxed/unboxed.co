@@ -306,11 +306,6 @@
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/lawrencer/"
 
-- name: "Gary Millar"
-  short_name: "gary-millar"
-  role: "Tester"
-  email: "gary.millar"
-
 - name: "Boris Divjak"
   short_name: "boris-divjak"
   role: "Designer"
