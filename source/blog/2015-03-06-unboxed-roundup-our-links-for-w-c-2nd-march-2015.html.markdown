@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=jT5rRh9AZf4
 
 Too many  products are designed to simply suck you in and waste your time. The success metrics for such products are "the more time spent, the better"... the outcome is addictive designs that manipulate users 'with slot-machine psychology, and have no respect for users' time or their desire to live fulfilling lives'. So Tristan argues we need to change the metrics for design success, such that they measure good outcomes for users and remain economically viable for the technology provider.
 
-## The Aeroplane Game - [Carlo](/people#carlo-kruger)
+## The Aeroplane Game - Carlo
 
 http://growingagile.co.za/2015/02/aeroplane-game/
 

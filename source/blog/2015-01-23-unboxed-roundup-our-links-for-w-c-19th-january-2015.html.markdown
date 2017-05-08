@@ -40,7 +40,7 @@ Over 5 hours of Count von Count counting Pi to 10,000 decimal places.
 
 During code reviews: "it's just CSS, meh whatever, just commit that". Jonathan Snook talks about his experiences at Yahoo and Shopify, how him and his coworkers solved unmaintainable CSS. Key points are to modularise, isolate and refactor, using good naming conventions to establish identity. No longer should we "code CSS for your page", but to "code CSS for the system". It's worth checking out [Pattern Lab](http://patternlab.io/) after watching.
 
-## Track of the Week - [Chris C](/people#chris-carter)
+## Track of the Week - Chris C
 
 [Murray](/people#murray-steele), Pedro and I were discussing music in the workplace last night, especially the massive cons of playing ones personal sounds throughout an open-plan office. Therefore, we have created "Track of the Week" - an opportunity every week for one person to nominate a track of their choosing to share with the internets. This week, I've chosen:
 

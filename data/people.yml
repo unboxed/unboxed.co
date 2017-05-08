@@ -12,18 +12,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/richardstobart"
 
-- name: "Carlo Kruger"
-  short_name: "carlo-kruger"
-  role: "Operations"
-  email: "carlo.kruger"
-  bio: |
-    I believe building software is the most complex endeavor humans have set themselves to do. At Unboxed I get to do it with smart people who really value working in an Agile manner. And this is all a lot more fun than the world of financial risk management where I started my career.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/ironicbuddha"
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/carlokruger"
-
 - name: "Andrew White"
   short_name: "andrew-white"
   role: "CTO"
@@ -153,20 +141,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/steve-lennon-2bb64555"
 
-- name: "Chris Carter"
-  short_name: "chris-carter"
-  role: "Developer"
-  email: "chris.carter"
-  bio: |
-    I'm a huge geek, with an overly-keen eye for detail, a truly terrible taste in music and a severely lacking knowledge of films. I found my love for development around the age of 16 and since progressed to study Software Engineering at Imperial College, London. I started as an intern at Unboxed in the third year of my degree, and found it so much more rewarding than being at Uni!
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/haironfire907"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/chris-carter-163a5926"
-    - name: "GitHub"
-      link: "https://github.com/chriscarter90"
-
 - name: "Tom Sabin"
   short_name: "tom-sabin"
   role: "Developer"
@@ -295,11 +269,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/mattturrell1"
 
-- name: "Mareliza Kirschbaum"
-  short_name: "mareliza-kirschbaum"
-  role: "Admin"
-  email: "mareliza.kirschbaum"
-
 - name: "Charlie Egan"
   short_name: "charlie-egan"
   role: "Developer"
@@ -337,25 +306,10 @@
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/lawrencer/"
 
-- name: "Gary Millar"
-  short_name: "gary-millar"
-  role: "Tester"
-  email: "gary.millar"
-
 - name: "Boris Divjak"
   short_name: "boris-divjak"
   role: "Designer"
   email: "boris.divjak"
-
-- name: "Bergen Larsen"
-  short_name: "bergen-larsen"
-  role: "Designer"
-  email: "bergen.larsen"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/BergenLarsen"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/bergenlarsen"
 
 - name: "Tom Gladhill"
   short_name: "tom-gladhill"
@@ -384,12 +338,3 @@
     - name: "Github"
       link: "https://github.com/abraaomota"
 
-- name: "Paul Springett"
-  short_name: "paul-springett"
-  role: "Developer"
-  email: "paul.springett"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/paulspringett"
-    - name: "Github"
-      link: "https://github.com/paulspringett"

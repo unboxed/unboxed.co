@@ -11,7 +11,7 @@ tags:
 
 Welcome to 2015!  Here's what we've been thinking about over the festive period:
 
-## Interviewing Scrum Masters - [Carlo](/people#carlo-kruger)
+## Interviewing Scrum Masters - Carlo
 
 http://news.dice.com/2014/09/04/3-interview-questions-scrum-masters/
 

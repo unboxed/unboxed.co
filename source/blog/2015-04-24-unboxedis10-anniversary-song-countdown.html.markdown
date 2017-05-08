@@ -36,7 +36,7 @@ Claire's comment: <i>“This is the beat for CPR repetition. I had a 70's party 
 Shirin's comment: <i>“On a serious note, you can't live without food.”</i><br/>
 <br/>
 
-##7. [Chris](/people#chris-carter):<br/>
+##7. Chris:<br/>
 <h1>Bombalurina - Itsy Bitsy Teeny Weeny Yellow Polka Dot Bikini</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/MR98gRckjmY" frameborder="0" allowfullscreen></iframe><br/>
 Chris' comment: <i>“God, this is embarrassing.”</i><br/>

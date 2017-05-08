@@ -37,7 +37,7 @@ https://gds.blog.gov.uk/2016/10/14/how-the-sexual-health-24-service-used-gov-uk-
 A nice feature on the GDS blog. A further look into the SH:24 story, following
 a trip to GDS by their Service Development Director.
 
-## Track of the Week - [Bergen L](/people#bergen-larsen)
+## Track of the Week - Bergen L
 
 Following on from Gary's inspiration of old school punk rock, it is a song from my youth which seems appropriate considering the fact that I'm mid-way through exam season and my brain feels like stew.
 

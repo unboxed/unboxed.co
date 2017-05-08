@@ -39,7 +39,7 @@ https://m.signalvnoise.com/the-majestic-monolith-29166d022228
 
 DHH is making the case for why splitting your application into multiple parts is not always the best approach. Although microservices fit very well with the organizational structure of large companies, the same patterns might not make sense and can prove counter-productive for smaller companies. He uses Basecamp as a case study for a successful monolith that's been running since 2003, and argues that one of the advantages of working on it is that you have to understand it as a whole, avoiding fragmentation of knowledge and responsibility.
 
-## Track of the Week - [Chris C](/people#chris-carter)
+## Track of the Week - Chris C
 
 I think there can only be a few choices for my Track of the Week this week. I’ll let it speak for itself…
 

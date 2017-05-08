@@ -45,7 +45,7 @@ regenerate them if you haven't already with ssh-keygen.  Its a little
 interesting read around /dev/random and how entropy is built,
 and lead me onto http://www.2uo.de/myths-about-urandom/. Enjoy...
 
-## Track of the Week - [Carlo K](/people#carlo-kruger)
+## Track of the Week - Carlo K
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/s7srvA1V740" frameborder="0" allowfullscreen></iframe>
 ["Holy Water" by Soundgarden](https://www.youtube.com/watch?v=s7srvA1V740)

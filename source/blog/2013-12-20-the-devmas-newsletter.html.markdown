@@ -55,7 +55,7 @@ Running around this Christmas. Can't organise the Christmas dinner, wrapping the
 
 An interesting article on how to mimmic Node.js' module system. In Ruby, when you call require, all the code from the required file gets loaded into the global name space. This article explores how we could wrap modules like Node.js' closures in Ruby.
 
-### Emmet - [Chris C](/people#chris-carter)
+### Emmet - Chris C
 
 [http://docs.emmet.io](http://docs.emmet.io)
 
