@@ -4,13 +4,15 @@ published: true
 title: 'SH:24 win ''Innovation Team of the Year'' at this year’s BMJ Awards'
 ---
 Online sexual and reproductive health service, [SH:24](https://sh24.org.uk), has been crowned a winner at this year’s [BMJ Awards](http://thebmjawards.bmj.com/home), taking home the award for ‘Innovation Team of the Year’.<br/>
+<br/>
+
+![BMJ Awards Innovation Team of the Year](http://i65.tinypic.com/30jmq6e.png)<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">And the innovation award goes to SH:24 <a href="https://twitter.com/sh24_nhs">@sh24_nhs</a> Great work this year from the team <a href="https://twitter.com/hashtag/thebmjawards?src=hash">#thebmjawards</a></p>&mdash; The BMJ (@bmj_latest) <a href="https://twitter.com/bmj_latest/status/860236826971430912">May 4, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">We were so delighted to be awarded Innovation Team of the Year at the <a href="https://twitter.com/hashtag/bmjawards?src=hash">#bmjawards</a> last night. Thank you to all our fantastic partners! <a href="https://t.co/tyPUsTiWsq">pic.twitter.com/tyPUsTiWsq</a></p>&mdash; SH:24 (@sh24_nhs) <a href="https://twitter.com/sh24_nhs/status/860419890347487233">May 5, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<br/>
 Now in their 9th year, the BMJ Awards are the UK’s leading medical awards, recognising and celebrating the inspirational work of healthcare teams across the country. The awards reflect BMJ’s mission to improve patient outcomes and showcase the very best healthcare in the UK.<br/>
 
 Over 60 groundbreaking healthcare teams and services made it through to this year’s shortlist.<br/>
@@ -18,6 +20,9 @@ Over 60 groundbreaking healthcare teams and services made it through to this yea
 On their win, [Chris Howroyd](https://twitter.com/chrishowroyd) - Service Director at SH:24 said:<br/>
 
 <i>“It’s such an honour for our team to be named Innovation Team of the Year at this year’s BMJ Awards, especially amongst so many other deserving teams, all doing such fantastic work across the country. Innovation is at the very heart of SH:24 and this forms the basis of how this service is succeeding in helping more and more people.”</i><br/>
+
+![SH24 team - Innovation Team of the Year](http://i67.tinypic.com/15nxfrd.png)<br/>
+<br/>
 
 The full list of winners [can be seen in the Winner's Guide](http://thebmjawards.bmj.com/BMJ/media/uploaded/EVBMJ/event_187/Awards_brochure_2017_final__3_.pdf).<br/>
 
@@ -27,3 +32,6 @@ Through collaborating to validate and deliver this user-led service to help redu
 
 Read more about [the story of SH:24 here](https://unboxed.co/project-stories/sh24).<br/>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">We were so delighted to be awarded Innovation Team of the Year at the <a href="https://twitter.com/hashtag/bmjawards?src=hash">#bmjawards</a> last night. Thank you to all our fantastic partners! <a href="https://t.co/tyPUsTiWsq">pic.twitter.com/tyPUsTiWsq</a></p>&mdash; SH:24 (@sh24_nhs) <a href="https://twitter.com/sh24_nhs/status/860419890347487233">May 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
