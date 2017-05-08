@@ -21,7 +21,7 @@ On their win, [Chris Howroyd](https://twitter.com/chrishowroyd) - Service Direct
 <i>“It’s such an honour for our team to be named Innovation Team of the Year at this year’s BMJ Awards, especially amongst so many other deserving teams, all doing such fantastic work across the country. Innovation is at the very heart of SH:24 and this forms the basis of how this service is succeeding in helping more and more people.”</i><br/>
 <br/>
 
-![SH24 team - Innovation Team of the Year](http://i67.tinypic.com/15nxfrd.png)<br/>
+![SH24 team - Innovation Team of the Year](http://i67.tinypic.com/15nxfrd.png)
 
 The full list of winners [can be seen in the Winner's Guide](http://thebmjawards.bmj.com/BMJ/media/uploaded/EVBMJ/event_187/Awards_brochure_2017_final__3_.pdf).<br/>
 
