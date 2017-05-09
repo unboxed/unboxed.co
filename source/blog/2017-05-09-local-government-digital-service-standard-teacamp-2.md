@@ -1,6 +1,6 @@
 ---
 date: '2017-05-09 10:00 +0100'
-published: true
+published: false
 title: 'Local Government Digital Service Standard - TeaCamp #2'
 authors:
   - Graeme McCubbin
