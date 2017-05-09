@@ -27,12 +27,6 @@ This month we have attendees from:<br/>
 - London City Hall
 - London Councils
 - And many more…
-<br/>
-
-<br/>
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Catching up with London local gov colleagues to talk about user research and digital services <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://twitter.com/hashtag/teacamp?src=hash">#teacamp</a></p>&mdash; Innovate at Bexley (@Innovate_Bexley) <a href="https://twitter.com/Innovate_Bexley/status/857636597931618304">April 27, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 <br/>
 # Introductions
