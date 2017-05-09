@@ -34,7 +34,6 @@ With informal chats coming to a close, seats eagerly pulled up to the front - it
 
 ![Local Government Digital Service Standard 2](http://i.imgur.com/EY92Asn.jpg)
 
-<br/>
 Welcoming everyone to the session, Natalie shares the fantastic announcement that City Hall has been shortlisted for a Digital Council award. It’s great to hear that such a digital-savvy team within the public sector are receiving recognition for the great things they’re doing.<br/>
 
 <br/>
@@ -43,23 +42,22 @@ With announcements done and dusted, the room is ready and raring to find out wha
 
 ![Local Government Digital Service Standard 3](http://i.imgur.com/pht0ise.png)
 
-<br/>
 Taking us through this point, based all around understanding your user needs, is a team of two:<br/>
 
 - [Chris Daniels](https://twitter.com/HandleCrisis) – Digital Manager at London City Hall
 - [Steph Troeth](https://twitter.com/sniffles) – Head of Research at Clearleft
 
+<br/>
 Leading the first part of the session, Chris begins by introducing the full description of this point of the Service Standard, highlighting some of the key aspects:<br/>
 
-<i>‘The purpose of this point is to make sure the service is designed around the needs of those who use it.<br/>
+<i>‘The purpose of this point is to make sure the service is <u>designed around the needs of those who use it</u>.<br/>
 
-The team creating the service should have a good understanding of user needs that has come from observing and engaging with end users, understand what users are trying to do when they engage with the current service (the user context, whether currently digital or not) and they understand the user needs - not just functional requirements - that the service will have to achieve in order to be successful.<br/>
+The team creating the service should have a good understanding of user needs that has come from <u>observing and engaging with end users</u>, understand what users are <u>trying to do</u> when they engage with the current service (the user context, whether currently digital or not) and they understand the user needs - not just functional requirements - that the service will have to achieve in order to be successful.<br/>
 
-There are many ways to achieve this and they are documented in the learning user needs section of the Government Service Design Manual.’</i><br/>
+There are many ways to achieve this and they are documented in the learning user needs section of the <u>Government Service Design Manual</u>.’</i><br/>
 
 ![Local Government Digital Service Standard 4](http://i.imgur.com/rpJhUIy.jpg)
 
-<br/>
 <i>“Point one is the number one point”.</i><br/>
 
 This may seem like a very simple statement of self-explanation and common sense, but when embedded in a busy project with many internal and external stakeholders, it can be very easy to lose track of this. Project cabin fever can take over and the unintentional blinkers can be raised. It’s always good to keep this in mind, after all - a service is of no use without users!<br/>
@@ -74,6 +72,7 @@ Taking the group through further detail into this project, some key insights to 
 - When gathering user needs, make sure you get a variety of different stakeholders involved - this builds internal and external trust in your services and way of working
 - There’s no point in starting a service if you don’t have the political buy-in for it - you won’t be able to shout about it once you’re done!
 
+<br/>
 Continuing, Chris also shares some of the tasks involved when introducing a new service:<br/>
 
 - <b>Audit and benchmark</b> - give forms to your contact centre colleagues to allow them to tally which of your services are being used via phone channels (offline), then use Google Analytics to track which of your services are being accessed online
@@ -85,6 +84,7 @@ Continuing, Chris also shares some of the tasks involved when introducing a new 
 - <b>Testing, testing, 1, 2, 3</b> - start testing the wireframes/prototypes by setting users a few basic tasks and then monitoring what they do - where is their mouse heading? How are they moving through this service? What are they looking to do?
 - <b>Aaaand… build</b> - You’ve ran through a discovery with your users, you’ve built a prototype, now put your service out there for a wider group to test (Alpha), then publicly launch it as a Beta
 
+<br/>
 Chris concludes this part of the session by recapping each individual point around how Brighton & Hove City Council successfully introduced new services, all based around Point #1 of the Service Standard - they’re designed around the needs of those who use it.<br/>
 <br/>
 
@@ -104,10 +104,11 @@ Just a few of the insights shared from this case study include:<br/>
 - Always take into account that you will get more than one point of view of the same area
 - Try to find out what words your residents are using to search for your services online
 
+<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">You can learn so much by just watching your users click. <a href="https://twitter.com/sniffles">@sniffles</a> <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/uRXaOvPpg4">pic.twitter.com/uRXaOvPpg4</a></p>&mdash; LoGov Platform (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/857625013184323588">April 27, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<br/>
 ## Guerrilla user testing
 As an example of user testing techniques, Steph introduces guerrilla testing and a very interesting story of validation.<br/>
 
@@ -116,7 +117,6 @@ Armed with just an iPad, she took to the busy crowds of London to find out if re
 ![Local Government Digital Service Standard 6](http://i.imgur.com/ojzf82k.png)
 
 Through guerrilla testing, Steph focused on whether residents understood the global ramifications of having London’s City Hall on the banner.<br/>
-<br/>
 
 To summarise Steph’s session, understanding user needs is a continuous process:<br/>
 
@@ -125,7 +125,9 @@ To summarise Steph’s session, understanding user needs is a continuous process
 - <b>Validate your assumptions early by working closely with your residents</b> - use methods such as interviews, concept tests, card sorting etc.
 - <b>It's not just what's on the screen that matters, it's what it means to the user</b> - to design for user needs means having a good understanding of user context, and how and when the digital experience fits into someone's day-to-day
 
+<br/>
 What kinds of research can you carry out? From interviews to concept tests, surveys to usability testing, card sorting to participatory design (and so much more), Steph finishes by sharing an entire scale of open to close-ended user research techniques that can be used.<br/>
+<br/>
 
 # Breakout
 From hearing a few fantastic examples of user research in practice, it’s now time for the tables to turn from Chris and Steph to everyone else in the room. Yes, it’s breakout time.<br/>
@@ -136,9 +138,11 @@ Breaking attendees out into three groups, the final part of TeaCamp #2 is taking
 - Getting organisational buy-in
 - Auditing and measuring
 
+<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Breaking out for individual discussion sessions. <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/HplrnA9pCv">pic.twitter.com/HplrnA9pCv</a></p>&mdash; LoGov Platform (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/857636851364106240">April 27, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 I’m in the ‘Auditing and measuring’ group, with our discussion steering towards:<br/>
 
 - How to effectively using Google Analytics to work out what you’re looking for
@@ -155,6 +159,7 @@ It’s now #BeerCamp - time to head on upstairs.<br/>
 
 # TeaCamp #3
 TeaCamp #3 is set to take place on Thursday 29th June, with Gemma Phelan - Local and wider public sector engagement lead at GDS discussing the Digital Marketplace. Registration isn’t yet open, but if you’re interested in attending, get in touch with Natalie and she’ll add your name to the event mailing list:<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">If you&#39;d like to be on the mailing list for future <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> London peer group teacamps and meet-ups, please DM me you name, email, org, job</p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/843768763782762497">March 20, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
