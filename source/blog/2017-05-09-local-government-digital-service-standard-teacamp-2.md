@@ -34,8 +34,6 @@ With informal chats coming to a close, seats eagerly pulled up to the front - it
 
 ![Local Government Digital Service Standard 2](http://i.imgur.com/EY92Asn.jpg)
 
-Welcoming everyone to the session, Natalie shares the fantastic announcement that City Hall has been shortlisted for a Digital Council award. It’s great to hear that such a digital-savvy team within the public sector are receiving recognition for the great things they’re doing.<br/>
-
 <br/>
 # Point #1 of the Local Government Digital Service Standard
 With announcements done and dusted, the room is ready and raring to find out what’s in store for this TeaCamp installment. Natalie shares the outline of this session - we’re heading straight back to [Point #1 of the Local Government Digital Service Standard](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/1):<br/>
@@ -174,12 +172,3 @@ TeaCamp #3 is set to take place on Thursday 29th June, with Gemma Phelan - Local
 <br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">It&#39;s a wrap! <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/hJprrFEtlt">pic.twitter.com/hJprrFEtlt</a></p>&mdash; Graeme McCubbin (@GramMcCram) <a href="https://twitter.com/GramMcCram/status/857642698685198336">April 27, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
-
-
-
-
-
