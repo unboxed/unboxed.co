@@ -29,6 +29,10 @@ This month we have attendees from:<br/>
 - And many more…
 
 <br/>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Catching up with London local gov colleagues to talk about user research and digital services <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://twitter.com/hashtag/teacamp?src=hash">#teacamp</a></p>&mdash; Innovate at Bexley (@Innovate_Bexley) <a href="https://twitter.com/Innovate_Bexley/status/857636597931618304">April 27, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br/>
 # Introductions
 With informal chats coming to a close, seats eagerly pulled up to the front - it’s time to begin. Introducing this afternoon’s session is a familiar face - it’s [Natalie Taylor](https://twitter.com/NatalieRobson) from [City Hall](https://www.london.gov.uk/), as one of the London Peer Group committee co-chairs:<br/>
 
@@ -71,6 +75,9 @@ Taking the group through further detail into this project, some key insights to 
 - Don’t build something that isn’t usable by the user (surprisingly easily done if you lose user focus)
 - When gathering user needs, make sure you get a variety of different stakeholders involved - this builds internal and external trust in your services and way of working
 - There’s no point in starting a service if you don’t have the political buy-in for it - you won’t be able to shout about it once you’re done!
+<br/>
+
+![Local Government Digital Service Standard 4-1](http://i.imgur.com/ttf2F2H.jpg)
 
 <br/>
 Continuing, Chris also shares some of the tasks involved when introducing a new service:<br/>
@@ -151,7 +158,7 @@ I’m in the ‘Auditing and measuring’ group, with our discussion steering to
 - Google Tag Manager 
 - Advanced user testing through eye tracking software
 
-
+<br/>
 What’s that? 6 o’clock? Natalie heads back to the front to thank everyone for attending and shares this month’s parish notices to the group as the session wraps up.<br/>
 
 It’s now #BeerCamp - time to head on upstairs.<br/>
@@ -164,11 +171,13 @@ TeaCamp #3 is set to take place on Thursday 29th June, with Gemma Phelan - Local
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">If you&#39;d like to be on the mailing list for future <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> London peer group teacamps and meet-ups, please DM me you name, email, org, job</p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/843768763782762497">March 20, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">V useful afternoon digging into user research &amp; local gov digital <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/RvY3cGCcpq">pic.twitter.com/RvY3cGCcpq</a></p>&mdash; Rob Miller (@RobMiller31) <a href="https://twitter.com/RobMiller31/status/857660214182641667">April 27, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
-
-
+<br/>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">It&#39;s a wrap! <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/hJprrFEtlt">pic.twitter.com/hJprrFEtlt</a></p>&mdash; Graeme McCubbin (@GramMcCram) <a href="https://twitter.com/GramMcCram/status/857642698685198336">April 27, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
