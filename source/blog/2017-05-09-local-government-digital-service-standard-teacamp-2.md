@@ -1,6 +1,6 @@
 ---
 date: '2017-05-09 10:00 +0100'
-published: false
+published: true
 title: 'Local Government Digital Service Standard - TeaCamp #2'
 authors:
   - Graeme McCubbin
@@ -33,6 +33,8 @@ This month we have attendees from:<br/>
 With informal chats coming to a close, seats eagerly pulled up to the front - it’s time to begin. Introducing this afternoon’s session is a familiar face - it’s [Natalie Taylor](https://twitter.com/NatalieRobson) from [City Hall](https://www.london.gov.uk/), as one of the London Peer Group committee co-chairs:<br/>
 
 ![Local Government Digital Service Standard 2](http://i.imgur.com/EY92Asn.jpg)
+
+Welcoming everyone to the session, Natalie shares the fantastic announcement that City Hall has been shortlisted for a Digital Council award. It’s great to hear that such a digital-savvy team within the public sector are receiving recognition for the great things they’re doing.<br/>
 
 <br/>
 # Point #1 of the Local Government Digital Service Standard
