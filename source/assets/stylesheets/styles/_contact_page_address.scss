@@ -22,7 +22,6 @@
 
 .contact-page-address__email {
   font-weight: 300;
-  padding-bottom: 15px;
 
   a {
     color: $dark-gray;
@@ -37,7 +36,7 @@
 .contact-page-address__map-link {
   border-bottom: 1px solid darken($light-gray, 5%);
   font-weight: 300;
-  padding-bottom: 20px;
+  padding: 15px 0 20px;
 
   a {
     color: lighten($medium-gray, 5%);

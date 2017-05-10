@@ -87,19 +87,21 @@ offices:
             </div>
           <% end %>
 
-          <div class="contact-page-address__phone-number">
-            <a href="tel:<%= office.phone_number %>">
-              <i class="fa fa-phone contact-page-address__phone-icon"></i>
-              <%= office.humanized_phone_number %>
-            </a>
-          </div>
+          <% if office.name != "Cape Town" %>
+            <div class="contact-page-address__phone-number">
+              <a href="tel:<%= office.phone_number %>">
+                <i class="fa fa-phone contact-page-address__phone-icon"></i>
+                <%= office.humanized_phone_number %>
+              </a>
+            </div>
 
-          <div class="contact-page-address__email">
-            <a href="mailto:<%= office.email %>">
-              <i class="fa fa-envelope contact-page-address__email-icon"></i>
-              <%= office.email %>
-            </a>
-          </div>
+            <div class="contact-page-address__email">
+              <a href="mailto:<%= office.email %>">
+                <i class="fa fa-envelope contact-page-address__email-icon"></i>
+                <%= office.email %>
+              </a>
+            </div>
+          <% end %>
 
           <div class="contact-page-address__map-link">
             <a href="<%= office.map_link %>" target="_blank">
