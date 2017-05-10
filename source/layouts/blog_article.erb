@@ -80,8 +80,6 @@
         </section>
       <% end %>
 
-      <%= partial 'layouts/disqus', locals: { article_slug: current_page.slug } %>
-
       <% if current_article.similar_articles.any? %>
         <div class="page-footer-introduction">
           <h3 class="page-footer-introduction__title">
