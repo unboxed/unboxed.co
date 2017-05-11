@@ -326,3 +326,13 @@
     - name: "Github"
       link: "https://github.com/abraaomota"
 
+- name: "James Cook"
+  short_name: "james-cook"
+  role: "Developer"
+  email: "james.cook"
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/jamesmarkcook/"
+    - name: "Github"
+      link: "https://github.com/jamesmarkcook"
+
