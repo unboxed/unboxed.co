@@ -2,6 +2,9 @@
 title: "News"
 meta_description: "Latest news about web app development, design, UX, Agile, Lean and project management techniques from the unboxed team."
 meta_keywords: "unboxed consulting, blog, news, technical, agile, web, development, ruby on rails, marketing, graphic design, Unboxed, news"
+pageable: true
+per_page: 30
+blog: 'news'
 ---
 
 <header class="page-header page-header--bottom-margin">
@@ -13,7 +16,7 @@ meta_keywords: "unboxed consulting, blog, news, technical, agile, web, developme
 </header>
 
 <div class="container--grid" data-header-waypoint>
-  <% blog(:news).articles.each do |article| %>
+  <% page_articles.each do |article| %>
     <a class="news-tile" href="<%= article.url %>">
       <div class="news-tile__container">
         <div class="news-tile__top-content">
@@ -39,3 +42,5 @@ meta_keywords: "unboxed consulting, blog, news, technical, agile, web, developme
 </div>
 
 <%= partial 'book_meeting' %>
+
+<%= partial 'blog_pagination' %>

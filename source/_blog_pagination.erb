@@ -1,0 +1,20 @@
+<% pagination_context = current_page.metadata[:locals] %>
+
+<footer class="blog-pagination">
+  <nav class="blog-pagination__container">
+    <% if pagination_context["prev_page"] %>
+      <%= link_to "Previous page", pagination_context["prev_page"].url, class: 'blog-pagination__link' %>
+    <% else %>
+      <p class="blog-pagination__link-disabled">&nbsp;</p>
+    <% end %>
+    <p class="blog-pagination__page-info">
+      Page <%= pagination_context["page_number"] %> of <%= pagination_context["num_pages"] %> (Articles <%= pagination_context["page_start"] %> to <%= pagination_context["page_end"] %> of <%= pagination_context["articles"].length %>)
+    </p>
+    <% if pagination_context["next_page"] %>
+      <%= link_to "Next page", pagination_context["next_page"].url, class: 'blog-pagination__link' %>
+    <% else %>
+      <p class="blog-pagination__link-disabled">&nbsp;</p>
+    <% end %>
+    </div>
+  </nav>
+</footer>

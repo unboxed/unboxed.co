@@ -1,0 +1,20 @@
+---
+pageable: true
+per_page: 30
+blog: 'blog'
+---
+<% add_atom_feed_to_head %>
+<% person = find_person_by_short_name(author) %>
+<% content_for(:title) { "Blog - Posts by #{person.name}" } %>
+
+<div class="blog-header">
+  <div class="blog-header__container">
+    <h1 class="blog-header__page-title">
+      <a class="blog-header__breadcrumb" href="/blog">Blog</a> / <%= person.name %>
+    </h1>
+  </div>
+</div>
+
+<%= partial 'blog_grid', locals: { articles: page_articles } %>
+
+<%= partial 'blog_pagination' %>

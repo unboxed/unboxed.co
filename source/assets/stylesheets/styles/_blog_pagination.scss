@@ -1,0 +1,23 @@
+.blog-pagination__container {
+  @extend .container;
+  border-bottom: 2px solid darken($light-gray, 10%);
+  display: flex;
+  justify-content: space-between;
+}
+
+.blog-pagination__link, .blog-pagination__link-disabled, .blog-pagination__page-info {
+  border-bottom: 3px solid transparent;
+  color: $medium-gray;
+  display: inline-block;
+  font-size: .9em;
+  padding: 1em 20px;
+  text-decoration: none;
+  text-transform: lowercase;
+}
+
+.blog-pagination__link {
+  &:hover {
+    border-bottom: 3px solid $purple;
+    color: $purple;
+  }
+}

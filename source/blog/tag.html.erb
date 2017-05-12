@@ -1,3 +1,8 @@
+---
+pageable: true
+per_page: 30
+blog: 'blog'
+---
 <% add_atom_feed_to_head %>
 <% content_for(:title) { "Blog - #{tagname}" } %>
 
@@ -18,4 +23,6 @@
   </div>
 </div>
 
-<%= partial 'blog_grid', locals: { articles: articles } %>
+<%= partial 'blog_grid', locals: { articles: page_articles } %>
+
+<%= partial 'blog_pagination' %>
