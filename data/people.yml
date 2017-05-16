@@ -336,3 +336,12 @@
     - name: "Github"
       link: "https://github.com/jamesmarkcook"
 
+- name: "Olly Legg"
+  short_name: "olly-legg"
+  role: "Developer"
+  email: "olly.legg"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/ollylegg"
+    - name: "Github"
+      link: "https://github.com/olly"
