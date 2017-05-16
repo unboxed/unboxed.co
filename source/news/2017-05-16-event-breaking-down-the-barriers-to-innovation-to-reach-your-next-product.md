@@ -18,7 +18,7 @@ Innovative, different and groundbreaking are what product teams are striving to 
 
 However, the journey to innovation can be a major challenge across some organisations. Resistance to change, fear of the unknown, largely traditional mindsets and internal red tape are just some of the barriers which product teams experience on a day-to-day basis, all acting as blockers to this journey.
 
-So how can your team even begin to break down these barriers and introduce innovative approaches into your organisation and to your next product offering?
+So how can your team even <i>begin</i> to break down these barriers and introduce innovative approaches into your organisation and to your next product offering?
 
 Join us for this one-off session, where digital leaders within established organisations, of all shapes and sizes, will share their methods to breaking down the barriers to innovation. This is the journey to innovation in action. With skills and methods to take away and apply to your own organisation, this is one session you won’t want to miss.<br/>
 <br/>
@@ -34,9 +34,8 @@ This event is for:
 - Anyone responsible for testing and launching new product ideas
 <br/>
 
+<br/>
 # Register your interest
 We have a number of guest places available - register your interest and we will be in touch as soon as event registration opens:<br/>
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=34654035152&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
-
-
