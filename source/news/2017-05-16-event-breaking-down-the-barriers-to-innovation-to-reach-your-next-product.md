@@ -3,9 +3,10 @@ date: '2017-05-16 13:28 +0100'
 published: true
 title: 'Event: Breaking down the barriers to innovation to reach your next product'
 ---
-![Breaking down the barriers to innovation to reach your next product](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0a442168c8151489af3a32f3ecda1dbe.png)
+![Breaking down the barriers to innovation to reach your next product](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/22bee60ca5d6d51d2a40fd27bd073061.png)
 
 
+<br/>
 # When and where?
 <b>Date:</b> September 2017<br/>
 <b>Time:</b> 09.00 – 13:30<br/>
