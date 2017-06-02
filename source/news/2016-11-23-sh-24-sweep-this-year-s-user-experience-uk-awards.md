@@ -19,4 +19,4 @@ SH:24 triumphed across the evening, taking home three of the 11 awards:<br/>
 
 Originally developed in partnership with Unboxed, from inception through to Beta, a working service was delivered for the residents of Southwark and Lambeth. The SH:24 team have now successfully scaled up and rolled out the service to further UK locations, including Essex, Medway, Herefordshire, Shropshire, Telford & Wrekin.<br/>
 
-[Read about the development of the SH:24 service here](https://unboxed.co/project-stories/sh24).
+[Read about the development of the SH:24 service here](https://unboxed.co/product-stories/sh24).

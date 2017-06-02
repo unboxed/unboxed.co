@@ -1,10 +1,10 @@
 ---
-title: "Project Story - V&A"
+title: "Product Story - V&A"
 
 header:
   client: "V&A"
   introduction: "Hosting and infrastructure delivery of new digital platform for world-leading Victoria and Albert Museum"
-  image: "/project-stories/v-and-a-museum/header.jpg"
+  image: "/product-stories/v-and-a-museum/header.jpg"
   image_description: "V&A Museum"
 
 introduction:
@@ -13,7 +13,7 @@ introduction:
     - "Two-week turnaround to live platform re-launch"
     - "Reduced running costs for Ruby on Rails application, hosted on Amazon Web Services"
     - "Infrastructure and support scaled and in place for online visitor growth"
-  image: "/project-stories/v-and-a-museum/macbook.jpg"
+  image: "/product-stories/v-and-a-museum/macbook.jpg"
   image_description: "User on Macbook"
 
 highlight_1:
@@ -28,7 +28,7 @@ highlight_1:
 infrastructure:
   title: "Support and infrastructure for world-leading digital platform"
   content: "Founded in 1852, the Victoria and Albert Museum (V&A) is the world's leading museum of art and design, with over 60,000 collection items on permanent display. Following the delivery of a new digital platform, their Digital Media team required a partner to ensure this remained live during the critical website re-launch phase, along with efficient, scalable infrastructure and support for the future."
-  image: "/project-stories/v-and-a-museum/devs2.jpg"
+  image: "/product-stories/v-and-a-museum/devs2.jpg"
   image_description: "Unboxed developers"
 
 quote_1:
@@ -38,18 +38,18 @@ quote_1:
 aws:
   title: "Rails application deployed to AWS for peak traffic levels"
   content: "We began by deploying the application onto AWS (Amazon Web Services) to ensure accommodation for extra capacity at peak traffic levels. Meeting new levels of traffic demand was a key activity of preparation for V&A’s high profile re-launch. We evaluated a number of methods for the infrastructure build, settling on AWS CloudFormation to manage the AWS resource and CodeDeploy to co-ordinate application deployments."
-  image: "/project-stories/v-and-a-museum/devs1.jpg"
+  image: "/product-stories/v-and-a-museum/devs1.jpg"
   image_description: "Unboxed developers"
 
 quote_2:
   quote: "It was critical to scale for the unknown with a re-launch of this size as traffic peaks can be unpredictable. By hosting on AWS, we are able to take advantage of the elastic usage model, saving project budget and running costs during times of lower traffic."
   source: "Andrew White, CTO, Unboxed"
-  image: "/project-stories/v-and-a-museum/team/andrew-white-full.png"
+  image: "/product-stories/v-and-a-museum/team/andrew-white-full.png"
 
 server_load:
   title: "Reducing the server load, automatically deploying"
   content: "Cloudfront, a Content Delivery Network, was implemented reducing the load of the system’s front-end CMS servers. The CMS was then separated from the front-end, ensuring an extra layer of security, and S3 selected for the backup and recovery of media and catalogue uploads – vital for support of the 5,000-page CMS. Automatically deploying to a preview environment when merging pull requests reduced development time."
-  image: "/project-stories/v-and-a-museum/mac.jpg"
+  image: "/product-stories/v-and-a-museum/mac.jpg"
   image_description: "Website open on Mac"
 
 highlight_2:
@@ -64,7 +64,7 @@ highlight_2:
 digital_platform:
   title: "Supported digital platform successfully re-launched"
   content: "With the re-launch of the platform a success, we are now responsible for the ongoing infrastructure services and application support. Multiple servers behind Elastic Load Balancing now allow for zero downtime deploys and AWS autoscaling is used to reduce running costs during lower capacity periods. The V&A is now in a position to continue growing their digital presence."
-  image: "/project-stories/v-and-a-museum/iphone.jpg"
+  image: "/product-stories/v-and-a-museum/iphone.jpg"
   image_description: "Website open on iPhone"
 
 quote_3:
@@ -75,19 +75,19 @@ team:
   title: "Unboxed team"
   people:
   - full_name: "Andrew White"
-    image: "/project-stories/v-and-a-museum/team/andrew-white.png"
+    image: "/product-stories/v-and-a-museum/team/andrew-white.png"
     link: "/people#andrew-white"
   - full_name: "Sarah Beck"
-    image: "/project-stories/v-and-a-museum/team/sarah-beck.png"
+    image: "/product-stories/v-and-a-museum/team/sarah-beck.png"
     link: "/people#sarah-beck"
   - full_name: "Matt Turrell"
-    image: "/project-stories/v-and-a-museum/team/matt-turrell.png"
+    image: "/product-stories/v-and-a-museum/team/matt-turrell.png"
     link: "/people#matt-turrell"
   - full_name: "Steve Lennon"
-    image: "/project-stories/v-and-a-museum/team/steve-lennon.png"
+    image: "/product-stories/v-and-a-museum/team/steve-lennon.png"
     link: "/people#steve-lennon"
   - full_name: "Graeme McCubbin"
-    image: "/project-stories/v-and-a-museum/team/graeme-mccubbin.png"
+    image: "/product-stories/v-and-a-museum/team/graeme-mccubbin.png"
     link: "/people#graeme-mccubbin"
 
 site:
@@ -119,35 +119,35 @@ related:
 
 ---
 
-<%= partial 'project-stories/page_header' %>
+<%= partial 'product-stories/page_header' %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
+  <%= partial 'product-stories/full_image', locals: { section: current_page.data.header } %>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
-  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
+  <%= partial 'product-stories/highlight', locals: { section: current_page.data.highlight_1 } %>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.infrastructure } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.infrastructure } %>
 
-  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_1 } %>
+  <%= partial 'product-stories/quote', locals: { section: current_page.data.quote_1 } %>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.aws } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.aws } %>
 
-  <%= partial 'project-stories/quote_image', locals: { section: current_page.data.quote_2 } %>
+  <%= partial 'product-stories/quote_image', locals: { section: current_page.data.quote_2 } %>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.server_load } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.server_load } %>
 
-  <%= partial 'project-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
+  <%= partial 'product-stories/highlight', locals: { section: current_page.data.highlight_2 } %>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.digital_platform } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.digital_platform } %>
 
-  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_3 } %>
+  <%= partial 'product-stories/quote', locals: { section: current_page.data.quote_3 } %>
 
-  <%= partial 'project-stories/project_team' %>
+  <%= partial 'product-stories/project_team' %>
 
-  <%= partial 'project-stories/link_tiles' %>
+  <%= partial 'product-stories/link_tiles' %>
 
-  <%= partial 'project-stories/related_tiles' %>
+  <%= partial 'product-stories/related_tiles' %>
 
 </div>

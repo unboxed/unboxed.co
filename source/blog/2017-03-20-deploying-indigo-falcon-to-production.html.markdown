@@ -13,7 +13,7 @@ This isn't my idea (it's [Ben's](https://unboxed.co/people#ben-wong)) but I want
 
 I originally started this post in December as a fantasy story about train stations and animals of the Ark but couldn't get it to make sense. Hopefully this version will.
 
-On the [Bookmetrix project](https://unboxed.co/project-stories/bookmetrix) we used a different process for managing our releases in git. We took feature branches from master and opened pull requests with a 'release branch' as the base. If a PR wasn't approved before it's base release was merged then it's base was moved to the branch for the next release instead.
+On the [Bookmetrix project](https://unboxed.co/product-stories/bookmetrix) we used a different process for managing our releases in git. We took feature branches from master and opened pull requests with a 'release branch' as the base. If a PR wasn't approved before it's base release was merged then it's base was moved to the branch for the next release instead.
 
 Releases were named using the format `RCyyyymm_word`, e.g. `RC201612_tiger`. The word selected for the next release should begin with the next letter of the alphabet. We chose a different theme for each of the repos we were working on. For example, the frontend had adjectives while the API had animals. Once we'd had Aardvark or Apathetic we'd move on to Badger or Bermused and so on (though the two projects didn't need to be in sync). We found using these release names to reference different versions of the various apps on a number of remote repositories was much more 'ergonomic' than rattling off version numbers.
 

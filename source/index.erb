@@ -33,23 +33,23 @@ additional_services:
       image: "/assets/images/homepage/support-you.jpg"
       text: "If we built it, we will support it. We will love your product for as long as you and your users love it."
 
-projects:
+products:
   title: "Who we work with"
   content:
     - name: "Springer Nature"
       description: "Exploring the impact of online publishing with Bookmetrix"
-      image: "/assets/images/project-stories/bookmetrix.jpg"
-      link: "/project-stories/bookmetrix"
+      image: "/assets/images/product-stories/bookmetrix.jpg"
+      link: "/product-stories/bookmetrix"
 
     - name: "Buckinghamshire Council"
       description: "12-week Beta phase for two services with annual cost-saving of £350,000"
-      image: "/assets/images/project-stories/bucks-cc-beta.jpg"
-      link: "/project-stories/bucks-cc-beta"
+      image: "/assets/images/product-stories/bucks-cc-beta.jpg"
+      link: "/product-stories/bucks-cc-beta"
 
     - name: "Petitions"
       description: "Public sector collaboration with GDS to relaunch Petitions platform for UK citizens"
-      image: "/assets/images/project-stories/petitions.jpg"
-      link: "/project-stories/petitions"
+      image: "/assets/images/product-stories/petitions.jpg"
+      link: "/product-stories/petitions"
 
 contact:
   title: "What about you?"
@@ -136,20 +136,20 @@ blog_title: "What we have been blogging about"
 
   <section class="homepage-tiles-section">
     <h2 class="homepage-tiles-section__title">
-      <%= current_page.data.projects.title %>
+      <%= current_page.data.products.title %>
     </h2>
 
-    <% current_page.data.projects.content.each do |project| %>
-      <a class="homepage-tile" href="<%= project.link %>" title="<%= project.name %>">
+    <% current_page.data.products.content.each do |product| %>
+      <a class="homepage-tile" href="<%= product.link %>" title="<%= product.name %>">
         <div class="homepage-tile__content">
-          <img class="homepage-tile__image" src="<%= project.image %>" alt="<%= project.name %>">
+          <img class="homepage-tile__image" src="<%= product.image %>" alt="<%= product.name %>">
 
           <h3 class="homepage-tile__title">
-            <%= project.name %>
+            <%= product.name %>
           </h3>
 
           <p class="homepage-tile__paragraph">
-            <%= project.description %>
+            <%= product.description %>
           </p>
         </div>
       </a>

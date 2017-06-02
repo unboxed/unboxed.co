@@ -7,7 +7,7 @@ title: >-
 ---
 The time has come for the next installment of Andrew White’s Technical Breakfast Club.<br/>
 
-The recent EU referendum saw the [Parliament Petitions](https://unboxed.co/project-stories/petitions) system process over 4.1 million signatures through the ‘EU Referendum Rules triggering a 2nd EU Referendum’ petition, in the days following the vote result.<br/>
+The recent EU referendum saw the [Parliament Petitions](https://unboxed.co/product-stories/petitions) system process over 4.1 million signatures through the ‘EU Referendum Rules triggering a 2nd EU Referendum’ petition, in the days following the vote result.<br/>
 
 Join us for this one-off meetup where [Andrew White](https://unboxed.co/people/#andrew-white), Rails Core Team Member and Unboxed CTO (as well as technical lead on the Petitions website), will share how a Rails application originally designed to process up to 12,000 signatures per hour coped with 150,000 – disproving the common misconception that “Rails can’t scale”.<br/>
 <br/>

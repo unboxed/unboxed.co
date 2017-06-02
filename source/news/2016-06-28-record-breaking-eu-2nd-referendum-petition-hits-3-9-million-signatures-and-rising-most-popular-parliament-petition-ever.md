@@ -10,7 +10,7 @@ The [‘EU Referendum Rules triggering a 2nd EU Referendum’](https://petition.
 ![EU referendum petition](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-06-28%20at%2012.01.37_zpsig2xoc36.png)
 <br/>
 
-[Built in partnership with GDS,](https://unboxed.co/project-stories/petitions/) (Government Digital Service), Petitions enables members of the public to create or sign petitions that ask for a change to the law or to government policy. Petitions that receive 10,000 signatures get a response from the government, and those that receive 100,000 signatures are considered for debate in Parliament.<br/>
+[Built in partnership with GDS,](https://unboxed.co/product-stories/petitions/) (Government Digital Service), Petitions enables members of the public to create or sign petitions that ask for a change to the law or to government policy. Petitions that receive 10,000 signatures get a response from the government, and those that receive 100,000 signatures are considered for debate in Parliament.<br/>
 
 Following the EU referendum result, this [petition was started by a ‘Leave’ campaigner who anticipated a ‘Remain’ result](http://www.telegraph.co.uk/news/2016/06/27/petition-calling-for-second-eu-referendum-was-created-by-a-leave/) but later adopted by ‘Remain’ voters, and received over 2.5 million signatures over the weekend. It has now crossed the 3.9 million mark, with more signatures being added all the time. 
 

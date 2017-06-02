@@ -1,0 +1,95 @@
+---
+title: "Product Stories"
+
+product_stories:
+  - client: "Petitions"
+    title: "Public sector collaboration with GDS to relaunch Petitions platform for UK citizens, meeting new user needs and public demand in just 10 weeks"
+    link: "/product-stories/petitions/"
+    image: "/assets/images/product-stories/petitions.jpg"
+
+  - client: "Springer Nature"
+    title: "Exploring the impact of online publishing with Bookmetrix"
+    link: "/product-stories/bookmetrix"
+    image: "/assets/images/product-stories/bookmetrix.jpg"
+
+  - client: "Buckinghamshire County Council"
+    title: "12-week Beta phase for two services with annual cost-saving of £350,000"
+    link: "/product-stories/bucks-cc-beta"
+    image: "/assets/images/product-stories/bucks-cc-beta.jpg"
+
+  - client: "V&A"
+    title: "Hosting and infrastructure delivery of new digital platform for world-leading V&A"
+    link: "/product-stories/v-and-a-museum"
+    image: "/assets/images/product-stories/v-and-a-museum.jpg"
+
+  - client: "Buckinghamshire County Council"
+    title: "6-week Discovery and 8-week Alpha phases for two key public services"
+    link: "/product-stories/bucks-cc"
+    image: "/assets/images/product-stories/bucks-cc.jpg"
+
+  - client: "Pearson"
+    title: "Unlocking a new digital learning revenue stream with Pearson"
+    link: "/product-stories/pearson"
+    image: "/assets/images/product-stories/pearson.jpg"
+
+  - client: "Reed Learning"
+    title: "Leading digital transformation in professional learning and development"
+    link: "/product-stories/reed-learning"
+    image: "/assets/images/product-stories/reed-learning.jpg"
+
+  - client: "Contiki Holidays"
+    title: "Powerful offshore partnership creates 47% increase in bookings for Contiki Holidays"
+    link: "/product-stories/contiki-holidays/"
+    image: "/assets/images/product-stories/contiki.jpg"
+
+  - client: "SH:24"
+    title: "Transformation of NHS sexual health clinics to a digital service in 8 weeks"
+    link: "/product-stories/sh24/"
+    image: "/assets/images/product-stories/sh24.jpg"
+
+  - client: "Channel 5"
+    title: "Redevelopment of Channel5.com attracts more users, driving revenue"
+    link: "/product-stories/channel-5/"
+    image: "/assets/images/product-stories/channel-5.jpg"
+
+  - client: "Plymouth University"
+    title: "Unboxed leads Agile rebuild of Plymouth University website"
+    link: "/product-stories/plymouth-university/"
+    image: "/assets/images/product-stories/plymouth-university.jpg"
+
+  - client: "Naturejobs"
+    title: "Recruitment site revitalisation for major scientific publishing group"
+    link: "/product-stories/naturejobs/"
+    image: "/assets/images/product-stories/naturejobs-macmillan.jpg"
+
+  - client : "Petition Map"
+    title: "Visualising UK petition signatures and open source data"
+    link: "/product-stories/petition-map"
+    image: "/assets/images/product-stories/petition-map.jpg"
+
+---
+
+<header class="page-header page-header--bottom-margin">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.title %>
+    </h1>
+  </div>
+</header>
+
+<div class="container--grid" data-header-waypoint>
+  <% current_page.data.product_stories.each_with_index do |product_story, index| %>
+    <% class_name = index == 0 ? "project-story-large-tile" : "project-story-small-tile" %>
+    <a class="<%= class_name %>" href="<%= product_story.link %>">
+      <div class="<%= class_name %>__container">
+        <%= image_tag product_story.image, alt: product_story.client, class: "#{class_name}__image", srcset: retina_srcset(product_story.image) %>
+        <div class="<%= class_name %>__content">
+          <div class="<%= class_name %>__client"><%= product_story.client %></div>
+          <div class="<%= class_name %>__title"><%= product_story.title %></div>
+        </div>
+      </div>
+    </a>
+  <% end %>
+</div>
+
+<%= partial 'book_meeting' %>

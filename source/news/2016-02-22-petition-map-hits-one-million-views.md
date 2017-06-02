@@ -24,6 +24,6 @@ The map can be accessed directly from each live petition on the Parliament Petit
 
 ![Petition Map link](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-19%20at%2021.54.43_zpsqmfbcvq4.png)
 
-We [worked with Government Digital Service](https://unboxed.co/project-stories/petitions/) last year to re-build the Petitions platform. Petition Map was built by our intern, Cale.<br/>
+We [worked with Government Digital Service](https://unboxed.co/product-stories/petitions/) last year to re-build the Petitions platform. Petition Map was built by our intern, Cale.<br/>
 
 Visit [Petition Map here](http://petitionmap.unboxedconsulting.com). 

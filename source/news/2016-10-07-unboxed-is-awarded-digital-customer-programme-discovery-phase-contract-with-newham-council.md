@@ -21,5 +21,5 @@ Martyn Evans, Head of Product at Unboxed, said:<br/>
 
 <i>“We’re really looking forward to collaborating with the Newham Council team and supporting their first steps in this transformation programme. It’s fantastic to be involved in the early stages of this opportunity to provide better, and more efficient, digital services for the residents of Newham.”</i><br/>
 
-We have previously delivered Discovery Phases with other public sector organisations, such as [Buckinghamshire County Council](https://unboxed.co/project-stories/bucks-cc) and [SH:24](https://unboxed.co/project-stories/sh24/).
+We have previously delivered Discovery Phases with other public sector organisations, such as [Buckinghamshire County Council](https://unboxed.co/product-stories/bucks-cc) and [SH:24](https://unboxed.co/product-stories/sh24/).
 
