@@ -1,4 +1,4 @@
-.project-story-large-tile {
+.product-story-large-tile {
   box-sizing: border-box;
   display: block;
   margin-bottom: 6px;
@@ -12,7 +12,7 @@
   }
 }
 
-.project-story-large-tile__container {
+.product-story-large-tile__container {
   background-color: $white;
   border: 1px solid darken($light-gray, 5%);
   box-sizing: border-box;
@@ -24,12 +24,12 @@
   }
 }
 
-.project-story-large-tile__image {
+.product-story-large-tile__image {
   display: block;
   width: 100%;
 }
 
-.project-story-large-tile__content {
+.product-story-large-tile__content {
   padding: 12px 6px 6px;
 
   @include breakpoint($tablet-breakpoint) {
@@ -39,7 +39,7 @@
   }
 }
 
-.project-story-large-tile__client {
+.product-story-large-tile__client {
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
@@ -51,7 +51,7 @@
   }
 }
 
-.project-story-large-tile__title {
+.product-story-large-tile__title {
   color: $medium-gray;
   font-weight: 300;
   line-height: 1.3;
