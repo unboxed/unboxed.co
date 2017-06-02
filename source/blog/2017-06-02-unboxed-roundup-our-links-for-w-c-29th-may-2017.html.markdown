@@ -10,6 +10,7 @@ tags: # (Delete as appropriate)
 ---
 
 ## Basic Performance Analysis - [Ben W](/people#ben-wong)
+
 https://blog.heapanalytics.com/basic-performance-analysis-saved-us-millions/
 
 I've always wanted an easy way to look at what my processes are doing. This
@@ -35,12 +36,21 @@ pretty frustrating. I haven't used Tectonic but reading the blurb it seems to
 have some great features such as automatically looping the processing of TeX
 and BibTeX files the minimum number of times.
 
-##Election Data - [Sarah B](people#sarah-beck)
+## Election Data - [Sarah B](people#sarah-beck)
 
 https://yougov.co.uk/uk-general-election-2017/
 
 This updates every day I think with predictions for next week and displays it
 by constituency too.
+
+## Pairing with Junior Developers - [Elena T](/people#elena-tanasoiu)
+
+https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/
+
+As more and more tech teams welcome new coders from bootcamps, people are
+debating what's the best way to handle working with junior developers. This is a
+nice read about how to structure your pairing session with your local
+neighbourhood junior dev.
 
 ## Track of the week - [Henry T](/people#henry-turner)
 
