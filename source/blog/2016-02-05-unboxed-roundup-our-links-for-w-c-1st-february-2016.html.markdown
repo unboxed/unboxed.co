@@ -16,7 +16,7 @@ https://github.com/schneems/wait_for_it
 We often see in tests a `sleep(10)` or something like it to make the suite pause whilst a process boots, an AJAX call happens, etc. and since the CI server often runs slower than your development machine you add a couple of extra seconds to reduce intermittent test failures. Now the new wait_for_it gem from Richard Schneeman at Heroku means you don't have to slow down your test suite unnecessarily waiting for processes to finish - just wrap the dependent code in a block passed to `WaitForIt.new` and delete those `sleep` calls.
 
 
-## Change Management? No. ​_Change_​ Management - [Claire K](/people#claire-kemp)
+## Change Management? No. ​_Change_​ Management - Claire K
 
 http://bit.ly/1PCXg6n
 

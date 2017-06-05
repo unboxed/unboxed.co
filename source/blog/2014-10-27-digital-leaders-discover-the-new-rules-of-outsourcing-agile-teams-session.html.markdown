@@ -12,7 +12,7 @@ October saw our <i>'New Rules of Outsourcing'</i> event take place at Skills Mat
 
 Unboxed Friends and Family, as well as our extended network, attended this half-day session to discover these <i>‘new rules’</i>, hearing from a diverse selection of digital leaders, including Channel 5, Plymouth University and Notonthehighstreet. <br/>
 
-The morning began with a delicious breakfast (with many, many chocolate croissants – a personal favourite for [Claire]( /people#claire-kemp)!), which gave us the perfect opportunity to meet, chat and dry off from the outside downpour!
+The morning began with a delicious breakfast (with many, many chocolate croissants – a personal favourite for Claire!, which gave us the perfect opportunity to meet, chat and dry off from the outside downpour!
 <br/>
 
 The session began with a fantastic pairing activity. Each person was given a card with one half of a famous pair, with the aim to find their other half from around the room:<br/>

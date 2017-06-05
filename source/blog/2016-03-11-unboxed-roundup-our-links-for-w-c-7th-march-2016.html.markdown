@@ -16,7 +16,7 @@ http://blog.agilistic.nl/8-useful-strategies-for-splitting-large-user-stories-an
 If you’re struggling to break large user stories down, this article has a few different perspectives to think of, which may help you.
 
 
-## Market Rights? - [Claire K](/people#claire-kemp)
+## Market Rights? - Claire K
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Current <a href="https://twitter.com/hashtag/Ruby?src=hash">#Ruby</a> Permanent Salaries in London. Pls share, pls no steal. <a href="https://twitter.com/hashtag/LRUG?src=hash">#LRUG</a> <a href="https://t.co/tfIfLPrU0B">pic.twitter.com/tfIfLPrU0B</a></p>&mdash; LøuisЯøЯ LouisRoR (@LouisRoR) <a href="https://twitter.com/LouisRoR/status/706894498970902530">March 7, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 - Culture
 
 ---
-## How Devland Lies - [Claire K](/people#claire-kemp)
+## How Devland Lies - Claire K
 
 https://www.stackoverflowbusiness.com/hubfs/content/uk/2017_Developer_Hiring_Landscape_UK_&_Ireland_Report.pdf?utm_campaign=Content%20Offers&utm_source=direct-share
 

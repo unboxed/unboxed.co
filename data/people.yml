@@ -93,18 +93,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/carriebedingfield"
 
-- name: "Claire Kemp"
-  short_name: "claire-kemp"
-  role: "People"
-  email: "claire.kemp"
-  bio: |
-    I have grown up with Unboxed Consulting where we have learned to embrace change that is defined by the user. I swapped working in the PMO for working as a part of a team as a Scrum Master and then as a Tester. I pivoted again, changing focus from the end user of digital products to concentrate on the people who are involved in delighting end users. Being a "Gardener" is my analogy for cultivating an environment in which talent can thrive and great ideas grow into products that add more colour to life.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/clairekmp"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/claire-kemp-0a54089"
-
 - name: "Murray Steele"
   short_name: "murray-steele"
   role: "Developer"

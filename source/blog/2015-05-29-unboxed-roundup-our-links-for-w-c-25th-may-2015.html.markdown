@@ -41,5 +41,5 @@ http://devblog.avdi.org/2015/05/20/so-whats-the-deal-with-ruby-refinements-anywa
 > Refinements have been a feature of ruby for a while now, but they’ve not really seen much use due to their experimental status and some high profile articles proclaiming them to be problematic.  Since ruby 2.1 they’re not considered experimental anymore so it’s worth getting to know them better.  A good start is the above article by [Avdi Grimm](http://avdi.org/) in which he has made a [ruby tapas](http://www.rubytapas.com/) video about them freely available to help us explore refinements in more detail.
 
 <br/>
-## Track of the week - [Claire K](/people#claire-kemp)
+## Track of the week - Claire K
 <iframe width="480" height="360" src="https://www.youtube.com/embed/URAqnM1PP5E" frameborder="0" allowfullscreen></iframe>

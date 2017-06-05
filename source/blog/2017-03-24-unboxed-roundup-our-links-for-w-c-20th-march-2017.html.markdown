@@ -39,7 +39,7 @@ https://gist.github.com/tomsabin/652be7272c9829bde9f4409e95ae57bd
 
 Sometimes you need to be switching sessions in your spec, perhaps to check that a change to one view does not impact another. Capybara allows us to create new sessions easily with `Capybara.session_name = :foo`. This little helper allows you write blocks of code that are executed in an independent session and switches you back to the main, default, session. Make use of it as you see fit!
 
-## Recruiting Right - [Claire K](/people#claire-kemp)
+## Recruiting Right - Claire K
 
 https://github.com/poteto/hiring-without-whiteboards
 

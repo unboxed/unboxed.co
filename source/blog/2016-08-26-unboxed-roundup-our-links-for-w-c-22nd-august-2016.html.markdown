@@ -27,7 +27,7 @@ http://mewo2.com/notes/terrain/
 
 This appeals to me for a couple of reasons.  The first is that it's nice to read about code and algorithms that I'm unlikely to get to use in my day-to-day work.  The second is that, like a classic nerd, I grew up reading fantasy books and always loved the maps that they came with.  So this article is pretty much perfect for me.
 
-## Track of the Week - [Claire K](/people#claire-kemp)
+## Track of the Week - Claire K
 
 This song throws me straight back into the teeth-gnashing and breast-beating melodrama that being a teenager encompasses. I loved it during a wonderfully wicked time of independence and fear, excitement and heartbreak. More recently applicable to my experience of childminders... *let down and hanging around* [with children], [ambitions of coming in to Blossom street to do adult talk] *crushed like a bug on the ground*. Bittersweet. Enjoy.
 

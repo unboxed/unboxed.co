@@ -21,7 +21,7 @@ http://growingagile.co.za/2015/02/aeroplane-game/
 
 I've used this game to teach the concepts of limiting work in progress in a very tangible and effective way. Growing Agile has finally written up the version I use (there are a few others out on the web, but I prefer this one).
 
-## Track of the Week - [Claire](/people#claire-kemp)
+## Track of the Week - Claire
 
 This song got me through some of the most difficult times in the last couple of years. I blasted it in the car on the way back from Oxford after Liv's surgeon told me she got the whole tumour out and Liv was in recovery. I would also stick it on for the 4 % inclines in my training runs.
 

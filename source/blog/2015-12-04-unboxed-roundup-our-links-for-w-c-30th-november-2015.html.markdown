@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Onboarding - [Claire K](/people#claire-kemp)
+## Onboarding - Claire K
 
 http://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/.
 
