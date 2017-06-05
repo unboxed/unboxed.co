@@ -27,7 +27,7 @@ http://underthehood.meltwater.com/blog/2016/06/01/mob-programming/
 
 Mob programming is the hot new development practice for teams to try.  I've tried it out a couple of times and I'd recommend that any team give it a go.  However, just like pairing, you need to know what you're getting into and set some hard rules so that you get the most out of it.  To that end it's useful to hear from teams that have been doing it for a while and have already ironed out some of the problems you might encounter.
 
-## Track of the Week - [Clive C](/people#clive-corbishley)
+## Track of the Week - Clive C
 
 So many good memories associated with this track and the Black Sands album in general! Particularly relaxing with friends down by the river, just on the outskirts of Splashy Fen in Kwa-Zulu Natal.
 

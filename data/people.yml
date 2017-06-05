@@ -217,19 +217,6 @@
     - name: "GitHub"
       link: "https://github.com/elenatanasoiu"
 
-- name: "Clive Corbishley"
-  short_name: "clive-corbishley"
-  role: "Developer"
-  email: "clive.corbishley"
-  bio: |
-    I cut my teeth on a massive Open Source roll out in South Africa, with a split focus between development and dev-ops. It became obvious that I enjoyed the development side far more. So here I am now, at Unboxed, to focus my time on energy on what I enjoy the most.
-    In my off time I enjoy the outdoors, having a braai, watching documentaries and finding new music.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/clive-corbishley-b2708457"
-    - name: "GitHub"
-      link: "https://github.com/clivecorbishley"
-
 - name: "Matt Turrell"
   short_name: "matt-turrell"
   role: "Scrum master"
