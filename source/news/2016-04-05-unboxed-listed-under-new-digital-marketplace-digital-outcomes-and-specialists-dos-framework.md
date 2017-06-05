@@ -18,7 +18,7 @@ Suppliers who can provide specialists to work on a service, programme or project
 <br/>
 
 # Our public sector work
-In the public sector, we have worked with [SH:24](https://unboxed.co/project-stories/sh24/) (an NHS partnership), [Parliament Petitions]( https://unboxed.co/project-stories/petitions/), Land Registry, Greater London Authority (GLA), [Plymouth University]( https://unboxed.co/project-stories/plymouth-university/), Ministry of Justice (MoJ), Tunbridge Wells Borough Council and University of Hertfordshire.
+In the public sector, we have worked with [SH:24](https://unboxed.co/product-stories/sh24/) (an NHS partnership), [Parliament Petitions]( https://unboxed.co/product-stories/petitions/), Land Registry, Greater London Authority (GLA), [Plymouth University]( https://unboxed.co/product-stories/plymouth-university/), Ministry of Justice (MoJ), Tunbridge Wells Borough Council and University of Hertfordshire.
 
 We are currently working with [Buckinghamshire County Council](https://unboxed.co/news/buckinghamshire-county-council-project-reaches-end-of-alpha-phase/).
 

@@ -7,8 +7,8 @@ date: "2015-07-15T11:30:00+01:00"
 
 Join Unboxed on Wednesday 12th August for a hands on 3-hour session where you will  try out the powerful analytics-led design techniques Unboxed used to help:<br/>
 
-- Online travel company, <a href="../project-stories/contiki-holidays">Contiki Holidays</a>, increase bookings by <b>47%</b><br/>
-- Pioneering NHS digital sexual health service, <a href="../project-stories/sh24">SH:24</a>, increase the number of people completing the order process to <b>95%</b><br/>
+- Online travel company, <a href="../product-stories/contiki-holidays">Contiki Holidays</a>, increase bookings by <b>47%</b><br/>
+- Pioneering NHS digital sexual health service, <a href="../product-stories/sh24">SH:24</a>, increase the number of people completing the order process to <b>95%</b><br/>
 
 <p><b>Date:</b> Wednesday 12th August<br/>
 <b>Time :</b> 9.30am – 12.30pm (coffee and warm up fun from 9.00am)<br/>

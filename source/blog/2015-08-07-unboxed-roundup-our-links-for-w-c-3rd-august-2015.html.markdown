@@ -19,7 +19,7 @@ Here at Unboxed, we use Slack to democratise decision making and share knowledge
 
 https://www.rentapplication.com/these-are-the-most-sexually-diseased-cities-in-the-usa/
 
-This is the perfect intersection of [Unboxed's work with SH:24](/project-stories/sh24), providing digital sexual health testing 24hrs a day in London, and our love of data...
+This is the perfect intersection of [Unboxed's work with SH:24](/product-stories/sh24), providing digital sexual health testing 24hrs a day in London, and our love of data...
 
 ## One Step Forward, Two Steps Slack? - Chris C
 

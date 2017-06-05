@@ -174,7 +174,7 @@ Dr. Gillian Holdsworth<br/>
 Programme Director<br/>
 SH:24 ([@sh24_nhs](https://twitter.com/sh24_nhs))<br/>
 
-[SH:24](http://unboxed.co/project-stories/sh24/) is a free online sexual health service, delivered in partnership with the NHS. SH:24 makes it easier for people to get tested for the four most common sexually transmitted infections (STIs). They provide people in Southwark and Lambeth with test kits, information and advice - 24 hours a day.<br/>
+[SH:24](http://unboxed.co/product-stories/sh24/) is a free online sexual health service, delivered in partnership with the NHS. SH:24 makes it easier for people to get tested for the four most common sexually transmitted infections (STIs). They provide people in Southwark and Lambeth with test kits, information and advice - 24 hours a day.<br/>
 <br/>
 
 ![Gillian Holdsworth](http://i1291.photobucket.com/albums/b548/grammccram/IMG_1267_zpsdxjhkyrg.jpg)

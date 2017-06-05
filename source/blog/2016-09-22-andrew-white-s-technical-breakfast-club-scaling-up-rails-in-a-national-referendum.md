@@ -30,7 +30,7 @@ The first Petitions site was launched in November 2006, during Tony Blair’s ti
 We began working with GDS on the second version of the Petitions site, launched as e-Petitions by the coalition government in July 2011. This system experienced heightened popularity during the 2011 London Riots and was immediately required to scale for the surge of signatures during the [‘Convicted London rioters should loose (sic) all benefits’]( [https://petition.parliament.uk/archived/petitions/7337) petition, which received 258,276 signatures.<br/>
 
 <b>Version 3 (current version)</b><br/>
-The [current version of Petitions was launched in July 2015](https://unboxed.co/project-stories/petitions/), in partnership with GDS, as a platform to open new dialogue between the public and Parliament. Developing on the existing codebase allowed our team to get moving from day one, with only a limited amount of time due to the government being closed for the 2015 election.<br/>
+The [current version of Petitions was launched in July 2015](https://unboxed.co/product-stories/petitions/), in partnership with GDS, as a platform to open new dialogue between the public and Parliament. Developing on the existing codebase allowed our team to get moving from day one, with only a limited amount of time due to the government being closed for the 2015 election.<br/>
 
 For this version of the platform, the team focused on:<br/>
 

@@ -1,4 +1,4 @@
-.project-story-small-tile {
+.product-story-small-tile {
   box-sizing: border-box;
   display: block;
   margin-bottom: 6px;
@@ -15,7 +15,7 @@
   }
 }
 
-.project-story-small-tile__container {
+.product-story-small-tile__container {
   background-color: $white;
   box-sizing: border-box;
   border: 1px solid darken($light-gray, 5%);
@@ -27,12 +27,12 @@
   }
 }
 
-.project-story-small-tile__image {
+.product-story-small-tile__image {
   display: block;
   width: 100%;
 }
 
-.project-story-small-tile__content {
+.product-story-small-tile__content {
   box-sizing: border-box;
   padding: 12px 6px 6px;
 
@@ -42,7 +42,7 @@
   }
 }
 
-.project-story-small-tile__client {
+.product-story-small-tile__client {
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
@@ -53,7 +53,7 @@
   }
 }
 
-.project-story-small-tile__title {
+.product-story-small-tile__title {
   color: $medium-gray;
   font-weight: 300;
   line-height: 1.3;

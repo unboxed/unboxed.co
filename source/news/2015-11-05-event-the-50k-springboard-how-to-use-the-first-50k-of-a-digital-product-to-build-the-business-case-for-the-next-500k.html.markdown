@@ -61,7 +61,7 @@ date: "2015-11-05T15:47:00+00:00"
 
 <h3>Gillian Holdsworth</h3>
 
-<p>Programme Director at <a href="../project-stories/sh24">SH:24</a></b><br/></p>
+<p>Programme Director at <a href="../product-stories/sh24">SH:24</a></b><br/></p>
 
 <p><img src="http://bit.ly/1GHO0Mo" alt="Gillian Holdsworth"></p>
 

@@ -3,7 +3,7 @@ title: "New government Petitions website launched, developed in partnership with
 date: "2015-07-24T10:38:00+01:00"
 ---
 
-<p>The government and House of Commons has just launched a brand new version of the popular <a href="https://petition.parliament.uk">Petitions</a> (previously named <a href="../project-stories/e-petitions">e-Petitions</a>) service where members of the public can petition the government and members of parliament on issues that matter to them. The service was redesigned and developed in partnership with a team from Unboxed Consulting. </p>
+<p>The government and House of Commons has just launched a brand new version of the popular <a href="https://petition.parliament.uk">Petitions</a> (previously named <a href="../product-stories/e-petitions">e-Petitions</a>) service where members of the public can petition the government and members of parliament on issues that matter to them. The service was redesigned and developed in partnership with a team from Unboxed Consulting. </p>
 
 <p><img src="http://bit.ly/1Iat6PV" alt="Petitions launch"></p>
 

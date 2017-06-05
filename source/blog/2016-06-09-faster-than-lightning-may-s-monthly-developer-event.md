@@ -67,13 +67,13 @@ I chose this code as it reminded me of similar code that my university lecturer 
 <br/>
 ## Cale T
  
-Over the last week I’ve been working on [SH:24](https://unboxed.co/project-stories/sh24), writing lots of ‘yes’/’no’ questions for a new order form. Writing out the same code repeatedly was inefficient, so I extracted the code out and put it into a partial. This has allowed the code to become easily reusable. Any experienced Rails developer will have done this a hundred times before but this was my first experience of the awesome clarity and time-saving capabilities of Rails’ partials.<br/>
+Over the last week I’ve been working on [SH:24](https://unboxed.co/product-stories/sh24), writing lots of ‘yes’/’no’ questions for a new order form. Writing out the same code repeatedly was inefficient, so I extracted the code out and put it into a partial. This has allowed the code to become easily reusable. Any experienced Rails developer will have done this a hundred times before but this was my first experience of the awesome clarity and time-saving capabilities of Rails’ partials.<br/>
 
 
 <br/>
 ## [Andrew W](https://unboxed.co/people/#andrew-white)
 
-As part of a project for [Buckinghamshire County Council](https://unboxed.co/project-stories/bucks-cc), we needed to display points on a map using longitude and latitude but the data was stored as OS grid references. To make the conversion I implemented equations supplied by the OS in Ruby which converts from the flat coordinate space of the OS grid to the polar coordinate space of latitude/longitude (commonly known as WGS84). One complicating factor was the fact that the OS uses a slightly different ellipsoid to do the mercator projection which meant applying a 3D transformation between two different ellipsoids.<br/>
+As part of a project for [Buckinghamshire County Council](https://unboxed.co/product-stories/bucks-cc), we needed to display points on a map using longitude and latitude but the data was stored as OS grid references. To make the conversion I implemented equations supplied by the OS in Ruby which converts from the flat coordinate space of the OS grid to the polar coordinate space of latitude/longitude (commonly known as WGS84). One complicating factor was the fact that the OS uses a slightly different ellipsoid to do the mercator projection which meant applying a 3D transformation between two different ellipsoids.<br/>
 
 ![Andrew White](http://i1291.photobucket.com/albums/b548/grammccram/IMG_3718_zpshzi7wsdb.jpg)
 

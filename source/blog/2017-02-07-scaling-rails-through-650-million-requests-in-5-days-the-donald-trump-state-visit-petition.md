@@ -11,7 +11,7 @@ tags:
 main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/Petitions_zpsrcp2qsm6.png'
 ---
 
-<i>[Parliament Petitions](https://petition.parliament.uk/) is a Rails app which [we built in collaboration with GDS](https://unboxed.co/project-stories/petitions/) during the summer of 2015. Andrew is the lead developer and lead support of the platform, working alongside [Pete Herlihy](https://twitter.com/yahoo_pete) - the Product Owner.</i><br/>
+<i>[Parliament Petitions](https://petition.parliament.uk/) is a Rails app which [we built in collaboration with GDS](https://unboxed.co/product-stories/petitions/) during the summer of 2015. Andrew is the lead developer and lead support of the platform, working alongside [Pete Herlihy](https://twitter.com/yahoo_pete) - the Product Owner.</i><br/>
 
 Since last Sunday, our team has been on high alert with Petitions being at the centre of a high-profile political debate. A petition with the aim of preventing President Trump making a State Visit hit the national headlines, gathering a huge number of signatures and a high public following across the week.<br/>
 

@@ -1,10 +1,10 @@
 ---
-title: "Side Project - Petition Map"
+title: "Product Story - Petition Map"
 
 header:
   client: "Unboxed"
   introduction: "Visualising UK petitions and open source data with Petition Map"
-  image: "/project-stories/petition-map/header.jpg"
+  image: "/product-stories/petition-map/header.jpg"
   image_description: "Petition Map"
 
 introduction:
@@ -13,18 +13,18 @@ introduction:
     - "Interactive heat map tool built during innovation time"
     - "Visual representation of signatures of every live petition"
     - "JavaScript map powered through open source data"
-  image: "/project-stories/petition-map/iphone.jpg"
+  image: "/product-stories/petition-map/iphone.jpg"
   image_description: "Petition Map on iPhone"
 
 quote_1:
   quote: "It’s been exciting to see online newspapers feature Petition Map in articles relating to popular petitions and use it to gain an insight into where petitions are most popular. Users are also sharing it on social media when promoting petitions important to them."
   source: "Cale Tilford, Developer, Unboxed"
-  image: "/project-stories/petition-map/team/cale-tilford-full.png"
+  image: "/product-stories/petition-map/team/cale-tilford-full.png"
 
 about:
   title: "A heat map of UK politics"
   content: "Petition Map is an interactive heat map, which allows users to visualise signatures of a UK petition on a real-time map of the United Kingdom. Following the redevelopment of the Parliament Petitions platform with GDS (Government Digital Service), our intern developer, Cale, spent innovation time during his summer here to explore, develop and build this heat map to support the Petitions platform for members of the public."
-  image: "/project-stories/petition-map/map.jpg"
+  image: "/product-stories/petition-map/map.jpg"
   image_description: "Close up of heatmap"
 
 statistics_1:
@@ -39,7 +39,7 @@ statistics_2:
 open_source:
   title: '​Pulling open data for real-time visualisation'
   content: "Petition Map pulls the JSON data of each individual petition, allowing users to select from a list of active petitions to visualise, with the popular Javascript library D3 used to render the outline of each parliamentary constituency. Each instance a petition is loaded, the colour scale is calculated relative to the total number of signatures, with each constituency then coloured in relation to this."
-  image: "/project-stories/petition-map/open-source.jpg"
+  image: "/product-stories/petition-map/open-source.jpg"
   image_description: "JSON file containing petition data"
 
 quote_2:
@@ -49,7 +49,7 @@ quote_2:
 public_following:
   title: "Gaining a high public following"
   content: "Following a number of high-profile political topics, the map has begun to build up a public following, appearing in publications such as Mail Online and The Independent. Petitions such as ‘Block Donald J Trump from UK entry’ and the more recent four-million-signature receiving ‘EU Referendum Rules triggering a 2nd EU Referendum’ have caused a sharp surge in map users, with the number of session crossing four million since it launched."
-  image: "/project-stories/petition-map/mac.jpg"
+  image: "/product-stories/petition-map/mac.jpg"
   image_description: "Petition Map on a Mac"
 
 statistics_3:
@@ -69,7 +69,7 @@ team:
   title: "Unboxed team"
   people:
   - full_name: "Cale Tilford"
-    image: "/project-stories/petition-map/team/cale-tilford.png"
+    image: "/product-stories/petition-map/team/cale-tilford.png"
 
 site:
   link: "http://petitionmap.unboxedconsulting.com/"
@@ -78,8 +78,8 @@ site:
 links:
   - title: "Public sector collaboration with GDS to relaunch Petitions platform for UK citizens"
     source: ""
-    type: "project story"
-    link: "/project-stories/petitions/"
+    type: "product story"
+    link: "/product-stories/petitions/"
 
   - title: "Record-breaking EU 2nd referendum petition hits 3.9 million signatures and rising"
     source: ""
@@ -88,12 +88,12 @@ links:
 
 ---
 
-<%= partial 'project-stories/page_header' %>
+<%= partial 'product-stories/page_header' %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'project-stories/full_image', locals: { section: current_page.data.header } %>
+  <%= partial 'product-stories/full_image', locals: { section: current_page.data.header } %>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.introduction } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.introduction } %>
 
   <section class="highlight--petition-map">
     <h2 class="highlight__title">
@@ -108,7 +108,7 @@ links:
     </div>
   </section>
   
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.about } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.about } %>
 
   <blockquote class="quote">
     <aside class="quote__right-section">
@@ -122,15 +122,15 @@ links:
     <img class="quote__source-image" src="<%= current_page.data.quote_1.image %>" alt="<%= current_page.data.quote_1.source %>"/>
   </blockquote>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.open_source } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.open_source } %>
 
-  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_2 } %>
+  <%= partial 'product-stories/quote', locals: { section: current_page.data.quote_2 } %>
 
-  <%= partial 'project-stories/text_tile', locals: { section: current_page.data.public_following } %>
+  <%= partial 'product-stories/text_tile', locals: { section: current_page.data.public_following } %>
 
-  <%= partial 'project-stories/quote', locals: { section: current_page.data.quote_3 } %>
+  <%= partial 'product-stories/quote', locals: { section: current_page.data.quote_3 } %>
 
-  <%= partial 'project-stories/project_team' %>
+  <%= partial 'product-stories/project_team' %>
 
   <section class="highlight--petition-map">
     <h2 class="highlight__title">
@@ -145,7 +145,7 @@ links:
     </div>
   </section>
 
-  <%= partial 'project-stories/link_tiles' %>
+  <%= partial 'product-stories/link_tiles' %>
 
 </div>
 

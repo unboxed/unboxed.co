@@ -16,6 +16,6 @@ If a petition reaches 10,000 signatures, the Government will offer a formal resp
 
 Alongside these debated petitions are a further 210 to have received a Government response, having each individually reached 10,000 signatures, and a total of 10,070 petitions created in the 10 months since the launch.<br/>
 
-Read about [how we collaborated with Government Digital Service (GDS) last year to relaunch Petitions platform for UK citizens](https://unboxed.co/project-stories/petitions/).<br/>
+Read about [how we collaborated with Government Digital Service (GDS) last year to relaunch Petitions platform for UK citizens](https://unboxed.co/product-stories/petitions/).<br/>
 
 ![Petitions Twitter](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-05-24%20at%2014.06.06_zpsjp16jw4d.png)

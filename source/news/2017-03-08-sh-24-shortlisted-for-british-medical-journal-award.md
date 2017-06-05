@@ -15,6 +15,6 @@ On the shortlisting, [Chris Howroyd](https://twitter.com/chrishowroyd) - Service
 
 Originally delivered in partnership with Unboxed, an innovative approach was taken to tackle rising STI rates across the London boroughs of Lambeth and Southwark. At the time, with diagnosis rates of 3,209.7 per 100,000 residents (Lambeth) and 2,199.4 per 100,000 residents (Southwark), these areas were experiencing some of the highest rates across Europe. Through collaborating to validate and deliver this user-led service to help reduce these numbers, the SH:24 service has now been scaled up and rolled out across further areas of the UK.<br/>
 
-[Read more about the development of SH:24 here](https://unboxed.co/project-stories/sh24/).<br/>
+[Read more about the development of SH:24 here](https://unboxed.co/product-stories/sh24/).<br/>
 
 The BMJ 2017 Awards are set to take place on Thursday 4th May at the Park Plaza Westminster.
