@@ -55,11 +55,6 @@
   }
 }
 
-.text-tile__title--lowercase {
-  @extend .text-tile__title;
-  text-transform: lowercase;
-}
-
 .text-tile__title--narrow {
   @extend .text-tile__title;
 
