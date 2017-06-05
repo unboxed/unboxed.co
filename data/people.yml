@@ -169,7 +169,7 @@
 
 - name: "Jolie Lanser"
   short_name: "jolie-lanser"
-  role: "Scrum master"
+  role: "Scrum Master"
   email: "jolie.lanser"
   bio: |
     Coming from an Academic background with a career in ICT behind me, I discovered a passion for Agile practices and became a Certified Scrum Master. My approach is empathetic, collaborative and forthright and I pride myself on obstacle removal and on enabling individuals and teams to be as productive and as happy as possible.
@@ -204,7 +204,7 @@
   role: "Admin"
   email: "anissa.said"
 
-- name: "Neil Van Beinum"
+- name: "Neil van Beinum"
   short_name: "neil-van-beinum"
   role: "Developer"
   email: "neil.van-beinum"
@@ -244,7 +244,7 @@
 
 - name: "Matt Turrell"
   short_name: "matt-turrell"
-  role: "Scrum master"
+  role: "Scrum Master"
   email: "matt.turrell"
   bio: |
     My whole career has been in software, and I love it when a system goes live, making a positive impact on the lives and work of its users.

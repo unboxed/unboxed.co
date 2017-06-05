@@ -59,7 +59,6 @@
   font-size: .8em;
   font-weight: 600;
   margin-bottom: 6px;
-  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.335vw;
