@@ -9,7 +9,7 @@ tags:
   - Culture
 ---
 
-## Everybody is running away to start something - [Claire K](/people#claire-kemp)
+## Everybody is running away to start something - Claire K
 
 http://fundersandfounders.com/everyone-will-have-to-become-an-entrepreneur/
 

@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Emergency Codes - [Claire K](/people#claire-kemp)
+## Emergency Codes - Claire K
 
 http://www.telegraph.co.uk/travel/news/The-emergency-codes-youre-not-supposed-to-know-about/
 

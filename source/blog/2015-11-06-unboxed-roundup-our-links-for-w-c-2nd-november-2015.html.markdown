@@ -31,7 +31,7 @@ Ultimately, you may decide that your entire product has reached its natural life
 
 They didn't design the service with "shutdownability" in mind, but there are decisions they took early on in building a product (such as using feature switches) that made it easier to do the shutdown when it happened.  Definitely an approach worth looking into and considering on your next new project.
 
-## Track of the Week - [Clive C](/people#clive-corbishley)
+## Track of the Week - Clive C
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/OQsQZvsR_QI" frameborder="0" allowfullscreen></iframe>
 

@@ -24,7 +24,7 @@ So we start the countdown...<br/>
 Sarah's comment:<i>“I hadn't heard this until I had to search for it! I wish it has been something better, 1989 had some crackers.”</i><br/>
 <br/>
 
-##9. [Claire](/people#claire-kemp):<br/>
+##9. Claire:<br/>
 <h1>Bee Gees - Stayin' Alive</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/I_izvAbhExY" frameborder="0" allowfullscreen></iframe><br/>
 Claire's comment: <i>“This is the beat for CPR repetition. I had a 70's party for my 21st, we played it. I also still like to listen to it but not too often!"</i><br/>

@@ -41,7 +41,7 @@ https://github.com/hobby-kube/guide
 
 An opinionated guide on how to setup a Kubernetes cluster on Digital Ocean or Scaleway.
 
-## iPlayer Registration - [Claire K](/people#claire-kemp)
+## iPlayer Registration - Claire K
 
 http://www.telegraph.co.uk/technology/2017/05/11/bbc-iplayer-now-has-password-controls/
 

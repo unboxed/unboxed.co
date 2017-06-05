@@ -93,18 +93,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/carriebedingfield"
 
-- name: "Claire Kemp"
-  short_name: "claire-kemp"
-  role: "People"
-  email: "claire.kemp"
-  bio: |
-    I have grown up with Unboxed Consulting where we have learned to embrace change that is defined by the user. I swapped working in the PMO for working as a part of a team as a Scrum Master and then as a Tester. I pivoted again, changing focus from the end user of digital products to concentrate on the people who are involved in delighting end users. Being a "Gardener" is my analogy for cultivating an environment in which talent can thrive and great ideas grow into products that add more colour to life.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/clairekmp"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/claire-kemp-0a54089"
-
 - name: "Murray Steele"
   short_name: "murray-steele"
   role: "Developer"
@@ -229,19 +217,6 @@
     - name: "GitHub"
       link: "https://github.com/elenatanasoiu"
 
-- name: "Clive Corbishley"
-  short_name: "clive-corbishley"
-  role: "Developer"
-  email: "clive.corbishley"
-  bio: |
-    I cut my teeth on a massive Open Source roll out in South Africa, with a split focus between development and dev-ops. It became obvious that I enjoyed the development side far more. So here I am now, at Unboxed, to focus my time on energy on what I enjoy the most.
-    In my off time I enjoy the outdoors, having a braai, watching documentaries and finding new music.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://za.linkedin.com/in/clive-corbishley-b2708457"
-    - name: "GitHub"
-      link: "https://github.com/clivecorbishley"
-
 - name: "Matt Turrell"
   short_name: "matt-turrell"
   role: "Scrum master"
@@ -278,11 +253,6 @@
       link: "https://github.com/cih"
   bio: |
     Over the last five years I’ve been fortunate enough to work on some interesting and complex problems with great people and my passion for development has continued to grow. Here at Unboxed I'm working alongside talented, like minded people and learning new things every day. When I’m not at my machine I can usually be found by a lake fishing for carp.
-
-- name: "Lloyd Africa"
-  short_name: "lloyd-africa"
-  role: "Developer"
-  email: "lloyd.africa"
 
 - name: "Lawrence Richards"
   short_name: "lawrence-richards"

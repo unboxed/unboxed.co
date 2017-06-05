@@ -42,7 +42,7 @@ http://www.wired.com/2015/02/science-one-agrees-color-dress/
 
 An explanation as to why a dress seems to have divided the world of Twitter overnight.
 
-## Technology Radar - [Claire](/people#claire-kemp)
+## Technology Radar - Claire
 
 http://techradar.io
 

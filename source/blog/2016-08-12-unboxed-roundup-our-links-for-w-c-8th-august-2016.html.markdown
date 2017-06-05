@@ -15,7 +15,7 @@ https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and
 
 A funny story about what's lurking in our external dependencies.
 
-## Redesigning the UX of employment to deliver value in short employee lifespans - [Claire K](/people#claire-kemp)
+## Redesigning the UX of employment to deliver value in short employee lifespans - Claire K
 
 http://www.eventbrite.co.uk/o/knot-resources-11067260296
 

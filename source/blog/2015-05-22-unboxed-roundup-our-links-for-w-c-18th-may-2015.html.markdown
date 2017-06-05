@@ -64,7 +64,7 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## I love a hug - [Claire K](/people#claire-kemp)
+## I love a hug - Claire K
 
 * http://www.slideshare.net/UBXD/a-warm-hug-at-the-door-that-opens-many-more
 

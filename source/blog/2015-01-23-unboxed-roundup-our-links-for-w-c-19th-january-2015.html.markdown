@@ -9,7 +9,7 @@ tags:
   - Culture
 ---
 
-## Emotional design - [Claire](/people#claire-kemp)
+## Emotional design - Claire
 
 https://hbr.org/2015/01/intuits-ceo-on-building-a-design-driven-company
 
