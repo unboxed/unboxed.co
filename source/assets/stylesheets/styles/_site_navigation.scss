@@ -101,7 +101,6 @@
   padding: 10px;
   position: relative;
   text-decoration: none;
-  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 0.8em;
