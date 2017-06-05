@@ -68,7 +68,6 @@
 .blog-medium-tile__date {
   color: $dark-gray;
   font-size: .8em;
-  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: 1.335vw;
