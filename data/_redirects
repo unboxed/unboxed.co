@@ -1,6 +1,7 @@
 /blog/author  /blog
 /people/*  /people#:splat
-/case-studies/*  /project-stories
+/case-studies/*  /product-stories
+/project-stories/* /product-stories/:splat
 /about-us  /contact
 /blog/feed  /blog/feed.xml
 
