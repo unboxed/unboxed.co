@@ -14,7 +14,6 @@
   font-weight: 300;
   margin-bottom: 20px;
   padding-right: 20px;
-  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 50px;
