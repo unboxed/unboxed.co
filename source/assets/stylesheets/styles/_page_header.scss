@@ -63,7 +63,6 @@
   font-weight: 300;
   line-height: 1.4em;
   padding-top: 8px;
-  text-transform: lowercase;
 
   @include breakpoint($tablet-breakpoint) {
     width: 64%;

@@ -62,7 +62,6 @@ iframe.contact-page-tile__image {
   color: $purple;
   font-size: 1.95em;
   font-weight: 300;
-  text-transform: lowercase;
   padding-bottom: 15px;
 
   @include breakpoint($tablet-breakpoint) {

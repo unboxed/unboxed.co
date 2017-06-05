@@ -84,7 +84,6 @@ i.contact-page-address__map-icon {
   a {
     color: lighten($medium-gray, 5%);
     text-decoration: none;
-    text-transform: lowercase;
 
     &:hover {
       text-decoration: underline;
@@ -118,7 +117,6 @@ i.contact-page-address__map-icon {
   padding: 10px;
   text-align: center;
   text-decoration: none;
-  text-transform: lowercase;
   vertical-align: middle;
 
   &:hover {
