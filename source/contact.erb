@@ -1,5 +1,5 @@
 ---
-title: "Contact - Speak to the largest Ruby on Rails development agency in London and Cape Town"
+title: "Contact - Speak to the largest Ruby on Rails development agency in London"
 meta_description: "Get in touch at hello@unboxed.co if you would like to find out more"
 
 header:
@@ -30,28 +30,6 @@ offices:
       - name: "Shoreditch High Street"
         link: "https://tfl.gov.uk/overground/stop/910GSHRDHST/shoreditch-high-street-rail-station"
         icon: "tfl-icon__overground.png"
-
-  - name: "Cape Town"
-    address: |
-      303 Buchanan Chambers
-      Cnr Pearce & Warwick Street
-      7735
-      Claremont, SA
-    humanized_phone_number: "+27 21 671 4503"
-    phone_number: "+27216714503"
-    email: "hellocapetown@unboxed.co"
-    map_link_title: "open in google maps"
-    map_link: "http://goo.gl/maps/JkNC9"
-    interactive_map: "https://a.tiles.mapbox.com/v4/web-unboxed.oec60hbb/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
-
-    transport_directions: "nearest parking and station"
-    station_and_parking:
-      - name: "Grove Avenue"
-        link: "https://www.parkme.com/map?lot=122336"
-        icon: "transport-icon__car.png"
-      - name: "Claremont"
-        link: "http://cttrains.co.za/ss_route_select.php"
-        icon: "transport-icon__train.png"
 ---
 
 <header class="page-header page-header--bottom-margin">
@@ -87,21 +65,19 @@ offices:
             </div>
           <% end %>
 
-          <% if office.name != "Cape Town" %>
-            <div class="contact-page-address__phone-number">
-              <a href="tel:<%= office.phone_number %>">
-                <i class="fa fa-phone contact-page-address__phone-icon"></i>
-                <%= office.humanized_phone_number %>
-              </a>
-            </div>
+          <div class="contact-page-address__phone-number">
+            <a href="tel:<%= office.phone_number %>">
+              <i class="fa fa-phone contact-page-address__phone-icon"></i>
+              <%= office.humanized_phone_number %>
+            </a>
+          </div>
 
-            <div class="contact-page-address__email">
-              <a href="mailto:<%= office.email %>">
-                <i class="fa fa-envelope contact-page-address__email-icon"></i>
-                <%= office.email %>
-              </a>
-            </div>
-          <% end %>
+          <div class="contact-page-address__email">
+            <a href="mailto:<%= office.email %>">
+              <i class="fa fa-envelope contact-page-address__email-icon"></i>
+              <%= office.email %>
+            </a>
+          </div>
 
           <div class="contact-page-address__map-link">
             <a href="<%= office.map_link %>" target="_blank">
@@ -130,19 +106,3 @@ offices:
     </div>
   <% end %>
 </div>
-
-<script>
-  var request = new XMLHttpRequest();
-  request.open('GET', 'http://ipinfo.io/json', true);
-
-  request.onload = function() {
-    if (request.status === 200) {
-      var response = JSON.parse(request.responseText);
-      if (response.country == 'ZA') {
-        document.getElementById('offices').appendChild(document.getElementById('London'));
-      }
-    }
-  };
-
-  request.send();
-</script>

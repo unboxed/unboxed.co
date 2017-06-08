@@ -30,6 +30,12 @@
   }
 }
 
+.site-footer__tile--last {
+  @include breakpoint($tablet-breakpoint) {
+    float: right;
+  }
+}
+
 .site-footer__email-address {
   color: inherit;
   text-decoration: none;
