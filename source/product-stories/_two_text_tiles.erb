@@ -1,25 +1,45 @@
 <section class="component">
   <div class="component__tile--title">
     <% if section.title %>
-        <h2 class="text-tile__title--narrow">
-          <%= section.title %>
-        </h2>
+      <h2 class="text-tile__title--narrow">
+        <%= section.title %>
+      </h2>
     <% end %>
   </div>
 
   <div class="component__tile text-tile--double-tile">
     <% if section.content_1 %>
+      <% if section.content_1.is_a?(Array) %>
+        <ul class="text-tile__list">
+          <% section.content_1.each do |item| %>
+            <li class="text-tile__list-item">
+              <%= item %>
+            </li>
+          <% end %>
+        </ul>
+      <% else %>
         <p class="text-tile__paragraph">
           <%= section.content_1 %>
         </p>
+      <% end %>
     <% end %>
   </div>
 
   <div class="component__tile text-tile--double-tile">
     <% if section.content_2 %>
+      <% if section.content_2.is_a?(Array) %>
+        <ul class="text-tile__list">
+          <% section.content_2.each do |item| %>
+            <li class="text-tile__list-item">
+              <%= item %>
+            </li>
+          <% end %>
+        </ul>
+      <% else %>
         <p class="text-tile__paragraph">
           <%= section.content_2 %>
         </p>
+      <% end %>
     <% end %>
   </div>
 </section>
