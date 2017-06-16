@@ -3,10 +3,10 @@ weekly_roundup: true
 title: 'Unboxed Roundup: Our links for w/c 12th June 2017'
 date: '2017-06-16 13:30:00 UTC'
 authors:
-  - 'Murray Steele'
-tags: # (Delete as appropriate)
-- Culture
-
+  - Murray Steele
+tags:
+  - Culture
+published: true
 ---
 
 ## Product Design Playbook - [Boris D](/people#boris-divjak)
@@ -56,6 +56,12 @@ to use data visualisation techniques to explore something and give you a
 different perspective on it (for example [generating ERD
 diagrams of your models](https://github.com/voormedia/rails-erd) to see
 dependencies).
+
+## Newham Council: Improving residential access and support to homelessness services - the Discovery and Alpha phases - [Graeme M](https://unboxed.co/people/#graeme-mccubbin)
+
+https://www.local.gov.uk/newham-council-improving-residential-access-and-support-homelessness-services-discovery-and-alpha
+
+All about one of our recent projects with Newham Council, the Local Government Association have published a case study.
 
 ## Track of the Week - [Neil VB](/people#neil-van-beinum)
 
