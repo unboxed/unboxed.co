@@ -11,11 +11,12 @@ tags:
   - Culture
   - Innovation
   - Lean
-main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/IMG_7454_zps4k4gb7ql.jpg'
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a7e1bced98d0bbb8fdd950f3d2c5988a.JPG
 ---
 The Digital Team have reached a milestone Show & Tell in their Digital Customer Programme Discovery Phase with [Newham Council](https://www.newham.gov.uk/Pages/index.aspx) - Sprint 10. With a buzz across the room, spirits are high as it reaches 11am – the time for the Show & Tell kick-off.<br/>
 
-![Newham Council Show and Tell 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7469_zpsiuoqkgix.jpg)
+![Newham Council Show and Tell 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/87a6b79f68c74c2f79aba486afbb17bd.JPG)
 <br/>
 
 # Digital Discovery - Sprint 10
@@ -29,7 +30,7 @@ The Digital Team have reached a milestone Show & Tell in their Digital Customer 
 - Initial planning for the upcoming Alpha phase, following this Discovery, to take each prototype further and identify any risks involved within each service
 - Addressing the smooth transition into this Alpha phase
 
-![Newham Council Show and Tell 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7461_zpsbfvrfrnh.jpg)
+![Newham Council Show and Tell 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/bf92425cd41aa26953dadf5629e5c77a.JPG)
 <br/>
 
 # Progress reflection
@@ -40,7 +41,7 @@ The Newham Council team reflected over the last 10 weeks, sharing their learning
 - The learnings of user interviewing – it’s not just about asking a large list of questions but engaging constantly in conversations with users and taking away even the smallest of insights and comments they may share during this time
 - There is so much more to addressing online user behaviour than just using systems such as Google Analytics
 
-![Newham Council Show and Tell 3](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7454_zps4k4gb7ql.jpg)
+![Newham Council Show and Tell 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/40510634c44e7510891e5d46c36fd0b1.JPG)
 <br/>
 
 # Agile reflection
@@ -64,7 +65,7 @@ The Digital Team then wrapped up this Show & Tell by summarising the overall Dis
 - These individual service area stakeholders can now see how their services can help more people
 - The task now is to build up on the progress already made, keeping up the Discovery momentum and carrying this through to the Alpha phase
 
-![Newham Council Show and Tell 4](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7452_zpspmweuqa9.jpg)
+![Newham Council Show and Tell 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d4fdecba97ffd83fc4c2fd54ecd46707.JPG)
 
 Newham Council is going through a step-by-step change, with this Discovery phase being the first step in this journey to Agile. It’s a very exciting time for the Digital Team, and wider overall team. So, Sprint 10... That's a wrap!<br/>
 <br/>
@@ -74,6 +75,7 @@ Newham Council is going through a step-by-step change, with this Discovery phase
 - Heading into the Alpha phase of selected services
 - More Discovery work on services still at early stages
 
-![Newham Council Show and Tell 4](http://i1291.photobucket.com/albums/b548/grammccram/IMG_7475_zpssuv7omfz.jpg)
+![Newham Council Show and Tell 4](
+https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1e7edd9c51ac68d82835f8e6b2137e23.JPG)
 
 A quick team de-brief and it’s onwards and upwards to the next challenge - the Alpha phase.
