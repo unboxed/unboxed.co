@@ -1,20 +1,20 @@
 ---
-date: "2015-09-09 13:00:00 UTC"
+date: '2015-09-09 13:00:00 UTC'
 published: true
-title: "Agile pon de Beach 2015 - #AgileOTB"
+title: 'Agile pon de Beach 2015 - #AgileOTB'
 authors:
-  - "Graeme McCubbin"
+  - Graeme McCubbin
 tags:
   - Agile
   - Culture
-
 ---
 
 <b>The conference:</b> [Agile On The Beach](http://agileonthebeach.com) 2015<br/>
 <b>The dates:</b> Thursday 2nd & Friday 3rd September<br/>
 <b>The attendees:</b><br/>
 
-<img src="http://bit.ly/1LRPO41" alt="The attendees">
+
+![The attendees](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a3ecef0d62681d7a18c6e184db4e2de2.PNG)
 
 Claire, [Jack](/people#jack-bracewell), [Martyn](/people#martyn-evans), [Ben](/people#ben-wong) and [Graeme](/people#graeme-mccubbin) (+200 others, but we don't have caricatures for them)<br/>
 
@@ -22,7 +22,7 @@ Claire, [Jack](/people#jack-bracewell), [Martyn](/people#martyn-evans), [Ben](/p
 
 Five of Team Unboxed boarded the train at Paddington Station to head to Agile on the Beach 2015 (or Agile <i>pon de</i> Beach, depending on your mood) - the leading annual conference, exploring the latest Agile and Lean thinking in software craftsmanship, teams and business.<br/>
 
-<p align="center"><img src="http://bit.ly/1i5PpBa" alt="On the train"></p>
+![On the train](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a94871bfb1ba1e61095b20d08d50d4b6.PNG)
 
 After a long journey (6 hours…), we finally touched down in the delightful seaside town of Falmouth, the location of the conference. After a small sample of what Falmouth had to offer cuisine-wise (mainly fish and chips) and a short sleep, we were ready and raring to go.<br/>
 <br/>
@@ -58,14 +58,14 @@ Each of us then took off to follow our individual talk schedules. Being a non-te
 
 <br/>
 
-<p align="center"><img src="http://bit.ly/1XCdpMB" alt="Beach wander"></p>
+![Beach wander](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/bb84fedae37e5ce66a733d403a9f1f3c.PNG)
 
-<p align="center"><img src="http://bit.ly/1g3JvPc" alt="The beach"></p>
+![The beach](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d33317702c32e9e5443b5c0a3f86cf24.PNG)
 
 <p>In true British fashion, the sun did not have his hat on... but that didn’t matter. Spirits were high, laughter was rife, drinks were flowing, beach fires were blazing and some rather impressive sand sculptures were being carved in the main tent:</p>
 
-<p align="center"><img src="http://bit.ly/1FrmbSc" alt="Sand sculptures"></p>
-<br/>
+![Sand sculptures](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dfcc9be1c0633a326a27f17d1d45d6ef.PNG)
+
 
 <h1>Day two</h1>
 
