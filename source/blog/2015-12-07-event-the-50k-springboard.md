@@ -4,7 +4,7 @@ authors:
 tags:
   - Agile
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-12-08%20at%2015.43.35_zpsbqfopsv4.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/eec74db448216bc3858af97d5db5293c.PNG
 date: '2015-12-07 16:02 +0000'
 published: true
 title: 'Event: The £50k Springboard'
