@@ -1,13 +1,14 @@
 ---
 authors:
   - Martyn Evans
-tags: 
+tags:
   - Agile
   - Design
   - Innovation
   - Lean
-main_image: "http://i963.photobucket.com/albums/ae115/Ubxd/street_health_checker_home_zpslwymcbxo.jpg"
-date: "2016-01-11 17:32 +0000"
+main_image: >-
+  http://i963.photobucket.com/albums/ae115/Ubxd/street_health_checker_home_zpslwymcbxo.jpg
+date: '2016-01-11 17:32 +0000'
 published: true
 title: Learning in Local Government through Discovery
 ---
