@@ -11,7 +11,7 @@ tags:
   - Innovation
   - Lean
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/2017-01-18%2016.40.11_zps7bhxw0al.jpg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b814831b496d5e82dc359eed80742398.JPG
 ---
 The London Borough of Lambeth is a very diverse community, with an estimated 1 in 6 residents across this Borough speaking Portuguese as their native tongue. Following an annual report compiled by healthcare leaders in Lambeth and the completion of Lambeth Council’s Borough Plan, it has been identified that the Portuguese speaking community is at risk of health and social inequalities, leading to poorer health outcomes for this group.<br/>
 
@@ -21,7 +21,7 @@ From already delivering results across the past year, this group are now moving 
 
 This is Wednesday 18th January, this is the [Health Foundry](http://www.healthfoundry.org/), this is the Lambeth Portuguese Community Workshop and this session is being facilitated by [Leon Odey-Knight](https://unboxed.co/people/#leon-odey-knight):<br/>
 
-![Lambeth Portuguese community workshop 1](http://i1291.photobucket.com/albums/b548/grammccram/2017-01-18%2017.32.28%202_zpspfwnqy2s.jpg)
+![Lambeth Portuguese community workshop 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b020fb936497927ba32299bf2ba49baa.jpg)
 
 It’s just before 3pm (the session kick-off time) and attendees have started arriving. “There are around 20 people coming altogether”. It’s great to see so many people gathering together to commonly address a community issue that is close to their hearts.<br/>
 
@@ -31,13 +31,13 @@ As the clock strikes 3pm, it’s time to begin...<br/>
 # Hour one: Introductions and identifying our goals
 Looking across the room, the chairs and tables are filled with key project stakeholders - the group working together towards improving healthcare in Lambeth and revolutionising inequalities within healthcare for the Portuguese community across the borough.<br/>
 
-![Lambeth Portuguese community workshop 2](http://i1291.photobucket.com/albums/b548/grammccram/2017-01-18%2016.48.05_zps7zttkiqb.jpg)
+![Lambeth Portuguese community workshop 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6a67d91d2fcd7404469d8720e4017612.JPG)
 
 Introducing the workshop is [Will Nicholson](https://twitter.com/wnicholson7) - Connector and Independent Facilitator at the Health Foundry. Will creates the magic in getting the right people in the same room together at the right time. He’s the catalyst behind this afternoon’s workshop.
 
 This is Will:<br/>
 
-![Lambeth Portuguese community workshop 3](http://i1291.photobucket.com/albums/b548/grammccram/2017-01-18%2016.13.40_zpsgqctpcda.jpg)
+![Lambeth Portuguese community workshop 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2defc6d20f56c2babd90d84181ac71e.JPG)
 
 It’s time for individual introductions. Each person stands up to share who they, where they’ve come from and why they are here. We have people from organisations and places from all across the borough (and beyond), including:<br/>
 
@@ -63,7 +63,7 @@ LCN (Local Care Network) focus on long term conditions and chronic disease. How 
 ## Connect and strengthen
 How do we engage with the most vulnerable and isolated members of the community? How do we identify their issues, may they be mental health, socioeconomic, housing, etc.?<br/>
 
-![Lambeth Portuguese community workshop 4](http://i1291.photobucket.com/albums/b548/grammccram/2017-01-18%2016.27.00%201_zpsjkqq4r9x.jpg)
+![Lambeth Portuguese community workshop 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/46c3319605162f175d18c735f19bef49.JPG)
 <br/>
 
 # Hour two: Personas and journey mapping
@@ -77,14 +77,14 @@ Armed with a blank sheet of magic whiteboard and a Sharpie, we’re starting off
 2. Their background - Do they have a job? What is their family background? Do they have access to the internet?<br/>
 3. Pain points - What are their needs? Do they have any concerns?<br/>
 
-![Lambeth Portuguese community workshop 5](http://i1291.photobucket.com/albums/b548/grammccram/2017-01-18%2016.24.54_zps3aaexvlr.jpg)
+![Lambeth Portuguese community workshop 5](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6358fc44e2f43d13bdd23d7e1046b63b.JPG)
 
 Beginning with our first persona, Leon takes suggestions from the floor:<br/>
 
 “She’s female.”<br/>
 “Her name is Maria.”<br/>
 
-![Lambeth Portuguese community workshop 6](http://i1291.photobucket.com/albums/b548/grammccram/2017-01-18%2016.40.11_zps7bhxw0al.jpg)
+![Lambeth Portuguese community workshop 6](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b814831b496d5e82dc359eed80742398.JPG)
 
 Maria is unfolding...<br/>
 
@@ -98,7 +98,7 @@ We’re now getting to know a bit more about her:<br/>
 
 As we work on building up Maria’s profile, the sheet of magic whiteboard begins to take shape:
 
-![Lambeth Portuguese community workshop 7](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8461_zpslbl4s7x2.jpg)
+![Lambeth Portuguese community workshop 7](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/03a4edbd842f2a5ddf34d9b172680e4f.JPG)
 
 So we now know Maria, and have drilled down into some of her current pain points. She works unsociable hours. She’s lowly paid. She experiences low moods and depression.<br/>
 
@@ -107,7 +107,7 @@ With Maria identified and firmly on our radar, it’s time to broaden out to ide
 “He’s male.”<br/>
 “His name is Claudio.”<br/>
 
-![Lambeth Portuguese community workshop 8](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8460_zpsnmowgw2o.jpg)
+![Lambeth Portuguese community workshop 8](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a53ecef1aecb07773d1957d047117167.JPG)
 
 “English is not his first language so he struggles with some day-to-day communication.”<br/>
 “He can’t afford the rent on his own so has to share a bedroom with three other men.”<br/>
@@ -115,11 +115,11 @@ With Maria identified and firmly on our radar, it’s time to broaden out to ide
 
 We’re now beginning to form more and more potential faces of people within Lambeth’s wider community, directly from people they engage with on a close basis.<br/>
 
-![Lambeth Portuguese community workshop 9](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8462_zpsjxfgcuoz.jpg)
+![Lambeth Portuguese community workshop 9](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0e6660f64a79a8a9181dbd13df48d562.JPG)
 
-![Lambeth Portuguese community workshop 10](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8463-1_zpsc2l2dtvy.jpg)
+![Lambeth Portuguese community workshop 10](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fc651f1ac6575f122aac5b8c96cba350.JPG)
 
-![Lambeth Portuguese community workshop 11](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8436_zps211bxdst.jpg)
+![Lambeth Portuguese community workshop 11](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8eb45c7aabe32fcbc713a51379e5e640.JPG)
 
 With the wall now filled with our personas, it’s time to identify one to bring forward into the next stage - journey mapping.<br/>
 
@@ -132,7 +132,7 @@ We’ve started mapping what José’s normal day looks like:<br/>
 
  As José day unfolds, his journey map is building up:<br/>
  
-![Lambeth Portuguese community workshop 12](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8456_zpsd3277myq.jpg)
+![Lambeth Portuguese community workshop 12](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/9ff39f1d83bf84e51f2a07ac67988a41.JPG)
 <br/>
 
 # Hour three: Group session breakout
@@ -146,7 +146,7 @@ We’ve only got one hour left, so it’s time to get our heads together and com
 
 Supports networks, social groups, breakfast clubs, social media - each group is now getting into their element and the idea discussions are flowing.<br/>
 
-![Lambeth Portuguese community workshop 13](http://i1291.photobucket.com/albums/b548/grammccram/IMG_8415_zpsfeuhmukd.jpg)
+![Lambeth Portuguese community workshop 13](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/61ccc4f154d53e1bbddd13f9a1759ae0.JPG)
 <br/>
 
 ## Show & Tell
@@ -154,7 +154,7 @@ After half an hour of batting around thoughts and ideas amongst ourselves, it’
 
 Each group has nominated a spokesperson to stand up and take the group through the initial ideas they’ve come up with.<br/>
 
-![Lambeth Portuguese community workshop 14](http://i1291.photobucket.com/albums/b548/grammccram/FullSizeRender-1_zpswtht7shx.jpg)
+![Lambeth Portuguese community workshop 14](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/96606f96f4f4986e275c5520e234a148.JPG)
 
 Ideas are ranging from a breakfast homework club to sessions to increase awareness of dietary/illness issues, with a Portuguese interpreter present.<br/>
 <br/>
