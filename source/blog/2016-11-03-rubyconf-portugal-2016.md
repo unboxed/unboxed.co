@@ -8,13 +8,13 @@ authors:
 tags:
   - Rails
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/rubyconfpt-stage_zpspjdklkso.jpeg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/705f3c48d671d81840ea1298074e0e20.JPEG
 ---
 # RubyConf Portugal 2016
 
 Last week an Unboxed team (consisting of [Ben](/people#ben-wong), [Crystal](/people#chris-carter), [Jack](/people#jack-bracewell) and [myself](/people#chris-holmes)) visited Braga for [RubyConf Portugal](http://rubyconf.pt/) 2016 where we enjoyed a few days full of talks, plenty of sunshine, good chances for discussion opportunities with some familiar friends and the opportunity to make some new friends. Braga is one of the oldest Portuguese cities, established in Roman times as Bracara Avgvsta. This year's conference was held across two days, the 27th and 28th October, with a single track schedule and a lineup including a diverse mix of speakers.
 
-![The conference begins](http://i1291.photobucket.com/albums/b548/grammccram/rubyconfpt-stage_zpspjdklkso.jpeg)
+![The conference begins](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/28e8022feeb02af74c9f5d1c2a59d9f2.JPEG)
 
 First up was [Martin Fowler](https://twitter.com/martinfowler) with a three short talks, he covered refactoring, how he manages [martinfowler.com](http://martinfowler.com/) and our responsibilities as developers. He made a number of interesting points about different types of refactoring, one that stuck in my mind was always be refactoring, avoid having to plan for it. Also swapping hats when refactoring vs adding functionality and how that allows you to focus thinking on the task in hand. He went on to talk about dark patterns and how we are not code monkeys, we are all required to take responsibility for the code we write and the impact that it has on our users.
 
@@ -26,7 +26,7 @@ He also made a point of how it he often hears "favour composition over inheritan
 
 Later that afternoon [Tobias Pfeiffer](https://twitter.com/pragtob) compared feature of the Phoenix framework and Elixir to that of Rails and Ruby. He ran through some of the language and framework features including pattern matching, compile time macros and doc testing and the benefits of using them.
 
-![Dinner in Braga](http://i1291.photobucket.com/albums/b548/grammccram/rubyconfpt_zps4du5hu88.png)
+![Dinner in Braga](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/da833f64c1d6c660982d7eb558958976.PNG)
 
 Day two kicked off with [Yehuda Katz](https://twitter.com/wycats) talking about the art of package management, he drew on his experiences with Bundler, Cargo and Yarn to explain what he felt makes for a good local package manager. I was left feeling that we are fortunate to have Bundler and not have to worry about multiple versions of dependencies being available.
 
