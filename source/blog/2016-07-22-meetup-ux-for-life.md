@@ -8,7 +8,7 @@ tags:
   - Culture
   - Innovation
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-22%20at%2011.20.12_zps8a37pkl5.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ee19f95f4da671f4bfb0fa89ee1a4b72.PNG
 ---
 This Tuesday was the initial first UX For Life meetup, held at Unboxed HQ.<br/>
  
@@ -27,7 +27,7 @@ The format is simple:<br/>
 
 <i>Steve is CEO of Convivio - a boutique agency designing and developing digital services for innovative public and private sector organisations.</i>
 
-![Steve Parks](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-22%20at%2011.13.55_zpsiatvnzue.png)
+![Steve Parks](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c401e818a66f1b16511816f554d598c7.PNG)
 
 Steve’s lightning talk focused primarily around the UX of the gents loos…<br/>
  
@@ -70,7 +70,7 @@ So the big problem we’re trying to solve here is: <i>“How do we get gents to
  
 <i>Alex is a Content UX & Strategy at Convivio - a boutique agency designing and developing digital services for innovative public and private sector organisations.</i><br/>
 
-![Alex Lemon](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-22%20at%2011.19.51_zpsoxlpabml.png)
+![Alex Lemon](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/34ee33f3df508f57af235aa9630daa22.PNG)
 
 Alex’s lightning talk ventured into the UX of verbal announcements and how we interact with these on a daily basis.<br/>
  
@@ -92,7 +92,7 @@ In conclusion:<br/>
  
 <i>Leon is Design Lead at Unboxed – London’s largest Ruby on Rails development agency, specialising in agile and lean practices.</i><br/>
 
-![Leon Odey-Knight](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-22%20at%2011.20.12_zps8a37pkl5.png)
+![Leon Odey-Knight](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cdf5f5db1080a434739a9a6ce48174d8.PNG)
 
 Leon’s lightning talk was based on the idea of mapping out the UX of his life, titled: ‘My life as a user’. Leon has summarised his talk below:<br/>
 
@@ -123,7 +123,7 @@ I thought I’d start small. So I went for a typical day for me before leaving t
 
 Could those interactions really be classed as 'User Experiences’?<br/>
 
-![Leon Odey-Knight 2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-22%20at%2011.27.13_zpspe7tduvv.png)
+![Leon Odey-Knight 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d2b73d196fd94c9dd41b0c029e6d50f0.PNG)
 
 Was I the only one out there asking this question? Turns out I’m not! The web is awash with blogs, papers and articles discussing the UX of many of my interactions. From the sink basin, using the toilet, taking the stairs to washing your hands.<br/>
 
@@ -131,7 +131,7 @@ Next steps... Take one item from my list and create a high level experience map.
 
 (T25) Exercise it is!<br/>
 
-![Leon Odey-Knight 3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-22%20at%2011.30.23_zpsy0g4jwrz.png)
+![Leon Odey-Knight 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8553d7411bf92c4e06d38415527fa4cf.PNG)
 
 From here I intend to do the same for each of my interactions.<br/>
 
