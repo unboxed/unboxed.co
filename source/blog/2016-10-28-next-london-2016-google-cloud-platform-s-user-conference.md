@@ -9,11 +9,11 @@ tags:
   - Culture
   - Innovation
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-10-28%20at%2012.06.26_zpsiskyzric.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/93e1e9c6c48e2ab1758a026a53227c0e.PNG
 ---
 Paula and I attended last Friday’s [NEXT London 2016 - Google Cloud Platform's User Conference](https://cloudplatformonline.com/NEXT2016-London.html) - the largest Google developer and IT gathering in the UK, exploring the latest developments in cloud technology.<br/>
 
-![Google Cloud Platform's User Conference](http://i1291.photobucket.com/albums/b548/grammccram/67986f78-d115-40c8-bd50-a48ead03e4e6_zpsxbldytwq.png)
+![Google Cloud Platform's User Conference](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/084722adfe9518b470b225cd21b9e5e8.PNG)
 
 Across the day, we attended a number of sessions from the Plenary and Breakout tracks. Here are our summaries of some these talks... <br/>
 <br/>
