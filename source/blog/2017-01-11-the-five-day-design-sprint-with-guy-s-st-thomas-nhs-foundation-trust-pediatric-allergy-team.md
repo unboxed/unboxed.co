@@ -11,7 +11,7 @@ tags:
 authors:
   - Leon Odey Knight
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/547910fe-6241-4049-98bd-e3ad60de5b7e_zps4xdcbyuo.jpg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ca846cc244373a4ef94e7a12b462e3ea.JPG
 ---
 At Unboxed, we are constantly running various workshops. But that doesn’t mean we know everything. We are always up for trying something a bit different if this will ultimately allow us to serve our customers better, so we never stop reading or exploring and are always willing to learn!<br/>
  
@@ -25,11 +25,11 @@ Firstly, a bit about the book.<br/>
  
 Sprint is a book about surprising ideas: that the biggest challenges require less time, not more… And that you can test anything in one week by building a realistic façade.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 1](http://i1291.photobucket.com/albums/b548/grammccram/DSC03509_zpsvmn7k0me.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a20440f6d0d059d5435751d121332a9e.JPG)
 
 10am Monday morning: Day One of the sprint with The Paediatric Allergy Team.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 2](http://i1291.photobucket.com/albums/b548/grammccram/DSC03983%202_zps7v4tldv9.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/79b7aed30e38698debdd87b9698dfc1a.JPG)
 
 The first thing to do was introduce ourselves to one another. From left to right: Hazel (Senior Finance Manager), Yasmin (Deputy Service Manager), Miranda (Service Manager), Roisin (Service Lead) and Ruth (Dietician for Paediatric Allergy). And at the far back - left is [Cale](https://twitter.com/tlfrd) (an Unboxed developer), [myself](https://unboxed.co/people/#leon-odey-knight) on the right and [Martyn](http://www.unboxed.co/people/#martyn-evans) (our Head of Product) is the man behind the camera.<br/>
 
@@ -42,19 +42,19 @@ So this big question… Could we really demonstrate real insight and value in ju
 
 # Day 1: Identifying the problem
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 3](http://i1291.photobucket.com/albums/b548/grammccram/1863216f-598e-44b8-814e-e83a3513e995_zpsrw6vyaag.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0ebfe1a0fbef89facfb641854897ae64.JPG)
 
 Roisin had been given the role of the decider - the person who would ultimately determine the direction of this sprint. From the outset, she was very clear as to what the goal should be - and after some discussion the team all nodded in agreement. Patient waiting lists were too long, patients were arriving unprepared, there was no time for post diagnosis support and patients were suffering because of it.<br/>
 
 The goal of this sprint:<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 4](http://i1291.photobucket.com/albums/b548/grammccram/a9f1322a-ab6b-4c7c-80d9-8e0331a0ccb9_zpsg36skw2g.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/bf5aa538645c8bdbbb48f3d93a9d8d85.JPG)
 
 Okay, so we have our goal. What will we need to be true for this to happen? This was the question we needed to tackle next.<br/>
 
 “We need to create better relationships with local services” said Ruth. “They need to be better educated in order for us to have time to spend with complex cases”, Miranda chimed in. As the discussion took place, I frantically tried to keep up by reframing these thoughts as questions.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 5](http://i1291.photobucket.com/albums/b548/grammccram/5602ea3b-4c6b-4ad9-8cef-e68b18b34a53_zpsjw7f2znq.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 5](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2d2eb942664e647a94e9441ee3e8b962.JPG)
 
 Capturing these as questions, we were rolling now. The team were engaging and ideas and were flowing.<br/>
 <br/>
@@ -62,11 +62,11 @@ Capturing these as questions, we were rolling now. The team were engaging and id
 ## Journey Map
 The next step was to create our Journey Map. This is a way of mapping the patient's journey from when they first engage with this service to their eventual outcome.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 6](http://i1291.photobucket.com/albums/b548/grammccram/b41097fd-11db-42cf-997b-47113a19daf9_zpsas3z7per.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 6](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/55f98907063e3dde93b5232bc8a9c473.JPG)
 
 We started with patients. And then moved straight to their goal. After some discussion we landed on that as being to ‘Get a diagnosis’. The aim was to keep it simple at first and then slowly getting into more detail. Once we had those details, we began filling in the blanks. Who was involved in delivering this care? Were there any systems involved? What were the steps required?<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 7](http://i1291.photobucket.com/albums/b548/grammccram/7c92de91-2dd1-4417-976e-905a39859354_zpsmt5x8n0e.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 7](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b594ad4c690c464b42c6eda06bdf30e8.JPG)
 
 <br/>
 ## Ask the Experts
@@ -78,7 +78,7 @@ As they went through the journey they started to comment:<br/>
 - “Once the appointment had been booked I was waiting for weeks with no support or information in regards to what to expect”, voiced Kim
 - Katherine highlighted the fact that most patients hadn’t read the information that they had received with their appointment some weeks before
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 8](http://i1291.photobucket.com/albums/b548/grammccram/ee335e3b-df6d-4143-9c01-c697516580a5_zps4jncqp2o.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 8](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c9f112199f0c4164c986bd8314b3f196.JPG)
 
 As comments were being made, the team were scribbling down the insights they were gathering. Each of these were framed as a potential opportunity rather than a problem. We used the “How Might We” method.<br/>
  
@@ -90,7 +90,7 @@ Jims comment: “I often chase them up two days before the appointment as many p
 
 “How might we enable Jim to better manage scheduling and the appointments process?”<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 9](http://i1291.photobucket.com/albums/b548/grammccram/5935cfb9-6de7-4020-9cc6-b5f1bad756b8_zpsbw4i6wsc.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 9](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c20028b64d6047b7a6750d6266dc205e.JPG)
 
 So, we had the goal, the journey map had been verified by our panel of “experts” and we had a number of opportunities to focus on. To close out day one, the team needed to decide on one area that we would take over the remaining four days. The team were given dot stickers, along with 10 minutes to place dots on the journey map they felt could add the most value to their patients. As the decider, Roisin would have the final say. The team settled on the preparation and booking of the appointments as this was an area that the experts had also focused on when sharing their insights.<br/>
 <br/>
@@ -110,15 +110,15 @@ When we reconvened, each team member was given three minutes of airtime to talk 
  
 My job was to capture each of these ideas in a small sketch on the whiteboard.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 10](http://i1291.photobucket.com/albums/b548/grammccram/9f9f29d3-e014-4a5c-ab29-77d144519e5f_zpshcutfall.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 10](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/9fe6ebd06d9ea4f5737de0d5fff5fdb7.JPG)
 
 Some great ideas came out of that session and by the end of it the team were ready to move onto the next exercise…Sketching!<br/>
  
 This would make up the rest of the day, divided up into research and inspiration, crazy 8’s and a final storyboard outlining their idea for the service we were going to create. The research consisted of looking at everything we had covered during the previous day as well as looking at the work we had done that morning. Jotting ideas down…<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 11](http://i1291.photobucket.com/albums/b548/grammccram/8261c462-d4c8-45e5-aade-2f1935c4eaeb_zpslhbeuqwe.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 11](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3d77c1588ed6ca59470ea32efb97a431.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 12](http://i1291.photobucket.com/albums/b548/grammccram/4366d6c3-c5ce-4049-bd18-5b289a63d242_zpsexrgtztb.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 12](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f0c2dfb38824f2107e62dc4dd3482db1.JPG)
 
 After lunch it was onto Crazy 8’s. 60 seconds to sketch out your service ideas of rapid sketching.<br/> 
 
@@ -130,11 +130,11 @@ We pushed on.<br/>
 
 That conversation mid-way really helped and by the end the whole team felt that they had a much clearer understanding of the services they were trying to create.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 13](http://i1291.photobucket.com/albums/b548/grammccram/53f47892-59df-42d4-bad1-626479c25b4a_zpslsqb23nk.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 13](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/34a4f6d417a553d5f6aeea046389a107.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 14](http://i1291.photobucket.com/albums/b548/grammccram/acca7535-c46d-4cf7-a90b-7cbd16a05554_zps9aay8gmp.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 14](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f96cf3471ef78c100ad7dff4392320e3.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 15](http://i1291.photobucket.com/albums/b548/grammccram/38470b70-a667-49c6-a8a7-dbd31452a656_zpsjcmior4p.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 15](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c4e970cb58e8c8d7e8f8688daad28c53.JPG)
 
 The final part of the day was spent taking that idea and really getting into the detail. The sketch we were producing would now be put up on the wall for more “experts” to see on Wednesday and they wouldn’t be able to talk through their ideas. Therefore, these sketches would need to be well-annotated and speak volumes for themselves.<br/>
  
@@ -148,19 +148,19 @@ This was quite exciting. Before the team arrived, I put each of their ideas up o
  
 We all had to spend 25 minutes reviewing the ideas in silence. I’d given everyone a sheet of dots so they could stick them on anything that they had seen that stood out or any ideas they liked. They also had post-it notes so that they could write down any questions they had along the way.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 16](http://i1291.photobucket.com/albums/b548/grammccram/e838c14e-3159-46e4-b305-fb8721608a1e_zpsi2kh73hb.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 16](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d3c2a1ecc3e9e4f6e4abd34cb647c8be.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 17](http://i1291.photobucket.com/albums/b548/grammccram/8042a53f-cd7d-43ac-be6a-e9848a30df75_zps1t6t4vxd.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 17](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/188e4bbf5ccc9d9252acac6aa8810935.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 18](http://i1291.photobucket.com/albums/b548/grammccram/0ccf6fbc-7e66-4d47-8556-74801eec9b24_zpsld057g5a.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 18](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f5cba70b21bd29b213223802ea208751.JPG)
 
 This was quite nerve racking for the team. Their work was up there and all they could do was watch as their peers looked on. You could almost sense the relief each time a little dot was added to each piece of work.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 19](http://i1291.photobucket.com/albums/b548/grammccram/c85feb44-3a58-4193-b761-3f37087ef525_zpsvkpydlqb.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 19](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/21e14e839e11a1312405926266689c0d.JPG)
 
 Once the 25 minutes was up, Martyn walked through each idea. The “artist” was then given the opportunity to show themselves and fill in any blanks and answer any questions the team and panel of experts had.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 20](http://i1291.photobucket.com/albums/b548/grammccram/5d5c1b5a-f9c8-407f-a1ce-4958b384172b_zpssqlbnsf2.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 20](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/676d7512dc0c0068d7f263cef8ead59b.JPG)
 
 Once the experts had all left the team had to make a decision. Which idea would we run with?<br/> 
  
@@ -168,9 +168,9 @@ This would ultimately come down to Roisin (the decider). Having had a broad disc
  
 Once selected, we set to work creating the final storyboard. We would be using this to build our prototype on Thursday.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 21](http://i1291.photobucket.com/albums/b548/grammccram/154ec770-6c2c-4aed-bdc0-945148ca6cfd_zps1wocy7uf.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 21](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/35738e3a8bf14222a852e14f3c3239d2.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 22](http://i1291.photobucket.com/albums/b548/grammccram/91e1e48b-10e2-48fc-b4d3-a3b80ba84609_zpscmmmrotj.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 22](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ced17bf2a8b59f377a0e7cac12fe2336.JPG)
 
 <br/>
 # Day 4: Make
@@ -196,9 +196,9 @@ By the end of the day we had something that we felt would pass as a believable e
  
 We took a moment. We’d achieved so much and felt pretty good about ourselves. We were shattered. We all felt quite foolish for banging on about our fatigue when Hazel bowled in wearing her Good Gym get up. She was off to do a run and renovate a park for the community whilst she was at it!<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 23](http://i1291.photobucket.com/albums/b548/grammccram/cbf48ea8-927e-4f1f-aa27-59bb0588dc28_zpsm6jenbey.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 23](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6e264e8a269be849e7ab9fabdb24c3cc.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 24](http://i1291.photobucket.com/albums/b548/grammccram/1_sms_zpsfccs7bvu.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 24](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/33e6ac34a7265cc510c4f72015f95a45.JPG)
 
 <br/>
 # Day 5: Test
@@ -218,15 +218,15 @@ The team, situated in the backroom’ began scribbling down the comments on post
  
 First interview down… Three more to go.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 25](http://i1291.photobucket.com/albums/b548/grammccram/aeceb8e1-a586-45fc-833e-93fe89693ad9_zpsnhjja9q9.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 25](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a7bb08e85e998b41c1a5fc3787063d81.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 26](http://i1291.photobucket.com/albums/b548/grammccram/74bcf0f5-c555-48e8-a7df-7b430612b9a3_zpssktcgfmx.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 26](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/34c81308227201ddc66f19891892d722.JPG)
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 27](http://i1291.photobucket.com/albums/b548/grammccram/bc0c98f5-f9e6-4f23-aaf7-01d390141b19_zpsvedua0ba.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 27](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b6f27c4a4cb0f50a36843eb75656d9db.JPG)
 
 By the time all four interviews had finished we had four A2 sheets of paper covered in post-it notes. So much to digest, a great deal of feedback and so many insights. It felt as if we were really onto something. It didn’t hurt having a number of the patients asking: “When does it go live?!”.<br/>
 
-![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 28](http://i1291.photobucket.com/albums/b548/grammccram/f35e08c1-e877-466b-9dff-718808eb99d1_zps0aw1ekeg.jpg)
+![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 28](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5147eb0395d0e00531749590047f6a80.JPG)
 
 <br/>
 ## It’s a wrap
