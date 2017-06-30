@@ -9,11 +9,11 @@ tags:
   - Innovation
   - Rails
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/425768e3-f9c7-4f84-bfa2-ada2a5ecdcb4_zpspacxcs2i.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3bc261486adc14d9351ba10ce171653a.PNG
 ---
 We regularly host “Faster than Lightning” code talks where our developers get together and submit a snippet of code that they found interesting - Ruby, CSS, JS, test code, server config or anything else. It’s an opportunity to learn a little about what each other have up to and have been thinking about, with the code as a talking point.<br/>
 
-![Unboxed Ruby on Rails developer event](http://i1291.photobucket.com/albums/b548/grammccram/425768e3-f9c7-4f84-bfa2-ada2a5ecdcb4_zpspacxcs2i.png)
+![Unboxed Ruby on Rails developer event](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a38f010fae6afb3d8266cd1ee989a744.PNG)
 
 Here’s a selection of the submissions from this month:<br/>
 <br/>
