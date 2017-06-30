@@ -9,15 +9,15 @@ authors:
 tags:
   - Rails
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/6c099d53-a307-45f0-ba03-7c8b8dd9f6bf_zpsoyjrhpgo.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8fd7241a0202c76923be06e8431d23d5.PNG
 ---
 <i>This was the next installment of Andrew White’s Technical Breakfast Club – the breakfast club for Rails developers and architects, hosted by Rails Core Team Member and our CTO, [Andrew White](https://unboxed.co/people#andrew-white).</i><br/>
 
-![Andrew White's Technical Breakfast Club 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5405_zpsmatdnvv9.jpg)
+![Andrew White's Technical Breakfast Club 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/81e08b38b497b76fbc97519825e9554a.JPG)
 
 <i>The topic of this installment was ‘Scaling up Rails in a national referendum’ – the story of how over four million UK citizens took to the Parliament Petitions website, following the EU referendum result, to sign the ‘EU Referendum Rules triggering a 2nd EU referendum’ petition.</i><br/>
 
-![Andrew White's Technical Breakfast Club 2](http://i1291.photobucket.com/albums/b548/grammccram/16bb3aca-7745-4ab6-9857-5cd4625e49cd_zps0f5dviap.jpg)
+![Andrew White's Technical Breakfast Club 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ed978713e7b53d04af2ba7e5ec8dfcef.JPG)
 <br/>
 
 # The background to the Petitions website and its design
@@ -52,7 +52,7 @@ Petitions is a highly-transactional platform, with content changing on a very re
 
 Both CloudFormation and Elastic Compute Cloud (EC2) are used to automatically deploy and scale any incidences when responding to user demand. Backing these is a PostgreSQL RDS (Relational Database Service) database which acts as our primary data store. One other component in our stack is ElastiCache, a key-value store configured with the Memcached engine, which acts as a store for generated fragments of HTML that we use to speed up page build times.<br/>
 
-![Andrew White's Technical Breakfast Club 5](http://i1291.photobucket.com/albums/b548/grammccram/a70ac87f-5594-4914-9fac-c95b09c7face_zpsbpxy9yt2.jpg)
+![Andrew White's Technical Breakfast Club 5](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d30edcd74431ad3f5ed2901971173c80.JPG)
 <br/>
 
 # Lessons learnt from previous popular petitions
@@ -71,7 +71,7 @@ The ‘Block Donald J Trump from UK entry’ petition in December 2015 showed a 
 <b>4. Meningitis B vaccine (823,346 signatures)</b><br/>
 The ‘Give the Meningitis B vaccine to ALL children, not just newborn babies’ petition hit a new peak for the system, at the time, receiving 54,000 signatures per hour. We scaled the number of app servers, as expected this pushes more load onto the database but not enough for us to be worried (yet). We needed to achieve and maintain a balance in the application to ensure there were no bottlenecks.</br>
 
-![Andrew White's Technical Breakfast Club 6](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5406_zpswmxkza62.jpg)
+![Andrew White's Technical Breakfast Club 6](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6b8f98737b57e5a5af5752146836bf60.JPG)
 <br/>
 
 # Scaling your app when it receives unexpected demand: The EU referendum petition
@@ -87,7 +87,7 @@ Having reduced the locks on the petition table we noticed we were now getting lo
 
 By the end of the day, the system had crashed through the 14,000,000 pageview barrier:</br/>
 
-![Andrew White's Technical Breakfast Club 7](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-08-31%20at%2017.05.01_zpswcnb6yfe.png)
+![Andrew White's Technical Breakfast Club 7](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7c0f793b077f60432f19244ab4b090b2.PNG)
 
 The traffic peaks in the analytics show the highest page views of previous popular petitions since the relaunch of the platform, with this petition vastly surpassing these.<br/>
 
@@ -109,11 +109,11 @@ When scaling up to the 12th application server for the evening, we hit a problem
 <b>Sunday 26th June</b><br/>
 Reports of fraudulent signatures arrived in the media by day three. [Oskar](https://twitter.com/oskarpearson), [Murray](https://unboxed.co/people#murray-steele) and myself investigated and removed any fraudulent signatures from the system that had previously been processed and ensured these were constantly monitored going forward. Helen Jones MP, Chair of the Petitions Committee, released a statement from the House of Commons to address this issue:<br/>
 
-![Andrew White's Technical Breakfast Club 8](http://i1291.photobucket.com/albums/b548/grammccram/petition%20statement_zpsi9qpmcxo.jpg)
+![Andrew White's Technical Breakfast Club 8](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3486354464e7b5564757bf9c70b26c1a.JPG)
 
 By Wednesday 29th June, the petition had crossed the 4 million-signature threshold, but had begun to slow down.<br/>
 
-![Andrew White's Technical Breakfast Club 9](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5420_zpsf0maqabm.jpg)
+![Andrew White's Technical Breakfast Club 9](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7ebc390e88cf9620f1b4fcbdc2357320.JPG)
 
 <br/>
 # Aftermath
@@ -143,6 +143,3 @@ After we moved some functions and modules to memcached and stopping updating oth
 From scaling up to accommodate a 403%+ increase in signatures (823,346 to 4,146,963 - the increase from the previous highest petition), Petitions is now in an effective place in terms of scaling. Although we wouldn’t expect to see another petition quite like this again, one of the greatest responsibilities of being part of the Petitions team is how to deal with the unexpected element of surprise. Should we see another national movement like this take place again, we are in a good position to handle it.<br/>
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/3KIGbLyzMZz182" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/andrew-whites-technical-breakfast-club" title="Andrew White&#x27;s Technical Breakfast Club" target="_blank">Andrew White&#x27;s Technical Breakfast Club</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
-
-
-
