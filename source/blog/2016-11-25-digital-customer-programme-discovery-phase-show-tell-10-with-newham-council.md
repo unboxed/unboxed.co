@@ -75,7 +75,6 @@ Newham Council is going through a step-by-step change, with this Discovery phase
 - Heading into the Alpha phase of selected services
 - More Discovery work on services still at early stages
 
-![Newham Council Show and Tell 4](
-https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1e7edd9c51ac68d82835f8e6b2137e23.JPG)
+![Newham Council Show and Tell 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1e7edd9c51ac68d82835f8e6b2137e23.JPG)
 
 A quick team de-brief and it’s onwards and upwards to the next challenge - the Alpha phase.
