@@ -55,4 +55,4 @@ from this film. It's worth watching if you've yet to see it!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ubZrAmRxy_M" frameborder="0" allowfullscreen></iframe>
 
-[Lin-Manuel Miranda, Opetaia Foa'i - We Know The Way (From "Moana")](https://www.youtube.com/watch?v=ubZrAmRxy_M
+[Lin-Manuel Miranda, Opetaia Foa'i - We Know The Way (From "Moana")](https://www.youtube.com/watch?v=ubZrAmRxy_M)
