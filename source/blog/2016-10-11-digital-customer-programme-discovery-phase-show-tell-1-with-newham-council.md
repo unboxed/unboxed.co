@@ -19,7 +19,7 @@ Over the last week, a small Unboxed team have been working alongside the Digital
 
 These Show & Tell sessions are open to anyone and everyone who would like to come along, including key stakeholders, eager colleagues and those just looking to see what the team are up to. The aim of this 20-minute session is to have a transparent platform for the team to share their progress from the previous one-week sprint, address what they plan on tackling in the following sprint, and answer any questions or queries attendees may have.<br/>
 
-![Newham Council Digital Customer Programme Discovery Phase 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5944_zpswi3lugyk.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/62aae8b6291da976d55ff8bd4abf3c99.JPG)
 
 # Digital Discovery - Sprint 1
 <i>Show & Tell duration: 20 minutes</i><br/>
