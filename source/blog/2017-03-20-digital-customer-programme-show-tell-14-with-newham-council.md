@@ -9,13 +9,13 @@ tags:
   - Design
   - Lean
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/6d45c0ea-d099-4990-94e1-d7c043940a21_zpsxcsndonz.jpg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e591c925c5c742629db162775239460c.JPG
 ---
 With increasing project momentum comes a much bigger Show & Tell space. Moving from the buzz of the Hive working space, where Show & Tells were previously held, the Digital Team have now invited colleagues to join them in their bigger working studio space, located in a much more central area within the building.<br/>
 
 Now directly in the heart of the Newham Council offices, this is the next Show & Tell instalment in the Digital Customer Programme.<br/>
 
-![Newham Council Show and Tell 14-1](http://i1291.photobucket.com/albums/b548/grammccram/6690fb41-8560-40b8-8def-8425a105b7f4_zpsyxq5nrf1.jpg)
+![Newham Council Show and Tell 14-1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ae8b3da42a33daee65682893feae1226.JPG)
 
 <br/>
 Currently focussing on four Discovery phase strands and one Alpha phase, the team share the progress that has been made across the last two-week sprint:<br/>
@@ -30,7 +30,7 @@ Progress across the last sprint, shared by Dawn of the Newham team, includes:<br
 - Addressing the channels and teams in which residents enter into this service
 - Mapping out the current user journey, from the very first step of ‘unaware’ straight through to ‘applying for a vacancy’
 
-![Newham Council Show and Tell 14-2](http://i1291.photobucket.com/albums/b548/grammccram/d20b5aa2-9ebe-4ed5-8741-ca7840ba6325_zpsjcsljdbt.jpg)
+![Newham Council Show and Tell 14-2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1a996bdb6e18a73915186d616d473798.JPG)
 
 <br/>
 The next steps in this Workplace Discovery include:<br/>
@@ -43,7 +43,7 @@ The next steps in this Workplace Discovery include:<br/>
 # Discovery #2: Enforcement and Safety
 As a part of Newham’s community safety, residents can use a variety of channels (including the Love Newham smartphone app) to report concerns regarding anti-social behaviour or environmental issues, such as fly-tipping. The Enforcement and Safety service plays a major role in resolving these issues. One of the main concerns reported by residents is that they would like to be better informed of progress made on these cases.<br/>
 
-![Newham Council Show and Tell 14-3](http://i1291.photobucket.com/albums/b548/grammccram/6d45c0ea-d099-4990-94e1-d7c043940a21_zpsxcsndonz.jpg)
+![Newham Council Show and Tell 14-3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e591c925c5c742629db162775239460c.JPG)
 
 <br/>
 Progress across Enforcement and Safety so far includes:<br/>
@@ -71,7 +71,7 @@ Parking Appeals is the service in which residents can pay or challenge their Pen
 - Beginning to build up the outputs from these sessions, as a starting point to work from
 - Holding a workshop with service staff to sketch early-stage ideas of how this journey could be smoother and the experience improved for end users
 
-![Newham Council Show and Tell 14-4](http://i1291.photobucket.com/albums/b548/grammccram/7e08e2d8-cb21-42c6-a7f5-71f243987587_zpspug5haqv.jpg)
+![Newham Council Show and Tell 14-4](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/31c0842fb90ccf75603940c45b4f2012.JPG)
 
 <br/>
 The next steps the team will be taking in Parking Appeals include:<br/>
@@ -102,7 +102,7 @@ The next steps in Council Tax and Benefits include:<br/>
 # Alpha #1: Homelessness Online
 The final strand of this Show & Tell - Homelessness Online. This is Newham’s first service to pass through the Discovery phase, now heading through Alpha. With user requirements identified, the team have now progressed through to testing live prototypes of parts of this service. Across these last two weeks, the team have been running a low-fidelity prototype, which residents have been using and succeeding in progressing through.<br/>
 
-![Newham Council Show and Tell 14-5](http://i1291.photobucket.com/albums/b548/grammccram/34054697-cf48-4b4a-8bd8-a9e195b5ec25_zps5cg6plbc.jpg)
+![Newham Council Show and Tell 14-5](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/12d3a98db9d6ebbfa50c49fc72153139.JPG)
 
 <br/>
 As well as live testing, the team has been:<br/>
@@ -111,7 +111,7 @@ As well as live testing, the team has been:<br/>
 - Finding out the answers to questions such as: “Do people understand what a Section 21 is?”
 - Planning integrations into the council’s Data House system to begin building up a fuller picture of individual residents through various silos of data
 
-![Newham Council Show and Tell 14-6](http://i1291.photobucket.com/albums/b548/grammccram/1d9e5607-2f68-4b39-833c-272574eacc89_zps2znuczaw.jpg)
+![Newham Council Show and Tell 14-6](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ba3b5c184cb0aad016c110ffd4ef9997.JPG)
 
 
 <br/>
