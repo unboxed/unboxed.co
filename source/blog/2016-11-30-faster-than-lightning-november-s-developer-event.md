@@ -9,12 +9,12 @@ tags:
   - Innovation
   - Rails
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/FTL%20November_zpsvbhdqhhn.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6fa5c17f0b27dab39926378d58c6d3d9.PNG
 has_syntax: true
 ---
 Interesting code snippets, insightful discussion, story sharing and good company - it’s November’s ‘Faster than Lightning’ developer talks at Unboxed.<br/>
 
-![Faster than Lightning November](http://i1291.photobucket.com/albums/b548/grammccram/November%20FTL_zpsykl8iwst.jpg)
+![Faster than Lightning November](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0b0c6362ef5df5a2a901ea06d1a39a24.JPG)
 
 Here’s a selection of the submissions from this month:<br/>
 <br/>
@@ -166,8 +166,3 @@ RSpec.describe ConditionallyAsync do
   end
 end
 ```
-
-
-
-
-
