@@ -10,11 +10,12 @@ tags:
   - Agile
   - Design
   - Lean
-main_image: 'http://i1291.photobucket.com/albums/b548/grammccram/IMG_5691_zpslkg4rm83.jpg'
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2beeeef104c9e849390eb58f5876abe6.JPG
 ---
 I spent Monday afternoon visiting the [Health Foundry](http://www.healthfoundry.org) healthcare startup space to expand my horizons on what steps are being taken within service transformation in the NHS.<br/>
 
-![Healthcare digital transformation 1](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5691_zpslkg4rm83.jpg)
+![Healthcare digital transformation 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2beeeef104c9e849390eb58f5876abe6.JPG)
 
 The Health Foundry is a brand new collaborative workspace for people using digital technologies to improve health and wellbeing, based in Canterbury House by St. Thomas’ Hospital in Waterloo. Powered by [Guy’s and St. Thomas’ Charity](https://www.gsttcharity.org.uk), they provide support and a working space for digital healthcare startups (including [DrDoctor](http://www.drdoctor.co.uk), who have just moved in), supporting them to create scalable digital health solutions.<br/>
 
@@ -22,18 +23,18 @@ This is the where one of our teams ([Martyn](https://unboxed.co/people/#martyn-e
 
 With the current children’s allergy service not running as smoothly and efficiently as it needs to be, the hospital is taking a service transformation approach to focus on ways to improve this service for its users through digital.<br/>
 
-![Healthcare digital transformation 2](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5711_zps1gwmaebm.jpg)
+![Healthcare digital transformation 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/53c38a8858a582d2a064e744ed1307e6.JPG)
 
 <br/>
 # The morning
 Before I'd arrived, the team had spent the morning setting the overall aim of the improved service:<br/>
 
-![Healthcare digital transformation 3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-09-13%20at%2011.49.43_zps9qohtksh.png)
+![Healthcare digital transformation 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7469a947c7ea4a4ba685ba96040aa5a1.PNG)
 <i>'Focus on complex cases whilst supporting care delivery within local services leading to faster diagnosis, reduced waiting times and better patient care'</i><br/>
 
 They had also set the questions that would need to be answered as ‘true’ in order for the sprint to be a success:<br/>
 
-![Healthcare digital transformation 4](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5707_zpssorl7kaj.jpg)
+![Healthcare digital transformation 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7c2344db838ada1be4d7b642e92b8365.JPG)
 <i>The sprint ‘success’ questions.</i><br/>
 
 The next step was to map out the current user journey their patients take, along with the estimated timescales of each stage along the way:<br/>
@@ -45,7 +46,7 @@ The next step was to map out the current user journey their patients take, along
 # User interviews
 As I arrived, the team had just kicked off telephone user interview sessions. A set of long-term service users (the parents of younger existing patients of the department) joined the team to go through their experiences of using the service, from beginning to finish (from the initial appointment to final discharge) and raise any questions about the current service. These sessions are used as a two-way method conversation, also providing a platform for members of the team (NHS and Unboxed) to ask users any specific questions about their experiences with the service.<br/>
 
-![Healthcare digital transformation 5](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5678_zpsjxrez1hj.jpg)
+![Healthcare digital transformation 5](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/88360cbfdfc7eb2df18c8855edd4bbda.jpg)
 
 Pain points are drawn from these interviews to identify where the current service may not be working as efficiently as it could be, also drilling down into the specific steps in the process that work efficiently and those that aren’t working so well.<br/>
 
@@ -53,7 +54,7 @@ Pain points are drawn from these interviews to identify where the current servic
 # Ask the experts
 A series of subject experts were lined up to contribute within these early stages of the sprint in time-boxed “Ask the experts” sessions. These sessions were used to contribute towards developing a better understanding of where current problems lie within the service for key stakeholders (doctors), and for these children's allergy service stakeholders to provide their individual insights and share their experiences.<br/>
 
-![Healthcare digital transformation 6](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5700_zpsastzfgyl.jpg)
+![Healthcare digital transformation 6](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/df7ea0532660ba5b26c1082c31d73a4e.JPG)
 
 <br/>
 # HMW: How Might We
@@ -64,7 +65,7 @@ Throughout the user interviews and ‘Ask the experts’ sessions, the team had 
 
 In the last session I attended, the room worked on sharing their “How Might We” notes from across the afternoon, getting these up on the wall for everyone to see and beginning to prioritise these post-its in terms of importance to the service. As I left, the team were preparing to dot-vote on the post-its they found to be the highest priority to the service.<br/>
 
-![Healthcare digital transformation 7](http://i1291.photobucket.com/albums/b548/grammccram/IMG_5740_zpsdumv656j.jpg)
+![Healthcare digital transformation 7](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b9530231756468613f25a3f030439ee5.JPG)
 
 I looked back on what the team had achieved during the two-hour timeslot that I’d been with them for:<br/>
 
