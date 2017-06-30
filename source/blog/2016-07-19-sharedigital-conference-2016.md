@@ -3,7 +3,7 @@ date: '2016-07-19 13:23 +0100'
 published: true
 title: ShareDigital conference 2016
 main_image: >-
-  http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-18%20at%2012.58.55_zpsmxizkojv.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/085ebb76eb875ad18dc393981c049d10.PNG
 tags:
   - Culture
   - Innovation
@@ -18,7 +18,7 @@ With the aim of growing and expanding my knowledge in the digital public service
  
 ShareDigital brings together those involved in enabling digital public services in local government, to share current challenges being faced and discuss the opportunities that lie ahead – with the aim of replicating successful digital projects.<br/>
 
-![ShareDigital 2016 name badge](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-18%20at%2012.59.26_zpskfn4ri9i.png)
+![ShareDigital 2016 name badge](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/78222e52e269b6575cbf4ebff755e0f3.PNG)
 
 <br/>
 # Place as a Platform - a look into the future?
@@ -32,7 +32,7 @@ The first session was set as a panel discussion, chaired by Martin Ferguson - Di
 ‘Place as a Platform’ addressed at the journey that local government has to go to in order to deliver smooth, frictionless services to local residents. “What is the vision for digitally-enabled council services and how might we achieve it?” was the big question at hand.<br/>
 
 
-![ShareDigital 2016 audience](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-07-18%20at%2012.58.55_zpsmxizkojv.png)
+![ShareDigital 2016 audience](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1c7a2f2bf16d9c4869d1e065acd0a26c.PNG)
 
 Focusing on an overall view of collaboration, this discussion focused around:<br/>
  
@@ -83,10 +83,3 @@ Conference cons:<br/>
 
 - There wasn’t a huge variety in the programme offering, following first panel discussion - either roundtable or round-off-to-the-exhibition
 - The programmes and delegate badges were stored in envelopes with the little plastic window – cue an eager rustling throughout the Keynote Address
-
-
- 
-
-
- 
-
