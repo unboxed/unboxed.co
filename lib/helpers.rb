@@ -1,4 +1,4 @@
-require './lib/article_info'
+require 'lib/article_info'
 
 module Helpers
   def retina_srcset(path)

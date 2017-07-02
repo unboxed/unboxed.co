@@ -12,4 +12,8 @@
   box-sizing: border-box;
   overflow: hidden;
   padding-left: 6px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 190px;
+  grid-gap: 6px;
 }
