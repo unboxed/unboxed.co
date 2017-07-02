@@ -6,8 +6,10 @@
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
-    float: left;
+    display: inline-block;
     width: 33%;
+    margin-bottom: 0px;
+    padding-right: 0px;
   }
 }
 

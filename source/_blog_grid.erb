@@ -1,59 +1,24 @@
-<div class="container--grid" data-packery-target>
-  <div class="blog-tile__grid-sizer"></div>
-  <% articles.each do |article| %>
-    <% if article.data.weekly_roundup %>
-      <%= partial 'blog_small_tile', locals: { article: article } %>
-    <% elsif article.data.main_image.to_s.empty? %>
-      <%= partial 'blog_medium_tile', locals: { article: article } %>
-    <% else %>
-      <%= partial 'blog_large_tile', locals: { article: article } %>
-    <% end %>
-  <% end %>
+<div class="container--grid" data-tile-layout data-tile-gap="6">
+  <%
+    tiler = Tiler.new(columns: 3, rows: articles.size * 2)
+    articles.each do |article|
+      if article.data.weekly_roundup
+        tiler.add_tile([article, 'blog_small_tile'])
+      elsif article.data.main_image.to_s.empty?
+        tiler.add_tile([article, 'blog_medium_tile'], width: 1, height: 2)
+      else
+        tiler.add_tile([article, 'blog_large_tile'], width: 2, height: 2)
+      end
+    end
+    tiles = tiler.lay_tiles
+    tiles.each.with_index do |row, row_idx|
+      row.each.with_index do |article_tile, column_idx|
+        next if article_tile == Tiler::NoTile
+        next if article_tile.is_a? Tiler::LargeTileReference
+        %>
+          <%= partial article_tile.contents.last, locals: { article: article_tile.contents.first, row: row_idx, column: column_idx } %>
+        <%
+      end
+    end
+  %>
 </div>
-
-<%= javascript_include_tag "packery.min" %>
-<script>
-  var packeryContainer = document.querySelector('[data-packery-target]');
-  var packeryOptions = {
-    transitionDuration: 0,
-    percentPosition: true,
-    itemSelector: '.blog-tile',
-    columnWidth: '.blog-tile__grid-sizer'
-  };
-
-  if (typeof window.matchMedia != "undefined" || typeof window.msMatchMedia != "undefined") {
-    var mq = matchMedia('(min-width: 660px)');
-    var packery;
-
-    if (mq.matches) {
-      packery = new Packery(packeryContainer, packeryOptions);
-    }
-
-    mq.addListener(function(mql) {
-      if (mql.matches) {
-        packery = new Packery(packeryContainer, packeryOptions);
-      } else {
-        packery.destroy();
-      }
-    });
-  }
-</script>
-
-<!--[if IE 9]>
-  <script>
-
-    packery = new Packery(packeryContainer, packeryOptions);
-    var packeryEnabled = true;
-
-    window.onresize = function() {
-      if (window.innerWidth >= 660 && !packeryEnabled) {
-        packery = new Packery(packeryContainer, packeryOptions);
-        packeryEnabled = true;
-      } else if (window.innerWidth < 660 && packeryEnabled) {
-        packery.destroy();
-        packeryEnabled = false;
-      }
-    };
-
-  </script>
-<![endif]-->
