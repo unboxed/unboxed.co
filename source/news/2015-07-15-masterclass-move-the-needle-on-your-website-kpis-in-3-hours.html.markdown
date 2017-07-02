@@ -1,6 +1,7 @@
 ---
-title: "Masterclass: Deliver 50% growth with Lean UX"
-date: "2015-07-15T11:30:00+01:00"
+title: 'Masterclass: Deliver 50% growth with Lean UX'
+date: '2015-07-15T11:30:00+01:00'
+published: true
 ---
 
 <h2>Find up to 50% more revenue from your website or 50% more conversion from your digital service during this 3-hour masterclass</h2>
@@ -18,9 +19,9 @@ Join Unboxed on Wednesday 12th August for a hands on 3-hour session where you wi
 
 <p><font size="4"><b>The experts:</b><br/></font></p>
 
-<p><img src="http://bit.ly/1TxhoXO" alt="The experts"></p>
+![The experts](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0a7a4fd43b96c300693f75ff1c0ca91c.PNG)
 
-<p><b><a href="../people#richard-stobart">Richard Stobart</a> – CEO at Unboxed Consulting</b><br/>
+<p><b>>Richard Stobart – CEO at Unboxed Consulting</b><br/>
 Agile Coach of the Year 2014, Richard is one of the UK’s leading experts in the process of digital product design for valuable, commercial features.<br/></p>
 
 <p><b>Dominic Mason – Client Partner at Unboxed Consulting</b><br/>
