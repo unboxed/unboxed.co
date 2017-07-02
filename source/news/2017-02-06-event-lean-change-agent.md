@@ -12,7 +12,7 @@ Based on Richard's 10-year practice of leading change, and the techniques laid o
 
 <a href="https://www.picatic.com/lean-change-agent-london-april?utm_source=promotion&utm_medium=button&utm_campaign=100620" target="_blank"> <img border="0" src="https://www.picatic.com/img/picatic-buy-button-grey.png" alt="Buy Tickets For This Event" /> </a>
 
-![Lean Change Agent 1](http://i1291.photobucket.com/albums/b548/grammccram/Lean%20Change%20Agent%202_zpsia5l33qy.png)
+![Lean Change Agent 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d383782b39e5e9fc07a1a8b25a70290a.PNG)
 
 <br/>
 # You
@@ -31,7 +31,7 @@ Lean Change is an iterative, non-linear, feedback-driven approach particularly s
 - Tools and practices that you can use right away
 - War stories from Richard and real-life examples from other Lean Change pioneers
 
-![Lean Change Agent 2](http://i1291.photobucket.com/albums/b548/grammccram/Lean%20Change%20Agent%201_zpsn9gzihur.png)
+![Lean Change Agent 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/141edc79ff4cf784ab69f4c5422e97b8.PNG)
 
 <br/>
 # What you will get
