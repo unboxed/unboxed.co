@@ -1,11 +1,12 @@
 ---
-title: "Richard Stobart shortlisted for UK Agile Awards 2015"
-date: "2015-10-30T11:58:00+00:00"
+title: Richard Stobart shortlisted for UK Agile Awards 2015
+date: '2015-10-30T11:58:00+00:00'
+published: true
 ---
 
 <p>Unboxed CEO, <a href="/people#richard-stobart">Richard Stobart</a>, has been shortlisted for this year’s <a href="https://theagileportal.com/awards">UK Agile Awards</a>.<br/></p>
 
-<p><img src="http://bit.ly/1ipA3H0" alt="Agile Awards 2015"></p>
+![Agile Awards 2015](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/67f329e82532ab1464428772f05b6127.PNG)
 
 <p>The UK Agile Awards were created to recognise and award top Agile talent and recognise the challenge of adopting the discipline and serves to publicly recognise their efforts.<br/></p>
 
@@ -15,6 +16,6 @@ date: "2015-10-30T11:58:00+00:00"
 
 <p>Richard won <i>‘Best Agile Coach or Mentor (Process)’</i> at the <a href="/news/richard-stobart-wins-award-for-the-best-agile-mentor-at-agile-awards">2014 UK Agile Awards</a>.<br/></p>
 
-<p><img src="http://bit.ly/20fBQkc" alt="Agile Awards 2014"></p>
+![Agile Awards 2015](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2161b467514f348abe46768e402e2001.PNG)
 
 <p>This year’s Awards take place on 12th November 2015 at Montcalm Hotel, London.</p>
