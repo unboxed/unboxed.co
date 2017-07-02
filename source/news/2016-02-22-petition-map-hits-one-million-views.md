@@ -1,5 +1,5 @@
 ---
-date: "2016-02-22 11:09 +0000"
+date: '2016-02-22 11:09 +0000'
 published: true
 title: Petition Map hits one million views
 ---
@@ -18,12 +18,12 @@ The map has also featured in a number of national online publications, including
 
 Petition Map is a heat map of the UK, which allows users to select from all live petitions (direct from [Parliament Petitions](https://petition.parliament.uk)) and generate a map visualisation based on petition popularity by constituency, using open source data. Users can also search through each constituency to find out the number of signatures on petitions in each individual area.<br/>
 
-![Petition Map](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-20%20at%2016.05.50_zpsi6t0cifh.png)
+![Petition Map](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/14e92c03d896b5bcff289281381c47f7.PNG)
 
 The map can be accessed directly from each live petition on the Parliament Petitions website:
 
-![Petition Map link](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-19%20at%2021.54.43_zpsqmfbcvq4.png)
+![Petition Map link](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6ac73a886c70d8b19cd06965e319c578.PNG)
 
 We [worked with Government Digital Service](https://unboxed.co/product-stories/petitions/) last year to re-build the Petitions platform. Petition Map was built by our intern, Cale.<br/>
 
-Visit [Petition Map here](http://petitionmap.unboxedconsulting.com). 
+Visit [Petition Map here](http://petitionmap.unboxedconsulting.com).
