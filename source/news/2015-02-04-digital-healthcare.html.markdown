@@ -1,6 +1,7 @@
 ---
-title: "Digital Healthcare Roundtable"
-date: "2015-02-04T12:42:00+00:00"
+title: Digital Healthcare Roundtable
+date: '2015-02-04T12:42:00+00:00'
+published: true
 ---
 
 <p>Leaders from business, the NHS evangelists, charities and others will explore and debate how we can do more to improve public health with digital technology at our upcoming Digital Healthcare Roundtable.<br/></p>
@@ -15,7 +16,7 @@ Digital technology is too – but not in healthcare. Facebook, Twitter, Skype an
 - Why don’t I have an online record of my healthcare treatment?<br/>
 - Why are so many UK citizens who try to manage their own health and wellbeing feeling isolated from the NHS?<br/></p>
 
-<p><img src="http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-02%20at%2012.42.46_zpsqsnmoxgd.png" alt="healthcare1"/></p>
+![Heathcare 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a0003a2ff72a76303d6a64d481c2ae65.PNG)
 
 <p>We&#39;ll be hearing from health technology leaders:</p>
 - Kumar Jacob MBE - Principal Consultant, KJx
