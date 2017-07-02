@@ -65,6 +65,7 @@ configure :development do
 end
 
 require 'lib/helpers'
+require 'lib/tiler'
 helpers Helpers
 
 ignore '/templates/*'
