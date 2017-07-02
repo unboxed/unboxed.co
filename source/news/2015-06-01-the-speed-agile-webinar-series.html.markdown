@@ -1,6 +1,7 @@
 ---
-title: "The Speed Agile webinar series"
-date: "2015-06-01T16:15:00+01:00"
+title: The Speed Agile webinar series
+date: '2015-06-01T16:15:00+01:00'
+published: true
 ---
 
 <h2>Increase your pace of digital products and service development</h2>
@@ -19,7 +20,7 @@ date: "2015-06-01T16:15:00+01:00"
 
 <p>With <a href="../people#richard-stobart">Richard Stobart</a>, CEO<br/></p>
 
-<p><img src="http://bit.ly/1FowOVE" alt="Richard Stobart"></p>
+![Richard Stobart](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/47ddfbd1dfbe9d9fd11b661cfa265f07.JPG)
 
 <p>Understand how to rapidly engage and build confidence with your stakeholders and create momentum on the features they really need. Apply communication ceremonies that give everyone clarity help slice through a complex stakeholder decision making unit.<br/></p>
 
@@ -32,7 +33,7 @@ date: "2015-06-01T16:15:00+01:00"
 
 <p>With <a href="../people#martyn-evans">Martyn Evans</a>, Head of Product<br/></p>
 
-<p><img src="http://bit.ly/1JjdcXC" alt="Martyn Evans"></p>
+![Martyn Evans](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6f111ac2d49ced085bebc824868ae997.JPG)
 
 <p>Unlock development by quickly and deeply understanding 1) the real problem that your digital product or service needs to solve and 2) the exact customers who will pay for the solution. Learn techniques to rapidly and reliably gather data that enables the team to build the RIGHT product.<br/></p>
 
@@ -45,7 +46,7 @@ date: "2015-06-01T16:15:00+01:00"
 
 <p>With <a href="../people#steve-lennon">Steve Lennon</a>, Director of Delivery<br/></p>
 
-<p><img src="http://bit.ly/1BBZwRj" alt="Steve Lennon"></p>
+![Steve Lennon](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/39bdb67cdd3d283012f43f9991eabbd7.JPG)
 
 <p>Create your own strategy for leading an agile programme inside a slower or more traditional organisation. Find out how public sector digital technologists have navigated stakeholders and structures. Discover what influences the whole organisation quickly and makes you the trusted digital leader. Find out how to overcome resistance.<br/></p>
 
