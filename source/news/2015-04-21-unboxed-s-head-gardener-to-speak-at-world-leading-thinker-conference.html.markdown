@@ -1,13 +1,14 @@
 ---
-title: "Unboxed's Head Gardener to speak at world-leading thinker conference"
-date: "2015-04-21T17:00:00+01:00"
+title: Unboxed's Head Gardener to speak at world-leading thinker conference
+date: '2015-04-21T17:00:00+01:00'
+published: true
 ---
 
 <p>Unboxed Consulting&#39;s Head Gardener, Claire Kemp, has been confirmed to speak at this year’s TEDx SevenMileBeach conference in the Cayman Islands.<br/></p>
 
 <p>The conference, now in it&#39;s second year, will bring together 100 delegates, from all around the globe, for one day of exclusive talks on 10th June 2015. Claire will take to the stage to share her experiences with a selection of storytellers and visionaries from around the world.<br/></p>
 
-<p><img src="http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-04-21%20at%2016.41.47_zpsjjcafgn1.png" alt="image1" height="426" width="527"></p>
+![Claire Kemp](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a1ddadd617c9394d231f09d7addfdc67.PNG)
 
 <p><i>“The conference theme is: ‘The Life of an Idea: Plant. Nourish. Harvest.’ my favourite analogy for the work I have chosen as People Gardener. I’m really looking forward to delivering ‘Climate change boosts growth of ideas that transform the world’. </p>
 
