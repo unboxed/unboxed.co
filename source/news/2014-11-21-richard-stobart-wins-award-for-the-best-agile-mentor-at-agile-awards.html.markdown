@@ -1,6 +1,7 @@
 ---
-title: "Richard Stobart wins award for the best Agile Mentor at Agile Awards"
-date: "2014-11-21T14:12:00+00:00"
+title: Richard Stobart wins award for the best Agile Mentor at Agile Awards
+date: '2014-11-21T14:12:00+00:00'
+published: true
 ---
 
 <p>Unboxed Consulting CEO, Richard Stobart, has been named <i>Best Agile Coach or Mentor (Process)</i> at the 2014 UK Agile Awards.<br/></p>
@@ -23,7 +24,7 @@ Specifically Richard:<br/></p>
 
 <p>The Awards, now in their 5th year, took place in London, were attended by senior leaders and practitioners in the Agile community. </p>
 
-<p><img src="http://i1291.photobucket.com/albums/b548/grammccram/182319a3-c03a-48d8-a793-8de3bb71db40_zps20582be7.png" alt="agile1"/></p>
+![Richard Stobart](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/da4842f94119006b3ff076b3301a04d0.PNG)
 
 <p>The winning moment:<br/>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/rHJyBhfik94" frameborder="0" allowfullscreen></iframe></p>
