@@ -7,7 +7,7 @@ title: >-
 ---
 We are pleased to announce that we have been awarded the contract for the Digital Customer Programme Discovery Phase with [Newham Council](https://www.newham.gov.uk/Pages/index.aspx), procured through the Digital Marketplace.<br/>
 
-![Newham Council Digital Customer Programme Discovery](http://i1291.photobucket.com/albums/b548/grammccram/LBN_Ribbon_Logo_RGB_zpso6guutz4.jpg)
+![Newham Council Digital Customer Programme Discovery](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/47a2e1fedbd4d84d1c7e67f37ff63e19.JPG)
 
 Newham Council is transforming the way they deliver their key services to 325,000 local residents, as well as making these services increasingly efficient for the council, through taking an innovative approach.<br/>
 
@@ -22,4 +22,3 @@ Martyn Evans, Head of Product at Unboxed, said:<br/>
 <i>“We’re really looking forward to collaborating with the Newham Council team and supporting their first steps in this transformation programme. It’s fantastic to be involved in the early stages of this opportunity to provide better, and more efficient, digital services for the residents of Newham.”</i><br/>
 
 We have previously delivered Discovery Phases with other public sector organisations, such as [Buckinghamshire County Council](https://unboxed.co/product-stories/bucks-cc) and [SH:24](https://unboxed.co/product-stories/sh24/).
-
