@@ -1,5 +1,5 @@
 ---
-date: "2016-03-02 16:52 +0000"
+date: '2016-03-02 16:52 +0000'
 published: true
 title: Buckinghamshire County Council project reaches end of Alpha phase
 ---
@@ -13,12 +13,12 @@ This ‘exemplar’ project was created by Buckinghamshire County Council to lea
 Service one: <i>Find my child a school place</i><br/>
 The full school entry application process placing around 18,000 children every year, from the initial finding of a school in the right catchment area through to confirming a child’s place online:<br/>
 
-![Digital service one](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-26%20at%2013.22.36_zpsjpdvq2mv.png)
+![Digital service one](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/94bd09212eb8b65dc786db6ec7b9338a.PNG)
 
 Service two: <i>Maintain my street</i><br/>
 A service for reporting any street issues and a platform to suggest local area improvements:<br/>
 
-![Digital service two](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-26%20at%2013.22.12_zpsvdlmbv0d.png)
+![Digital service two](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5590a5e53431151f4d15b244f7bfd06b.PNG)
 
 The end of this Alpha phase follows a successful 6-week Discovery phase. The upcoming Beta phase will see the team build out the prototypes at scale.<br/>
 
