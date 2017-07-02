@@ -1,6 +1,9 @@
 ---
-title: "Event: The £50k Springboard - How to use the first £50k of a digital product to build the business case for the next £500k"
-date: "2015-11-05T15:47:00+00:00"
+title: >-
+  Event: The £50k Springboard - How to use the first £50k of a digital product
+  to build the business case for the next £500k
+date: '2015-11-05T15:47:00+00:00'
+published: true
 ---
 
 <p><b>Date:</b> Monday 30th November, 9:00am for 9.30am – 12.00pm<br/>
@@ -36,7 +39,7 @@ date: "2015-11-05T15:47:00+00:00"
 
 <p>Director, Product and Innovation at <a href="http://www.reedlearning.com">Reed Learning</a> - <a href="https://twitter.com/msabella">@msabella</a><br/></p>
 
-<p><img src="http://bit.ly/1k4HoxB" alt="Melissa Sabella"></p>
+![Melissa Sabella](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a4e070a282d5a849ba6a31fc7876a6b2.PNG)
 
 <p>Every organisation wants innovation and many are even aiming for an ambitious &quot;digital transformation&quot; to stave off this disruption they&#39;ve been hearing about. So why won&#39;t they give you what  you need to get it done? We&#39;ll talk about the dynamics of organisations, explaining agile to the finance department and techniques to get the funding you need. Melissa Sabella has pitched unsettling projects within massive global corporates and family run organisations to a moderate degree of success. .<br/>
 <br/></p>
@@ -45,7 +48,7 @@ date: "2015-11-05T15:47:00+00:00"
 
 <p>Unboxed</b><br/></p>
 
-<p><img src="http://bit.ly/1NBr3r2" alt="Carrie Bedingfield"></p>
+![Carrie Bedingfield](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/018c336fd1a431f23cfcfaf8a766a133.PNG)
 
 <p><a href="../people#carrie-bedingfield">Carrie</a> will explain the psychology and behavioural economics behind securing new budgets for new initiatives. Understand why ​<i>perception</i> of value is often disconnected from ​<i>actual</i> value - and how to use this rather than trip over it. Carrie is a business communication expert at Unboxed and a guest lecturer at Cambridge University Judge Business School.<br/>
 <br/></p>
@@ -54,7 +57,7 @@ date: "2015-11-05T15:47:00+00:00"
 
 <p>Management Consultant, Coach &amp; Programme Manager</b><br/></p>
 
-<p><img src="http://bit.ly/1SWgOlM" alt="Richard Atherton"></p>
+![Richard Atherton](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4c431b7c2fe6a242a4335e884d099aa2.PNG)
 
 <p>Richard is a consultant with 15 years’ experience. He has led or helped to deliver complex programmes at ITV, BBC and Universal International. He has a big interest in the human condition and organisational culture. He’s a fair-weather yogi and currently working on an Agile-meets-Yoga workshop concept.<br/>
 <br/></p>
@@ -63,7 +66,7 @@ date: "2015-11-05T15:47:00+00:00"
 
 <p>Programme Director at <a href="../product-stories/sh24">SH:24</a></b><br/></p>
 
-<p><img src="http://bit.ly/1GHO0Mo" alt="Gillian Holdsworth"></p>
+![Gillian Holdsworth](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ec87a1183bc9a2762b39dee3fd247450.PNG)
 
 <p>Dr Gillian Holdsworth is a public health expert with substantial experience of living and working in Nepal and UK. A fluent Nepali speaker, she is a skilled leader, with an outstanding talent for collaborative working in multi-cultural settings and getting things done. Gillian is currently the public health lead for health protection and sexual health services in Lambeth and Southwark, London, UK. She is the programme director for SH:24, a new online sexual health service delivered in partnership with the NHS for residents of Lambeth and Southwark.<br/>
 <br/></p>
