@@ -1,6 +1,7 @@
 ---
-title: "Seminar: Rails 5 Upgrade – Advice for IT Leaders"
-date: "2015-06-18T10:30:00+01:00"
+title: 'Seminar: Rails 5 Upgrade – Advice for IT Leaders'
+date: '2015-06-18T10:30:00+01:00'
+published: true
 ---
 
 <p>Rails 5 is due for release in August/September 2015 and is likely to fundamentally change the way we work with Rails.<br/></p>
@@ -29,7 +30,7 @@ date: "2015-06-18T10:30:00+01:00"
 
 <h1>About Andrew White:</h1>
 
-<p><img src="http://bit.ly/1H0TLnO" alt="Andrew White"></p>
+![Andrew White](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/66b975dd2c0e32b0a8881a04f0f2e389.PNG)
 
 <p>Andrew White has been a contributor to Ruby on Rails since 2007 and a core team member since 2012. He is currently the only core team member in the UK. He is personable, practical and a highly respected member of the Rails community. <br/></p>
 
