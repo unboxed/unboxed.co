@@ -5,7 +5,7 @@ title: 'SH:24 shortlisted for British Medical Journal Award'
 ---
 Online sexual and reproductive health service [SH:24](https://www.sh24.org.uk/) has been shortlisted within the ‘Innovation Team’ category at this year’s [British Medical Journal (BMJ) Awards](http://thebmjawards.bmj.com/home).<br/>
 
-![SH:24 BMJ Awards](http://i1291.photobucket.com/albums/b548/grammccram/SH-24BMJ_zpsbwsg3hb3.jpeg)
+![SH:24 BMJ Awards](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/344a26075fcbc16015b78059d0f9fdff.JPEG)
 
 Now in their 9th year, the BMJ Awards are the UK’s leading medical awards, recognising and celebrating the inspirational work of healthcare teams across the country. Selected alongside a cohort of inspirational healthcare teams and services, also collaborating and working in and alongside the NHS, SH:24 has made it through to the [60 overall shortlisted teams](http://thebmjawards.bmj.com/83171) and five nominations within the ‘Innovation Team’ category.<br/>
 
