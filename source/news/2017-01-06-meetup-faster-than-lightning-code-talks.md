@@ -3,7 +3,7 @@ date: '2017-01-06 15:57 +0000'
 published: true
 title: 'Meetup: ‘Faster than Lightning’ code talks'
 ---
-![Faster than Lightning](http://i1291.photobucket.com/albums/b548/grammccram/e3f7c196-9df1-48a6-ba75-d26fe1341391_zpsu5bduai3.png)
+![Faster than Lightning](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/94ee18e101493df1901a1adc0431c4c5.PNG)
 
 Join us on <b>Wednesday 8th February</b> for ‘Faster than Lightning’ - an informal meetup where developers present and share snippets of code for discussion.<br/>
 
@@ -45,7 +45,7 @@ Examples of past code snippets include:<br/>
 <br/>
 # How do I take part?
 
-![Faster than Lightning in action](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202017-01-06%20at%2016.06.04_zpszovc6x5x.png)
+![Faster than Lightning in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8316a4cadad9b2d9ef250305d2423f6f.PNG)
 
 Taking part is simple:<br/>
 
