@@ -1,16 +1,20 @@
-.quote {
-  @include clearfix;
-
+.text-tile-quote {
   background-color: mix($white, $light-gray);
-  padding: 20px;
+  @include clearfix;
+}
+
+.text-tile-quote__quote {
+  box-sizing: border-box;
+  padding: 30px 20px 30px 24px;
+  background-color: mix($white, $light-gray);
 
   @include breakpoint($tablet-breakpoint) {
-    box-sizing: border-box;
-    padding: 40px;
+    padding: 30px 20px 20px 30px;
+    min-height: 320px;
   }
 }
 
-.quote__text {
+.text-tile-quote__text {
   @include responsive-text;
   color: $dark-gray;
   font-weight: 300;
@@ -36,15 +40,7 @@
   }
 }
 
-.quote__text--centered {
-  @extend .quote__text;
-
-  @include breakpoint($desktop-breakpoint) {
-    padding-top: 30px;
-  }
-}
-
-.quote__source {
+.text-tile-quote__source {
   color: $purple;
   font-weight: 300;
   padding-top: 20px;
@@ -59,27 +55,12 @@
   }
 }
 
-.quote__right-section {
-  display: block;
-
-  @include breakpoint($tablet-breakpoint) {
-    float: left;
-    max-width: 80%;
-  }
-}
-
-.quote__source-image {
+.text-tile-quote__image {
   display: none;
 
   @include breakpoint($tablet-breakpoint) {
     display: block;
-    padding-left: 30px;
-    width: 80px;
-  }
-  @include breakpoint($desktop-breakpoint) {
-    height: 240px;
-    min-width: 120px;
-    padding-left: 30px;
+    float: left;
+    width: 50%;
   }
 }
-

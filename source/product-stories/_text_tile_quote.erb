@@ -1,0 +1,14 @@
+<section class="text-tile-quote">
+  <blockquote class="component__tile text-tile-quote__quote">
+    <p class="text-tile-quote__text">
+      <%= section.quote %>
+    </p>
+    <p class="text-tile-quote__source">
+      <%= section.source %>
+    </p>
+  </blockquote>
+
+  <div class="text-tile-quote__image">
+    <%= image_tag section.image, alt: section.image_description, class: "image-tile__image", srcset: retina_srcset(section.image) %>
+  </div>
+</section>
