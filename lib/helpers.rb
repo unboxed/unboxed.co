@@ -1,3 +1,5 @@
+require 'date'
+require 'time'
 require './lib/article_info'
 
 module Helpers
