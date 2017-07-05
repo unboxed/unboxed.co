@@ -15,29 +15,42 @@ To get things running on your machine:
 
 * ### Clone the repository
 
-    git clone git@github.com:unboxed/unboxed.co.git
+  ```
+  git clone git@github.com:unboxed/unboxed.co.git
+  ```
 
 * ### Install Dependencies
-    cd ubxd_web_refresh
-    bundle install
+
+  ```
+  cd unboxed.co
+  bundle install
+  ```
 
 * ### Start the server
-    middleman server
 
- Active reloading is configured, so the server will listen for changes and refresh the page in your browser.
+  ```
+  middleman server
+  ```
+
+Active reloading is configured, so the server will listen for changes and refresh the page in your browser.
 
 * ### Making a blog post
-    Use `middleman article "[article name]" --blog blog` to create a new blog file.
+
+  Use `middleman article "[article name]" --blog blog` to create a new blog file.
 
 * ### Making a news post
-    Use `middleman article "[article name]" --blog news` to create a new blog file.
+
+  Use `middleman article "[article name]" --blog news` to create a new blog file.
 
 ## Testing
 
 Using [BrowserStack](https://www.browserstack.com) for compability testing
 
 ## Blog CSS Features
-  Adding a line with emphasis directly under an image will style it as a caption:
 
-    ![](image_url)
-    *Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.*
+Adding a line with emphasis directly under an image will style it as a caption:
+
+```
+![](image_url)
+*Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.*
+```
