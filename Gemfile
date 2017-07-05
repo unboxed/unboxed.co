@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'middleman'
+gem 'middleman', '< 4.0'
 gem 'middleman-livereload'
 gem 'pry'
 gem 'redcarpet'
