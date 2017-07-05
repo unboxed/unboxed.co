@@ -2,6 +2,13 @@
 date: '2017-07-05 20:51 +0100'
 published: false
 title: 'Local Government Digital Service Standard - TeaCamp #3: Digital Marketplace'
+tags:
+  - Agile
+  - Innovation
+authors:
+  - Graeme McCubbin
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/33e533f37adaedd4c5c72d38c72eed89.JPG
 ---
 <i>As a network for digital practitioners in local government, LocalGov Digital is on a mission to raise standards in web provision and the use of digital by councils across the country.</i><br/>
 
@@ -102,26 +109,3 @@ The total current spend of G-Cloud sales is approximately £2billion, with 77% o
 Sharing a full exploration into the Digital Marketing, Toni and Catherine conclude their with an all-important demo of how this works from a buyer’s perspective. Wrapping up the session is a shared link to the [Digital Marketplace blog](https://digitalmarketplace.blog.gov.uk) and more about [user research for the Digital Marketplace](https://digitalmarketplace.blog.gov.uk/2015/01/30/user-research-for-digital-marketplace/).<br/>
 
 There’s a short break in the LGDSS TeaCamp series across the summer, with the next session taking place on Thursday 7th September (don’t forget to add it to your calendar). TeaCamp #4 will be focusing KPIs and metrics.<br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
