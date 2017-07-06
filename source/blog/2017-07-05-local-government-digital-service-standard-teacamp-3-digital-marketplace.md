@@ -72,6 +72,7 @@ The Digital Marketplace frameworks are a shared set of terms and conditions betw
 - How the buying process works
 
 Each supplier applies to sell their services through a framework around every nine months. This allows for new suppliers to join the framework at regular intervals, not just securing one list of suppliers over a long period of time.<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Suppliers apply to sell their services through a <a href="https://twitter.com/GOVUKdigimkt">@GOVUKdigimkt</a> framework around every 9 months. <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/RWOv4qx1j4">pic.twitter.com/RWOv4qx1j4</a></p>&mdash; LoGov Platform (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/880454345954914304">June 29, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
