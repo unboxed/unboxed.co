@@ -315,3 +315,13 @@
       link: "https://twitter.com/ollylegg"
     - name: "Github"
       link: "https://github.com/olly"
+
+- name: "Vinul Wimalaweera"
+  short_name: "vinul-wimalaweera"
+  role: "Developer"
+  email: "vinul.wimalaweera"
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/vinul-wimalaweera"
+    - name: "Github"
+      link: "https://github.com/VinDel77"
