@@ -27,6 +27,7 @@ For this TeaCamp installment, we’re joined by Tobi Ogunsina, Product Manager a
 
 ![TeaCamp - Tobi Ogunsina](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/226dee30ff92be7369f8f3b5891287aa.JPG)
 
+<br/>
 So, to begin, what is the Digital Marketplace?<br/>
 
 The Digital Marketplace is transforming the way in which the public sector are procuring and buying digital, helping them to be able to buy what they need to deliver great digital services, whether this is technology or people.<br/>
@@ -38,6 +39,7 @@ Before the introduction of the Digital Marketplace, there were an abundance of i
 - Often awarding contracts to a tiny group of huge, well-known suppliers
 - Not always sure of what it was buying...
 
+<br/>
 This was a problem. The public sector needed solutions which were:<br/>
 
 - Fast-paced and more flexible
@@ -45,6 +47,7 @@ This was a problem. The public sector needed solutions which were:<br/>
 - Easier and faster to buy
 - Value for money
 
+<br/>
 How do you make procurement work for you? You adapt it to your needs. Addressing these problems, the introduction of Digital Marketplace has:<br/>
 
 - Opened the door to a much broader range of supplies, making it easier for SMEs to apply to work with the public sector, encouraging much more competitive pricing for buyers
@@ -70,12 +73,12 @@ The Digital Marketplace frameworks are a shared set of terms and conditions betw
 
 Each supplier applies to sell their services through a framework around every nine months. This allows for new suppliers to join the framework at regular intervals, not just securing one list of suppliers over a long period of time.<br/>
 
-<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Suppliers apply to sell their services through a <a href="https://twitter.com/GOVUKdigimkt">@GOVUKdigimkt</a> framework around every 9 months. <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/RWOv4qx1j4">pic.twitter.com/RWOv4qx1j4</a></p>&mdash; LoGov Platform (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/880454345954914304">June 29, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
 With a total of three framework on the Digital Marketplace, each has a different purpose:<br/>
+<br/>
 
 ## Framework #1: Crown Hosting
 This is for datacentre hosting services. If, for any reason, your service cannot go onto the cloud, this is where it goes.<br/>
@@ -93,7 +96,7 @@ This is the most popular framework and is for cloud services: hosting, software 
 This is the second most popular framework, allowing for buyers to find people, teams and specialists to work on digital services, programmes or projects with defined scopes and deliverables.<br/>
 <br/>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The things <a href="https://twitter.com/GOVUKdigimkt">@Govukdigimkt</a> are going to do next to improve DOS framework <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/ntpGzdBkTg">pic.twitter.com/ntpGzdBkTg</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/880463699080859649">June 29, 2017</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">The things <a href="https://twitter.com/GOVUKdigimkt">@Govukdigimkt</a> are going to do next to improve DOS framework <a href="https://twitter.com/hashtag/LGDSS?src=hash">#LGDSS</a> <a href="https://t.co/ntpGzdBkTg">pic.twitter.com/ntpGzdBkTg</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/880463699080859649">June 29, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
@@ -107,13 +110,16 @@ Presently, there are:<br/>
 <br/>
 ![TeaCamp 3 - Catherine Clubbs](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/33e533f37adaedd4c5c72d38c72eed89.JPG)
 
+<br/>
 The total current spend of G-Cloud sales is approximately £2billion, with 77% of total sales (by value) through Central Government and 23% through the wider public sector.<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">So far £2bn has been procured through the <a href="https://twitter.com/GOVUKdigimkt">@GOVUKdigimkt</a> marketplace. That&#39;s 2 DUPs! <a href="https://twitter.com/hashtag/Localgov?src=hash">#Localgov</a> <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a></p>&mdash; Steve Parks (@steveparks) <a href="https://twitter.com/steveparks/status/880464753948327936">June 29, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
 Sharing a full exploration into the Digital Marketplace, Toni and Catherine conclude their session with an all-important demo of how this all works, from a buyer’s perspective. Wrapping up the session is a shared link to the [Digital Marketplace blog](https://digitalmarketplace.blog.gov.uk), more about [user research for the Digital Marketplace](https://digitalmarketplace.blog.gov.uk/2015/01/30/user-research-for-digital-marketplace/) and an opportunity for questions and discussion across the room.<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Big thanks to <a href="https://twitter.com/Agilesphere">@Agilesphere</a> <a href="https://twitter.com/LoGovPlatform">@LoGovPlatform</a> @ukgovdigimkt  <a href="https://twitter.com/ScottWilkie1215">@ScottWilkie1215</a> <a href="https://twitter.com/grove_richard">@grove_richard</a> and everyone who participated in <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> teacamp</p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/880481155044311040">June 29, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
