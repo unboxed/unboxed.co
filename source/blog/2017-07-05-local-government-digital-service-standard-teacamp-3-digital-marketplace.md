@@ -7,8 +7,7 @@ tags:
   - Innovation
 authors:
   - Graeme McCubbin
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/33e533f37adaedd4c5c72d38c72eed89.JPG
+main_image: 'http://imgur.com/a/w4yo7'
 ---
 <i>As a network for digital practitioners in local government, LocalGov Digital is on a mission to raise standards in web provision and the use of digital by councils across the country.</i><br/>
 
