@@ -112,7 +112,7 @@ Presently, there are:<br/>
 ![TeaCamp 3 - Catherine Clubbs](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/33e533f37adaedd4c5c72d38c72eed89.JPG)
 
 <br/>
-The total current spend of G-Cloud sales is approximately £2billion, with 77% of total sales (by value) through Central Government and 23% through the wider public sector.<br/>
+The total current spend of Digital Marketplace sales is approximately £2billion, with 77% of total sales (by value) through Central Government and 23% through the wider public sector.<br/>
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">So far £2bn has been procured through the <a href="https://twitter.com/GOVUKdigimkt">@GOVUKdigimkt</a> marketplace. That&#39;s 2 DUPs! <a href="https://twitter.com/hashtag/Localgov?src=hash">#Localgov</a> <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a></p>&mdash; Steve Parks (@steveparks) <a href="https://twitter.com/steveparks/status/880464753948327936">June 29, 2017</a></blockquote>
