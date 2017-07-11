@@ -46,6 +46,10 @@ Active reloading is configured, so the server will listen for changes and refres
 
 Using [BrowserStack](https://www.browserstack.com) for compability testing
 
+## Adding to the 'people' page
+
+Upload caricatures at a size at or near to (212px * 425px), with a transparent background. This can be done with e.g. the Mac Preview app.
+
 ## Blog CSS Features
 
 Adding a line with emphasis directly under an image will style it as a caption:
