@@ -19,13 +19,10 @@ I'm from Sri Lanka but have also lived in Seychelles, before moving to London 10
 
 My most recent project was the end of year summer project that I did in university. It involved designing and creating an optical communication system using a Raspberry Pi and light source (namely a laser diode/ LED). This gave me the opportunity to test and develop my skills in both programming and electronics.<br/>
 
-I had no previous experience of Ruby on Rails prior to joining Unboxed, however I look forward to learning about the framework and really getting stuck in. Unboxed gives me the opportunity to develop my knowledge in a professional environment. I think I will really benefit from the atmosphere of collaboration and support that I have experienced in my past few days here.<br/>
+I look forward to learning about the Ruby on Rails framework and really getting stuck in. Unboxed also gives me the opportunity to develop my knowledge in a professional environment. I think I will really benefit from the atmosphere of collaboration and support that I have experienced in my first few days here.<br/>
 
-So far, I have been working my way through the 'New Joiner' Induction Board whilst working on integrating zendesk support in the char.gy help page. I’m really excited to get stuck in with more of the char.gy project.<br/>
+So far, I have been working my way through the 'New Joiner' Induction Board whilst working on integrating zendesk support in the char.gy help page. I’m really excited to get stuck in with more of this project.<br/>
 
 ![Vinul Wimalaweera 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/47d955f27598438e149469fe2fefe5dd.png)
 
 In my spare time, I am an avid coffee drinker and beginner hip hop dancer. I also have a passion for travelling (mainly for the food) and pushing myself out of my comfort zone. My most recent excursion has been to backpack around Southeast Asia for two months.
-
-
-
