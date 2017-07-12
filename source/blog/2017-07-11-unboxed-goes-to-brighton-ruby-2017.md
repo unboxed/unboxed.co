@@ -40,6 +40,12 @@ Final thoughts were "a puppy is for life, not just for Christmas" and that you s
 
 I learnt of a new gem, [LicenseFinder](https://github.com/pivotal/LicenseFinder), to detect the licenses of all dependencies. We also briefly covered [bundler-audit](https://github.com/rubysec/bundler-audit) to check for vulnerabilities which we already have configured in our CircleCI builds.
 
+## [Abraao M](/people#abraao-mota)
+
+Conference pick: [Ruby Paper Scissors - Dot Wingrove](https://brightonruby.com/2017/ruby-paper-scissors-dot-wingrove/)
+
+I really enjoyed the Rock-Paper-Scissors talk - it delved into game-theory (one of my favourite topics in CS), and you could see that through some statistical analysis, move analysis over a certain window of time and meta-strategy analysis, you could create really interesting, award winning behaviour. To paraphrase one of her final sentences: Simple rules do not exclude the use of deep strategy.
+
 ![Brighton Ruby 2017 - Unboxed developers on the seafront](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/brighton-ruby-2017-seafront.jpg)
 
 ## [Murray S](/people#murray-steele)
