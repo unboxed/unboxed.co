@@ -7,7 +7,7 @@ authors:
 tags:
   - Culture
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/350a46eeddd2859aebe766178bc9c0b4.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cfa3608dba9e4b4d26275957e451e449.png
 ---
 Joining the Unboxed team for a three-month internship across the summer, I’m Vinul.<br/>
 
