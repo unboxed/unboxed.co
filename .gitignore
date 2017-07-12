@@ -20,3 +20,5 @@
 .ruby-gemset
 
 /spec/examples.txt
+
+*.swp
