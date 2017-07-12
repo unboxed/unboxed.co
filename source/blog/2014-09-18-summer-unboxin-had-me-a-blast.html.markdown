@@ -14,7 +14,7 @@ Charlie joined the Unboxed team in June as part of our summer internship program
 
 Having spent the last three months as a member of the team, he is now heading back to the bonnie wee hills of Scotland (not his words!). But before Charlie heads back, we wanted to find out how his summer here has been...<br/>
 
-![Charlie](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-09-11at151548_zps843db99d.png)
+![Charlie](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/8a7b96a3e4725631e37666d16f4fbeba.png)
 
 <b>So having finished the summer internship programme, how have you found it overall?</b><br/>
 I’ve been made very welcome this summer, and have come to feel very much part of the team here at Unboxed. I have, without a doubt, learned more this summer than I ever could have hoped to elsewhere. It’s been awe-inspiring, great fun and exhausting - all at the same time!<br/>

@@ -87,4 +87,4 @@ Besides those steps, he recommends an alternative way to do rubber duck programm
 
 I've decided to take Najaf's advice and change my rubber ducking behavior. Perhaps after seeing his talk you will too?
 
-![Brighton Ruby 2017 - "Friday hug"](https://pbs.twimg.com/media/DEJKbyAXUAABj4g.jpg)
+![Brighton Ruby 2017 - "Friday hug"](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/7be9ec0d3f45c1a7e50d8372ea1642b3.jpg)

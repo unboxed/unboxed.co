@@ -24,7 +24,7 @@ Where was the button that said: ![Awesome](https://dl.dropboxusercontent.com/u/4
 
 
 
-Feeling a part of the original furniture that had been taken out of storage, it was evident to me that the induction into Unboxed Consulting needed to change from a list of [TODOs](https://www.dropbox.com/s/izc00cnskoplj3r/Screenshot%202014-10-25%2012.27.48.png?dl=0) into something that was a "virtual hug" from day one.
+Feeling a part of the original furniture that had been taken out of storage, it was evident to me that the induction into Unboxed Consulting needed to change from a list of [TODOs](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/87831ef4ee73a5f5a15b905945118a41.png?dl=0) into something that was a "virtual hug" from day one.
 
 I, Claire Kemp, was handed the challenge of
 
@@ -33,7 +33,7 @@ I, Claire Kemp, was handed the challenge of
 
 
 
-[Induction version 1](https://www.dropbox.com/s/8w993bckv8wefdl/Screenshot%202014-10-24%2016.10.50.png?dl=0), an Indesign document that could be printed off for New Joiners on day 1 is a map to navigate the way we work. It was all smart and grown up until someone left the company or made a change to the way we do things, then the document (that had already taken a week of our Designer’s time) needed refactoring.
+[Induction version 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/48e38eba5d2f227f9a1f357929bb43e4.png?dl=0), an Indesign document that could be printed off for New Joiners on day 1 is a map to navigate the way we work. It was all smart and grown up until someone left the company or made a change to the way we do things, then the document (that had already taken a week of our Designer’s time) needed refactoring.
 
 As a work around we updated pages that were referred to on the wiki and made notes in email communications to New Joiners about changes.
 

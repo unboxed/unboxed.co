@@ -4,14 +4,14 @@ published: true
 title: "Thinking product at Mind the Product 2015"
 authors:
   - "Martyn Evans"
-main_image: "http://i60.tinypic.com/x5r30n.jpg"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/df28137b76a1341156572f02c2cf38f5.jpg"
 tags:
   - Innovation
 ---
 
 I’ve been thinking and talking recently about whether “product” is the right word for what I do. I speak to many people like me (oddly, many of them with fine art degrees) who sit somewhere between design, technology and business and end up as “product people”. But “product” isn’t quite right and I thought this conference might help me work out why.
 
-<img src="http://i60.tinypic.com/x5r30n.jpg" border="0" alt="Martyn Evans Mind the Product 2015">
+<img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/df28137b76a1341156572f02c2cf38f5.jpg" border="0" alt="Martyn Evans Mind the Product 2015">
 
 After Agile on the Beach, I went into Mind the Product with a sense of relief that there was just a single track - oh the joy of just sitting and letting it all wash over me! Here is what I bathed in:
 

@@ -18,7 +18,7 @@ passwords at all. LessPass uses a combination of the domain; username and
 master password to re-generate your password each time it's required. There's
 also an optional, self hosted encrypted password store for passwords and a cool
 emoji-hash indicator to make sure you're entering your master password
-correctly ([see here](https://d262ilb51hltx0.cloudfront.net/max/800/1*wgrq2WIxhyBSfL1Tbr5Qbw.gif)).
+correctly ([see here](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/5b9e897d1ecc429418563d942671c589.gif)).
 
 ## How H.264 works - [Murray S](/people#murray-steele)
 

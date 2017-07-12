@@ -41,7 +41,7 @@ tags:
 
 </code></pre>
 <p>If we run that in a browser we should see this:</p>
-<p><img alt="No tests" src="http://i651.photobucket.com/albums/uu231/tomsabin_ubxd/display_size_no_tests_zpskglj5bsq.png" style="width: 380px; height: 212px; " /></p>
+<p><img alt="No tests" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3d9128626dace366815bac5fb0f60ae3.png" style="width: 380px; height: 212px; " /></p>
 <h3>Writing a simple test</h3>
 <p>Lets start with something very basic. We&#39;re going to write something that will let us build up a list of values and render them to a page. We could start with a test like this:</p>
 <pre>
@@ -65,7 +65,7 @@ test(&#39;The user is presented with a list of added items&#39;, function () {
 
 </code></pre>
 <p>Here we&#39;re creating a fixture element and instantiating our new module. We&#39;re then exercising a function called addOne with a string and asserting that each time we call render the expected string is inserted into our element. Lets run our test and see it fail:</p>
-<p><img alt="Failing test" src="http://i651.photobucket.com/albums/uu231/tomsabin_ubxd/display_size_fail_zpsl5juhyww.png" style="width: 380px; height: 316px; " /></p>
+<p><img alt="Failing test" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/952722dee8a1434e44e2ee494fc6334a.png" style="width: 380px; height: 316px; " /></p>
 <p>Now lets write some code to get this test to pass:</p>
 <pre>
 <code>var listView = function (domEl) {
@@ -81,7 +81,7 @@ test(&#39;The user is presented with a list of added items&#39;, function () {
 };
 
 </code></pre>
-<p><img alt="Passing test" src="http://i651.photobucket.com/albums/uu231/tomsabin_ubxd/display_size_pass_zpsnrxdj0gf.png" style="width: 380px; height: 283px; " /></p>
+<p><img alt="Passing test" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/ea1dcc820e676a94c1546c71e3e5bbbc.png" style="width: 380px; height: 283px; " /></p>
 <p>There we go, our first test passes. Now onto more complicated matters.</p>
 <h3>Getting asynchronous</h3>
 <p>Now lets alter our listView module to load some data from the server. This presents us with two problems:</p>
@@ -150,7 +150,7 @@ test(&#39;The list is populated from the server&#39;, function () {
 
 </code></pre>
 <p>Run the tests</p>
-<p><img alt="Two passing tests" src="http://i651.photobucket.com/albums/uu231/tomsabin_ubxd/display_size_all_passed_zpseh8xk607.png" style="width: 380px; height: 364px; " /></p>
+<p><img alt="Two passing tests" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/7d300664711b84a8d73526dda648038c.png" style="width: 380px; height: 364px; " /></p>
 <p>Perfect.</p>
 <h3>Burning through time</h3>
 <p>When testing JavaScript animation or other asynchronous functionality based on timeouts and intervals you don&#39;t want to have to wait for them to finish in your tests.</p>
@@ -213,7 +213,7 @@ test(&#39;The list is populated from the server&#39;, function () {
 
 </code></pre>
 <p>And now to run the tests.</p>
-<p><img alt="Three passing tests" src="http://i651.photobucket.com/albums/uu231/tomsabin_ubxd/display_size_cube_tests_zpsllbdc7bw.png" style="width: 380px; height: 408px; " /></p>
+<p><img alt="Three passing tests" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/330ac619eb0c30bf6a13dfbf07130934.png" style="width: 380px; height: 408px; " /></p>
 <p>Hopefully this has served as a useful introduction to effective JavaScript testing in the browser.</p>
 <p>In the second part of this article I&#39;ll write about Sinon spies, mocks and stubs.</p>
 

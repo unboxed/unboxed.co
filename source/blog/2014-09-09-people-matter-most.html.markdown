@@ -25,7 +25,7 @@ And so it came to be that [Agile on the Beach](http://agileonthebeach.com/) conf
 In the opening keynote [@Jbrains](https://twitter.com/jbrains) acknowledged the pains that teams have suffered through in the evolution of XP, Agile and Lean with [this parody](https://www.youtube.com/watch?v=Ow0lr63y4Mw&feature=share). Really - [click and watch](https://www.youtube.com/watch?v=Ow0lr63y4Mw&feature=share) - it is hilarious!
 
 Joe's ideas encouraged us to explore our agile future as a place where we "Talk in Examples":
-![People1](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-11-04at111831_zps56a1ccd8.png)<br/>
+![People1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c380b3ff1d75b77f7e280cfe56405006.png)<br/>
 And work on [prioritising small parts of stories](https://speakerdeck.com/jbrains/the-next-decade-of-agile-software-development?slide=58). Doing this would generate a greater product foundation and support the progress of stories with highest priority for <i>more than ONE</i> stakeholder.
 
 
@@ -69,6 +69,6 @@ Late on Friday afternoon I felt a massive wave of warmth envelop me in the reali
 <b><i>"You can't force a seed to grow, you can only nurture the environment and hope"</i></b>
 
 
-[@piamia2's](https://twitter.com/piamia2) talk on agile HR addressed the [evolution of the employee](http://bit.ly/1qCjcC1) and sewed seeds for planning Unboxed Consulting's roadmap for a [clear line of sight](https://www.dropbox.com/s/rzufqmrsqphsd73/IMG_4132.jpg?dl=0). Having one of these would facilitate the creation of individual tasks that align with people's personal goals and are based on the vision and purpose of our company. Evaluating performance against these goals means that we would be rewarding people for being an excellent example of who we, Unboxed Consulting, want the world to see.
+[@piamia2's](https://twitter.com/piamia2) talk on agile HR addressed the [evolution of the employee](http://bit.ly/1qCjcC1) and sewed seeds for planning Unboxed Consulting's roadmap for a [clear line of sight](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b5207cceeea25de9e5664734115c066b.jpg?dl=0). Having one of these would facilitate the creation of individual tasks that align with people's personal goals and are based on the vision and purpose of our company. Evaluating performance against these goals means that we would be rewarding people for being an excellent example of who we, Unboxed Consulting, want the world to see.
 
 And that, my friends, is my happy place.

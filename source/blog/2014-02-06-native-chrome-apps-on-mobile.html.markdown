@@ -9,7 +9,7 @@ tags:
 
 ---
 
-![Planning Poker](http://oi61.tinypic.com/2cs9yr9.jpg)
+![Planning Poker](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/18a11182759a0e0cacd25fbcbd565e0b.jpg)
 
 At the end of January some [big news passed quietly](http://blog.chromium.org/2014/01/run-chrome-apps-on-mobile-using-apache.html) on the Chromium blog. Mobile Chrome apps can now be wrapped up using Cordova to deploy native applications to iOS and Android. Google seems to be pouring money into Chrome like it’s the cold war so I felt this recent release deserved a mini-dive in.
 

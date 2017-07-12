@@ -9,11 +9,11 @@ tags:
   - Culture
   - Innovation
   - Lean
-main_image: 'http://i.imgur.com/UkJaBbK.jpg?1'
+main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a537e2c5839cb07a8c8453f9df2997f9.jpg?1'
 ---
 I spent Wednesday morning visiting the Digital Team at Newham Council, to attend the first Show & Tell of their [10-week Digital Customer Programme Discovery Phase](https://unboxed.co/news/unboxed-is-awarded-digital-customer-programme-discovery-phase-contract-with-newham-council/).<br/>
 
-![Newham Council Digital Customer Programme Discovery Phase 1](http://i.imgur.com/407co5S.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/72c05e7ef6d443c6b38777aff5958dac.jpg)
 
 Over the last week, a small Unboxed team have been working alongside the Digital Team at Newham Council to take the first steps in transforming how they deliver their key services to 325,000 local residents, as well as making these services increasingly efficient for the council, through taking an innovative approach.<br/>
 
@@ -38,7 +38,7 @@ The team kick-started progress by holding an Inception Workshop to align the pro
 - Planning for the current Discovery phase and thinking about early-stage visions
 - Addressing the risks and assumptions surrounding this 10-week phase
 
-![Newham Council Digital Customer Programme Discovery Phase 3](http://i.imgur.com/7WI0jFM.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/13c579103ab4f87349a74c8a47032996.jpg)
 
 <br/>
 ## 2. Service team introductions
@@ -58,7 +58,7 @@ The necessary systems have been set up by the team to establish how they can suc
 - Sharing calendars and online document folders for collaborative working
 - Planning further stakeholder engagement
 
-![Newham Council Digital Customer Programme Discovery Phase 4](http://i.imgur.com/6KhRVfs.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3936629034fba93840ac5d0c9635d263.jpg)
 
 In the final part of the Show & Tell, the team shared the activities they aim to cover across Sprint Two:<br/>
 
@@ -71,7 +71,7 @@ In the final part of the Show & Tell, the team shared the activities they aim to
 <br/>
 # Debrief and plan of action
 
-![Newham Council Digital Customer Programme Discovery Phase 5](http://i.imgur.com/E4sGVoS.jpg)
+![Newham Council Digital Customer Programme Discovery Phase 5](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b8799248985e4824ba40d6c1093d099d.jpg)
 
 With the Show & Tell wrapped up in exactly 20 minutes, the team sat together to debrief, sharing how each person thought the session went and discuss the plan of action for the afternoon, focussing mostly around user interview activities with local residents:<br/>
 

@@ -13,14 +13,14 @@ tags:
 
 Wednesday 18th February saw the Digital Healthcare Roundtable Session take place at Unboxed Consulting.<br/>
 <br/>
-![healthcare0](http://i1291.photobucket.com/albums/b548/grammccram/DSC01779_zpsd4fmmo16.jpg)
+![healthcare0](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/625db603b45ad19a560cda19be69cee3.jpg)
 
 <br/>
 The session brought together a handpicked and diverse group of healthcare experts and leaders, with the aim to start a revolution in digital healthcare. Ideas were explored and exchanged about how we can do more to improve public health with digital technology, in this one-off discussion.<br/>
 <br/>
 [Martyn Evans](/people#martyn-evans) and [Carrie Bedingfield](/people#carrie-bedingfield) both attended from Unboxed Consulting, with Carrie chairing the session.<br/>
 <br/>
-![healthcare1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-24%20at%2011.51.23_zpskt1lvghp.png)
+![healthcare1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/8bd83f75a8d98ef93bf74ecf558f5f0b.png)
 
 With everyone comfortably seated, the discussion was opened, addressing the initial questions:<br/>
 
@@ -46,12 +46,12 @@ As CTO of GoodGym, Ian is using software and design to address problems associat
 
 With the presentations wrapped up, the session then moved on, gathering ideas for the following discussion topics, with each topic voted being on:<br/>
 <br/>
-![healthcare2](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-24%20at%2013.08.52_zpsr1tnaers.png)<br/>
+![healthcare2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/dff322dae25267bddba403c00b25fbeb.png)<br/>
 <br/>
 The four most popular topics were then identified and brought to the group discussion:<br/>
 <br/>
 
-![healthcare3](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-02-24%20at%2017.12.36_zps6x8herpg.png)
+![healthcare3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/13eef31d83c55ad5a30999276231183c.png)
 
 <br/>
 <h1>Discussion 1: Scale</h1>

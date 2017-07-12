@@ -7,13 +7,13 @@ authors:
 tags:
   - Agile
   - Innovation
-main_image: 'http://i.imgur.com/EY92Asn.jpg'
+main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2610baf56fc733c3b806989d3f00b645.jpg'
 ---
 <i>As a network for digital practitioners in local government, [LocalGov Digital](http://localgovdigital.info/) is on a mission to raise standards in web provision and the use of digital by councils across the country.<br/>
 
 The London Peer Group is aiming to focus on raising awareness of the Service Standard across the individual 32 boroughs of London, through a series of TeaCamps. [LoGov Platform](http://logovplatform.co.uk/) is supporting the London Peer Group by providing sponsorship and support.</i><br/>
 
-![Local Government Digital Service Standard 1](http://i.imgur.com/8VWjqrJ.png)
+![Local Government Digital Service Standard 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/fc2289b5a042b55279d13402451ba873.png)
 
 It’s been a whole six weeks since [the first Local Government Digital Service Standard (LGDSS) TeaCamp](https://unboxed.co/blog/local-government-digital-service-standard-teacamp-1/) took place, launching the London Peer Group and the movement of the Service Standard across the boroughs of London.<br/>
 
@@ -32,7 +32,7 @@ This month we have attendees from:<br/>
 # Introductions
 With informal chats coming to a close, seats eagerly pulled up to the front - it’s time to begin. Introducing this afternoon’s session is a familiar face - it’s [Natalie Taylor](https://twitter.com/NatalieRobson) from [City Hall](https://www.london.gov.uk/), as one of the London Peer Group committee co-chairs:<br/>
 
-![Local Government Digital Service Standard 2](http://i.imgur.com/EY92Asn.jpg)
+![Local Government Digital Service Standard 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2610baf56fc733c3b806989d3f00b645.jpg)
 
 Welcoming everyone to the session, Natalie shares the fantastic announcement that City Hall has been shortlisted for a Digital Council award. It’s great to hear that such a digital-savvy team within the public sector are receiving recognition for the great things they’re doing.<br/>
 
@@ -40,7 +40,7 @@ Welcoming everyone to the session, Natalie shares the fantastic announcement tha
 # Point #1 of the Local Government Digital Service Standard
 With announcements done and dusted, the room is ready and raring to find out what’s in store for this TeaCamp installment. Natalie shares the outline of this session - we’re heading straight back to [Point #1 of the Local Government Digital Service Standard](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/1):<br/>
 
-![Local Government Digital Service Standard 3](http://i.imgur.com/pht0ise.png)
+![Local Government Digital Service Standard 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/fe54f0926f58e02110c6196ed4d39cda.png)
 
 Taking us through this point, based all around understanding your user needs, is a team of two:<br/>
 
@@ -56,7 +56,7 @@ The team creating the service should have a good understanding of user needs tha
 
 There are many ways to achieve this and they are documented in the learning user needs section of the <u>Government Service Design Manual</u>.’</i><br/>
 
-![Local Government Digital Service Standard 4](http://i.imgur.com/rpJhUIy.jpg)
+![Local Government Digital Service Standard 4](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/71c8f8afc82be55231be71b896c68409.jpg)
 
 <i>“Point one is the number one point”.</i><br/>
 
@@ -73,7 +73,7 @@ Taking the group through further detail into this project, some key insights to 
 - There’s no point in starting a service if you don’t have the political buy-in for it - you won’t be able to shout about it once you’re done!
 <br/>
 
-![Local Government Digital Service Standard 4-1](http://i.imgur.com/ttf2F2H.jpg)
+![Local Government Digital Service Standard 4-1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/339f34ac70e445483ab07f8579ecc12f.jpg)
 
 <br/>
 Continuing, Chris also shares some of the tasks involved when introducing a new service:<br/>
@@ -94,7 +94,7 @@ Chris concludes this part of the session by recapping each individual point arou
 # Royal Borough of Kensington & Chelsea: a case study
 With a first example of Point #1 of the Service Standard in working practice wrapped up, it’s now time for Steph to take to the front:<br/>
 
-![Local Government Digital Service Standard 5](http://i.imgur.com/MMJaHIv.jpg)
+![Local Government Digital Service Standard 5](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b8fb1b26b199c40c17959d50dcf1a65c.jpg)
 
 Providing a further example of Point #1 in practice, Steph shares a case study of a project she has undertaken with the Royal Borough of Kensington & Chelsea.<br/>
 
@@ -117,7 +117,7 @@ As an example of user testing techniques, Steph introduces guerrilla testing and
 
 Armed with just an iPad, she took to the busy crowds of London to find out if residents understand the main banner featured on the [london.gov.uk](https://www.london.gov.uk/) website:<br/>
 
-![Local Government Digital Service Standard 6](http://i.imgur.com/ojzf82k.png)
+![Local Government Digital Service Standard 6](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/96bf1f77b24f0cb57336eb00b03a14e8.png)
 
 Through guerrilla testing, Steph focused on whether residents understood the global ramifications of having London’s City Hall on the banner.<br/>
 

@@ -12,7 +12,7 @@ July saw our CTO, Andrew White host the Ruby on Rails 4.2 networking breakfast, 
 
 Members of the Ruby community attended this one-off session to hear what’s coming in Rails 4.2, straight from our very own Ruby on Rails contributor and Rails Core Team Member.
 
-![Breakfast](http://i62.tinypic.com/2057dcx.png)
+![Breakfast](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/7d7c68dc23e8a659d6f6f4993b8fb8fb.png)
 
 The morning began with a delicious standing breakfast, giving everyone the chance to meet, chat and mingle. This was a fantastic opportunity for to introduce our London office and members of the team.
 
@@ -27,13 +27,13 @@ Andrew then took to the floor to guide us through the upcoming changes in Ruby o
 
 The timeline of release was also discussed, which included the beta release, release candidate and final release dates.
 
-![Breakfast2](http://i59.tinypic.com/25pkfon.png)
+![Breakfast2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/cc64057e9ba16f0eeee65533181d4f88.png)
 
 We were also taken through the various student programs available, such as Google Summer of Code and Facebook OpenAcademy, which help gain awareness of Rails opportunities to students.
 
 To finish, a Q&A session with the audience took place. The issue of a lack of Rails contribution from the UK Ruby community was raised, with there being a notable lack of UK contribution compared to that of other worldwide Ruby communities.
 
-![Breakfast3](http://i57.tinypic.com/303fzuh.png)
+![Breakfast3](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/7a5aa5e1c364ac4c240b49af342e02c9.png)
 
 The session then came to a close with Andrew answering individual questions and reflecting further on what had been discussed in the Q&A session.
 

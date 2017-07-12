@@ -6,7 +6,7 @@ authors:
   - Matt Turrell
 tags:
   - Agile
-main_image: 'http://i.imgur.com/RjCt9QL.png'
+main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f448a3146ba24acdf173ca9694dbd58a.png'
 ---
 I was with a developer friend recently who asked to pick my mind on an agile challenge he’s been experiencing at work.<br/>
 
@@ -22,7 +22,7 @@ For me, splitting testing into sprint +1 is a step (or two) too far.<br/>
 
 One of the main benefits of Scrum is that during each sprint, you’re producing potentially shippable functionality to add value for the users.<br/>
 
-![Scrum board in action](http://i.imgur.com/RjCt9QL.png)
+![Scrum board in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f448a3146ba24acdf173ca9694dbd58a.png)
 
 <br/>
 The longer it takes to get that functionality ‘done’, the less agile you’re being.<br/>
@@ -43,7 +43,7 @@ So, what techniques could you use to mitigate this and get everything completed 
 # Pairing
 Absolutely all team members are responsible for getting stories in the sprint completed. Testers can be writing the automated tests while the developers are writing the code. They can work closely together through development, ensuring that there are no surprises for either party when running the code in a test/integration environment.<br/>
 
-![Developer and tester pairing](http://i.imgur.com/m4zJPRI.png)
+![Developer and tester pairing](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b35657c3ac95d1d409adb4637327432b.png)
 
 <br/>
 Working like this will minimise the bugs found if there does end up being a hand-off between dev and test. The automated tests will all be ready at roughly the same time as ‘code complete’ and only a handful of manual tests should be required.<br/>
@@ -52,7 +52,7 @@ Working like this will minimise the bugs found if there does end up being a hand
 # Visibility ASAP
 The earlier your PO has sight of the functionality, the earlier everyone’s expectations are aligned, helping to minimise last minute surprises when (s)he’s running through stories to sign them off. A good way of doing this is to ask the team to demonstrate functionality to the PO before completing pull requests. It may not be the whole user story, but it shows where it’s going early on.<br/>
 
-![Demonstrating functionality](http://i.imgur.com/5DxzGT7.png)
+![Demonstrating functionality](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/8e5f925f43989f1a80da8c14151244bb.png)
 
 <br/>
 # Granularity
@@ -61,7 +61,7 @@ Make stories smaller. There’s almost always a way to make a story smaller, but
 
 The point of stories is that they’re small, independent and user-oriented.<br/>
 
-![Smaller stories](http://i.imgur.com/tVrarS5.png)
+![Smaller stories](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/59129b7caff50683745dd3a6c80a4e3b.png)
 <br/>
 
 If the team want to implement two stories together as one, remind them that the bigger the piece of work the longer it’ll take, the more testing there is and the more complexity (a.k.a. risk of bugs and misinterpretation). In turn that means the story may not get completed in the sprint.<br/>
