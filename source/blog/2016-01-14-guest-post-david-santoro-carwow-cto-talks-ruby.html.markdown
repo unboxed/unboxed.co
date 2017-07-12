@@ -4,7 +4,7 @@ authors:
 tags: 
   - Agile
   - Rails
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Carwowscreenshot-of-offer-page-64f52111e4abd0061ec79f9fe166798d_zpsyzlcomzt.jpg"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a461de497a63a4d634ba36a2da0524d3.jpg"
 date: "2016-01-14 13:00 +0000"
 published: false
 title: "Guest post: David Santoro, carwow CTO, talks Ruby"
@@ -15,9 +15,9 @@ title: "Guest post: David Santoro, carwow CTO, talks Ruby"
 
 ## carwow’s David Santoro talks Ruby, Extreme Programming and creating a unique space to scale a digital product
 
-![Car wow](http://i1291.photobucket.com/albums/b548/grammccram/large_blue-logo-440px_zpsflpmbgcj.png)
+![Car wow](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fcb5243f3c7978d0a42ec6137ab30dd1.png)
 
-![David Santoro Carwow](http://i1291.photobucket.com/albums/b548/grammccram/david-santoro_zpsn3wm9evi.jpg)
+![David Santoro Carwow](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/af90c9912de7793a62a4acbe8915b9ff.jpg)
 
 This month, we talk to [David Santoro](https://twitter.com/soulnafein), co-founder of one of the brightest new digital products for the car market - [carwow](https://www.carwow.co.uk). What does it take to scale a digital product in a traditional and crowded market? Why is Ruby on Rails the language of choice? And what does ‘hiring great people’ mean in reality?<br/>
 <br/>

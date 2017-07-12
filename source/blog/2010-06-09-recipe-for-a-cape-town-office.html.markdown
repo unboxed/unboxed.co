@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-<p style="text-align: center; "><img width="240" height="180" alt="photo" src="http://farm5.static.flickr.com/4001/4687780492_53a75112be_m.jpg" /></p>
+<p style="text-align: center; "><img width="240" height="180" alt="photo" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/34d3f9e409a5526347abe4b91dc3f6a5.jpg" /></p>
 <ol>
   <li>Search for office space from the Waterfront to Muizenberg and settle on a great and gorgeously located building in Constantia close to some superb vineyards, the names of which are a challenge (for some) to pronounce. Uitsig anyone?</li>
   <li>Tear down dividing walls and create some open plan space.</li>

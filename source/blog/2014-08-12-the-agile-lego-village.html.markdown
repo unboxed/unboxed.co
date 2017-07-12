@@ -10,11 +10,11 @@ tags:
 
 Last week, a small team of us took part in the Introduction to Agile course, right here at Unboxed Consulting HQ.
 
-![Lego1](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0015_zps8af64e29.jpg)
+![Lego1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8f68860b9e3230ada2f39cb7b59af4f9.jpg)
 
 Alex Bobin, Charlie Egan, [Paula Stepinska] (/people#paula-stepinska), [Oskar Pearson] (/people) and myself ([Graeme McCubbin] (/people#graeme-mccubbin)) all spent the day taking this internal version of the course, hosted by our very own Rakesh Patel (with Priyanka Sushil on camera duty!)
 
-![Lego2](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0158_zpse95cc3fa.jpg)
+![Lego2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/855adf988a3e928c13271a1f8a4ae416.jpg)
 
 The day began with an insight into Agile terminology and exploring each different role to see how they all integrate together to make a truly Agile team. We were also taken through processes and methods of working in an Agile way.
 
@@ -22,7 +22,7 @@ The theoretical section was spread across the morning, then in the afternoon the
 
 As a team, we were given a scenario that required us to work together to create a LEGO village:
 
-![Lego3](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0058_zps037f6904.jpg)
+![Lego3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/baf75d96c9f57616e2a36f2c08a4b0fb.jpg)
 
 Sounds straightforward, right?
 
@@ -30,11 +30,11 @@ Then the Agile aspect of the course came into play, with each LEGO feature prese
 
 Cue the frantic build…
 
-![Lego4](http://i1291.photobucket.com/albums/b548/grammccram/f022a733-a0a6-4c28-8633-06edad42095b_zps7bf43fdd.jpg)
+![Lego4](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/63128f8814c706c97b3e9a54a7209638.jpg)
 
-![Lego5](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0115_zps1347d62a.jpg)
+![Lego5](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/182ff6575399e29298c86012f328fe43.jpg)
 
-![Lego6](http://i1291.photobucket.com/albums/b548/grammccram/DSC_0114_zps600f298a.jpg)
+![Lego6](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4cdbe21e3ad8b2b95ed0dae938ea2de3.jpg)
 
 Five people, three sprints and a lot of acceptance criteria later, this is how our LEGO village looked:
 

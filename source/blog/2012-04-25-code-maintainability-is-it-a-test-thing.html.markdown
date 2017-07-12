@@ -9,7 +9,7 @@ tags:
   - Rails
 ---
 
-<p><img alt="All code is guilty until proven innocent" src="http://farm8.staticflickr.com/7239/7112521903_1a6df93dee.jpg" style="width: 283px; height: 263px; " /></p>
+<p><img alt="All code is guilty until proven innocent" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f5115786166fcadc56e94bf4bb38c872.jpg" style="width: 283px; height: 263px; " /></p>
 <p>It has come to my attention of late that there is some clear separation in the testing world about how we write our tests and the level they are written at. &nbsp;In this separation I see 2 groups of people:</p>
 <p>- The first group enjoy testing their applications at each level of the stack; model tests for models, controller tests for controllers, view tests for views, or if you prefer integration tests to test the integration of models, views, and controllers and all your other code as a whole, in a much more high level fashion.&nbsp;</p>
 <p>- The second group prefers a slightly more loose approach to testing; they favour the approach of testing components of their application less in isolation, comparable in some sense to integration testing alone. Let&rsquo;s take an example of a simple Cucumber approach to testing to demonstrate what I mean:</p>

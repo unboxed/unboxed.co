@@ -28,7 +28,7 @@ Among the insights shared were:<br/>
 <h1>Get your teams structured in a more efficient way:</h1>
 • Imagine your development team as being an efficient sausage machine, and your functional requirements that go into that machine are, as quickly as possible, being produced as sausages<br/>
 
-![webinar1](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202015-01-27%20at%2011.44.18_zpsodhucwcd.png)<br/>
+![webinar1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6e4143fadccfaddb5d62f30624e1b336.png)<br/>
 
 • What not to do: throw more developers at a problem - it’s about communication, not speed of typing<br/>
 • Your production pipeline is similar to the flow of traffic on a motorway – as you start adding cars to that motorway, the average speed starts dropping<br/>

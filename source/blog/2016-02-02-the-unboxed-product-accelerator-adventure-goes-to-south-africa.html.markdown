@@ -5,7 +5,7 @@ tags:
   - Culture
   - Innovation
   - Lean
-main_image: "http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.20.19_zpslgtell13.png"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b1ca78023a621c1f72db784b0b5fc535.png"
 date: "2016-02-02 11:13 +0000"
 published: true
 title: The Unboxed product accelerator adventure goes to South Africa
@@ -23,11 +23,11 @@ With three days to go, we’re about to fly out and we have three teams signed u
 
 [Jack Hubbard](https://twitter.com/jackhubbard), our co-conspirator and founder of [Dream Valley Projects](http://www.dreamvalleyprojects.co.uk) is there when we arrive and suddenly it’s real.
 
-![Jack Hubbard](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.30.25_zpslfedefxv.png)
+![Jack Hubbard](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cd1b8327e89410f7701ce59169f90234.png)
 
 It’s Friday night. We’re about to launch. 18 teams and 25 people arrive for opening drinks in our glorious venue - Silwood This is start up acceleration among the trees, birds and hardidaas. It’s December and I’m in my flip flops welcoming Cape Town’s most open, creative and smart entrepreneurs with drinks, music and an inspiring talk from Jack Hubbard. It’s hard to believe this is work.
 
-![Friday](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2014.11.32_zpsrjxklu4d.png)
+![Friday](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3786c221dd4afc52e9f8bc94bb8d4dd0.png)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Hungry entrepreneurs <a href="https://t.co/DzNMw5lZ21">pic.twitter.com/DzNMw5lZ21</a></p>&mdash; Techqala Accelerator (@techqala) <a href="https://twitter.com/techqala/status/673447960705933312">December 6, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
@@ -39,11 +39,11 @@ The 9-day programme is structured into three parts:<br/>
 2.	Validate your persona, problem and solution<br/>
 3.	Articulate and share your product with the world<br/>
 
-![Techqala](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.20.19_zpslgtell13.png)
+![Techqala](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0f83af039a91e62da17d5402b8b60f71.png)
 
 We spend mornings learning a concept and its associated tools over brunch, under the trees. In the afternoon, each team goes out and ‘does stuff’ – talks to customers, builds things, runs experiments. We gather back together early evening for beers and more learning.
 
-![Pitch](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.30.10_zpssazbobrg.png)
+![Pitch](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f04b608462aa5afb393e1a4b260dea3c.png)
 
 Richard does his uncomfortable but powerful ‘destroy your business’ exercise but sadly doesn’t get the opportunity to do my personal favourite ‘Faster Horse’. 
 
@@ -52,6 +52,7 @@ I do my ‘I of Steel’ exercise and get some improv going. I also help people 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/hkD6LF_xvZU" frameborder="0" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Whoop whoop for the demo day viewers! <a href="https://t.co/vqvN34WiUY">pic.twitter.com/vqvN34WiUY</a></p>&mdash; Techqala Accelerator (@techqala) <a href="https://twitter.com/techqala/status/675972930325585920">December 13, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
 
 We spend the 9 days deeply impressed by the quality of the people and ideas in Cape Town. We love how real and human people are. How honourable and how sharp.
 
@@ -66,7 +67,7 @@ We spend the 9 days deeply impressed by the quality of the people and ideas in C
 - Fourteen exceptionally crisp and meaningful 3min pitches at the demo day
 - Presenting all the participants with Techqala alumni business cards and sharing the video of the journey
 
-![Business cards](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2014.03.31_zpsggastkib.png)
+![Business cards](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f300f92a3a8a931758154d3f8b37eac2.png)
 <br/>
 
 # What we learned
@@ -77,7 +78,7 @@ We spend the 9 days deeply impressed by the quality of the people and ideas in C
 - The size of group is part of the buzz - more than fifteen creates energy of its own
 - Weaving work, play and normal life together enables people to bring all of themselves and think bigger and with more clarity
 
-![Overstimulated](http://i1291.photobucket.com/albums/b548/grammccram/Screen%20Shot%202016-02-02%20at%2011.30.42_zpshi91khhi.png)
+![Overstimulated](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d6137222c51ca6f7ebe846126b829778.png)
 
 Follow [@techqala](https://twitter.com/techqala) on Twitter
 

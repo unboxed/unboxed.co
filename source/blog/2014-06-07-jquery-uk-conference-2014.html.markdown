@@ -60,13 +60,13 @@ In summary, conferences are awesome because...
 
 2) You see people speak who's name you're used to reading on API docs
 
-![Yehuda Katz talking about Why you should use Ember](https://lh3.googleusercontent.com/-7nLEdbR86Ik/U3nNAKVHUVI/AAAAAAAACYg/QPUWY9kpnZM/w1848-h1106-no/2014-05-19)
+![Yehuda Katz talking about Why you should use Ember](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6adc3d385da5eec7ae7a59a1370f4744.)
 
 (Yehuda Katz on Ember.js)
 
 3) You meet like-minded people
 
-![Nerdvana: the Retro Gaming lounge](https://lh3.googleusercontent.com/-6IOK5mpmC8g/U3nOBIWfzdI/AAAAAAAACY0/Z5_W5WNX5xg/w1848-h1106-no/2014-05-19)
+![Nerdvana: the Retro Gaming lounge](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2f5971dd15c35a30c0393bcfacbdc783.)
 
 (Nerdvana: the Retro Gaming lounge)
 
