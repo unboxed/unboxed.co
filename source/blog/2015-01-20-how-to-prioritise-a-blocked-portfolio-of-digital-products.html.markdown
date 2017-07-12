@@ -27,7 +27,7 @@ Gather a meeting for all your stakeholders in a room with a huge flat surface; a
 
 <h2>Step 3.</h2>
 
-![portfolio1](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2015-01-19at170806_zpsc8df8cab.png)<br/>
+![portfolio1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a08a96f1cbe0ef92215cee4969ba39c6.png)<br/>
 Lay out 4 PINK post-its across the table with ‘XL’, ‘L’, ‘M’ and ‘S’ written on them. Run a very simple t-shirt sizing exercise to get stakeholders to indicate the relative size of benefit/value of each project to the organisation. Create four piles – XL, L, M and S. You’ll have one pile that has most of the cards on it and you just need to keep working through that list until you have roughly equal size piles of cards. In RED, write ‘XL’ on the cards in the XL pile, ‘L’ on the cards in the L pile, etc.<br/>
 <br/>
 

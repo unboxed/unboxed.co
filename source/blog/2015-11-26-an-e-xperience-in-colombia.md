@@ -3,7 +3,7 @@ authors:
   - Martyn Evans
 tags: 
   - Innovation
-main_image: "http://i963.photobucket.com/albums/ae115/Ubxd/martyn-speaking-colombia_zpscahcr9us.jpg"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/36bbe36e71ff7261c130acfc9607ef94.jpg"
 date: "2015-11-26 15:49 +0000"
 published: true
 title: "An E-xperience in Colombia"
@@ -15,16 +15,16 @@ title: "An E-xperience in Colombia"
 ##Public Digital Innovation
 I received a surprise invitation in September from Angelica Bello ([@hracangie](https://twitter.com/Huracangie)) from the Colombian Ministry of ITC ([@Ministerio_TIC](https://twitter.com/Ministerio_TIC)) to speak at their annual [e-xperience](http://experience.gobiernoenlinea.gov.co/) event ([@Gobiernoenlinea](https://twitter.com/Gobiernoenlinea)). This two day conference is designed to boost public digital innovation in Colombia and Latin America by providing around 300 public servants with a series of talks and workshops. Angelica had attended my talk on [SH:24](https://sh24.org.uk/) at Service Design in Government in London earlier in the year and felt it would provide an inspiring session.
 
-![Martyn Evans and Chris Howroyd in Manizales, Colombia](http://i963.photobucket.com/albums/ae115/Ubxd/colombia-martyn-chris_zpsjid3rqpa.jpg)
+![Martyn Evans and Chris Howroyd in Manizales, Colombia](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a60ae474ea82dfe732e0b1069c40dae3.jpg)
 
 Two months later, I arrived in the mountainous coffee region of Colombia in the city of Manizales with Chris Howroyd ([@chrishowroyd](https://twitter.com/chrishowroyd)) from SH:24. During the outbound journey Chris and I had discussed at length the nature of innovation, the over specialisation of design and the importance of purpose in our work, all of which set us up nicely for the e-xperience ahead.
 
 ##A Translated E-xperience
 We spent an interesting couple of days at the conference trying to keep pace with the workshops and talks, embarrassed by our atrocious linguistic skills and extremely grateful for the work of the translation team and the various English/Spanish speakers who helped us out. Special thanks go to our fellow guests Jean Barroca ([@jeanbarroca](https://twitter.com/jeanbarroca)) from the World Bank and Elisabeth Leegwater ([@lizBCN](https://twitter.com/lizBCN)) who effortlessly managed to deliver their own contributions in Spanish (a second language for them both) whilst making sure the two English guys were keeping up (in a third language).
 
-![Martyn Evans speaking about digital service design in Colombia](http://i963.photobucket.com/albums/ae115/Ubxd/martyn-speaking-colombia_zpscahcr9us.jpg)
+![Martyn Evans speaking about digital service design in Colombia](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/36bbe36e71ff7261c130acfc9607ef94.jpg)
 
-![Martyn Evans and Chris Howroyd in Manizales, Colombia](http://i963.photobucket.com/albums/ae115/Ubxd/martyn-chris-interpreted_zpsquxyiatp.jpg)
+![Martyn Evans and Chris Howroyd in Manizales, Colombia](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/9c4ddd87c2d838ce6c82f42c26c584f1.jpg)
 
 ##Common Values
 Above all, what I learned about Colombia from the conference is this:
@@ -43,7 +43,7 @@ During a workshop facilitated by Jean Barocca, cross functional teams were asked
 
 These seem pretty transferable to me.
 
-![Nevado del Ruiz](http://i963.photobucket.com/albums/ae115/Ubxd/Columbia-fog_zps0uqp9ub4.jpg)
+![Nevado del Ruiz](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/700b6e6924b8e3f6d4ffa8a3a5dbb260.jpg)
 
 ##Colombian Dream
 

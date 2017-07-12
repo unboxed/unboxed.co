@@ -39,7 +39,7 @@ hosted storage offerings - that apparently only dropped ~100 files out of the 3
 petabytes of data. 'Coldline' was also announced at the same price point as AWS
 Glacier - only markedly faster.<br/>
 
-![GCP audience](http://imagizer.imageshack.us/a/img922/7448/WzW0xt.jpg)
+![GCP audience](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/c8b18ac68538523f850af0238ec94ca6.jpg)
 
 <br/>
 # Rats and soft drinks: stories from the IoT frontline
@@ -112,7 +112,7 @@ the possibilities to store images, videos or other large files, and how to use
 Firebase Analytics. There is no doubt that these are many examples of
 infrastructure advantages that developers now won't have to worry about anymore.<br/>
 
-![Firebase session](http://imageshack.com/a/img921/4791/bGWQv6.jpg)
+![Firebase session](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/7f1902a9a2bd806b46de4df4521651a4.jpg)
 
 <br/>
 # Presentation #2: Tensorflow and deep learning (without a PhD)
@@ -137,4 +137,4 @@ strives to take a machine learning mainstream, and with Vision, Speech or
 Natural Language APIs, we're much closer to developing applications that can
 “understand” the world around them.
 
-![Martin Gorner and TensorFlow in action](http://imageshack.com/a/img923/8261/3ZiPHl.jpg)
+![Martin Gorner and TensorFlow in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/867f84881ef4b51e2328806772c0cbfd.jpg)

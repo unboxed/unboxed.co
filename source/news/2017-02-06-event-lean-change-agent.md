@@ -10,7 +10,7 @@ Based on Richard's 10-year practice of leading change, and the techniques laid o
 <b>Date:</b> Thursday 20th and Friday 21st April 2017<br/>
 <b>Location:</b> Unboxed, 17 Blossom Street, London, E1 6PL<br/>
 
-<a href="https://www.picatic.com/lean-change-agent-london-april?utm_source=promotion&utm_medium=button&utm_campaign=100620" target="_blank"> <img border="0" src="https://www.picatic.com/img/picatic-buy-button-grey.png" alt="Buy Tickets For This Event" /> </a>
+<a href="https://www.picatic.com/lean-change-agent-london-april?utm_source=promotion&utm_medium=button&utm_campaign=100620" target="_blank"> <img border="0" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/b6d99db4693d23fd73e76929e50732d2.png" alt="Buy Tickets For This Event" /> </a>
 
 ![Lean Change Agent 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d383782b39e5e9fc07a1a8b25a70290a.PNG)
 

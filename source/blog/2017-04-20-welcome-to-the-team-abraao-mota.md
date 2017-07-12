@@ -6,13 +6,13 @@ authors:
   - Abraao Mota
 tags:
   - Culture
-main_image: 'http://i.imgur.com/ywkicpB.png'
+main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/38051d0f85bb26e86f323de9266bd9a0.png'
 ---
 As a new addition to the Unboxed team in London, I’m Abraao...<br/>
 
 I'm currently pursuing my Computing Masters at Imperial College London and I'm interested in everything computing, especially if it's related to the web. I’ll be spending the next 6 months at Unboxed, as part of my Industrial Placement.<br/>
 
-![Welcome to the team - Abraao Mota 1](http://i.imgur.com/ywkicpB.png)
+![Welcome to the team - Abraao Mota 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/38051d0f85bb26e86f323de9266bd9a0.png)
 
 I’m from Portugal but I’ve grown up in London and have lived here for most of my life. I have been trying my hand at web development for some time now and have continuously strived to improve my skills while learning new languages and frameworks along the way. From Haskell, to Java and Python and some others inbetween, I’m not afraid to get my hands dirty on new things, and I’ve found that you’ll always learn something valuable along the way.<br/>
 
@@ -21,7 +21,7 @@ I started dabbling in Ruby about two years ago in personal projects and last yea
 Unboxed offers an opportunity to expand my skills beyond that and to take my knowledge of Ruby on Rails, and professional development using Agile, to new heights. I also really value the culture of taking time to improve yourself. As such, I will be looking for ways to expand my knowledge of Web Security through Innovation Days, possibly even a conference.<br/>
 <br/>
 
-![Welcome to the team - Abraao Mota 2](http://i.imgur.com/HJKNxV2.png)
+![Welcome to the team - Abraao Mota 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a71d2abaeaa9347f54e62b1975e591f6.png)
 
 <br/>
 So far I’ve been kept busy by going through the New Joiners Induction game, as well as improving the speed and reliability of a website by migrating images hosted all over the web onto a single reliable source in Amazon S3. To complement this, I’m working on S3ify, a website to make the process of adding S3 images to this website easier and more consistent for those involved in regular updates.<br/>

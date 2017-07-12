@@ -40,7 +40,7 @@ After a short break, Veronika went to a workshop about 'automated testing of mob
 
 Back in the main track, [Lea Verou](http://twitter.com/LeaVerou) introduced us to  colourful things. She presented some interesting demos about [The Chroma Zone: Engineering Color on the Web](http://leaverou.github.io/chroma-zone) and showed us how useful CSS colour names can be:
 
-[![Gray, dark gray](https://pbs.twimg.com/media/BnwSZxsIUAACr2-.jpg:large)](https://twitter.com/tomsabin/status/467268696470482944)
+[![Gray, dark gray](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/eadd1430e5768c38236ffe46dad091e3.jpg:large)](https://twitter.com/tomsabin/status/467268696470482944)
 
 The demos she showed us can be seen on her [GitHub](https://github.com/LeaVerou) account, but here are handful I think are definitely worth checking out:
 
