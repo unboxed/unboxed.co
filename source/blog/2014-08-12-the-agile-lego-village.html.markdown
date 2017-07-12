@@ -38,7 +38,7 @@ Cue the frantic build…
 
 Five people, three sprints and a lot of acceptance criteria later, this is how our LEGO village looked:
 
-![Lego7](http://i57.tinypic.com/2i117gz.jpg)
+![Lego7](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/055c106e905f6c21876f957cfec001f9.jpg)
 
 Overall, I found the course to be great fun but also very insightful, the theory section really set up for the practical part. I also found the use of LEGO, and the scenario of a village, helped make the Agile process very clear by experiencing it in a practical situation.
 

@@ -4,7 +4,7 @@ authors:
 tags: 
   - Rails
   - Innovation
-main_image: "http://i.imgur.com/jxhQ4jE.jpg"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3d394385496873a4c7111eb840bdde38.jpg"
 date: "2016-09-05 12:00 +0000"
 published: true
 title: "Development Re-bundling in Dockerland"
@@ -13,7 +13,7 @@ has_syntax: true
 
 # Development Re-bundling in Dockerland
 
-![bundler_compose](http://i.imgur.com/jxhQ4jE.jpg)
+![bundler_compose](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3d394385496873a4c7111eb840bdde38.jpg)
 
 When starting out development on a Dockerized application, adjusting Dockerfiles and rebuilding images is a common task. Bringing together two separate services, as well as applying some gem security patches, we found ourselves doing this a lot. The repeated bundle installations quickly became very painful. Multi-tasking and regularly switching development branches only increased the number of repeated builds required.
 
