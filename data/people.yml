@@ -325,3 +325,13 @@
       link: "https://www.linkedin.com/in/vinul-wimalaweera"
     - name: "Github"
       link: "https://github.com/VinDel77"
+
+- name: "Dennis Tsiang"
+  short_name: "dennis-tsiang"
+  role: "Developer"
+  email: "dennis.tsiang"
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/dennis-tsiang"
+    - name: "Github"
+      link: "https://github.com/DennisTsiang"
