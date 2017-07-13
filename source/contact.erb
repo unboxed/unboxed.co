@@ -58,7 +58,7 @@ offices:
           <% if office.calendly_link %>
             <div class="contact-page-address__button-container">
               <a class="contact-page-address__button" href="<%= office.calendly_link %>"
-                 onClick="ga('send', 'event', 'Traffic to Other Websites', 'Click', 'Book a Meeting on Calendly');"
+                 onClick="sendToGaContactPageBookMeetingClickEvent()"
                  target="_blank">
                 <%= office.calendly_link_title %>
               </a>
@@ -73,7 +73,7 @@ offices:
           </div>
 
           <div class="contact-page-address__email">
-            <a href="mailto:<%= office.email %>">
+            <a href="mailto:<%= office.email %>" onclick='sendToGaContactPageEmailClickEvent()'>
               <i class="fa fa-envelope contact-page-address__email-icon"></i>
               <%= office.email %>
             </a>
@@ -106,3 +106,13 @@ offices:
     </div>
   <% end %>
 </div>
+
+<script type='text/javascript'>
+  function sendToGaContactPageEmailClickEvent() {
+    ga('send', 'event', 'Email link', 'Click', 'hellolondon@unboxed', '1');
+  }
+
+  function sendToGaContactPageBookMeetingClickEvent() {
+    ga('send', 'event', 'Traffic to Other Websites', 'Click', 'Book a Meeting on Calendly', '1');
+  }
+</script>
