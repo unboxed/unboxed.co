@@ -18,21 +18,6 @@ services:
       image: "/assets/images/homepage/service-change.jpg"
       text: "You could be working towards something amazing, but is the way you are working slowing you down? We are agile pioneers. We can show you how you can be too."
 
-additional_services:
-  title: "What we also do"
-  content:
-    - title: "Rescue your product"
-      image: "/assets/images/homepage/rescue-product.jpg"
-      text: "If a red light is flashing and something has gone wrong - don’t panic. If it can be fixed, we can fix it."
-
-    - title: "Your next phase"
-      image: "/assets/images/homepage/next-phase.jpg"
-      text: "Whichever phase you are heading into, let us jump in to provide clarity and insight for your journey through to live."
-
-    - title: "Support you"
-      image: "/assets/images/homepage/support-you.jpg"
-      text: "If we built it, we will support it. We will love your product for as long as you and your users love it."
-
 products:
   title: "Who we work with"
   content:
@@ -102,26 +87,6 @@ blog_title: "What we have been blogging about"
     <% current_page.data.services.content.each do |service| %>
       <div class="homepage-services__service">
         <div class="homepage-service">
-          <h3 class="homepage-service__title">
-            <%= service.title %>
-          </h3>
-          <%= image_tag service.image, alt: service.title, class: "homepage-service__image", srcset: retina_srcset(service.image) %>
-          <p class="homepage-service__paragraph">
-            <%= service.text %>
-          </p>
-        </div>
-      </div>
-    <% end %>
-  </section>
-
-  <section class="homepage-additional-services">
-    <h2 class="homepage-additional-services__title">
-      <%= current_page.data.additional_services.title %>
-    </h2>
-
-    <% current_page.data.additional_services.content.each do |service| %>
-      <div class="homepage-additional-services__service">
-        <div class="homepage-service homepage-service--white">
           <h3 class="homepage-service__title">
             <%= service.title %>
           </h3>
