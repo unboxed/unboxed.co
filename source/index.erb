@@ -9,12 +9,15 @@ services:
     - title: "Start your digital journey"
       image: "/assets/images/homepage/service-discover.jpg"
       text: "Finding the best route when transitioning to digital is hard. Work with our strategic agile teams to unearth, prioritise and validate the best digital opportunities for your customers and business."
+      link: "/product-stories/bucks-cc"
     - title: "Build your digital product"
       image: "/assets/images/homepage/service-build.jpg"
       text: "You want to move fast to bring your product to market, but you care about building the right product and building it the right way. Collaborate with our integrated agile design and development teams to progress to your solution."
+      link: "/product-stories/petitions"
     - title: "Transform for innovation"
       image: "/assets/images/homepage/service-transform.jpg"
       text: "You need to drive innovation throughout everything you do. Identify and respond quickly to the fast-paced change of digital. Team with us to build a culture of agile, cross-functional collaboration and continuous learning."
+      link: "/product-stories/sh24"
 
 products:
   title: "Who we work with"
@@ -92,6 +95,12 @@ blog_title: "What we have been blogging about"
           <p class="homepage-service__paragraph">
             <%= service.text %>
           </p>
+        </div>
+        <div class="homepage-service__button-container">
+          <a class="homepage-service__button" href=<%= service.link %>
+           onClick="sendToGaHomePageServiceClickEvent('<%= service.title %>');">
+            Explore a related project
+          </a>
         </div>
       </div>
     <% end %>
@@ -223,3 +232,9 @@ blog_title: "What we have been blogging about"
 </div>
 
 <%= partial 'book_meeting' %>
+
+<script>
+function sendToGaHomePageServiceClickEvent(serviceName) {
+  ga('send', 'event', 'Service', 'Click', serviceName, '1');
+}
+</script>
