@@ -1,5 +1,10 @@
 <a href="https://calendly.com/unboxed" class="book-meeting-bubble"
-   onClick="ga('send', 'event', 'Traffic to Other Websites', 'Click', 'Book a Meeting on Calendly');"
+   onClick="sendToGaBubbleCalendlyClickEvent()"
    target="_blank">
   <span class="book-meeting-bubble__text">Book a meeting</span>
 </a>
+<script type="text/javascript">
+  function sendToGaBubbleCalendlyClickEvent() {
+      ga('send', 'event', 'Traffic to Other Websites', 'Click', 'Bubble Book a Meeting on Calendly', '1');  
+  }
+</script>
