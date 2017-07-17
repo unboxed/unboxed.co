@@ -1,15 +1,21 @@
 .site-brand {
+  @include clearfix;
   @extend .container;
   box-sizing: border-box;
-  padding: 16px 20px 10px;
+  margin-bottom: 15px;
+  padding-right: 25px;
 
   @include breakpoint($tablet-breakpoint) {
-    float: left;
-    padding: 16px 20px;
+    padding-right: 20px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-right: 20px;
   }
 }
 
 .site-brand__link {
+  float: right;
   color: $purple;
   font-family: 'Helvetica Neue', 'Open Sans', 'Helvetica', sans-serif;
   font-size: 1.4em;
