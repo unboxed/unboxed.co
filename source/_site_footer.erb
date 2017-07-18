@@ -2,7 +2,7 @@
   <div class="site-footer__container">
     <div class="site-footer__tile">
 
-      <a class="site-footer__email-address" href="mailto:hello@unboxed.co">
+      <a class="site-footer__email-address" href="mailto:hello@unboxed.co" onclick='sendToGaFooterEmailClickEvent()'>
         hello@unboxed.co
       </a>
 
@@ -47,4 +47,9 @@
       </a>
     </div>
   </div>
+  <script>
+    function sendToGaFooterEmailClickEvent() {
+      ga('send', 'event', 'Email link', 'Click', 'hello@unboxed', '1');
+    }
+  </script>
 </footer>
