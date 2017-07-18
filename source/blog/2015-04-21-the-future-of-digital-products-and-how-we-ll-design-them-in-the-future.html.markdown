@@ -1,12 +1,13 @@
 ---
-date: "2015-04-21 09:15:00 UTC"
+date: '2015-04-21 09:15:00 UTC'
 published: true
-title: "The future of digital products and how we’ll design them in the future"
+title: The future of digital products and how we’ll design them in the future
 authors:
-  - "Leon Odey Knight"
+  - Leon Odey Knight
 tags:
   - Design
-
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8cfbd45a79028584c9bab40054cfebfd.PNG
 ---
 
 What will digital trends change about the digital product design process – it’s a hard question to answer. So I’ll start by unpicking how we currently design for digital…<br/>
@@ -23,7 +24,7 @@ I don’t think I can talk about digital products (i.e. apps, websites or interf
 <h2>Before we think about the future of digital, let’s talk devices</h2>
 Devices have, in many ways become a commodity, most of us have at least one and they are about as powerful as we need them to be for us to get things done. Whether you need a 7.5” screen to do those things on is another matter. Whatever size you go for there is no doubt that they are our lifeline to the <i>'world within the world’</i>.<br/>
 <br/>
-![image1](http://i1291.photobucket.com/albums/b548/grammccram/cfad3e2f-62a8-40d5-8255-d132ac395ebf_zpshowlh5gh.png)<br/>
+![image1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8cfbd45a79028584c9bab40054cfebfd.PNG)<br/>
 
 But what of the digital products that we view this world through? Are they, too, being commoditised? Do we need <i>another</i> social channel, music player, news feed or inaccurate fitness tracker?<br/>
 <br/>
