@@ -99,34 +99,37 @@ related:
       <%= current_page.data.roles.title %>
     </h2>
 
-    <% current_page.data.roles.content.each do |role| %>
-      <% if role.link %>
-        <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
-        <a class="jobs-page-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
-          <div class="jobs-page-tile__content">
-            <img class="jobs-page-tile__image" src="<%= role.image %>" alt="<%= role.name %>">
-            <h3 class="jobs-page-tile__title">
-              <%= role.name %>
-            </h3>
-            <p class="jobs-page-tile__paragraph">
-              <%= role.text %>
-            </p>
+    <div class="jobs-page-tile-container">
+      <% current_page.data.roles.content.each do |role| %>
+        <% if role.link %>
+          <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
+          <a class="jobs-page-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
+            <div class="jobs-page-tile__content">
+              <%= image_tag role.image, alt: role.name, class: "jobs-page-tile__image", srcset: retina_srcset(role.image) %>
+  <!--            <img class="jobs-page-tile__image" src="<%= role.image %>" alt="<%= role.name %>"> -->
+              <h3 class="jobs-page-tile__title">
+                <%= role.name %>
+              </h3>
+              <p class="jobs-page-tile__paragraph">
+                <%= role.text %>
+              </p>
+            </div>
+          </a>
+        <% else %>
+          <div class="jobs-page-tile">
+            <div class="jobs-page-tile__content--inactive">
+              <img class="jobs-page-tile__image" src="<%= role.image %>" alt="<%= role.name %>">
+              <h3 class="jobs-page-tile__title">
+                <%= role.name %>
+              </h3>
+              <p class="jobs-page-tile__paragraph">
+                <%= role.text %>
+              </p>
+            </div>
           </div>
-        </a>
-       <% else %>
-        <div class="jobs-page-tile">
-          <div class="jobs-page-tile__content--inactive">
-            <img class="jobs-page-tile__image" src="<%= role.image %>" alt="<%= role.name %>">
-            <h3 class="jobs-page-tile__title">
-              <%= role.name %>
-            </h3>
-            <p class="jobs-page-tile__paragraph">
-              <%= role.text %>
-            </p>
-          </div>
-        </div>
+        <% end %>
       <% end %>
-    <% end %>
+    </div>
   </section>
 
   <section class="component">

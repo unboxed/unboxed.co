@@ -1,0 +1,17 @@
+.jobs-page-tile-container {
+
+  overflow: hidden;
+
+  @include breakpoint($tablet-breakpoint) {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 280px;
+    justify-content: center;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    height: 320px;
+  }
+
+}
