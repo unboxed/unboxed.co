@@ -20,8 +20,8 @@ When preparing for each of these sessions, [Martyn](https://unboxed.co/people/#m
 
 We’ve had this conversation so many times that we now refer to all the materials we use to help us with these Innovation Surgery sessions as “the usual suspects”:<br/>
 
-- “Have we got all the usual suspects?”
-- “We do indeed. All present and accounted for.”
+“Have we got all the usual suspects?”<br/>
+“We do indeed. All present and accounted for.”<br/>
 
 Of course, an Innovation Surgery is just a small snapshot into what “innovation” really looks like in practice. These materials help support what we’re doing, but they’re just a small selection of the materials that we usually bring along when collaborating on a project.<br/>
 
