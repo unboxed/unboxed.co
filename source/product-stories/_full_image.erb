@@ -1,1 +1,9 @@
+<figure>
 <%= image_tag section.image, alt: section.image_description, class: "full-image", srcset: retina_srcset(section.image) %>
+
+<% if section.caption %>
+  <figcaption class="full-image-caption">
+    <%= section.caption %>
+  </figcaption>
+<% end %>
+</figure>

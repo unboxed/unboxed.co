@@ -1,0 +1,18 @@
+<blockquote class="quote">
+  <aside class="quote__right-section">
+    <p class="quote__text--centered">
+      <%= section.quote %>
+    </p>
+    <p class="quote__source">
+      <%= section.source %>
+    </p>
+  </aside>
+
+  <% if section.image %>
+    <% if section.image_proportion && is_jpg?(section.image) %>
+      <%= image_tag section.image, alt: section.source, class: "quote__source-image #{section.image_proportion}", srcset: retina_srcset(section.image) %>
+    <% else %>
+      <%= image_tag section.image, alt: section.source, class: "quote__source-image caricature" %>
+    <% end %>
+  <% end %>
+</blockquote>

@@ -3,15 +3,25 @@
     <h2 class="highlight__title"><%= section.title %></h2>
   <% end %>
 
-  <div class="highlight__tile--<%= section.statistics.size.even? ? 'two' : 'one' %>">
-    <% section.statistics.each do |statistic| %>
-      <p class="highlight__large-text">
-        <% if statistic.icon %>
-          <i class="fa <%= statistic.icon %>"></i>
-        <% end %>
-        <%= statistic.number %>
-      <p>
-      <p class="highlight__small-text"><%= statistic.text %></p>
-    <% end %>
-  </div>
+  <% if section.statistics %>
+    <div class="highlight__tile--<%= section.statistics.size.even? ? 'two' : 'one' %>">
+      <% section.statistics.each do |statistic| %>
+        <p class="highlight__large-text">
+          <% if statistic.icon %>
+            <i class="fa <%= statistic.icon %>"></i>
+          <% end %>
+          <%= statistic.number %>
+        </p>
+        <p class="highlight__small-text"><%= statistic.text %></p>
+      <% end %>
+    </div>
+  <% elsif section.list %>
+    <ul class="text-tile__list">
+      <% section.list.each do |item| %>
+      <li class="text-tile__list-item">
+        <%= item %>
+      </li>
+      <% end %>
+    </ul>
+  <% end %>
 </section>

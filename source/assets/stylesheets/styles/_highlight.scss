@@ -91,6 +91,12 @@
   color: $white;
 }
 
+.highlight--newham-council {
+  @extend %highlight;
+  background-color: #E4008D;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
