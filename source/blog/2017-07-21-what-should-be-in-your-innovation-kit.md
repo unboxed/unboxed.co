@@ -7,6 +7,8 @@ tags:
   - Innovation
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dc06dcaf44745887fae0fef8a49f5388.JPG
+authors:
+  - Graeme McCubbin
 ---
 Over the last few weeks, we’ve been running a number of Innovation Surgeries. These are two-hour sessions with product and digital teams to begin exploring how they can do things differently within their teams and organisations, introducing a sense of “innovation” in helping them go forward with their customer offering.<br/>
 
