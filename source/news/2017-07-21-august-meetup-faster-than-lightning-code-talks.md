@@ -10,9 +10,11 @@ Join us on Thursday 17th August for next Unboxed ‘Faster than Lightning’ ses
 <b>Date:</b> Thursday 17th August 2017<br/>
 <b>Time:</b> 18:30 - 20:00 (pizza, beer and chat from 18:30, with talks starting at 19:00)<br/>
 <b>Location:</b> Unboxed offices, 17 Blossom Street, London, E1 6PL<br/>
+<br/>
 
 <a href="https://www.eventbrite.co.uk/e/unboxed-august-meetup-faster-than-lightning-code-talks-tickets-36439046168?ref=ebtn" target="_blank"><img src="https://www.eventbrite.co.uk/custombutton?eid=36439046168" alt="Eventbrite - Unboxed August Meetup: ‘Faster than Lightning’ code talks" /></a>
 
+<br/>
 # What is ‘Faster than Lightning’?
 This is a series of very short and informal talks (around three minutes each), based around snippets of code or workflow tips that you have found interesting, or a tip about something that makes your life easier as a developer. Each talk is then followed by a casual chat within a friendly group.<br/>
 
@@ -22,6 +24,7 @@ This is a series of very short and informal talks (around three minutes each), b
 - Your snippet can be something that you thought was good or something that you think could be improved (or something you’re having trouble with and you would like help with)
 - The order of submissions is random and we’ll keep having presenters until we run out or 8pm, whichever is sooner
 
+<br/>
 Previous snippets have included:<br/>
 
 - A Rails view partial
@@ -30,11 +33,13 @@ Previous snippets have included:<br/>
 - A puppet server configuration file
 - A single line of Ruby code in IRB
 
+<br/>
 … and many more. More detailed examples can be seen in the blog posts of past events:<br/>
 
 - [Faster than Lightning: July’s Developer Event](https://unboxed.co/blog/faster-than-lightning-july-s-developer-event/)
 - [Faster than Lightning: May’s Developer Event](https://unboxed.co/blog/faster-than-lightning-may-s-monthly-developer-event/)
 
+<br/>
 # How do I take part?
 Taking part is simple:<br/>
 
