@@ -1,6 +1,6 @@
 ---
 date: '2017-07-21 12:04 +0100'
-published: false
+published: true
 title: What should be in your “innovation kit”?
 tags:
   - Agile
@@ -16,14 +16,14 @@ When preparing for each of these sessions, [Martyn](https://unboxed.co/people/#m
 - “Do we have enough post-its?”
 - “Where are all the index cards?”
 
-We’ve had this conversation so many times that we now refer to all the materials we need for these Innovation Surgery sessions as “the usual suspects”.<br/>
+We’ve had this conversation so many times that we now refer to all the materials we use to help us with these Innovation Surgery sessions as “the usual suspects”:<br/>
 
 - “Have we got all the usual suspects?”
 - “We do indeed. All present and accounted for.”
 
-Of course, an Innovation Surgery is just a small snapshot into what “innovation” really looks like in practice. These materials are a key part of our session, helping support what we’re doing, but they’re just a small selection of the materials that we usually bring along when collaborating on a project.<br/>
+Of course, an Innovation Surgery is just a small snapshot into what “innovation” really looks like in practice. These materials help support what we’re doing, but they’re just a small selection of the materials that we usually bring along when collaborating on a project.<br/>
 
-So what are the materials that our teams use when on a project? So what sort of things do you need to bring along with you when kickstarting innovation? What should be in your "innovation kit"?<br/>
+So, what are the materials that our teams generally use when on a project? What sort of things do you need to bring along with you to support you in kickstarting innovation? What should be in your "innovation kit"?<br/>
 
 ![Your innovation kit](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/516d1f156729f8343abeb4c40555a8c5.JPG)
 
@@ -35,7 +35,7 @@ Post-its help your team visualise everything, from early individual user needs t
 
 <br/>
 # Sharpies
-You have something to write on, now you need something write with. Sharpies are bold, making any key words you write a lot easier to read (as also with other marker pens). If you’re standing in a room with your team and stakeholders, facing a wall full of post-its, then you have to be able to see what you need to be looking at. A post-it written with a marker pen is much easier to read at a distance than one written in biro pen. Writing with a thick pen means you also can't be too precious with your writing or drawings. If you can't be too detailed, it means you get to the crux of the idea quickly (whether it's a word, phrase or a drawing) without wasting time on extraneous detail.<br/>
+You have something to write on, now you need something write with. Sharpies are bold, making any key words you write a lot easier to read (the same as any other marker pen). If you’re standing in a room with your team and stakeholders, facing a wall full of post-its, then you have to be able to see what you need to be looking at. A post-it written with a marker pen is much easier to read at a distance than one written in biro pen. Writing with a thick pen means you also can't be too precious with your writing or drawings. If you can't be too detailed, it means you get to the crux of the idea quickly (whether it's a word, phrase or a drawing) without wasting time on extraneous detail.<br/>
 
 ![Sharpies](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ed13622dcaea2e0ba9d35f7f724fed34.png)
 
@@ -47,7 +47,7 @@ You have something to write on, now you need something write with. Sharpies are 
 
 <br/>
 # Index cards
-These are for when more developed ideas begin appearing and you need a place to write these important things down. They’re also very useful for sketching out your user personas. Less flimsy than post-its, with index cards you’re able to assign individual stories to each one, allowing you to re-prioritise your roadmap by simply laying them out on the table and shuffling around the order, based on your changing requirements. If you’re not using index cards, cut some bits of normal card up into sheets of A6 and use these.<br/>
+These are for when more developed ideas begin appearing and you need a place to write these important things down. They’re also very useful for sketching out your user personas. Less flimsy than post-its, with index cards you’re able to assign individual stories to each one, allowing you to re-prioritise your roadmap by simply laying them out on the table and shuffling around the order, based on your changing requirements. If you’re not using index cards, cut up some bits of normal card into sheets of A6 to use.<br/>
 
 ![Index cards](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d078731d9acdaafd56c3e1ef4d160d88.JPG)
 
@@ -72,7 +72,7 @@ Take as many photos as you can: of the things you’re doing, the customers you�
 
 <br/>
 # A microphone
-If your user research strategy involves recording your conversations and interviews, then you’ll need a good microphone to ensure you’re capturing everything you need. Your phone should have a decent audio recording feature to do this. We try to use the [Blue Microphones Snowball USB Microphone](https://www.amazon.co.uk/Blue-Microphones-Snowball-Omnidirectional-Microphone/dp/B000EOPQ7E - it’s lightweight, records clearly, it’s easy to move around and the legs fold in for extra convenience when on the move.<br/>
+If your user research strategy involves recording your conversations and interviews, then you’ll need a good microphone to ensure you’re capturing everything you need. Your phone should have a decent audio recording feature to do this. We try to use the [Blue Microphones Snowball USB Microphone](https://www.amazon.co.uk/Blue-Microphones-Snowball-Omnidirectional-Microphone/dp/B000EOPQ7E) - it’s lightweight, records clearly, it’s easy to move around and the legs fold in for extra convenience when on the move.<br/>
 <br/>
 
 # Lots of paper
@@ -84,7 +84,7 @@ Not only good for using to make notes, but this helps as the starting point when
 # Scissors
 If you like to be a little neater in your paper prototyping, there is an option for scissors too.<br/>
 
-
+<br/>
 # A wall
 You’ll need a wall. This is the only thing that you probably can’t get from Amazon (not yet anyways). A dedicated space to get everything you and your team are working on up and shared. You’ll have a wide and varied range of things on your wall. These could include:<br/>
 
@@ -95,7 +95,7 @@ You’ll need a wall. This is the only thing that you probably can’t get from 
 - Actions from your team retrospective
 - And so much more...
 
-Each working wall is different for each team and project, but provides a permanent platform to share what you’ve been doing and might help encourage other stakeholders across your organisations to ask questions and get involved.<br/>
+Each working wall is different for each team and project, but provides a permanent platform to share what you’ve been doing. It might also help encourage other stakeholders across your organisation to ask questions and get involved.<br/>
 
 ![A wall](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ff9af5ea4ea3a62cc66b0ca70a667717.JPG)
 
