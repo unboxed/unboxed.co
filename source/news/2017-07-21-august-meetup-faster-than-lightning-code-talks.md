@@ -19,8 +19,9 @@ Join us on <b>Thursday 17th August</b> for next Unboxed ‘Faster than Lightning
 # What is ‘Faster than Lightning’?
 This is a series of very short and informal talks (around three minutes each), based around snippets of code or workflow tips that you have found interesting, or a tip about something that makes your life easier as a developer. Each talk is then followed by a casual chat within a friendly group.<br/>
 
-<br/>
 Here's Faster than Lightning in action:<br/>
+<br/>
+
 ![Faster than Lightning in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f83a8c58dbb60c0b6c126632b15ebde2.png)
 
 <br/>
