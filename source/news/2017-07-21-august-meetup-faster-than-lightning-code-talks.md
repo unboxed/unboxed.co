@@ -5,7 +5,8 @@ title: 'August Meetup: ‘Faster than Lightning’ code talks'
 ---
 ![Faster than Lightning - August](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/442889ef9b1c31ef43dc6baa3710082b.png)
 
-Join us on Thursday 17th August for next Unboxed ‘Faster than Lightning’ session - our informal meetup where developers present and share small snippets of code or workflow tips for discussion.<br/>
+<br/>
+Join us on <b>Thursday 17th August</b> for next Unboxed ‘Faster than Lightning’ session - our informal meetup where developers present and share small snippets of code or workflow tips for discussion.<br/>
 
 <b>Date:</b> Thursday 17th August 2017<br/>
 <b>Time:</b> 18:30 - 20:00 (pizza, beer and chat from 18:30, with talks starting at 19:00)<br/>
@@ -17,6 +18,13 @@ Join us on Thursday 17th August for next Unboxed ‘Faster than Lightning’ ses
 <br/>
 # What is ‘Faster than Lightning’?
 This is a series of very short and informal talks (around three minutes each), based around snippets of code or workflow tips that you have found interesting, or a tip about something that makes your life easier as a developer. Each talk is then followed by a casual chat within a friendly group.<br/>
+
+<br/>
+Here's Faster than Lightning in action:<br/>
+![Faster than Lightning in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f83a8c58dbb60c0b6c126632b15ebde2.png)
+
+<br/>
+A bit more about submissions:<br/>
 
 - Code snippets can be your code or someone else’s, in any programming language, and can be anonymised
 - A workflow tip may take the form of a UI screenshot or terminal command of an app or tool that you use. It may even be something that irritates you and you’d like to hear about how other developers approach it
