@@ -110,3 +110,15 @@
     min-height: 106px;
   }
 }
+
+.jobs-page-tile__no-roles-paragraph {
+  color: $dark-gray;
+  padding-left: 15px;
+  font-weight: 300;
+  font-size: 1.1em;
+  margin-bottom: 40px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 0;
+  }
+}
