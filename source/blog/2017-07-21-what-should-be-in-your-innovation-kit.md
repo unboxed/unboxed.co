@@ -25,7 +25,7 @@ We’ve had this conversation so many times that we now refer to all the materia
 
 Of course, an Innovation Surgery is just a small snapshot into what “innovation” really looks like in practice. These materials help support what we’re doing, but they’re just a small selection of the materials that we usually bring along when collaborating on a project.<br/>
 
-So, what are the materials that our teams generally use when on a project? What sort of things do you need to bring along with you to support your innovation kickstart? What should be in your "innovation kit"?<br/>
+So, what are some of the materials that our teams generally use when on a project? What should you bring along with you to support an innovation kickstart? What should be in your "innovation kit"?<br/>
 
 ![Your innovation kit](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/516d1f156729f8343abeb4c40555a8c5.JPG)
 
