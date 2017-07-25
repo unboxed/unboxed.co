@@ -265,6 +265,11 @@
   short_name: "boris-divjak"
   role: "Designer"
   email: "boris.divjak"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/borisdivjak"
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/borisdivjak/"
 
 - name: "Tom Gladhill"
   short_name: "tom-gladhill"
