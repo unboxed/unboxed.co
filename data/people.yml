@@ -195,7 +195,7 @@
 - name: "Neil van Beinum"
   short_name: "neil-van-beinum"
   role: "Developer"
-  email: "neil.van-beinum"
+  email: "neil.van.beinum"
   social_networks:
     - name: "Twitter"
       link: "https://twitter.com/neilvanbeinum"
