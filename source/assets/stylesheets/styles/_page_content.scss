@@ -1,14 +1,14 @@
 %page-content-margins {
-  margin-top: 85px;
+  margin-top: 87px;
   padding-bottom: 30px;
 
   @include breakpoint($tablet-breakpoint) {
-    margin-top: 54px;
+    margin-top: 93px;
     padding-bottom: 50px;
   }
 
   @include breakpoint($desktop-breakpoint) {
-    margin-top: 64px;
+    margin-top: 100px;
   }
 }
 
@@ -21,4 +21,3 @@
   @extend .page-content;
   overflow: hidden;
 }
-
