@@ -22,15 +22,15 @@ services:
 products:
   title: "Who we work with"
   content:
+    - name: "Newham Council"
+      description: "Improving residential access and support to homelessness services - the Discovery and Alpha phases"
+      image: "/assets/images/product-stories/newham-council.jpg"
+      link: "/product-stories/newham-council/"
+
     - name: "Springer Nature"
       description: "Exploring the impact of online publishing with Bookmetrix"
       image: "/assets/images/product-stories/bookmetrix.jpg"
       link: "/product-stories/bookmetrix"
-
-    - name: "Buckinghamshire Council"
-      description: "12-week Beta phase for two services with annual cost-saving of £350,000"
-      image: "/assets/images/product-stories/bucks-cc-beta.jpg"
-      link: "/product-stories/bucks-cc-beta"
 
     - name: "Petitions"
       description: "Public sector collaboration with GDS to relaunch Petitions platform for UK citizens"
@@ -114,7 +114,7 @@ blog_title: "What we have been blogging about"
     <% current_page.data.products.content.each do |product| %>
       <a class="homepage-tile" href="<%= product.link %>" title="<%= product.name %>">
         <div class="homepage-tile__content">
-          <img class="homepage-tile__image" src="<%= product.image %>" alt="<%= product.name %>">
+          <%= image_tag product.image, alt: product.name, class: 'homepage-tile__image', srcset: retina_srcset(product.image) %>
 
           <h3 class="homepage-tile__title">
             <%= product.name %>
@@ -190,7 +190,7 @@ blog_title: "What we have been blogging about"
     <% current_page.data.contributions.content.each do |contribution| %>
       <a class="homepage-tile" href="<%= contribution.link %>" title="<%= contribution.name %>" target="_blank">
         <div class="homepage-tile__content">
-          <img class="homepage-tile__image" src="<%= contribution.image %>" alt="<%= contribution.name %>">
+          <%= image_tag contribution.image, alt: contribution.name, class: 'homepage-tile__image', srcset: retina_srcset(contribution.image) %>
 
           <h3 class="homepage-tile__title">
             <%= contribution.name %>
