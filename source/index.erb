@@ -114,7 +114,7 @@ blog_title: "What we have been blogging about"
     <% current_page.data.products.content.each do |product| %>
       <a class="homepage-tile" href="<%= product.link %>" title="<%= product.name %>">
         <div class="homepage-tile__content">
-          <img class="homepage-tile__image" src="<%= product.image %>" alt="<%= product.name %>">
+          <%= image_tag product.image, alt: product.name, class: 'homepage-tile__image', srcset: retina_srcset(product.image) %>
 
           <h3 class="homepage-tile__title">
             <%= product.name %>
@@ -190,7 +190,7 @@ blog_title: "What we have been blogging about"
     <% current_page.data.contributions.content.each do |contribution| %>
       <a class="homepage-tile" href="<%= contribution.link %>" title="<%= contribution.name %>" target="_blank">
         <div class="homepage-tile__content">
-          <img class="homepage-tile__image" src="<%= contribution.image %>" alt="<%= contribution.name %>">
+          <%= image_tag contribution.image, alt: contribution.name, class: 'homepage-tile__image', srcset: retina_srcset(contribution.image) %>
 
           <h3 class="homepage-tile__title">
             <%= contribution.name %>
