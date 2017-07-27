@@ -19,7 +19,7 @@ I’m eager to constantly learn more about software development and making use o
 
 I lived in Stoke-On-Trent for the most of my life and only moved to London when I began University. The amount of people in London was more than I expected! Before University I had a little experience coding in C++ on an Arduino board, which I used for making small projects. At University, I have been learning all sorts of programming languages including Java, C and even ones I’ve never heard of before such as Haskell. I’m extremely fond of learning new things and I look forward to seeing what I can learn at my time with Unboxed.<br/>
 
-I had some experience using Ruby but no previous experience using Ruby on Rails before coming to Unboxed. However, the team at Unboxed have provided me with the opportunity to study more about the framework in a professional environment, including paid online courses. This support has been invaluable in allowing me to develop my knowledge of Ruby on Rails, and I can really start to see how beneficial Rails is for creating web applications. I’m really excited to use what I am learning in a real project.<br/>
+I had some experience using Ruby but no previous experience using Ruby on Rails before coming to Unboxed. However, the team at Unboxed have provided me with the opportunity to study more about the framework in a professional environment. This support has been invaluable in allowing me to develop my knowledge of Ruby on Rails, and I can really start to see how beneficial Rails is for creating web applications. I’m really excited to use what I am learning in a real project.<br/>
 <br/>
 
 ![Dennis Tsiang2 ](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f625263299ef61afd94a57eda6e267b7.png)
