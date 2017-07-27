@@ -92,42 +92,51 @@ published: true
 
   <%= partial 'jobs/full_image', locals: { section: current_page.data.unboxed_meeting_image } %>
 
-  <section class="jobs-page-roles">
-    <h2 class="jobs-page-roles__title">
-      <%= current_page.data.roles.title %>
-    </h2>
-    <% if current_page.data.roles.content.length == 1 %>
-      <% role = current_page.data.roles.content[0] %>
-          <a class="jobs-page-tile__content-single" href="<%= role.link %>" title="<%= role.name %>">
-              <div class="component__tile jobs-page-tile__text-single" >
-                <h3 class="jobs-page-tile__title">
-                  <%= role.name %>
-                </h3>
-                <p class="jobs-page-tile__paragraph">
-                  <%= role.text %>
-                </p>
-              </div>
-              <div class="jobs-page-tile__image-container">
-                <%= image_tag role.image, alt: role.name, class: "jobs-page-tile__image", srcset: retina_srcset(role.image) %>
-              </div>
-          </a>
+  <section class="roles">
+    <% if current_page.data.roles.content.nil? %>
+      <h2 class="roles__title">
+        No current vacancies
+      </h2>
+      <p class="roles-tile__no-roles-paragraph">
+        We don't currently have any team openings.
+      </p>
     <% else %>
-      <div class="jobs-page-tiles">
-        <% current_page.data.roles.content.each do |role| %>
-            <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
-            <a class="jobs-page-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
-              <div class="jobs-page-tile__content">
-                <%= image_tag role.image, alt: role.name, class: "jobs-page-tile__image", srcset: retina_srcset(role.image) %>
-                <h3 class="jobs-page-tile__title">
-                  <%= role.name %>
-                </h3>
-                <p class="jobs-page-tile__paragraph">
-                  <%= role.text %>
-                </p>
-              </div>
+      <h2 class="roles__title">
+        <%= current_page.data.roles.title %>
+      </h2>
+      <% if current_page.data.roles.content.length == 1 %>
+        <% role = current_page.data.roles.content[0] %>
+            <a class="roles-tile__content-single" href="<%= role.link %>" title="<%= role.name %>">
+                <div class="component__tile roles-tile__text-single" >
+                  <h3 class="roles-tile__title">
+                    <%= role.name %>
+                  </h3>
+                  <p class="roles-tile__paragraph">
+                    <%= role.text %>
+                  </p>
+                </div>
+                <div class="roles-tile__image-container">
+                  <%= image_tag role.image, alt: role.name, class: "roles-tile__image", srcset: retina_srcset(role.image) %>
+                </div>
             </a>
-          <% end %>
-      </div>
+      <% else %>
+        <div class="roles-tiles">
+          <% current_page.data.roles.content.each do |role| %>
+              <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
+              <a class="roles-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
+                <div class="roles-tile__content">
+                  <%= image_tag role.image, alt: role.name, class: "roles-tile__image", srcset: retina_srcset(role.image) %>
+                  <h3 class="roles-tile__title">
+                    <%= role.name %>
+                  </h3>
+                  <p class="roles-tile__paragraph">
+                    <%= role.text %>
+                  </p>
+                </div>
+              </a>
+            <% end %>
+        </div>
+      <% end %>
     <% end %>
   </section>
 
