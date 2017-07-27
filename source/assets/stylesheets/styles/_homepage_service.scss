@@ -10,15 +10,11 @@
 }
 
 .homepage-service__title {
+  @include responsive-text;
   margin-bottom: 16px;
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 30px;
-  }
-
-  @include breakpoint($desktop-breakpoint) {
-    font-size: 1.3em;
-    font-weight: 300;
   }
 }
 
