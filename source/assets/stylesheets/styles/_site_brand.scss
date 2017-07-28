@@ -16,14 +16,8 @@
 
 .site-brand__link {
   float: right;
-  color: $purple;
-  font-family: 'Helvetica Neue', 'Open Sans', 'Helvetica', sans-serif;
-  font-size: 1.4em;
-  font-weight: 300;
-  text-decoration: none;
-  text-transform: lowercase;
+}
 
-  @include breakpoint($desktop-breakpoint) {
-    font-size: 2em;
-  }
+.site-brand__logo-image {
+  float: right;
 }
