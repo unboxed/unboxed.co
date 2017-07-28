@@ -10,7 +10,7 @@
         Sign up to our newsletter
       </p>
 
-      <%= partial 'newsletter', locals: { block_class: 'site-footer-newsletter' } %>
+      <%= partial 'newsletter', locals: { block_class: 'site-footer-newsletter', onclick_function: 'sendToGaFooterSubscribeClickEvent()' } %>
     </div>
 
     <div class="site-footer__tile site-footer__tile--last">
@@ -48,6 +48,9 @@
     </div>
   </div>
   <script>
+    function sendToGaFooterSubscribeClickEvent() {
+      ga('send', 'event', 'Button', 'Click', 'Footer newsletter subscribe', '1');
+    }
     function sendToGaFooterEmailClickEvent() {
       ga('send', 'event', 'Email link', 'Click', 'hello@unboxed', '1');
     }
