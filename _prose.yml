@@ -1,6 +1,11 @@
 prose:
-  rooturl: 'source'
-  ignore: '.keep'
+  rooturl:
+  ignore:
+    - '.keep'
+    - /lib
+    - /spec
+    - /templates
+    - /middleman-blog-similar
   media: 'assets/images/prose'
   metadata:
     source/blog:
