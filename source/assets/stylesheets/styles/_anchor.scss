@@ -1,0 +1,5 @@
+//Needed to make before selector work in Firefox
+.anchor {
+  position: relative;
+  display: block;
+}

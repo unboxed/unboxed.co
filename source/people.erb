@@ -17,7 +17,9 @@ email_domain: "unboxed.co"
   <% data.people.each do |person| %>
     <div class="person-tile">
       <div class="person-tile__content">
-      <span id="<%= person.short_name %>"></span>
+        <div class="anchor">
+          <span id="<%= person.short_name %>"></span>
+        </div>
         <div class="person-tile__image-container">
           <img class="person-tile__image" src="/assets/images/people/<%= person.short_name %>.png" alt="<%= person.name %>" />
         </div>
