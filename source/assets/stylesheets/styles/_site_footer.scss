@@ -36,11 +36,20 @@
   }
 }
 
-.site-footer__email-address {
+.site-footer__email-address,
+.site-footer__cookie-policy-link {
   color: inherit;
   text-decoration: none;
 
   &:hover {
     text-decoration: underline;
   }
+}
+
+.site-footer__cookie-policy-link {
+  font-size: 0.8em;
+}
+
+.site-footer__cookie-policy {
+  padding-top: 10px;
 }
