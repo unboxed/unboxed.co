@@ -3,7 +3,7 @@ date: '2017-07-21 16:09 +0100'
 published: true
 title: 'August Meetup: ‘Faster than Lightning’ code talks'
 ---
-![Faster than Lightning - August](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/442889ef9b1c31ef43dc6baa3710082b.png)
+![Faster than Lightning - August](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/80435918a4b43edd06f586c3f24943c4.png)
 
 <br/>
 Join us on <b>Thursday 17th August</b> for next Unboxed ‘Faster than Lightning’ session - our informal meetup where developers present and share small snippets of code or workflow tips for discussion.<br/>
@@ -61,4 +61,3 @@ Taking part is simple:<br/>
 <br/>
 # Register for your place
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=36439046168&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
-
