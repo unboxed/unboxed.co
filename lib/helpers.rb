@@ -51,4 +51,15 @@ module Helpers
     data.people.find { |person| person.short_name.downcase == author_short_name.downcase }
   end
 
+  def file_size_in_kilobytes(file_path)
+    (File.open(file_path).size.to_f / 1024.0).round
+  end
+
+  def delimit_number_with_commas(number)
+    number.to_s.reverse.gsub(/...(?=.)/,'\&,').reverse
+  end
+
+  def pretty_format_file_size_from_path(file_path)
+    delimit_number_with_commas(file_size_in_kilobytes(file_path))
+  end
 end
