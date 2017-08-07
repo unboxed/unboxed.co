@@ -72,12 +72,13 @@
         <nav class="site-navigation">
           <div class="site-navigation__container">
             <%= site_nav_link('Home', '/', class: 'site-navigation__link--home') %>
-            <%= site_nav_link('News', '/news') %>
             <%= site_nav_link('Product stories', '/product-stories') %>
-            <%# Removed temporarily to test change in user flow https://www.pivotaltracker.com/story/show/137786451 %>
-            <%#= site_nav_link('Spinouts', '/spinouts') %>
+            <%= site_nav_link('Thoughts', '/thoughts') %>
             <%= site_nav_link('People', '/people') %>
             <%= site_nav_link('Blog', '/blog') %>
+            <%= site_nav_link('News', '/news') %>
+            <%# Removed temporarily to test change in user flow https://www.pivotaltracker.com/story/show/137786451 %>
+            <%#= site_nav_link('Spinouts', '/spinouts') %>
             <%= site_nav_link('Join us', '/jobs') %>
             <%= site_nav_link('Contact', '/contact', class: 'site-navigation__link--contact') %>
           </div>
