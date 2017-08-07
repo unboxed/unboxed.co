@@ -1,0 +1,60 @@
+---
+title: "Thoughts"
+meta_description: "Whitepaper section to showcase thought leadership"
+meta_keywords: "unboxed consulting, blog, news, technical, agile, web, development, ruby on rails, marketing, graphic design, Unboxed, news, thought"
+---
+
+<header class="page-header page-header--bottom-margin">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.title %>
+    </h1>
+  </div>
+</header>
+<div class="container--grid" data-header-waypoint>
+  <% data.whitepapers.sort_by{ |w| DateTime.parse(w.date) }.reverse.each do |whitepaper| %>
+    <div class="whitepaper-tile__container">
+      <div class="whitepaper-tile__content-summary">
+        <div class="whitepaper-tile__article-description">
+          <h2 class="whitepaper-tile__title">
+            <%= whitepaper.title %>
+          </h2>
+          <div class="whitepaper-tile__abstract">
+            <% whitepaper.abstract_paragraphs.each do |paragraph| %>
+              <p><%= paragraph %> </p>
+            <% end %>
+          </div>
+        </div>
+        <div class="whitepaper-tile__authors">
+          <% whitepaper.authors.each do |author| %>
+            <div class="whitepaper-tile__author">
+              <div class="whitepaper-tile__image-container">
+                <%= image_tag author.image, class: "whitepaper-tile__author-image" %>
+              </div>
+              <div class="whitepaper-tile__author-name-container">
+              <a class="whitepaper-tile__author-name" href="<%= author.profile %>" >
+                <%= author.name %>
+              </a>
+              </div>
+            </div>
+          <% end %>
+        </div>
+      </div>
+
+      <div class="whitepaper-tile__file-summary">
+        <%= image_tag whitepaper.thumbnail_image, class: "whitepaper-tile__thumbnail" %>
+        <div class="whitepaper-tile__download-btn-container">
+          <a class="whitepaper-tile__download-btn" href="<%= whitepaper.file %>" type="application/pdf;" target="_blank">
+           Download
+          </a>
+        </div>
+        <p class="whitepaper-tile__file-details">
+          <%= "PDF / #{pretty_format_file_size_from_path("source/#{whitepaper.file}")} kB" %>
+        </p>
+      </div>
+
+    </div>
+  <% end %>
+</div>
+
+<%= partial 'book_meeting' %>

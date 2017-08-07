@@ -1,0 +1,181 @@
+.whitepaper-tile {
+  box-sizing: border-box;
+  color: $dark-gray;
+  display: block;
+  font-weight: 300;
+  margin-bottom: 6px;
+  padding: 0 6px;
+  text-decoration: none;
+
+  @include breakpoint($desktop-breakpoint) {
+    height: 495px;
+    padding: 0;
+  }
+}
+
+.whitepaper-tile__container {
+  @include clearfix;
+  background-color: $white;
+  border: 1px solid darken($light-gray, 5%);
+  box-sizing: border-box;
+  width: 100%;
+
+  @include breakpoint($desktop-breakpoint) {
+    margin-bottom: 6px;
+  }
+}
+
+.whitepaper-tile__content-summary,
+.whitepaper-tile__file-summary {
+  box-sizing: border-box;
+  padding: 20px 14px 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    padding-left: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-left: 20px;
+  }
+}
+
+.whitepaper-tile__content-summary {
+  @include breakpoint($tablet-breakpoint) {
+    width: 60%;
+  }
+}
+
+.whitepaper-tile__file-summary {
+  @include breakpoint($tablet-breakpoint) {
+    width: 40%;
+  }
+}
+
+.whitepaper-tile__title {
+  @include responsive-title;
+  color: $purple;
+  font-weight: 300;
+  line-height: 1.2;
+  padding-bottom: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 1.6vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding-bottom: 16px;
+  }
+}
+
+.whitepaper-tile__abstract {
+
+  @include breakpoint($tablet-breakpoint) {
+    height: 175px;
+  }
+
+}
+
+.whitepaper-tile__abstract > p {
+  @include responsive-text;
+  color: $black;
+  font-weight: 300;
+  line-height: 1.3;
+  padding-bottom: 6px;
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.1em;
+  }
+}
+
+.whitepaper-tile__download-btn-container {
+  margin-bottom: 35px;
+  margin-top: 35px;
+}
+
+.whitepaper-tile__download-btn {
+  background-color: $white;
+  color: $purple;
+  border: 1px solid $purple;
+  cursor: pointer;
+  line-height: 1.3;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+
+  &:hover {
+    background-color: $purple;
+    color: $white;
+  }
+}
+
+.whitepaper-tile__author{
+  box-sizing: border-box;
+  background-color: $white;
+  padding: 14px 0 0;
+
+  @include breakpoint($desktop-breakpoint) {
+    text-align: center;
+    padding: 14px 14px 14px 0;
+    float: left;
+    height: 155px;
+    width: 145px;
+  }
+}
+
+.whitepaper-tile__image-container {
+  display: none;
+  margin: 5px;
+  border-radius: 100px;
+  border: 1px solid darken($light-gray, 5%);
+  height: 100px;
+  overflow: hidden;
+  text-align: center;
+  width: 100px;
+
+  @include breakpoint($desktop-breakpoint) {
+    display: block;
+  }
+}
+
+.whitepaper-tile__author-image {
+  height: 125px;
+  padding-top: 10px;
+}
+
+.whitepaper-tile__author-name {
+  @include responsive-text;
+  color: $purple;
+  font-weight: 300;
+  text-decoration: none;
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.1em;
+    text-align: center;
+  }
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.whitepaper-tile__author-name-container {
+  margin-right: 15px;
+}
+
+.whitepaper-tile__file-details {
+  @include responsive-text;
+  font-weight: 300;
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 0.8em;
+  }
+}
+
+.whitepaper-tile__thumbnail {
+  width: 100%;
+  border: 1px solid #eaeaea;
+}

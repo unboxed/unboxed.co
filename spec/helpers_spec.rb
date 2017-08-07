@@ -54,5 +54,19 @@ RSpec.describe Helpers do
       expect(articles_by_author('Brian de la Smith')).to eq [article_1, article_2]
     end
   end
+
+  describe 'delimit_number_with_commas' do
+    it 'does not add a delimiter for a three-digit number' do
+      expect(delimit_number_with_commas(123)).to eq '123'
+    end
+
+    it 'adds a delimiter for a four-digit number' do
+      expect(delimit_number_with_commas(1234)).to eq '1,234'
+    end
+
+    it 'adds a delimiter for a six-digit number' do
+      expect(delimit_number_with_commas(123456)).to eq '123,456'
+    end
+  end
 end
 
