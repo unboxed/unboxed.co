@@ -8,7 +8,7 @@ tags:
   - Culture
   - Innovation
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/674453bfcea4e5e370106cb92d1f181f.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/19e8fa97e4d19717c8e1948f5b21aa66.png
 published: true
 ---
 
