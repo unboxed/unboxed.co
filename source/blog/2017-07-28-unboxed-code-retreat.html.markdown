@@ -1,14 +1,15 @@
 ---
-title: 'Code Retreat - Unboxed Style'
+title: Code Retreat - Unboxed Style
 date: '2017-07-28 15:23:47 UTC'
 authors:
   - Elena Tanasoiu
   - Chris Holmes
-tags: # (Delete as appropiate) 
-- Culture
-- Innovation
+tags:
+  - Culture
+  - Innovation
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/56fd553b3324e66497fd76de9d6bfb0c.jpg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/674453bfcea4e5e370106cb92d1f181f.png
+published: true
 ---
 
 ![Settling in](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/56fd553b3324e66497fd76de9d6bfb0c.jpg)
@@ -92,4 +93,3 @@ The voting on the conditions didn't work so well, some of them were similar and 
 would have been better if they were chosen ahead of time with thought given to the different ways of thinking they would encourage. We also allowed ourselves to 
 go a little over time for each challenge if we were enjoying ourselves or close to completing the solution, in hindsight if we were stricter it would have allowed 
 us to attempt more of the conditions. Finally we did a bad job at ordering food so were all pretty hungry when it turned up mid-afternoon!
-
