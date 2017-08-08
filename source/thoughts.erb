@@ -44,7 +44,7 @@ meta_keywords: "unboxed consulting, blog, news, technical, agile, web, developme
       <div class="whitepaper-tile__file-summary">
         <%= image_tag whitepaper.thumbnail_image, class: "whitepaper-tile__thumbnail" %>
         <div class="whitepaper-tile__download-btn-container">
-          <a class="whitepaper-tile__download-btn" href="<%= whitepaper.file %>" type="application/pdf;" target="_blank">
+          <a class="whitepaper-tile__download-btn" href="<%= whitepaper.file %>" type="application/pdf;" target="_blank" onClick="sendToGaWhitepaperDownloadClickEvent('<%= whitepaper.title %> whitepaper')">
            Download
           </a>
         </div>
@@ -56,5 +56,10 @@ meta_keywords: "unboxed consulting, blog, news, technical, agile, web, developme
     </div>
   <% end %>
 </div>
+<script>
+  function sendToGaWhitepaperDownloadClickEvent(whitepaper) {
+    ga('send', 'event', 'Button', 'Click', whitepaper, '1');
+  }
+</script>
 
 <%= partial 'book_meeting' %>
