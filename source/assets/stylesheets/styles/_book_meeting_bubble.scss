@@ -18,6 +18,12 @@
     top: 380px;
     right: -55px;
 
+    transition: all 250ms ease;
+    -moz-transition: all 250ms ease;
+    -ms-transition: all 250ms ease;
+    -o-transition: all 250ms ease;
+    -webkit-transition: all 250ms ease;
+
     &:hover {
       @include transform(rotate(0deg));
       background-color: $white;
