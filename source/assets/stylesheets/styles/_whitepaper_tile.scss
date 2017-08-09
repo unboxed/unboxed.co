@@ -96,14 +96,11 @@
 }
 
 .whitepaper-tile__download-btn {
+  @extend .button;
   background-color: $white;
   color: $purple;
   border: 1px solid $purple;
-  cursor: pointer;
-  line-height: 1.3;
   padding: 10px;
-  text-align: center;
-  text-decoration: none;
   vertical-align: middle;
 
   &:hover {
