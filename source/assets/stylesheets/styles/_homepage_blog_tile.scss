@@ -8,6 +8,8 @@
   @include breakpoint($tablet-breakpoint) {
     float: left;
     width: 33.33%;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 }
 
