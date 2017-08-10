@@ -16,7 +16,6 @@
 .whitepaper-tile__container {
   @include clearfix;
   background-color: $white;
-  border: 1px solid darken($light-gray, 5%);
   box-sizing: border-box;
   width: 100%;
 
