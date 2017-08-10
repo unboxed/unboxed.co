@@ -9,7 +9,7 @@ tags:
   - Culture
   - Innovation
   - Lean
-main_image: 'http://i.imgur.com/UkJaBbK.jpg?1'
+main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/11fb067a23ae99c6308f6ead86d39e35.jpg'
 ---
 I spent Wednesday morning visiting the Digital Team at Newham Council, to attend the first Show & Tell of their [10-week Digital Customer Programme Discovery Phase](https://unboxed.co/news/unboxed-is-awarded-digital-customer-programme-discovery-phase-contract-with-newham-council/).<br/>
 
