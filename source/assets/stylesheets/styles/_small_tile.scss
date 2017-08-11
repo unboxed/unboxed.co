@@ -1,0 +1,81 @@
+.small-tile {
+  box-sizing: border-box;
+  display: block;
+  margin-bottom: 6px;
+  text-decoration: none;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    width: 33%;
+  }
+}
+
+.small-tile__image {
+  background-color: $white;
+  border: 1px solid darken($light-gray, 5%);
+  box-sizing: border-box;
+  display: block;
+  width: 100%;ht: 190px;
+}
+
+.small-tile__content {
+  box-sizing: border-box;
+  background-color: $white;
+  padding: 14px;
+  border: 1px solid darken($light-gray, 5%);
+  width: 100%;
+
+  &:hover {
+    background-color: mix($white, $light-gray);
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    @include flexbox;
+    @include flex-direction(column);
+    @include justify-content(space-between);
+
+    height: 190px;
+  }
+}
+
+.small-tile__title {
+  @include responsive-text;
+  color: $purple;
+  font-weight: 300;
+  line-height: 1.3em;
+  margin-bottom: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 6px;
+  }
+}
+
+.small-tile__author {
+  color: $dark-gray;
+  font-size: .8em;
+  font-weight: 600;
+  margin-bottom: 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.335vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: .8em;
+  }
+}
+
+.small-tile__date {
+  color: $dark-gray;
+  font-size: .8em;
+
+  @include breakpoint($tablet-breakpoint) {
+    font-size: 1.335vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: .8em;
+  }
+
+}
+
