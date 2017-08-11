@@ -4,7 +4,7 @@ published: true
 title: "Communication - One Step Forward, Two Steps Slack?"
 authors:
   - "Chris Carter"
-main_image: "http://bit.ly/1T7CAl0"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f82a7cb45462c3b5b10a8da29ed52064.png"
 tags:
   - Culture
 
@@ -14,7 +14,7 @@ It is widely assumed that software developers are introverted and quiet individu
 
 The use of Instant Messaging (IM) services at work means that colleagues don't always need to have a face-to-face conversation to discuss something, or to share information. Of course you can use email for this, but IM is much quicker which makes it perfect for sharing snippets of information.
 
-<p align="center"><img src="http://bit.ly/1T7CAl0" alt=“Kips"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f82a7cb45462c3b5b10a8da29ed52064.png" alt=“Kips"></p>
 
 For over a year now we've been using [Slack](https://slack.com/) for our internal chat application, as a replacement for our previous solution, [Campfire](https://campfirenow.com/). Put simply, Slack is great. It's been fantastically designed for both simple and advanced use, it has an amazing array of compatible plugins and integrations, but most of all it feels fun to use.
 
@@ -34,7 +34,7 @@ As an extreme example, a chat about something personal or about someone's perfor
 <h2>3) Occasionally I find that a text-based conversation just doesn't have the same feeling about it</h2>
 If I'm discussing a technical problem with someone, the syntax highlighting for example on Slack can be a great tool. However, there really is nothing quite like standing at a whiteboard and discussing some code or architecture with the archaic method of pen to paper. The instant feedback from someone (or even just their facial expression) can be a much more powerful tool to judge reactions, rather than giving that person time to think via the asynchronous nature of an IM client.
 
-<p align="center"><img src="http://bit.ly/1IZyADG" alt=“Chris"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cdb89a2e684400010e99650a9ba62e13.png" alt=“Chris"></p>
 
 Remember, with great power comes great responsibility. IM clients like Slack are great for productivity, and for that reason I cannot recommend them highly enough. They promote interactions between colleagues, group discussions and general inclusion and transparency.
 
