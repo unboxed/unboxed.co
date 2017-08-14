@@ -14,7 +14,7 @@ title: "Style guide"
         section: OpenStruct.new({
           title: "Lorem ipsum dolor sit amet",
           content: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
-          image: "http://placehold.it/480x463"
+          image: "https://placehold.it/480x463"
         })
       } %>
     </div>
@@ -27,7 +27,7 @@ title: "Style guide"
     <div class="style-guide__container-body">
       <%= partial 'product-stories/full_image', locals: {
         section: OpenStruct.new({
-          image: "http://placehold.it/960x480",
+          image: "https://placehold.it/960x480",
           image_description: "Placehold.it"
         })
       } %>
@@ -48,7 +48,7 @@ title: "Style guide"
             "Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum",
             "Corporis quidem vero, beatae eius voluptatem quod!"
           ],
-          image: "http://placehold.it/480x463"
+          image: "https://placehold.it/480x463"
         })
       } %>
     </div>
@@ -104,11 +104,49 @@ title: "Style guide"
 
   <div class="style-guide__container">
     <div class="style-guide__container-title">
-      Product story related tile
+      Product story quote with image
     </div>
     <div class="style-guide__container-body">
+      <%= partial 'product-stories/quote_caricature', locals: {
+        section: OpenStruct.new({
+          quote: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
+          source: "Lorem ipsum",
+          image: "https://via.placeholder.com/150x254"
+        })
+      } %>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Product story team
+    </div>
+    <div class="style-guide__container-body">
+      <h2 class="project-team__title">
+        Unboxed team
+      </h2>
+      <% team_size = 3%>
+      <% link_class = "project-team__container--#{team_size}" %>
+      <% link_class << " project-team__headshot-container" if team_size > 1 %>
+
+      <div class="<%= link_class %>">
+        <img class="project-team__headshot" src="https://via.placeholder.com/232x381" alt="placeholder team member" title="Caricature">
+      </div>
+      <div class="<%= link_class %>">
+        <img class="project-team__headshot" src="https://via.placeholder.com/232x381" alt="placeholder team member" title="Caricature">
+      </div>
+      <div class="<%= link_class %>">
+        <img class="project-team__headshot" src="https://via.placeholder.com/232x381" alt="placeholder team member" title="Caricature">
+      </div>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Product story related tile
+    </div>
+    <div class="style-guide__container-body--grey">
       <div class="related-tile">
-        <img class="related-tile__image" src="http://placehold.it/320x150" alt="">
         <div class="related-tile__text-content">
           <div>
             <div class="related-tile__type">
@@ -122,6 +160,77 @@ title: "Style guide"
       </div>
     </div>
   </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Product story large tile
+    </div>
+    <div class="style-guide__container-body--grey">
+      <div class="product-story-large-tile">
+        <div class="product-story-large-tile__container">
+          <%= image_tag "https://via.placeholder.com/616x244", alt: "product story client", class: "product-story-large-tile__image" %>
+          <div class="product-story-large-tile__content">
+            <div class="product-story-large-tile__client">Product story client name</div>
+            <div class="product-story-large-tile__title">Product story title</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Product story small tile
+    </div>
+    <div class="style-guide__container-body--grey">
+      <div class="product-story-small-tile">
+        <div class="product-story-small-tile__container">
+          <%= image_tag "https://via.placeholder.com/454x180", alt: "product story client", class: "product-story-small-tile__image" %>
+          <div class="product-story-small-tile__content">
+            <div class="product-story-small-tile__client">Product story client name</div>
+            <div class="product-story-small-tile__title">Product story title</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="style-guide__container">
+    <div class="style-guide__container-title">
+      Person tile
+    </div>
+    <div class="style-guide__container-body">
+      <div class="person-tile">
+          <div class="person-tile__content">
+            <div class="anchor">
+              <span id="style-guide-person-tile"></span>
+            </div>
+            <div class="person-tile__image-container">
+              <img class="person-tile__image" src="https://via.placeholder.com/212x425" alt="tom sabin" />
+            </div>
+
+            <div class="person-tile__details">
+              <h2 class="person-tile__name">
+                Tom Sabin
+              </h2>
+
+              <div class="person-tile__role">
+                Developer
+              </div>
+
+              <a class="person-tile__email" href="mailto:tom.sabin@unboxed.co">tom.sabin@unboxed.co</a>
+            </div>
+            <div class="person-tile__social-networks">
+                <a class="social-icon__icon-container--twitter" href="">
+                  <img class="social-icon__icon" src="/assets/images/social-icon__twitter.png" alt="twitter" />
+                </a>
+            </div>
+
+          </div>
+      </div>
+    </div>
+  </div>
+
 
   <h2 class="style-guide__title">Blog</h2>
 
@@ -314,7 +423,7 @@ end</code>
          </div>
 
          <div class="whitepaper-tile__file-summary">
-           <%= image_tag "http://via.placeholder.com/350x247", class: "whitepaper-tile__thumbnail" %>
+           <%= image_tag "https://via.placeholder.com/350x247", class: "whitepaper-tile__thumbnail" %>
            <div class="whitepaper-tile__download-btn-container">
              <a class="whitepaper-tile__download-btn" href="" type="application/pdf;" target="_blank">
               Download
