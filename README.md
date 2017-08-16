@@ -67,6 +67,10 @@ appended onto the filename (E.g macbook.jpg and macbook@2x.jpg). The
 retina version should be twice the size of the non-retina version. See
 [style guide](https://unboxed.co/style-guide) for image resolutions.
 
+Whenever possible, you should use Photoshop or GIMP to resize images. 
+Alternatively, Apple Preview can be used with decent results
+(go to `Tools > Adjust size` and select desired size in pixels).
+
 Images should also be compressed for web.
 [ImageOptim](https://imageoptim.com/mac) can be used for this - using
 85% compression for JPGs and 90% for PNGs. You can also check the page
