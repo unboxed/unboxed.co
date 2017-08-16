@@ -1,19 +1,8 @@
 .product-story-small-tile {
-  box-sizing: border-box;
-  display: block;
-  margin-bottom: 6px;
-  padding-right: 0;
-  text-decoration: none;
+  @extend .showcase-tile;
 
   &:last-child {
     margin-bottom: 0;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    float: left;
-    width: 33.33%;
-    padding-left: 3px;
-    padding-right: 3px;
   }
 }
 
@@ -29,8 +18,7 @@
 }
 
 .product-story-small-tile__image {
-  display: block;
-  width: 100%;
+  @extend .showcase-tile__image;
 }
 
 .product-story-small-tile__content {
@@ -54,7 +42,7 @@
   }
 }
 
-.product-story-small-tile__title {
+.product-story-small-tile__description {
   color: $medium-gray;
   font-weight: 300;
   line-height: 1.3;
