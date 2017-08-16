@@ -28,7 +28,6 @@
   @extend .roles-tile;
   max-width: 100%;
   background-color: $white;
-  border: 1px solid darken($light-gray, 5%);
   padding-bottom: 0;
   padding-right: 0;
   margin-right: 6px;
@@ -81,7 +80,6 @@
   background-color: $white;
   box-sizing: border-box;
   padding: 8px;
-  border: 1px solid darken($light-gray, 5%);
   max-height: 100%;
   &:hover {
     background-color: mix($white, $light-gray);
