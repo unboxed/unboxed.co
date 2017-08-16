@@ -3,6 +3,9 @@ date: '2017-08-16 14:01 +0100'
 published: true
 title: 'Event: Breaking down the barriers to digital innovation'
 ---
+![Unboxed event](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4ebb27a0c3976632fbecd38609aed64b.png)
+
+<br/>
 # When and where?
 <b>Date:</b> Wednesday 4th October 2017<br/>
 <b>Time:</b> 09.00 – 13:30<br/>
