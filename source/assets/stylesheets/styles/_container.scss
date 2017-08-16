@@ -11,5 +11,9 @@
   @extend .container;
   box-sizing: border-box;
   overflow: hidden;
-  padding-left: 6px;
+  padding-left: 0;
+
+  @include breakpoint($tablet-breakpoint) {
+    max-width: ($desktop-breakpoint + 6px);
+  }
 }

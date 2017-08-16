@@ -2,7 +2,7 @@
   box-sizing: border-box;
   display: block;
   margin-bottom: 6px;
-  padding-right: 6px;
+  padding-right: 0;
   text-decoration: none;
 
   &:last-child {
@@ -12,6 +12,8 @@
   @include breakpoint($tablet-breakpoint) {
     float: left;
     width: 33.33%;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 }
 
