@@ -3,10 +3,13 @@
   display: block;
   margin-bottom: 6px;
   text-decoration: none;
+  padding-right: 0;
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
-    width: 33%;
+    width: 33.3%;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 }
 
@@ -15,7 +18,7 @@
   border: 1px solid darken($light-gray, 5%);
   box-sizing: border-box;
   display: block;
-  width: 100%;ht: 190px;
+  width: 100%;
 }
 
 .small-tile__content {
