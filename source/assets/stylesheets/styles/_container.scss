@@ -15,5 +15,10 @@
 
   @include breakpoint($tablet-breakpoint) {
     max-width: ($desktop-breakpoint + 6px);
+    margin: 0 -3px;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    margin: 0 auto;
   }
 }

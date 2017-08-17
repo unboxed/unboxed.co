@@ -41,11 +41,10 @@
   max-width: 100%;
   background-color: $white;
   padding-bottom: 0;
-  margin-right: 6px;
+  margin-right: 0;
 
   @include breakpoint($tablet-breakpoint) {
     height: 185px;
-    margin-right: 0px;
   }
 
   &:hover {
@@ -83,13 +82,12 @@
 
 .roles-tile__image {
   display: block;
-  max-height: 100%;
-  max-width: 100%;
+  height: 100%;
+  width: 100%;
   margin: auto;
-  margin-bottom: 9px;
+  object-fit: cover;
 
   @include breakpoint($tablet-breakpoint) {
-    margin: auto;
     margin-right: 0;
   }
 }
@@ -118,7 +116,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     font-size: .95em;
-    min-height: 11.5vw;
+    min-height: fit-content;
   }
 
   @include breakpoint($desktop-breakpoint) {

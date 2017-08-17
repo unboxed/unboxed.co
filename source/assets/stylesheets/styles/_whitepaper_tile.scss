@@ -17,10 +17,11 @@
   @include clearfix;
   background-color: $white;
   box-sizing: border-box;
-  width: 100%;
+  width: auto;
+  margin-bottom: 6px;
 
   @include breakpoint($desktop-breakpoint) {
-    margin-bottom: 6px;
+    margin: 0 3px 6px 3px;
   }
 }
 
