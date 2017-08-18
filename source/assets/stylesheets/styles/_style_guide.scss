@@ -28,6 +28,11 @@
   padding-bottom: 30px;
 }
 
+.style-guide__container-body--grey {
+  @extend .style-guide__container-body;
+  background-color: lighten($light-gray, 2%);
+}
+
 .style-guide__container-body--blog {
   @extend .style-guide__container-body;
   padding: 30px;

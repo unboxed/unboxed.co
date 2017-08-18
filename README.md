@@ -44,7 +44,7 @@ Active reloading is configured, so the server will listen for changes and refres
 
 ## Testing
 
-Using [BrowserStack](https://www.browserstack.com) for compability testing
+Using [BrowserStack](https://www.browserstack.com) for compatibility testing
 
 ## Adding to the 'people' page
 
@@ -58,3 +58,20 @@ Adding a line with emphasis directly under an image will style it as a caption:
 ![](image_url)
 *Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.*
 ```
+
+## Image Guidelines
+
+All images, excluding external links, should have a retina version and a
+non-retina version stored in the same repository, with the suffix @2x
+appended onto the filename (E.g macbook.jpg and macbook@2x.jpg). The
+retina version should be twice the size of the non-retina version. See
+[style guide](https://unboxed.co/style-guide) for image resolutions.
+
+Whenever possible, you should use Photoshop or GIMP to resize images. 
+Alternatively, Apple Preview can be used with decent results
+(go to `Tools > Adjust size` and select desired size in pixels).
+
+Images should also be compressed for web.
+[ImageOptim](https://imageoptim.com/mac) can be used for this - using
+85% compression for JPGs and 90% for PNGs. You can also check the page
+on Google PageSpeed service to see if it has been compressed enough.

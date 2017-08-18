@@ -4,7 +4,7 @@ require './lib/article_info'
 
 module Helpers
   def retina_srcset(path)
-    return %(src="#{path}") if path =~ /^http(s)?/
+    return "#{path}" if path =~ /^http(s)?/
     "#{path.gsub(/\./, '@2x.')} 2x"
   end
 
