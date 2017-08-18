@@ -13,29 +13,31 @@
 
 <%= javascript_include_tag "packery.min" %>
 <script>
-  var packeryContainer = document.querySelector('[data-packery-target]');
-  var packeryOptions = {
-    transitionDuration: 0,
-    percentPosition: true,
-    itemSelector: '.blog-tile',
-    columnWidth: '.blog-tile__grid-sizer'
-  };
+  window.onload = function() {
+    var packeryContainer = document.querySelector('[data-packery-target]');
+    var packeryOptions = {
+      transitionDuration: 0,
+      percentPosition: true,
+      itemSelector: '.blog-tile',
+      columnWidth: '.blog-tile__grid-sizer'
+    };
 
-  if (typeof window.matchMedia != "undefined" || typeof window.msMatchMedia != "undefined") {
-    var mq = matchMedia('(min-width: 660px)');
-    var packery;
+    if (typeof window.matchMedia != "undefined" || typeof window.msMatchMedia != "undefined") {
+      var mq = matchMedia('(min-width: 660px)');
+      var packery;
 
-    if (mq.matches) {
-      packery = new Packery(packeryContainer, packeryOptions);
-    }
-
-    mq.addListener(function(mql) {
-      if (mql.matches) {
+      if (mq.matches) {
         packery = new Packery(packeryContainer, packeryOptions);
-      } else {
-        packery.destroy();
       }
-    });
+
+      mq.addListener(function(mql) {
+        if (mql.matches) {
+          packery = new Packery(packeryContainer, packeryOptions);
+        } else {
+          packery.destroy();
+        }
+      });
+    }
   }
 </script>
 
