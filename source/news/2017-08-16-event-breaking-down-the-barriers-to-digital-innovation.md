@@ -47,7 +47,7 @@ Our speakers include:<br/>
 ## [Leon Odey-Knight](https://www.linkedin.com/in/leon-odey-knight-8029638/) - Creative Lead, Unboxed
 [@leonintheblind](https://twitter.com/leonintheblind)<br/>
 
-![Leon Odey-Knight](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/78c517ccae935c2807f6ad052641e5c8.png)
+![Leon Odey-Knight](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8645cb854c74fb1940697f807db40e19.png)
 
 With a focus on design thinking and human-centred design, Leon is a creative director who strives to shape the future of our continually evolving world. Recent projects he’s been involved with include [Buckinghamshire County Council](https://unboxed.co/product-stories/bucks-cc) and Guy’s & St. Thomas’ NHS Foundation Trust.<br/>
 <br/>
@@ -55,7 +55,7 @@ With a focus on design thinking and human-centred design, Leon is a creative dir
 ## [Martyn Evans](https://www.linkedin.com/in/martynrevans/) - Head of Product, Unboxed
 [@martynrevans](https://twitter.com/martynrevans)<br/>
 
-![Martyn Evans](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8162540ba2c68d568a9e92713683ae09.png)
+![Martyn Evans](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/976e892a8d2bfb46e0a3cda784f5473f.png)
 
 As Head of Product at Unboxed, Martyn collaborates with a wide range of teams and organisations to work alongside them in tackling their barriers to innovation. Recent projects he’s been involved with include [Pearson](https://unboxed.co/product-stories/pearson), [Reed Learning](https://unboxed.co/product-stories/reed-learning), [SH:24](https://unboxed.co/product-stories/sh24/) and [Newham Council](https://unboxed.co/product-stories/newham-council/).<br/>
 
@@ -66,8 +66,3 @@ As Head of Product at Unboxed, Martyn collaborates with a wide range of teams an
 # Get your place
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=37059859036&ref=etckt" frameborder="0" height="308" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
-
-
-
-
-
