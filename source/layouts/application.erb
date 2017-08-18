@@ -22,6 +22,7 @@
       <%= javascript_include_tag "html5shiv.min" %>
       <%= stylesheet_link_tag "ie8_fixes" %>
     <![endif]-->
+    <%= javascript_include_tag "object-fit-fixes/ofi.min.js" %>
     <% if content_for?(:head) %>
       <%= yield_content(:head) %>
     <% end %>
@@ -118,6 +119,9 @@
             mf.src = "//cdn.mouseflow.com/projects/29f546f9-f45c-4326-8be1-c1cdef267ce3.js";
             document.getElementsByTagName("head")[0].appendChild(mf);
         })();
+    </script>
+    <script>
+      objectFitImages();
     </script>
   </body>
 </html>

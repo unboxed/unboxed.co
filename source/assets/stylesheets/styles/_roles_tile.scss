@@ -85,7 +85,10 @@
   height: 100%;
   width: 100%;
   margin: auto;
+  //Allows image to auto crop
   object-fit: cover;
+  //Fixes object-fit for IE browsers using object-fit JS library
+  font-family: 'object-fit: cover';
 
   @include breakpoint($tablet-breakpoint) {
     margin-right: 0;
