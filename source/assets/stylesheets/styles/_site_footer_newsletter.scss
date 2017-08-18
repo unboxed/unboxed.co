@@ -38,18 +38,13 @@
 }
 
 .site-footer-newsletter__button {
-  -webkit-appearance: none;
-  appearance: none;
+  @extend .button;
+  display: block;
   background-color: $dark-gray;
-  border-radius: 0;
   border: 1px solid darken($white, 5%);
   color: darken($white, 5%);
-  cursor: pointer;
-  font-family: inherit;
   font-size: 1em;
-  font-weight: 300;
   height: 40px;
-  line-height: 1.3;
   width: 100%;
 
   &:focus,
