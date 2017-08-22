@@ -1,41 +1,44 @@
 <footer class="site-footer">
   <div class="site-footer__container">
     <div class="site-footer__tile">
-
-      <a class="site-footer__email-address" href="mailto:hello@unboxed.co" onclick='sendToGaFooterEmailClickEvent()'>
-        hello@unboxed.co
-      </a>
-
       <p class="site-footer-newsletter__introduction">
         Sign up to our newsletter
       </p>
-
       <%= partial 'newsletter', locals: { block_class: 'site-footer-newsletter', onclick_function: 'sendToGaFooterSubscribeClickEvent()' } %>
     </div>
 
+    <div class="site-footer__tile">
+      <p class="site-footer__tile-title">
+        More about Unboxed
+      </p>
+      <%= link_to 'Join us', '/jobs', class: 'site-footer__site-links' %>
+      <%= link_to 'News', '/news', class: 'site-footer__site-links' %>
+      <%= link_to 'Spinouts', '/spinouts', class: 'site-footer__site-links' %>
+      <%= link_to 'Cookie policy', '/cookie-policy', class: 'site-footer__site-links' %>
+    </div>
+
     <div class="site-footer__tile site-footer__tile--last">
+      <p class="site-footer__tile-title">
+        Contact
+      </p>
       <a class="site-footer-address__city" href="http://goo.gl/maps/AuKrs" target="_blank">
         <i class="fa fa-map-marker site-footer-address__map-icon"></i>
         <span>Unboxed</span>
       </a>
-
       <address class="site-footer-address__postal-address-london">
         17 Blossom Street<br>
         London, E1 6PL
       </address>
-
+      <a class="site-footer__email-address" href="mailto:hello@unboxed.co" onclick='sendToGaFooterEmailClickEvent()'>
+        hello@unboxed.co
+      </a>
       <a class="site-footer-address__phone-number" href="tel:+442071834250">
         <i class="fa fa-phone site-footer-address__phone-icon"></i>
         +44 20 7183 4250
       </a>
-
       <div class="site-footer-address__company-registration">
         Registered in England and Wales<br>
         05440833
-      </div>
-
-      <div class="site-footer__cookie-policy">
-        <%= link_to 'Cookie policy', '/cookie-policy', class: 'site-footer__cookie-policy-link' %>
       </div>
     </div>
 

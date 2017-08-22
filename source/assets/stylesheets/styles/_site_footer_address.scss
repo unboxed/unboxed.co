@@ -1,9 +1,8 @@
 .site-footer-address__city {
   display: block;
   color: inherit;
-  font-weight: 400;
   padding: 15px 0 10px;
-  text-decoration: none;
+  text-decoration: underline;
 
   &:after {
     content: "›";
@@ -11,8 +10,7 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    padding-bottom: 15px;
-    padding-top: 0;
+    padding: 0;
 
     &:after {
       content: ""
@@ -36,6 +34,10 @@
 .site-footer-address__postal-address-london {
   @extend .site-footer-address__postal-address;
   padding-bottom: 30px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 15px;
+  }
 }
 
 .site-footer-address__phone-number {
