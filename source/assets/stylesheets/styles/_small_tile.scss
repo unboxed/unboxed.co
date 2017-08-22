@@ -1,17 +1,27 @@
-.blog-small-tile {
+.small-tile {
   box-sizing: border-box;
   display: block;
   margin-bottom: 6px;
-  padding-right: 6px;
   text-decoration: none;
+  padding-right: 0;
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
-    width: 33%;
+    width: 33.3%;
+    padding-left: 3px;
+    padding-right: 3px;
   }
 }
 
-.blog-small-tile__content {
+.small-tile__image {
+  background-color: $white;
+  border: 1px solid darken($light-gray, 5%);
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+}
+
+.small-tile__content {
   box-sizing: border-box;
   background-color: $white;
   padding: 14px;
@@ -30,7 +40,7 @@
   }
 }
 
-.blog-small-tile__title {
+.small-tile__title {
   @include responsive-text;
   color: $purple;
   font-weight: 300;
@@ -42,7 +52,7 @@
   }
 }
 
-.blog-small-tile__author {
+.small-tile__author {
   color: $dark-gray;
   font-size: .8em;
   font-weight: 600;
@@ -57,7 +67,7 @@
   }
 }
 
-.blog-small-tile__date {
+.small-tile__date {
   color: $dark-gray;
   font-size: .8em;
 
@@ -68,4 +78,6 @@
   @include breakpoint($desktop-breakpoint) {
     font-size: .8em;
   }
+
 }
+

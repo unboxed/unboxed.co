@@ -6,11 +6,23 @@
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
+    padding-left: 3px;
+    padding-right: 3px;
     float: left;
     max-width: 50%;
     flex-grow: 1;
     flex-basis: 0;
     max-height:100%;
+
+    &:last-of-type {
+      padding-right: 0px;
+      padding-left: 3px;
+    }
+
+    &:first-of-type {
+      padding-left: 0px;
+      padding-right: 3px;
+    }
   }
 }
 
@@ -29,8 +41,7 @@
   max-width: 100%;
   background-color: $white;
   padding-bottom: 0;
-  padding-right: 0;
-  margin-right: 6px;
+  margin-right: 0;
 
   @include breakpoint($tablet-breakpoint) {
     height: 185px;
@@ -38,6 +49,10 @@
 
   &:hover {
     background-color: mix($white, $light-gray);
+  }
+
+  &:first-of-type {
+    padding-right: 0;
   }
 }
 
@@ -57,6 +72,7 @@
   justify-content: center;
 
   @include breakpoint($tablet-breakpoint) {
+    justify-content: flex-end;
     float: left;
     width: 50%;
   }
@@ -66,13 +82,16 @@
 
 .roles-tile__image {
   display: block;
-  max-height: 100%;
+  height: 100%;
+  width: 100%;
   margin: auto;
-  max-width: 100%;
-  margin-bottom: 9px;
+  //Allows image to auto crop
+  object-fit: cover;
+  //Fixes object-fit for IE browsers using object-fit JS library
+  font-family: 'object-fit: cover';
 
   @include breakpoint($tablet-breakpoint) {
-    margin-bottom: auto;
+    margin-right: 0;
   }
 }
 
@@ -100,7 +119,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     font-size: .95em;
-    min-height: 11.5vw;
+    min-height: fit-content;
   }
 
   @include breakpoint($desktop-breakpoint) {

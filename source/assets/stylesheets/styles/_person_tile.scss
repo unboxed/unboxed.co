@@ -2,10 +2,11 @@
   box-sizing: border-box;
   display: block;
   margin-bottom: 6px;
-  padding-right: 6px;
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
+    padding-left: 3px;
+    padding-right: 3px;
     float: left;
     width: 33.33%;
   }

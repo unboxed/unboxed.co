@@ -1,6 +1,9 @@
 .news-article {
   @extend .container--grid;
-  padding-right: 6px;
+
+  @include breakpoint ($desktop-breakpoint) {
+    padding-right: 6px;
+  }
 }
 
 .news-article--container {

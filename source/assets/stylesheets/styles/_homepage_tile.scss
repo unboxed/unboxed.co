@@ -1,19 +1,9 @@
 .homepage-tile {
-  box-sizing: border-box;
-  display: block;
-  margin-bottom: 6px;
-  padding-right: 6px;
-  text-decoration: none;
-
-  @include breakpoint($tablet-breakpoint) {
-    float: left;
-    width: 33.33%;
-  }
+  @extend .showcase-tile;
 }
 
 .homepage-tile__image {
-  display: block;
-  width: 100%;
+  @extend .showcase-tile__image;
 }
 
 .homepage-tile__content {

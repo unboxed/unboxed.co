@@ -1,9 +1,9 @@
 .roles {
-  padding: 30px 0 0 6px;
+  padding: 30px 0 0 0;
 
   @include breakpoint($tablet-breakpoint) {
     overflow: auto;
-    padding: 60px 0 50px 6px;
+    padding: 60px 0 50px 0;
   }
 }
 
@@ -16,5 +16,6 @@
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 50px;
+    padding-left: 20px;
   }
 }
