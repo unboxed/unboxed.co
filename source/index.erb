@@ -80,24 +80,23 @@ blog_title: "What we have been blogging about"
     </h1>
   </header>
 
-  <section class="homepage-services" data-header-waypoint>
-    <h2 class="homepage-services__title">
+  <section class="services" data-header-waypoint>
+    <h2 class="services__title">
       <%= current_page.data.services.title %>
     </h2>
-
     <% current_page.data.services.content.each do |service| %>
-      <div class="homepage-services__service">
-        <div class="homepage-service">
-          <h3 class="homepage-service__title">
+      <div class="services-container__service">
+        <div class="service">
+          <h3 class="service__title">
             <%= service.title %>
           </h3>
-          <%= image_tag service.image, alt: service.title, class: "homepage-service__image", srcset: retina_srcset(service.image) %>
-          <p class="homepage-service__paragraph">
+          <%= image_tag service.image, alt: service.title, class: "service__image", srcset: retina_srcset(service.image) %>
+          <p class="service__paragraph">
             <%= service.text %>
           </p>
         </div>
-        <div class="homepage-service__button-container">
-          <a class="homepage-service__button" href=<%= service.link %>
+        <div class="service__button-container">
+          <a class="service__button" href=<%= service.link %>
            onClick="sendToGaHomePageServiceClickEvent('<%= service.title %>');">
             Explore a related project
           </a>
