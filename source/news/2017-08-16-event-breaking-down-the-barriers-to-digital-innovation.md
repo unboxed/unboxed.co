@@ -58,6 +58,11 @@ With a focus on design thinking and human-centred design, Leon is a creative dir
 ![Martyn Evans](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/976e892a8d2bfb46e0a3cda784f5473f.png)
 
 As Head of Product at Unboxed, Martyn collaborates with a wide range of teams and organisations to work alongside them in tackling their barriers to innovation. Recent projects he’s been involved with include [Pearson](https://unboxed.co/product-stories/pearson), [Reed Learning](https://unboxed.co/product-stories/reed-learning), [SH:24](https://unboxed.co/product-stories/sh24/) and [Newham Council](https://unboxed.co/product-stories/newham-council/).<br/>
+<br/>
+
+## [Dr Anatole S Menon-Johansson](https://www.linkedin.com/in/anatolemn/) - Clinical Lead for Sexual Health, Guy's & St. Thomas' NHS Foundation Trust
+
+![Dr Anatole S Menon-Johansson](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4c660c2c56f5984d24555fa5fc09cd2f.png)
 
 <i>More speakers are to be added as they are confirmed.</i>
 <br/>
