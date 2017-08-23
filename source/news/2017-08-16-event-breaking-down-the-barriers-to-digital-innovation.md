@@ -19,15 +19,6 @@ The journey to digital “innovation” can be seen as a major challenge for pro
 The passion may be fiery within your team, so how do you then bridge the gap between the vision of where you need to be and the reality of getting there?<br/>
 
 Join us on <b>Wednesday 4th October</b> for this one-off session, where digital leaders share their real accounts and experiences of reaching that point of digital “innovation” within their teams, organisations and product offerings, as well as uncovering techniques for you to apply in achieving this within your own organisation.<br/>
-<br/>
-
-# This event will cover the techniques to:
-- Kickstart (or re-kickstart) your product or digital team’s journey to “innovation”
-- Engage your stakeholders and organisation in the steps towards your next big milestone
-- Build up the momentum needed to deliver your next big digital product
-- Catch up with your competitors in the digital marketplace
-
-<br/>
 
 <br/>
 # Who is this event for?
