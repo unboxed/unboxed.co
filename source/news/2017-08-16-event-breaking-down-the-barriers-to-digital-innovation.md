@@ -26,6 +26,7 @@ Join us on <b>Wednesday 4th October</b> for this one-off session, where digital 
 - Engage your stakeholders and organisation in the steps towards your next big milestone
 - Build up the momentum needed to deliver your next big digital product
 - Catch up with your competitors in the digital marketplace
+
 <br/>
 
 <br/>
