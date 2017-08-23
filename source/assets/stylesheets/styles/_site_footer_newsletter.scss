@@ -1,7 +1,6 @@
 .site-footer-newsletter__introduction {
-  font-weight: 300;
+  @extend .site-footer__tile-title;
   padding-bottom: 8px;
-  padding-top: 14px;
 
   @include breakpoint($tablet-breakpoint) {
     padding-bottom: 20px;

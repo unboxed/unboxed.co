@@ -31,6 +31,17 @@
   }
 }
 
+.site-footer__tile-title {
+  font-size: 1.2em;
+  font-weight: 500;
+  letter-spacing: 1px;
+  padding-bottom: 8px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-bottom: 20px;
+  }
+}
+
 .site-footer__tile--last {
   @include breakpoint($tablet-breakpoint) {
     float: right;
@@ -38,19 +49,21 @@
 }
 
 .site-footer__email-address,
-.site-footer__cookie-policy-link {
+.site-footer__site-links {
+  display: block;
   color: inherit;
-  text-decoration: none;
+  text-decoration: underline;
+}
 
-  &:hover {
-    text-decoration: underline;
+
+.site-footer__site-links {
+  padding-top: 10px;
+
+  &:first-of-type {
+    padding-top: 0;
   }
 }
 
-.site-footer__cookie-policy-link {
-  font-size: 0.8em;
-}
-
-.site-footer__cookie-policy {
-  padding-top: 10px;
+.site-footer__email-address {
+  padding-bottom: 15px;
 }
