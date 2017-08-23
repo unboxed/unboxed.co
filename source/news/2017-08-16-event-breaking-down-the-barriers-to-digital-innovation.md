@@ -22,10 +22,10 @@ Join us on <b>Wednesday 4th October</b> for this one-off session, where digital 
 <br/>
 
 # This event will cover the techniques to:
-- Kickstarting (or re-kickstarting) your product or digital team’s journey to “innovation”
-- Engaging your stakeholders and organisation in the steps towards your next big milestone
-- Building up the momentum needed to deliver your next big digital product
-- Catching up with your competitors in the digital marketplace
+- Kickstart (or re-kickstart) your product or digital team’s journey to “innovation”
+- Engage your stakeholders and organisation in the steps towards your next big milestone
+- Build up the momentum needed to deliver your next big digital product
+- Catch up with your competitors in the digital marketplace
 <br/>
 
 <br/>
