@@ -1,9 +1,9 @@
 ---
-date: "2010-04-27 00:00:00 UTC"
-published: true
-title: "We open our office in Cape Town"
+date: '2010-04-27 00:00:00 UTC'
+published: false
+title: We open our office in Cape Town
 authors:
-  - "Duncan Gurney"
+  - Duncan Gurney
 tags:
   - Rails
 ---
