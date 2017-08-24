@@ -1,0 +1,36 @@
+.activities {
+  background-color: $white;
+  padding: 30px 20px 30px 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 0px 20px 10px;
+  }
+}
+
+.activities__title {
+  @include responsive-title;
+  color: $purple;
+  font-weight: 300;
+  margin-bottom: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+}
+
+.activities__grid {
+  overflow: hidden;
+
+  @include breakpoint ($tablet-breakpoint) {
+    margin: 0 -10px;
+  }
+}
+
+.activities__activity {
+  padding: 10px 0;
+  box-sizing: border-box;
+
+  @include breakpoint ($tablet-breakpoint) {
+    float: left;
+    width: 33.33%;
+    padding: 10px 10px;
+  }
+}

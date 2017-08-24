@@ -1,0 +1,82 @@
+---
+header:
+  introduction: "Kickstart Digital Innovation"
+  image: "https://placehold.it/960x480"
+  image_description: "Header image"
+
+introduction:
+  content:
+  - "This is where we kickstart your journey to digital innovation. This journey often begins with an idea for a new digital product or service, a problem you’re facing or how you might improve an existing solution."
+  - "We begin by talking to your customers, as well as internal stakeholders, to listen to their pain points and understand their desired outcomes. Through these interactions, we form personas and user journeys to take forward. Following this, we explore different ideas through simple prototyping, testing these with customers, then summarising our insights in a portfolio of valuable innovative opportunities for your organisation."
+
+activities:
+  title: "What does this look like?"
+  content:
+    - heading: "Strategy workshops"
+      image: "https://placehold.it/880x475"
+      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
+    - heading: "Strategy workshops"
+      image: "https://placehold.it/880x475"
+      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
+    - heading: "Strategy workshops"
+      image: "https://placehold.it/880x475"
+      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
+    - heading: "Strategy workshops"
+      image: "https://placehold.it/880x475"
+      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
+    - heading: "Strategy workshops"
+      image: "https://placehold.it/880x475"
+      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
+    - heading: "Strategy workshops"
+      image: "https://placehold.it/880x475"
+      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
+
+product_stories:
+  title: "Related Product Stories"
+  content:
+    - name: "Reed Learning"
+      description: "Leading digital transformation in professional learning and development"
+      image: "/assets/images/product-stories/reed-learning.jpg"
+      link: "/product-stories/reed-learning/"
+
+    - name: "Pearson"
+      description: "Unlocking a new digital learning revenue stream with Pearson"
+      image: "/assets/images/product-stories/pearson.jpg"
+      link: "/product-stories/pearson"
+
+    - name: "SH:24"
+      description: "Transformation of NHS sexual health clinics to a digital service in 8 weeks"
+      image: "/assets/images/product-stories/sh24.jpg"
+      link: "/product-stories/sh24"
+
+
+---
+
+<%= partial 'product-stories/page_header' %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'product-stories/full_image', locals: { section: current_page.data.header} %>
+
+  <%= partial 'service-pages/full_width_text_tile_prose', locals: { section: current_page.data.introduction } %>
+
+  <section class="activities">
+    <h3 class="activities__title">
+        <%= current_page.data.activities.title %>
+    </h3>
+    <div class="activities__grid">
+      <% current_page.data.activities.content.each do |activity| %>
+        <div class="activities__activity">
+          <h3 class="activity__title">
+            <%= activity.heading %>
+          </h3>
+          <%= image_tag activity.image, alt: activity.heading, class: "service__image", srcset: retina_srcset(activity.image) %>
+          <p class="service__paragraph">
+            <%= activity.description %>
+          </p>
+        </div>
+      <% end %>
+    </div>
+  </section>
+
+  <%= partial 'showcase_tiles_section' , locals: { section: current_page.data.product_stories} %>
+</div>

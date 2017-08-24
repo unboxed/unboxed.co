@@ -1,0 +1,14 @@
+<section class="component">
+  <div class="text-tile--full-width-narrow">
+    <% if section.title %>
+      <h2 class="text-tile__title--narrow">
+        <%= section.title %>
+      </h2>
+    <% end %>
+    <% section.content.each do |item| %>
+      <p class="text-tile__paragraph">
+        <%= item %>
+      </p>
+    <% end %>
+  </div>
+</section>

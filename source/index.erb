@@ -105,21 +105,21 @@ blog_title: "What we have been blogging about"
     <% end %>
   </section>
 
-  <section class="homepage-tiles-section">
-    <h2 class="homepage-tiles-section__title">
+  <section class="showcase-tiles-section">
+    <h2 class="showcase-tiles-section__title">
       <%= current_page.data.products.title %>
     </h2>
 
     <% current_page.data.products.content.each do |product| %>
-      <a class="homepage-tile" href="<%= product.link %>" title="<%= product.name %>">
-        <div class="homepage-tile__content">
-          <%= image_tag product.image, alt: product.name, class: 'homepage-tile__image', srcset: retina_srcset(product.image) %>
+      <a class="showcase-tile" href="<%= product.link %>" title="<%= product.name %>">
+        <div class="showcase-tile__content">
+          <%= image_tag product.image, alt: product.name, class: 'showcase-tile__image', srcset: retina_srcset(product.image) %>
 
-          <h3 class="homepage-tile__title">
+          <h3 class="showcase-tile__title">
             <%= product.name %>
           </h3>
 
-          <p class="homepage-tile__paragraph">
+          <p class="showcase-tile__paragraph">
             <%= product.description %>
           </p>
         </div>
@@ -181,21 +181,21 @@ blog_title: "What we have been blogging about"
     <%= partial 'newsletter', locals: { block_class: 'homepage-newsletter', onclick_function: 'sendToGaHomePageSubscribeClickEvent()' } %>
   </section>
 
-  <section class="homepage-tiles-section">
-    <div class="homepage-tiles-section__title">
+  <section class="showcase-tiles-section">
+    <div class="showcase-tiles-section__title">
       <%= current_page.data.contributions.title %>
     </div>
 
     <% current_page.data.contributions.content.each do |contribution| %>
-      <a class="homepage-tile" href="<%= contribution.link %>" title="<%= contribution.name %>" target="_blank">
-        <div class="homepage-tile__content">
-          <%= image_tag contribution.image, alt: contribution.name, class: 'homepage-tile__image', srcset: retina_srcset(contribution.image) %>
+      <a class="showcase-tile" href="<%= contribution.link %>" title="<%= contribution.name %>" target="_blank">
+        <div class="showcase-tile__content">
+          <%= image_tag contribution.image, alt: contribution.name, class: 'showcase-tile__image', srcset: retina_srcset(contribution.image) %>
 
-          <h3 class="homepage-tile__title">
+          <h3 class="showcase-tile__title">
             <%= contribution.name %>
           </h3>
 
-          <p class="homepage-tile__paragraph">
+          <p class="showcase-tile__paragraph">
             <%= contribution.description %>
           </p>
         </div>
@@ -203,8 +203,8 @@ blog_title: "What we have been blogging about"
     <% end %>
   </section>
 
-  <section class="homepage-tiles-section">
-    <h2 class="homepage-tiles-section__title">
+  <section class="showcase-tiles-section">
+    <h2 class="showcase-tiles-section__title">
       <%= current_page.data.blog_title %>
     </h2>
 
