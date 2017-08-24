@@ -1,7 +1,7 @@
 ---
 header:
   introduction: "Kickstart Digital Innovation"
-  image: "https://placehold.it/960x480"
+  image: "/assets/images/services/kickstart-digital-innovation/service-discover.jpg"
   image_description: "Header image"
 
 introduction:
@@ -13,23 +13,23 @@ activities:
   title: "What does this look like?"
   content:
     - heading: "Strategy workshops"
-      image: "https://placehold.it/880x475"
+      image: "https://via.placeholder.com/880x475"
       description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
-    - heading: "Strategy workshops"
-      image: "https://placehold.it/880x475"
-      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
-    - heading: "Strategy workshops"
-      image: "https://placehold.it/880x475"
-      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
-    - heading: "Strategy workshops"
-      image: "https://placehold.it/880x475"
-      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
-    - heading: "Strategy workshops"
-      image: "https://placehold.it/880x475"
-      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
-    - heading: "Strategy workshops"
-      image: "https://placehold.it/880x475"
-      description: "Engaging your stakeholders in this design process, aligning the whole team around our common goals and vision."
+    - heading: "Contextual interviews"
+      image: "https://via.placeholder.com/880x475"
+      description: "Face-to-face conversations and interviews with your customers, exploring their needs."
+    - heading: "Journey mapping"
+      image: "https://via.placeholder.com/880x475"
+      description: "Plotting the ideal user journey for your customers, from entry to exit, identifying our opportunities to create value."
+    - heading: "Co-design sessions"
+      image: "https://via.placeholder.com/880x475"
+      description: "Generating ideas and co-creating early solution concepts through collaborative sketching sessions."
+    - heading: "Prototyping"
+      image: "https://via.placeholder.com/880x475"
+      description: "Creating interactive prototypes, testing with your users and generating feedback for improved solutions."
+    - heading: "Prioritising opportunities"
+      image: "https://via.placeholder.com/880x475"
+      description: "Identifying the right criteria and prioritising opportunities, creating our roadmap for development."
 
 product_stories:
   title: "Related Product Stories"
@@ -55,7 +55,7 @@ product_stories:
 <%= partial 'product-stories/page_header' %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'product-stories/full_image', locals: { section: current_page.data.header} %>
+  <%= image_tag current_page.data.header.image, alt: current_page.data.header.image_description, class: "full-image", srcset: retina_srcset(current_page.data.header.image) %>
 
   <%= partial 'service-pages/full_width_text_tile_prose', locals: { section: current_page.data.introduction } %>
 

@@ -1,0 +1,82 @@
+---
+header:
+  introduction: "Grow and improve"
+  image: "/assets/images/services/grow-and-improve/service-transform.jpg"
+  image_description: "Header image"
+
+introduction:
+  content:
+    - "Launching a live digital product or service is only the beginning of its journey. As both customer expectations and technology evolve, you need to be ready to respond to these changes."
+    - "Our teams of agile experts help you to establish a culture of continuous learning and collaboration. This allows you to iteratively analyse and improve your digital product or service, alongside ever-changing external factors. We help you build up the skillset to continuously innovate, stay ahead of the competition and deliver the best possible experiences for your customers."
+
+activities:
+  title: "What does this look like?"
+  content:
+    - heading: "Digital readiness"
+      image: "https://via.placeholder.com/880x475"
+      description: "Assessing your organisation’s readiness to support reliable delivery of growing digital products and services."
+    - heading: "Agile coaching"
+      image: "https://via.placeholder.com/880x475"
+      description: "Coaching your Product Owners and agile teams, embedding the skills to consistently and efficiently deliver service improvements."
+    - heading: "Change management"
+      image: "https://via.placeholder.com/880x475"
+      description: "Embedding the strategic skills to support cross-silo collaboration and fast feedback loops throughout your organisation."
+    - heading: "Improving existing services"
+      image: "https://via.placeholder.com/880x475"
+      description: "Working alongside your team, improving the design, development and business case of your digital product or service."
+    - heading: "System integration"
+      image: "https://via.placeholder.com/880x475"
+      description: "Ensuring your digital product or service is built for scale, through integration with existing systems and platforms."
+    - heading: "Growth hacking"
+      image: "https://via.placeholder.com/880x475"
+      description: "Experimenting across your marketing channels, identifying the most efficient and effective ways of growing your customer base."
+
+product_stories:
+  title: "Related Product Stories"
+  content:
+    - name: "Springer Nature"
+      description: "Exploring the impact of online publishing with Bookmetrix"
+      image: "/assets/images/product-stories/bookmetrix.jpg"
+      link: "/product-stories/bookmetrix/"
+
+    - name: "Contiki Holidays"
+      description: "Powerful offshore partnership creates 47% increase in bookings for Contiki Holidays"
+      image: "/assets/images/product-stories/contiki.jpg"
+      link: "/product-stories/contiki-holiday"
+
+    - name: "Newham Council"
+      description: "Improving residential access and support to homelessness services - the Discovery and Alpha phases"
+      image: "/assets/images/product-stories/newham-council.jpg"
+      link: "/product-stories/newham-council"
+
+
+---
+
+<%= partial 'product-stories/page_header' %>
+
+<div class="container" data-header-waypoint>
+  <%= image_tag current_page.data.header.image, alt: current_page.data.header.image_description, class: "full-image", srcset: retina_srcset(current_page.data.header.image) %>
+
+  <%= partial 'service-pages/full_width_text_tile_prose', locals: { section: current_page.data.introduction } %>
+
+  <section class="activities">
+    <h3 class="activities__title">
+        <%= current_page.data.activities.title %>
+    </h3>
+    <div class="activities__grid">
+      <% current_page.data.activities.content.each do |activity| %>
+        <div class="activities__activity">
+          <h3 class="activity__title">
+            <%= activity.heading %>
+          </h3>
+          <%= image_tag activity.image, alt: activity.heading, class: "service__image", srcset: retina_srcset(activity.image) %>
+          <p class="service__paragraph">
+            <%= activity.description %>
+          </p>
+        </div>
+      <% end %>
+    </div>
+  </section>
+
+  <%= partial 'showcase_tiles_section' , locals: { section: current_page.data.product_stories} %>
+</div>
