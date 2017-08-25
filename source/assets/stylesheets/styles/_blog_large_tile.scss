@@ -130,6 +130,8 @@
   display: block;
   height: 130px;
   object-fit: cover;
+  //allows object-fit to work on IE and Edge browsers. Requires object-fit-fix/ofi.min.js to be loaded
+  font-family: "object-fit: cover";
   width: 100%;
 
   @include breakpoint($tablet-breakpoint) {
