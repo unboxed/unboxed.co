@@ -26,10 +26,6 @@
   padding: 14px;
   width: 100%;
 
-  &:hover {
-    background-color: mix($white, $light-gray);
-  }
-
   @include breakpoint($tablet-breakpoint) {
     height: 386px;
   }
