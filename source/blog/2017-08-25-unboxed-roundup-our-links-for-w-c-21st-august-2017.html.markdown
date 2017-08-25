@@ -48,7 +48,7 @@ and the series of compromises and hacks that got us into the situation
 we're in where IPv4 absolutely doesn't cut it, but IPv6 hasn't been
 adopted yet.
 
-## Track of the Week - [Jakub N](/people#jakub-novotny)
+## Track of the Week - [Jakub N](https://github.com/novotnyjakub)
 
 For everyone who's going for a trip this long weekend!
 
