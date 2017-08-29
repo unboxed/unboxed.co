@@ -6,43 +6,43 @@ header:
   subtitle: "Ruby on Rails Developer"
 
 introduction:
-  title: "Are you a Ruby on Rails developer?"
-  text_1: "We are looking for Ruby on Rails developers to join our London office."
-  text_2: "Recognised as being key members in the community, our developers are responsible for building scalable, sustainable systems from project inception right through to production."
-  text_3: "We need people who can:"
+  title: "Are you a Ruby on Rails Developer?"
+  text_1: "We are on the lookout for Ruby on Rails Developers to join us in London. As a core part of our team, our developers are responsible for building scalable, sustainable systems from project inception right through to production."
+  text_2: "With the aim of broadening the diversity across our company, we are actively committed to building a more inclusive team."
+  text_3: "Some of the key activities within this role include:"
   requirements:
-    - Develop and maintain complex Ruby on Rails applications through agile ways of working
+    - Developing and maintaining Ruby on Rails applications through agile ways of working
     - Make informed decisions quickly drawing from experience across a wide technical stack
+    - Turning designs and wireframes into functional applications
     - Involve your team in discussions on progress of stories
-    - Turn designs and wireframes into functional applications
+    - Identifying areas of risk and complexity during each project
+    - Collaborating with designers, user researchers, subject matter experts and other project stakeholders
 
 developers_image:
   image: "/jobs/images/developers-1.jpg"
   image_description: "Developers presenting code"
 
 description:
-  title: "Key competencies and skills"
+  title: "Some of the skills we're looking for"
+  intro: "These are the types of skills that we expect our developers to have (but if there's anything you can't do yet, we will help you learn):"
   content:
-    - Solid experience in Ruby and Ruby on Rails
+    - Ruby and Ruby on Rails experience
     - Experience of version control (ideally Git)
     - TDD/BDD experience
     - SQL (preferably MySQL or PostgreSQL)
-    - Architect, develop and maintain complex Ruby and Rails applications
-    - Ability to work with other developers and QA testers to plan and ship projects
-    - Able to identify areas of risk and complexity during the planning process
-    - Communicate continually with team on progress of stories
+    - Ability to work in multidisciplinary teams to plan and ship projects
+    - Ability to identify areas of risk and complexity during the planning process
+    - Continual communication with your team on progress of stories
     - Can turn wireframes and designs into functional applications
-    - Write and maintain integration and unit test suites
+    - Writing and maintaining integration and unit test suites
 
 other_requirements:
-  title: "Highly desirable"
+  title: "Nice to have"
   content:
     - HTML and CSS experience
     - Experience working in an agile environment
-    - Open source contributions
     - Experience setting up and maintaining UNIX systems
     - JavaScript
-    - A keen eye for detail
     - Understanding of continuous integration and delivery
   image: "/jobs/images/developers-2.jpg"
   image_description: "Developer at work"
@@ -51,39 +51,30 @@ benefits:
   title: "Benefits of working with us"
   content:
     - 25 holiday days per year, on top of the bank holiday allowance
+    - '10 "Innovation Days" per year to explore your own ideas'
     - Holiday flexibility and loyalty bonus benefits
-    - An informal, startup culture of growth and flexible working hours
-    - 10 Innovation Days per year
-    - A generous conference budget to attend the conferences of your choice
-    - A peer-to-peer mentoring programme
-    - Life assurance policy at 4x salary
-    - A workplace pension with Standard Life
+    - Maternity and Shared Parental Leave policies
+    - A company-wide peer-to-peer mentoring programme
+    - A generous conference budget
+    - Salary reviews twice a year
+    - Flexible working hours and location
+    - An informal culture of growth
+    - Monthly "Linkers and Thinkers" idea-exploring lunches
+    - Weekly reflection at "Whines & Cheers", our Friday company retrospective
     - A 'Bike To Work' scheme
 
-developers_meeting_image:
-  image: "/jobs/images/developers-3.jpg"
-  image_description: "Developers meetup"
-
-other_benefits:
-  title: "Other benefits include"
-  content:
-    - Weekly reflection and drinks at our Whines & Cheers session (our Friday evening company retrospective)
-    - Bi-annual reviews
-    - The potential for equity in an Unboxed 'spin-off' product
-    - Monthly 'Linkers & Thinkers' lunches
-    - Your own caricature
 
 process:
   title: "What next?"
   text_1: "Send us your CV and, if we think you will make a good team member, we will get you to complete a short coding exercise. This gives you the an opportunity to showcase your approach to solving problems and for us to see your code on a clean build project."
-  text_2: "If we like what we see we will invite you in for a pairing session with one of our developers where we will talk over the choices you have made in your solution and get to know you a little better."
+  text_2: "Following this is a face-to-face pairing session with one of our developers, where we will talk over the choices you have made in your solution and get to know you a little better. You will then get to meet with one of our directors."
   image: "/jobs/images/developers-4.jpg"
   image_description: "Developers working together"
 
 developer_quote:
-  quote: "My goal is to become the best developer I can be and, for me, this ultimately means being part of a productive and stimulating community that cares about adopting best practices and sharing knowledge. That’s why I joined the Unboxed team. I believe these concepts are at the core of our success in producing high quality web applications."
-  source: "Neil van Beinum, Ruby on Rails Developer"
-  image: "/assets/images/people/neil-van-beinum.png"
+  quote: "I feel very lucky to be part of Unboxed where you are welcomed to be yourself, you're encouraged to grow and there are plenty of challenges to help you become your very best. You're given great freedom and you've got creative and passionate co-workers that are always keen to get involved in the community, tinker with new ideas and find solutions to complex problems."
+  source: "Elena Tanasoiu, Ruby on Rails Developer"
+  image: "/assets/images/people/elena-tanasoiu.png"
 
 related:
   title: "Related"
@@ -137,10 +128,6 @@ related:
   <%= partial 'jobs/text_tile', locals: { section: current_page.data.other_requirements } %>
 
   <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.benefits } %>
-
-  <%= partial 'jobs/full_image', locals: { section: current_page.data.developers_meeting_image } %>
-
-  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.other_benefits } %>
 
   <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
 
