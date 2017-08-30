@@ -54,7 +54,7 @@ With a focus on design thinking and human-centred design, Leon is a creative dir
 
 ![Craig Strong](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/161367e71d518172d1d5d02d80ef38ef.png)
 
-
+<br/>
 ## [Martyn Evans](https://www.linkedin.com/in/martynrevans/) - Head of Product, Unboxed
 [@martynrevans](https://twitter.com/martynrevans)<br/>
 
