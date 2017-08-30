@@ -34,6 +34,11 @@ This event is for:<br/>
 
 <br/>
 # Speakers
+Hosted by [Carrie Bedingfield](https://unboxed.co/people#carrie-bedingfield), Founder of [50th Generation](https://www.50thgeneration.org/), hear from digital leaders who have successfully innovated within large organisations.<br/>
+
+![Carrie Bedingfield](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0922704f5b0b610b636bc52bfeed6903.png)
+
+<br/>
 Our speakers include:<br/>
 
 ## [Leon Odey-Knight](https://www.linkedin.com/in/leon-odey-knight-8029638/) - Creative Lead, Unboxed
