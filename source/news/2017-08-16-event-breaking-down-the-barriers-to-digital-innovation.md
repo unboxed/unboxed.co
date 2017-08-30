@@ -49,6 +49,12 @@ Our speakers include:<br/>
 With a focus on design thinking and human-centred design, Leon is a creative director who strives to shape the future of our continually evolving world. Recent projects he’s been involved with include [Buckinghamshire County Council](https://unboxed.co/product-stories/bucks-cc) and Guy’s & St. Thomas’ NHS Foundation Trust.<br/>
 <br/>
 
+## [Craig Strong](https://www.linkedin.com/in/craigstrong/) - CTO (CPO), Hubble by insightsoftware.com
+[@craigstrong](https://twitter.com/craigstrong)<br/>
+
+![Craig Strong](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/161367e71d518172d1d5d02d80ef38ef.png)
+
+
 ## [Martyn Evans](https://www.linkedin.com/in/martynrevans/) - Head of Product, Unboxed
 [@martynrevans](https://twitter.com/martynrevans)<br/>
 
