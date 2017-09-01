@@ -6,6 +6,12 @@
         </h2>
     <% end %>
 
+    <% if section.intro %>
+      <p class="text-tile__paragraph" >
+        <%= section.intro %>
+      </p>
+    <% end %>
+
     <% if section.content.is_a?(Array) %>
         <ul class="text-tile__list">
           <% section.content.each do |item| %>

@@ -162,7 +162,7 @@ published: true
 
   <%= partial 'jobs/quote_caricature', locals: { section: current_page.data.alumni_quote } %>
 
-  <%= partial 'jobs/contact_us' %>
+  <%= partial 'jobs/contact_us', locals: { roles_count: current_page.data.roles.content.length } %>
 
   <%= partial 'jobs/related_tiles' %>
 </div>

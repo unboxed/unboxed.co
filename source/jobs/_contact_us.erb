@@ -1,3 +1,4 @@
+<% roles_count ||= 1 %>
 <section class="component">
   <div class="component__tile text-tile">
     <h2 class="text-tile__title">
@@ -5,7 +6,7 @@
     </h2>
 
     <p class="text-tile__paragraph--with-spacing">
-      Steve handles recruitment for Unboxed and would love to hear from you.
+    Steve is our people person. If <%= (roles_count > 1)? "one of these roles" : "this role" %> sounds of interest to you, he would love to hear from you.
     </p>
 
     <p class="text-tile__paragraph--with-spacing">
@@ -14,11 +15,10 @@
     </p>
 
     <p class="text-tile__paragraph--with-spacing">
-      From there, he'll be in touch. Good luck!
+      From there, he'll be in touch.
     </p>
     <p class="text-tile__paragraph--with-spacing">
-      (No recruiters please, we do all our hiring<br>
-      in-house)
+      Good luck! (Sorry - no recruiters please, we do all our hiring in-house).
     </p>
   </div>
 
