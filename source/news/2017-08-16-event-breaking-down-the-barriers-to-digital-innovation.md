@@ -67,6 +67,8 @@ As Head of Product at Unboxed, Martyn collaborates with a wide range of teams an
 
 ![Dr Anatole S Menon-Johansson](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4c660c2c56f5984d24555fa5fc09cd2f.png)
 
+Dr Anatole S Menon-Johansson is the clinical lead for sexual & reproductive health at Guy’s & St Thomas’ NHS Foundation Trust, clinical director for the young person charity Brook, director of SXT Health CIC, as well as a director of SH:24. Finally, Dr Menon-Johansson is an honorary lecturer at King’s College London, teaching health care policy and systems.<br/>
+
 <i>More speakers are to be added as they are confirmed.</i>
 <br/>
 
