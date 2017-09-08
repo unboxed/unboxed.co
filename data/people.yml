@@ -27,18 +27,6 @@
     - name: "GitHub"
       link: "https://github.com/pixeltrix"
 
-- name: "Sarah Beck"
-  short_name: "sarah-beck"
-  role: "Clients"
-  email: "sarah.beck"
-  bio: |
-    I started out as a Scrum Master but have since moved into client facing roles and account management, applying my wide range of skills to a variety of different projects. In my spare time, I enjoy skiing and I'm going to organise a ski trip for the office.
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/misssarahbeck"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/sarah-beck-7bab2433"
-
 - name: "Martyn Evans"
   short_name: "martyn-evans"
   role: "Product"
@@ -106,6 +94,18 @@
       link: "https://uk.linkedin.com/in/hlame"
     - name: "GitHub"
       link: "https://github.com/h-lame"
+
+- name: "Elena Tanasoiu"
+  short_name: "elena-tanasoiu"
+  role: "Developer"
+  email: "elena.tanasoiu"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/elenatanasoiu"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/elenatanasoiu"
+    - name: "GitHub"
+      link: "https://github.com/elenatanasoiu"
 
 - name: "Leon Odey Knight"
   short_name: "leon-odey-knight"
@@ -187,11 +187,6 @@
     - name: "GitHub"
       link: "https://github.com/FriedSock"
 
-- name: "Anissa Said"
-  short_name: "anissa-said"
-  role: "Admin"
-  email: "anissa.said"
-
 - name: "Neil van Beinum"
   short_name: "neil-van-beinum"
   role: "Developer"
@@ -201,18 +196,6 @@
       link: "https://twitter.com/neilvanbeinum"
     - name: "GitHub"
       link: "https://github.com/neilvb"
-
-- name: "Elena Tanasoiu"
-  short_name: "elena-tanasoiu"
-  role: "Developer"
-  email: "elena.tanasoiu"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/elenatanasoiu"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/elenatanasoiu"
-    - name: "GitHub"
-      link: "https://github.com/elenatanasoiu"
 
 - name: "Matt Turrell"
   short_name: "matt-turrell"
@@ -271,23 +254,6 @@
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/borisdivjak/"
 
-- name: "Tom Gladhill"
-  short_name: "tom-gladhill"
-  role: "Developer"
-  email: "tom.gladhill"
-
-- name: "David Henry"
-  short_name: "david-henry"
-  role: "Developer"
-  email: "david.henry"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/dw_henry"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/david-henry-000b603/"
-    - name: "Github"
-      link: "https://github.com/dwhenry"
-
 - name: "Abraao Mota"
   short_name: "abraao-mota"
   role: "Developer"
@@ -337,3 +303,20 @@
       link: "https://www.linkedin.com/in/dennis-tsiang"
     - name: "Github"
       link: "https://github.com/DennisTsiang"
+
+- name: "Tom Gladhill"
+  short_name: "tom-gladhill"
+  role: "Developer"
+  email: "tom.gladhill"
+
+- name: "David Henry"
+  short_name: "david-henry"
+  role: "Developer"
+  email: "david.henry"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/dw_henry"
+    - name: "LinkedIn"
+      link: "https://www.linkedin.com/in/david-henry-000b603/"
+    - name: "Github"
+      link: "https://github.com/dwhenry"
