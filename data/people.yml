@@ -67,20 +67,6 @@
     - name: "GitHub"
       link: "https://github.com/GramMcCram"
 
-- name: "Carrie Bedingfield"
-  short_name: "carrie-bedingfield"
-  role: "Communication"
-  email: "carrie.bedingfield"
-  bio: |
-    I connect Unboxed with the big wide world and help the business grow. I'm an ideas factory and I love digital products, information design, lean start up and 'making stuff'.
-    My other love is running - track and cross country. Some people say I have too much energy. It's possible...
-    Unboxed supports and mentors at my purpose-led business accelerator, www.50thgeneration.org
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/CBedingfield"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/carriebedingfield"
-
 - name: "Murray Steele"
   short_name: "murray-steele"
   role: "Developer"
@@ -129,6 +115,20 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/steve-lennon-2bb64555"
 
+- name: "Carrie Bedingfield"
+  short_name: "carrie-bedingfield"
+  role: "Communication"
+  email: "carrie.bedingfield"
+  bio: |
+    I connect Unboxed with the big wide world and help the business grow. I'm an ideas factory and I love digital products, information design, lean start up and 'making stuff'.
+    My other love is running - track and cross country. Some people say I have too much energy. It's possible...
+    Unboxed supports and mentors at my purpose-led business accelerator, www.50thgeneration.org
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/CBedingfield"
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/carriebedingfield"
+
 - name: "Tom Sabin"
   short_name: "tom-sabin"
   role: "Developer"
@@ -143,6 +143,16 @@
     - name: "GitHub"
       link: "https://github.com/tomsabin"
 
+- name: "Jolie Lanser"
+  short_name: "jolie-lanser"
+  role: "Scrum Master"
+  email: "jolie.lanser"
+  bio: |
+    Coming from an Academic background with a career in ICT behind me, I discovered a passion for Agile practices and became a Certified Scrum Master. My approach is empathetic, collaborative and forthright and I pride myself on obstacle removal and on enabling individuals and teams to be as productive and as happy as possible.
+  social_networks:
+    - name: "LinkedIn"
+      link: "https://uk.linkedin.com/in/jolie-lanser-a93b3210"
+
 - name: "Ben Wong"
   short_name: "ben-wong"
   role: "Developer"
@@ -154,16 +164,6 @@
       link: "https://uk.linkedin.com/in/ben-wong-45876a1"
     - name: "GitHub"
       link: "https://github.com/spannerinworks"
-
-- name: "Jolie Lanser"
-  short_name: "jolie-lanser"
-  role: "Scrum Master"
-  email: "jolie.lanser"
-  bio: |
-    Coming from an Academic background with a career in ICT behind me, I discovered a passion for Agile practices and became a Certified Scrum Master. My approach is empathetic, collaborative and forthright and I pride myself on obstacle removal and on enabling individuals and teams to be as productive and as happy as possible.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/jolie-lanser-a93b3210"
 
 - name: "Henry Turner"
   short_name: "henry-turner"
@@ -274,16 +274,6 @@
     - name: "Github"
       link: "https://github.com/jamesmarkcook"
 
-- name: "Olly Legg"
-  short_name: "olly-legg"
-  role: "Developer"
-  email: "olly.legg"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/ollylegg"
-    - name: "Github"
-      link: "https://github.com/olly"
-
 - name: "Vinul Wimalaweera"
   short_name: "vinul-wimalaweera"
   role: "Developer"
@@ -320,3 +310,13 @@
       link: "https://www.linkedin.com/in/david-henry-000b603/"
     - name: "Github"
       link: "https://github.com/dwhenry"
+
+- name: "Olly Legg"
+  short_name: "olly-legg"
+  role: "Developer"
+  email: "olly.legg"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/ollylegg"
+    - name: "Github"
+      link: "https://github.com/olly"
