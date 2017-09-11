@@ -55,7 +55,7 @@
 
 - name: "Graeme McCubbin"
   short_name: "graeme-mccubbin"
-  role: "Communication"
+  role: "Comms"
   email: "graeme.mccubbin"
   bio: |
     Howdy, I’m Graeme. I’m passionate about communication and all things digital. Never afraid to be creative - who knows where it might lead?
@@ -66,6 +66,14 @@
       link: "https://uk.linkedin.com/in/gmccubbin"
     - name: "GitHub"
       link: "https://github.com/GramMcCram"
+
+- name: "Dawn Turner"
+  short_name: "dawn-turner"
+  role: "Relationships"
+  email: "dawn.turner"
+  social_networks:
+    - name: "Twitter"
+      link: "https://twitter.com/DawnTurner21"
 
 - name: "Murray Steele"
   short_name: "murray-steele"
@@ -117,7 +125,7 @@
 
 - name: "Carrie Bedingfield"
   short_name: "carrie-bedingfield"
-  role: "Communication"
+  role: "Comms"
   email: "carrie.bedingfield"
   bio: |
     I connect Unboxed with the big wide world and help the business grow. I'm an ideas factory and I love digital products, information design, lean start up and 'making stuff'.
