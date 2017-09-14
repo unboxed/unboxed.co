@@ -89,7 +89,7 @@ So what approach did the team take?<br/>
 <br/>
 
 ## Step 1: Hiring a data performance analyst to upskill staff
-With an ex-GDS Performance Analyst on board, the digital team were upskilled and the rest of the organisation encouraged to get into the culture of data analysis. Working on a part-time basis, this Performance Analyst acted as a mentor, setting out what needed to be implemented by the team in going forward.<br/>
+With an ex-GDS Performance Analyst on board, the digital team were upskilled and the rest of the organisation encouraged to get into the culture of data analysis. Working on a part-time basis, this Performance Analyst acted as a mentor, setting out what needed to be implemented by the team going forward.<br/>
 <br/>
 
 ## Step 2: Using Google Tag Manager alongside Google Analytics
