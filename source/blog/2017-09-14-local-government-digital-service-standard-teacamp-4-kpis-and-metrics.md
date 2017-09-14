@@ -25,6 +25,7 @@ I’m in the basement of the Draft House Tower Bridge for the fourth LocalGov Di
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
 
+<br/>
 Attendees have travelled from across London and on this occasion we welcome representatives from:<br/>
 
 - London Borough of Lewisham
@@ -34,6 +35,11 @@ Attendees have travelled from across London and on this occasion we welcome repr
 - London City Hall
 - London Councils
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Colleagues from across London&#39;s councils work shopping analytics and KPI at <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> teacamp no.4 <a href="https://t.co/n99hn3CL2d">pic.twitter.com/n99hn3CL2d</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/905826509528719367">September 7, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br/>
+
+<br/>
 With the last of the tea poured and a good dent in the cake selection achieved, we take our seats as [Natalie Taylor of City Hall](https://twitter.com/NatalieRobson), and chair of the London Peer Group, opens the event with a welcome, notices and an introduction to this afternoon’s hot topic: [Point #13 of the Local Government Digital Service Standard](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/13/):<br/>
 
 ![LGDSS Point 13](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/38dd6c112efb8c90a8d09044cb64450a.png)
@@ -43,8 +49,8 @@ With the last of the tea poured and a good dent in the cake selection achieved, 
 To help us explore this point, we welcome Performance Analysts from Government Digital Service (GDS), Peter Jordan and Vinith Pillai, to the floor.<br/>
 
 ![Peter Jordan and Vinith Pillai](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/18ae02a961fb3651b0c5ad59b90dc7d3.png)
-<br/>
 
+<br/>
 Peter begins this session by introducing an iterative model of performance analysis which puts user needs at the heart of its success. He goes on to explain that knowing what good looks like can help you to decide what to measure and create a baseline for success which can be measured, tested and improved over time. And for teams delivering council services, this is key to making evidence based decisions.<br/>
 
 But it’s not all about data. Data can tell you <b>what</b> is happening, but not <i>why</i>, which is why it’s also a good idea to blend this with user research, helping you achieve a more holistic view of how a service is performing.<br/>
@@ -60,9 +66,14 @@ With this in mind, it’s now our turn. We’ve split off into small to put thes
 5. Set KPIs and targets - decide what indicators will measure success
 6. Prioritise and define next steps
 
+<br/>
 ![LGDSS Putting theory into practice](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/42ec0ec1d4f44a5df712acaab68acdcf.png)
 <br/>
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Colleagues from across London&#39;s councils work shopping analytics and KPI at <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> teacamp no.4 <a href="https://t.co/n99hn3CL2d">pic.twitter.com/n99hn3CL2d</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/905826509528719367">September 7, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br/>
 Services range and measures of success differ between each of the groups, but by completing this exercise, we’re now realising that there is definitely one thing in common; we are putting residents at the centre of this process. And if we know what these residents want, then we’re in a much better position to understand how well services are performing.<br/>
 
 As Vinith concludes; this isn’t the magic answer, but this is certainly making us think about why we’re here.<br/>
@@ -77,6 +88,7 @@ With the principles of a performance model in mind, and a few more cakes consume
 Re-launching london.gov.uk in 2015 was the very beginning of this data journey. Although the team were using Google Analytics, the site linked to a number of disparate microsites and platforms, each then with their own set of analytics. With the team’s strategic shift to include more transactional features on the site, there was need to understand how users were using this platform.<br/>
 
 So what approach did the team take?<br/>
+<br/>
 
 ## Step 1: Hiring a data performance analyst to upskill staff
 With an ex-GDS Performance Analyst on board, the digital team were upskilled and the rest of the organisation encouraged to get into the culture of data analysis. Working on a part-time basis, this Performance Analyst acted as a mentor, setting out what needed to be implemented by the team in going forward.<br/>
@@ -108,5 +120,6 @@ It’s a journey. A marathon. Not a sprint. But for the Digital Team at The Grea
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Nice to be at <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> today. Thanks for hosting us <a href="https://twitter.com/DraftHouseUK">@DraftHouseUK</a> Tower Bridge</p>&mdash; Martyn Evans (@martynrevans) <a href="https://twitter.com/martynrevans/status/905834879396581377">September 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 # TeaCamp #5
 The next TeaCamp is taking place on 20th of October, and will have sessions on “Testing the end-to-end service”. If you're interesting in attending, please send an email to David Durant at the GLA (david.durant@london.gov.uk) or come and join us in the #london-peer-group channel in the LocalGov Digital Slack.
