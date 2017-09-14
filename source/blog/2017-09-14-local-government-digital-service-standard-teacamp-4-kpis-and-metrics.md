@@ -15,15 +15,14 @@ main_image: >-
 The London Peer Group is aiming to focus on raising awareness of the Service Standard across the individual 32 boroughs of London, through a series of TeaCamps. [Unboxed](https://unboxed.co/) is supporting the London Peer Group by providing sponsorship and support.</i><br/>
 
 ![TeaCamp 4 - KPIs and metrics](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/90c9d61a14e7c4bd5c156875ce4c8c18.png)
-<br/>
 
 It’s my first week here at Unboxed and what better way to start than with an appointment to indulge in tea and cake and some good conversation.<br/>
 
 I’m in the basement of the Draft House Tower Bridge for the fourth LocalGov Digital London Peer Group TeaCamp; a regular opportunity for people working or interested in local government to come together to learn more about delivering great local digital services.<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Today&#39;s <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> is all about measuring performance. A fine collection of folk from local government in London <a href="https://t.co/xHVtUnJZqX">pic.twitter.com/xHVtUnJZqX</a></p>&mdash; LoGov Platform (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/905831478227066880">September 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br/>
 
 <br/>
 Attendees have travelled from across London and on this occasion we welcome representatives from:<br/>
@@ -35,9 +34,9 @@ Attendees have travelled from across London and on this occasion we welcome repr
 - London City Hall
 - London Councils
 
+<br/>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Colleagues from across London&#39;s councils work shopping analytics and KPI at <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> teacamp no.4 <a href="https://t.co/n99hn3CL2d">pic.twitter.com/n99hn3CL2d</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/905826509528719367">September 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br/>
 
 <br/>
 With the last of the tea poured and a good dent in the cake selection achieved, we take our seats as [Natalie Taylor of City Hall](https://twitter.com/NatalieRobson), and chair of the London Peer Group, opens the event with a welcome, notices and an introduction to this afternoon’s hot topic: [Point #13 of the Local Government Digital Service Standard](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/13/):<br/>
@@ -83,7 +82,6 @@ As Vinith concludes; this isn’t the magic answer, but this is certainly making
 With the principles of a performance model in mind, and a few more cakes consumed, we next welcome David Siddall to the front. David, who used to be the Digital Content Manager at Mayor of London, is here to share how City Hall have developed their performance analytics.<br/>
 
 ![David Siddall](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e053fb4324c5ac2179f5e9ee6112f79a.png)
-<br/>
 
 Re-launching london.gov.uk in 2015 was the very beginning of this data journey. Although the team were using Google Analytics, the site linked to a number of disparate microsites and platforms, each then with their own set of analytics. With the team’s strategic shift to include more transactional features on the site, there was need to understand how users were using this platform.<br/>
 
@@ -116,6 +114,9 @@ This is the part that takes time. But, as Natalie concludes, the process of upsk
 
 It’s a journey. A marathon. Not a sprint. But for the Digital Team at The Greater London Authority, it’s proving to be a successful one.<br/>
 <br/>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Finishing off with a quick retro by <a href="https://twitter.com/Agilesphere">@Agilesphere</a> to see how our <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> teacamps are working for you &amp; what we can do better <a href="https://t.co/xGOSyjTBkG">pic.twitter.com/xGOSyjTBkG</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/905838393996840960">September 7, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Nice to be at <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> today. Thanks for hosting us <a href="https://twitter.com/DraftHouseUK">@DraftHouseUK</a> Tower Bridge</p>&mdash; Martyn Evans (@martynrevans) <a href="https://twitter.com/martynrevans/status/905834879396581377">September 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
