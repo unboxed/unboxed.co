@@ -54,7 +54,9 @@ With a focus on design thinking and human-centred design, Leon is a creative dir
 
 ![Craig Strong](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/161367e71d518172d1d5d02d80ef38ef.png)
 
+With over 15 years of experience in developing digital products within startups and enterprises, Craig has vast expertise in global enterprise Agile and Lean transformation, development, product management, innovation, organisational change with a focus on supporting the delivery and formation of product strategies.<br/>
 <br/>
+
 ## [Martyn Evans](https://www.linkedin.com/in/martynrevans/) - Head of Product, Unboxed
 [@martynrevans](https://twitter.com/martynrevans)<br/>
 
