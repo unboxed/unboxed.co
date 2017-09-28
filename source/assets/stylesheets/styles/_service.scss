@@ -1,7 +1,7 @@
 .service {
   @include breakpoint($tablet-breakpoint) {
     width: 100%;
-    height: 440px;
+    min-height: 330px;
   }
 }
 

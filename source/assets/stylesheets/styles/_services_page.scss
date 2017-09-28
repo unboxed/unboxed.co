@@ -1,9 +1,5 @@
 .services-page-service {
   @extend .service;
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 350px;
-  }
 }
 
 .services-page-text-tile {
