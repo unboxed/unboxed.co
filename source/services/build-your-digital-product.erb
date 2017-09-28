@@ -59,7 +59,7 @@ product_stories:
 <div class="container" data-header-waypoint>
   <%= image_tag current_page.data.header.image, alt: current_page.data.header.image_description, class: "full-image", srcset: retina_srcset(current_page.data.header.image) %>
 
-  <%= partial 'service-pages/full_width_text_tile_prose', locals: { section: current_page.data.introduction } %>
+  <%= partial 'services/full_width_text_tile_prose', locals: { section: current_page.data.introduction } %>
 
   <section class="activities">
     <h3 class="activities__title">
