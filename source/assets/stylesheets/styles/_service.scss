@@ -12,28 +12,17 @@
 .service__title {
   @include responsive-text;
   margin-bottom: 16px;
-
-  @include breakpoint($tablet-breakpoint) {
-    margin-bottom: 30px;
-  }
 }
 
 .service__image {
   width: 100%;
   margin-bottom: 16px;
-
-  @include breakpoint($tablet-breakpoint) {
-    margin-bottom: 20px;
-  }
 }
 
 .service__paragraph {
+  color: $medium-gray;
   font-weight: 300;
-  line-height: 1.6em;
-
-  @include breakpoint($desktop-breakpoint) {
-    font-size: 1.1em;
-  }
+  line-height: 1.6;
 }
 
 .service__button-container {
