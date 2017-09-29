@@ -272,21 +272,6 @@
     - name: "Github"
       link: "https://github.com/jamesmarkcook"
 
-- name: "Vinul Wimalaweera"
-  short_name: "vinul-wimalaweera"
-  role: "Developer"
-  email: "vinul.wimalaweera"
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/vinul-wimalaweera"
-    - name: "Github"
-      link: "https://github.com/VinDel77"
-
-- name: "Tom Gladhill"
-  short_name: "tom-gladhill"
-  role: "Developer"
-  email: "tom.gladhill"
-
 - name: "David Henry"
   short_name: "david-henry"
   role: "Developer"
