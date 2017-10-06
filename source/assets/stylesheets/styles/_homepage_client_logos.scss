@@ -1,0 +1,29 @@
+.homepage-tile-client-logos {
+  clear: both;
+  background: white;
+  padding: 8px 4px 0;
+  margin-bottom: 6px;
+
+  &::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    margin: 0 3px;
+  }
+}
+
+.homepage-tile-client-logos__logo {
+  width: 100%;
+  padding: 0 4px 8px;
+  float: left;
+  box-sizing: border-box;
+  width: 50%;
+
+  @include breakpoint($tablet-breakpoint) {
+    width: 25%;
+  }
+}
+

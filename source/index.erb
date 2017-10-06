@@ -37,6 +37,24 @@ products:
       image: "/assets/images/product-stories/petitions.jpg"
       link: "/product-stories/petitions"
 
+  client_logos:
+    - name: "Deliveroo"
+      image: "/assets/images/homepage/logo-deliveroo.gif"
+    - name: "DPD"
+      image: "/assets/images/homepage/logo-dpd.gif"
+    - name: "Funding Circle"
+      image: "/assets/images/homepage/logo-funding-circle.gif"
+    - name: "Which?"
+      image: "/assets/images/homepage/logo-which.gif"
+    - name: "Guy's and St Thomas' NHS Foundation Trust"
+      image: "/assets/images/homepage/logo-gstt.gif"
+    - name: "Ministry of Justice"
+      image: "/assets/images/homepage/logo-moj.gif"
+    - name: "Government Digital Service"
+      image: "/assets/images/homepage/logo-gds.gif"
+    - name: "HM Land Registry"
+      image: "/assets/images/homepage/logo-hm-land-registry.gif"
+
 contact:
   title: "What about you?"
   text: "Martyn is our Head of Product. If you have a challenge, or even just a question, get in touch:"
@@ -126,6 +144,12 @@ blog_title: "What we have been blogging about"
         </div>
       </a>
     <% end %>
+
+    <div class="homepage-tile-client-logos">
+        <% current_page.data.products.client_logos.each do |client_logo| %>
+          <%= image_tag client_logo.image, alt: client_logo.name, class: 'homepage-tile-client-logos__logo', srcset: retina_srcset(client_logo.image) %>
+        <% end %>
+    </div>
   </section>
 
   <section class="homepage-contact">
