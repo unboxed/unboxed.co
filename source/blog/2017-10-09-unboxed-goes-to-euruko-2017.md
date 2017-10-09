@@ -54,6 +54,12 @@ Because progress bars on terminal commands are _mandatory_ .
 
 ![Excitement building prior to the first talk of the conference](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5354aea8e0e807b03796c7102298237e.JPG)
 
+# Euruko impressions - [Elena T](/people#elena-tanasoiu)
+
+### How to Make It As A Junior Dev and Stay Sane - [Katelyn Hertel](https://euruko2017.org/speakers/#katelyn)
+
+One of my favorite moments in the whole conference was when Katelyn Hertel started talking to us about power poses. The entire talk was great in terms of recovering from burnout, learning to say no, setting aside time in your day to have no meetings scheduled (which will keep you sane). All great advice not only for juniors, but for everyone working in this industry. But if there's one thing I'll remember it will be the moment Katelyn's voice became more confident when she started demonstrating what power poses she does to increase her confidence. It was great to see such a well put together presentation about life as a junior and her strong gif game definitely played a role in that. 
+
 # Euruko impressions - [Neil vB](/people#neil-van-beinum)
 
 ### Case Study: The Real Black Friday aka How To Scale an Unscalable Service - [Judit Ördög-Andrási](https://euruko2017.org/speakers/#judit)
@@ -66,11 +72,6 @@ One of the aspects of this talk I enjoyed was how it used a story-telling approa
 2. Infrastructure changes to scale up the service, including writing a configuration management script.
 3. Longer-term code changes including adding background jobs to perform the backend work asynchronously and deploying this change for a subset of users (known as a "dark launch") so that they could monitor and compare the changes while only testing on a smaller set of users.
 
-# Euruko impressions - [Elena T](/people#elena-tanasoiu)
-
-### How to Make It As A Junior Dev and Stay Sane - [Katelyn Hertel](https://euruko2017.org/speakers/#katelyn)
-
-One of my favorite moments in the whole conference was when Katelyn Hertel started talking to us about power poses. The entire talk was great in terms of recovering from burnout, learning to say no, setting aside time in your day to have no meetings scheduled (which will keep you sane). All great advice not only for juniors, but for everyone working in this industry. But if there's one thing I'll remember it will be the moment Katelyn's voice became more confident when she started demonstrating what power poses she does to increase her confidence. It was great to see such a well put together presentation about life as a junior and her strong gif game definitely played a role in that. 
 
 # Euruko impressions - [Chris H](/people#chris-holmes)
 
