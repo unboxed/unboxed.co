@@ -11,7 +11,7 @@ main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/099987acb4b5f5d1aa42aaa107e0d982.JPG
 ---
 
-![Euruko 2017 - Budapest at first glance](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/099987acb4b5f5d1aa42aaa107e0d982.JPG)
+![Euruko 2017 - Budapest at first glance](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6c182f7d2c02152b8d97fb01c0d63e62.JPG)
 
 Our lovely band of Unboxed developers descended upon Budapest for [Euruko 2017](https://www.euruko2017.org/), which took place between the 29th and 30th of September. We enjoyed having the opportunity to explore a lovely city full of culture, great food and beautiful sights at every turn.  
 
@@ -19,7 +19,7 @@ The conference was organized as a single track, two day conference with talks ab
 
 But before you do that here's a picture of some us enjoying the lovely Budapest sun. Mmmm, lemonade.
 
-![Euruko 2017 - Mmmmm, lemonade](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ae497411536305bf427d468fe686d041.JPG)
+![Euruko 2017 - Mmmmm, lemonade](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/17a56164f0807a79ddc8c3218e22ad67.JPG)
 
 
 # Euruko impressions - [Charlie E](/people#charlie-egan)
@@ -51,6 +51,8 @@ This was a lovely experience report about a runaway failure of a billing process
 ### Lightning talk: tty - [Piotr Murach](https://github.com/piotrmurach/tty)
 
 Because progress bars on terminal commands are _mandatory_ .
+
+![Excitement building prior to the first talk of the conference](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5354aea8e0e807b03796c7102298237e.JPG)
 
 # Euruko impressions - [Neil vB](/people#neil-van-beinum)
 
