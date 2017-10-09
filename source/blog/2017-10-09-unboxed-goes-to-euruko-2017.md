@@ -19,7 +19,7 @@ The conference was organized as a single track, two day conference with talks ab
 
 But before you do that here's a picture of some us enjoying the lovely Budapest sun. Mmmm, lemonade.
 
-![Euruko 2017 - Mmmmm, lemonde](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ae497411536305bf427d468fe686d041.JPG)
+![Euruko 2017 - Mmmmm, lemonade](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ae497411536305bf427d468fe686d041.JPG)
 
 
 # Euruko impressions - [Charlie E](/people#charlie-egan)
@@ -69,6 +69,19 @@ One of the aspects of this talk I enjoyed was how it used a story-telling approa
 ### How to Make It As A Junior Dev and Stay Sane - [Katelyn Hertel](https://euruko2017.org/speakers/#katelyn)
 
 One of my favorite moments in the whole conference was when Katelyn Hertel started talking to us about power poses. The entire talk was great in terms of recovering from burnout, learning to say no, setting aside time in your day to have no meetings scheduled (which will keep you sane). All great advice not only for juniors, but for everyone working in this industry. But if there's one thing I'll remember it will be the moment Katelyn's voice became more confident when she started demonstrating what power poses she does to increase her confidence. It was great to see such a well put together presentation about life as a junior and her strong gif game definitely played a role in that. 
+
+# Euruko impressions - [Chris H](/people#chris-holmes)
+
+This year was my first Euruko and I really enjoyed it, there was a good variety of talks in a beautiful city with lots of Rubyists, what's not to like? The 
+first day highlights for me were Matz talking us through progress toward the Ruby 3x3 (making Ruby 3 three times faster than Ruby 2) and how progress 
+with just in time compilation (MJIT), amongst other things means they are hopeful of achieving this. I also liked one of the lightning talks that introduced
+[reality](https://github.com/molybdenum-99/reality), a wikipedia wrapper written in Ruby.
+
+### How to Make It As A Junior Dev and Stay Sane - [Katelyn Hertel](https://euruko2017.org/speakers/#katelyn)
+
+My favourite moment came on the second day when Katelyn gave a talk about how to make it as a junior dev and stay sane, she talked from the perspective of a junior but also had some tips for those who may be mentoring or
+have juniors on their team. This was Katelyn's first talk and as she was talking about power poses and how they can give you confidence, she demonstrated on stage
+and her voice became noticeable more confident, it was awesome!
 
 ![Euruko 2017 - "Goodbye hug"](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/40d11413346959f50db1c2db6102def7.jpg-large)
 Source: [Amr Abdelwahab(عمرو)](https://twitter.com/amrAbdelwahab)
