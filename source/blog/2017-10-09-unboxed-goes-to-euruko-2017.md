@@ -1,5 +1,5 @@
 ---
-date: '2017-10-09 13:30 +0100'
+date: '2017-10-09 13:00 +0100'
 published: true
 title: 'Euruko 2017'
 tags:
