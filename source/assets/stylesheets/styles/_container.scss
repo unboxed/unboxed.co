@@ -1,6 +1,7 @@
 .container {
   margin: 0 auto;
   max-width: $max-mobile-container;
+  overflow: hidden;
 
   @include breakpoint($tablet-breakpoint) {
     max-width: $desktop-breakpoint;
@@ -8,17 +9,13 @@
 }
 
 .container--grid {
-  @extend .container;
-  box-sizing: border-box;
-  overflow: hidden;
-  padding-left: 0;
-
   @include breakpoint($tablet-breakpoint) {
-    max-width: ($desktop-breakpoint + 6px);
     margin: 0 -3px;
   }
 
-  @include breakpoint($desktop-breakpoint) {
-    margin: 0 auto;
+  &::after {
+    content: "";
+    display: block;
+    clear: both;
   }
 }
