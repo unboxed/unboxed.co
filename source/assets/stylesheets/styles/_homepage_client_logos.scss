@@ -1,13 +1,16 @@
 .homepage-tile-client-logos {
   clear: both;
   margin: 0 -3px 6px;
-  padding-top: 6px;
 
   &::after {
     content: "";
     display: block;
     clear: both;
   }
+  
+  @include breakpoint($tablet-breakpoint) {
+    margin: 0 0 6px;
+  }  
 }
 
 .homepage-tile-client-logos__logo {
