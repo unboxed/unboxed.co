@@ -39,6 +39,15 @@
   }
 }
 
+.text-tile--full-width-narrow {
+  @extend .text-tile--full-width;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 20px;
+    min-height: 0;
+  }
+}
+
 .text-tile__title {
   @include responsive-title;
   color: $purple;
@@ -68,11 +77,12 @@
   @include responsive-text;
   color: $black;
   font-weight: 300;
-  line-height: 1.3;
+  line-height: 1.6;
   margin-top: 16px;
 
   @include breakpoint($tablet-breakpoint) {
     margin-top: 1.6vw;
+    line-height: 1.3;
   }
 
   @include breakpoint($desktop-breakpoint) {
@@ -133,4 +143,27 @@
   @include breakpoint($desktop-breakpoint) {
     padding-bottom: 20px;
   }
+}
+
+.text-tile__title--top-margin {
+  @extend .text-tile__title;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-top: 1vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    margin-top: 10px;
+  }
+}
+
+.text-tile--double-tile--large-padding{
+  @extend .text-tile--double-tile;
+  padding-top: 15px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-top: 20px;
+    padding-bottom: 30px;
+  }
+
 }

@@ -1,0 +1,8 @@
+.activity__title {
+  font-weight: 600;
+  margin-bottom: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 20px;
+  }
+}
