@@ -1,0 +1,37 @@
+.homepage-services {
+  background-color: $white;
+  padding: 30px 0 30px 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    overflow: auto;
+    padding: 60px 0 0 20px;
+  }
+}
+
+.homepage-services__title {
+  @include responsive-title;
+  color: $purple;
+  font-weight: 300;
+  margin-bottom: 20px;
+  padding-right: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 50px;
+  }
+}
+
+.homepage-services__service {
+  box-sizing: border-box;
+  padding-right: 20px;
+  margin-bottom: 40px;
+  width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    float: left;
+    width: 33.33%;
+  }
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}

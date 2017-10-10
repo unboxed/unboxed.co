@@ -6,18 +6,18 @@ meta_keywords: "Web developers, London web developers, website developers, websi
 services:
   title: "What we do"
   content:
-    - title: "Kickstart digital innovation"
+    - title: "Start your digital journey"
       image: "/assets/images/homepage/service-discover.jpg"
-      text: "Work with our strategic agile teams to unearth, prioritise and validate the best digital opportunities for your customers and business."
-      link: "/services/kickstart-digital-innovation"
+      text: "Finding the best route when transitioning to digital is hard. Work with our strategic agile teams to unearth, prioritise and validate the best digital opportunities for your customers and business."
+      link: "/product-stories/bucks-cc"
     - title: "Build your digital product"
       image: "/assets/images/homepage/service-build.jpg"
-      text: "Collaborate with our integrated agile design and development teams to build the right product the right way."
-      link: "/services/build-your-digital-product"
-    - title: "Grow and improve"
+      text: "You want to move fast to bring your product to market, but you care about building the right product and building it the right way. Collaborate with our integrated agile design and development teams to progress to your solution."
+      link: "/product-stories/petitions"
+    - title: "Transform for innovation"
       image: "/assets/images/homepage/service-transform.jpg"
-      text: "Build a culture of agile, cross- functional collaboration and continuous learning to support your growing digital services."
-      link: "/services/grow-and-improve"
+      text: "You need to drive innovation throughout everything you do. Identify and respond quickly to the fast-paced change of digital. Team with us to build a culture of agile, cross-functional collaboration and continuous learning."
+      link: "/product-stories/sh24"
 
 products:
   title: "Who we work with"
@@ -36,6 +36,32 @@ products:
       description: "Public sector collaboration with GDS to relaunch Petitions platform for UK citizens"
       image: "/assets/images/product-stories/petitions.jpg"
       link: "/product-stories/petitions"
+
+  client_logos:
+    - name: "DPD"
+      image: "/assets/images/homepage/logo-dpd.gif"
+    - name: "Which?"
+      image: "/assets/images/homepage/logo-which.gif"
+    - name: "Sky"
+      image: "/assets/images/homepage/logo-sky.gif"
+    - name: "Not on the High Street"
+      image: "/assets/images/homepage/logo-not-on-the-highstreet.gif"
+    - name: "Funding Circle"
+      image: "/assets/images/homepage/logo-funding-circle.gif"
+    - name: "Guy's and St Thomas' NHS Foundation Trust"
+      image: "/assets/images/homepage/logo-gstt.gif"
+    - name: "Apps for Good"
+      image: "/assets/images/homepage/logo-apps-for-good.gif"
+    - name: "Government Digital Service"
+      image: "/assets/images/homepage/logo-gds.gif"
+    - name: "Ministry of Justice"
+      image: "/assets/images/homepage/logo-moj.gif"
+    - name: "HM Land Registry"
+      image: "/assets/images/homepage/logo-hm-land-registry.gif"
+    - name: "Department for Education"
+      image: "/assets/images/homepage/logo-dfe.gif"
+    - name: "Tunbridge Wells Borough Council"
+      image: "/assets/images/homepage/logo-tunbridge-wells.gif"
 
 contact:
   title: "What about you?"
@@ -80,32 +106,59 @@ blog_title: "What we have been blogging about"
     </h1>
   </header>
 
-  <section class="services" data-header-waypoint>
-    <h2 class="services__title">
+  <section class="homepage-services" data-header-waypoint>
+    <h2 class="homepage-services__title">
       <%= current_page.data.services.title %>
     </h2>
+
     <% current_page.data.services.content.each do |service| %>
-      <div class="services-container__service">
-        <div class="service">
-          <h3 class="service__title">
+      <div class="homepage-services__service">
+        <div class="homepage-service">
+          <h3 class="homepage-service__title">
             <%= service.title %>
           </h3>
-          <%= image_tag service.image, alt: service.title, class: "service__image", srcset: retina_srcset(service.image) %>
-          <p class="service__paragraph">
+          <%= image_tag service.image, alt: service.title, class: "homepage-service__image", srcset: retina_srcset(service.image) %>
+          <p class="homepage-service__paragraph">
             <%= service.text %>
           </p>
         </div>
-        <div class="service__button-container">
-          <a class="service__button" href=<%= service.link %>
+        <div class="homepage-service__button-container">
+          <a class="homepage-service__button" href=<%= service.link %>
            onClick="sendToGaHomePageServiceClickEvent('<%= service.title %>');">
-            Learn more
+            Explore a related project
           </a>
         </div>
       </div>
     <% end %>
   </section>
 
-  <%= partial 'showcase_tiles_section' , locals: { section: current_page.data.products } %>
+  <section class="homepage-tiles-section">
+    <h2 class="homepage-tiles-section__title">
+      <%= current_page.data.products.title %>
+    </h2>
+
+    <% current_page.data.products.content.each do |product| %>
+      <a class="homepage-tile" href="<%= product.link %>" title="<%= product.name %>">
+        <div class="homepage-tile__content">
+          <%= image_tag product.image, alt: product.name, class: 'homepage-tile__image', srcset: retina_srcset(product.image) %>
+
+          <h3 class="homepage-tile__title">
+            <%= product.name %>
+          </h3>
+
+          <p class="homepage-tile__paragraph">
+            <%= product.description %>
+          </p>
+        </div>
+      </a>
+    <% end %>
+
+    <div class="homepage-tile-client-logos">
+        <% current_page.data.products.client_logos.each do |client_logo| %>
+          <%= image_tag client_logo.image, alt: client_logo.name, class: 'homepage-tile-client-logos__logo', srcset: retina_srcset(client_logo.image) %>
+        <% end %>
+    </div>
+  </section>
 
   <section class="homepage-contact">
     <div class="homepage-contact__container">
@@ -161,10 +214,30 @@ blog_title: "What we have been blogging about"
     <%= partial 'newsletter', locals: { block_class: 'homepage-newsletter', onclick_function: 'sendToGaHomePageSubscribeClickEvent()' } %>
   </section>
 
-  <%= partial 'showcase_tiles_section' , locals: { section: current_page.data.contributions } %>
+  <section class="homepage-tiles-section">
+    <div class="homepage-tiles-section__title">
+      <%= current_page.data.contributions.title %>
+    </div>
 
-  <section class="showcase-tiles-section">
-    <h2 class="showcase-tiles-section__title">
+    <% current_page.data.contributions.content.each do |contribution| %>
+      <a class="homepage-tile" href="<%= contribution.link %>" title="<%= contribution.name %>" target="_blank">
+        <div class="homepage-tile__content">
+          <%= image_tag contribution.image, alt: contribution.name, class: 'homepage-tile__image', srcset: retina_srcset(contribution.image) %>
+
+          <h3 class="homepage-tile__title">
+            <%= contribution.name %>
+          </h3>
+
+          <p class="homepage-tile__paragraph">
+            <%= contribution.description %>
+          </p>
+        </div>
+      </a>
+    <% end %>
+  </section>
+
+  <section class="homepage-tiles-section">
+    <h2 class="homepage-tiles-section__title">
       <%= current_page.data.blog_title %>
     </h2>
 
