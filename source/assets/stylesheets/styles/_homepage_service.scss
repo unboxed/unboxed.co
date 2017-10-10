@@ -1,36 +1,47 @@
-.service {
+.homepage-service {
   @include breakpoint($tablet-breakpoint) {
     width: 100%;
-    min-height: 330px;
+    height: 440px;
   }
 }
 
-.service--white {
+.homepage-service--white {
   color: $white;
 }
 
-.service__title {
+.homepage-service__title {
   @include responsive-text;
   margin-bottom: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 30px;
+  }
 }
 
-.service__image {
+.homepage-service__image {
   width: 100%;
   margin-bottom: 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 20px;
+  }
 }
 
-.service__paragraph {
-  color: $medium-gray;
+.homepage-service__paragraph {
   font-weight: 300;
-  line-height: 1.6;
+  line-height: 1.6em;
+
+  @include breakpoint($desktop-breakpoint) {
+    font-size: 1.1em;
+  }
 }
 
-.service__button-container {
+.homepage-service__button-container {
   margin-bottom: 10px;
   margin-top: 20px;
 }
 
-.service__button {
+.homepage-service__button {
   @extend .button;
   background-color: $white;
   border: 1px solid $purple;
@@ -49,5 +60,4 @@
     background-color: $purple;
     color: $white;
   }
-
 }
