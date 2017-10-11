@@ -22,7 +22,7 @@ With welcomes and introductions by [Natalie Taylor](https://twitter.com/NatalieR
 ![TeaCamp - Natalie Taylor](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cc1f9f780bb609a1b2078ec75d67e38a.JPG)
 
 <br/>
-For this TeaCamp installment, we’re joined by Tobi Ogunsina, Product Manager at [GDS](https://gds.blog.gov.uk/), and Catherine Clubbs, User Experience Researcher at GDS. They’re (very kindly) here to guide us through all there is to know about the Digital Marketplace. And we’re all very excited.<br/>
+For this TeaCamp installment, we’re joined by Tobi Ogunsina, Product Manager at [GDS](https://gds.blog.gov.uk/), and her colleague, a User Experience Researcher at GDS. They’re (very kindly) here to guide us through all there is to know about the Digital Marketplace. And we’re all very excited.<br/>
 
 ![TeaCamp - Tobi Ogunsina](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/226dee30ff92be7369f8f3b5891287aa.JPG)
 
@@ -118,7 +118,7 @@ The total current spend of Digital Marketplace sales is approximately £2billion
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
-Sharing a full exploration into the Digital Marketplace, Tobi and Catherine conclude their session with an all-important demo of how this all works, from a buyer’s perspective. Wrapping up the session is a shared link to the [Digital Marketplace blog](https://digitalmarketplace.blog.gov.uk), more about [user research for the Digital Marketplace](https://digitalmarketplace.blog.gov.uk/2015/01/30/user-research-for-digital-marketplace/) and an opportunity for questions and discussion across the room.<br/>
+Sharing a full exploration into the Digital Marketplace, Tobi and her colleague conclude their session with an all-important demo of how this all works, from a buyer’s perspective. Wrapping up the session is a shared link to the [Digital Marketplace blog](https://digitalmarketplace.blog.gov.uk), more about [user research for the Digital Marketplace](https://digitalmarketplace.blog.gov.uk/2015/01/30/user-research-for-digital-marketplace/) and an opportunity for questions and discussion across the room.<br/>
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Big thanks to <a href="https://twitter.com/Agilesphere">@Agilesphere</a> <a href="https://twitter.com/LoGovPlatform">@LoGovPlatform</a> @ukgovdigimkt  <a href="https://twitter.com/ScottWilkie1215">@ScottWilkie1215</a> <a href="https://twitter.com/grove_richard">@grove_richard</a> and everyone who participated in <a href="https://twitter.com/hashtag/lgdss?src=hash">#lgdss</a> teacamp</p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/880481155044311040">June 29, 2017</a></blockquote>
