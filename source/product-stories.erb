@@ -81,19 +81,21 @@ product_stories:
   </div>
 </header>
 
-<div class="container--grid" data-header-waypoint>
-  <% current_page.data.product_stories.each_with_index do |product_story, index| %>
-    <% class_name = index == 0 ? "product-story-large-tile" : "product-story-small-tile" %>
-    <a class="<%= class_name %>" href="<%= product_story.link %>">
-      <div class="<%= class_name %>__container">
-        <%= image_tag product_story.image, alt: product_story.client, class: "#{class_name}__image", srcset: retina_srcset(product_story.image) %>
-        <div class="<%= class_name %>__content">
-          <div class="<%= class_name %>__client"><%= product_story.client %></div>
-          <div class="<%= class_name %>__description"><%= product_story.description %></div>
+<div class="container">
+  <div class="container--grid" data-header-waypoint>
+    <% current_page.data.product_stories.each_with_index do |product_story, index| %>
+      <% class_name = index == 0 ? "product-story-large-tile" : "product-story-small-tile" %>
+      <a class="<%= class_name %>" href="<%= product_story.link %>">
+        <div class="<%= class_name %>__container">
+          <%= image_tag product_story.image, alt: product_story.client, class: "#{class_name}__image", srcset: retina_srcset(product_story.image) %>
+          <div class="<%= class_name %>__content">
+            <div class="<%= class_name %>__client"><%= product_story.client %></div>
+            <div class="<%= class_name %>__description"><%= product_story.description %></div>
+          </div>
         </div>
-      </div>
-    </a>
-  <% end %>
+      </a>
+    <% end %>
+  </div>
 </div>
 
 <%= partial 'book_meeting' %>

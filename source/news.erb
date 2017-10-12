@@ -15,30 +15,32 @@ blog: 'news'
   </div>
 </header>
 
-<div class="container--grid" data-header-waypoint>
-  <% page_articles.each do |article| %>
-    <a class="news-tile" href="<%= article.url %>">
-      <div class="news-tile__container">
-        <div class="news-tile__top-content">
-          <div class="news-tile__title">
-            <%= truncate(article.title, length: 70) %>
-          </div>
-
-          <div>
-            <div class="news-tile__date">
-              posted on: <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
+<div class="container">
+  <div class="container--grid" data-header-waypoint>
+    <% page_articles.each do |article| %>
+      <a class="news-tile" href="<%= article.url %>">
+        <div class="news-tile__container">
+          <div class="news-tile__top-content">
+            <div class="news-tile__title">
+              <%= truncate(article.title, length: 70) %>
+            </div>
+  
+            <div>
+              <div class="news-tile__date">
+                posted on: <%= Time.parse(article.data.date).strftime("%B %e, %Y") %>
+              </div>
             </div>
           </div>
+  
+          <div class="news-tile__bottom-content">
+            <p class="news-tile__article-body">
+              <%= truncate(strip_tags(article.body), length: 250) %>
+            </p>
+          </div>
         </div>
-
-        <div class="news-tile__bottom-content">
-          <p class="news-tile__article-body">
-            <%= truncate(strip_tags(article.body), length: 250) %>
-          </p>
-        </div>
-      </div>
-    </a>
-  <% end %>
+      </a>
+    <% end %>
+  </div>
 </div>
 
 <%= partial 'book_meeting' %>

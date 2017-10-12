@@ -44,67 +44,69 @@ offices:
   </div>
 </header>
 
-<div class="container--grid" id="offices" data-header-waypoint>
-  <% current_page.data.offices.each do |office| %>
-    <div class="contact-page-tile" id="<%= office.name.gsub(/\s+/, "") %>">
-      <div class="contact-page-tile__container">
-
-        <div class="contact-page-tile__content">
-          <p class="contact-page-tile__title"><%= office.name %></p>
-          <address class="contact-page-address">
-            <%= simple_format office.address %>
-          </address>
-
-          <% if office.calendly_link %>
-            <div class="contact-page-address__button-container">
-              <a class="contact-page-address__button" href="<%= office.calendly_link %>"
-                 onClick="sendToGaContactPageBookMeetingClickEvent()"
-                 target="_blank">
-                <%= office.calendly_link_title %>
+<div class="container">
+  <div class="container--grid" id="offices" data-header-waypoint>
+    <% current_page.data.offices.each do |office| %>
+      <div class="contact-page-tile" id="<%= office.name.gsub(/\s+/, "") %>">
+        <div class="contact-page-tile__container">
+  
+          <div class="contact-page-tile__content">
+            <p class="contact-page-tile__title"><%= office.name %></p>
+            <address class="contact-page-address">
+              <%= simple_format office.address %>
+            </address>
+  
+            <% if office.calendly_link %>
+              <div class="contact-page-address__button-container">
+                <a class="contact-page-address__button" href="<%= office.calendly_link %>"
+                   onClick="sendToGaContactPageBookMeetingClickEvent()"
+                   target="_blank">
+                  <%= office.calendly_link_title %>
+                </a>
+              </div>
+            <% end %>
+  
+            <div class="contact-page-address__phone-number">
+              <a href="tel:<%= office.phone_number %>">
+                <i class="fa fa-phone contact-page-address__phone-icon"></i>
+                <%= office.humanized_phone_number %>
               </a>
             </div>
-          <% end %>
-
-          <div class="contact-page-address__phone-number">
-            <a href="tel:<%= office.phone_number %>">
-              <i class="fa fa-phone contact-page-address__phone-icon"></i>
-              <%= office.humanized_phone_number %>
-            </a>
+  
+            <div class="contact-page-address__email">
+              <a href="mailto:<%= office.email %>" onclick='sendToGaContactPageEmailClickEvent()'>
+                <i class="fa fa-envelope contact-page-address__email-icon"></i>
+                <%= office.email %>
+              </a>
+            </div>
+  
+            <div class="contact-page-address__map-link">
+              <a href="<%= office.map_link %>" target="_blank">
+                <i class="fa fa-map-marker fa-lg contact-page-address__map-icon"></i>
+                <%= office.map_link_title %>
+              </a>
+            </div>
+  
+            <div class="contact-page-address__directions">
+              <%= office.transport_directions %>
+               <ul>
+                 <% office.station_and_parking.each do |place| %>
+                   <li class="contact-page-address__direction-point">
+                     <a href="<%= place.link %>" target="_blank">
+                       <%= image_tag place.icon, class: 'contact-page-address__transport-icon', alt: place.name %>
+                       <%= place.name %>
+                     </a>
+                   </li>
+                 <% end %>
+               </ul>
+            </div>
           </div>
-
-          <div class="contact-page-address__email">
-            <a href="mailto:<%= office.email %>" onclick='sendToGaContactPageEmailClickEvent()'>
-              <i class="fa fa-envelope contact-page-address__email-icon"></i>
-              <%= office.email %>
-            </a>
-          </div>
-
-          <div class="contact-page-address__map-link">
-            <a href="<%= office.map_link %>" target="_blank">
-              <i class="fa fa-map-marker fa-lg contact-page-address__map-icon"></i>
-              <%= office.map_link_title %>
-            </a>
-          </div>
-
-          <div class="contact-page-address__directions">
-            <%= office.transport_directions %>
-             <ul>
-               <% office.station_and_parking.each do |place| %>
-                 <li class="contact-page-address__direction-point">
-                   <a href="<%= place.link %>" target="_blank">
-                     <%= image_tag place.icon, class: 'contact-page-address__transport-icon', alt: place.name %>
-                     <%= place.name %>
-                   </a>
-                 </li>
-               <% end %>
-             </ul>
-          </div>
+  
+          <iframe class="contact-page-tile__image" frameBorder='0' src="<%= office.interactive_map %>"></iframe>
         </div>
-
-        <iframe class="contact-page-tile__image" frameBorder='0' src="<%= office.interactive_map %>"></iframe>
       </div>
-    </div>
-  <% end %>
+    <% end %>
+  </div>
 </div>
 
 <script>
