@@ -18,4 +18,12 @@
       </div>
     </a>
   <% end %>
+
+  <% if section.client_logos %>
+    <div class="showcase-tile-client-logos">
+      <% section.client_logos.each do |client_logo| %>
+        <%= image_tag client_logo.image, alt: client_logo.name, class: 'showcase-tile-client-logos__logo', srcset: retina_srcset(client_logo.image) %>
+      <% end %>
+    </div>
+  <% end %>
 </section>
