@@ -1,12 +1,4 @@
 .news-article {
-  @extend .container--grid;
-
-  @include breakpoint ($desktop-breakpoint) {
-    padding-right: 6px;
-  }
-}
-
-.news-article--container {
   background-color: $white;
   box-sizing: border-box;
   margin-top: 6px;
