@@ -42,9 +42,11 @@ Automated or manual, scripted or exploratory? When it comes to testing your end-
 Only manual testing can notice the unexpected; a tool will only check what you tell it to check and verify the assumptions that it is programmed to do, though automated testing can test large volumes of data once the scripts have been developed. Scripted testing can lead to a range of small complex tests in a short space of time and be used for a large number of repeatable tests. But exploratory testing can look beyond the expected correct responses and error displays and find new things that should be added as automated tests.
 
 This tells us that there are clearly benefits and limitations to each style of testing, which is why, as Steve explains, you need to identify the right balance based on the context and be aware that this may change over time. For example, exploratory testing would help to highlight issues for a new piece of software that has been developed. These issues can then be frequently testing using automated tests to ensure the journey isn’t broken by any further development.
+
 <br>
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">“Always a balance to be struck in testing, speed vs thoroughness, cost vs risk. “ Steve Green <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921046721727262721?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <br>
+
 But, as obvious as this sounds, it rarely happens in practice. People tend to do what they have always done. If you want to effectively test your software, you need a strategy so you can respond to any changes and adjust your testing accordingly. Having a plan allows you to evaluate where you are now and where you want to be in the future. You need a starting point to be able to evaluate improvement over time.
 
 ## ..in an environment similar to that of the live environment..
