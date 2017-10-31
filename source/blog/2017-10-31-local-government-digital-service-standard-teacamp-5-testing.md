@@ -8,15 +8,13 @@ title: 'Local Government Digital Service Standard - TeaCamp #5: Testing '
 
 The London Peer Group is aiming to focus on raising awareness of the Service Standard across the individual 32 boroughs of London, through a series of TeaCamps. [Unboxed](https://unboxed.co/) is supporting the London Peer Group by providing sponsorship and support.</i><br/>
 
-![TeaCamp 4 - KPIs and metrics](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/90c9d61a14e7c4bd5c156875ce4c8c18.png)
+![TeaCamp 4 - KPIs and metrics](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2be97330956688953089486fa0ebf6b3.png)
 
 Six weeks have flown by and it’s again time for the LocalGov Digital London Peer Group TeaCamp. On this occasion we are meeting at the heart of Whitehall at Richmond House - the official base for the Department of Health.
 
 New location, new faces. We are pleased to welcome some new attendees to the group, including representatives from the Department of Transport, the Local Government Association and Waltham Forest; all keen to find out more about Point 8 of the Digital Standard:
 
-ENTER SLIDE SHOWING POINT 10
-
-ENTER PHOTO 1
+![LocalGov Digital Service Standard Point 8](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/31f0d91b7e0d879d4bc65936d148cb2a.png)
 
 [Couldn’t make it? Watch a video recording of TeaCamp #5](https://www.youtube.com/watch?v=marezpAuGGo)
 
@@ -28,7 +26,7 @@ Parish notices complete, it is time to hear from our data testing experts. First
 
 See Steve Green’s full presentation slide deck (link to PowerPoint)
 
-ENTER PHOTO 2
+![Steve Green presenting](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/356111439289e6dc3528820790cab0e2.jpg)
 
 ## Testing the end to end service..
 
@@ -60,7 +58,7 @@ It can be difficult to access old versions of browsers once they are updated. Fi
 
 To conclude the session Steve reminds us that testing is infinite. It is never complete and never completely thorough. It cannot give certainty that the software is bug free, but by making the right choices about the testing you do, it can reduce risk. It is also important to have a team who can support the product by fixing bugs rather than just keeping the servers running.
 
-ENTER PHOTO
+![David Durant presenting](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a943b499349629f2010e9b47ef7162b0.jpg)
 
 ## An introduction to automated software testing
 
@@ -82,6 +80,8 @@ Automated testing has come a long way over the years. The more you can automate 
 It’s now past 6pm and Natalie draws TeaCamp to a close, but the conversation is still in full flow. Clearly it’s time for #BeerCamp.
 
 If the session has whet your appetite for finding out more about software testing? Check out [Point 10 of the Government’s Digital Service Standard: Test the end-to-end service](https://www.gov.uk/service-manual/service-standard/test-the-end-to-end-service)
+
+![Conversation over tea and cake](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4822a9c927e36cbbc89c52daa71ca268.jpg)
 
 ## TeaCamp 6
 
