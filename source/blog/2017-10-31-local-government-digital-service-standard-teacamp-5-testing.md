@@ -1,7 +1,16 @@
 ---
 date: '2017-10-31 17:36 +0000'
-published: false
-title: 'Local Government Digital Service Standard - TeaCamp #5: Testing '
+published: true
+title: >-
+  Local Government Digital Service Standard - TeaCamp #5: Testing the end-to-end
+  service 
+authors:
+  - Dawn Turner
+tags:
+  - Agile
+  - Innovation
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4822a9c927e36cbbc89c52daa71ca268.jpg
 ---
 
 <i>As a network for digital practitioners in local government, LocalGov Digital is on a mission to raise standards in web provision and the use of digital by councils across the country.<br/>
@@ -12,7 +21,7 @@ The London Peer Group is aiming to focus on raising awareness of the Service Sta
 
 Six weeks have flown by and it’s again time for the LocalGov Digital London Peer Group TeaCamp. On this occasion we are meeting at the heart of Whitehall at Richmond House - the official base for the Department of Health.
 
-New location, new faces. We are pleased to welcome some new attendees to the group, including representatives from the Department of Transport, the Local Government Association and Waltham Forest; all keen to find out more about Point 8 of the Digital Standard:
+New location, new faces. We are pleased to welcome some new attendees to the group, including representatives from the Department of Transport, the Local Government Association and Waltham Forest; all keen to find out more about [Point 8 of the Digital Standard](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/8/):
 
 ![LocalGov Digital Service Standard Point 8](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/31f0d91b7e0d879d4bc65936d148cb2a.png)
 
@@ -24,8 +33,6 @@ As the founding member of the London LocalGov Digital Peer Group, she has worked
 
 Parish notices complete, it is time to hear from our data testing experts. First we welcome Steve Green, managing director of Digital Partners who has joined us to talk about Point 8 of the Service Standard in regards to front end software testing.
 
-See Steve Green’s full presentation slide deck (link to PowerPoint)
-
 ![Steve Green presenting](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/356111439289e6dc3528820790cab0e2.jpg)
 
 ## Testing the end to end service..
@@ -36,7 +43,7 @@ Only manual testing can notice the unexpected; a tool will only check what you t
 
 This tells us that there are clearly benefits and limitations to each style of testing, which is why, as Steve explains, you need to identify the right balance based on the context and be aware that this may change over time. For example, exploratory testing would help to highlight issues for a new piece of software that has been developed. These issues can then be frequently testing using automated tests to ensure the journey isn’t broken by any further development.
 
-ENTER TWEET 1
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">“Always a balance to be struck in testing, speed vs thoroughness, cost vs risk. “ Steve Green <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921046721727262721?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 But, as obvious as this sounds, it rarely happens in practice. People tend to do what they have always done. If you want to effectively test your software, you need a strategy so you can respond to any changes and adjust your testing accordingly. Having a plan allows you to evaluate where you are now and where you want to be in the future. You need a starting point to be able to evaluate improvement over time.
 
@@ -52,7 +59,7 @@ The Standard says that you should ‘analyse current user behaviour to determine
 
 He believes that if the experience is poor in a particular browser or device, usage statistics could be disproportionately low, so should be compared with other statistical sources that have a similar user base and methodology. A time period of 1 week to 1 month should be enough to get a good idea of what people are using.
 
-ENTER TWEET 2
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Want to know which browsers you should be testing your applications on? Here are some free resources you can use <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a> <a href="https://twitter.com/LocalGovDigital?ref_src=twsrc%5Etfw">@LocalGovDigital</a> <a href="https://t.co/bvEljUbxkz">pic.twitter.com/bvEljUbxkz</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921046116296286208?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 It can be difficult to access old versions of browsers once they are updated. Firefox tends to keep an archive, but Safari doesn’t. So a word of advice from Steve: store versions of browsers while they are still available, but also make a decision about which versions you are going to support.
 
@@ -64,14 +71,11 @@ To conclude the session Steve reminds us that testing is infinite. It is never c
 
 Speaking from a more technical perspective, David Durant who is a Senior Business Analyst at the GLA, is up next to give an insight into the world of automated testing.
 
-See David Durant’s full presentation slide deck (PowerPoint)
-
 In its early days, automated testing helped developers to test specific blocks of system code, but only in isolation from each other. Nowadays we have handy tools such as Jenkins, which can run automated tests of individual units of code, and again once they are integrated. Being able to test a complete end-to-end user journey, usually with a plug in called Selenium, developers can be alerted if a new section of code breaks code that had previously been added.
 
-ENTER TWEET
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/cholten99?ref_src=twsrc%5Etfw">@cholten99</a> explaining the delights of Jenkins, unit, smoke, black box, load &amp; pen testing. <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a> <a href="https://t.co/yyjnSUyQNv">pic.twitter.com/yyjnSUyQNv</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921056478227849217?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 Automated testing can be used to test all sorts of things including different browsers and how many interactions a piece of software can take.
-
 
 But thanks to software such as Cucumber, automated testing can also help to determine whether a product meets the needs of front end users. By running automated user acceptance tests in a Behaviour Driven Development (BDD) style, a particular behaviour (written in plain English) can be converted into a test script to verify that it works in the system. This approach allows product owners to apply structure to their requirements, which in turn gives developers a solid foundation of what the software should be.
 
