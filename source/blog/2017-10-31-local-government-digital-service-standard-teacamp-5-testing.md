@@ -35,7 +35,7 @@ Parish notices complete, it is time to hear from our data testing experts. First
 
 ![Steve Green presenting](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/356111439289e6dc3528820790cab0e2.jpg)
 
-## Testing the end to end service..
+# Testing the end to end service..
 
 Automated or manual, scripted or exploratory? When it comes to testing your end-to-end service, there can be some uncertainty around which option or combination to choose.
 
@@ -49,13 +49,13 @@ This tells us that there are clearly benefits and limitations to each style of t
 
 But, as obvious as this sounds, it rarely happens in practice. People tend to do what they have always done. If you want to effectively test your software, you need a strategy so you can respond to any changes and adjust your testing accordingly. Having a plan allows you to evaluate where you are now and where you want to be in the future. You need a starting point to be able to evaluate improvement over time.
 
-## ..in an environment similar to that of the live environment..
+# ..in an environment similar to that of the live environment..
 
 If you want accurate repeatable results, you need to think about setting up a test environment that can recreate the conditions of a typical user.
 
 To do this Steve suggests using a ‘clean’ test machines that only have the operating system installed and to avoid the use virtual systems or emulators. But, as one attendee points out, what about the cloud based testing tool, Selenium? This leads to some useful group discussion on the subject.
 
-## ..including all browsers and devices
+# ..including all browsers and devices
 
 The Standard says that you should ‘analyse current user behaviour to determine the device and browser types in use.’ Steve considers this to be valid up to a point, but where possible you should look beyond your data set.
 
@@ -69,9 +69,15 @@ It can be difficult to access old versions of browsers once they are updated. Fi
 
 To conclude the session Steve reminds us that testing is infinite. It is never complete and never completely thorough. It cannot give certainty that the software is bug free, but by making the right choices about the testing you do, it can reduce risk. It is also important to have a team who can support the product by fixing bugs rather than just keeping the servers running.
 
-![David Durant presenting](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a943b499349629f2010e9b47ef7162b0.jpg)
+See Steve's presentation:<br/>
 
-## An introduction to automated software testing
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/c2kvqvlxD6Cm84" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/secret/c2kvqvlxD6Cm84" title="GLA Testing Presentation by Test Partners Ltd v1" target="_blank">GLA Testing Presentation by Test Partners Ltd v1</a> </strong> from <strong><a href="https://www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
+
+
+
+# An introduction to automated software testing
+
+![David Durant presenting](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a943b499349629f2010e9b47ef7162b0.jpg)
 
 Speaking from a more technical perspective, David Durant who is a Senior Business Analyst at the GLA, is up next to give an insight into the world of automated testing.
 
@@ -87,13 +93,18 @@ But thanks to software such as Cucumber, automated testing can also help to dete
 
 Automated testing has come a long way over the years. The more you can automate through clever and strategic script writing, the more ground you can cover for testing.
 
+See David's presentation here:<br/>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/NzummMy48J2Zvj" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/teacamp-5-automated-software-testing" title="TeaCamp #5: Automated software testing" target="_blank">TeaCamp #5: Automated software testing</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
+
+
 It’s now past 6pm and Natalie draws TeaCamp to a close, but the conversation is still in full flow. Clearly it’s time for #BeerCamp.
 
 If the session has whet your appetite for finding out more about software testing? Check out [Point 10 of the Government’s Digital Service Standard: Test the end-to-end service](https://www.gov.uk/service-manual/service-standard/test-the-end-to-end-service)
 
 ![Conversation over tea and cake](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4822a9c927e36cbbc89c52daa71ca268.jpg)
 
-## TeaCamp 6
+# TeaCamp #6
 
 We’ll be back in our usual spot, in the basement of the Draught House in Tower Bridge, for our TeaCamp on Thursday 30 November. We will focus on [Point #12 of the Local Government Digital Service Standard](http://localgovdigital.info/localgov-digital-makers/outputs/local-government-digital-service-standard/standard/12/):
 
