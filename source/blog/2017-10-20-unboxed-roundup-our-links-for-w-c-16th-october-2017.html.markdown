@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: 'Roundup: software that writes software, psychological safety, microserverices, and iOS privacy'
+title: 'Roundup: software that writes software, psychological safety, microservices, and iOS privacy'
 date: '2017-10-20 13:30:00 UTC'
 authors:
   - 'Murray Steele'

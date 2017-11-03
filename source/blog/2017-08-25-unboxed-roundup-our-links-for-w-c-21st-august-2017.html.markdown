@@ -1,6 +1,7 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 21st August 2017'
+title: 'Roundup: ruby date recurrence, an unexpected side effect, 
+bash docs and history of internetworking'
 date: '2017-08-25 13:30:00 UTC'
 authors:
   - 'Murray Steele'

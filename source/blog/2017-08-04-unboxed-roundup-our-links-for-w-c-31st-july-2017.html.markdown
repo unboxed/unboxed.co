@@ -1,6 +1,7 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 31st July 2017'
+title: 'Roundup: Stack Exchange Documentation, Hemingway editor, direnv, 
+Elon Musk, and virus creation'
 date: '2017-08-04 13:30:00 UTC'
 authors:
   - 'Murray Steele'

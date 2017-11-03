@@ -1,6 +1,7 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 14th August 2017'
+title: 'Roundup: healthcare systems views, naming things, Fjord trends 
+report, young innovators, and AWS SAM Local'
 date: '2017-08-18 13:30:00 UTC'
 authors:
   - 'Neil van Beinum'

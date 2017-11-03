@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 3rd July 2017'
+title: 'Roundup: mirror flips, CSS grid, and 10x developers'
 date: '2017-07-06 13:30:00 UTC'
 authors:
   - 'Neil van Beinum'

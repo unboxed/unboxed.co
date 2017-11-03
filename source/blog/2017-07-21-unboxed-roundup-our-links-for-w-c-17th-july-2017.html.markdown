@@ -1,6 +1,7 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 17th July 2017'
+title: 'Roundup: programmer distractions, style arguments, go-pry, 
+programmer falsehoods, and Citymapper'
 date: '2017-07-21 13:30:00 UTC'
 authors:
   - 'Neil van Beinum'

@@ -1,6 +1,7 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 28th August 2017'
+title: 'Roundup: lego garden, screenless programming, travel tips, and
+predicting happiness'
 date: '2017-09-01 13:00:00 UTC'
 authors:
   - 'Neil van Beinum'

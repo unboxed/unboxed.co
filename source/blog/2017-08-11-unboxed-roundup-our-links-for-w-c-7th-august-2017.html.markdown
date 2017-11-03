@@ -1,6 +1,8 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 7th August 2017'
+title: 'Roundup: career building, nils in Go, CSS font-size, neural 
+nets, CSS musings, trust, digital transformation, and an optical 
+illusion'
 date: '2017-08-11 13:30:00 UTC'
 authors:
   - 'Murray Steele'
@@ -57,7 +59,7 @@ alternative proposals for styling webpages that could have been chosen.
 I'm sure that if any of these had been chosen they wouldn't have
 substantively changed how hard it is to apply styling.  We'd still be
 complaining about inconsistent support across browsers, and wailing about
-how hard it is to implement some desings.  That said, I wonder how
+how hard it is to implement some designs.  That said, I wonder how
 different the whole landscape of web development would have been if the
 one based on LISP had been chosen.  Instead of a set of style declarations
 we'd have an entire programming language to work with.  Exciting and

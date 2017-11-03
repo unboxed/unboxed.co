@@ -1,6 +1,7 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 10th July 2017'
+title: 'Roundup: prototyping, flyering, monitoring maps, cursor fun, 
+ShellCheck, Facebook friends, and ruby performance'
 date: '2017-07-14 13:30:00 UTC'
 authors:
   - 'Murray Steele'
