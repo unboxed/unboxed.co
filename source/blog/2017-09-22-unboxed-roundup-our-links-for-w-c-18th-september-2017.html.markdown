@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 18th September 2017'
+title: 'Roundup: outage reports, tetris in game-of-life, serverless architecture, an online betrayal, and wuzz'
 date: '2017-09-22 13:00:00 UTC'
 authors:
   - 'Murray Steele'

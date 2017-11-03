@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 25th September 2017'
+title: 'Roundup: unnecessary words, how React is like Windows 1.0, a long boardgame, mapbox, hacktoberfest, gource, and a soothing time-lapse'
 date: '2017-09-28 12:00:00 UTC'
 authors:
   - 'Neil van Beinum'
@@ -26,8 +26,8 @@ I didn't do any Windows 1.0 programming so I don't feel like I suddenly
 GUI programming in my time though, for the Windows 2000 / XP era, so some
 of the things that Benjamin mentions do ring a bell with me and I hope
 they'll give me some toehold on the react model when I do start exploring
-it properly.  The article also reminds me of [Bret Victor's excellent "The 
-Future of Programming" talk](http://worrydream.com/dbx/): all the 
+it properly.  The article also reminds me of [Bret Victor's excellent "The
+Future of Programming" talk](http://worrydream.com/dbx/): all the
 interesting ideas are already out there, we're just rediscovering them.
 
 ## The boardgame that takes 1500 hours to complete - [Elena T](/people#elena-tanasoiu)
@@ -48,13 +48,13 @@ https://hacktoberfest.digitalocean.com
 
 Automatic free t-shirt for those working on public repos. I've done this two years in a row and the t-shirts have both been _excellent_. 10/10 would recommend.
 
-##30 days time-lapse at sea - [Tom S](/people#tom-sabin)
+## 30 days time-lapse at sea - [Tom S](/people#tom-sabin)
 
 https://www.youtube.com/watch?v=AHrCI9eSJGQ
 
 A mesmerising time-lapse from a container ship, starting at the Red Sea and finishing in Hong Kong. Worth watching as full screen - just sit back and admire the journey for 10 minutes!
 
-##Gource - A software version control visualization tool - [Chris H](/people#chris-holmes)
+## Gource - A software version control visualization tool - [Chris H](/people#chris-holmes)
 
 http://gource.io/
 
