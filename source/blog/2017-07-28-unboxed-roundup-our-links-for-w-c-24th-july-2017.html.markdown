@@ -1,6 +1,7 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 24th July 2017'
+title: 'Roundup: emerging industries, good reads, one pedal driving, 
+quitting jobs, board game awards, and opensource disruptions'
 date: '2017-07-28 13:30:00 UTC'
 authors:
   - 'Neil van Beinum'
