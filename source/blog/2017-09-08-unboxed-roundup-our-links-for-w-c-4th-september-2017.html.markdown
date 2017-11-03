@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 4th September 2017'
+title: 'Roundup: payment gateway vulnerabilities, broken phone screens, and character encodings'
 date: '2017-09-08 13:00:00 UTC'
 authors:
   - 'Murray Steele'

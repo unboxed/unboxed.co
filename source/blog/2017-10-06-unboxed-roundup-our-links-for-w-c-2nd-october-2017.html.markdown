@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 2nd October 2017'
+title: 'Roundup: a game about containers, deep learning in JS, the open web, and the 🔥apocalypse🔥'
 date: '2017-10-06 12:00:00 UTC'
 authors:
   - 'Murray Steele'

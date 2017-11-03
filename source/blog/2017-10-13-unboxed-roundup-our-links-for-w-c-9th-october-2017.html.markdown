@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 9th October 2017'
+title: 'Roundup: sustainable food, hackers paradise, and ruby app servers on macOS High Sierra'
 date: '2017-10-13 12:00:00 UTC'
 authors:
   - 'Neil van Beinum'
@@ -8,6 +8,7 @@ tags: # (Delete as appropriate)
 - Culture
 
 ---
+
 ## Sustainable Food Systems at Green Lab - [Martyn E](/people#martyn-evans)
 
 http://greenlab.org/
@@ -18,7 +19,7 @@ I met up with my old friend Ande Gregson this week and found out about his new v
 
 https://www.hackerparadise.org/
 
-A colleague shared this link in one of our Slack channels this week, organised trips all over the world for developers, designers and entrepreneurs who want to travel while working remotely. 
+A colleague shared this link in one of our Slack channels this week, organised trips all over the world for developers, designers and entrepreneurs who want to travel while working remotely.
 I've worked remotely in the past and did take a few small trips but I really like the idea of doing so with a group of like-minded people. The prices vary depending on the location but are around
 $700 per week for a short trip and $500 per week for longer trips so not a budget holiday but something I would consider doing next time I'm working remotely.
 

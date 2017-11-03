@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: 'Unboxed Roundup: Our links for w/c 11th September 2017'
+title: 'Roundup: JS cryptocurrency mining, telling stories about houses with data, 7 questions, and talking with aliens'
 date: '2017-09-15 13:00:00 UTC'
 authors:
   - 'Elena Tanasoiu'
