@@ -193,18 +193,6 @@
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/lawrencer/"
 
-- name: "Jack Bracewell"
-  short_name: "jack-bracewell"
-  role: "Developer"
-  email: "jack.bracewell"
-  bio: |
-    I enjoy developing; it’s more of a hobby than a career. My time at Unboxed has helped me gain more knowledge and understanding and recuperate myself to be a superior developer! Working in an agile environment is a supreme pleasure as we can see outcomes of our work so soon which makes work seem so rewarding.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/jack-bracewell-874a8564"
-    - name: "GitHub"
-      link: "https://github.com/FriedSock"
-
 - name: "Neil van Beinum"
   short_name: "neil-van-beinum"
   role: "Developer"
@@ -239,18 +227,6 @@
       link: "https://twitter.com/charlieegan3"
     - name: "GitHub"
       link: "https://github.com/charlieegan3"
-
-- name: "Chris Holmes"
-  short_name: "chris-holmes"
-  role: "Developer"
-  email: "chris.holmes"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/chrisiholmes"
-    - name: "Github"
-      link: "https://github.com/cih"
-  bio: |
-    Over the last five years I’ve been fortunate enough to work on some interesting and complex problems with great people and my passion for development has continued to grow. Here at Unboxed I'm working alongside talented, like minded people and learning new things every day. When I’m not at my machine I can usually be found by a lake fishing for carp.
 
 - name: "Boris Divjak"
   short_name: "boris-divjak"
