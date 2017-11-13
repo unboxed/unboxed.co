@@ -20,7 +20,7 @@ Although, it’s not always just new reads. Every now and then, there’s a hidd
 Here are some titles that have been the key reads within our team over the last few weeks:<br/>
 <br/>
 
-# Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously
+# Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously, by Jeff Gothelf & Josh Seiden
 
 ## Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)
 
@@ -36,7 +36,7 @@ Recommended for business managers interested in innovation and culture change as
 <br/>
 
 
-# Sprint - how to solve big problems and test new ideas in just five days
+# Sprint: How to solve big problems and test new ideas in just five days, by Jake Knapp, John Zeratsky & Braden Kowitz
 
 ## Reader: [Matt Turrell](https://unboxed.co/people#matt-turrell)
 
@@ -54,7 +54,7 @@ A worthwhile read… And essential if you’re going to be running the process!"
 <br/>
 
 
-# The Service Innovation Handbook: Action-oriented Creative Thinking Toolkit for Service Organizations
+# The Service Innovation Handbook: Action-oriented Creative Thinking Toolkit for Service Organizations, by Lucy Kimbell
 
 ## Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)
 
