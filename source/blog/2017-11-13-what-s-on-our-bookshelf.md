@@ -20,7 +20,8 @@ Although, it’s not always just new reads. Every now and then, there’s a hidd
 Here are some titles that have been the key reads within our team over the last few weeks:<br/>
 <br/>
 
-# Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously, by Jeff Gothelf & Josh Seiden
+# Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously
+## Jeff Gothelf and Josh Seiden
 
 Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)<br/>
 
@@ -36,7 +37,8 @@ Recommended for business managers interested in innovation and culture change as
 <br/>
 
 
-# Sprint: How to solve big problems and test new ideas in just five days, by Jake Knapp, John Zeratsky & Braden Kowitz
+# Sprint: How to solve big problems and test new ideas in just five days
+## Jake Knapp, John Zeratsky and Braden Kowitz
 
 Reader: [Matt Turrell](https://unboxed.co/people#matt-turrell)<br/>
 
@@ -54,7 +56,8 @@ A worthwhile read… And essential if you’re going to be running the process!"
 <br/>
 
 
-# The Service Innovation Handbook: Action-oriented Creative Thinking Toolkit for Service Organizations, by Lucy Kimbell
+# The Service Innovation Handbook: Action-oriented Creative Thinking Toolkit for Service Organizations
+## Lucy Kimbell
 
 Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)<br/>
 
@@ -67,7 +70,8 @@ The book is organised around 14 key service innovation methods, such as mapping 
 And a title that's not quite part of the Unboxed bookshelf, but gets a special mention anyways:<br/>
 <br/>
 
-# “Good Omens”, by Terry Pratchett and Neil Gaiman
+# “Good Omens”
+## Terry Pratchett and Neil Gaiman
 
 Reader: [Elena Tanasoiu](https://unboxed.co/people#elena-tanasoiu)<br/>
 
