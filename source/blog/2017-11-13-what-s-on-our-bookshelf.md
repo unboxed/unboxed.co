@@ -71,7 +71,7 @@ The book is organised around 14 key service innovation methods, such as mapping 
 And a title that's not quite part of the Unboxed bookshelf, but gets a special mention anyways:<br/>
 <br/>
 
-# “Good Omens”
+# Good Omens
 By Terry Pratchett and Neil Gaiman<br/>
 
 Reader: [Elena Tanasoiu](https://unboxed.co/people#elena-tanasoiu)<br/>
