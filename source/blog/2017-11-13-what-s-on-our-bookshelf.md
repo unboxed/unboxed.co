@@ -18,7 +18,7 @@ Although, it’s not always just new reads. Every now and then, there’s a hidd
 
 <div style="width:100%;height:0;padding-bottom:59%;position:relative;"><iframe src="https://giphy.com/embed/yAqbVML9ETAgE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vhs-yAqbVML9ETAgE">via GIPHY</a></p>
 
-Here are some titles that have been the key reads within our team over the last few weeks:<br/>
+Here are some titles that have been key reads within our team over the last few weeks:<br/>
 <br/>
 
 # Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously
