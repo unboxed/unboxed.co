@@ -20,9 +20,9 @@ Although, it’s not always just new reads. Every now and then, there’s a hidd
 Here are some titles that have been the key reads within our team over the last few weeks:<br/>
 <br/>
 
-## Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously
+# Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously
 
-# Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)
+## Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)
 
 ![Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e92a80c36de684a339eaf22e761098b3.png)
 
@@ -36,9 +36,9 @@ Recommended for business managers interested in innovation and culture change as
 <br/>
 
 
-## Sprint - how to solve big problems and test new ideas in just five days
+# Sprint - how to solve big problems and test new ideas in just five days
 
-# Reader: [Matt Turrell](https://unboxed.co/people#matt-turrell)
+## Reader: [Matt Turrell](https://unboxed.co/people#matt-turrell)
 
 ![Sprint - how to solve big problems and test new ideas in just five days](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e2acf7d1e9e29872f8126847c2f16b7e.png)
 
@@ -54,9 +54,9 @@ A worthwhile read… And essential if you’re going to be running the process!"
 <br/>
 
 
-## The Service Innovation Handbook: Action-oriented Creative Thinking Toolkit for Service Organizations
+# The Service Innovation Handbook: Action-oriented Creative Thinking Toolkit for Service Organizations
 
-# Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)
+## Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)
 
 [Link](https://www.amazon.co.uk/Service-Innovation-Handbook-Action-oriented-Organizations/dp/9063693532/ref=sr_1_1?ie=UTF8&qid=1504517846&sr=8-1&keywords=handbook+service+innovation)<br/>
 
@@ -67,9 +67,9 @@ The book is organised around 14 key service innovation methods, such as mapping 
 And a title that's not quite part of the Unboxed bookshelf, but gets a special mention anyways:<br/>
 <br/>
 
-## “Good Omens”, by Terry Pratchett and Neil Gaiman
+# “Good Omens”, by Terry Pratchett and Neil Gaiman
 
-# Reader: [Elena Tanasoiu](https://unboxed.co/people#elena-tanasoiu)
+## Reader: [Elena Tanasoiu](https://unboxed.co/people#elena-tanasoiu)
 
 [Link](https://www.goodreads.com/book/show/12067.Good_Omens)<br/>
 
