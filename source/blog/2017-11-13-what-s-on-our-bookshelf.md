@@ -7,7 +7,7 @@ authors:
 tags:
   - Culture
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f62cab91968c5f6ac63d603f0bb56892.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/27a2cc3bd7e9da2a5547af3e83f5e5d2.png
 ---
 The Unboxed bookshelf is an ever-growing area of interest and conversation. Each month, there are more and more new additions to this corner of our office. Especially since the introduction of the (aptly-titled) #unbooksed Slack channel, where we share our recommended reads across the team.<br/>
 
