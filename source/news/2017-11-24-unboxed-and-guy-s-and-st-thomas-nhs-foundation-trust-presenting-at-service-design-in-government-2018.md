@@ -9,7 +9,7 @@ title: >-
 
 ![Service Design in Government 2018](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/79f1d37f6f8b9b0b691bfd1bc768abd9.png)
 
-Taking place in Edinburgh on 7th, 8th and 9th March 2018, Service Design in Government is a hands-on and practical service design conference, for anyone involved in designing or commissioning services across the public sector.<br/>
+Taking place in Edinburgh on the 7th, 8th and 9th of March 2018, Service Design in Government is a hands-on and practical service design conference, for anyone involved in designing or commissioning services across the public sector.<br/>
 
 Martyn and Toby will be taking to the stage to present an exploratory and real life look at digital transformation and service redesign within the NHS, with a case study titled: ‘Sailing into the wind: service redesign within Guy's & St. Thomas' NHS Foundation Trust’.<br/>
 
