@@ -69,8 +69,8 @@ We’ve reached the first practical exercise of the session. “Get into small g
 ![Local Government Digital Service Standard 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0dfc7e1552b618b46055cd0dcceb85b4.png)
 
 In a small group with colleagues from Hackney Council and Barnet Council, we’re armed with pile of post-its, a Sharpie and the idea of a venue booking service for a town hall. From initially hearing about the service offline through to booking the venue, we begin breaking down this user journey, with each step on a post-it.<br/>
-
 <br/>
+
 # Designing good assisted digital
 Designing for good assisted digital is ensuring that your team is doing the right research and putting this in place — researching with the right people in the right way.<br/>
 
