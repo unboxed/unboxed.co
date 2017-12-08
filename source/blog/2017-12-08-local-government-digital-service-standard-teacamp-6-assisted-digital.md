@@ -22,7 +22,7 @@ The hot topic of this month’s TeaCamp is [Point #12 of the Service Standard](h
 
 With introductions and parish notices done, [Rob Miller](https://twitter.com/RobMiller31) shares a very brief update on some of the recent happenings at Hackney Council, including a collaborative cross-council sprint.<br/>
 
-For this session, we’re very lucky to have [Ben Carpenter](https://twitter.com/benaldo)from Government Digital Service (GDS) join us.<br/>
+For this session, we’re very lucky to have [Ben Carpenter](https://twitter.com/benaldo) from Government Digital Service (GDS) join us.<br/>
 
 ![Local Government Digital Service Standard 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2f5c12d33277ebd2462d27f006b12be.png)
 
@@ -44,7 +44,7 @@ Support is usually available through offline channels, such as:<br/>
 - Over the phone
 - Face-to-face
 
-
+<br/>
 # Why assisted digital?
 
 Assisted digital is:<br/>
@@ -55,7 +55,9 @@ Assisted digital is:<br/>
 - Part of “digital by default”
 - A manifesto commitment
 
+<br/>
 As Point #14 of the Digital Service Standard, assisted digital support <b>must</b> be provided to pass a service assessment for most services, making this a major factor. There’s a risk that some teams may not even begin to think about assisted digital until around the Beta phase, but it’s an element that should be considered from the Discovery phase, being a key channel of how a key set of users are going to access your service.<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">We should think about helping users offline from the beginning <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a> <a href="https://t.co/09FVQ3qKAz">pic.twitter.com/09FVQ3qKAz</a></p>&mdash; Sandi Leonties (@leonties) <a href="https://twitter.com/leonties/status/936283058403250178?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -68,7 +70,7 @@ We’ve reached the first practical exercise of the session. “Get into small g
 
 In a small group with colleagues from Hackney Council and Barnet Council, we’re armed with pile of post-its, a Sharpie and the idea of a venue booking service for a town hall. From initially hearing about the service offline through to booking the venue, we begin breaking down this user journey, with each step on a post-it.<br/>
 
-
+<br/>
 # Designing good assisted digital
 Designing for good assisted digital is ensuring that your team is doing the right research and putting this in place — researching with the right people in the right way.<br/>
 
@@ -85,6 +87,7 @@ Ben shares the persona of Cathy — our user. “Cathy doesn’t have a smartpho
 Our task is to take our services from exercise #1 and “stress test” these with Cathy. “Her level of digital skill is ‘unwilling’, so keep this in consideration”.<br/>
 
 6pm has quickly arrived and it’s time to wrap up the session. Ben concludes by sharing a powerful statement: “There’s no such thing as an ‘assisted digital user’ – we’re ALL assisted digital users.”.<br/>
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">There&#39;s no such thing as an &quot;assisted digital user&quot;, we&#39;re ALL assisted digital users. <a href="https://twitter.com/hashtag/LGDSS?src=hash&amp;ref_src=twsrc%5Etfw">#LGDSS</a> <a href="https://twitter.com/gdsteam?ref_src=twsrc%5Etfw">@gdsteam</a> <a href="https://t.co/vViERIEHgD">pic.twitter.com/vViERIEHgD</a></p>&mdash; Graeme McCubbin (@GramMcCram) <a href="https://twitter.com/GramMcCram/status/936286480284217349?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
