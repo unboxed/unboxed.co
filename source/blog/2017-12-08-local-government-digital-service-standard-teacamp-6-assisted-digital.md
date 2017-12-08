@@ -24,9 +24,9 @@ With introductions and parish notices done, [Rob Miller](https://twitter.com/Rob
 
 For this session, we’re very lucky to have [Ben Carpenter](https://twitter.com/benaldo) from Government Digital Service (GDS) join us.<br/>
 
-![Local Government Digital Service Standard 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2f5c12d33277ebd2462d27f006b12be.png)
-
 Ben is the Inclusive Services Lead and Assisted Digital Lead and has experience of taking part in over 70 digital service assessments. That’s quite a track record. We’re eager to hear what Ben has instore for us this afternoon.<br/>
+
+![Local Government Digital Service Standard 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2f5c12d33277ebd2462d27f006b12be.png)
 <br/>
 
 # “Assisted digital”...?
