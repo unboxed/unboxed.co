@@ -33,6 +33,11 @@ Ben is the Inclusive Services Lead and Assisted Digital Lead and has experience 
 So, to begin… What is “assisted digital”?<br/>
 
 GDS define assisted digital as “... help for people who can’t use digital government services on their own.”.<br/>
+<br/>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">How can Assisted Digital be summarised? Interacting with people so they can use a digital service. <a href="https://twitter.com/hashtag/LGDSS?src=hash&amp;ref_src=twsrc%5Etfw">#LGDSS</a> <a href="https://twitter.com/benaldo?ref_src=twsrc%5Etfw">@benaldo</a> <a href="https://twitter.com/gdsteam?ref_src=twsrc%5Etfw">@gdsteam</a> <a href="https://t.co/8jdg1eJimD">pic.twitter.com/8jdg1eJimD</a></p>&mdash; LoGov Platform (@LoGovPlatform) <a href="https://twitter.com/LoGovPlatform/status/936281129707016192?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br/>
 
 Central government provide a full range of online public services and they want to help people to be able to move through these services and achieve what they need to achieve. Assisted digital is the help that must be provided alongside these online public services for the people who need to use them, but don’t have the skills, expertise or access to be able to do so on their own. It’s all about interacting with people so they can use a digital service.<br/>
 
