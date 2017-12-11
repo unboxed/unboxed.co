@@ -10,7 +10,7 @@ tags:
   - Lean
   - Rails
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/65fbfc21a0972885a53ebb6b5b63bb63.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7665d7cb43fc046d0dbcd0220f8a54fd.png
 ---
 Prototyping is a core activity when designing a new digital product or service. It’s also a key part of the [GDS Service Standard Alpha phase](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) for creating new digital services within central government.<br/>
 
