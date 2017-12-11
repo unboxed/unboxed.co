@@ -43,7 +43,7 @@ Paper prototyping allows you to take what you’ve learned from sketching and mo
 
 <br/>
 # #3: Mockup prototyping
-Your paper-based interface may have gone through a few rounds of user feedback and iterations. Buttons may have moved slightly, Call to Actions may be larger, wording may have changed, but how will your users interact with this on a device?<br/>
+Your paper-based interface may have gone through a few rounds of user feedback and iteration. Buttons may have moved slightly, Call to Actions may be larger, wording may have changed, but how will your users interact with this on a device?<br/>
 
 ![Mockup prototyping](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/53ce33475e6a6d8ae92c06617e16cc56.png)
 
