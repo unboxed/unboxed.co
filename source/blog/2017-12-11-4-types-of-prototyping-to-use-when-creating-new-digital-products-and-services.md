@@ -57,7 +57,7 @@ This type of prototyping allows users to feel like they’re using a real applic
 - Any barriers — are your users experiencing any difficulties?
 <br/>
 
-
+<br/>
 # #4: Coded prototyping
 When you’ve gone through a few more cycles of feedback and iteration, your mockup prototype may now be ready to move into a coded prototype. You’ve seen how your users move through a series of screenshots, but what about a basic coded concept?<br/>
 
@@ -69,6 +69,7 @@ Whilst code is a high-fidelity method of prototyping, and it may not be as polis
 - Testing on different devices — how might this work on mobile, desktop and tablet?
 - Risk reduction — can we learn as much as we need to about the risk involved in building this, before committing time and resource to building it?
 
+<br/>
 For this type of prototyping, our framework of choice is [Ruby on Rails](http://rubyonrails.org/):<br/> 
 
 - It allows to develop features quickly — already-existing code from elsewhere can be reused
@@ -77,8 +78,3 @@ For this type of prototyping, our framework of choice is [Ruby on Rails](http://
 
 <br/>
 These are just four methods of prototyping that you may want to consider using when creating a new digital product or service. Depending on your individual project, you may be required just to use two or three, or all four and more (some online services may have a physical element to them, requiring you to begin prototyping for this too).
-
-
-
-
-
