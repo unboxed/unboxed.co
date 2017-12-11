@@ -69,12 +69,10 @@ Whilst code is a high-fidelity method of prototyping, and it may not be as polis
 - Testing on different devices — how might this work on mobile, desktop and tablet?
 - Risk reduction — can we learn as much as we need to about the risk involved in building this, before committing time and resource to building it?
 
-<br/>
 For this type of prototyping, our framework of choice is [Ruby on Rails](http://rubyonrails.org/):<br/> 
 
 - It allows to develop features quickly — already-existing code from elsewhere can be reused
 - It’s cost-effective  — there are no licenses and the code is open source
 - It’s scalable  — simple, rough prototypes can be quickly created, which can then be worked up into final stage products, all within the same technical framework
 
-<br/>
 These are just four methods of prototyping that you may want to consider using when creating a new digital product or service. Depending on your individual project, you may be required just to use two or three, or all four and more (some online services may have a physical element to them, requiring you to begin prototyping for this too).
