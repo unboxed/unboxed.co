@@ -20,7 +20,7 @@ The hot topic of this month’s TeaCamp is [Point #12 of the Service Standard](h
 
 ![Local Government Digital Service Standard 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d4d7f29ab480faeae30396ce881e2570.png)
 
-With introductions and parish notices done, [Rob Miller](https://twitter.com/RobMiller31) shares a very brief update on some of the recent happenings at Hackney Council, including a collaborative cross-council sprint.<br/>
+With introductions and parish notices done, Hackney Council share a very brief update on some of their recent happenings, including a collaborative cross-council sprint.<br/>
 
 For this session, we’re very lucky to have [Ben Carpenter](https://twitter.com/benaldo) from Government Digital Service (GDS) join us.<br/>
 
@@ -73,7 +73,7 @@ We’ve reached the first practical exercise of the session. “Get into small g
 
 ![Local Government Digital Service Standard 3](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0dfc7e1552b618b46055cd0dcceb85b4.png)
 
-In a small group with colleagues from Hackney Council and Barnet Council, we’re armed with pile of post-its, a Sharpie and the idea of a venue booking service for a town hall. From initially hearing about the service offline through to booking the venue, we begin breaking down this user journey, with each step on a post-it.<br/>
+In a small group with some fellow TeaCamp-ers from Hackney Council and Barnet Council, we’re armed with pile of post-its, a Sharpie and the idea of a venue booking service for a town hall. From initially hearing about the service offline through to booking the venue, we begin breaking down this user journey, with each step on a post-it.<br/>
 <br/>
 
 # Designing good assisted digital
@@ -106,11 +106,3 @@ Our task is to take our services from exercise #1 and “stress test” these wi
 The next TeaCamp is taking place on Thursday 18th January, 4-6pm at Draft House Tower Bridge.<br/> 
 
 If you’re interesting in attending, please just send an email to David Durant at GLA (david.durant@london.gov.uk) or come and join the #london-peer-group channel in the LocalGov Digital Slack.
-
-
-
-
-
-
-
-
