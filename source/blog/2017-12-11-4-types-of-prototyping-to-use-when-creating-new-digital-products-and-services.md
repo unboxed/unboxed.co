@@ -16,7 +16,7 @@ Prototyping is a core activity when designing a new digital product or service. 
 
 Starting with a problem to solve or a new idea, it can be very challenging to know what this might look like from an early stage, or how it might possibly function. Prototyping is a learning tool to begin forming ideas, assumptions and risks into something tangible. It’s a way of getting something into the hands of your users to hear their thoughts, receive feedback, learn and iterate, before repeating this cycle again and again; aiming to get one step further towards a potential solution after each testing cycle.<br/>
 
-There are many different ways of prototyping, depending on what you’re looking to do, and it’s not always a linear process. Here are four types ofprototyping that you may consider using when creating a new digital product or service:<br/>
+There are many different ways of prototyping, depending on what you’re looking to do, and it’s not always a linear process. Here are four types of prototyping that you may consider using when creating a new digital product or service:<br/>
 <br/>
 
 # #1: Sketch prototyping
