@@ -61,7 +61,7 @@ Assisted digital is:<br/>
 - A manifesto commitment
 
 <br/>
-As Point #14 of the Digital Service Standard, assisted digital support <b>must</b> be provided to pass a service assessment for most services, making this a major factor. There’s a risk that some teams may not even begin to think about assisted digital until around the Beta phase, but it’s an element that should be considered from the Discovery phase, being a key channel of how a key set of users are going to access your service.<br/>
+As [Point #14 of the GDS Digital Service Standard](https://www.gov.uk/service-manual/service-standard/encourage-everyone-to-use-the-digital-service), assisted digital support <b>must</b> be provided to pass a service assessment for most services, making this a major factor. There’s a risk that some teams may not even begin to think about assisted digital until around the Beta phase, but it’s an element that should be considered from the Discovery phase, being a key channel of how a key set of users are going to access your service.<br/>
 <br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">We should think about helping users offline from the beginning <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a> <a href="https://t.co/09FVQ3qKAz">pic.twitter.com/09FVQ3qKAz</a></p>&mdash; Sandi Leonties (@leonties) <a href="https://twitter.com/leonties/status/936283058403250178?ref_src=twsrc%5Etfw">November 30, 2017</a></blockquote>
