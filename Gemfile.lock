@@ -15,7 +15,7 @@ GEM
       rack-test (>= 0.5.4)
       xpath (~> 2.0)
     chunky_png (1.3.8)
-    coderay (1.1.1)
+    coderay (1.1.2)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -54,7 +54,7 @@ GEM
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    method_source (0.8.2)
+    method_source (0.9.0)
     middleman (3.4.1)
       coffee-script (~> 2.2)
       compass (>= 1.0.0, < 2.0.0)
@@ -112,10 +112,9 @@ GEM
       tilt (~> 1.4.1)
     padrino-support (0.12.8.1)
       activesupport (>= 3.1)
-    pry (0.10.4)
+    pry (0.11.3)
       coderay (~> 1.1.0)
-      method_source (~> 0.8.1)
-      slop (~> 3.4)
+      method_source (~> 0.9.0)
     rack (1.6.8)
     rack-livereload (0.3.16)
       rack
@@ -140,7 +139,6 @@ GEM
       rspec-support (~> 3.7.0)
     rspec-support (3.7.0)
     sass (3.4.24)
-    slop (3.6.0)
     sprockets (2.12.4)
       hike (~> 1.2)
       multi_json (~> 1.0)
