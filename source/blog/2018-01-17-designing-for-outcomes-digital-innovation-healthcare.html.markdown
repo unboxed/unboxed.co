@@ -1,5 +1,5 @@
 ---
-date: '2018-01-12 14:00 +0000'
+date: '2018-01-17 12:00 +0000'
 published: true
 title: "Designing for outcomes: digital innovation in healthcare"
 authors:
@@ -43,7 +43,7 @@ presented at the *Digital Design: Transforming Healthcare* event at the [Health 
   This provides us with necessary guidance to iterate and improve our digital solutions.
 
 
-![Mapping outcomes](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b8c1ec8d373f4c3a4af0b07f884017bc.jpg)
+![Mapping outcomes](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ce70627a43d01bcfa6557a9027da7c05.jpg)
 *Mapping outcomes for planned interventions at Guy’s and St Thomas’ hospital.*
 
 <br />
