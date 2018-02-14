@@ -1,7 +1,5 @@
 # See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
 
 User-agent: *
-Disallow: /style-guide
-Disallow: /style-guide/
 
-Sitemap: https://unboxed.co/sitemap.xml.gz
+Sitemap: https://unboxed.co/sitemap.xml
