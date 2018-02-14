@@ -1,5 +1,6 @@
 ignores = %w[
   404.html
+  style-guide/index.html
 ]
 
 filter = proc do |page|
