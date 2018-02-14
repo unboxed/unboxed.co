@@ -55,9 +55,6 @@ end
 
 activate :similar, algorithm: :related_blog_articles
 activate :directory_indexes
-
-activate :sitemap, hostname: "https://unboxed.co"
-
 activate :syntax
 
 configure :development do
@@ -76,6 +73,8 @@ page "/blog/feed.rss", layout: false
 
 page "/news/feed.xml", layout: false
 page "/news/feed.rss", layout: false
+
+page "/sitemap.xml", layout: false
 
 page "/404.html", directory_index: false
 

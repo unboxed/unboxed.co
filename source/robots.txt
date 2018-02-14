@@ -4,4 +4,4 @@ User-agent: *
 Disallow: /style-guide
 Disallow: /style-guide/
 
-Sitemap: https://unboxed.co/sitemap.xml.gz
+Sitemap: https://unboxed.co/sitemap.xml
