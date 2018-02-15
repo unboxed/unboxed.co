@@ -1,11 +1,13 @@
 ---
 date: '2018-02-15 13:36 +0000'
-published: false
+published: true
 title: User interviewing in sensitive situations
 authors:
   - Graeme McCubbin
 tags:
   - Design
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b8300623b808ca374977a2b01fff5850.png
 ---
 Interviewing is one of most effective methods of drawing insights from users. By engaging in these valuable sessions, we’re able to begin uncovering what our users are thinking, what they’re feeling, their pain points, their current experiences, validate (or invalidate) our thinking and so much more. Each interview can bring a bounty of insights.<br/>
 
@@ -32,8 +34,8 @@ Find out who you will be interviewing and have an idea of how you will approach 
 
 ![Define your approach](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/9dadba92dd7811d32c472d663e438e05.png)
 
-- Carry out background research — finding out as much as you can about the situation you’re exploring will help to begin building up a pre-understanding of the context around your users, before you’ve even met them
-- Prepare a structure — Structuring a plan to stick to will help the interview flow for both you and your users, ensuring you can get the most out of the session
+- Carry out background research — finding out as much as you can about the situation you’re exploring will help to begin building up a pre-understanding of the context around your interviewees, before you’ve even met them
+- Prepare a structure — structuring a plan to stick to will help the interview flow for both you and your interviewee, ensuring you can get the most out of the session
 
 <br/>
 # #2: Suit your tone of voice
@@ -41,9 +43,9 @@ The language used and the way it’s used it are both very important.<br/>
 
 ![Suit your tone of voice](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b8300623b808ca374977a2b01fff5850.png)
 
-- Be human — using warm, friendly and open language can make your user feel more relaxed
-- Speak in simple sentences — keeping questions short, simple and to the point will ensure that your users understand the topic and the question you’re looking for them to answer
-- Give time — allow your user time to think and formulate their answer, avoiding rushing in to fill any (what may feel like awkward) silences
+- Be human — using warm, friendly and open language can make your interviewee feel more relaxed
+- Speak in simple sentences — keeping questions short, simple and to the point will ensure that your interviewees understand the topic and the question you’re looking for them to answer
+- Give time — allow your interviewee time to think and formulate their answer, avoiding rushing in to fill any (what may feel like awkward) silences
 
 <br/>
 # #3: Build rapport
@@ -53,8 +55,8 @@ For many people, speaking to someone unfamiliar can feel daunting, especially wh
 
 - Start with a conversation — get to know a bit about your interviewee before starting the interview, chat about the weather or something you may have in common
 - Be aware of your body language — be warm, open and keep your arms uncrossed
-- Show respect — be impartial, not expressing any judgement
-- Be thankful — your interviewee is giving up some of their time to help you, so be sure to thank them
+- Show respect — being impartial and not expressing any judgement
+- Give thanks — your interviewee is giving up some of their time to help
 
 <br/>
 # #4: Provide a safe and welcoming space
@@ -62,8 +64,8 @@ It can be difficult for some people to open up in a public space. Crowded places
 
 ![Provide a safe and welcoming space](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/78bffb4bed5c54c7f5cf63938f7c2471.jpg)
 
-- Find a private room — book a room somewhere near to where you’re carrying out to schedule your interviews on a one-to-one basis
-- ‘Do not disturb’ — let your interviewee know it’s you and then, placing a sign on the door to alert the outside world to not disturb
+- Find a private room — book a room somewhere near to where you’re carrying out your research to schedule your interviews on a one-to-one basis
+- ‘Do not disturb’ — let your interviewee know it’s just you and them, placing a sign on the door to alert the outside world to not disturb
 - Make the room comfortable — think about how you are seated in relation to your interviewee, sitting next to one another rather than opposite can feel less like an interview and more like a conversation
 
 <br/>
@@ -73,9 +75,10 @@ Not everyone is able to express themselves during a conversation, particularly w
 ![Use prompts](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/73276028be7e644749d02a8e2ce25b23.png)
 
 - Use visual prompts — cards or statements with images can be a very helpful way to understand views without detailed explanation, also helping to get a conversation started without asking a direct question
-- Use relevant props — your user may be able to express themselves more effectively by referring to items from the process you are interviewing them about (this could include a letter they have received, allowing them to point out what is concerning them)
+- Use relevant props — your interviewee may be able to express themselves more effectively by referring to items from the process you are interviewing them about (this could include a letter they have received, allowing them to point out what is concerning them)
 
-
+<br/>
+Not every interviewing situation is the same, but these are just five elements to consider applying to ensure you’re able to make your interviews as valuable as possible.
 
 
 
