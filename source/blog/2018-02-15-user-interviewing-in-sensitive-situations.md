@@ -7,7 +7,7 @@ authors:
 tags:
   - Design
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b8300623b808ca374977a2b01fff5850.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/acc5464d5c939ef4eaa92ddd5c1b4aee.png
 ---
 Interviewing is one of most effective methods of drawing insights from users. By engaging in these valuable sessions, we’re able to begin uncovering what our users are thinking, what they’re feeling, their pain points, their current experiences, validate (or invalidate) our thinking and so much more. Each interview can bring a bounty of insights.<br/>
 
@@ -79,15 +79,3 @@ Not everyone is able to express themselves during a conversation, particularly w
 
 <br/>
 Not every interviewing situation is the same, but these are just five elements to consider applying to ensure you’re able to make your interviews as valuable as possible.
-
-
-
-
-
-
-
-
-
-
-
-
