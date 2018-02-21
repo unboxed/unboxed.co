@@ -7,6 +7,8 @@ authors:
   - Dawn Turner
 tags:
   - Design
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8059b527f52b2d3eb94b18cca832e13e.png
 ---
 Interviewing is one of most effective methods of drawing insights from users. By engaging in these valuable sessions, we’re able to begin uncovering what our users are thinking, what they’re feeling, their pain points, their current experiences, validate (or invalidate) our thinking and so much more. Each interview can bring a bounty of insights.<br/>
 
