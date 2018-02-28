@@ -1,77 +1,77 @@
 prose:
   rooturl:
-  ignore:
-    - '.keep'
-    - /lib
-    - /spec
-    - /templates
-    - /middleman-blog-similar
-  media: 'assets/images/prose'
-  metadata:
-    source/blog:
-
-      - name: 'title'
-        field:
-          element: 'text'
-          label: 'title'
-
-      - name: 'authors'
-        field:
-          element: 'multiselect'
-          label: '* Authors'
-          help: 'Full name of the author (e.g. Graeme McCubbin) one or more supported (required)'
-          alterable: true
-
-      - name: 'tags'
-        field:
-          element: 'multiselect'
-          label: 'Tags'
-          help: 'Choose relevant tags (optional)'
-          alterable: false
-          options: [
-            'Agile',
-            'Culture',
-            'Design',
-            'Events',
-            'Innovation',
-            'Lean',
-            'Rails' ]
-
-      - name: 'main_image'
-        field:
-          element: 'text'
-          label: 'Main blog image URL'
-          help: 'The image that is shown on the blog listing page (optional)'
-
-      - name: 'date'
-        field:
-          element: 'text'
-          value: CURRENT_DATETIME
-          label: '* Date published'
-          help: 'Must be in the format YYYY-MM-DD HH-MM (required)'
-
-      - name: 'published'
-        field:
-          element: 'checkbox'
-          value: true
-          label: 'Published?'
-
-    source/news:
-
-      - name: 'title'
-        field:
-          element: 'text'
-          label: 'title'
-
-      - name: 'date'
-        field:
-          element: 'text'
-          value: CURRENT_DATETIME
-          label: '* Date published'
-          help: 'Must be in the format YYYY-MM-DD HH-MM (required)'
-
-      - name: 'published'
-        field:
-          element: 'checkbox'
-          value: true
-          label: 'Published?'
+  # ignore:
+  #   - '.keep'
+  #   - /lib
+  #   - /spec
+  #   - /templates
+  #   - /middleman-blog-similar
+  # media: 'assets/images/prose'
+  # metadata:
+  #   source/blog:
+  #
+  #     - name: 'title'
+  #       field:
+  #         element: 'text'
+  #         label: 'title'
+  #
+  #     - name: 'authors'
+  #       field:
+  #         element: 'multiselect'
+  #         label: '* Authors'
+  #         help: 'Full name of the author (e.g. Graeme McCubbin) one or more supported (required)'
+  #         alterable: true
+  #
+  #     - name: 'tags'
+  #       field:
+  #         element: 'multiselect'
+  #         label: 'Tags'
+  #         help: 'Choose relevant tags (optional)'
+  #         alterable: false
+  #         options: [
+  #           'Agile',
+  #           'Culture',
+  #           'Design',
+  #           'Events',
+  #           'Innovation',
+  #           'Lean',
+  #           'Rails' ]
+  #
+  #     - name: 'main_image'
+  #       field:
+  #         element: 'text'
+  #         label: 'Main blog image URL'
+  #         help: 'The image that is shown on the blog listing page (optional)'
+  #
+  #     - name: 'date'
+  #       field:
+  #         element: 'text'
+  #         value: CURRENT_DATETIME
+  #         label: '* Date published'
+  #         help: 'Must be in the format YYYY-MM-DD HH-MM (required)'
+  #
+  #     - name: 'published'
+  #       field:
+  #         element: 'checkbox'
+  #         value: true
+  #         label: 'Published?'
+  #
+  #   source/news:
+  #
+  #     - name: 'title'
+  #       field:
+  #         element: 'text'
+  #         label: 'title'
+  #
+  #     - name: 'date'
+  #       field:
+  #         element: 'text'
+  #         value: CURRENT_DATETIME
+  #         label: '* Date published'
+  #         help: 'Must be in the format YYYY-MM-DD HH-MM (required)'
+  #
+  #     - name: 'published'
+  #       field:
+  #         element: 'checkbox'
+  #         value: true
+  #         label: 'Published?'
