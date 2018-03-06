@@ -1,5 +1,8 @@
 
-PO course
+# Workshop: Product Ownership
 
+Information
 
-Info
+- Bullet
+- Bullet
+- Bullet
