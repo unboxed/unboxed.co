@@ -1,9 +1,11 @@
 ---
 date: '2018-03-22 12:14 +0000'
-published: false
+published: true
 title: Unboxed awarded two Public Health England contracts
 ---
 Unboxed has been awarded two contracts with Public Health England (PHE).<br/>
+
+![Public Health England](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/21d1bb1adc9b05b37bdbaa2a8e6d0f13.png)
 
 Procured through the Digital Marketplace framework, Unboxed will be working with PHE to deliver two separate project phases:<br/>
 
@@ -27,7 +29,3 @@ Unboxed has successfully delivered a number of healthcare projects, with organis
 - [SH:24](https://unboxed.co/product-stories/sh24/)
 - Guy’s and St. Thomas’ NHS Foundation Trust
 - Southwark CCG
-
-
-
-
