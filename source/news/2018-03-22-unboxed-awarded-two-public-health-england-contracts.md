@@ -18,11 +18,11 @@ The Public Health Skills & Knowledge Framework alpha phase will see Unboxed join
 
 Adrian Byrtus, Product Owner of UK National Screening Committee, said:<br/>
 
-> “We’re looking forward to the Unboxed team introducing us to numerous user research tools and agile ways of working which PHE are keen to learn from. They offer a very friendly working environment where great ideas are openly shared across the delivery team, and are highly proactive and passionate to deliver to the best standards and in the interests of all parties. We look forward to working with them in the upcoming project phases.”<br/>
+> <i>“We’re looking forward to the Unboxed team introducing us to numerous user research tools and agile ways of working which PHE are keen to learn from. They offer a very friendly working environment where great ideas are openly shared across the delivery team, and are highly proactive and passionate to deliver to the best standards and in the interests of all parties. We look forward to working with them in the upcoming project phases.”</i><br/>
 
 Martyn Evans, Head of Product at Unboxed, said:<br/>
 
-> “With Unboxed’s continued focus on the healthcare sector, we’re really looking forward to delivering these two projects alongside the teams at PHE. This is an exciting opportunity to guide a large and complex organisation through the process of agile service design and delivery. The impact of these projects go far beyond these two phases, potentially affecting public health on a national scale.”<br/>
+> <i>“With Unboxed’s continued focus on the healthcare sector, we’re really looking forward to delivering these two projects alongside the teams at PHE. This is an exciting opportunity to guide a large and complex organisation through the process of agile service design and delivery. The impact of these projects go far beyond these two phases, potentially affecting public health on a national scale.”</i><br/>
 
 Unboxed has successfully delivered a number of healthcare projects, with organisations including:<br/>
 
