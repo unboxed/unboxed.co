@@ -56,6 +56,7 @@ end
 activate :similar, algorithm: :related_blog_articles
 activate :directory_indexes
 activate :syntax
+activate :sprockets
 
 configure :development do
   activate :livereload
