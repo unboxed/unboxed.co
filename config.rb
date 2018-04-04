@@ -23,6 +23,8 @@ activate :blog do |blog|
     author: {
       link: 'author/{author}.html',
       template: 'blog/author.html',
+      # Note: this filter relies on our extension to middleman-blog in
+      # lib/middleman_blog_more_dynamic_custom_pages
       filter: -> (articles) do
         articles_with_authors = articles.select { |a| a.data[:authors] }
         articles_by_author = {}
