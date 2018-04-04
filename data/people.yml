@@ -151,16 +151,6 @@
     - name: "GitHub"
       link: "https://github.com/tomsabin"
 
-- name: "Jolie Lanser"
-  short_name: "jolie-lanser"
-  role: "Scrum Master"
-  email: "jolie.lanser"
-  bio: |
-    Coming from an Academic background with a career in ICT behind me, I discovered a passion for Agile practices and became a Certified Scrum Master. My approach is empathetic, collaborative and forthright and I pride myself on obstacle removal and on enabling individuals and teams to be as productive and as happy as possible.
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/jolie-lanser-a93b3210"
-
 - name: "Ben Wong"
   short_name: "ben-wong"
   role: "Developer"
@@ -218,16 +208,6 @@
     - name: "LinkedIn"
       link: "https://uk.linkedin.com/in/mattturrell1"
 
-- name: "Charlie Egan"
-  short_name: "charlie-egan"
-  role: "Developer"
-  email: "charlie.egan"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/charlieegan3"
-    - name: "GitHub"
-      link: "https://github.com/charlieegan3"
-
 - name: "Boris Divjak"
   short_name: "boris-divjak"
   role: "Designer"
@@ -237,16 +217,6 @@
       link: "https://twitter.com/borisdivjak"
     - name: "LinkedIn"
       link: "https://www.linkedin.com/in/borisdivjak/"
-
-- name: "James Cook"
-  short_name: "james-cook"
-  role: "Developer"
-  email: "james.cook"
-  social_networks:
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/jamesmarkcook/"
-    - name: "Github"
-      link: "https://github.com/jamesmarkcook"
 
 - name: "David Henry"
   short_name: "david-henry"
@@ -259,13 +229,3 @@
       link: "https://www.linkedin.com/in/david-henry-000b603/"
     - name: "Github"
       link: "https://github.com/dwhenry"
-
-- name: "Olly Legg"
-  short_name: "olly-legg"
-  role: "Developer"
-  email: "olly.legg"
-  social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/ollylegg"
-    - name: "Github"
-      link: "https://github.com/olly"
