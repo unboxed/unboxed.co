@@ -12,6 +12,7 @@ require 'lib/article_info'
 # blog
 activate :blog do |blog|
   blog.name = 'blog'
+  blog.sources = '{year}-{month}-{day}-{title}.html'
   blog.layout = 'blog_article'
   blog.prefix = 'blog'
   blog.taglink = "{tag}.html"
@@ -44,6 +45,7 @@ end
 # news
 activate :blog do |blog|
   blog.name = 'news'
+  blog.sources = '{year}-{month}-{day}-{title}.html'
   blog.layout = 'news_article'
   blog.prefix = 'news'
   blog.permalink = "{title}.html"
