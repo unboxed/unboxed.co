@@ -55,7 +55,11 @@ activate :blog do |blog|
   blog.page_link = 'page-{num}'
 end
 
-activate :similar, algorithm: :related_blog_articles
+activate :similar, tagger: {
+  tags: 1,
+  author: [1, ->(resource) { resource.data.authors || [] }]
+}
+
 activate :directory_indexes
 activate :syntax
 activate :sprockets
