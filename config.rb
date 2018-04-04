@@ -24,10 +24,10 @@ activate :blog do |blog|
       link: 'author/{author}.html',
       template: 'blog/author.html',
       filter: -> (articles) do
-        articles_with_authors = articles.select {|a| a.metadata[:page]['authors'] }
+        articles_with_authors = articles.select { |a| a.data[:authors] }
         articles_by_author = {}
         articles_with_authors.each do |article|
-          ai = ArticleInfo.new(data.people, article.data)
+          ai = ArticleInfo.new(@app.data.people, article.data)
           ai.authors.reject { |author| author.is_a? NonEmployee }.each do |author|
             articles_by_author[author.short_name] ||= []
             articles_by_author[author.short_name] << article
