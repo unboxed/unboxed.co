@@ -97,6 +97,12 @@
   color: $white;
 }
 
+.highlight--guys-and-st-thomas {
+  @extend %highlight;
+  background-color: #4186C4;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
