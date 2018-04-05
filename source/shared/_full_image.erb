@@ -1,9 +1,9 @@
 <figure>
-<%= image_tag section.image, alt: section.image_description, class: "full-image", srcset: retina_srcset(section.image) %>
+  <%= image_tag locals[:image], alt: locals[:image_description], class: "full-image", srcset: retina_srcset(locals[:image]) %>
 
-<% if section.caption %>
-  <figcaption class="full-image-caption">
-    <%= section.caption %>
-  </figcaption>
-<% end %>
+  <% if locals[:caption] %>
+    <figcaption class="full-image-caption">
+      <%= locals[:caption] %>
+    </figcaption>
+  <% end %>
 </figure>

@@ -108,12 +108,12 @@ related:
 
 ---
 
-<%= partial 'shared/page_header' %>
+<%= partial 'shared/page_header', locals: current_page.data.header %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: { section: current_page.data.header } %>
+  <%= partial 'shared/full_image', locals: current_page.data.header %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.introduction } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
 
   <section class="highlight--plymouth-university-gets-agile">
     <h2 class="highlight__title">
@@ -121,17 +121,17 @@ related:
     </h2>
   </section>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.process_structure } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.process_structure %>
 
-  <%= partial 'shared/quote', locals: { section: current_page.data.agile_quote } %>
+  <%= partial 'shared/quote', locals: current_page.data.agile_quote %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.transparency } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.transparency %>
 
-  <%= partial 'shared/full_image', locals: { section: current_page.data.mood_board } %>
+  <%= partial 'shared/full_image', locals: current_page.data.mood_board %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.pride } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.pride %>
 
-  <%= partial 'shared/quote_caricature', locals: { section: current_page.data.textbook_to_real_world_quote } %>
+  <%= partial 'shared/quote_caricature', locals: current_page.data.textbook_to_real_world_quote %>
 
   <%= partial 'shared/project_team' %>
 

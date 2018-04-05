@@ -1,5 +1,5 @@
-<a href="https://www.youtube.com/watch?v=<%= section.youtube_id %>" target="_blank" data-video>
-  <%= partial 'shared/full_image', locals: { section: section } %>
+<a href="https://www.youtube.com/watch?v=<%= locals[:youtube_id] %>" target="_blank" data-video>
+  <%= partial 'shared/full_image', locals: locals %>
 </a>
 
 <script>
@@ -18,7 +18,7 @@
   }
 
   if (supports.video || supports.flash) {
-    var embed = '<div class="full-video"><iframe src="https://www.youtube.com/embed/<%= section.youtube_id %>?rel=0" frameborder="0" allowfullscreen></iframe></div>';
+    var embed = '<div class="full-video"><iframe src="https://www.youtube.com/embed/<%= locals[:youtube_id] %>?rel=0" frameborder="0" allowfullscreen></iframe></div>';
     document.querySelector("[data-video] img").outerHTML = embed;
   }
 </script>

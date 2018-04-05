@@ -151,38 +151,38 @@ related:
 
 ---
 
-<%= partial 'shared/page_header' %>
+<%= partial 'shared/page_header', locals: current_page.data.header %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: { section: current_page.data.header } %>
+  <%= partial 'shared/full_image', locals: current_page.data.header %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.introduction } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
 
-  <%= partial 'shared/highlight', locals: { section: current_page.data.highlight_1 } %>
+  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.digital_service_standard } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.digital_service_standard %>
 
-  <%= partial 'shared/quote', locals: { section: current_page.data.digital_services_quote } %>
+  <%= partial 'shared/quote', locals: current_page.data.digital_services_quote %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.understanding_customer } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.understanding_customer %>
 
-  <%= partial 'shared/quote_caricature', locals: { section: current_page.data.impact_quote } %>
+  <%= partial 'shared/quote_caricature', locals: current_page.data.impact_quote %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.talking_with_customers } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.talking_with_customers %>
 
-  <%= partial 'shared/quote', locals: { section: current_page.data.development_quote } %>
+  <%= partial 'shared/quote', locals: current_page.data.development_quote %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.agile_local_council } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.agile_local_council %>
 
-  <%= partial 'shared/quote', locals: { section: current_page.data.agile_quote } %>
+  <%= partial 'shared/quote', locals: current_page.data.agile_quote %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.mvp_prototyping } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.mvp_prototyping %>
 
-  <%= partial 'shared/highlight', locals: { section: current_page.data.highlight_2 } %>
+  <%= partial 'shared/highlight', locals: current_page.data.highlight_2 %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.beta_phase } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.beta_phase %>
 
-  <%= partial 'shared/quote_caricature', locals: { section: current_page.data.alpha_quote } %>
+  <%= partial 'shared/quote_caricature', locals: current_page.data.alpha_quote %>
 
   <%= partial 'shared/project_team' %>
 

@@ -146,27 +146,27 @@ related:
 
 ---
 
-<%= partial 'shared/page_header' %>
+<%= partial 'shared/page_header', locals: current_page.data.header %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: { section: current_page.data.header } %>
-  <%= partial 'shared/full_width_text_tile', locals: { section: current_page.data.introduction } %>
-  <%= partial 'shared/highlight', locals: { section: current_page.data.highlight_1 } %>
-  <%= partial 'shared/two_text_tiles', locals: { section: current_page.data.section_2 } %>
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.section_3 } %>
-  <%= partial 'shared/two_text_tiles', locals: { section: current_page.data.section_4 } %>
-  <%= partial 'shared/quote_caricature', locals: { section: current_page.data.quote_1 } %>
+  <%= partial 'shared/full_image', locals: current_page.data.header %>
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.introduction %>
+  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
+  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_2 %>
+  <%= partial 'shared/text_tile', locals: current_page.data.section_3 %>
+  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_4 %>
+  <%= partial 'shared/quote_caricature', locals: current_page.data.quote_1 %>
 
   <%= image_tag current_page.data.image_section_1.image, alt: current_page.data.image_section_1.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_1.image) %>
 
-  <%= partial 'shared/two_text_tiles', locals: { section: current_page.data.section_5 } %>
-  <%= partial 'shared/text_tile_reversed', locals: { section: current_page.data.section_6 } %>
-  <%= partial 'shared/two_text_tiles', locals: { section: current_page.data.section_7 } %>
+  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_5 %>
+  <%= partial 'shared/text_tile_reversed', locals: current_page.data.section_6 %>
+  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_7 %>
 
   <%= image_tag current_page.data.image_section_2.image, alt: current_page.data.image_section_2.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_2.image) %>
 
-  <%= partial 'shared/quote', locals: { section: current_page.data.quote_2 } %>
-  <%= partial 'shared/quote', locals: { section: current_page.data.quote_3 } %>
+  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
+  <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
 
   <%= partial 'shared/project_team' %>
 
