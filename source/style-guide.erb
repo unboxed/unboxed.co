@@ -10,7 +10,7 @@ title: "Style guide"
       Product story text with image tile
     </div>
     <div class="style-guide__container-body">
-      <%= partial 'product-stories/text_tile', locals: {
+      <%= partial 'shared/text_tile', locals: {
         section: OpenStruct.new({
           title: "Lorem ipsum dolor sit amet",
           content: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
@@ -25,7 +25,7 @@ title: "Style guide"
       Product story full image
     </div>
     <div class="style-guide__container-body">
-      <%= partial 'product-stories/full_image', locals: {
+      <%= partial 'shared/full_image', locals: {
         section: OpenStruct.new({
           image: "https://placehold.it/960x480",
           image_description: "Placehold.it"
@@ -39,7 +39,7 @@ title: "Style guide"
       Product story list with image tile
     </div>
     <div class="style-guide__container-body">
-      <%= partial 'product-stories/text_tile', locals: {
+      <%= partial 'shared/text_tile', locals: {
         section: OpenStruct.new({
           title: "Lorem ipsum dolor sit amet",
           content: [
@@ -59,7 +59,7 @@ title: "Style guide"
       Product story quote
     </div>
     <div class="style-guide__container-body">
-      <%= partial 'product-stories/quote', locals: {
+      <%= partial 'shared/quote', locals: {
         section: OpenStruct.new({
           quote: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
           source: "Lorem ipsum"
@@ -107,7 +107,7 @@ title: "Style guide"
       Product story quote with image
     </div>
     <div class="style-guide__container-body">
-      <%= partial 'product-stories/quote_caricature', locals: {
+      <%= partial 'shared/quote_caricature', locals: {
         section: OpenStruct.new({
           quote: "Consectetur adipisicing elit. Consequuntur sed aliquam vero repellendus impedit qui. Quia labore, quibusdam soluta, corrupti dolor deleniti voluptatum corporis quidem vero, beatae eius voluptatem quod!",
           source: "Lorem ipsum",

@@ -90,7 +90,7 @@ published: true
     </div>
   </section>
 
-  <%= partial 'jobs/full_image', locals: { section: current_page.data.unboxed_meeting_image } %>
+  <%= partial 'shared/full_image', locals: { section: current_page.data.unboxed_meeting_image } %>
 
   <section class="roles">
     <% if current_page.data.roles.content.nil? %>
@@ -160,9 +160,9 @@ published: true
     </div>
   </section>
 
-  <%= partial 'jobs/quote_caricature', locals: { section: current_page.data.alumni_quote } %>
+  <%= partial 'shared/quote_caricature', locals: { section: current_page.data.alumni_quote } %>
 
   <%= partial 'jobs/contact_us', locals: { roles_count: current_page.data.roles.content.length } %>
 
-  <%= partial 'jobs/related_tiles' %>
+  <%= partial 'shared//related_tiles' %>
 </div>
