@@ -97,7 +97,7 @@ related:
       link: "/blog/shaking-up-early-product-development-part-1-using-journey-mapping-to-improve-your-user-journey"
 ---
 
-<%= partial 'jobs/page_header' %>
+<%= partial 'jobs/job_header' %>
 
 <div class="container" data-header-waypoint>
   <section class="component">
@@ -126,23 +126,23 @@ related:
     </div>
   </section>
 
-  <%= partial 'jobs/full_image', locals: { section: current_page.data.design_image_1 } %>
+  <%= partial 'shared/full_image', locals: { section: current_page.data.design_image_1 } %>
 
-  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.description } %>
+  <%= partial 'shared/full_width_text_tile', locals: { section: current_page.data.description } %>
 
-  <%= partial 'jobs/text_tile', locals: { section: current_page.data.other_requirements } %>
+  <%= partial 'shared/text_tile', locals: { section: current_page.data.other_requirements } %>
 
-  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.benefits } %>
+  <%= partial 'shared/full_width_text_tile', locals: { section: current_page.data.benefits } %>
 
-  <%= partial 'jobs/full_image', locals: { section: current_page.data.design_image_2 } %>
+  <%= partial 'shared/full_image', locals: { section: current_page.data.design_image_2 } %>
 
-  <%= partial 'jobs/full_width_text_tile', locals: { section: current_page.data.other_benefits } %>
+  <%= partial 'shared/full_width_text_tile', locals: { section: current_page.data.other_benefits } %>
 
   <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
 
-  <%= partial 'jobs/quote_caricature', locals: { section: current_page.data.design_quote } %>
+  <%= partial 'shared/quote_caricature', locals: { section: current_page.data.design_quote } %>
 
   <%= partial 'jobs/contact_us' %>
 
-  <%= partial 'jobs/related_tiles' %>
+  <%= partial 'shared/related_tiles' %>
 </div>
