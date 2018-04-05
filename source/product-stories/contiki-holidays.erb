@@ -135,7 +135,7 @@ related:
       link: "/product-stories/plymouth-university"
 ---
 
-<%= partial 'shared/page_header' %>
+<%= partial 'shared/page_header', locals: current_page.data.header %>
 
 <div class="container" data-header-waypoint>
   <%= partial 'shared/full_image', locals: current_page.data.header %>
