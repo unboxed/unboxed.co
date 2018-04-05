@@ -90,7 +90,7 @@ published: true
     </div>
   </section>
 
-  <%= partial 'shared/full_image', locals: { section: current_page.data.unboxed_meeting_image } %>
+  <%= partial 'shared/full_image', locals: current_page.data.unboxed_meeting_image %>
 
   <section class="roles">
     <% if current_page.data.roles.content.nil? %>

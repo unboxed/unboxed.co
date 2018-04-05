@@ -1,23 +1,23 @@
-<section class="highlight--<%= section.project %>">
-  <% if section.title %>
-    <h2 class="highlight__title"><%= section.title %></h2>
+<section class="highlight--<%= locals[:project] %>">
+  <% if locals[:title] %>
+    <h2 class="highlight__title"><%= locals[:title] %></h2>
   <% end %>
 
-  <% if section.statistics %>
-    <div class="highlight__tile--<%= section.statistics.size.even? ? 'two' : 'one' %>">
-      <% section.statistics.each do |statistic| %>
+  <% if locals[:statistics] %>
+    <div class="highlight__tile--<%= locals[:statistics].size.even? ? 'two' : 'one' %>">
+      <% locals[:statistics].each do |statistic| %>
         <p class="highlight__large-text">
-          <% if statistic.icon %>
-            <i class="fa <%= statistic.icon %>"></i>
+          <% if statistic[:icon] %>
+            <i class="fa <%= statistic[:icon] %>"></i>
           <% end %>
-          <%= statistic.number %>
+          <%= statistic[:number] %>
         </p>
-        <p class="highlight__small-text"><%= statistic.text %></p>
+        <p class="highlight__small-text"><%= statistic[:text] %></p>
       <% end %>
     </div>
-  <% elsif section.list %>
+  <% elsif locals[:list] %>
     <ul class="text-tile__list">
-      <% section.list.each do |item| %>
+      <% locals[:list].each do |item| %>
       <li class="text-tile__list-item">
         <%= item %>
       </li>

@@ -1,14 +1,14 @@
 <section class="component">
   <div class="component__tile text-tile">
-    <% if section.title %>
+    <% if locals[:title] %>
       <h2 class="text-tile__title">
-        <%= section.title %>
+        <%= locals[:title] %>
       </h2>
     <% end %>
 
-    <% if section.content.is_a?(Array) %>
+    <% if locals[:content].is_a?(Array) %>
       <ul class="text-tile__list">
-        <% section.content.each do |item| %>
+        <% locals[:content].each do |item| %>
           <li class="text-tile__list-item">
             <%= item %>
           </li>
@@ -16,12 +16,12 @@
       </ul>
     <% else %>
       <p class="text-tile__paragraph">
-        <%= section.content %>
+        <%= locals[:content] %>
       </p>
     <% end %>
   </div>
 
   <div class="component__tile image-tile">
-    <%= image_tag section.image, alt: section.image_description, class: "image-tile__image", srcset: retina_srcset(section.image) %>
+    <%= image_tag locals[:image], alt: locals[:image_description], class: "image-tile__image", srcset: retina_srcset(locals[:image]) %>
   </div>
 </section>

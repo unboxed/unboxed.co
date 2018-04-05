@@ -91,9 +91,9 @@ links:
 <%= partial 'shared/page_header' %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: { section: current_page.data.header } %>
+  <%= partial 'shared/full_image', locals: current_page.data.header %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.introduction } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
 
   <section class="highlight--petition-map">
     <h2 class="highlight__title">
@@ -108,7 +108,7 @@ links:
     </div>
   </section>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.about } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.about %>
 
   <blockquote class="quote">
     <aside class="quote__right-section">
@@ -122,13 +122,13 @@ links:
     <img class="quote__source-image" src="<%= current_page.data.quote_1.image %>" alt="<%= current_page.data.quote_1.source %>"/>
   </blockquote>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.open_source } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.open_source %>
 
-  <%= partial 'shared/quote', locals: { section: current_page.data.quote_2 } %>
+  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.public_following } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.public_following %>
 
-  <%= partial 'shared/quote', locals: { section: current_page.data.quote_3 } %>
+  <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
 
   <%= partial 'shared/project_team' %>
 

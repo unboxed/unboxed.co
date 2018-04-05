@@ -1,20 +1,20 @@
 <section class="component">
   <div class="text-tile--full-width">
-    <% if section.title %>
+    <% if locals[:title] %>
       <h2 class="text-tile__title--narrow">
-        <%= section.title %>
+        <%= locals[:title] %>
       </h2>
     <% end %>
 
-   <% if section.intro %>
+   <% if locals[:intro] %>
       <p class="text-tile__paragraph" >
-        <%= section.intro %>
+        <%= locals[:intro] %>
       </p>
     <% end %>
 
-    <% if section.content.is_a?(Array) %>
+    <% if locals[:content].is_a?(Array) %>
       <ul class="text-tile__list">
-        <% section.content.each do |item| %>
+        <% locals[:content].each do |item| %>
           <li class="text-tile__list-item">
             <%= item %>
           </li>
@@ -22,7 +22,7 @@
       </ul>
     <% else %>
       <p class="text-tile__paragraph">
-        <%= section.content %>
+        <%= locals[:content] %>
       </p>
     <% end %>
   </div>

@@ -150,9 +150,9 @@ related:
 <%= partial 'shared/page_header' %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: { section: current_page.data.header } %>
+  <%= partial 'shared/full_image', locals: current_page.data.header %>
 
-  <%= partial 'shared/text_tile', locals: { section: current_page.data.introduction } %>
+  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
 
   <section class="highlight--pearson">
     <h2 class="highlight__title">
@@ -173,15 +173,15 @@ related:
     </div>
   </section>
 
-   <%= partial 'shared/text_tile', locals: { section: current_page.data.digital_revenue } %>
+   <%= partial 'shared/text_tile', locals: current_page.data.digital_revenue %>
 
-   <%= partial 'shared/quote', locals: { section: current_page.data.quote_1 } %>
+   <%= partial 'shared/quote', locals: current_page.data.quote_1 %>
 
-   <%= partial 'shared/text_tile', locals: { section: current_page.data.waterfall } %>
+   <%= partial 'shared/text_tile', locals: current_page.data.waterfall %>
 
-   <%= partial 'shared/quote', locals: { section: current_page.data.quote_2 } %>
+   <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
 
-   <%= partial 'shared/text_tile', locals: { section: current_page.data.planning_stages } %>
+   <%= partial 'shared/text_tile', locals: current_page.data.planning_stages %>
 
    <section class="highlight--pearson">
     <h2 class="highlight__title">
@@ -202,17 +202,17 @@ related:
     </div>
   </section>
 
-   <%= partial 'shared/text_tile', locals: { section: current_page.data.new_products } %>
+   <%= partial 'shared/text_tile', locals: current_page.data.new_products %>
 
-   <%= partial 'shared/quote_caricature', locals: { section: current_page.data.quote_3 } %>
+   <%= partial 'shared/quote_caricature', locals: current_page.data.quote_3 %>
 
-   <%= partial 'shared/text_tile', locals: { section: current_page.data.deploying } %>
+   <%= partial 'shared/text_tile', locals: current_page.data.deploying %>
 
-   <%= partial 'shared/quote', locals: { section: current_page.data.quote_4 } %>
+   <%= partial 'shared/quote', locals: current_page.data.quote_4 %>
 
-   <%= partial 'shared/text_tile', locals: { section: current_page.data.launching } %>
+   <%= partial 'shared/text_tile', locals: current_page.data.launching %>
 
-   <%= partial 'shared/quote', locals: { section: current_page.data.quote_5 } %>
+   <%= partial 'shared/quote', locals: current_page.data.quote_5 %>
 
    <%= partial 'shared/project_team' %>
 
