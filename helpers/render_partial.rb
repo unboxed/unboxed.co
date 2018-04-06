@@ -1,3 +1,5 @@
+raise "Middleman has been updated, do we still need #{__FILE__}?" if Middleman::VERSION != '4.2.1'
+
 module RenderPartial
   def partial(template, options={}, &block)
     # Since upgrading Middleman past 4.1.0, the partial function has been
