@@ -67,7 +67,7 @@ activate :syntax
 activate :sprockets
 
 configure :development do
-  activate :livereload
+  activate :livereload if ENV['ENABLE_LIVERELOAD']
 end
 
 require 'lib/helpers'
