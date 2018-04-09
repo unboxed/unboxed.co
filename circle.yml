@@ -4,6 +4,7 @@ compile:
 
 database:
   override:
+    - echo 'There is no database'
 
 test:
   override:

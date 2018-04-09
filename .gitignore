@@ -20,3 +20,6 @@
 .ruby-gemset
 
 /spec/examples.txt
+
+# Ignore the db used by middleman-blog-similar
+.similar.db

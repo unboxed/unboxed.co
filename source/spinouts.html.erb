@@ -69,9 +69,9 @@ spinouts:
           <%= project.title %>
         </h2>
 
-        <%= Tilt['markdown'].new{ project.why_text }.render %>
-        <%= Tilt['markdown'].new{ project.what_text }.render %>
-        <%= Tilt['markdown'].new{ project.who_text }.render %>
+        <%= Tilt['markdown'].new(context: @app) { project.why_text }.render %>
+        <%= Tilt['markdown'].new(context: @app) { project.what_text }.render %>
+        <%= Tilt['markdown'].new(context: @app) { project.who_text }.render %>
       </div>
 
       <div class="component__tile image-tile">
