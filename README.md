@@ -42,9 +42,6 @@ Active reloading is configured, so the server will listen for changes and refres
 
   Use `middleman article "[article name]" --blog news` to create a new blog file.
 
-* ### Removing someone from people
-    Use `rake remove_person` to start the script to remove someone from the website. Type their proper full name into the script.
-
 ## Testing
 
 Using [BrowserStack](https://www.browserstack.com) for compatibility testing
@@ -52,6 +49,10 @@ Using [BrowserStack](https://www.browserstack.com) for compatibility testing
 ## Adding to the 'people' page
 
 Upload caricatures at a size at or near to (212px * 425px), with a transparent background. This can be done with e.g. the Mac Preview app.
+
+## Removing someone from people
+
+Use `ruby 'lib/remove_person.rb'` to start the script to remove someone from the website. Type their proper full name into the script.
 
 ## Blog CSS Features
 

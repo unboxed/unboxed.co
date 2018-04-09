@@ -15,7 +15,6 @@ gem 'sass-globbing', '~> 1.1'
 
 group :development do
   gem 'middleman-livereload'
-  gem 'rake'
 end
 
 group :development, :test do
