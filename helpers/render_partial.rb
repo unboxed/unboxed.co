@@ -1,4 +1,7 @@
-raise "Middleman has been updated, do we still need #{__FILE__}?" if Middleman::VERSION != '4.2.1'
+if Middleman::VERSION != '4.2.1'
+  middleman_pr = 'https://github.com/middleman/middleman/pull/2169'
+  raise "Middleman has been updated, do we still need #{__FILE__}? (See Middleman PR: #{middleman_pr})"
+end
 
 module RenderPartial
   def partial(template, options={}, &block)
