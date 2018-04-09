@@ -1,61 +1,33 @@
 #!usr/bin/ruby
+require 'yaml'
 
 puts "Enter name of person to remove:"
 name = gets.strip!
-puts "\n###########################\n# Removing #{name}\n###########################"
-
-def short_name(name)
-  name.gsub(" ", "-").downcase
-end
-
-def first_name(name)
-  name.split(" ")[0]
-end
+short_name = name.gsub(" ", "-").downcase
+first_name = name.split(" ")[0]
 
 ##########################################
 # Remove person from people.yml          #
 ##########################################
 
-people_yml_path = "#{Dir.pwd}/data/people.yml"
-tmp_file_path = "#{people_yml_path}.tmp"
-found_person = false
+people_file_path = "#{Dir.pwd}/data/people.yml"
+original_people_data = YAML::load_file(people_file_path)
+updated_people_data = original_people_data.dup.delete_if { |hash| hash['name'] == name }
+File.write(people_file_path, updated_people_data.to_yaml)
 
-File.open(tmp_file_path, "w") do |output|
-  File.open(people_yml_path, "r") do |input|
-    to_remove_block = false
-    input.each_line do |line|
-      if to_remove_block && line.strip.empty?
-        to_remove_block = false
-        next
-      end
-
-      next if to_remove_block
-
-      if line.include?("- name: \"#{name}\"")
-        puts "Found person: #{line}"
-        to_remove_block = true
-        found_person = true
-        next
-      end
-
-      output.write(line) unless to_remove_block
-    end
-  end
+if original_people_data == updated_people_data
+  puts "Could not find #{name} in 'people.yml'."
+else
+  puts "Removed #{name} from 'people.yml'."
 end
-
-# Delete old file and write in new one
-File.delete(people_yml_path)
-File.rename(tmp_file_path, people_yml_path)
-
-puts "Could not find #{name} in 'people.yml'." unless found_person
-puts "Searching for people page links..."
 
 #############################################################
 # Search through posts and remove links to people/#{name}   #
 #############################################################
 
-people_page_link_regex = Regexp.new ".*\(\D*\/people##{short_name(name)}\).*"
-ag_people_page_link_regex = "'.*\(\D*\/people##{short_name(name)}\).*'"
+puts "Searching for people page links..."
+people_page_link_regex = Regexp.new ".*\(\D*\/people##{short_name}\).*"
+ag_people_page_link_regex = "'.*\(\D*\/people##{short_name}\).*'"
 dead_link_count = 0
 
 source_files = `ag #{ag_people_page_link_regex} source/ -l`.split("\n")
@@ -68,8 +40,8 @@ source_files.each do |source_file|
     File.open(source_file, "r") do |input|
       input.each_line do |line|
         if people_page_link_regex.match(line)
-          partitioned_line = line.partition(/\[#{Regexp.quote first_name(name)}\D*?\]/)
-          remainder_of_line = partitioned_line[2].partition(/\(.*\/people##{Regexp.quote short_name(name)}\)/)
+          partitioned_line = line.partition(/\[#{Regexp.quote first_name}\D*?\]/)
+          remainder_of_line = partitioned_line[2].partition(/\(.*\/people##{Regexp.quote(short_name)}\)/)
           clean_line = "#{partitioned_line[0]}#{partitioned_line[1][1..-2]}#{remainder_of_line[2]}"
 
           output.write(clean_line)
