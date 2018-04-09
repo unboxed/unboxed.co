@@ -12,7 +12,7 @@ tags:
 
 [Richard Stobart](/people#richard-stobart) held the second instalment of our current Digital Webinar Series, titled: <i>'Communication Ceremonies: why, what and how to communicate to increase the pace at early stage digital product development’</i>.<br/>
 
-![webinar1](http://i1291.photobucket.com/albums/b548/grammccram/fdd183d1-fc48-45c4-a2b7-e27e26c84e20_zps11e39c22.png)<br/>
+![webinar1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4c418e1cfa541e396ce9a11883bb6242.png)<br/>
 
 <h1>Topics covered included:</h1>
 

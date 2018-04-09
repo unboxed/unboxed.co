@@ -10,7 +10,7 @@ tags:
   - Innovation
   - Testing
 has_syntax: true
-main_image: http://i.imgur.com/mhu8lOx.png
+main_image: https://s3-eu-west-1.amazonaws.com/unboxed-web-images/112d1cabf6570fdb37bdd5d485e0ff98.png
 ---
 
 We were recently tasked with adding a feature that showed the status of a IoT
@@ -38,7 +38,7 @@ As this was the first time we had used ActionCable, we were keen to get the
 most simple end-to-end implementation working in order to understand how
 everything interacts. The HTTP request successfully upgraded to a WebSocket
 connection and in our logs we could see that a client had subscribed -
-[simple](http://footage.framepool.com/shotimg/562656858-meerkat-zoo-standing-looking-at-camera.jpg)!
+[simple](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6330fa247262b94e475d9cf5cc1c45ba.jpg)!
 Next thing to try out was the broadcasting, so naively we booted up a Rails
 console and typed...
 

@@ -21,7 +21,7 @@ Rails 4 has been around for a while now, so we should all be pretty familiar wit
 
 The blog also goes into some of the detail of how the parameter permission code works, so there's something for everyone.  I must admit I found it surprising that it's not the params object itself that complains, but that [``ActiveModel`` instances that will raise the error](https://github.com/rails/rails/blob/master/activemodel/lib/active_model/forbidden_attributes_protection.rb#L19-24).
 
-## ``git``, open-source projects, & pull requests - [Murray](http://www.unboxedconsutling.com/people#murray-steele)
+## ``git``, open-source projects, & pull requests - [Murray](http://www.unboxedconsulting.com/people#murray-steele)
 
 http://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/
 

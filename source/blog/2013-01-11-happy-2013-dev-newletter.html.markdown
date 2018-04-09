@@ -103,7 +103,7 @@ Finally, as <s>threatened</s> promised
 ##Some of my personal favourite memes of 2012 (Lizard)
 
 Fruit:
-http://i.imgur.com/C4ZLz.jpg
+https://s3-eu-west-1.amazonaws.com/unboxed-web-images/7103ff947a0971b02df4ff2341a4f410.jpg
 
 Free samsung galaxy:
 http://25.media.tumblr.com/tumblr_m9j8khGPDV1rwutrpo1_1280.png

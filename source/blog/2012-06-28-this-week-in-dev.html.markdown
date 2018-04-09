@@ -29,7 +29,7 @@ With Retina screens all around us, it’s time to take the plunge and retinafy y
 
 Self explanatory really - have a read.
 
-##[ActiveRecord Niceness](https://lh5.googleusercontent.com/-qhOrCA0YOcs/T88ahvVjlpI/AAAAAAAAGYY/nqntKXC9fic/s372/92.gif) (via Joerg)
+##[ActiveRecord Niceness](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/a66243ce3c7f82cc02d5a0137ee1ad32.gif) (via Joerg)
 
 Here's a thing I never knew about ActiveRecord, and not sure when it slipped in: So - imagine you have the following setup:
 
@@ -43,7 +43,7 @@ Here's a thing I never knew about ActiveRecord, and not sure when it slipped in:
 
 Then, contact.address_ids gives you an array of ids of all your addresses.
 
-##[SQL Binding](https://lh3.googleusercontent.com/-oBx-Gxby-dY/T5UaoPTtouI/AAAAAAAAGO8/P3Vlsxgi_9A/s500/84.gif) (via Jolyon)
+##[SQL Binding](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/f1a7a42c32ccfe3b879acbe01f79d661.gif) (via Jolyon)
 
 I was convinced writing sql (or sequel) to use bind variables must be better than hardcoding from a performance perspective but my confidence was shaken when reading about [prepared statements](http://patshaughnessy.net/2011/10/22/show-some-love-for-prepared-statements-in-rails-3-1).
 Mind you, from a sql injection and readability perspective, I think binding remains preferable.
@@ -61,7 +61,7 @@ The catalog contains about 70 screencasts as of now. All I can say is that it be
 
 You should also watch [this lightning talk](https://www.destroyallsoftware.com/talks/wat/) by the same guy if you haven't seen it yet, very entertaining.
 
-##[Rails 4.0 Sneak Peek: Queueing](https://lh4.googleusercontent.com/-WoHQ-j8FqCI/T5Ubj2T3BpI/AAAAAAAAGPw/FlhFIFS845A/s324/81.gif) (via Attila)
+##[Rails 4.0 Sneak Peek: Queueing](https://s3-eu-west-1.amazonaws.com/unboxed-web-images/3fd222d8da8385a83687e1ab4de29a9e.gif) (via Attila)
 
 [Seen this?](http://reefpoints.dockyard.com/ruby/2012/06/25/rails-4-sneak-peek-queueing.html)
 
