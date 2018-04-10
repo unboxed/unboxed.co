@@ -1,12 +1,12 @@
 #!usr/bin/ruby
 require 'yaml'
 
-puts "Enter name of person to remove:"
+puts "Enter the full name of the person to remove (e.g. Joe Bloggs):"
 name = gets.strip!
 
-##########################################
-# Remove person from people.yml          #
-##########################################
+#################################
+# Remove person from people.yml #
+#################################
 
 people_file_path = "#{Dir.pwd}/data/people.yml"
 original_people_data = YAML::load_file(people_file_path)
@@ -19,9 +19,9 @@ else
   puts "Removed #{name} from 'people.yml'."
 end
 
-###########################################################################
-# Search through product stories and remove links to people/#{short_name} #
-###########################################################################
+#################################################################
+# Search through product stories and remove link in frontmatter #
+#################################################################
 
 short_name = name.gsub(" ", "-").downcase
 source_files = %x(grep -rwl ./source/product-stories -e 'people##{short_name}').split

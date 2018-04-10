@@ -50,9 +50,9 @@ Using [BrowserStack](https://www.browserstack.com) for compatibility testing
 
 Upload caricatures at a size at or near to (212px * 425px), with a transparent background. This can be done with e.g. the Mac Preview app.
 
-## Removing someone from people
+## Removing an employee from the site
 
-Use `ruby 'lib/remove_person.rb'` to start the script to remove someone from the website. Type their proper full name into the script.
+Use `ruby 'lib/remove_person.rb'` to start a script to remove an employee from the people page and their links across the site.
 
 ## Blog CSS Features
 
