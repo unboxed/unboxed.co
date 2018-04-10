@@ -1,231 +1,236 @@
-- name: "Richard Stobart"
-  short_name: "richard-stobart"
-  role: "CEO"
-  email: "richard.stobart"
+---
+- name: Richard Stobart
+  short_name: richard-stobart
+  role: CEO
+  email: richard.stobart
   bio: |
     I founded and run Unboxed Consulting, an Agile Enterprise Ruby on Rails System Integrator. I enjoy stimulating ideas, shaping the company and looking for ways to improve ourselves. I am also interested in Lean Startup and Startup Weekends.
     In my spare time I am setting up a charity for pupils to attend Hilton College.
     I was named 'Best Agile Coach or Mentor (Process)' at the 2014 UK Agile Awards.
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/richardstobart"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/richardstobart"
-
-- name: "Andrew White"
-  short_name: "andrew-white"
-  role: "CTO"
-  email: "andrew.white"
+  - name: Twitter
+    link: https://twitter.com/richardstobart
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/richardstobart
+- name: Andrew White
+  short_name: andrew-white
+  role: CTO
+  email: andrew.white
   bio: |
     As a contributor to Ruby on Rails since 2007 and a core team member since 2012 I really enjoy helping people with their Rails problems and working at Unboxed gives me a great opportunity to do that, both with the great developers we have here and with our clients.
     I also like to help to the new generation of Rails programmers and as part of that I mentor students from across the world as part of the Facebook OpenAcademy and Google Summer of Code programs.
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/pixeltrix"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/pixeltrix"
-    - name: "GitHub"
-      link: "https://github.com/pixeltrix"
-
-- name: "Martyn Evans"
-  short_name: "martyn-evans"
-  role: "Product"
-  email: "martyn.evans"
+  - name: Twitter
+    link: https://twitter.com/pixeltrix
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/pixeltrix
+  - name: GitHub
+    link: https://github.com/pixeltrix
+- name: Martyn Evans
+  short_name: martyn-evans
+  role: Product
+  email: martyn.evans
   bio: |
     I am a creative technical director with broad ranging skills and experience gained from 20 years working with digital technology.
     Creative, collaborative and instinctively lean, I'm focused on building the best possible products and services in the best possible ways.
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/martynrevans"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/martynrevans"
-
-- name: "Tim Higgins"
-  short_name: "tim-higgins"
-  role: "Operations"
-  email: "tim.higgins"
+  - name: Twitter
+    link: https://twitter.com/martynrevans
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/martynrevans
+- name: Tim Higgins
+  short_name: tim-higgins
+  role: Operations
+  email: tim.higgins
   bio: |
     I have been around a long time, having now spent nigh on thirty years working on projects. Starting first as a developer using COBOL(!), moving onto Visual Basic and Forte. After a few years I moved into more analytical, people management and project management roles, so have seen a lot of issues that projects face. Having started work in a truly waterfall manner it is refreshing to now be part of a company that not only talks about Agile but does it, properly.
     I enjoy running and socialising - and find that the two go well together!
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/TimPHiggins"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/tphiggins"
-
-- name: "Graeme McCubbin"
-  short_name: "graeme-mccubbin"
-  role: "Comms"
-  email: "graeme.mccubbin"
+  - name: Twitter
+    link: https://twitter.com/TimPHiggins
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/tphiggins
+- name: Graeme McCubbin
+  short_name: graeme-mccubbin
+  role: Comms
+  email: graeme.mccubbin
   bio: |
-    I’m Graeme. I’m passionate about communication and all things digital. Never afraid to be creative - who knows where it might lead?
+    I'm Graeme. I'm passionate about communication and all things digital. Never
+    afraid to be creative - who knows where it might lead?
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/GramMcCram"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/gmccubbin"
-    - name: "GitHub"
-      link: "https://github.com/GramMcCram"
-
-- name: "Dawn Turner"
-  short_name: "dawn-turner"
-  role: "Relationships"
-  email: "dawn.turner"
+  - name: Twitter
+    link: https://twitter.com/GramMcCram
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/gmccubbin
+  - name: GitHub
+    link: https://github.com/GramMcCram
+- name: Dawn Turner
+  short_name: dawn-turner
+  role: Relationships
+  email: dawn.turner
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/DawnTurner21"
-
-- name: "Murray Steele"
-  short_name: "murray-steele"
-  role: "Developer"
-  email: "murray.steele"
+  - name: Twitter
+    link: https://twitter.com/DawnTurner21
+- name: Murray Steele
+  short_name: murray-steele
+  role: Developer
+  email: murray.steele
   bio: |
-    There’s only so much a developer can do on their own, even when supplied with a bottomless cup of Darjeeling and all the Scottish indie-pop their ears desire. At least, that’s what I’ve learned in my years as a web developer and why I joined Unboxed Consulting. It’s a great team of smart people with an amazing focus on agile development processes and I'm glad to be a part of it.
+    There's only so much a developer can do on their own, even when supplied with
+    a bottomless cup of Darjeeling and all the Scottish indie-pop their ears desire.
+    At least, that's what I've learned in my years as a web developer and why I joined
+    Unboxed Consulting. It's a great team of smart people with an amazing focus on
+    agile development processes and I'm glad to be a part of it.
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/hlame"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/hlame"
-    - name: "GitHub"
-      link: "https://github.com/h-lame"
-
-- name: "Elena Tanasoiu"
-  short_name: "elena-tanasoiu"
-  role: "Developer"
-  email: "elena.tanasoiu"
+  - name: Twitter
+    link: https://twitter.com/hlame
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/hlame
+  - name: GitHub
+    link: https://github.com/h-lame
+- name: Elena Tanasoiu
+  short_name: elena-tanasoiu
+  role: Developer
+  email: elena.tanasoiu
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/elenatanasoiu"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/elenatanasoiu"
-    - name: "GitHub"
-      link: "https://github.com/elenatanasoiu"
-
-- name: "Leon Odey Knight"
-  short_name: "leon-odey-knight"
-  role: "Creative"
-  email: "leon.odey-knight"
+  - name: Twitter
+    link: https://twitter.com/elenatanasoiu
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/elenatanasoiu
+  - name: GitHub
+    link: https://github.com/elenatanasoiu
+- name: Leon Odey Knight
+  short_name: leon-odey-knight
+  role: Creative
+  email: leon.odey-knight
   bio: |
-    A creative with a curious, provocative mind and a singular vision; To shape the future of our digital world working with like minded thinkers unable to resist asking themselves 'what if...'.
+    A creative with a curious, provocative mind and a singular vision; To shape
+    the future of our digital world working with like minded thinkers unable to resist
+    asking themselves "what if...".
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/leonintheblind"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/leon-odey-knight-8029638"
-
-- name: "Steve Lennon"
-  short_name: "steve-lennon"
-  role: "Delivery"
-  email: "steve.lennon"
+  - name: Twitter
+    link: https://twitter.com/leonintheblind
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/leon-odey-knight-8029638
+- name: Steve Lennon
+  short_name: steve-lennon
+  role: Delivery
+  email: steve.lennon
   bio: |
-    I have consultancy experience and a diverse skill set with experience across both the IT delivery lifecycle and IT operations. I have strong analytical and management skills and plenty of experience working in a variety of contexts from strategy development through to technology delivery. I have been at Unboxed since April 2008 working primarily in the finance sector.
+    I have consultancy experience and a diverse skill set with experience across
+    both the IT delivery lifecycle and IT operations. I have strong analytical and
+    management skills and plenty of experience working in a variety of contexts from
+    strategy development through to technology delivery. I have been at Unboxed since
+    April 2008 working primarily in the finance sector.
   social_networks:
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/steve-lennon-2bb64555"
-
-- name: "Carrie Bedingfield"
-  short_name: "carrie-bedingfield"
-  role: "Comms"
-  email: "carrie.bedingfield"
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/steve-lennon-2bb64555
+- name: Carrie Bedingfield
+  short_name: carrie-bedingfield
+  role: Comms
+  email: carrie.bedingfield
   bio: |
     I connect Unboxed with the big wide world and help the business grow. I'm an ideas factory and I love digital products, information design, lean start up and 'making stuff'.
     My other love is running - track and cross country. Some people say I have too much energy. It's possible...
     Unboxed supports and mentors at my purpose-led business accelerator, www.50thgeneration.org
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/CBedingfield"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/carriebedingfield"
-
-- name: "Tom Sabin"
-  short_name: "tom-sabin"
-  role: "Developer"
-  email: "tom.sabin"
+  - name: Twitter
+    link: https://twitter.com/CBedingfield
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/carriebedingfield
+- name: Tom Sabin
+  short_name: tom-sabin
+  role: Developer
+  email: tom.sabin
   bio: |
-    I have been interested in web design/development since the start of high school where I created a personal website. This was used to host numerous Photoshop tutorials and other content that I had created. Following this success I have been producing portfolio websites for small local companies and ever since I have been eager to develop this passion further. This has been made possible by joining Unboxed Consulting.
+    I have been interested in web design/development since the start of high school
+    where I created a personal website. This was used to host numerous Photoshop tutorials
+    and other content that I had created. Following this success I have been producing
+    portfolio websites for small local companies and ever since I have been eager
+    to develop this passion further. This has been made possible by joining Unboxed
+    Consulting.
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/tomsabin"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/tom-sabin-32838046"
-    - name: "GitHub"
-      link: "https://github.com/tomsabin"
-
-- name: "Ben Wong"
-  short_name: "ben-wong"
-  role: "Developer"
-  email: "ben.wong"
+  - name: Twitter
+    link: https://twitter.com/tomsabin
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/tom-sabin-32838046
+  - name: GitHub
+    link: https://github.com/tomsabin
+- name: Ben Wong
+  short_name: ben-wong
+  role: Developer
+  email: ben.wong
   bio: |
-    Ten years ago I started my first job - shoring up a failing project in a failing dot com. Ever since then I've been helping people with projects that are in trouble, and in doing so, learnt a lot about agile methods and how they can help a struggling project. If you have a problem, if no one else can help, and if you can find us, maybe you can hire... unboxed
+    Ten years ago I started my first job - shoring up a failing project in a failing
+    dot com. Ever since then I've been helping people with projects that are in trouble,
+    and in doing so, learnt a lot about agile methods and how they can help a struggling
+    project. If you have a problem, if no one else can help, and if you can find us,
+    maybe you can hire... unboxed
   social_networks:
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/ben-wong-45876a1"
-    - name: "GitHub"
-      link: "https://github.com/spannerinworks"
-
-- name: "Henry Turner"
-  short_name: "henry-turner"
-  role: "Developer"
-  email: "henry.turner"
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/ben-wong-45876a1
+  - name: GitHub
+    link: https://github.com/spannerinworks
+- name: Henry Turner
+  short_name: henry-turner
+  role: Developer
+  email: henry.turner
   bio: |
-    I am a Developer here at Unboxed. After a past career in animation and visual effects I was lured away by a fascination with the web with its dramatic effect on culture and business. I think we live in exciting times!
+    I am a Developer here at Unboxed. After a past career in animation and visual
+    effects I was lured away by a fascination with the web with its dramatic effect
+    on culture and business. I think we live in exciting times!
   social_networks:
-    - name: "GitHub"
-      link: "https://github.com/thehenster"
-
-- name: "Lawrence Richards"
-  short_name: "lawrence-richards"
-  role: "Designer"
-  email: "lawrence.richards"
+  - name: GitHub
+    link: https://github.com/thehenster
+- name: Lawrence Richards
+  short_name: lawrence-richards
+  role: Designer
+  email: lawrence.richards
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/lawrence_design"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/lawrencer/"
-
-- name: "Neil van Beinum"
-  short_name: "neil-van-beinum"
-  role: "Developer"
-  email: "neil.van.beinum"
+  - name: Twitter
+    link: https://twitter.com/lawrence_design
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/lawrencer/
+- name: Neil van Beinum
+  short_name: neil-van-beinum
+  role: Developer
+  email: neil.van.beinum
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/neilvanbeinum"
-    - name: "GitHub"
-      link: "https://github.com/neilvb"
-
-- name: "Matt Turrell"
-  short_name: "matt-turrell"
-  role: "Scrum Master"
-  email: "matt.turrell"
+  - name: Twitter
+    link: https://twitter.com/neilvanbeinum
+  - name: GitHub
+    link: https://github.com/neilvb
+- name: Matt Turrell
+  short_name: matt-turrell
+  role: Scrum Master
+  email: matt.turrell
   bio: |
     My whole career has been in software, and I love it when a system goes live, making a positive impact on the lives and work of its users.
     Scrum first appeared on my radar in 2010 and changed the way I think about software delivery forever. Then in 2012 I read The Lean Startup, which cemented my change in thinking.
-    I’m over the moon to have cast-off the role of a traditional project manager and joined Unboxed as a Scrum Master, to work with exceptional people and deliver exciting projects.
-    When I’m not working, I can often be found with a camera in-hand and am always up for a conversation about photography.
+    I'm over the moon to have cast-off the role of a traditional project manager and joined Unboxed as a Scrum Master, to work with exceptional people and deliver exciting projects.
+    When I'm not working, I can often be found with a camera in-hand and am always up for a conversation about photography.
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/mattunboxed"
-    - name: "LinkedIn"
-      link: "https://uk.linkedin.com/in/mattturrell1"
-
-- name: "Boris Divjak"
-  short_name: "boris-divjak"
-  role: "Designer"
-  email: "boris.divjak"
+  - name: Twitter
+    link: https://twitter.com/mattunboxed
+  - name: LinkedIn
+    link: https://uk.linkedin.com/in/mattturrell1
+- name: Boris Divjak
+  short_name: boris-divjak
+  role: Designer
+  email: boris.divjak
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/borisdivjak"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/borisdivjak/"
-
-- name: "David Henry"
-  short_name: "david-henry"
-  role: "Developer"
-  email: "david.henry"
+  - name: Twitter
+    link: https://twitter.com/borisdivjak
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/borisdivjak/
+- name: David Henry
+  short_name: david-henry
+  role: Developer
+  email: david.henry
   social_networks:
-    - name: "Twitter"
-      link: "https://twitter.com/dw_henry"
-    - name: "LinkedIn"
-      link: "https://www.linkedin.com/in/david-henry-000b603/"
-    - name: "Github"
-      link: "https://github.com/dwhenry"
+  - name: Twitter
+    link: https://twitter.com/dw_henry
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/david-henry-000b603/
+  - name: Github
+    link: https://github.com/dwhenry
