@@ -17,6 +17,14 @@
   background-color: $purple;
 }
 
+.service-page-quote--with-bottom-spacing {
+  margin-bottom: 30px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin-bottom: 60px;
+  }
+}
+
 .services-page-quote__text {
   @extend .quote__text;
   color: $white;
