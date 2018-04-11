@@ -61,24 +61,7 @@ product_stories:
 
   <%= partial 'services/full_width_text_tile_prose', locals: { section: current_page.data.introduction } %>
 
-  <section class="activities">
-    <h3 class="activities__title">
-        <%= current_page.data.activities.title %>
-    </h3>
-    <div class="activities__grid">
-      <% current_page.data.activities.content.each do |activity| %>
-        <div class="activities__activity">
-          <h3 class="activity__title">
-            <%= activity.heading %>
-          </h3>
-          <%= image_tag activity.image, alt: activity.heading, class: "service__image", srcset: retina_srcset(activity.image) %>
-          <p class="service__paragraph">
-            <%= activity.description %>
-          </p>
-        </div>
-      <% end %>
-    </div>
-  </section>
+  <%= partial 'services/activities', locals: current_page.data.activities %>
 
   <%= partial 'showcase_tiles_section' , locals: { section: current_page.data.product_stories} %>
 </div>
