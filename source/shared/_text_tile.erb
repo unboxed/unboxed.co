@@ -6,18 +6,22 @@
       </h2>
     <% end %>
 
-    <% if locals[:content].is_a?(Array) %>
-      <ul class="text-tile__list">
-        <% locals[:content].each do |item| %>
-          <li class="text-tile__list-item">
-            <%= item %>
-          </li>
-        <% end %>
-      </ul>
+    <% if block_given? %>
+      <%= yield %>
     <% else %>
-      <p class="text-tile__paragraph">
-        <%= locals[:content] %>
-      </p>
+      <% if locals[:content].is_a?(Array) %>
+        <ul class="text-tile__list">
+          <% locals[:content].each do |item| %>
+            <li class="text-tile__list-item">
+              <%= item %>
+            </li>
+          <% end %>
+        </ul>
+      <% else %>
+        <p class="text-tile__paragraph">
+          <%= locals[:content] %>
+        </p>
+      <% end %>
     <% end %>
   </div>
 

@@ -2,6 +2,15 @@
   box-sizing: border-box;
   padding: 30px 20px;
 
+  a {
+    color: $purple;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
   @include breakpoint($tablet-breakpoint) {
     padding: 30px 20px 20px;
     min-height: 320px;
@@ -73,6 +82,22 @@
   }
 }
 
+.text-tile__subtitle {
+  @include responsive-sub-title;
+  color: $purple;
+  font-weight: 300;
+  line-height: 1.2;
+  margin: 30px 0 16px;
+
+  @include breakpoint($tablet-breakpoint) {
+    margin: 60px 0 1.6vw;
+  }
+
+  @include breakpoint($desktop-breakpoint) {
+    margin: 60px 0 16px;
+  }
+}
+
 .text-tile__paragraph {
   @include responsive-text;
   color: $black;
@@ -121,15 +146,6 @@
 
   &:last-child {
     padding-bottom: 0;
-  }
-
-  a {
-    color: $purple;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: underline;
-    }
   }
 
   span {

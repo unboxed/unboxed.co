@@ -1,27 +1,31 @@
 <section class="showcase-tiles-section">
-  <h2 class="showcase-tiles-section__title">
-    <%= section.title %>
-  </h2>
-
-  <% section.content.each do |tile| %>
-    <a class="showcase-tile" href="<%= tile.link %>" title="<%= tile.name %>">
-      <div class="showcase-tile__content">
-        <%= image_tag tile.image, alt: tile.name, class: 'showcase-tile__image', srcset: retina_srcset(tile.image) %>
-
-        <h3 class="showcase-tile__title">
-          <%= tile.name %>
-        </h3>
-
-        <p class="showcase-tile__paragraph">
-          <%= tile.description %>
-        </p>
-      </div>
-    </a>
+  <% if locals[:title].present? %>
+    <h2 class="showcase-tiles-section__title">
+      <%= locals[:title] %>
+    </h2>
   <% end %>
 
-  <% if section.client_logos %>
+  <% if locals[:content].present? %>
+    <% locals[:content].each do |tile| %>
+      <a class="showcase-tile" href="<%= tile.link %>" title="<%= tile.name %>">
+        <div class="showcase-tile__content">
+          <%= image_tag tile.image, alt: tile.name, class: 'showcase-tile__image', srcset: retina_srcset(tile.image) %>
+
+          <h3 class="showcase-tile__title">
+            <%= tile.name %>
+          </h3>
+
+          <p class="showcase-tile__paragraph">
+            <%= tile.description %>
+          </p>
+        </div>
+      </a>
+    <% end %>
+  <% end %>
+
+  <% if locals[:client_logos] %>
     <div class="showcase-tile-client-logos">
-      <% section.client_logos.each do |client_logo| %>
+      <% locals[:client_logos].each do |client_logo| %>
         <%= image_tag client_logo.image, alt: client_logo.name, class: 'showcase-tile-client-logos__logo', srcset: retina_srcset(client_logo.image) %>
       <% end %>
     </div>

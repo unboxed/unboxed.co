@@ -1,0 +1,18 @@
+<section class="activities">
+  <h3 class="activities__title">
+      <%= locals[:title] %>
+  </h3>
+  <div class="activities__grid">
+    <% locals[:content].each do |activity| %>
+      <div class="activities__activity">
+        <h3 class="activity__title">
+          <%= activity[:heading] %>
+        </h3>
+        <%= image_tag activity[:image], alt: activity[:heading], class: "service__image", srcset: retina_srcset(activity[:image]) %>
+        <p class="service__paragraph">
+          <%= activity[:description] %>
+        </p>
+      </div>
+    <% end %>
+  </div>
+</section>

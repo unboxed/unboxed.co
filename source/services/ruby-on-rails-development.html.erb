@@ -1,0 +1,323 @@
+---
+title: "Services - Ruby on Rails development"
+---
+
+<%= partial 'shared/page_header', locals: {
+  introduction: 'Ruby on Rails development'
+} %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'shared/full_image', locals: {
+    image: '/assets/images/services/ruby-on-rails-development/header.jpg',
+    image_description: 'Developer working'
+  } %>
+
+  <%= partial 'services/full_width_text_tile_prose', locals: {
+    content: [
+     'From creating new applications and minimum viable products to developing and scaling already-existing systems, Unboxed has over 12 years of experience in designing, building, delivering and supporting end-to-end Ruby on Rails applications.',
+     'We provide multidisciplinary agile teams of developers, designers, Scrum Masters and digital experts to move your digital ideas forward. We collaborate with you to identify and prioritise the biggest and most valuable opportunities for your organisation.'
+    ]
+  } %>
+
+  <section class="component">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title--narrow">
+        Why Ruby on Rails?
+      </h2>
+
+      <p class="text-tile__paragraph">
+        Ruby on Rails is directly at the heart of some of the most successful digital products and services, providing a responsive framework to deliver robust and dynamic applications.
+      </p>
+
+      <ul class="text-tile__list">
+        <li class="text-tile__list-item">
+          Ruby on Rails enables rapid application development to deliver more features in less time, allowing you to speedily release a minimum viable product (MVP) and reach the market place.
+        </li>
+        <li class="text-tile__list-item">
+          The framework is secure by default, allowing you to concentrate on what matters the most to your business.
+        </li>
+        <li class="text-tile__list-item">
+          As open source software, Ruby on Rails is supported by a large community (including our CTO and Rails Core Member, <a href="/people/#andrew-white)">Andrew White</a>). The community produces and shares reusable components (called Gems), and contributes back to open source.
+        </li>
+        <li class="text-tile__list-item">
+          Common structure and coding practices produce high quality and easy-to-maintain web applications.
+        </li>
+        <li class="text-tile__list-item">
+          Ruby on Rails' emphasis on RESTful application design makes them seamless to integrate with other software and applications via APIs (Application Programming Interfaces).
+        </li>
+        <li class="text-tile__list-item">
+          Ruby on Rails is a scalable framework, accommodating for <a href="http://unboxed.co/blog/scaling-rails-through-650-million-requests-in-5-days-the-donald-trump-state-visit-petition/">increasing numbers of users</a> as your audiences grows.
+        </li>
+      </ul>
+
+      <p class="text-tile__paragraph">
+        Ruby on Rails is the language and framework of choice for a number of organisations, including Government Digital Service, AirBnB, Groupon, Shopify, Carwow, Trainline and many more.
+      </p>
+
+      <h3 class="text-tile__subtitle">
+        Our approach
+      </h3>
+
+      <p class="text-tile__paragraph">
+        We deliver digital products and services through a combination of Agile, Lean Startup and Design Thinking approaches. Continuous learning and adapting to change is central to all of these approaches and plays a key role in guiding our self-organising teams. We work in short improvement cycles, continuously making, testing, and learning in order to respond to customer and business needs.
+      </p>
+
+    <%= image_tag '/assets/images/services/approach-diagram.gif', alt: "Approach diagram", class: "diagram", srcset: retina_srcset('/assets/images/services/approach-diagram.gif') %>
+
+      <h3 class="text-tile__subtitle">
+        Our development approach
+      </h3>
+
+      <p class="text-tile__paragraph">
+        Our rigorous, agile and iterative approach to software development includes continuous integration (e.g. Travis), version control (e.g. git, GitHub), test driven development (e.g. RSpec, Capybara), code reviewing (e.g. through leveraging the features of GitHub pull requests) and pair programming. Our wider technology stack includes HTML, CSS (Sass), JavaScript, JQuery, PostgreSQL, MySQL, AWS, Heroku, RSpec, Cucumber, JSON and many others.
+      </p>
+
+      <h3 class="text-tile__subtitle">
+        Cultural fit
+      </h3>
+
+      <p class="text-tile__paragraph">
+        From day one, we blend the lines between being an external Unboxed team and an internal customer team to form one single embedded team:
+      </p>
+
+      <ul class="text-tile__list">
+        <li class="text-tile__list-item">
+          Co-locating with your team onsite for the duration of a project
+        </li>
+        <li class="text-tile__list-item">
+          Embedding core skills through close working and knowledge transfer
+        </li>
+        <li class="text-tile__list-item">
+          Agile ways of working — daily standup, regular planning and retrospectives, show and tell sessions with the core and wider team
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <blockquote class="services-page-quote service-page-quote--with-bottom-spacing">
+    <p class="services-page-quote__text">
+      Unboxed were part of the team we were used to working with, I didn't feel like we were customers. The mentality was: 'We want to build great products together.'
+    </p>
+    <p class="services-page-quote__source">
+      David Bright, Head of Product Management, Naturejobs
+    </p>
+  </blockquote>
+
+  <%= partial 'services/activities', locals: {
+    title: 'What does this look like?',
+    content: [
+      {
+        heading: 'Minimum viable product',
+        image: '/assets/images/services/ruby-on-rails-development/minimum-viable-product.jpg',
+        description: 'Work with our agile teams to rapidly deliver an end-to-end Ruby on Rails application, providing early value to your users.'
+      },
+      {
+        heading: 'Ongoing development',
+        image: '/assets/images/services/ruby-on-rails-development/ongoing-development.jpg',
+        description: 'Scaling your Ruby on Rails application and rolling out further features and increased functionality.'
+      },
+      {
+        heading: 'Sustainable development',
+        image: '/assets/images/services/ruby-on-rails-development/sustainable-development.jpg',
+        description: 'Providing ongoing DevOps and maintenance support for your application.'
+      },
+      {
+        heading: 'Rails upgrades',
+        image: '/assets/images/services/ruby-on-rails-development/rails-upgrades.jpg',
+        description: 'Upgrading older applications to Rails 5, unlocking new features and security improvements.'
+      },
+      {
+        heading: 'Code review',
+        image: '/assets/images/services/ruby-on-rails-development/code-review.jpg',
+        description: 'Reviewing your current code base to assess code quality, identify any bugs and pave the way forward.'
+      },
+      {
+        heading: 'Application support',
+        image: '/assets/images/services/ruby-on-rails-development/application-support.jpg',
+        description: 'Providing technical support for your application, both during office hours and 24/7.'
+      },
+    ]
+  } %>
+
+  <%= partial 'showcase_tiles_section', locals: {
+    title: 'Our Ruby on Rails work',
+    content: [
+      {
+        heading: 'Plymouth University',
+        image: '/assets/images/product-stories/plymouth-university.jpg',
+        description: 'Unboxed leads Agile rebuild of Plymouth University website'
+      },
+      {
+        heading: 'Springer Nature',
+        image: '/assets/images/product-stories/springer-nature.jpg',
+        description: 'Exploring the impact of online publishing with Bookmetrix'
+      },
+      {
+        heading: 'Petitions',
+        image: '/assets/images/product-stories/petitions.jpg',
+        description: 'Public sector collaboration with GDS to relaunch Petitions platform for UK citizens'
+      },
+      {
+        heading: 'Contiki Holidays',
+        image: '/assets/images/product-stories/contiki.jpg',
+        description: 'Powerful offshore partnership creates 47% increase in bookings for Contiki Holidays'
+      },
+      {
+        heading: 'Naturejobs',
+        image: '/assets/images/product-stories/naturejobs-macmillan.jpg',
+        description: 'Recruitment site revitalisation for major scientific publishing group'
+      },
+      {
+        heading: 'Channel 5',
+        image: '/assets/images/product-stories/channel-5.jpg',
+        description: 'Redevelopment of Channel5.com attracts more users, driving revenue'
+      },
+    ]
+  } %>
+
+  <%= partial 'showcase_tiles_section', locals: {
+    title: 'What we do in the community',
+    content: [
+      {
+        name: 'Rails Core contribution',
+        description: 'Andrew, our CTO, is one of 12 Rails Core Members and the only member in the UK',
+        image: '/assets/images/homepage/andrew-white.jpg'
+      },
+      {
+        name: 'London Ruby User Group',
+        description: 'Murray, one of our senior developers, co-organises the monthly LRUG meetup',
+        image: '/assets/images/homepage/murray-steele.jpg'
+      },
+      {
+        name: 'Mentoring',
+        description: 'Starting from small ideas, we mentor across a variety of incubators and accelerators',
+        image: '/assets/images/services/ruby-on-rails-development/mentoring.jpg'
+      },
+    ]
+  } %>
+
+  <% partial 'shared/text_tile_reversed', locals: {
+    title: 'An Unboxed project team',
+    image: '/assets/images/services/ruby-on-rails-development/unboxed-project-team.jpg'
+  } do %>
+    <p class="text-tile__paragraph">
+      We provide experienced multidisciplinary agile teams to embed and work alongside you and your internal team.
+    </p>
+
+    <p class="text-tile__paragraph">
+      An example Unboxed team that we can provide consists of:
+    </p>
+
+    <ul class="text-tile__list">
+      <li class="text-tile__list-item">
+        2 x Ruby on Rails developers
+      </li>
+      <li class="text-tile__list-item">
+        1 x Designer
+      </li>
+      <li class="text-tile__list-item">
+        1 x Scrum Master
+      </li>
+    </ul>
+  <% end %>
+
+  <% partial 'shared/text_tile', locals: {
+    title: 'An Unboxed project team',
+    image: '/assets/images/services/ruby-on-rails-development/working-with-an-unboxed-team.jpg'
+  } do %>
+    <p class="text-tile__paragraph">
+      From startups through to large corporates, we work to deliver great digital products and services with all types of organisations.
+    </p>
+
+    <p class="text-tile__paragraph">
+      If you have a project that you would like to talk to us about and explore further, please do book a meeting or call to discuss further.
+    </p>
+    <a class="button button--purple"
+       href="https://calendly.com/unboxed"
+       onClick="sendToGaContactPageBookMeetingClickEvent()"
+       target="_blank">
+      Book a meeting
+    </a>
+  <% end %>
+
+  <%= partial 'showcase_tiles_section', locals: {
+    title: 'Who we work with',
+    client_logos: [
+      {
+        name: 'Contiki Holidays',
+        image: '/assets/images/homepage/logo-contiki.jpg'
+      },
+      {
+        name: 'DPD',
+        image: '/assets/images/homepage/logo-dpd.gif'
+      },
+      {
+        name: 'GOV.UK',
+        image: '/assets/images/homepage/logo-govuk.jpg'
+      },
+      {
+        name: 'Not on the High Street',
+        image: '/assets/images/homepage/logo-not-on-the-highstreet.gif'
+      },
+      {
+        name: 'Deliveroo',
+        image: '/assets/images/homepage/logo-deliveroo.gif'
+      },
+      {
+        name: 'Which?',
+        image: '/assets/images/homepage/logo-which.gif'
+      },
+      {
+        name: 'Funding Circle',
+        image: '/assets/images/homepage/logo-funding-circle.gif'
+      },
+      {
+        name: 'Government Digital Service',
+        image: '/assets/images/homepage/logo-gds.jpg'
+      },
+      {
+        name: 'bigsofa',
+        image: '/assets/images/homepage/logo-bigsofa.jpg'
+      },
+      {
+        name: 'Plymouth University',
+        image: '/assets/images/homepage/logo-plymouth-university.jpg'
+      },
+      {
+        name: 'Ministry of Justice',
+        image: '/assets/images/homepage/logo-moj.gif'
+      },
+      {
+        name: 'Apps for Good',
+        image: '/assets/images/homepage/logo-apps-for-good.gif'
+      },
+      {
+        name: 'SH:24',
+        image: '/assets/images/homepage/logo-sh24.jpg'
+      },
+      {
+        name: 'Naturejobs',
+        image: '/assets/images/homepage/logo-naturejobs.jpg'
+      },
+      {
+        name: 'Springer Nature',
+        image: '/assets/images/homepage/logo-springer-nature.jpg'
+      },
+      {
+        name: 'Pearson',
+        image: '/assets/images/homepage/logo-pearson.jpg'
+      },
+    ]
+  } %>
+
+  <%= partial 'shared/quote', locals: {
+    quote: "We managed a complete service redesign and rebuild, changed hosting provider, gained security accreditation, and launched the UK's new Petitions service - all in just 10 weeks.",
+    source: 'Pete Herlihy, Product Owner — Government Digital Service'
+  } %>
+</div>
+
+<script>
+  function sendToGaContactPageBookMeetingClickEvent() {
+    ga('send', 'event', 'Traffic to Other Websites', 'Click', 'Book a Meeting on Calendly from Rails service', '1');
+  }
+</script>
