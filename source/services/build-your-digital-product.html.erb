@@ -59,9 +59,9 @@ product_stories:
 <div class="container" data-header-waypoint>
   <%= image_tag current_page.data.header.image, alt: current_page.data.header.image_description, class: "full-image", srcset: retina_srcset(current_page.data.header.image) %>
 
-  <%= partial 'services/full_width_text_tile_prose', locals: { section: current_page.data.introduction } %>
+  <%= partial 'services/full_width_text_tile_prose', locals: current_page.data.introduction %>
 
   <%= partial 'services/activities', locals: current_page.data.activities %>
 
-  <%= partial 'showcase_tiles_section' , locals: { section: current_page.data.product_stories} %>
+  <%= partial 'showcase_tiles_section' , locals: current_page.data.product_stories%>
 </div>

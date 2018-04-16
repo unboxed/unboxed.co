@@ -2,6 +2,7 @@
   <div class="component__tile image-tile">
     <%= image_tag locals[:image], alt: locals[:image_description], class: "image-tile__image", srcset: retina_srcset(locals[:image]) %>
   </div>
+
   <div class="component__tile text-tile">
     <% if locals[:title] %>
       <h2 class="text-tile__title">
@@ -9,20 +10,22 @@
       </h2>
     <% end %>
 
-    <% if locals[:content].is_a?(Array) %>
-      <ul class="text-tile__list">
-        <% locals[:content].each do |item| %>
-          <li class="text-tile__list-item">
-            <%= item %>
-          </li>
-        <% end %>
-      </ul>
+    <% if block_given? %>
+      <%= yield %>
     <% else %>
-      <p class="text-tile__paragraph">
-        <%= locals[:content] %>
-      </p>
+      <% if locals[:content].is_a?(Array) %>
+        <ul class="text-tile__list">
+          <% locals[:content].each do |item| %>
+            <li class="text-tile__list-item">
+              <%= item %>
+            </li>
+          <% end %>
+        </ul>
+      <% else %>
+        <p class="text-tile__paragraph">
+          <%= locals[:content] %>
+        </p>
+      <% end %>
     <% end %>
   </div>
-
-
 </section>
