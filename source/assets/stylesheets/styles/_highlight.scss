@@ -103,6 +103,12 @@
   color: $white;
 }
 
+.highlight--newham-council-local-offer {
+  @extend %highlight;
+  background-color: #EC008C;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
