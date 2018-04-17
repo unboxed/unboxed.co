@@ -10,16 +10,52 @@ collections:
   - name: 'blog'
     label: 'Blog'
     folder: '/source/blog'
+    label_singular: 'blog post'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: 'html.markdown' # Middleman v4 requires .html.markdown
+    format: 'frontmatter'
+    filter: {
+      field: 'weekly_roundup' # Exclude weekly roundup, subject to change [1]
+    }
     fields:
-      - {
-          label: 'Date',
-          name: 'date',
-          widget: 'datetime'
-        }
-      - {
-          label: 'Title',
-          name: 'title',
-          widget: 'string'
-        }
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+
+      - label: 'Full names of author(s)'
+        name: authors
+        widget: list
+        allow_add: true
+
+      - label: 'tags (remove irrelevant tags)'
+        name: tags
+        widget: list
+        default:
+          - Agile
+          - Culture
+          - Design
+          - Events
+          - Innovation
+          - Lean
+          - Rails
+
+      - label: 'Image URL (optional, shown on the blog listing page)'
+        name: main_image
+        required: false
+        widget: string
+
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+
+      - label: 'Published?'
+        name: published
+        widget: boolean
+        default: true
+
+      - label: 'Body'
+        name: 'body'
+        widget: 'markdown'
+
+# [1]: https://github.com/netlify/netlify-cms/issues/1000
