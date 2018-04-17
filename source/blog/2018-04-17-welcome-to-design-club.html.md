@@ -10,7 +10,7 @@ tags:
 authors:
   - Dawn Turner
 ---
-For me, being part of a club during my school days was of great importance. Having barely taken a bite of a sandwich during my lunch hour I’d rush off to various clubs, be it choir, hockey, rounders or.. ahem.. Geography Club. As you’ve probably guessed, I wasn’t the coolest kid in school, but for me being part of a club with like minded peers, and having the opportunity to chat about subjects that interested me was something I really valued.
+For me, being part of a club during my school days was of great importance. Having barely taken a bite of a sandwich during my lunch hour I’d rush off to various clubs, be it choir, hockey, rounders or.. ahem.. Geography Club. As you’ve probably guessed, I wasn’t the coolest kid in school, but being part of a club with like minded peers, and having the opportunity to chat about subjects that interested me was something I really valued.
 
 ![Design Club Post-It note](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/94e093f8fab455b6500ae73fed5470c6.png)
 
