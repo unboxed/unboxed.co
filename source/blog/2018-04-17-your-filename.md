@@ -1,7 +1,7 @@
 ---
 date: '2018-04-17 11:41 +0100'
 published: true
-title: Untitled
+title: We have a Design Club
 authors:
   - dawn turner
 tags:
