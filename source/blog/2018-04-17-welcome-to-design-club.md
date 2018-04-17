@@ -4,11 +4,11 @@ published: true
 title: Welcome to Design Club
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/94e093f8fab455b6500ae73fed5470c6.png
-authors:
-  - Dawn turner
 tags:
   - Culture
   - Design
+authors:
+  - Dawn Turner
 ---
 For me, being part of a club during my school days was of great importance. Having barely taken a bite of a sandwich during my lunch hour I’d rush off to various clubs, be it choir, hockey, rounders or.. ahem.. Geography Club. As you’ve probably guessed, I wasn’t the coolest kid in school, but for me being part of a club with like minded peers, and having the opportunity to chat about subjects that interested me was something I really valued.
 
@@ -34,4 +34,4 @@ This leads to some interesting conversation within the group around the importan
 
 As with any good discussion, points for both side of the argument are made, but there is clearly an appetite to think a bit more about the tools that we use at Unboxed, the situations that we use them in, and whether there are any new techniques that we would like to incorporate into our work.
 
-As Design Club draws to a close, plans for the next meeting are put into place. It's clearly been a success. Hmmm.. I wonder if anyone would fancy being part of an Unboxed choir?  
+As Design Club draws to a close, plans for the next meeting are put into place. It's clearly been a success. Hmmm.. I wonder if anyone would fancy being part of an Unboxed choir?
