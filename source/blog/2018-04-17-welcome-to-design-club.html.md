@@ -14,7 +14,7 @@ For me, being part of a club during my school days was of great importance. Havi
 
 ![Design Club Post-It note](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/94e093f8fab455b6500ae73fed5470c6.png)
 
-As an adult, this hasn’t changed. But instead it’s usually my evenings that I spend indulging in my activities. That was until the idea of having our own Unboxed Design Club came about, where designers and those who work in the field can come together to discuss different areas of design and what is currently of interest to them.
+As an adult, this hasn’t changed. But instead it’s usually my evenings that I spend indulging in my activities. That was until the idea of having our very own Unboxed Design Club came about, where designers and those who work in the field can come together to discuss different areas of design and what is currently of interest to them.
 
 ## This is Service Design Thinking
 To kick off our first official meeting I am taking the lead with a presentation about my experience of reading ‘This is Service Design Thinking’ by Marc Stickdorn and Jakob Schneider. Written in 2010, the book is marketed as an introduction to the emerging field of service design for beginners, but also a useful resource for experienced design professionals. And that’s exactly what it is. Not only does it provide a comprehensive overview of what service design is about and how it has evolved, it is also a toolkit of key techniques that can be referred to and adapted, plus a range of case studies where they have been successfully applied.
