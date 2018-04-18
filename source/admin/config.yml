@@ -28,8 +28,9 @@ collections:
         widget: list
         allow_add: true
 
-      - label: 'tags (remove irrelevant tags)'
+      - label: 'tags (optional, remove irrelevant tags)'
         name: tags
+        required: false
         widget: list
         default:
           - Agile
