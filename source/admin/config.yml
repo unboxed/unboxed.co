@@ -7,8 +7,8 @@ media_folder: 'source/assets/images/uploads'
 public_folder: '/assets/images/uploads'
 
 collections:
-  - name: 'blog'
-    label: 'Blog'
+  - name: 'blog_posts'
+    label: 'Blog posts'
     folder: '/source/blog'
     label_singular: 'blog post'
     create: true
@@ -55,7 +55,54 @@ collections:
         widget: boolean
         default: true
 
-      - label: 'Body'
+      - label: 'Body (toggle to markdown)'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'weekly_roundup'
+    label: 'Weekly roundups'
+    folder: '/source/blog'
+    label_singular: 'weekly roundup'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: 'html.markdown' # Middleman v4 requires .html.markdown
+    format: 'frontmatter'
+    filter: {
+      field: 'weekly_roundup',
+      value: true
+    }
+    fields:
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+        default: 'Roundup: '
+
+      - label: 'Full names of author(s)'
+        name: authors
+        widget: list
+        allow_add: true
+        default:
+          - Elena Tanasoiu
+          - Murray Steele
+          - Neil van Beinum
+
+      - label: 'tags (optional)'
+        name: tags
+        required: false
+        widget: list
+        default:
+          - Culture
+
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+
+      - label: 'Published?'
+        name: published
+        widget: boolean
+        default: true
+
+      - label: 'Body (toggle to markdown)'
         name: 'body'
         widget: 'markdown'
 
