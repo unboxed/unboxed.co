@@ -7,11 +7,23 @@
 
     <!-- Include the styles for the Netlify CMS UI, after your own styles -->
     <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.css" />
-
     <link rel="cms-config-url" href="/admin/config.yml" type="text/yaml">
   </head>
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.js"></script>
+    <script>
+      CMS.registerPreviewStyle("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600");
+      CMS.registerPreviewStyle("assets/stylesheets/application.css");
+
+      var BlogPostPreview = createClass({
+        render: function() {
+          return h('div', { 'className': 'blog-content'}, this.props.widgetFor('body'));
+        }
+      });
+
+      CMS.registerPreviewTemplate('blog_posts', BlogPostPreview);
+      CMS.registerPreviewTemplate('weekly_roundup', BlogPostPreview);
+    </script>
   </body>
 </html>
