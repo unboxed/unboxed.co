@@ -3,6 +3,7 @@ backend:
   repo: 'unboxed/unboxed.co'
   branch: 'netlify-cms'
 
+publish_mode: editorial_workflow
 media_folder: 'source/assets/images/uploads'
 public_folder: '/assets/images/uploads'
 
