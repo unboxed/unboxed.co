@@ -59,6 +59,32 @@ collections:
         name: 'body'
         widget: 'markdown'
 
+  - name: 'news_articles'
+    label: 'News articles'
+    folder: '/source/news'
+    label_singular: 'news article'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: 'html.markdown' # Middleman v4 requires .html.markdown
+    format: 'frontmatter'
+    fields:
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+
+      - label: 'Published?'
+        name: published
+        widget: boolean
+        default: true
+
+      - label: 'Body (toggle to markdown)'
+        name: 'body'
+        widget: 'markdown'
+
   - name: 'weekly_roundup'
     label: 'Weekly roundups'
     folder: '/source/blog'
