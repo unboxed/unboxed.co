@@ -1,0 +1,135 @@
+backend:
+  name: 'github'
+  repo: 'unboxed/unboxed.co'
+  branch: 'netlify-cms'
+
+media_folder: 'source/assets/images/uploads'
+public_folder: '/assets/images/uploads'
+
+collections:
+  - name: 'blog_posts'
+    label: 'Blog posts'
+    folder: '/source/blog'
+    label_singular: 'blog post'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: 'html.markdown' # Middleman v4 requires .html.markdown
+    format: 'frontmatter'
+    filter: {
+      field: 'weekly_roundup' # Exclude weekly roundup, subject to change [1]
+    }
+    fields:
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+
+      - label: 'Full names of author(s)'
+        name: authors
+        widget: list
+        allow_add: true
+
+      - label: 'tags (optional, remove irrelevant tags)'
+        name: tags
+        required: false
+        widget: list
+        default:
+          - Agile
+          - Culture
+          - Design
+          - Events
+          - Innovation
+          - Lean
+          - Rails
+
+      - label: 'Image URL (optional, shown on the blog listing page)'
+        name: main_image
+        required: false
+        widget: string
+
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+
+      - label: 'Published?'
+        name: published
+        widget: boolean
+        default: true
+
+      - label: 'Body (toggle to markdown)'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'news_articles'
+    label: 'News articles'
+    folder: '/source/news'
+    label_singular: 'news article'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: 'html.markdown' # Middleman v4 requires .html.markdown
+    format: 'frontmatter'
+    fields:
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+
+      - label: 'Published?'
+        name: published
+        widget: boolean
+        default: true
+
+      - label: 'Body (toggle to markdown)'
+        name: 'body'
+        widget: 'markdown'
+
+  - name: 'weekly_roundup'
+    label: 'Weekly roundups'
+    folder: '/source/blog'
+    label_singular: 'weekly roundup'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: 'html.markdown' # Middleman v4 requires .html.markdown
+    format: 'frontmatter'
+    filter: {
+      field: 'weekly_roundup',
+      value: true
+    }
+    fields:
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+        default: 'Roundup: '
+
+      - label: 'Full names of author(s)'
+        name: authors
+        widget: list
+        allow_add: true
+        default:
+          - Elena Tanasoiu
+          - Murray Steele
+          - Neil van Beinum
+
+      - label: 'tags (optional)'
+        name: tags
+        required: false
+        widget: list
+        default:
+          - Culture
+
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+
+      - label: 'Published?'
+        name: published
+        widget: boolean
+        default: true
+
+      - label: 'Body (toggle to markdown)'
+        name: 'body'
+        widget: 'markdown'
+
+# [1]: https://github.com/netlify/netlify-cms/issues/1000
