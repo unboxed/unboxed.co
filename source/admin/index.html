@@ -13,6 +13,36 @@
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.js"></script>
     <script>
+      CMS.registerEditorComponent({
+        id: 'image_by_url',
+        label: 'Image by URL',
+        fields: [
+          {name: 'url', label: 'Image URL', widget: 'string'},
+          {name: 'alt', label: 'Alternative text', widget: 'string'}
+        ],
+        pattern: /^!\[(.*)\]\((.*)\)$/,
+        fromBlock: function(match) {
+          // Netlify CMS doesn't seem to execute this function
+          // https://github.com/netlify/netlify-cms/issues/1293
+          return {
+            image: match[2],
+            alt: match[1]
+          };
+        },
+        toBlock: function(obj) {
+          var url = obj.url || '';
+          var alt = obj.alt || '';
+          return '![' + alt + '](' + url + ')';
+        },
+        toPreview: function(obj) {
+          // Netlify CMS doesn't seem to execute this function
+          // https://github.com/netlify/netlify-cms/issues/1293
+          var url = obj.url || '';
+          var alt = obj.alt || '';
+          return '<img src="' + obj.url + '" alt="' + obj.alt + '" />';
+        }
+      });
+
       CMS.registerPreviewStyle("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600");
       CMS.registerPreviewStyle("assets/stylesheets/application.css");
 
