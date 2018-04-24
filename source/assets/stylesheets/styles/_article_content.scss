@@ -157,4 +157,10 @@
     margin-bottom: 10px;
     max-width: 100%;
   }
+
+  hr {
+    border: 0;
+    border-bottom: 1px solid mix($light-gray, $medium-gray);
+    margin: 40px 0;
+  }
 }
