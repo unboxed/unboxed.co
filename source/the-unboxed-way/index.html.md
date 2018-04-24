@@ -19,8 +19,8 @@ So sit back, relax and enjoy exploring our way of thinking. This is a look into 
 The Unboxed Way stems from a set of principles that define who we are and how we do our work.
 We use it to explain this to our new team members and potential customers.
 
-* [About Unboxed](about-unboxed.html)
-* [The Unboxed principles](principles.html)
+* [About Unboxed](/the-unboxed-way/about-unboxed)
+* [The Unboxed principles](/the-unboxed-way/principles)
 
 
 ## Delivering great products
@@ -29,33 +29,33 @@ We help teams and organisations deliver great digital products. Our approach is 
 guiding teams through the whole journey, preparing them to embrace a culture
 of continuous innovation.
 
-* [Our agile approach](our-blend-of-agile.html)
-* [Teamwork and collaboration](teamwork-and-collaboration.html)
-* [Short learning cycles (or sprints)](short-learning-cycles.html)
-* [A human-centred perspective](human-centred-perspective.html)
-* [Product development lifecycle](product-development-lifecycle.html)
-* [A co-located approach](a-colocated-approach.html)
-* [Our technology stack](our-technology-stack.html)
-* [Team communication toolkit](team-communication-toolkit.html)
-* [Our template library](template-library.html)
-* [Growing our own products](product-incubation.html)
+* [Our agile approach](/the-unboxed-way/our-blend-of-agile)
+* [Teamwork and collaboration](/the-unboxed-way/teamwork-and-collaboration)
+* [Short learning cycles (or sprints)](/the-unboxed-way/short-learning-cycles)
+* [A human-centred perspective](/the-unboxed-way/human-centred-perspective)
+* [Product development lifecycle](/the-unboxed-way/product-development-lifecycle)
+* [A co-located approach](/the-unboxed-way/a-colocated-approach)
+* [Our technology stack](/the-unboxed-way/our-technology-stack)
+* [Team communication toolkit](/the-unboxed-way/team-communication-toolkit)
+* [Our template library](/the-unboxed-way/template-library)
+* [Growing our own products](/the-unboxed-way/product-incubation)
 
 
 ## Our customers
 
 We like to collaborate with a wide range of customers and organisations, all working to solve different, exciting, interesting and worthwhile problems.
 
-* [Our customers and us](our-customers.html)
-* [Kicking off a project](kicking-off-a-project.html)
+* [Our customers and us](/the-unboxed-way/our-customers)
+* [Kicking off a project](/the-unboxed-way/kicking-off-a-project)
 
 
 ## Our culture
 
 We have a team of the best developers, designers and digital strategists — being best both in their minds and in their hearts. And we want them to get even better.
 
-* [Sharing what we do](sharing.html)
-* [Growing our people](growing-people.html)
-* [Building an inclusive team](building-an-inclusive-team.html)
-* [Giving back (Corporate social responsibility)](giving-back-csr.html)
-* [Our events](our-events.html)
-* [Our recruitment process](our-recruitment-process.html)
+* [Sharing what we do](/the-unboxed-way/sharing)
+* [Growing our people](/the-unboxed-way/growing-people)
+* [Building an inclusive team](/the-unboxed-way/building-an-inclusive-team)
+* [Giving back (Corporate social responsibility)](/the-unboxed-way/giving-back-csr)
+* [Our events](/the-unboxed-way/our-events)
+* [Our recruitment process](/the-unboxed-way/our-recruitment-process)

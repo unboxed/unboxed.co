@@ -24,7 +24,7 @@ Our blog can be found [here](https://unboxed.co/blog).
 
 We run a number of events for a wide range of audiences, from developers to Heads of Digital, Innovation Managers to designers and many more. We run our events to engage with our network, share stories, hear from others, share learnings and open up conversations with new people. Some of our events include Faster than Lightning code talks, Product Innovation workshops and Andrew White’s Technical Breakfast Club.
 
-Find out more about our [events here](https://unboxed.github.io/unboxed-way/our-events.html).
+Find out more about our [events here](/the-unboxed-way/our-events).
 
 ![Andrew White’s Technical Breakfast Club](/the-unboxed-way/images/technical-breakfast-club.jpg)
 

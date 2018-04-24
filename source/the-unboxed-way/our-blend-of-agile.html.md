@@ -16,6 +16,6 @@ is central to all of these approaches and plays a key role in responding to unce
 
 This forms the basis of our agile approach and its main ingredients:
 
-* [Teamwork and collaboration](teamwork-and-collaboration.html); 
-* [Short learning cycles (or sprints)](short-learning-cycles.html); and 
-* [A human-centred perspective](human-centred-perspective.html)
+* [Teamwork and collaboration](/the-unboxed-way/teamwork-and-collaboration);
+* [Short learning cycles (or sprints)](/the-unboxed-way/short-learning-cycles); and
+* [A human-centred perspective](/the-unboxed-way/human-centred-perspective)
