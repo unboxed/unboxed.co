@@ -109,6 +109,12 @@
   color: $white;
 }
 
+.highlight--southwark-ccg {
+  @extend %highlight;
+  background-color: #027EC5;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;
