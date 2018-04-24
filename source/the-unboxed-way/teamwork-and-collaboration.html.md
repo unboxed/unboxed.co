@@ -15,10 +15,10 @@ Our cross-functional teams typically include at least one or two developers, a d
 
 To get the most out of their cross-functional expertise, we encourage teams to be highly collaborative and self-organised. Co-location and face-to-face conversations are preferred whenever possible. We talk in person to get things done, rather than ping tickets to each other in a ticketing system. We pay attention when something needs to be discussed, rather than wait for a scheduled meeting. This leads to healthier relationships and makes people feel empowered and motivated.
 
-{% include image.html url="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c5132803f6cd2d395290972796b28a97.png" description="Face-to-face team communication." %}
+![Face-to-face team communication](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c5132803f6cd2d395290972796b28a97.png)
 
 ## Open communication
 
 Respecting the diversity of the team’s experience and opinion plays a fundamental role in the way that we communicate both internally and with customers. We invite our customers to be part of our team and we often work from their offices, as and when needed. We collaborate openly and encourage them to break down any communication barriers with their internal project stakeholders too. This means having frank conversations and establishing a trusting relationship.
 
-{% include image.html url="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cdcf2fd469157d79ffa99f9df08eae65.png" description="Co-locating with teams at their location." %}
+![Co-locating with teams at their location](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cdcf2fd469157d79ffa99f9df08eae65.png)

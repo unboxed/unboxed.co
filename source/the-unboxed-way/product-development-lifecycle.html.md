@@ -5,7 +5,7 @@ title: Product development lifecycle
 
 # Product development lifecycle
 
-![Product development lifecycle](assets/images/product-dev-lifecycle.jpg)
+![Product development lifecycle](/the-unboxed-way/images/product-dev-lifecycle.jpg)
 
 All of our work is conducted in short learning cycles. Activities and focus of these cycles, however, change depending on the maturity of the product or service that we’re currently working on. Our product development lifecycle framework describes the journey from an initial idea or problem that provided a spark, through to a live working, end-to-end product or service. Our approach is aligned with the Government Digital Service (GDS) [Service Manual](https://www.gov.uk/service-manual).
 
@@ -23,7 +23,7 @@ The journey towards a new product often starts with a problem or with an idea ar
 
 The main focus of this stage is learning. A number of ideas and generated, trying to understanding they’re desirable to potential users, technologically feasible, and financially viable for the organisation. We use these criteria to prioritise them and build a portfolio of valuable innovation opportunities to take forward.
 
-{% include image.html url="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c1931c1095cbcd9c10c83e0d7c2f4b15.jpg" description="Engaging with users to uncover insights." %}
+![Engaging with users to uncover insights](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c1931c1095cbcd9c10c83e0d7c2f4b15.jpg)
 
 ## Build and launch
 
@@ -31,7 +31,7 @@ When an idea for a product is sufficiently validated and associated risks are we
 
 Our aim is to develop a [minimum viable product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product) as soon as possible and share it with its first real users. This means that the product, as well as all the supporting operational processes, need to be ready to successfully perform in market. This includes setting up customer support, CRM, analytics and other internal processes. We start measuring and analysing the key performance metrics as these will guide the path for future improvements as well as provide a solid, quantitative validation of the overall business model.
 
-{% include image.html url="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/23aa7f19c71654afa897cd59093df1ff.png" description="Developing a minimum viable product." %}
+![Developing a minimum viable product](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/23aa7f19c71654afa897cd59093df1ff.png)
 
 ## Grow and improve
 
@@ -39,4 +39,4 @@ Launching a digital product to become a live service is only the beginning of it
 
 During this stage, the product becomes more refined and acquires an increased number of users. We support the development of the product to ensure it can scale, as necessary. We continuously innovate to stay ahead of the competition and deliver the best possible experience to customers.
 
-{% include image.html url="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fe05259ae0ead4fca0c20cb079c96864.png" description="Embedding a culture of continuous improvement." %}
+![Embedding a culture of continuous improvement](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fe05259ae0ead4fca0c20cb079c96864.png)

@@ -18,7 +18,7 @@ Our product stories can be found [here](https://unboxed.co/product-stories).
 
 As part of our culture of open sharing and learning, every member of the team is encouraged to write and publish blog posts. These can either be solo or paired posts with someone else. The choice of topic is open to the author, but some usual topics include anything from project experiences to technical “how to” guides to conference overviews, and beyond.
 
-Our blog can be found [here](https://unboxed.co/blog). 
+Our blog can be found [here](https://unboxed.co/blog).
 
 ## Organising events
 
@@ -26,14 +26,14 @@ We run a number of events for a wide range of audiences, from developers to Head
 
 Find out more about our [events here](https://unboxed.github.io/unboxed-way/our-events.html).
 
-{% include image.html url="assets/images/technical-breakfast-club.jpg" description="Andrew White’s Technical Breakfast Club." %}
+![Andrew White’s Technical Breakfast Club](/the-unboxed-way/images/technical-breakfast-club.jpg)
 
 
 ## Speaking at conferences and meetups
 
 Presenting at conferences and meetups allows us to share our stories and experiences with those who may be facing similar challenges within their organisation. We share real accounts of our projects, not only highlighting our successes but also the challenges and barriers we’ve faced along the way.
 
-{% include image.html url="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2697ca18395868a2e4c4039ffa28375f.png" description="Presenting our work with Guy’s and St. Thomas’ NHS Foundation Trust at Health Foundry." %}
+![Presenting our work with Guy’s and St. Thomas’ NHS Foundation Trust at Health Foundry](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2697ca18395868a2e4c4039ffa28375f.png)
 
 ## Sharing on social media
 
@@ -49,6 +49,6 @@ Our social media channels of choice are [Twitter](https://twitter.com/Ubxd) and 
 
 ## Contributing to open source projects
 
-We give everyone the time and space to contribute to open source projects, giving back to the community. 
-At the same time, we have made some of our own projects open source, and encourage other external 
+We give everyone the time and space to contribute to open source projects, giving back to the community.
+At the same time, we have made some of our own projects open source, and encourage other external
 people to contribute to them too.

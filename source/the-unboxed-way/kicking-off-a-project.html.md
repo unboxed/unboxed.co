@@ -26,7 +26,7 @@ Members of the team get together to share and discuss the project scope and answ
 
 We arrange a time and day to meet the contact’s team and internal stakeholders, who we’ll be working alongside. This is a two-day alignment workshop is where the project vision is shared, expectations are aligned, roles and responsibilities are decided and the product backlog begins to form.
 
-{% include image.html url="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/83ae0975ce1b5eb91eb1eeccf8b0c8a8.png" description="A project alignment workshop." %}
+![A project alignment workshop](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/83ae0975ce1b5eb91eb1eeccf8b0c8a8.png)
 
 ## Step five: sprint one begins
 
