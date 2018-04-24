@@ -4,6 +4,7 @@ title: Growing our own products
 ---
 
 # Growing our own products
+
 As a product development company, product incubation is an essential part of what we do. We don’t only work on products for our customers though, we work on our own too. We have created an environment where idea for new products can form and flourish.
 
 We encourage any member of our team with an idea to explore and develop this further, in the

@@ -28,6 +28,7 @@ payday loans or similar.
 
 
 ## How we meet our customers
+
 We meet our customers through a wide range of different ways. Most of our projects arrive through:
 
 - Referrals and recommendations
@@ -43,7 +44,6 @@ Our customers are very important to us. Without them, we wouldn’t be able to w
 We aim to build good relationships with our customers, from our very first point of contact, by treating them as part of the Unboxed team. Aligned with our embedded team approach — our door is always open, there’s always a seat available in the office (and a coffee in the machine) and each customer becomes an honorary member of our (very purple) caricature wall of fame.
 
 ![L-R: Adrian Byrtus (Public Health England), Melissa Sabella (The Honeycomb Works), Matthew Cain (Hackney Council), Claire Heenan (Ricoh UK), Martijn Roelandse (Springer Nature), Natalie Taylor (Greater London Authority), Toby Ford (Naturejobs), Zach Moss (Compassion in Dying)](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8a2db5b4569a326a8f64d2983ad1f489.png)
-
 
 We openly encourage sharing and learning between our customers and our wider network by regularly inviting our customers to speak at our events to share their stories, their challenges and successes and their experiences. As we continually expand our community of customers, friends and partners, we are able to open up further conversations with other teams and organisations facing similar challenges.
 

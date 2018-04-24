@@ -11,6 +11,6 @@ Unboxed was founded in our CEO’s attic in 2005, as a better way to deliver sof
 
 ## A vibrant London-based team
 
-Our London office consists of 30 team members; a blend of designers, developers, Scrum Masters, digital strategists and more. Due to the nature of our projects, members of the team can be working from a variety of locations, including the Unboxed office, a customer’s office, out in the field or beyond. 
+Our London office consists of 30 team members; a blend of designers, developers, Scrum Masters, digital strategists and more. Due to the nature of our projects, members of the team can be working from a variety of locations, including the Unboxed office, a customer’s office, out in the field or beyond.
 
 See more about our team on [our People page](https://unboxed.co/people).

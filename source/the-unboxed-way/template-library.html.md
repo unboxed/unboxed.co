@@ -10,6 +10,7 @@ There are a number of templates that our teams find helpful to use when working 
 We’ve began building up a library of these templates:
 
 ## User persona
+
 Use this template to begin empathising with users and focus on their user needs through the design process. Personas represent typical users or project stakeholders, grouped by shared needs and interests, common behavior patterns, or demographic and geographical similarities.
 
 ![](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5fe0a5a24b7771c5fede5e779686c861.png)
@@ -19,6 +20,7 @@ Download this user persona template to use [here](https://drive.google.com/file/
 ![User persona template in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5cf5d9fc932bf547c0e6502bd3f03d90.png)
 
 ## User story
+
 Use this template to begin writing requirements for users, based on their needs.
 
 ![](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/712e9cbc3b9295a309b63ec1dfd7f301.png)
@@ -28,6 +30,7 @@ Download this user persona template to use [here](https://drive.google.com/file/
 ![Writing efficient user stories](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/47edd2d886f0a66664eaf27bbd8f051e.png)
 
 ## Mobile and desktop devices
+
 Use these template to begin getting early ideas and concepts down on paper to begin testing with users for feedback.
 
 ![](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/912ac453775b67b236669b1d2738cae1.png)
