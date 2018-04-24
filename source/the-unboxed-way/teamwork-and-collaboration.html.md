@@ -18,8 +18,12 @@ To get the most out of their cross-functional expertise, we encourage teams to b
 
 ![Face-to-face team communication](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c5132803f6cd2d395290972796b28a97.png)
 
+*Face-to-face team communication*
+
 ## Open communication
 
 Respecting the diversity of the team’s experience and opinion plays a fundamental role in the way that we communicate both internally and with customers. We invite our customers to be part of our team and we often work from their offices, as and when needed. We collaborate openly and encourage them to break down any communication barriers with their internal project stakeholders too. This means having frank conversations and establishing a trusting relationship.
 
 ![Co-locating with teams at their location](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cdcf2fd469157d79ffa99f9df08eae65.png)
+
+*Co-locating with teams at their location*

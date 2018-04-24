@@ -19,6 +19,8 @@ partners to provide their expertise and investment in going forward.
 
 ![An internal product development away day](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/14774bcc3fc9bfc97671206cd4150c0f.png)
 
+*An internal product development away day*
+
 Three of our current products in development include:
 
 * [char.gy](http://char.gy/) — an electric vehicle charging solution for drivers with no access to off-street parking
@@ -28,3 +30,5 @@ Three of our current products in development include:
 We have also invested in [50th Generation](https://www.50thgeneration.org/) — a purpose-led accelerator for businesses on a mission to make meaning and money.
 
 ![char.gy on a residential street](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/377a327855e02d2166f6e804b5b78bc5.jpg)
+
+*char.gy on a residential street*

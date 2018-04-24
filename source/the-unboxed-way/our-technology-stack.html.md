@@ -12,6 +12,8 @@ From creating new applications and minimum viable products to developing and sca
 
 ![Ruby on Rails development](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0bdc52ae3701e8c7c7226f071b81a81c.png)
 
+*Ruby on Rails development*
+
 ## Why Ruby on Rails?
 
 Ruby on Rails is directly at the heart of some of the most successful digital products and services, providing a responsive framework to deliver robust and dynamic applications.

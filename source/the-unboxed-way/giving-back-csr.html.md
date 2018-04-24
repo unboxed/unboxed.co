@@ -16,6 +16,8 @@ The Lambeth Portuguese Community Wellbeing Partnership (LPCWP) is a community in
 
 ![Providing time and resource to the Lambeth Portuguese Community Wellbeing Partnership](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c2f2b60282448b2cbbc01fe6d64f3f76.png)
 
+*Providing time and resource to the Lambeth Portuguese Community Wellbeing Partnership*
+
 ## Techqala
 
 Techqala is a not-for-profit practical business launcher for aspiring entrepreneurs, their teams and intrapreneur teams who want to dramatically accelerate their idea. Based in Cape Town, this is an intense 9-day programme of guidance, talks, practical exercises, mentorship and direct access to experts that help to take startups through a dramatic growth cycle.

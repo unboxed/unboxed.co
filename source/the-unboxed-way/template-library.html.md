@@ -20,6 +20,8 @@ Download this user persona template to use [here](https://drive.google.com/file/
 
 ![User persona template in action](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5cf5d9fc932bf547c0e6502bd3f03d90.png)
 
+*User persona template in action*
+
 ## User story
 
 Use this template to begin writing requirements for users, based on their needs.
@@ -29,6 +31,8 @@ Use this template to begin writing requirements for users, based on their needs.
 Download this user persona template to use [here](https://drive.google.com/file/d/1eQi59mAbH8My05o-mbtzogL4fYDBhCE6/view?usp=sharing).
 
 ![Writing efficient user stories](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/47edd2d886f0a66664eaf27bbd8f051e.png)
+
+*Writing efficient user stories*
 
 ## Mobile and desktop devices
 
@@ -43,3 +47,5 @@ Download this mobile device template to use [here](https://drive.google.com/file
 Download this desktop device template to use [here](https://drive.google.com/file/d/1CDJWduqfbUG8Jwyh_05J92lQ6wGR8a0V/view?usp=sharing).
 
 ![Mobile and desktop device template in use](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cca5c29a6e5fc85129355290232f80dc.png)
+
+*Mobile and desktop device template in use*

@@ -8,6 +8,8 @@ layout: unboxed_way
 
 ![Short learning cycles](/the-unboxed-way/images/learning-cycle.jpg)
 
+*Short learning cycles*
+
 We work in one-week or two-week learning and delivery cycles that we call _sprints_.
 This structure enables us to reliably deliver valuable outputs to our customers.
 Emphasis on continuous making and learning helps us identify potential gaps in our plan and respond
@@ -34,6 +36,8 @@ The core team meet to plan the workload that they estimate can be achieved acros
 
 ![Estimating task size through point estimation](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3b188630ebbaabc1143fb215d61922d4.png)
 
+*Estimating task size through point estimation*
+
 ## Daily standup
 
 A short meeting, normally at the beginning of the working day, usually taking 10-15 minutes. Members across the core team share progress updates — what they achieved the day before, what they plan on doing this day and any blockers they may be experiencing. Any tasks to be considered “blocked” (it can’t be worked on due to an external factor) are picked up by the Scrum Master to remove these dependencies. Standup provides a platform for clear communication and a sense of ownership and accountability for tasks across the team.
@@ -43,6 +47,8 @@ A short meeting, normally at the beginning of the working day, usually taking 10
 A regular session, usually at the same time and location during each sprint, to share project updates and progress with key stakeholders and the wider organisation. This is timeboxed to around 20-minutes so to be concise and cover the most important elements. The show and tell is a platform to gather feedback and answer any questions from those who aren’t a part of the core project team.
 
 ![Weekly or fortnightly show and tell sessions to share progress](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/65fda221033b8de9279e3cf55193ace2.png)
+
+*Weekly or fortnightly show and tell sessions to share progress*
 
 ## Sprint retrospectives
 

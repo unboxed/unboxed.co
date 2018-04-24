@@ -16,6 +16,8 @@ Here are some of the tools which currently form our team communication toolkit:
 
 ![A dedicated Slack account for each project](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5dadbc79a78929514cf4f6f52fdd2557.png)
 
+*A dedicated Slack account for each project*
+
 
 ## Google Drive
 
@@ -23,14 +25,20 @@ For storing and sharing project files and documents, [Google Drive](https://www.
 
 ![Google Drive for storing project files and documents](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/78dac7f96278a02d9c443e4c88c49125.png)
 
+*Google Drive for storing project files and documents*
+
 ## Trello
 
 For every project, an online project management board is created, usually [Trello](https://trello.com/) or [Pivotal Tracker](https://www.pivotaltracker.com/), to keep track of progress. Each task assigned to a card, with each card assigned to the team members working on this task.
 
 ![A Trello project board to track progress](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/49546ac89e7f8e4d8204d07554b3fa36.png)
 
+*A Trello project board to track progress*
+
 ## Appear.in
 
 When one or more members of the team may be working off-site or remotely, we use video conferencing tools such as [Google Hangouts](https://hangouts.google.com/) or [Appear.in](https://appear.in/) for daily standup and catch up conversations.
 
 ![A remote team standup](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dc0667c729768429304a01da53a0523d.png)
+
+*A remote team standup*

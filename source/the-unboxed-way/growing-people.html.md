@@ -20,6 +20,8 @@ Each member of the team also has a ‘Growing [Employee_Name]’ Trello board to
 
 ![The 'Growing' Trello board](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7db197a0b9e3e5218a360632ddefd5cd.png)
 
+*The 'Growing' Trello board*
+
 ## Innovation Days
 
 We actively encourage innovation across Unboxed by offering each team member 10 days each year to spend innovating — these are our Innovation Days.
@@ -27,6 +29,8 @@ We actively encourage innovation across Unboxed by offering each team member 10 
 Innovation Days allow people to take time off customer projects to explore and work on any ideas they find interesting and would like to know more about. These can be based on personal development, software development, process improvement or further — it’s an open topic. Innovation Days can either be taken as single days, used to pair with someone else or taken as a group (group Innovation Days can sometimes result in an off-site [Hackathon day](https://unboxed.co/blog/unboxed-hackathon-what-a-difference-a-day-makes/) for the whole team).
 
 ![An off-site team Innovation Day](/the-unboxed-way/images/innovation-day.jpg)
+
+*An off-site team Innovation Day*
 
 Each person is encouraged (but not required) to share what they have learned on their Innovation Days with the wider team, by either writing a blog post or sharing their story at our monthly company meeting. This isn’t mandatory though — it’s all in the spirit of openness and sharing.
 
@@ -42,6 +46,8 @@ or used for one larger conference - all depending on the individual.
 
 ![Brighton Ruby 2017 conference](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b354e6c8354e860102875f76e45cfe4d.jpg)
 
+*Brighton Ruby 2017 conference*
+
 Just like Innovation Days, sharing some of the takeaways from a conference is encouraged,
 sometimes in the form of a blog post:
 
@@ -54,6 +60,8 @@ sometimes in the form of a blog post:
 Whines & Cheers is our office-wide retrospective that takes place every Friday afternoon at 5pm — on the dot. We all get together in the kitchen area (with wine, beers, cheese and snacks) to retrospect on the week. Beginning with what didn’t go so well (the ‘Whines’), we then move onto what went well that week (the ‘Cheers’).
 
 ![Whines & Cheers in action](/the-unboxed-way/images/whines-and-cheers.jpg)
+
+*Whines & Cheers in action*
 
 Relevant actions are taken from the Whines side of the board and assigned to a person, aiming to solve any
 Whines by the following Friday (so it doesn’t make another appearance).
@@ -69,6 +77,8 @@ Born out of our passion for idea sharing, Linkers & Thinkers is a monthly our �
 used to share an idea with another member of the team.
 
 ![A monthly Linkers & Thinkers rota](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0e4084a979f6dc1e14bce97ce571d8bb.png)
+
+*A monthly Linkers & Thinkers rota*
 
 
 ## Team lunches

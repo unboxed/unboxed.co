@@ -29,12 +29,16 @@ Find out more about our [events here](/the-unboxed-way/our-events).
 
 ![Andrew White’s Technical Breakfast Club](/the-unboxed-way/images/technical-breakfast-club.jpg)
 
+*Andrew White’s Technical Breakfast Club*
+
 
 ## Speaking at conferences and meetups
 
 Presenting at conferences and meetups allows us to share our stories and experiences with those who may be facing similar challenges within their organisation. We share real accounts of our projects, not only highlighting our successes but also the challenges and barriers we’ve faced along the way.
 
 ![Presenting our work with Guy’s and St. Thomas’ NHS Foundation Trust at Health Foundry](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2697ca18395868a2e4c4039ffa28375f.png)
+
+*Presenting our work with Guy’s and St. Thomas’ NHS Foundation Trust at Health Foundry*
 
 ## Sharing on social media
 

@@ -29,6 +29,8 @@ We arrange a time and day to meet the contact’s team and internal stakeholders
 
 ![A project alignment workshop](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/83ae0975ce1b5eb91eb1eeccf8b0c8a8.png)
 
+*A project alignment workshop*
+
 ## Step five: sprint one begins
 
 When we’re all agreed, as a single team, the first [sprint](https://en.wikipedia.org/wiki/Hackathon#Code_sprints) begins.

@@ -46,6 +46,10 @@ We aim to build good relationships with our customers, from our very first point
 
 ![L-R: Adrian Byrtus (Public Health England), Melissa Sabella (The Honeycomb Works), Matthew Cain (Hackney Council), Claire Heenan (Ricoh UK), Martijn Roelandse (Springer Nature), Natalie Taylor (Greater London Authority), Toby Ford (Naturejobs), Zach Moss (Compassion in Dying)](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8a2db5b4569a326a8f64d2983ad1f489.png)
 
+*L-R: Adrian Byrtus (Public Health England), Melissa Sabella (The Honeycomb Works), Matthew Cain (Hackney Council), Claire Heenan (Ricoh UK), Martijn Roelandse (Springer Nature), Natalie Taylor (Greater London Authority), Toby Ford (Naturejobs), Zach Moss (Compassion in Dying)*
+
 We openly encourage sharing and learning between our customers and our wider network by regularly inviting our customers to speak at our events to share their stories, their challenges and successes and their experiences. As we continually expand our community of customers, friends and partners, we are able to open up further conversations with other teams and organisations facing similar challenges.
 
 ![Melissa Sabella, Founder & CEO — The Honeycomb Works, speaking at one of our events](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/656f6156a2804ad29366971cc45ba0c2.png)
+
+*Melissa Sabella, Founder & CEO — The Honeycomb Works, speaking at one of our events*
