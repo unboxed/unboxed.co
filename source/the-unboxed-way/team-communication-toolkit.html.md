@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: Team communication tools
+layout: unboxed_way
 ---
 
 # Team communication toolkit

@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: Growing our own products
+layout: unboxed_way
 ---
 
 # Growing our own products

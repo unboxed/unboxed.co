@@ -1,6 +1,7 @@
 ---
 category: Our culture
 title: Our recruitment process
+layout: unboxed_way
 ---
 
 # Our recruitment process

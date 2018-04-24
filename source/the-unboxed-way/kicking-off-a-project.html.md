@@ -1,6 +1,7 @@
 ---
 category: Our customers
 title: Kicking off a project
+layout: unboxed_way
 ---
 
 # Kicking off a project

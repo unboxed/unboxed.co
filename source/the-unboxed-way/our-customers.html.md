@@ -1,6 +1,7 @@
 ---
 category: Our customers
 title: Our customers and us
+layout: unboxed_way
 ---
 
 # Our customers and us

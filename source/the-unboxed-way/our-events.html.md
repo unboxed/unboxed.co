@@ -1,6 +1,7 @@
 ---
 category: Our culture
 title: Our events
+layout: unboxed_way
 ---
 
 # Our events

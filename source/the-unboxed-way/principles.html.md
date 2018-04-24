@@ -1,6 +1,7 @@
 ---
 category: Introduction
 title: Unboxed principles
+layout: unboxed_way
 ---
 
 # The Unboxed principles

@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: Teamwork and collaboration
+layout: unboxed_way
 ---
 
 # Teamwork and collaboration

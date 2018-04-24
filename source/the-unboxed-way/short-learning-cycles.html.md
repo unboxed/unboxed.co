@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: Short learning cycles (or sprints)
+layout: unboxed_way
 ---
 
 # Short learning cycles (or sprints)

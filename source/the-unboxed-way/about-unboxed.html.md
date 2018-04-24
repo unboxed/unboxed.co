@@ -1,6 +1,7 @@
 ---
 category: Introduction
 title: About Unboxed
+layout: unboxed_way
 ---
 
 # About Unboxed

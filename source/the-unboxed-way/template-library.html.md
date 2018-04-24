@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: Templates
+layout: unboxed_way
 ---
 
 # Template library

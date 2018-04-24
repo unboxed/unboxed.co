@@ -1,6 +1,7 @@
 ---
 category: Our culture
 title: Growing our people
+layout: unboxed_way
 ---
 
 # Growing our people

@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: A co-located approach
+layout: unboxed_way
 ---
 
 # A co-located approach

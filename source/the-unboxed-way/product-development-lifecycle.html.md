@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: Product development lifecycle
+layout: unboxed_way
 ---
 
 # Product development lifecycle

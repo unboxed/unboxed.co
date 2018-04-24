@@ -1,5 +1,6 @@
 ---
 title: The Unboxed Way
+layout: unboxed_way
 ---
 
 # Welcome to The Unboxed Way

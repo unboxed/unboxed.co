@@ -1,0 +1,10 @@
+.unboxed-way {
+  padding-top: 40px;
+  background-color: $white;
+}
+
+.unboxed-way__container {
+  @extend .container;
+  box-sizing: border-box;
+  padding: 0 20px 30px;
+}

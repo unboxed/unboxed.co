@@ -1,6 +1,7 @@
 ---
 category: Our culture
 title: Building an inclusive team
+layout: unboxed_way
 ---
 
 # Building an inclusive team

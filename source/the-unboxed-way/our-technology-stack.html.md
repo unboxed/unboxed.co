@@ -1,8 +1,8 @@
 ---
 category: Delivering great products
 title: Our technology stack
+layout: unboxed_way
 ---
-
 
 # Our technology stack
 

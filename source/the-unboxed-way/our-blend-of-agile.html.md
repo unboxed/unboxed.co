@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: Our agile approach
+layout: unboxed_way
 ---
 
 # Our agile approach

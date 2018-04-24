@@ -1,6 +1,7 @@
 ---
 category: Our culture
 title: Sharing what we do
+layout: unboxed_way
 ---
 
 # Sharing what we do

@@ -1,6 +1,7 @@
 ---
 category: Our culture
 title: Giving back (Corporate social responsbility)
+layout: unboxed_way
 ---
 
 # Giving back (Corporate social responsbility)

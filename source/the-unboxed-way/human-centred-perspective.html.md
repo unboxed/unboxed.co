@@ -1,6 +1,7 @@
 ---
 category: Delivering great products
 title: A human-centred perspective
+layout: unboxed_way
 ---
 
 # A human-centred perspective
