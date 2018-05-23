@@ -22,7 +22,7 @@ A number of organisations are recognising that those diagnosed with a life-chang
 * People don’t know the right questions to ask their doctor in order to find the information they need
 
 
-
+<br/>
 # Knowing the right questions to ask
 
 In order to plan efficiently for a life-changing diagnosis, people need to be empowered to make informed decisions about their options, their situation, their treatment and their care. 
@@ -53,7 +53,7 @@ Since its release, “What now?” has received positive feedback:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
+<br/>
 # Introducing a digital element
 
 As a paper-based resource, “What now?” provides content and offers ideas for questions to ask, but can we create something that can help answer the questions that so many individuals with a life-changing diagnosis may have?
@@ -81,7 +81,7 @@ A number of potential risks have also been identified, including:
 These are just some of the risks that we’re bringing into our upcoming [discovery phase ](https://www.gov.uk/service-manual/agile-delivery/how-the-discovery-phase-works)to keep at the forefront of our research, with an aim of exploring and answering.
 
 
-
+<br/>
 # Reducing anxiety and facilitating peace of mind
 
 Our main focus is to empower people with knowledge to plan for the progression of their illness to reduce anxiety and facilitate peace of mind.
