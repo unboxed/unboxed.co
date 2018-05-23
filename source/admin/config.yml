@@ -1,7 +1,7 @@
 backend:
   name: 'github'
   repo: 'unboxed/unboxed.co'
-  branch: 'netlify-cms'
+  branch: 'production'
 
 media_folder: 'source/assets/images/uploads'
 public_folder: '/assets/images/uploads'
