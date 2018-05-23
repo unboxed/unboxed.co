@@ -13,7 +13,7 @@ main_image: >-
 date: '2018-05-23T17:54:33+01:00'
 published: true
 ---
-Everyday, there are people faced with the devastating news of a life-changing diagnosis. Whether receiving this news themselves, about a loved one, friend or neighbour — it’s always a difficult situation to be in.
+Everyday there are people faced with the devastating news of a life-changing diagnosis. Whether receiving this news themselves, about a loved one, friend or neighbour — it’s always a difficult situation to be in.
 
 A number of organisations are recognising that those diagnosed with a life-changing condition don’t always feel supported in making decisions about their situation:
 
