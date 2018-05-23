@@ -31,11 +31,9 @@ When faced with a life-changing diagnosis in a doctor’s office or a hospital c
 
 <i>“The professionals involved waited for us to ask questions, but we often didn’t know what questions to ask until it was too late. These were people who had watched many people die, and we needed them to offer more guidance.”</i>
 
-<i>“We never expected the pain he experienced during the last week of his life… The reality was devastating for my husband and it subsequently had a huge and long-lasting effect on me… If we’d been given clear information about what to expect it could have been so different… No one sat me down and gave me information or explained what might happen.”<i>
+<i>“We never expected the pain he experienced during the last week of his life… The reality was devastating for my husband and it subsequently had a huge and long-lasting effect on me… If we’d been given clear information about what to expect it could have been so different… No one sat me down and gave me information or explained what might happen.”</i>
 
-
-
-
+<br/>
 # “What now?”
 
 [Compassion in Dying](https://compassionindying.org.uk/) is charitable organisation, working to provide high-quality information and support to people across the country who want to talk openly about their wishes for end of life. 
@@ -90,4 +88,4 @@ Our main focus is to empower people with knowledge to plan for the progression o
 
 Presently, we’re not sure what this service is going to look like or “be”. This will become increasingly more informed as we speak with people, stakeholders and subject matter experts over the next few weeks to build up our understanding. But we do know that we’re aiming to solve a big problem — people not knowing the right questions to ask in order to find the information they need when given a life-changing diagnosis.
 
-_For this project, we’re looking to speak to a wide range of people. If you have received a life-changing diagnosis or know someone who has and have been affected by this, we’d really appreciate your input and would like to speak with you. Get in touch with Zach Moss, Digital Manager at Compassion in Dying to be involved with our research: [zach.moss@compassionindying.org.uk](zach.moss@compassionindying.org.uk)._
+<i>For this project, we’re looking to speak to a wide range of people. If you have received a life-changing diagnosis or know someone who has and have been affected by this, we’d really appreciate your input and would like to speak with you. Get in touch with Zach Moss, Digital Manager at Compassion in Dying to be involved with our research: [zach.moss@compassionindying.org.uk](zach.moss@compassionindying.org.uk).</i>
