@@ -29,9 +29,10 @@ In order to plan efficiently for a life-changing diagnosis, people need to be em
 
 When faced with a life-changing diagnosis in a doctor’s office or a hospital consultation room, research has revealed that people are often not given information about their prognosis or treatment options in ways they can understand. When they want more information, they don’t always know the right questions to ask. Opportunities for conversations about their care and treatment are then missed.
 
-_“The professionals involved waited for us to ask questions, but we often didn’t know what questions to ask until it was too late. These were people who had watched many people die, and we needed them to offer more guidance.”_
+<i>“The professionals involved waited for us to ask questions, but we often didn’t know what questions to ask until it was too late. These were people who had watched many people die, and we needed them to offer more guidance.”</i>
 
-_“We never expected the pain he experienced during the last week of his life… The reality was devastating for my husband and it subsequently had a huge and long-lasting effect on me… If we’d been given clear information about what to expect it could have been so different… No one sat me down and gave me information or explained what might happen.”_
+<i>“We never expected the pain he experienced during the last week of his life… The reality was devastating for my husband and it subsequently had a huge and long-lasting effect on me… If we’d been given clear information about what to expect it could have been so different… No one sat me down and gave me information or explained what might happen.”<i>
+
 
 
 
@@ -45,11 +46,11 @@ In November 2017, they released [“What now?”](https://compassionindying.org.
 
 Since its release, “What now?” has received positive feedback:
 
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">So how can we take back some some control in what could be the most scary health situations? I was personally really helped by this resource by Compassion in Dying. You don&#39;t have to be life-limited/threatened to think through some of these questions: <a href="https://t.co/eIeenWW3bf">https://t.co/eIeenWW3bf</a></p>&mdash; @NHS / Ben (@NHS) <a href="https://twitter.com/NHS/status/976484246381563910?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">So how can we take back some some control in what could be the most scary health situations? I was personally really helped by this resource by Compassion in Dying. You don&#39;t have to be life-limited/threatened to think through some of these questions: <a href="https://t.co/eIeenWW3bf">https://t.co/eIeenWW3bf</a></p>&mdash; @NHS / Ben (@NHS) <a href="https://twitter.com/NHS/status/976484246381563910?ref_src=twsrc%5Etfw">March 21, 2018</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A great new resource from <a href="https://twitter.com/AGoodDeath?ref_src=twsrc%5Etfw">@AGoodDeath</a> created with people with direct experiences <a href="https://twitter.com/hashtag/WhatNow?src=hash&amp;ref_src=twsrc%5Etfw">#WhatNow</a> <a href="https://t.co/gnikdf5V1I">https://t.co/gnikdf5V1I</a></p>&mdash; Alex Sparrowhawk (@birdy_tweet) <a href="https://twitter.com/birdy_tweet/status/935450719540404224?ref_src=twsrc%5Etfw">November 28, 2017</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">A great new resource from <a href="https://twitter.com/AGoodDeath?ref_src=twsrc%5Etfw">@AGoodDeath</a> created with people with direct experiences <a href="https://twitter.com/hashtag/WhatNow?src=hash&amp;ref_src=twsrc%5Etfw">#WhatNow</a> <a href="https://t.co/gnikdf5V1I">https://t.co/gnikdf5V1I</a></p>&mdash; Alex Sparrowhawk (@birdy_tweet) <a href="https://twitter.com/birdy_tweet/status/935450719540404224?ref_src=twsrc%5Etfw">November 28, 2017</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -89,4 +90,4 @@ Our main focus is to empower people with knowledge to plan for the progression o
 
 Presently, we’re not sure what this service is going to look like or “be”. This will become increasingly more informed as we speak with people, stakeholders and subject matter experts over the next few weeks to build up our understanding. But we do know that we’re aiming to solve a big problem — people not knowing the right questions to ask in order to find the information they need when given a life-changing diagnosis.
 
-_For this project, we’re looking to speak to a wide range of people. If you have received a life-changing diagnosis or know someone who has and have been affected by this, we’d really appreciate your input and would like to speak with you. Get in touch with Zach Moss, Digital Manager at Compassion in Dying to be involved with our research: _[_zach.moss@compassionindying.org.uk_](zach.moss@compassionindying.org.uk)_._
+_For this project, we’re looking to speak to a wide range of people. If you have received a life-changing diagnosis or know someone who has and have been affected by this, we’d really appreciate your input and would like to speak with you. Get in touch with Zach Moss, Digital Manager at Compassion in Dying to be involved with our research: [zach.moss@compassionindying.org.uk](zach.moss@compassionindying.org.uk)._
