@@ -58,7 +58,7 @@ Since its release, “What now?” has received positive feedback:
 
 As a paper-based resource, “What now?” provides content and offers ideas for questions to ask, but can we create something that can help answer the questions that so many individuals with a life-changing diagnosis may have?
 
-We’re working with the team at Compassion in Dying to progress the “questions” journey of “What now?”, introduce a digital element with an aim of reaching wider audiences and create an end-to-end service to help people across the country to be more informed about the right questions to ask and find answers to the questions they have.
+We’re working with the team at Compassion in Dying to progress the “questions” journey of “What now?”, introduce a digital element with an aim of reaching wider audiences and create a product or service to help people across the country to be more informed about the right questions to ask and find answers to the questions they have.
 
 ![Compassion in Dying and Unboxed team](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5c2a6e20d511447d81debd41703e6655.png)
 
@@ -66,7 +66,7 @@ Following our project alignment to set the vision, a wide range of user groups a
 
 * Those receiving a life-changing diagnosis;
 * Carers; and 
-* Doctors and other healthcare practitioners (HCP)
+* Doctors and other healthcare practitioners (HCPs)
 
 ![Our user personas](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c141c72533e4f460202132b20f9db4c3.png)
 
