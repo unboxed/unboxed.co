@@ -51,7 +51,7 @@ who called you an idiot for not using it.  However, as this article shows, just
 because you don't directly use a platform it doesn't mean you won't be affected
 by it when it has problems if you have customers that do use it.
 
-## Track of the Week - [Leon O](/people#elena-tanasoiu)
+## Track of the Week - [Leon O](/people#leon-odey-knight)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l3iMPlxUqRE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
