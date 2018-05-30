@@ -16,7 +16,7 @@ Unboxed has recently began a “top-up” discovery phase with the team at [Comp
 
 Last Tuesday was the project’s first show and tell, where the Compassion in Dying/Unboxed team shared progress with the wider team from across the first sprint:
 
-![Compassion in Dying team](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3821dcf9a7ef9361a0ca07dab35d89a6.png)
+![Compassion in Dying team](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4485479d174283bd1f7fa184dd3b5ac5.png)
 
 <p align="center"><i>Stakeholders and team members joining the sprint one show and tell.</i></p>
 
@@ -65,7 +65,7 @@ Some people often have a diagnosis (a working label) but don’t have something 
 
 * **Practical information, as well as medical information**
 
-One interviewee is very much in the ‘eye of the storm’ — currently in a period where she’s desperately trying to find out if and how she can organise for her ex-husband to come home, following his terminal cancer diagnosis. For her, the lack of coordination and inability to talk to one person who can sort out her issues is a major issue.<br/>\
+One interviewee is very much in the ‘eye of the storm’ — currently in a period where she’s desperately trying to find out if and how she can organise for her ex-husband to come home, following his terminal cancer diagnosis. For her, the lack of coordination and inability to talk to one person who can sort out her issues is a major issue.<br/>
 <br/>
 
 * **The role of the Clinical Nurse Specialist (CNS)**
@@ -90,7 +90,7 @@ To wrap up sprint one, a retrospective provided a platform for our core team to 
 * What has been puzzling?
 * What has gone well?
 
-![Sprint one retrospective.](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/56aa2e892e9ee5ab732462c0409b4e5b.png)
+![Sprint one retrospective.](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8a6f62434ca02ea831cfce3e483f9cce.png)
 
 <p align="center"><i>Sprint one retrospective with the core project team.</i></p>
 <br/>
