@@ -232,3 +232,10 @@
     link: https://www.linkedin.com/in/david-henry-000b603/
   - name: Github
     link: https://github.com/dwhenry
+- name: Chris Stobart
+  short_name: chris-stobart
+  role: Developer
+  email: chris.stobart
+  social_networks:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/christopher-stobart-162562109/
