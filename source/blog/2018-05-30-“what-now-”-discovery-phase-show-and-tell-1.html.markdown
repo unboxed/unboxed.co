@@ -8,7 +8,7 @@ tags:
   - Design
   - Innovation
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3821dcf9a7ef9361a0ca07dab35d89a6.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1cacaa9c344fd96c968f51bc1f418210.png
 date: '2018-05-30T17:32:57+01:00'
 published: true
 ---
@@ -18,7 +18,8 @@ Last Tuesday was the project’s first show and tell, where the Compassion in Dy
 
 ![Compassion in Dying team](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3821dcf9a7ef9361a0ca07dab35d89a6.png)
 
-<p align="center"><i>Stakeholders and team members joining the sprint one show and tell.</i></p>
+<p align="center"><i>Stakeholders and team members joining the sprint one show and tell.</i></p>\
+<br/>
 
 
 
@@ -32,9 +33,8 @@ Exploring and evaluating existing resources, systems, websites, tools and articl
 
 ![Desktop research](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/594b72ffafbd28ad2a69de2db11c0e05.png)
 
-<p align="center"><i>Desktop researching.</i></p>
-
-
+<p align="center"><i>Desktop researching.</i></p>\
+<br/>
 
 ## 2. Arranging user interviews
 
@@ -46,15 +46,15 @@ Identifying, arranging and confirming a wide range of different people to interv
 
 ![Identifying and reaching out to people for interviews.](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0b8b6ef4b4800a5be4715f88d5a0c274.png)
 
-<p align="center"><i>Identifying and reaching out to people for interviews (via digital and non-digital channels).</i></p>
-
-
+<p align="center"><i>Identifying and reaching out to people for interviews (via digital and non-digital channels).</i></p>\
+<br/>
 
 ## 3. Carrying out user interviews
 
 So far, 10 user interviews have been conducted (both face-to-face and over the phone) with people, GPs, Oncologists, Consultants and the Compassion in Dying front-line support team. 
 
-From each of these individuals interviews, key insights have began emerging including:<br/>
+From each of these individuals interviews, key insights have began emerging including<br/>\
+<br/>
 
 * **Some people not understanding how sick they are**
 
@@ -62,33 +62,27 @@ Some people often have a diagnosis (a working label) but don’t have something 
 
 ![Phone user interviews.](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/633469c809b3767643a9d68b1e7c2e0a.png)
 
-<p align="center"><i>Pairing on phone interviewing.</i></p>
-
-
+<p align="center"><i>Pairing on phone interviewing.</i></p>\
+<br/>
 
 * **Practical information, as well as medical information**
 
-One interviewee is very much in the ‘eye of the storm’ — currently in a period where she’s desperately trying to find out if and how she can organise for her ex-husband to come home, following his terminal cancer diagnosis. For her, the lack of coordination and inability to talk to one person who can sort out her issues is a major issue.<br/>
-
-
+One interviewee is very much in the ‘eye of the storm’ — currently in a period where she’s desperately trying to find out if and how she can organise for her ex-husband to come home, following his terminal cancer diagnosis. For her, the lack of coordination and inability to talk to one person who can sort out her issues is a major issue.<br/>\
+<br/>
 
 * **The role of the Clinical Nurse Specialist (CNS)**
 
 The role of the CNS has consistently arisen in interviews as a good source of information, as someone who is accessible and able to answer the questions that might not be brought up in consultations. The CNS has consistently received positive feedback from those who have been interviewed.<br/>
 
-
-
 ![Shadowing the Compassion in Dying support line team.](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/91b5b2f1e728c2c8cad3feba47c15823.png)
 
-<p align="center"><i>Shadowing the Compassion in Dying support line team.</i></p>
-
-
+<p align="center"><i>Shadowing the Compassion in Dying support line team.</i></p>\
+<br/>
 
 * **Information ‘delivery’ in appointments**
 
-The setting in which information is delivered during an appointment is one issue that is consistently cropping up. It has been recognised, through one interview, that one person recognised a particular instance where she didn’t have someone with her during her appointment, resulting in a feeling that what she was told “went in one ear and out the other”.<br/>
-
-
+The setting in which information is delivered during an appointment is one issue that is consistently cropping up. It has been recognised, through one interview, that one person recognised a particular instance where she didn’t have someone with her during her appointment, resulting in a feeling that what she was told “went in one ear and out the other”.<br/>\
+<br/>
 
 ## Sprint retrospective
 
@@ -100,13 +94,14 @@ To wrap up sprint one, a retrospective provided a platform for our core team to 
 
 ![Sprint one retrospective.](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/56aa2e892e9ee5ab732462c0409b4e5b.png)
 
-<p align="center"><i>Sprint one retrospective with the core project team.</i></p>
+<p align="center"><i>Sprint one retrospective with the core project team.</i></p>\
+<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Fantastic first week of our project <a href="https://twitter.com/AGoodDeath?ref_src=twsrc%5Etfw">@AGoodDeath</a>. Three solid days of user research, some genuinely fascinating insights already - most satisfying is that our problem has very much been confirmed as a problem. <br><br>Onwards and upwards! <a href="https://t.co/iu4XTgKw4D">pic.twitter.com/iu4XTgKw4D</a></p>&mdash; Zach Moss (@_zachmoss) <a href="https://twitter.com/_zachmoss/status/997519158777647104?ref_src=twsrc%5Etfw">18 May 2018</a></blockquote>
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<br/>
 
 ## What’s next on our roadmap?
 
