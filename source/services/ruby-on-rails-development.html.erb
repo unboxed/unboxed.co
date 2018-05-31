@@ -7,17 +7,18 @@ title: "Services - Ruby on Rails development"
 } %>
 
 <div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: {
-    image: '/assets/images/services/ruby-on-rails-development/header.jpg',
-    image_description: 'Developer working'
-  } %>
-
   <%= partial 'services/full_width_text_tile_prose', locals: {
     content: [
      'From creating new applications and minimum viable products to developing and scaling already-existing systems, Unboxed has over 12 years of experience in designing, building, delivering and supporting end-to-end Ruby on Rails applications.',
      'We provide multidisciplinary agile teams of developers, designers, Scrum Masters and digital experts to move your digital ideas forward. We collaborate with you to identify and prioritise the biggest and most valuable opportunities for your organisation.'
     ]
   } %>
+
+  <%= partial 'shared/full_image', locals: {
+    image: '/assets/images/services/ruby-on-rails-development/header.jpg',
+    image_description: 'Developer working'
+  } %>
+
 
   <section class="component">
     <div class="text-tile--full-width">
