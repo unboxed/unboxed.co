@@ -13,6 +13,12 @@
   color: $white;
 }
 
+.highlight--public-health-england {
+  @extend %highlight;
+  background-color: #29AB93;
+  color: $white;
+}
+
 .highlight--contiki-holidays {
   @extend %highlight;
   background-color: $dark-gray;
