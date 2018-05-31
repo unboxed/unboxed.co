@@ -13,7 +13,7 @@ published: true
 ---
 Unboxed has recently began a “top-up” discovery phase with the team at [Compassion in Dying](https://compassionindying.org.uk/) to understand a core problem — [people who are given a life-changing diagnosis are not accessing the information they need and want when they most need it.](https://unboxed.co/blog/a-life-changing-diagnosis-helping-patients-ask-the-right-questions-when-it-matters-most/)
 
-Last Tuesday was the project’s first show and tell, where the Compassion in Dying/Unboxed team shared progress with the wider team from across the first sprint:
+Last week was the project’s first show and tell, where the Compassion in Dying/Unboxed team shared progress with the wider team from across the first sprint:
 
 ![Compassion in Dying team](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4485479d174283bd1f7fa184dd3b5ac5.png)
 
