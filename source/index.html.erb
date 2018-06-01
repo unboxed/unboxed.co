@@ -84,24 +84,6 @@ newsletter:
   title: "Our newsletter"
   text: "Or if you're not currently facing any challenges, we'd love to connect anyway. Pop in your email address and join the world of Unboxed through our updates:"
 
-contributions:
-  title: "What we do in the community"
-  content:
-    - name: "Rails Core contribution"
-      description: "Andrew, our CTO, is one of 12 Rails Core Members and the only member in the UK"
-      image: "/assets/images/homepage/andrew-white.jpg"
-      link: "http://rubyonrails.org/community/"
-
-    - name: "London Ruby User Group"
-      description: "Murray, one of our senior developers, co-organises the monthly LRUG meetup"
-      image: "/assets/images/homepage/murray-steele.jpg"
-      link: "http://lrug.org"
-
-    - name: "Mentoring"
-      description: "Starting from small ideas, we mentor across a variety of incubators and accelerators"
-      image: "/assets/images/homepage/mentoring-people.jpg"
-      link: "http://www.50thgeneration.org"
-
 blog_title: "What we have been blogging about"
 
 ---
@@ -194,8 +176,6 @@ blog_title: "What we have been blogging about"
 
     <%= partial 'newsletter', locals: { block_class: 'homepage-newsletter', onclick_function: 'sendToGaHomePageSubscribeClickEvent()' } %>
   </section>
-
-  <%= partial 'showcase_tiles_section' , locals: current_page.data.contributions %>
 
   <section class="showcase-tiles-section">
     <h2 class="showcase-tiles-section__title">
