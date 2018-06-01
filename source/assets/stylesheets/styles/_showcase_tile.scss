@@ -42,7 +42,7 @@
   line-height: 1.2em;
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 11.5vw;
+    min-height: 14.5vw;
   }
 
   @include breakpoint($desktop-breakpoint) {
