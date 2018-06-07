@@ -15,7 +15,7 @@ Unboxed has recently begun a “top-up” discovery phase with the team at [Comp
 
 Last week was the project’s first show and tell, where the Compassion in Dying/Unboxed team shared progress with the wider team from across the first sprint:
 
-![Compassion in Dying team](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4485479d174283bd1f7fa184dd3b5ac5.png)
+![Compassion in Dying team](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/58962471ff63e8f60139acd5bb10f385.png)
 
 <p align="center"><i>Stakeholders and team members joining the sprint one show and tell.</i></p>
 
