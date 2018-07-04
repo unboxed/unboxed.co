@@ -1,30 +1,23 @@
 .homepage-header {
-  background-image: url(/assets/images/homepage/header--mobile.jpg);
-  background-color: darken($light-gray, 10%);
-  background-position: 65% 40%;
-  min-height: 400px;
+  min-height: 350px;
   position: relative;
-
-  @include retina {
-    background-image: url(/assets/images/homepage/header--mobile@2x.jpg);
-    background-size: 480px 400px;
-    background-repeat: no-repeat;
-  }
+  overflow: hidden;
 
   @include breakpoint($tablet-breakpoint) {
-    background-position: 100% 40%;
-    background-image: url(/assets/images/homepage/header--tablet.jpg);
-    min-height: 50vw;
-
-    @include retina {
-      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
-      background-size: 960px 480px;
-      background-repeat: no-repeat;
-    }
+    min-height: 450px;
   }
 
   @include breakpoint($desktop-breakpoint) {
-    min-height: 480px;
+    min-height: 550px;
+  }
+
+  video {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 }
 
