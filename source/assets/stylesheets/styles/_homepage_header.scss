@@ -1,58 +1,56 @@
-.video {
-  .homepage-header {
-    min-height: 300px;
-    position: relative;
-    overflow: hidden;
+.homepage-header {
+  background-image: url(/assets/images/homepage/header--mobile.jpg);
+  background-color: darken($light-gray, 10%);
+  background-position: 65% 40%;
+  min-height: 400px;
+  position: relative;
+  overflow: hidden;
 
-    @include breakpoint($tablet-breakpoint) {
-      min-height: 400px;
-    }
-
-    @include breakpoint($desktop-breakpoint) {
-      min-height: 500px;
-    }
-
-    video {
-      position: absolute;
-      min-width: 100%;
-      min-height: 100%;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-    }
+  @include retina {
+    background-image: url(/assets/images/homepage/header--mobile@2x.jpg);
+    background-size: 480px 400px;
+    background-repeat: no-repeat;
   }
 
-  .homepage-header__video-container {
-    @extend .container;
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 50vw;
+  }
 
-    position: relative;
-    min-height: 300px;
+  @include breakpoint($desktop-breakpoint) {
+    min-height: 480px;
+  }
+
+  video {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
 
     @include breakpoint($tablet-breakpoint) {
-      min-height: 400px;
+      display: block;
     }
+  }
+}
 
-    @include breakpoint($desktop-breakpoint) {
-      min-height: 500px;
-    }
+.homepage-header__text {
+  @include responsive-text;
+  background-color: transparentize(darken($purple, 5%), 0.1);
+  bottom: 20px;
+  color: $white;
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e677277b', endColorstr='#e677277b',GradientType=1 );
+  font-weight: 300;
+  left: 20px;
+  line-height: 1.6;
+  padding: 20px;
+  position: absolute;
+  right: 20px;
 
-    .homepage-header__text {
-      @include responsive-text;
-      background-color: transparentize(darken($purple, 5%), 0.1);
-      color: $white;
-      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e677277b', endColorstr='#e677277b',GradientType=1 );
-      font-weight: 300;
-      line-height: 1.6;
-      padding: 20px;
-      position: absolute;
-      right: 20px;
-      left: 20px;
-      bottom: 10%;
-
-      @include breakpoint($tablet-breakpoint) {
-        left: 0;
-        right: 41%;
-      }
-    }
+  @include breakpoint($tablet-breakpoint) {
+    bottom: 10%;
+    left: 0;
+    right: 41%;
   }
 }
