@@ -57,5 +57,6 @@
 
 .project-team__headshot {
   display: block;
-  width: 100%;
+  width: 100% auto;
+  max-height: 377px; // there is a problem with some images, it's used to unify them all
 }

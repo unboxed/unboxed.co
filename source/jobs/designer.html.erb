@@ -1,21 +1,28 @@
 ---
-title: "Join Us - Designer - Join our team as a designer"
+title: "Join Us - Senior Designer - Join our team as a designer"
 
 header:
   title: "Join us"
-  subtitle: "Strategic Designer"
+  subtitle: "Senior Strategic Designer"
 
 introduction:
   title: "At Unboxed, design is a team sport"
-  text_1: "We have a brilliant team of agile folk with an impressive reputation for creating great digital services in both the public and private sector."
-  text_2: "We are looking for a talented and confident strategic designer to join us."
-  text_3: "We need someone who:"
+  text_1: "We are a digital service design and development agency with 13 years of experience and an impressive reputation for creating great digital services in both the public and private sectors."
+  text_2: "Our delivery approach is strongly based on Agile principles. We work in multidisciplinary teams, collaborating all the way from initial user research and customer engagement through to building fully functioning digital services. We believe in openness, transparency and honest communication, encouraging collaboration and learning from each other. We work closely with our customers, including them as part of our project teams. We create the conditions for our teams to flourish and create better digital services."
+  text_3: "Our teams work from our London office or our customer’s locations."
+  text_4: "We are looking for a talented and confident Senior Strategic Designer to join us and grow our team. Some of the key activities within this role include:"
   requirements:
-    - Has a breadth of experience several different design disciplines
-    - Is a strategic thinker, comfortable with uncertainty and complexity
-    - Takes a highly collaborative approach, facilitating design within teams
-    - Is a passionate advocate for Design Thinking and Lean and Agile principles
-    - Loves to get out and learn from users, customers and stakeholders
+    - Support the delivery of complex service design and development projects
+    - Work within multi-disciplinary teams to design, prototype and build cutting-edge propositions
+    - Lead user-centred research and co-design activities
+    - Facilitate workshops and design sprints to rapidly design, test, and iterate prototypes
+    - Oversee design iterations from low-fidelity sketches, through wireframes to high fidelity visual designs
+    - Work with developers to ensure consistent, high-quality design standards are adopted throughout the service
+    - Provide support and direction to less experienced team members
+    - Contribute to designing frameworks and approaches for Unboxed
+    - Collaborate with senior stakeholder groups to successfully influence long-lasting change
+    - Contribute to new business activity
+    - Take an active interest in the design discipline and regularly share the subject with the broader team and community
 
 design_image_1:
   image: "/jobs/images/designer-1.jpg"
@@ -24,20 +31,20 @@ design_image_1:
 description:
   title: "Key competencies and skills"
   content:
-    - Working collaboratively with the project's Product Owner and end users to deliver designs that meet the product need
-    - Maintaining design iterations from low-fidelity sketches, through wireframes to high fidelity visual designs
-    - Translating extracted requirements from clients and end users into design and UX priorities
-    - Researching material in support of new design concepts and produce interactive design tools to evaluate and present these ideas
-    - Finding a way to be a part of the whole development life cycle, including sprint planning and daily Scrum meetings
-    - Working with developers to ensure best practice design is implemented correctly
+    - Experience in several design disciplines, ideally a combination of service design, user experience, and UI design
+    - Ability to lead and manage a range of activities from client engagement workshops to ethnographic research, prototyping and testing
+    - Ability to think strategically to address issues of high uncertainty and complexity
+    - Ability to communicate the process with stakeholders and other interested parties
+    - Being a passionate advocate for Design Thinking and Lean and Agile principles
+    - Willingness to work collaboratively with a cross-functional team
+    - Willingness to get out and learn from users, customers and stakeholders
 
 other_requirements:
   title: "Highly desirable"
   content:
-    - Experience and desire to work on the types of project we are looking for
-    - Willingness to work collaboratively with a cross-functional team
-    - A thorough understanding of digital design
-    - Skills in communicating the process with stakeholders and other interested parties
+    - Experience and desire to work on complex projects, involving research, design and facilitation across multiple service areas
+    - Experience with all stages of Agile development, including sprint planning and daily Scrum meetings
+    - Experience with projects that follow the GDS Service Standard
     - Potential to champion the value of design within Unboxed
     - Presence within the broader design community
   image: "/jobs/images/designers-session.jpg"
@@ -47,27 +54,17 @@ benefits:
   title: "Benefits of working with us"
   content:
     - 25 holiday days per year, on top of the bank holiday allowance
-    - Holiday flexibility and loyalty bonus benefits
-    - An informal, startup culture of growth and flexible working hours
     - 10 Innovation Days per year
-    - A generous conference budget to attend the conferences of your choice
-    - A peer-to-peer mentoring programme
-    - Life assurance policy at 4x salary
-    - A workplace pension with Standard Life
-    - A 'Bike To Work' scheme
-
-design_image_2:
-  image: "/jobs/images/designer-2.jpg"
-  image_description: "Designer at work"
-
-other_benefits:
-  title: "Other benefits include"
-  content:
-    - Weekly reflection and drinks at our Whines & Cheers session (our Friday evening company retrospective)
-    - Bi-annual reviews
-    - The potential for equity in an Unboxed 'spin-off' product
-    - Monthly 'Linkers & Thinkers' lunches
-    - Your own caricature
+    - Holiday flexibility and loyalty bonus benefits
+    - A workplace pension and life assurance policy
+    - Maternity and Shared Parental Leave policies
+    - A generous conference budget
+    - A company-wide peer-to-peer mentoring programme
+    - Salary reviews twice a year
+    - An informal, startup culture of growth and flexible working hours
+    - A “Bike To Work” scheme
+    - Monthly "Linkers and Thinkers" idea-exploring lunches
+    - Weekly reflection at "Whines & Cheers", our Friday company retrospective
 
 process:
   title: "What next?"
@@ -115,6 +112,9 @@ related:
       <p class="text-tile__paragraph--with-spacing">
         <%= current_page.data.introduction.text_3 %>
       </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_4 %>
+      </p>
 
       <ul class="text-tile__list">
         <% current_page.data.introduction.requirements.each do |requirement| %>
@@ -133,10 +133,6 @@ related:
   <%= partial 'shared/text_tile', locals: current_page.data.other_requirements %>
 
   <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
-
-  <%= partial 'shared/full_image', locals: current_page.data.design_image_2 %>
-
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.other_benefits %>
 
   <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
 
