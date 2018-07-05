@@ -15,6 +15,28 @@
     }
   }
 
+  // iPhone X in landscape
+  @media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (-webkit-device-pixel-ratio : 3) and (orientation : landscape) {
+    background-image: url(/assets/images/homepage/header--tablet.jpg);
+    background-color: darken($light-gray, 10%);
+    background-size: cover;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
+    }
+  }
+
+  // iPhone 6, 7, 8 Plus in landscape
+  @media only screen and (min-device-width : 414px) and (max-device-width : 736px) and (orientation : landscape) {
+    background-image: url(/assets/images/homepage/header--tablet.jpg);
+    background-color: darken($light-gray, 10%);
+    background-size: cover;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
+    }
+  }
+
   @include breakpoint($tablet-breakpoint) {
     min-height: 50vw;
   }
@@ -34,6 +56,16 @@
 
     @include breakpoint($tablet-breakpoint) {
       display: block;
+    }
+
+    // iPhone X in portrait & landscape
+    @media only screen and (min-device-width : 414px) and (max-device-width : 736px) {
+      display: none;
+    }
+
+    // iPhone 6, 7, 8 Plus in portrait & landscape
+    @media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (-webkit-device-pixel-ratio : 3) {
+      display: none;
     }
   }
 }
