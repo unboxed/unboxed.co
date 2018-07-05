@@ -57,9 +57,9 @@ product_stories:
 <%= partial 'shared/page_header', locals: current_page.data.header %>
 
 <div class="container" data-header-waypoint>
-  <%= image_tag current_page.data.header.image, alt: current_page.data.header.image_description, class: "full-image", srcset: retina_srcset(current_page.data.header.image) %>
-
   <%= partial 'services/full_width_text_tile_prose', locals: current_page.data.introduction %>
+
+  <%= image_tag current_page.data.header.image, alt: current_page.data.header.image_description, class: "full-image", srcset: retina_srcset(current_page.data.header.image) %>
 
   <%= partial 'services/activities', locals: current_page.data.activities %>
 
