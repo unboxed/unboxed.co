@@ -239,3 +239,10 @@
   social_networks:
     - name: LinkedIn
       link: https://www.linkedin.com/in/christopher-stobart-162562109/
+- name: Celia Collins
+  short_name: celia-collins
+  role: Developer
+  email: celia.collins
+  social_networks:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/celia-collins-275783150/
