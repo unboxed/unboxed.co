@@ -1,30 +1,88 @@
 .homepage-header {
-  background-image: url(/assets/images/homepage/header--mobile.jpg);
-  background-color: darken($light-gray, 10%);
-  background-position: 65% 40%;
   min-height: 400px;
   position: relative;
+  overflow: hidden;
 
-  @include retina {
-    background-image: url(/assets/images/homepage/header--mobile@2x.jpg);
-    background-size: 480px 400px;
-    background-repeat: no-repeat;
-  }
-
-  @include breakpoint($tablet-breakpoint) {
-    background-position: 100% 40%;
-    background-image: url(/assets/images/homepage/header--tablet.jpg);
-    min-height: 50vw;
+  @media only screen and (max-width: $tablet-breakpoint) {
+    background-image: url(/assets/images/homepage/header--mobile.jpg);
+    background-color: darken($light-gray, 10%);
+    background-position: 65% 40%;
 
     @include retina {
-      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
-      background-size: 960px 480px;
+      background-image: url(/assets/images/homepage/header--mobile@2x.jpg);
+      background-size: 480px 400px;
       background-repeat: no-repeat;
     }
   }
 
+  // iPhone X in landscape
+  @media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (-webkit-device-pixel-ratio : 3) and (orientation : landscape) {
+    background-image: url(/assets/images/homepage/header--tablet.jpg);
+    background-color: darken($light-gray, 10%);
+    background-size: cover;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
+    }
+  }
+
+  // iPhone 6, 7, 8 in landscape
+  @media only screen and (min-device-width : 375px) and (max-device-width : 667px) and (orientation : landscape) {
+    background-image: url(/assets/images/homepage/header--tablet.jpg);
+    background-color: darken($light-gray, 10%);
+    background-size: cover;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
+    }
+  }
+
+  // iPhone 6, 7, 8 Plus in landscape
+  @media only screen and (min-device-width : 414px) and (max-device-width : 736px) and (orientation : landscape) {
+    background-image: url(/assets/images/homepage/header--tablet.jpg);
+    background-color: darken($light-gray, 10%);
+    background-size: cover;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
+    }
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 50vw;
+  }
+
   @include breakpoint($desktop-breakpoint) {
     min-height: 480px;
+  }
+
+  video {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+
+    @include breakpoint($tablet-breakpoint) {
+      display: block;
+    }
+
+    // iPhone X in portrait & landscape
+    @media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (-webkit-device-pixel-ratio : 3) {
+      display: none;
+    }
+
+    // iPhone 6, 7, 8 in portrait & landscape
+    @media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
+      display: none;
+    }
+
+    // iPhone 6, 7, 8 Plus in portrait & landscape
+    @media only screen and (min-device-width : 414px) and (max-device-width : 736px) {
+      display: none;
+    }
   }
 }
 
