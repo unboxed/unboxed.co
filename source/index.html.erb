@@ -107,7 +107,11 @@ blog_title: "What we have been blogging about"
           <h3 class="service__title">
             <%= service.title %>
           </h3>
-          <%= link_to image_tag(service.image, alt: service.title, class: "service__image", srcset: retina_srcset(service.image)), service.link %>
+          <div class="service__image-container">
+            <div class="service__image-wrapper">
+              <%= link_to image_tag(service.image, alt: service.title, class: "service__image", srcset: retina_srcset(service.image)), service.link %>
+            </div>
+          </div>
           <p class="service__paragraph">
             <%= service.text %>
           </p>

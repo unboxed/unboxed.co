@@ -12,14 +12,40 @@
 .service__title {
   @include responsive-text;
   margin-bottom: 16px;
+  margin-top: 18px;
+}
+
+.service__image-container {
+  position: relative;
+  padding-bottom: 54%;
+  height: 0;
+}
+
+.service__image-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 }
 
 .service__image {
-  width: 100%;
+  width: 105%;
+  transition: all .5s ease;
   margin-bottom: 16px;
+
+  &:hover {
+    -webkit-transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    transform: scale(1.4);
+    -webkit-filter: blur(2px);
+    filter: blur(2px);
+  }
 }
 
 .service__paragraph {
+  margin-top: 12px;
   color: $medium-gray;
   font-weight: 300;
   line-height: 1.6;
