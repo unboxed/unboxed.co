@@ -1,0 +1,31 @@
+.contact-cto {
+  @extend .homepage-contact;
+
+  @include breakpoint($tablet-breakpoint) {
+    background-image: url(/assets/images/homepage/contact-cto--tablet.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    margin-top: 50px;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/contact-cto--tablet@2x.jpg);
+    }
+  }
+}
+
+.contact-cto__container {
+  @extend .homepage-contact__container;
+}
+
+.contact-cto__title {
+  @extend .homepage-contact__title;
+}
+
+.contact-cto__image {
+  @extend .homepage-contact__image;
+}
+
+.contact-cto__paragraph {
+  @extend .homepage-contact__paragraph;
+}

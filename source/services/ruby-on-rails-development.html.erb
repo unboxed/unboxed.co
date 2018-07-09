@@ -1,5 +1,13 @@
 ---
 title: "Services - Ruby on Rails development"
+contact:
+  title: "What about you?"
+  text: "Andrew is our CTO. If you have a Ruby on Rails project in mind, get in touch:"
+  email: "hello@unboxed.co"
+  display_email: "andrew.white@unboxed.co"
+  email_subject: "Ruby on Rails project"
+  acknowledgement: "Thanks for sending, we’ll be in touch."
+  image_description: "Andrew White"
 ---
 
 <%= partial 'shared/page_header', locals: {
@@ -315,6 +323,48 @@ title: "Services - Ruby on Rails development"
     quote: "We managed a complete service redesign and rebuild, changed hosting provider, gained security accreditation, and launched the UK's new Petitions service - all in just 10 weeks.",
     source: 'Pete Herlihy, Product Owner — Government Digital Service'
   } %>
+
+  <section class="contact-cto">
+    <div class="contact-cto__container">
+      <h2 class="contact-cto__title">
+        <%= current_page.data.contact.title %>
+      </h2>
+
+      <%= image_tag "/assets/images/homepage/contact-cto--mobile.jpg", alt: current_page.data.contact.image_description, class: "contact-cto__image", srcset: "/assets/images/homepage/contact-cto--mobile@2x.jpg 2x" %>
+
+      <p class="contact-cto__paragraph">
+        <%= current_page.data.contact.text %>
+      </p>
+
+      <form class="homepage-contact-form" id="contact-form" action="//formspree.io/<%= current_page.data.contact.email %>" method="POST" data-required-form>
+        <p class="homepage-contact-form__to-disabled-input" data-to="<%= current_page.data.contact.display_email %>"></p>
+        <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_next" value="/#contact-form" />
+        <input type="hidden" name="_subject" value="<%= current_page.data.contact.email_subject %>" />
+        <input class="homepage-contact-form__email-input" type="email" name="_replyto" placeholder="Your email" required />
+        <textarea class="homepage-contact-form__message-input" name="comment" placeholder="Message" required></textarea>
+        <input class="homepage-contact-form__send-button" type="submit" value="Send">
+      </form>
+
+      <div class="homepage-contact-form__acknowledgement">
+        <%= current_page.data.contact.acknowledgement %>
+      </div>
+
+      <script>
+        document.querySelector('[data-required-form]').onsubmit = function (event) {
+          var elements = this.querySelectorAll('[required]');
+          for (var i = 0; i < elements.length; i++) {
+            if (elements[i].value === '' || elements[i].value === elements[i].placeholder) {
+              elements[i].classList.add('error');
+              event.preventDefault ? event.preventDefault() : (window.event.returnValue = false);
+            } else {
+              elements[i].classList.remove('error');
+            }
+          }
+        };
+      </script>
+    </div>
+  </section>
 </div>
 
 <%= partial 'book_meeting' %>
