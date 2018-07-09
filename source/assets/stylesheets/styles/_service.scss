@@ -15,6 +15,11 @@
   margin-top: 18px;
 }
 
+.service__image {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
 .service__image-container {
   position: relative;
   padding-bottom: 54%;
@@ -28,19 +33,19 @@
   width: 100%;
   height: 100%;
   overflow: hidden;
-}
 
-.service__image {
-  width: 105%;
-  transition: all .5s ease;
-  margin-bottom: 16px;
+  .service__image {
+    width: 105%;
+    transition: all .5s ease;
+    margin-bottom: 16px;
 
-  &:hover {
-    -webkit-transform: scale(1.4);
-    -ms-transform: scale(1.4);
-    transform: scale(1.4);
-    -webkit-filter: blur(2px);
-    filter: blur(2px);
+    &:hover {
+      -webkit-transform: scale(1.4);
+      -ms-transform: scale(1.4);
+      transform: scale(1.4);
+      -webkit-filter: blur(2px);
+      filter: blur(2px);
+    }
   }
 }
 
