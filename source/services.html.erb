@@ -43,7 +43,7 @@ quote:
     <% current_page.data.services.content.each do |service| %>
       <div class="services-container__service">
         <div class="services-page-service">
-          <%= image_tag service.image, alt: service.title, class: "service__image", srcset: retina_srcset(service.image) %>
+          <%= link_to image_tag(service.image, alt: service.title, class: "service__image--hover", srcset: retina_srcset(service.image)), service.link %>
           <h3 class="service__title">
             <%= service.title %>
           </h3>

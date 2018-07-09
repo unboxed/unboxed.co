@@ -19,6 +19,13 @@
   margin-bottom: 16px;
 }
 
+.service__image--hover {
+  @extend .service__image;
+  &:hover {
+    filter: brightness(90%);
+  }
+}
+
 .service__paragraph {
   color: $medium-gray;
   font-weight: 300;
