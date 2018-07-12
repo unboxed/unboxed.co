@@ -1,14 +1,14 @@
 ---
-date: '2018-07-12 12:00 +0100'
-published: true
-title: 'Brighton Ruby 2018'
+title: Brighton Ruby 2018
+authors:
+  - Elena Tanasoiu
 tags:
   - Culture
   - Innovation
-authors:
-  - 'Elena Tanasoiu'
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5f89b9bd2b6f522fed3d3d54585851ee.jpg
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5896441e99ff65d5ab603ce22f042bba.png
+date: '2018-07-12 12:00 +0100'
+published: true
 ---
 
 ![Brighton Ruby 2018 - The beach](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5f89b9bd2b6f522fed3d3d54585851ee.jpg)
