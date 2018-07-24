@@ -12,8 +12,9 @@ published: true
 ---
 <i>Recently, we had the pleasure of welcoming Saskia Brewster, a Year 11 student, to Unboxed for a short stint of work experience. Interested in product design, she was keen to find out about the design work we do here at Unboxed, experience life in our office, as well as get involved in some of our current projects.</i>
 
-When I thought of design before I came to Unboxed, I thought of people like James Dyson sitting down and drawing and redrawing versions of a product, testing and testing until a final design is chosen. However, through the time I spent at Unboxed, I discovered what it meant to be a designer — the end product does not have to be physical or graphical it can just be as simple or complex as a process in which people or services come together.<br/>\
-<br/>
+When I thought of design before I came to Unboxed, I thought of people like James Dyson sitting down and drawing and redrawing versions of a product, testing and testing until a final design is chosen. However, through the time I spent at Unboxed, I discovered what it meant to be a designer — the end product does not have to be physical or graphical it can just be as simple or complex as a process in which people or services come together.<br/>
+
+
 
 # Day 1: Hackney Council
 
@@ -27,8 +28,7 @@ After some research into Unboxed during morning (and being surprised at how many
 
 I also learnt that there is no set path for getting into design, which is interesting as personally I always thought you pick your course at university and at the end of the three or four (or even more) years, you have an imaginary set list of jobs. However, I found that even if you did Classics at university, you can get into programming, etc. As someone who has just chosen their A-Levels, I found it very comforting to hear that your future is never fixed.
 
-On my first day, I was also introduced to software called [Marvel](https://marvelapp.com), which was very exciting for me to experiment with as I tried to make an “app” (just a visual presentation of what it would look like though one scenario) to find floor plans of council housing in London.<br/>\
-<br/>
+On my first day, I was also introduced to software called [Marvel](https://marvelapp.com), which was very exciting for me to experiment with as I tried to make an “app” (just a visual presentation of what it would look like though one scenario) to find floor plans of council housing in London.<br/>
 
 # Day 2: Lambeth Portuguese Wellbeing Partnership
 
@@ -36,8 +36,7 @@ In the morning of my second day, I had the opportunity to research into the Port
 
 The whole idea of designing something that is not physical or visual was very strange to me at first, but I found it interesting how you are designing a process which will improve people’s lives so greatly by being so specific, while also having some versatility. This scheme, helping a community in a certain borough is very specific, but has the chance to be expanded and brought into other communities in London, let alone the UK.
 
-The importance of [sprints](https://www.scrum.org/resources/what-is-a-sprint-in-scrum) (I didn’t know this term before!) and how closely you (Unboxed) work with the actual customer you are working with, and how you encourage inclusivity in developing a design together – this is a whole other side of collaboration which was before unknown to me and I am very sad that I do not get to watch one take place.<br/>\
-<br/>
+The importance of [sprints](https://www.scrum.org/resources/what-is-a-sprint-in-scrum) (I didn’t know this term before!) and how closely you (Unboxed) work with the actual customer you are working with, and how you encourage inclusivity in developing a design together – this is a whole other side of collaboration which was before unknown to me and I am very sad that I do not get to watch one take place.<br/>
 
 # Day 3: Back to Hackney Council
 
@@ -45,10 +44,7 @@ I spent the whole day in the Hackney Council office, working on the Marvel proje
 
 ![Saskia and Boris at Hackney Council](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fae2cf2ee3b6defac693500208dd2a73.JPG)
 
-<i>Based with the team at Hackney Council.</i><br/>\
-<br/>
-
-
+<i>Based with the team at Hackney Council.</i><br/>
 
 # Day 4: Lambeth Portuguese Wellbeing Partnership
 
