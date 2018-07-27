@@ -14,8 +14,6 @@ published: true
 
 When I thought of design before I came to Unboxed, I thought of people like James Dyson sitting down and drawing and redrawing versions of a product, testing and testing until a final design is chosen. However, through the time I spent at Unboxed, I discovered what it meant to be a designer — the end product does not have to be physical or graphical it can just be as simple or complex as a process in which people or services come together.<br/>
 
-
-
 # Day 1: Hackney Council
 
 I wanted to come to Unboxed to learn about how a smaller company runs, find out more about different types of design and which I would like to consider further as potential courses or careers. I found just how much a community the company is, as everyone comes together at the end of the week for a retrospective (“Whines & Cheers”) to talk about their projects, as well as the open plan layout. The first thing (out of many) that I learnt was that more and more design companies are evolving so when they are developing a product there is a continuous cycle; you continue to address problems during the process and not at the end, saving time. Revolutionary. 
@@ -40,7 +38,7 @@ The importance of [sprints](https://www.scrum.org/resources/what-is-a-sprint-in-
 
 # Day 3: Back to Hackney Council
 
-I spent the whole day in the Hackney Council office, working on the Marvel project. I found a very new exciting feature of linking pages together and had a lot of fun when I was presenting my app for repair services to allow operatives to see where fittings, such as lights and taps, are located. \[Boris](https://unboxed.co/people/#boris-divjak) role-played a very good plumber, even if he did ask some difficult questions — but, who knows, if you make an answer up on the spot! Still amazed at how many Post-It notes get used in the office.
+I spent the whole day in the Hackney Council office, working on the Marvel project. I found a very new exciting feature of linking pages together and had a lot of fun when I was presenting my app for repair services to allow operatives to see where fittings, such as lights and taps, are located. [Boris](https://unboxed.co/people/#boris-divjak) role-played a very good plumber, even if he did ask some difficult questions — but, who knows, if you make an answer up on the spot! Still amazed at how many Post-It notes get used in the office.
 
 ![Saskia and Boris at Hackney Council](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fae2cf2ee3b6defac693500208dd2a73.JPG)
 
