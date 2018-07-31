@@ -6,7 +6,7 @@ tags:
   - Culture
   - Design
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3ca51f70c67c453fd76ecd0f73675419.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/54353b927594f39629013e36aa93f2cb.png
 date: '2018-07-24T14:54:22+01:00'
 published: true
 ---
