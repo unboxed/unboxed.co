@@ -5,6 +5,8 @@ title: >-
 date: '2018-07-31T12:20:59+01:00'
 published: false
 ---
+![Techqala vision](/assets/images/uploads/techqala-vision.jpg)
+
 After taking a break last year, we’re delighted to announce that Unboxed will be running **Techqala** again this year.
 
 ## What is Techqala?
@@ -64,6 +66,8 @@ We don’t run Techqala for profit but we do like to cover costs.
 If you work for an established organisation then you organise your flights and accommodation and make a contribution to cover costs (we suggest £300 per person)
 
 If you are a start-up based in South Africa, as long as you’ve got somewhere to stay, there is nothing pay.
+
+![Design thinking workshop](/assets/images/uploads/techqala-session.jpg)
 
 ## Get involved
 
