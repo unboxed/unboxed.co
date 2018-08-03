@@ -10,6 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
+
 ## 9 Biggest Mistakes with CSS Grid - [Tom S](/people#tom-sabin)
 
 https://www.youtube.com/watch?v=0Gr1XSyxZy0
