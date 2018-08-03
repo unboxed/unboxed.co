@@ -45,9 +45,9 @@ Everyone who participates in Techqala has a transformational experience. Here ar
 
 ![Buntu Sithole, Cape Town Entrepreneur](/assets/images/uploads/buntu-sithu.jpg)
 
-> “Techqala is an amazing experience. It’s a unique opportunity to hone your innovation skills and exchange ideas with brilliant people from many different backgrounds. Both highly challenging and deeply supportive, it’s a week I won’t miss for anything!”
+> “Techqala is an amazing experience, filled with an amazing energy. It’s a unique opportunity to hone your innovation skills through profiling, lean start-up processes and the Business Model Generation. Techqala is a home where you can feel comfortable exchanging ideas with brilliant people from many different backgrounds. Techqala is both highly challenging and deeply supportive, it’s a week I won’t miss for anything!”
 >
-> _Bunthu Sithu, Idealist, innovator, autodidact and entrepreneur from Cape Town (attended in 2015 and 2016)_
+> _Buntu Sithole, Idealist, innovator, autodidact, INTP-A and entrepreneur from Cape Town (attended in 2015 and 2016)_
 
 ![Richard Stobart, Chargy, Unboxed and Techqala](/assets/images/uploads/richard-stobart.jpg)
 
@@ -71,6 +71,6 @@ If you are a start-up based in South Africa, as long as you’ve got somewhere t
 
 ## Get involved
 
-There are limited spaces so we have to be selective. Fill in the form and let us know why you want to come.
+There are limited spaces so we have to be selective. Please register your interest on the Eventbrite page and let us know why you want to come.
 
-\[Link to follow]
+<http://bit.ly/techqala2018>
