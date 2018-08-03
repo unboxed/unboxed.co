@@ -3,7 +3,7 @@ title: >-
   Announcing Techqala 2018 - Business innovation/Start-up accelerator in Cape
   Town
 date: '2018-07-31T12:20:59+01:00'
-published: false
+published: true
 ---
 ![Techqala vision](/assets/images/uploads/techqala-vision.jpg)
 
