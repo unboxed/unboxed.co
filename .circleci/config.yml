@@ -1,0 +1,28 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/unboxed/unboxed.co
+    docker:
+      - image: circleci/ruby:2.3.7-node
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - v1-gems-{{ checksum "Gemfile.lock" }}
+            - v1-gems
+      - run:
+          name: Set RAILS and RACK env
+          command: echo -e "export RAILS_ENV=test\nexport RACK_ENV=test" >> $BASH_ENV
+      - run:
+          name: Bundle install
+          command: 'bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3'
+      - save_cache:
+          key: v1-gems-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+      - run:
+          name: Compile middleman application
+          command: bundle exec middleman build --verbose --no-parallel
+      - run:
+          name: Rspec tests
+          command: bundle exec rspec --format=documentation
