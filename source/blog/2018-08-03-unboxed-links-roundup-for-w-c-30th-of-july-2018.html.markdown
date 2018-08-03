@@ -75,9 +75,7 @@ A very handy tool for comparing the power of different passports around the worl
 
 ## Track of the Week - [Tim H](/people#tim-higgins)
 
-We're going back in time this week as a result of my recent Netflix Mad Men binge in the 
-coolness of my dark living room (I don't like hot weather). They wrote some good tunes 
-back then, including this one.. enjoy!
+70s summer disco pop.  In this heat there is nothing better!  We don't even need to Fly Away for our holidays this year!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z5Cm3KFfD-c" frameborder="0" allowfullscreen></iframe>
 
