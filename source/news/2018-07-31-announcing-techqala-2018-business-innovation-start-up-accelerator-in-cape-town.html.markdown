@@ -11,13 +11,13 @@ After taking a break last year, we’re delighted to announce that Unboxed will 
 
 # What is Techqala?
 
-Techqala is part startup accelerator, part innovation camp and part bonding experience. Based in Cape Town, it brings together local South African start-ups and international corporate innovators for an immersive week of learning and creative business thinking.
+Techqala is part startup accelerator, part innovation camp and part bonding experience. Based in Cape Town, it brings together local South African startups and international corporate innovators for an immersive week of learning and creative business thinking.
 
 The days are loosely structured as follows:
 
 * Early morning gathering for breakfast and conversation
-* Workshops to explore concepts around Design Thinking, Lean Start-up and Agile principles
-* Free time to apply the concepts to the start-up businesses
+* Workshops to explore concepts around Design Thinking, Lean Startup and Agile principles
+* Free time to apply the concepts to the startup businesses
 * Re-group to explore the learnings and socialise
 
 With Cape Town specific activities thrown in such as a trip up Table Mountain or wine-tasting on a local wine farm, this really is an opportunity to escape the day job and explore some radical thinking.
@@ -28,7 +28,7 @@ Launched in 2015 and further developed in 2016, Techqala was conceived of as a w
 
 # Why should you join us?
 
-Whether a startup founder or a an established  business leader, Techqala will give you:
+Whether a startup founder or an established  business leader, Techqala will give you:
 
 * Inspiration and ideas to innovate and transform
 * Techniques to adopt, adapt and share
