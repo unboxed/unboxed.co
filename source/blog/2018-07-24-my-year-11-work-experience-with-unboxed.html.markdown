@@ -46,11 +46,9 @@ I spent the whole day in the Hackney Council office, working on the Marvel proje
 
 # Day 4: Lambeth Portuguese Wellbeing Partnership
 
-For me, this was the most exciting out of all the days as I got to spend the time in the kick-off workshop for the Lambeth Portuguese Wellbeing Partnership workshop, which meant I got to see ideas being put forward and how people reacted to them. There was around 15 of us in this workshop. Lots of people worked in charities or services, such as the NHS. It was an amazing group of people, from all walks of life, sitting in one room to talk about a project that brought them all together and were all so passionate about.
+For me, this was the most exciting out of all the days as I got to spend the time in the kick-off workshop for the Lambeth Portuguese Wellbeing Partnership project, which meant I got to see ideas being put forward and how people reacted to them. There was around 15 of us in this workshop. Lots of people worked in charities or services, such as the NHS. It was an amazing group of people, from all walks of life, sitting in one room to talk about a project that brought them all together and were all so passionate about.
 
-We spent a long time talking about the goal, which is something that I first considered to not take a long time at all, but it takes a lot of consideration and thought. We then looked at the possible risks of the project. There was a range of severity, which I found interesting, as it showed what are the main things that people think of when they hear the word “risk”. 
-
-This can come under categories such as safety or failure, which is curious as I would presume they come from previous experiences and what we have learnt, but that is for a psychiatrist to research!
+We spent a long time talking about the goal, which is something that I first considered to not take a long time at all, but it takes a lot of consideration and thought. We then looked at the possible risks of the project. There was a range of severity, which I found interesting, as it showed what are the main things that people think of when they hear the word “risk”. This can come under categories such as safety or failure, which is curious as I would presume they come from previous experiences and what we have learnt.
 
 In the afternoon, we looked at and created user personas. These were based on real people, which was really eye-opening as you get a completely different sense of the situation when specific cases come to light and it shows how teams, like this, make such a big change. It is so reassuring to know that there are people in the world who put their differences behind them to come together and collaborate.
 
@@ -58,6 +56,6 @@ In the afternoon, we looked at and created user personas. These were based on re
 
 <i>Discussions in the Lambeth Portuguese Wellbeing Partnership kick-off session.</i>
 
-Overall, the experience has opened my eyes to a whole different world from what I considered design and the work Unboxed does is incredible, as it is so much from the heart and trying to help people who need it. This is definitely what is needed, in this day and age, and I think larger companies should look at how Unboxed runs and its ethos. 
+Overall, the experience has opened my eyes to a whole different world from what I considered design to be and the work Unboxed does is incredible, as it is so much from the heart and trying to help people who need it. This is definitely what is needed, in this day and age, and I think larger companies should look at how Unboxed runs and its ethos. 
 
 Thank you again for an amazing experience!
