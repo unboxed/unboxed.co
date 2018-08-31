@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-<p><img alt="RubyFuza" src="http://i1291.photobucket.com/albums/b548/grammccram/display_size_rubyfuza_o_zpspzrrhwus.png" style="width: 80px; height: 81px; " /></p>
+<p><img alt="RubyFuza" src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/9a359dc5-b8e5-4f3a-8fce-dd49cd8a1fbf.png" width="80px" height="81px" /></p>
 <p>You might be wondering what&rsquo;s up with the strange title. It&rsquo;s just one of those conference things &ndash; you come to the end of a conference and you are on a &ldquo;conference high&rdquo; and cant stop reminiscing about what went on and who did what, etc. You&rsquo;re sad its over &ndash; why can&rsquo;t we do this every day? You start applying things you did at the conference to your daily routine, and it starts getting kinda weird.&nbsp; What goes on at RubyFuza should probably stay at RubyFuza. But there are some sweet things, like Rolo&rsquo;s, that just need to be shared.</p>
 <p>So <a href="http://rubyfuza.org/">RubyFuza 2011</a>, held here in Cape Town, has ended. It was the first ever African Ruby conference. I think it was a great success, having spoken to others who have been to a number of Ruby conferences around the world.</p>
 <p>As a ScrumMaster (and 1 of 2 ladies amongst a sea of Ruby men!!) I found the event somewhat interesting. I thought it was great to spend time at an event like this and immerse myself in the world of deep tech. I guess there were times when there was no way I was going to be able to take in what was on the screen, but I did learn from the experience for sure. The most striking thing I learnt was how different Ruby developers really are. Good different, that is.</p>

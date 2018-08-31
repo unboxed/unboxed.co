@@ -9,7 +9,7 @@ tags:
 
 ---
 
-<p align="center"><img src="http://bit.ly/1Q9FtWl" alt="Matt"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6b342c37-1615-48cc-a644-5cc95fe8109e.png" alt="Matt"></p>
 
 Last week, I officially started my transition from being a corporate person to becoming an Unboxed person. It’s only when you get through the front door of a place that you start to sense the true scale of cultural differences between companies.<br/>
 
@@ -29,7 +29,7 @@ In my first week at Unboxed, two main things have really struck me:<br/>
 <h2>1. People’s engagement</h2>
 Participating in Unboxed sprint planning sessions, retrospectives and daily stand-ups has allowed me to witness what a fully engaged agile team looks like.<br/>
 
-<p align="center"><img src="http://bit.ly/1Igpq1O" alt="Unboxed team"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dc82b6cb-de42-4896-a72d-1bc1bb6bec3d.png" alt="Unboxed team"></p>
 
 There’s an atmosphere of trust in the discussion and estimation of story points that comes from not having to produce detailed development estimates on insufficient information and then being held accountable to them.<br/>
 
@@ -42,7 +42,7 @@ In the past, as a PM, I’ve been in daily meetings spending too much time track
 Here the project teams sit together, talk through the challenges and changes they’re working on and spend all their time on that project.<br/>
 
 
-<p align="center"><img src="http://bit.ly/1Fwcb9U" alt="Tom Sabin"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/46921653-5726-487d-87cb-03f95c4d128e.png" alt="Tom Sabin"></p>
 
 Not only refreshing to be a part of, but I’m convinced software of value is delivered each sprint.<br/>
 <br/>
@@ -54,7 +54,7 @@ As a project manager, I was responsible for the telling the team what to do. So,
 
 In Scrum, and in Unboxed, it’s different. There’s a prioritised list of user stories (requirements) that have been prepared already and are ready to be worked on, there doesn’t need to be any debate on what needs to be done next, unless there’s some kind of impediment.<br/>
 
-<p align="center"><img src="http://bit.ly/1KcgIDX" alt="Agile team"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cd5a33b0-0158-4c62-bbb5-1b59c4ae5c1d.png" alt="Agile team"></p>
 
 Everyone talks about what they’re working on and whether they’re blocked, then they get to dedicate all of their time to delivering it. Team members aren’t reporting back to any one person, but to the team. The goal is to deliver working valuable software at the end of the sprint and everyone’s bought into that.<br/>
 
