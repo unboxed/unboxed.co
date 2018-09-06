@@ -21,13 +21,10 @@ The purpose of tentacl.es is to help others find you and your social networks an
 
 Behind the scenes is the first beta release after four weeks of development. This will currently only support Facebook integration, but other services (such as Twitter, LinkedIn and OpenID) will soon follow. We are using the [OmniAuth](https://github.com/intridea/omniauth) gem for social platforms in conjunction with [Devise](https://github.com/plataformatec/devise) for authentication. We have also been using SOLR search implemented by [Sunspot](http://sunspot.github.com/), which has been the major challenge in the project. Our scrum master on this project is Chris Carter, who has been at Unboxed Consulting during his industrial placement while studying Software Engineering at Imperial College.
 
-There have been several tools used during this project: git and Pivotal Tracker are amongst those which were new to me. I have been picking up how these tools work quite quickly, however git remains a small challenge each day after only having revision control experience with SVN. Pivotal Tracker on the other hand has been great, and certainly helps to illustrate how the project is progressing. A post by Richard showing our workflow can be seen [here](/blog/pivotal-tracker-workflow). We also keep track of our stories on the office wall. A photo of this can be seen below.
-
-<img alt='tentacl.es story wall' src='http://f.cl.ly/items/1V2j3z163i31370k380M/tentacles-wall.jpg' style='width: 580px; height: 740px'/>
+There have been several tools used during this project: git and Pivotal Tracker are amongst those which were new to me. I have been picking up how these tools work quite quickly, however git remains a small challenge each day after only having revision control experience with SVN. Pivotal Tracker on the other hand has been great, and certainly helps to illustrate how the project is progressing. A post by Richard showing our workflow can be seen [here](/blog/pivotal-tracker-workflow). We also keep track of our stories on the office wall.
 
 Other tools we have utilised include [Balsamiq Mockups](http://www.balsamiq.com/products/mockups) for wireframes, [Campfire](http://campfirenow.com/) for developer and project chat and iChat for individual messages. I have also been using Unboxed's wiki which provides guidance for numerous occasions, for instance how to set up a project from scratch, or how to set up the development environment on your computer.
 
 During the past month of training and development, I have picked up many invaluable skills in the working world. As a university student, I feel that the best way to increase my knowledge in the area is to get hands on: and that’s exactly what I’ve loved about working at Unboxed Consulting. I look forward to tackling my next challenging project!
 
 TL;DR, working at Unboxed Consulting has been great fun and developing tentacl.es has been an encouraging start for RoR development.
-
