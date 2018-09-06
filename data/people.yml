@@ -138,24 +138,6 @@
     link: https://twitter.com/CBedingfield
   - name: LinkedIn
     link: https://uk.linkedin.com/in/carriebedingfield
-- name: Tom Sabin
-  short_name: tom-sabin
-  role: Developer
-  email: tom.sabin
-  bio: |
-    I have been interested in web design/development since the start of high school
-    where I created a personal website. This was used to host numerous Photoshop tutorials
-    and other content that I had created. Following this success I have been producing
-    portfolio websites for small local companies and ever since I have been eager
-    to develop this passion further. This has been made possible by joining Unboxed
-    Consulting.
-  social_networks:
-  - name: Twitter
-    link: https://twitter.com/tomsabin
-  - name: LinkedIn
-    link: https://uk.linkedin.com/in/tom-sabin-32838046
-  - name: GitHub
-    link: https://github.com/tomsabin
 - name: Ben Wong
   short_name: ben-wong
   role: Developer
