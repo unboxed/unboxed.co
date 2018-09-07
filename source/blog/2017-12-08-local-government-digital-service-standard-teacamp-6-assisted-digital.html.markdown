@@ -7,8 +7,7 @@ authors:
 tags:
   - Agile
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d77e4570098e9ce609cdbbe1ddd6e71a.png
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d77e4570098e9ce609cdbbe1ddd6e71a.png"
 ---
 <i>As a network for digital practitioners in local government, [LocalGov Digital](http://localgovdigital.info/) is on a mission to raise standards in web provision and the use of digital by councils across the country.<br/>
 
@@ -85,7 +84,7 @@ We then need to build services for users’ end-to-end journeys, from their pers
 <br/>
 
 # In practice: Exercise #2
-It’s now time to get back into our groups for the next exercise — building an inclusive service.<br/> 
+It’s now time to get back into our groups for the next exercise — building an inclusive service.<br/>
 
 Ben shares the persona of Cathy — our user. “Cathy doesn’t have a smartphone, but she does have a very old PC. She’s not motivated to buy the latest technology, but she’s very literate having used to work in a role that required email. She’s terrified of using government services though, due to being penalized in the past.”<br/>
 
@@ -103,6 +102,6 @@ Our task is to take our services from exercise #1 and “stress test” these wi
 
 <br/<>
 # TeaCamp #7
-The next TeaCamp is taking place on Thursday 18th January, 4-6pm at Draft House Tower Bridge.<br/> 
+The next TeaCamp is taking place on Thursday 18th January, 4-6pm at Draft House Tower Bridge.<br/>
 
 If you’re interesting in attending, please just send an email to David Durant at GLA (david.durant@london.gov.uk) or come and join the #london-peer-group channel in the LocalGov Digital Slack.

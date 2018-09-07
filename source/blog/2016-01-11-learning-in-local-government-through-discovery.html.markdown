@@ -6,8 +6,7 @@ tags:
   - Design
   - Innovation
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5762e8a0a26519f0d62600a9de3ef1c3.jpg
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5762e8a0a26519f0d62600a9de3ef1c3.jpg"
 date: '2016-01-11 17:32 +0000'
 published: true
 title: Learning in Local Government through Discovery
@@ -17,7 +16,7 @@ title: Learning in Local Government through Discovery
 
 There’s a lot of content available online about doing agile with local councils - talks, conferences, case studies, white papers, etc. A lot of content guiding us to knowing what this _should_ look like. But what does this **really** look like in practice...?
 
-We’ve recently partnered with Buckinghamshire County Council in the Discovery phase to digitally transform their current services. This short blog series aims to uncover and explore what it looks like when one of our cross-functional agile teams partners and co-locates with a local council. What are the daily challenges faced? How does the team overcome these? What are the highs and lows of partnering on a public sector project? Here’s the first look through the keyhole… 
+We’ve recently partnered with Buckinghamshire County Council in the Discovery phase to digitally transform their current services. This short blog series aims to uncover and explore what it looks like when one of our cross-functional agile teams partners and co-locates with a local council. What are the daily challenges faced? How does the team overcome these? What are the highs and lows of partnering on a public sector project? Here’s the first look through the keyhole…
 
 At a recent [Unboxed event](http://unboxed.co/blog/event-the-50k-springboard/) we invited speakers to talk about how to use the first £50k of a budget to make the case for spending the next £500k. My own contribution was to invite people to concentrate on three principles to help demonstrate value quickly and take your stakeholders on a ride they don’t want to get off.
 
@@ -40,7 +39,7 @@ Within a few days of talking to customers we found out that most people didn’t
 
 If you want to make maximum progress with a limited budget, you need to put together a small team of really smart agile people. You need to get them aligned around a common goal and give them what they need - permission, access, environment - to do what they do best.
 
-Council offices around the company look pretty much the same in my experience and they are not the most inspiring places to work. At Bucks we found a room, a small training room in an annex to the main council building. It lacked natural light, was a little too small and made us feel a little isolated but it did give us a chance to get to know each other. We took it as our base and started to think out loud and capture those thoughts on the walls. From Unboxed we had a designer (Leon), a developer (Crystal) and me and we were joined by four game members of the council’s HQ Digital team. During the six weeks of Discovery, people came to see us and some of them cheered us on. Some of them even joined the team. We quickly started prototyping solutions and the gloomy room encouraged us to “get out of the building” and learn from the public. 
+Council offices around the company look pretty much the same in my experience and they are not the most inspiring places to work. At Bucks we found a room, a small training room in an annex to the main council building. It lacked natural light, was a little too small and made us feel a little isolated but it did give us a chance to get to know each other. We took it as our base and started to think out loud and capture those thoughts on the walls. From Unboxed we had a designer (Leon), a developer (Crystal) and me and we were joined by four game members of the council’s HQ Digital team. During the six weeks of Discovery, people came to see us and some of them cheered us on. Some of them even joined the team. We quickly started prototyping solutions and the gloomy room encouraged us to “get out of the building” and learn from the public.
 
 We need to find a better space with more visibility to the rest of the organisation (and please more natural light) but in that bunker the team has amassed a load of shared learning which will only increase as the team grows and moves into Alpha.
 
@@ -51,7 +50,7 @@ We need to find a better space with more visibility to the rest of the organisat
 
 In order to get buy-in, you have to gain peoples’ trust, especially those key stakeholders who can make or break your project. And the best way to do this in my experience is to bare your soul. Be open and transparent in everything you do. Show your working. Show your progress, even when you haven’t made any.
 
-Our little room was the visible representation of the work we were doing. Anyone that visited for a collaborative design studio session or workshop could see our thoughts on the wall and go and tell others about it. Every couple of weeks we put together a presentation that anyone from the team could run through with anyone who would listen. 
+Our little room was the visible representation of the work we were doing. Anyone that visited for a collaborative design studio session or workshop could see our thoughts on the wall and go and tell others about it. Every couple of weeks we put together a presentation that anyone from the team could run through with anyone who would listen.
 
 ![Metrics slide from show and tell](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2132139481642d88d9ff3934c772c558.jpg)
 *Metrics slide from the Show & Tell*

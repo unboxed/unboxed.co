@@ -10,8 +10,7 @@ tags:
   - Design
   - Innovation
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b814831b496d5e82dc359eed80742398.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b814831b496d5e82dc359eed80742398.JPG"
 ---
 The London Borough of Lambeth is a very diverse community, with an estimated 1 in 6 residents across this Borough speaking Portuguese as their native tongue. Following an annual report compiled by healthcare leaders in Lambeth and the completion of Lambeth Council’s Borough Plan, it has been identified that the Portuguese speaking community is at risk of health and social inequalities, leading to poorer health outcomes for this group.<br/>
 
@@ -131,7 +130,7 @@ We’ve started mapping what José’s normal day looks like:<br/>
 “Both his parents have jobs with unsociable hours, so he gets taken to his grandma’s cafe for breakfast each morning.”<br/>
 
  As José day unfolds, his journey map is building up:<br/>
- 
+
 ![Lambeth Portuguese community workshop 12](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/9ff39f1d83bf84e51f2a07ac67988a41.JPG)
 <br/>
 
@@ -181,5 +180,5 @@ The next meeting is on Thursday 23rd March, 3-6pm at [Health Foundry](http://www
 (Also, a huge thank you to the brilliant team at the Health Foundry for the fantastic session photos).
 
 <br/>
-# HealthTechqala - the 5-day healthcare product accelerator 
+# HealthTechqala - the 5-day healthcare product accelerator
 <i>We’re looking to run a 5-day product accelerator later in the year within public and private sector healthcare at the Health Foundry. If you have an idea for a product that you think can help patients or transform how your NHS department works, email graeme.mccubbin@unboxed.co to register your interest.</i><br/>

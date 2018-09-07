@@ -4,8 +4,7 @@ published: true
 title: 'Welcome to the team: Dennis Tsiang'
 tags:
   - Culture
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6e219e0ee2e51ebac676be74022c33b9.png
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6e219e0ee2e51ebac676be74022c33b9.png"
 authors:
   - Dennis Tsiang
 ---

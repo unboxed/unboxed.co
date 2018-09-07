@@ -1,7 +1,7 @@
 ---
 authors:
   - Carrie Bedingfield
-tags: 
+tags:
   - Culture
   - Innovation
   - Lean
@@ -15,7 +15,7 @@ title: The Unboxed product accelerator adventure goes to South Africa
 
 We’ve been on a mission to conceive, build, nurture digital products that matter for many years now. More recently this means creating an ecosystem in which other people’s ideas can become reality.
 
-Unboxed invested in my purpose-led start up accelerator, [50th Generation](http://www.50thgeneration.org) last year. 
+Unboxed invested in my purpose-led start up accelerator, [50th Generation](http://www.50thgeneration.org) last year.
 
 Then [Richard Stobart](https://twitter.com/richardstobart) and I decided to use our limited time but abundant energy to take our start up and product inception know-how to Cape Town for an intense 10 days in December 2015.
 
@@ -45,7 +45,7 @@ We spend mornings learning a concept and its associated tools over brunch, under
 
 ![Pitch](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f04b608462aa5afb393e1a4b260dea3c.png)
 
-Richard does his uncomfortable but powerful ‘destroy your business’ exercise but sadly doesn’t get the opportunity to do my personal favourite ‘Faster Horse’. 
+Richard does his uncomfortable but powerful ‘destroy your business’ exercise but sadly doesn’t get the opportunity to do my personal favourite ‘Faster Horse’.
 
 I do my ‘I of Steel’ exercise and get some improv going. I also help people perfect the Not Pitch and set up a Not Pitching Day on the final Sunday.
 

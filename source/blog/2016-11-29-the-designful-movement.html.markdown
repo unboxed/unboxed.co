@@ -4,8 +4,7 @@ published: true
 title: The designful movement
 tags:
   - Design
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/11719c475023836fe967aa0a46d14df0.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/11719c475023836fe967aa0a46d14df0.JPG"
 authors:
   - Leon Odey Knight
 ---

@@ -8,8 +8,7 @@ tags:
   - Culture
   - Innovation
   - Rails
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3bc261486adc14d9351ba10ce171653a.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3bc261486adc14d9351ba10ce171653a.PNG"
 ---
 We regularly host “Faster than Lightning” code talks where our developers get together and submit a snippet of code that they found interesting - Ruby, CSS, JS, test code, server config or anything else. It’s an opportunity to learn a little about what each other have up to and have been thinking about, with the code as a talking point.<br/>
 

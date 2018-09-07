@@ -4,8 +4,7 @@ published: true
 title: 'Welcome to the team: Lawrence Richards'
 tags:
   - Culture
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ce006e120a7adb80eaf52aad6dc30713.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ce006e120a7adb80eaf52aad6dc30713.PNG"
 authors:
   - Lawrence Richards
 ---

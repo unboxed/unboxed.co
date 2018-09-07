@@ -7,8 +7,7 @@ authors:
   - Chris Holmes
 tags:
   - Rails
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/705f3c48d671d81840ea1298074e0e20.JPEG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/705f3c48d671d81840ea1298074e0e20.JPEG"
 ---
 # RubyConf Portugal 2016
 

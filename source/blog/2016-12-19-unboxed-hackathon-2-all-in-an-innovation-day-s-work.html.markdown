@@ -8,8 +8,7 @@ authors:
 tags:
   - Culture
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3b7ca9360e27035a95c958d5943f8cad.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3b7ca9360e27035a95c958d5943f8cad.JPG"
 ---
 Following the success of our last [Hackathon day](https://unboxed.co/blog/unboxed-hackathon-what-a-difference-a-day-makes), we decided to make this a recurring event, spending more innovation days together as a team.<br/>
 

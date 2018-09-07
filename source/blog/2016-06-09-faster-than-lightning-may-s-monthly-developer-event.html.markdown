@@ -7,8 +7,7 @@ authors:
 tags:
   - Innovation
   - Rails
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8dc2439743c18f62a9b06eef6c40f9c8.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8dc2439743c18f62a9b06eef6c40f9c8.JPG"
 ---
 Each month, we host a Dev Event which is an opportunity for our developers to get together, share ideas, or just catch up with each other.<br/>
 <br/>
@@ -24,7 +23,7 @@ This May we hosted <i>“Faster than Lightning”</i> code talks. For this event
 Here's a selection of the submissions from May:<br/>
 
 ## [Murray S](https://unboxed.co/people/#murray-steele)
- 
+
 I chose this code as it reminded me of similar code that my university lecturer once showed me. This code uses the same features: an array of pointers to functions and use some input value as the index in the array of which function to call on some other input values. The use of language features and the economy of effort is prime proof that you can write code that is aesthetically pleasing, as well as functional.<br/>
 
 ```
@@ -52,7 +51,7 @@ I chose this code as it reminded me of similar code that my university lecturer 
 
     printf("0: Add, 1: Subtract, 2: Multiply, 3: Divide\n");
      do {
-       printf("Enter number of operation: "); 
+       printf("Enter number of operation: ");
        scanf("%d", &op);
      } while(op<0 || op>3);
 
@@ -66,7 +65,7 @@ I chose this code as it reminded me of similar code that my university lecturer 
 
 <br/>
 ## Cale T
- 
+
 Over the last week I’ve been working on [SH:24](https://unboxed.co/product-stories/sh24), writing lots of ‘yes’/’no’ questions for a new order form. Writing out the same code repeatedly was inefficient, so I extracted the code out and put it into a partial. This has allowed the code to become easily reusable. Any experienced Rails developer will have done this a hundred times before but this was my first experience of the awesome clarity and time-saving capabilities of Rails’ partials.<br/>
 
 
@@ -80,7 +79,7 @@ As part of a project for [Buckinghamshire County Council](https://unboxed.co/pro
 
 <br/>
 ## [Neil van B](https://unboxed.co/people/#neil-van-beinum)
- 
+
 I've recently been adopting a style of writing specs that makes greater use of `let` and `context` blocks. This leaves the `it` blocks often containing just an expectation or two. I've been finding that writing descriptions for the contexts helps me think about what I want to test and that the overall readability is increased. However, larger spec files seem to require more attention with this approach - it often requires you to scan up and down the file to find  where the spec is being set up. The first example below has all of the setup included within the `it` block while the second snippet makes use of `context` and `before` blocks to keep the setup separate. It also uses `described_class` to refer to the class being tested. Which do you prefer?<br/>
 
 ```

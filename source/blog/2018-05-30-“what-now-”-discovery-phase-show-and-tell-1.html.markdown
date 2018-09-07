@@ -7,7 +7,7 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: ' https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f921072f28ea92ba80068fe6f50e8e07.png'
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f921072f28ea92ba80068fe6f50e8e07.png"
 date: '2018-05-30T17:32:57+01:00'
 published: true
 ---
@@ -48,7 +48,7 @@ Identifying, arranging and confirming a wide range of different people to interv
 
 ## 3. Carrying out user interviews
 
-So far, 10 user interviews have been conducted (both face-to-face and over the phone) with people, GPs, Oncologists, Consultants and the Compassion in Dying front-line support team. 
+So far, 10 user interviews have been conducted (both face-to-face and over the phone) with people, GPs, Oncologists, Consultants and the Compassion in Dying front-line support team.
 
 From each of these individuals interviews, key insights have began emerging including:<br/>
 <br/>

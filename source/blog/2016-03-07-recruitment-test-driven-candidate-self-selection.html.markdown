@@ -4,8 +4,7 @@ authors:
 tags:
   - Culture
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dc1aa64956acb06136659dc9694cef0c.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dc1aa64956acb06136659dc9694cef0c.PNG"
 date: '2016-03-07 10:47 +0000'
 published: true
 title: 'Recruitment: Test Driven Candidate Self Selection'
@@ -15,7 +14,7 @@ title: 'Recruitment: Test Driven Candidate Self Selection'
 I have been to a number of university careers fairs - as both a job seeker and an employer - and know how awkward those conversations with somebody that you do not know, who almost definitely intimidates you, can be. As a jobseeker you hope that you are good enough to do the job and, as an employer, you hope that your company is attractive enough to appeal to the “real” talent. Such fairs are in high demand and there are usually hordes of people fighting it out for the same thing.<br/>
 
 Jobseekers may be sacrifice an afternoon of gaming, surfing the net or drinking and sometimes there are actually tests that they should be studying for. The opportunity cost of a day off a client site plus the registration fee for the event plus a potential prizeless venture all add up for the employer. And even worse is if the event is attended by the wrong crowd and you find yourself explaining what you do to people who have no idea that what you do even existed, let alone how to do it themselves. Experiences like this in the past have led to much rage talk in the pub.<br/>
- 
+
 And I am old now, I know. I am terrified of talking to kids, who know more about tech than I do, about coming to work at our tech company. These are the kids who will define the way that I will engage with my grandchildren; they have grown up with touchscreen technology and Skype, which my parents still struggle to use.<br/>
 <br/>
 

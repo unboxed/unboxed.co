@@ -6,7 +6,7 @@ authors:
 tags:
   - Culture
   - Innovation
-main_image: 'https://unboxed.co/assets/images/blog/hackathon.jpg'
+main_image: "https://unboxed.co/assets/images/blog/hackathon.jpg"
 published: true
 ---
 

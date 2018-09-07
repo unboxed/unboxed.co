@@ -9,8 +9,7 @@ tags:
   - Design
   - Lean
   - Rails
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/158f889915256d09449807ba0afe4959.png
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/158f889915256d09449807ba0afe4959.png"
 ---
 Prototyping is a core activity when designing a new digital product or service. It’s also a key part of the [GDS Service Standard Alpha phase](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) for creating new digital services within central government.<br/>
 
@@ -69,7 +68,7 @@ Whilst code is a high-fidelity method of prototyping, and it may not be as polis
 - Testing on different devices — how might this work on mobile, desktop and tablet?
 - Risk reduction — can we learn as much as we need to about the risk involved in building this, before committing time and resource to building it?
 
-For this type of prototyping, our framework of choice is [Ruby on Rails](http://rubyonrails.org/):<br/> 
+For this type of prototyping, our framework of choice is [Ruby on Rails](http://rubyonrails.org/):<br/>
 
 - It allows to develop features quickly — already-existing code from elsewhere can be reused
 - It’s cost-effective  — there are no licenses and the code is open source

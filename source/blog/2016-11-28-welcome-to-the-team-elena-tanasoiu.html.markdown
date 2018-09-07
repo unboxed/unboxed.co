@@ -4,8 +4,7 @@ published: true
 title: 'Welcome to the team: Elena Tanasoiu'
 tags:
   - Rails
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/34b392426f6199f6b8990897d0186a2f.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/34b392426f6199f6b8990897d0186a2f.PNG"
 authors:
   - Elena Tanasoiu
 ---

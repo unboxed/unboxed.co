@@ -8,8 +8,7 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5c2a6e20d511447d81debd41703e6655.png
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5c2a6e20d511447d81debd41703e6655.png"
 date: '2018-05-23T17:54:33+01:00'
 published: true
 ---
@@ -25,7 +24,7 @@ A number of organisations are recognising that those diagnosed with a life-chang
 <br/>
 # Knowing the right questions to ask
 
-In order to plan efficiently for a life-changing diagnosis, people need to be empowered to make informed decisions about their options, their situation, their treatment and their care. 
+In order to plan efficiently for a life-changing diagnosis, people need to be empowered to make informed decisions about their options, their situation, their treatment and their care.
 
 When faced with a life-changing diagnosis in a doctor’s office or a hospital consultation room, research has revealed that people are often not given information about their prognosis or treatment options in ways they can understand. When they want more information, they don’t always know the right questions to ask. Opportunities for conversations about their care and treatment are then missed.
 
@@ -36,7 +35,7 @@ When faced with a life-changing diagnosis in a doctor’s office or a hospital c
 <br/>
 # “What now?”
 
-[Compassion in Dying](https://compassionindying.org.uk/) is charitable organisation, working to provide high-quality information and support to people across the country who want to talk openly about their wishes for end of life. 
+[Compassion in Dying](https://compassionindying.org.uk/) is charitable organisation, working to provide high-quality information and support to people across the country who want to talk openly about their wishes for end of life.
 
 In November 2017, they released [“What now?”](https://compassionindying.org.uk/library/what-now-questions-terminal-diagnosis/) — a booklet and PDF designed with the input of 600+ survey results to help with questions to ask and information to look for after a terminal diagnosis.
 
@@ -65,7 +64,7 @@ We’re working with the team at Compassion in Dying to progress the “question
 Following our project alignment to set the vision, a wide range of user groups and key stakeholders have been identified, including:
 
 * Those receiving a life-changing diagnosis;
-* Carers; and 
+* Carers; and
 * Doctors and other healthcare practitioners (HCPs)
 
 ![Our user personas](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c141c72533e4f460202132b20f9db4c3.png)

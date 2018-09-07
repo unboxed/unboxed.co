@@ -4,7 +4,7 @@ authors:
 tags:
   - Agile
   - Design
-main_image: ' https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0e851e96ae88cbc1927fbe4791edb639.PNG'
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0e851e96ae88cbc1927fbe4791edb639.PNG"
 date: '2016-04-14 11:43 +0100'
 published: true
 title: >-

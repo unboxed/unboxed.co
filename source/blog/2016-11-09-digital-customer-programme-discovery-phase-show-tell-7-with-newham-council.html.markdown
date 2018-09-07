@@ -6,8 +6,7 @@ tags:
   - Agile
   - Innovation
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/76093730f584b1b604957f190bbb8be2.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/76093730f584b1b604957f190bbb8be2.JPG"
 authors:
   - Graeme McCubbin
 ---
@@ -49,7 +48,7 @@ Local Offer is a platform to provide information to families on what local suppo
 The team addressed the booking flow of a homelessness service prototype by:<br/>
 
 - Meeting with service stakeholders at a homelessness triage centre for further testing
-- Looking at other similar systems across a range of other councils 
+- Looking at other similar systems across a range of other councils
 - Comparing what types of information might be necessary within this system when it comes to resident needs and requirements
 
 From iterating on the prototypes shared in the Show & Tell for Sprint Six, progress includes:<br/>

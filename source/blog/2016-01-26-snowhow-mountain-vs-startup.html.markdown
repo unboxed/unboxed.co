@@ -4,8 +4,7 @@ authors:
 tags:
   - Culture
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a9a2dad901d6e46ab31bcd7a05bb743a.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a9a2dad901d6e46ab31bcd7a05bb743a.JPG"
 date: '2016-01-26 15:24 +0000'
 published: true
 title: 'SnowHow: Mountain vs. Startup'

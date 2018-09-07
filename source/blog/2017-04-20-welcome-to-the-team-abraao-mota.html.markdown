@@ -6,7 +6,7 @@ authors:
   - Abraao Mota
 tags:
   - Culture
-main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/067cb96944571219474366e9cb19857f.png'
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/067cb96944571219474366e9cb19857f.png"
 ---
 As a new addition to the Unboxed team in London, I’m Abraao...<br/>
 

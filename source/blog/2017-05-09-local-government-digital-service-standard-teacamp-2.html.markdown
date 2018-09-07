@@ -7,7 +7,7 @@ authors:
 tags:
   - Agile
   - Innovation
-main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/93eda5414e11e3340324ccf4525172e3.jpg'
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/93eda5414e11e3340324ccf4525172e3.jpg"
 ---
 <i>As a network for digital practitioners in local government, [LocalGov Digital](http://localgovdigital.info/) is on a mission to raise standards in web provision and the use of digital by councils across the country.<br/>
 

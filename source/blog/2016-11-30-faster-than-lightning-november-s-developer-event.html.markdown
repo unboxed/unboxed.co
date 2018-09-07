@@ -8,8 +8,7 @@ authors:
 tags:
   - Innovation
   - Rails
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6fa5c17f0b27dab39926378d58c6d3d9.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6fa5c17f0b27dab39926378d58c6d3d9.PNG"
 has_syntax: true
 ---
 Interesting code snippets, insightful discussion, story sharing and good company - it’s November’s ‘Faster than Lightning’ developer talks at Unboxed.<br/>
@@ -73,7 +72,7 @@ proceed = \
     false
   end
 ```
-  
+
 <br/>
 ## [Crystal](https://unboxed.co/people/#chris-carter)
 This is a piece of code that I wrote in order to interact with a command line utility called `ogr2ogr`. It’s used for converting map data from different formats, and in my use case I was converting it from MapInto TAB format, and importing it directly into a PostgreSQL table. The first half of the code snippet deals with pulling the credentials, host and database name from Rails configuration, and then puts it into `key=value` form for passing to the utility. The latter half of the code snippet appends arguments to the utility onto an array, adding values for several arguments an options. The options themselves aren’t important, but the call to `Kernel.system` is. Calling it with `args.join(" ")` created a String, and this ran the command line utility without an issue, however calling it with `*args` does not. This has something to do with whether the system call creates a sub-shell or not, and resulted in an issue with quoting which I hadn’t expected. Good to know!<br/>

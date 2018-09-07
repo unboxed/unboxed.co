@@ -8,8 +8,7 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3834e8daaaf77591278430fb28d542f9.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3834e8daaaf77591278430fb28d542f9.JPG"
 ---
 Here we are - Show & Tell #12 with Digital Team, and the first of 2017. With a room full of refreshed attendees from the festive break, it’s time to see what’s been happening across the lastest sprint of the Digital Customer Programme with [Newham Council](https://www.newham.gov.uk/Pages/index.aspx).<br/>
 

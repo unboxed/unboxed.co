@@ -7,8 +7,7 @@ authors:
 tags:
   - Culture
   - Design
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b561762105bd7cac6257ac3b2e5f90b0.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b561762105bd7cac6257ac3b2e5f90b0.JPG"
 ---
 Hello, I’m Boris. New to the team, I’ve recently joined Unboxed as a Designer.<br/>
 

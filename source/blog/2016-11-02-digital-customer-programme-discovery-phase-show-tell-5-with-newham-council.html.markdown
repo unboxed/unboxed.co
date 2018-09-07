@@ -8,8 +8,7 @@ tags:
   - Agile
   - Innovation
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fb06d321f41924caf9a4a111739c477b.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fb06d321f41924caf9a4a111739c477b.PNG"
 ---
 Another sprint down, and the next weekly Show & Tell with the Digital Team in our [10-week Digital Customer Programme Discovery Phase with Newham Council](https://unboxed.co/news/unboxed-is-awarded-digital-customer-programme-discovery-phase-contract-with-newham-council/). I headed to meet the team on Wednesday morning to see what they have been up to across Sprint Five (along with a growing crowd of eager session attendees).<br/>
 

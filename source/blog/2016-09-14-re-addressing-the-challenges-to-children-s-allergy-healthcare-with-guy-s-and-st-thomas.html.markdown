@@ -10,8 +10,7 @@ tags:
   - Agile
   - Design
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2beeeef104c9e849390eb58f5876abe6.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2beeeef104c9e849390eb58f5876abe6.JPG"
 ---
 I spent Monday afternoon visiting the [Health Foundry](http://www.healthfoundry.org) healthcare startup space to expand my horizons on what steps are being taken within service transformation in the NHS.<br/>
 
@@ -58,7 +57,7 @@ A series of subject experts were lined up to contribute within these early stage
 
 <br/>
 # HMW: How Might We
-Throughout the user interviews and ‘Ask the experts’ sessions, the team had constantly been taking notes on post-its when hearing something of interest, then converting these into questions by adding “How Might We” to the beginning of everything written down.  
+Throughout the user interviews and ‘Ask the experts’ sessions, the team had constantly been taking notes on post-its when hearing something of interest, then converting these into questions by adding “How Might We” to the beginning of everything written down.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">The team sharing their suggestions to &#39;How Might We&#39;. <a href="https://twitter.com/GSTTCharity">@GSTTCharity</a> <a href="https://twitter.com/GSTTnhs">@GSTTnhs</a> <a href="https://twitter.com/hashtag/GSTTSprint?src=hash">#GSTTSprint</a> <a href="https://t.co/OMEHLidYBM">pic.twitter.com/OMEHLidYBM</a></p>&mdash; unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/775354199488008192">September 12, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

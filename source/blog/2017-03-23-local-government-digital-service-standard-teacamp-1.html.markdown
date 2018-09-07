@@ -8,8 +8,7 @@ tags:
   - Agile
   - Innovation
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dd015ab1a15dbabfec71fdb68504ba6c.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dd015ab1a15dbabfec71fdb68504ba6c.PNG"
 ---
 <br/>
 ![LGDSS TeaCamp](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/33dbda27ed0200d7be08b7e75370eab2.PNG)
