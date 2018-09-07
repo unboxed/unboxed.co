@@ -20,18 +20,18 @@ tags:
 </ul>
 </div>
 <p>&nbsp;</p>
-<link href="http://gist.github.com/stylesheets/gist/embed.css" rel="stylesheet" />
+<link href="https://gist.github.com/stylesheets/gist/embed.css" rel="stylesheet" />
 <h2>FireUnit</h2>
 <p><a href="http://fireunit.org/" target="_blank" title="Fireunit">http://fireunit.org/</a></p>
 <p>FireUnit is a Firefox / Firebug extension written by John Resig and Jan Odvarko. After you install the extension, all you have to do is to write the test and run it in the HTML file.</p>
 <p><span>Short example of syntax follow:</span></p>
 <p>
 </p>
-<script src="http://gist.github.com/519104.js?file=gistfile1.js" type="text/javascript"></script>
+<script src="https://gist.github.com/519104.js?file=gistfile1.js" type="text/javascript"></script>
 <p>You can also simulate browser events which is great.</p>
 <p>
 </p>
-<script src="http://gist.github.com/519129.js?file=gistfile1.js" type="text/javascript"></script><p>On the other hand FireUnit doesn&#39;t have proper documentation for the API. So if you would like to know what you can do with FireUnit you have to look at the code directly. Also the last commit at <a href="http://github.com/jeresig/fireunit" target="_blank" title="FireUnit's github page - http://github.com/jeresig/fireunit">FireUnit&#39;s github page</a> is from October 2009 so there is no current developer community.</p>
+<script src="https://gist.github.com/519129.js?file=gistfile1.js" type="text/javascript"></script><p>On the other hand FireUnit doesn&#39;t have proper documentation for the API. So if you would like to know what you can do with FireUnit you have to look at the code directly. Also the last commit at <a href="http://github.com/jeresig/fireunit" target="_blank" title="FireUnit's github page - http://github.com/jeresig/fireunit">FireUnit&#39;s github page</a> is from October 2009 so there is no current developer community.</p>
 <h3>Summary:</h3>
 <h4>Pros:</h4>
 <ul>
@@ -49,8 +49,8 @@ tags:
 <h2>QUnit</h2>
 <p><a href="http://docs.jquery.com/QUnit" target="_blank" title="QUnit">http://docs.jquery.com/QUnit</a></p>
 <p>QUnit is part of the jQuery project, but it can be used without jQuery. QUnit is maintained by J&ouml;rn Zaefferer and John Resig. After download quint.js and qunit.css from <a href="http://docs.jquery.com/QUnit" target="_blank" title="Qunit source page">http://docs.jquery.com/QUnit</a> is very easy to start using it. Just link the QUnit js and css files at your HTML test and you can start. The documentation is written in jQuery style, so you can see examples too. If you are looking at the syntax, you will notice that the style is very similar to FireUnit (you can guess why).</p>
-<script src="http://gist.github.com/519159.js?file=gistfile1.js" type="text/javascript"></script><p>Also it allows grouping tests into logical parts, you can use test blocks and module &quot;scoping&quot;, similar to description at Rspec.</p>
-<script src="http://gist.github.com/519177.js?file=gistfile1.js" type="text/javascript"></script>
+<script src="https://gist.github.com/519159.js?file=gistfile1.js" type="text/javascript"></script><p>Also it allows grouping tests into logical parts, you can use test blocks and module &quot;scoping&quot;, similar to description at Rspec.</p>
+<script src="https://gist.github.com/519177.js?file=gistfile1.js" type="text/javascript"></script>
 <h3>Summary Qunit:</h3>
 <h4>Pros:</h4>
 <ul>
@@ -66,7 +66,7 @@ tags:
 <h2>QUnit + SpecIt</h2>
 <p><a href="http://github.com/joshuaclayton/specit" target="_blank" title="QUnit + SpecIt">http://github.com/joshuaclayton/specit</a></p>
 <p>QUnit looks good and the models are fine but what if I would like to use Rspec notation? No problem because there is wrapper called SpecIt written by Joshua Clayton and it looks exactly like Rspec as you can see below. To install SpecIt follow the installation of QUnit. After that, download spec.js from <a href="http://github.com/joshuaclayton/specit" title="Github page for SpecIt">http://github.com/joshuaclayton/specit</a> and include the file into your test.</p>
-<script src="http://gist.github.com/519199.js?file=gistfile1.js" type="text/javascript"></script>
+<script src="https://gist.github.com/519199.js?file=gistfile1.js" type="text/javascript"></script>
 <p>It looks almost perfect but it&#39;s still only wrapper and it&#39;s using jQuery. That means that you have to use 4 files to run it. Also some of the matchers are using object type specification for comparing. I just don&#39;t understand why I need that. I just want to compare two values and I don&#39;t want to specify their type.</p>
 <h3>Summary QUnit + SpecIt:</h3>
 <h4>Pros:</h4>
@@ -83,7 +83,7 @@ tags:
 <h2>JSSpec</h2>
 <p><a href="http://jania.pe.kr/aw/moin.cgi/JSSpec" target="_blank" title="JSSpec - JavaScript BehaviorDrivenDevelopment Framework">http://jania.pe.kr/aw/moin.cgi/JSSpec</a></p>
 <p>Alan Kang&#39;s JSSpec looks like JS clone of Rspec except that it didn&#39;t allow nesting. To install, download zip file from <a href="http://code.google.com/p/jsspec/downloads/list" target="_blank" title="JSSpec source page">http://code.google.com/p/jsspec/downloads/list</a> and unpack jsspec.js, diff_match_patch.js and css file to proper directory. Then just link the files in your HTML and you can start writing tests.</p>
-<script src="http://gist.github.com/519203.js?file=gistfile1.txt" type="text/javascript"></script>
+<script src="https://gist.github.com/519203.js?file=gistfile1.txt" type="text/javascript"></script>
 <p>JSSpec has the handy feature of allowing the re-running only a specific test. Another useful part of JSSpec are predefined constants for rendering engine (JSSpec.Browser.Webkit), platform (JSSpec.Browser.Mac) or browser (JSSpec.Browser.IE6).</p>
 <h3>Summary JSSpec:</h3>
 <h4>Pros:</h4>
@@ -113,7 +113,7 @@ tags:
   jspec run --browser Safari
 </pre>
 <p>The test code is located at spec/spec.js or at unit/spec.js - depends on the version you have installed. JSPEC syntax is very clean and Rspec like.</p>
-<script src="http://gist.github.com/519207.js?file=gistfile1.js" type="text/javascript"></script><p>You can nested &quot;describe&quot; blocks, use before block just beautiful.</p>
+<script src="https://gist.github.com/519207.js?file=gistfile1.js" type="text/javascript"></script><p>You can nested &quot;describe&quot; blocks, use before block just beautiful.</p>
 <p>There are lot of matchers from JSpec and jQuery. JSpec also allows you to stub methods, mock the XHR object, use Fixtures or JSON Fixtures. You also can add your own matchers. JSpec is the most advanced testing framework that I ever seen before. On the JSpec website there are lots of examples and some screencasts so you can learn more if you are interested.</p>
 <h3>Summary JSpec:</h3>
 <h4>Pros:</h4>
@@ -133,7 +133,7 @@ tags:
 <p><a href="http://developer.yahoo.com/yui/3/test/" target="_blank" title="YUI 3: Test - testing framework for browser-based JavaScript solutions">http://developer.yahoo.com/yui/3/test/</a></p>
 
 <p>This testing framework is based on YUI 3 library from Yahoo!. First thing that little bit surprised me was that after you include script definition with YUI API URL, the YUI instance will automatically download the Test&#39;s source files and any missing dependencies for your test. You can download the source by yourself but you have to satisfied possible dependencies. For this reason YUI provide &quot;YUI dependency configurator&quot;. Lets assume that you include the YUI API URL, now there is another surprise. You have to create YUI instance. Then everything that you are doing, is inside that instance. So to write a test you need a Test Case instance and inside this instance you can finally create tests. After you are done you have to add the Test Case into Runner object and then call the run method of the Run object. Then just specified how you would like to view the result you can select from options like: console, XML, JUnitXML, JSON, TAP (Test Anything Protocol - http://testanything.org/wiki/index.php/Main_Page). in the following example, I selected output to the console.</p>
-<script src="http://gist.github.com/519209.js?file=gistfile1.txt" type="text/javascript"></script>
+<script src="https://gist.github.com/519209.js?file=gistfile1.txt" type="text/javascript"></script>
 <p>As you can see it&#39;s not really nice. In spite of complicated configuration YUI provide lot of handy features like mocking, errors handling, asynchronous tests, DOM event simulation and various types of handlers.</p>
 <h3>Summary YUI 3:</h3>
 <h4>Pros:</h4>
@@ -151,8 +151,8 @@ tags:
 <h2>JsUnitTest</h2>
 <p><a href="http://jsunittest.com/" target="_blank" title="JsUnitTest - JavaScript Unit Testing framework">http://jsunittest.com/</a></p>
 <p>This JS framework by Dr Nic Williams is based on unittest.js from prototypejs but it&#39;s not dependent on that framework, the whole JsUnitTest is one JS and one css file. You can download &quot;getting started package&quot; which includes the library files and example HTML with basic test template.</p>
-<script src="http://gist.github.com/519212.js?file=gistfile1.js" type="text/javascript"></script><p>I was unable to find documentation so I looked at the <a href="http://github.com/drnic/jsunittest/tree/master/test" target="_blank" title="Github page">github page</a>) where there are lot of examples. As you can see below JsUnitTest using standard assert syntax for tests.</p>
-<script src="http://gist.github.com/519214.js?file=gistfile1.js" type="text/javascript"></script>
+<script src="https://gist.github.com/519212.js?file=gistfile1.js" type="text/javascript"></script><p>I was unable to find documentation so I looked at the <a href="http://github.com/drnic/jsunittest/tree/master/test" target="_blank" title="Github page">github page</a>) where there are lot of examples. As you can see below JsUnitTest using standard assert syntax for tests.</p>
+<script src="https://gist.github.com/519214.js?file=gistfile1.js" type="text/javascript"></script>
 <p>JsUnitTest contains all the assert matchers that you would expect and it provide lot of examples how to use them.</p>
 <h3>Summary JsUnitTest:</h3>
 <h4>Pros:</h4>
@@ -174,7 +174,7 @@ tags:
 <h3>Standalone version</h3>
 <p>After unpacking files, open SpecRunner.html in your browser and you should see this screen:</p>
 <p>Example test can be found in spec/SpecPlayer.js using customer matcher that you can create in spec/SpecHelper.js</p>
-<p><p>Test template:</p> <script src="http://gist.github.com/520783.js?file=gistfile1.js" type="text/javascript"></script><p>Example of custom matcher:</p> <script src="http://gist.github.com/520784.js?file=gistfile1.js" type="text/javascript"></script></p>
+<p><p>Test template:</p> <script src="https://gist.github.com/520783.js?file=gistfile1.js" type="text/javascript"></script><p>Example of custom matcher:</p> <script src="https://gist.github.com/520784.js?file=gistfile1.js" type="text/javascript"></script></p>
 <h3>Gem version</h3>
 <p>After installation of Gem:</p>
 <pre>
@@ -202,9 +202,9 @@ tags:
 <h2>Screw.Unit</h2>
 <p><a href="http://github.com/nkallen/screw-unit" title="Behavior-Driven Testing Framework for Javascrip">http://github.com/nkallen/screw-unit</a></p>
 <p>Screw.Unit written by Nick Kallen and it&#39;s used by Blue Ridge Rails plugin. Screw.Unit is dependent on jQuery. The test style of Screw.Unit is to use nested describes aka Rspec.</p>
-<script src="http://gist.github.com/521013.js?file=gistfile1.js" type="text/javascript"></script><p>You can write your own matchers and specify their error messages.</p>
-<script src="http://gist.github.com/521023.js?file=gistfile1.js" type="text/javascript"></script><p>Or you can extend functionality of Screw.Unit:</p>
-<script src="http://gist.github.com/521026.js?file=gistfile1.js" type="text/javascript"></script><p>After running the basic test template you will see the classic result table(but in nice pastel colors).</p>
+<script src="https://gist.github.com/521013.js?file=gistfile1.js" type="text/javascript"></script><p>You can write your own matchers and specify their error messages.</p>
+<script src="https://gist.github.com/521023.js?file=gistfile1.js" type="text/javascript"></script><p>Or you can extend functionality of Screw.Unit:</p>
+<script src="https://gist.github.com/521026.js?file=gistfile1.js" type="text/javascript"></script><p>After running the basic test template you will see the classic result table(but in nice pastel colors).</p>
 <p>What is little bit sad is, that you have to download whole source code, because there is no prepared package, also I was unable to find documentation. The biggest thing is that last commit is from 2008 so this means the jQuery is out of date.</p>
 <h3>Summary Screw.Unit:</h3>
 <h4>Pros:</h4>

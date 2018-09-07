@@ -8,7 +8,7 @@ tags:
   - Rails
 ---
 
-<p>The default IRB completion code that ships with Ruby does not work well when being invoked from the debugger prompt: <script src="http://gist.github.com/534983.js?file=debugger_blowup" type="text/javascript"></script><noscript>
+<p>The default IRB completion code that ships with Ruby does not work well when being invoked from the debugger prompt: <script src="https://gist.github.com/534983.js?file=debugger_blowup" type="text/javascript"></script><noscript>
 <pre><code>
 >: ruby /test_script.rb
 [-2, 7] in /test_script.rb
@@ -33,7 +33,7 @@ tags:
 </code></pre>
 </noscript></p>
 <p>The reason why this happens is that the completion code assumes that IRB.conf[:MAIN_CONTEXT] is defined, but this is not the case when debugger is used. All we are really after is a valid binding, so to patch we can just use self.binding when the irb context is not available. An example patch can be found on my <a href="http://github.com/tomtt/ruby/commit/03a0a6d905cc610349b3e7fdf0cf157abd475edb">fork of an unofficial ruby repository</a>.</p>
-<p>In these days where rvm allows multiple ruby versions to be used, patching is not a patch-once-and-forget issue any longer. Therefore I felt the need to write a utility for this. It checks if your current version of ruby is patched and if not, shows the filename that needs to be updated and the suggest code change. It is bundled as the <a href="">patch_irb_completion</a> gem: simply &quot;gem install patch_irb_completion;patch_irb_completion&quot;. But that gives the overhead of having to install a gem for every ruby version. So maybe an executable script is a better solution. Here is one: <script src="http://gist.github.com/535032.js?file=patch_irb_completion" type="text/javascript"></script><noscript>
+<p>In these days where rvm allows multiple ruby versions to be used, patching is not a patch-once-and-forget issue any longer. Therefore I felt the need to write a utility for this. It checks if your current version of ruby is patched and if not, shows the filename that needs to be updated and the suggest code change. It is bundled as the <a href="">patch_irb_completion</a> gem: simply &quot;gem install patch_irb_completion;patch_irb_completion&quot;. But that gives the overhead of having to install a gem for every ruby version. So maybe an executable script is a better solution. Here is one: <script src="https://gist.github.com/535032.js?file=patch_irb_completion" type="text/javascript"></script><noscript>
 <pre><code>
 #!/usr/bin/env ruby
 
@@ -91,7 +91,7 @@ end
 PatchIRBCompletion::Suggest.call
 </code></pre>
 </noscript></p>
-<p>Here is some example output: <script src="http://gist.github.com/535081.js?file=patch_irb_completion" type="text/javascript"></script><noscript>
+<p>Here is some example output: <script src="https://gist.github.com/535081.js?file=patch_irb_completion" type="text/javascript"></script><noscript>
 <pre><code>
 >: patch_irb_completion
 The file "/Users/tomtt/.rvm/rubies/ruby-1.9.2-rc2/lib/ruby/1.9.1/irb/completion.rb" has not been patched... I would suggest you replace:
