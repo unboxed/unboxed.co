@@ -29,7 +29,7 @@ http://devblog.avdi.org/2015/07/08/ruby-is-defined-by-terrible-tools/
 
 ## Pluto - [Tom S](/people#tom-sabin)
 
-[![Pluto](http://imgs.xkcd.com/comics/pluto.png)](http://xkcd.com/1551/)
+[![Pluto](https://imgs.xkcd.com/comics/pluto.png)](http://xkcd.com/1551/)
 
 xkcd has been performing some scientific analysis on the distant planet
 

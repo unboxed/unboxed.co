@@ -41,7 +41,7 @@ James Tatam, Digital Media Director at Channel 5, was first to share his experie
 
 Paul Westmore, Interim CIO of Plymouth University, delivered a content-rich presentation on the key issues across all outsourcing relationships:<br/>
 
- ![outsource5]( http://i1291.photobucket.com/albums/b548/grammccram/d1f628ab-d02c-4ff8-bdac-b5318df7ff68_zpsfb9999ea.jpg)
+![outsource5](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f120e2c6-0053-4a5f-9b57-2ac87e12818e.jpg)
 
 <i>"The Product Owner is the person who makes the decisions day-to-day and is the walking/talking requirements specification. This person needs the authority to make those decisions and the knowledge of the detail to make them well."</i><br/>
 

@@ -21,7 +21,7 @@ For example efficiency might suggest cutting down on travel between sites becaus
 <br/>
 
 <h2><b>Does the Product Owner need to be from the client company?</b></h2>
-![outsource2](http://i1291.photobucket.com/albums/b548/grammccram/ScreenShot2014-10-31at165655_zpsd47eb8fd.png)
+![outsource2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f615a7dc-7775-4129-b41e-315cda0a7552.png)
 
 <i>"In a word, yes.  If it is worth building with an outsourcer, it is worth building well and if it’s worth building well you want constant control of what is being built and you want someone employed by you, that owns the solution."</i><br/>
 <br/>
