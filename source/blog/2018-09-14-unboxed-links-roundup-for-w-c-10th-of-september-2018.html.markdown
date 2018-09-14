@@ -40,3 +40,9 @@ Some good advice to keep in mind about how to avoid muscle loss, especially for 
 ## Migrating PostgreSQL standalone instance to Aurora (Amazon RDS) - [Elena T](/people#elena-tanasoiu)
 
 A nice migration path described in detail for migrating your postgres instance. 
+
+## Track of the Week - [Elena T](/people#elena-tanasoiu)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8QzHxHk_WoY" frameborder="0" allowfullscreen></iframe>
+
+[Boris Kovac with LA CAMPANELLA ORCHESTRA - An Intro Trip](https://www.youtube.com/watch?v=8QzHxHk_WoY)
