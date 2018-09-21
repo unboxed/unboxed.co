@@ -57,10 +57,10 @@ Continuing our semi-regular feature: [wireframe.cc](http://wireframe.cc)
 Typically when using a program language we don't about the details of the underlying implementation.  But what about those cases when we do care? The newly published book "__Ruby Under a Microscope__" should sate those needs. Available in _PDF_, _EPUB_ and _MOBI_ formats, you can find details at [http://patshaughnessy.net/ruby-under-a-microscope](http://patshaughnessy.net/ruby-under-a-microscope)
 
 ## video: Alex Sexton on Client side i18n (Carl)
-<iframe width="560" height="315" src="http://www.youtube.com/embed/uXS_-JRsB8M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXS_-JRsB8M" frameborder="0" allowfullscreen></iframe>
 
 ## video: JavaScript is the new Punk Rock
-<iframe width="560" height="315" src="http://www.youtube.com/embed/PN8Eg1K9xjE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PN8Eg1K9xjE" frameborder="0" allowfullscreen></iframe>
 
 ## editor plugin: Emmet
 Previously known as the web development toolkit _Zen Coding_, [Emmet](http://docs.emmet.io/) has been released with improved parsing and range of snippets. Basically, it's a way to type CSS-like expressions in your editor and produce expanded markup. It is compatible with most major editors.

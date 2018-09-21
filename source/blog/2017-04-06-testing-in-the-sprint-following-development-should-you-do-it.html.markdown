@@ -6,7 +6,7 @@ authors:
   - Matt Turrell
 tags:
   - Agile
-main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/294a2a76e8613530a9947c8e862a276b.png'
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/294a2a76e8613530a9947c8e862a276b.png"
 ---
 I was with a developer friend recently who asked to pick my mind on an agile challenge he’s been experiencing at work.<br/>
 

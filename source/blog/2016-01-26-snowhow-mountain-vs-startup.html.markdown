@@ -4,17 +4,16 @@ authors:
 tags:
   - Culture
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a9a2dad901d6e46ab31bcd7a05bb743a.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a9a2dad901d6e46ab31bcd7a05bb743a.JPG"
 date: '2016-01-26 15:24 +0000'
 published: true
 title: 'SnowHow: Mountain vs. Startup'
 ---
 
 At Unboxed, we like to work with, and mentor, entrepreneurs and startups. We love ideas. Growing ideas and exploring new ones – not only our own but those of others. That’s why we’re spending this year working with [50th Generation](http://www.50thgeneration.org) – a purpose-led startup incubator for startups who are striving to grow for profit **and** purpose.
- 
+
 Since October, we’ve been mentoring and working with each of the startups in the incubator, including:
- 
+
 - [Young Happy Minds](http://www.younghappyminds.com)
 - QPIC
 - Learnscape
@@ -25,7 +24,7 @@ Since October, we’ve been mentoring and working with each of the startups in t
 - LnD Marketplace
 
 Whether it’s one-to-one mentoring sessions, group learning, phone calls, Google Hangouts or Slack-ing – it’s a multi-channel way of working together. One of the core activities of this programme is where we spend one day per month and get together with everybody in the incubator, face-to-face, in one location to focus on key topics for business growth. We call these GenCamps (Generation Camps).
- 
+
 GenCamp4 took place last week, and it was a little bit more special than our usual London-based GenCamps… Bonjour, French Alps. 17 entrepreneurs – a blend of Unboxed, 50th Generation and 50th Generation mentors – all boarded flights across London airports and headed to the French Alps for a two-day extravaganza.<br/>
 <br/>
 
@@ -38,16 +37,16 @@ Allow me to introduce SnowHow:<br/>
 
 # Why the French Alps?
 Building a business is very much like climbing a mountain. So why not climb a mountain? Experience it in the literal way. Getting away from the normality of day-to-day life and looking at things from a different perspective was the aim. What does normal life look like when you’re 1,800m above sea level and out of your safe zone? How does your biggest worry in daily life measure up to not knowing if a rogue mountain wolf could devour you? It’s a very good way of untangling a messy brain and putting things into perspective.
- 
+
 There was a lot of talk in metaphors, but all related to each of our journeys:<br/>
- 
+
 - How do you know if you’re climbing the wrong mountain?
 - Climbing the mountain yourself is much more rewarding, and a much bigger achievement, than being helicoptered to the top by someone else
 - How do you know when you’ve reached the peak?
 - There’s no option to give up – you **have** to keep going
- 
+
 Mountain or business – these are all very relevant (and quite powerful) questions and statements.<br/>
- 
+
 We started at the bottom of the mountain as a startup begins its journey into the world of business. The six-and-a-half hour journey up certainly was a challenge, but so is the journey from startup to success. As Miley Cyrus once said – “It’s the cliiiiiiimb”:<br/>
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/NG2zyeVRcbs" frameborder="0" allowfullscreen></iframe>
@@ -60,11 +59,11 @@ We started at the bottom of the mountain as a startup begins its journey into th
 **You can’t do it alone**<br/>
 “Going it alone” doesn’t necessarily mean going it alone. You need your friends. Whether it’s to laugh with, motivate you, support you, tell you you’re ridiculous, or just to bounce your latest wild idea off.<br/>
 
- 
+
 **There’s always the unknown**<br/>
 Even when going into something with your eyes wide open, there will always be an element of the unknown. You can’t predict or know everything that is going to happen.<br/>
 
- 
+
 **“Are we there yet?”**<br/>
 This is a question you will probably never be able to answer, no matter how many times you ask it...<br/>
 <br/>
@@ -110,8 +109,7 @@ Just amazing.<br/>
 
 ![Happy Claire](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0312c6fdb190bc5552de19b0a79c72af.JPG)
 
-![Clouds below](
-https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0db8338d27bdb3c4014d6f2c3fa6d3b9.JPG)
+![Clouds below](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0db8338d27bdb3c4014d6f2c3fa6d3b9.JPG)
 
 Are they clouds? Is it snow? Turns out, both. The clouds of the town beneath and the snow under us. Thankfully, we didn’t walk onto the clouds.
 
@@ -123,16 +121,16 @@ I’m part of a great team.<br/>
 
 
 # SnowHow in numbers
- 
+
 **1**<br/>
 Big mountain<br/>
- 
+
 **2**<br/>
 Days<br/>
- 
+
 **17**<br/>
 Entrepreneurs<br/>
- 
+
 **13,492**<br/>
 Cereal bars consumed (*approximate)<br/>
 <br/>

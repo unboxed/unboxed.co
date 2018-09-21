@@ -6,7 +6,7 @@ authors:
   - Matt Turrell
 tags:
   - Agile
-main_image: 'https://s3-eu-west-1.amazonaws.com/unboxed-web-images/d1745304904711bfd1b64bba706593fd.jpg'
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/d1745304904711bfd1b64bba706593fd.jpg"
 ---
 There’s no doubt about it, sprint planning sessions can sometimes get a bit… tedious.<br/>
 

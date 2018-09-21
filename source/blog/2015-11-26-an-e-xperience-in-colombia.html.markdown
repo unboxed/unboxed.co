@@ -1,16 +1,13 @@
 ---
 authors:
   - Martyn Evans
-tags: 
+tags:
   - Innovation
-main_image: "http://i963.photobucket.com/albums/ae115/Ubxd/martyn-speaking-colombia_zpscahcr9us.jpg"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/62798c0797469b3e9efbaf3d8cd8bc30.jpg"
 date: "2015-11-26 15:49 +0000"
 published: true
 title: "An E-xperience in Colombia"
 ---
-
-
-
 
 ##Public Digital Innovation
 I received a surprise invitation in September from Angelica Bello ([@hracangie](https://twitter.com/Huracangie)) from the Colombian Ministry of ITC ([@Ministerio_TIC](https://twitter.com/Ministerio_TIC)) to speak at their annual [e-xperience](http://experience.gobiernoenlinea.gov.co/) event ([@Gobiernoenlinea](https://twitter.com/Gobiernoenlinea)). This two day conference is designed to boost public digital innovation in Colombia and Latin America by providing around 300 public servants with a series of talks and workshops. Angelica had attended my talk on [SH:24](https://sh24.org.uk/) at Service Design in Government in London earlier in the year and felt it would provide an inspiring session.

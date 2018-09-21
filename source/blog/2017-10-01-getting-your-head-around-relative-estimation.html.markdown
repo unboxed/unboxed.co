@@ -6,8 +6,7 @@ authors:
   - Matt Turrell
 tags:
   - Agile
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1c8b9da32e5a144e2cc8e7868f2f849d.png
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1c8b9da32e5a144e2cc8e7868f2f849d.png"
 ---
 When I first heard of relative estimation and story points, I found it a challenge to really embed the concept in my mind.<br/>
 

@@ -5,8 +5,7 @@ authors:
 tags:
   - Culture
   - Design
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/54353b927594f39629013e36aa93f2cb.png
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/54353b927594f39629013e36aa93f2cb.png"
 date: '2018-07-24T14:54:22+01:00'
 published: true
 ---
@@ -16,13 +15,13 @@ When I thought of design before I came to Unboxed, I thought of people like Jame
 
 # Day 1: Hackney Council
 
-I wanted to come to Unboxed to learn about how a smaller company runs, find out more about different types of design and which I would like to consider further as potential courses or careers. I found just how much a community the company is, as everyone comes together at the end of the week for a retrospective (“Whines & Cheers”) to talk about their projects, as well as the open plan layout. The first thing (out of many) that I learnt was that more and more design companies are evolving so when they are developing a product there is a continuous cycle; you continue to address problems during the process and not at the end, saving time. Revolutionary. 
+I wanted to come to Unboxed to learn about how a smaller company runs, find out more about different types of design and which I would like to consider further as potential courses or careers. I found just how much a community the company is, as everyone comes together at the end of the week for a retrospective (“Whines & Cheers”) to talk about their projects, as well as the open plan layout. The first thing (out of many) that I learnt was that more and more design companies are evolving so when they are developing a product there is a continuous cycle; you continue to address problems during the process and not at the end, saving time. Revolutionary.
 
 ![In the Unboxed office](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0faaaba31e0076508e0da6db541553c8.JPG)
 
 <i>Working in the Unboxed office.</i>
 
-After some research into Unboxed during morning (and being surprised at how many Post-it notes you all use!), I then went to Hackney Council to see first-hand a current project aiming to make the communications easier in the council housing department, focusing on repairs and mainly leaks. I also saw how, as a designer, you have the ability to either pick the simplest route to the end goal when going through a process (in this case, sending a plumber to the specific house) or imagine the potential difficulties which would make the process more complex, considering all possibilities before you get to the end goal. 
+After some research into Unboxed during morning (and being surprised at how many Post-it notes you all use!), I then went to Hackney Council to see first-hand a current project aiming to make the communications easier in the council housing department, focusing on repairs and mainly leaks. I also saw how, as a designer, you have the ability to either pick the simplest route to the end goal when going through a process (in this case, sending a plumber to the specific house) or imagine the potential difficulties which would make the process more complex, considering all possibilities before you get to the end goal.
 
 I also learnt that there is no set path for getting into design, which is interesting as personally I always thought you pick your course at university and at the end of the three or four (or even more) years, you have an imaginary set list of jobs. However, I found that even if you did Classics at university, you can get into programming, etc. As someone who has just chosen their A-Levels, I found it very comforting to hear that your future is never fixed.
 
@@ -56,6 +55,6 @@ In the afternoon, we looked at and created user personas. These were based on re
 
 <i>Discussions in the Lambeth Portuguese Wellbeing Partnership kick-off session.</i>
 
-Overall, the experience has opened my eyes to a whole different world from what I considered design to be and the work Unboxed does is incredible, as it is so much from the heart and trying to help people who need it. This is definitely what is needed, in this day and age, and I think larger companies should look at how Unboxed runs and its ethos. 
+Overall, the experience has opened my eyes to a whole different world from what I considered design to be and the work Unboxed does is incredible, as it is so much from the heart and trying to help people who need it. This is definitely what is needed, in this day and age, and I think larger companies should look at how Unboxed runs and its ethos.
 
 Thank you again for an amazing experience!

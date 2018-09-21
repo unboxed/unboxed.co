@@ -11,8 +11,7 @@ tags:
   - Culture
   - Innovation
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a7e1bced98d0bbb8fdd950f3d2c5988a.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a7e1bced98d0bbb8fdd950f3d2c5988a.JPG"
 ---
 The Digital Team have reached a milestone Show & Tell in their Digital Customer Programme Discovery Phase with [Newham Council](https://www.newham.gov.uk/Pages/index.aspx) - Sprint 10. With a buzz across the room, spirits are high as it reaches 11am – the time for the Show & Tell kick-off.<br/>
 
@@ -21,9 +20,9 @@ The Digital Team have reached a milestone Show & Tell in their Digital Customer 
 
 # Digital Discovery - Sprint 10
 <i>Show & Tell duration: 20 minutes</i>
- 
+
 [Martyn](https://unboxed.co/people/#martyn-evans) stepped up to the plate to recollect and share the progress achieved by the Digital Team across Sprint 10, including:<br/>
- 
+
 - The Show & Tell roadshow – delivering a series of Show & Tell sessions by going into each relevant service department (including Housing, Homelessness and Children’s Services) across the borough to share progress with a much wider audience and gain more stakeholder buy-in
 - Further iterations of the current eight user personas (including our old friend Jenny – the original Newham persona)
 - Visiting a parent’s group to further share the latest prototype of the Local Offer service
@@ -35,7 +34,7 @@ The Digital Team have reached a milestone Show & Tell in their Digital Customer 
 
 # Progress reflection
 The Newham Council team reflected over the last 10 weeks, sharing their learnings and what they have achieved so far from undertaking this Discovery phase:<br/>
- 
+
 - It’s all about finding out what people want from our services
 - Our current Local Offer service ticked a box, but when sitting down face-to-face and talking to real users, it was soon realised that some requirements just couldn’t be met with the current system
 - The learnings of user interviewing – it’s not just about asking a large list of questions but engaging constantly in conversations with users and taking away even the smallest of insights and comments they may share during this time
@@ -46,7 +45,7 @@ The Newham Council team reflected over the last 10 weeks, sharing their learning
 
 # Agile reflection
 Also reflecting on the new experience of the Newham Digital Team working in an Agile environment for the first time:<br/>
- 
+
 - Breaking down the work into short sprints has created more focus
 - Daily standup has reduced the time taken to address any issues and blockers – whereas before, it might have take weeks to unblock progress, it can now be addressed daily
 - Agile has now been introduced and begun to be embedded into the Newham Council team
@@ -60,7 +59,7 @@ Also reflecting on the new experience of the Newham Digital Team working in an A
 
 <br/>
 The Digital Team then wrapped up this Show & Tell by summarising the overall Discovery phase so far, including:<br/>
- 
+
 - Any initial nervousness of stakeholders has now been reduced through seeing multiple prototypes come to life over this 10-week period
 - These individual service area stakeholders can now see how their services can help more people
 - The task now is to build up on the progress already made, keeping up the Discovery momentum and carrying this through to the Alpha phase
@@ -71,7 +70,7 @@ Newham Council is going through a step-by-step change, with this Discovery phase
 <br/>
 
 # So what’s next for the team?
- 
+
 - Heading into the Alpha phase of selected services
 - More Discovery work on services still at early stages
 

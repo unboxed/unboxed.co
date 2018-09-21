@@ -3,14 +3,13 @@ date: '2017-10-31 17:36 +0000'
 published: true
 title: >-
   Local Government Digital Service Standard - TeaCamp #5: Testing the end-to-end
-  service 
+  service
 authors:
   - Dawn Turner
 tags:
   - Agile
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4822a9c927e36cbbc89c52daa71ca268.jpg
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4822a9c927e36cbbc89c52daa71ca268.jpg"
 ---
 
 <i>As a network for digital practitioners in local government, LocalGov Digital is on a mission to raise standards in web provision and the use of digital by councils across the country.<br/>
@@ -27,7 +26,7 @@ New location, new faces. We are pleased to welcome some new attendees to the gro
 
 [Couldn’t make it? Watch a video recording of TeaCamp #5](https://www.youtube.com/watch?v=marezpAuGGo)
 
-Tea in one hand and cake in the other, we take our seats as Natalie Taylor, Chair of the London Peer Group opens the session with the announcement that this will be her last TeaCamp as Chair as she is moving on from the Greater London Authority.  
+Tea in one hand and cake in the other, we take our seats as Natalie Taylor, Chair of the London Peer Group opens the session with the announcement that this will be her last TeaCamp as Chair as she is moving on from the Greater London Authority.
 
 As the founding member of the London LocalGov Digital Peer Group, she has worked hard to bring together likeminded people from councils across London together to share best practice, particularly in terms of the Service Standard. We wish her all the best in the next step in her career.
 
@@ -44,7 +43,7 @@ Only manual testing can notice the unexpected; a tool will only check what you t
 This tells us that there are clearly benefits and limitations to each style of testing, which is why, as Steve explains, you need to identify the right balance based on the context and be aware that this may change over time. For example, exploratory testing would help to highlight issues for a new piece of software that has been developed. These issues can then be frequently testing using automated tests to ensure the journey isn’t broken by any further development.
 
 <br>
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">“Always a balance to be struck in testing, speed vs thoroughness, cost vs risk. “ Steve Green <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921046721727262721?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">“Always a balance to be struck in testing, speed vs thoroughness, cost vs risk. “ Steve Green <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921046721727262721?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
 But, as obvious as this sounds, it rarely happens in practice. People tend to do what they have always done. If you want to effectively test your software, you need a strategy so you can respond to any changes and adjust your testing accordingly. Having a plan allows you to evaluate where you are now and where you want to be in the future. You need a starting point to be able to evaluate improvement over time.
@@ -62,7 +61,7 @@ The Standard says that you should ‘analyse current user behaviour to determine
 He believes that if the experience is poor in a particular browser or device, usage statistics could be disproportionately low, so should be compared with other statistical sources that have a similar user base and methodology. A time period of 1 week to 1 month should be enough to get a good idea of what people are using.
 
 <br>
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Want to know which browsers you should be testing your applications on? Here are some free resources you can use <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a> <a href="https://twitter.com/LocalGovDigital?ref_src=twsrc%5Etfw">@LocalGovDigital</a> <a href="https://t.co/bvEljUbxkz">pic.twitter.com/bvEljUbxkz</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921046116296286208?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Want to know which browsers you should be testing your applications on? Here are some free resources you can use <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a> <a href="https://twitter.com/LocalGovDigital?ref_src=twsrc%5Etfw">@LocalGovDigital</a> <a href="https://t.co/bvEljUbxkz">pic.twitter.com/bvEljUbxkz</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921046116296286208?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
 It can be difficult to access old versions of browsers once they are updated. Firefox tends to keep an archive, but Safari doesn’t. So a word of advice from Steve: store versions of browsers while they are still available, but also make a decision about which versions you are going to support.
@@ -84,7 +83,7 @@ Speaking from a more technical perspective, David Durant who is a Senior Busines
 In its early days, automated testing helped developers to test specific blocks of system code, but only in isolation from each other. Nowadays we have handy tools such as Jenkins, which can run automated tests of individual units of code, and again once they are integrated. Being able to test a complete end-to-end user journey, usually with a plug in called Selenium, developers can be alerted if a new section of code breaks code that had previously been added.
 
 <br>
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/cholten99?ref_src=twsrc%5Etfw">@cholten99</a> explaining the delights of Jenkins, unit, smoke, black box, load &amp; pen testing. <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a> <a href="https://t.co/yyjnSUyQNv">pic.twitter.com/yyjnSUyQNv</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921056478227849217?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">.<a href="https://twitter.com/cholten99?ref_src=twsrc%5Etfw">@cholten99</a> explaining the delights of Jenkins, unit, smoke, black box, load &amp; pen testing. <a href="https://twitter.com/hashtag/lgdss?src=hash&amp;ref_src=twsrc%5Etfw">#lgdss</a> <a href="https://t.co/yyjnSUyQNv">pic.twitter.com/yyjnSUyQNv</a></p>&mdash; Natalie Taylor (@NatalieRobson) <a href="https://twitter.com/NatalieRobson/status/921056478227849217?ref_src=twsrc%5Etfw">October 19, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 
 Automated testing can be used to test all sorts of things including different browsers and how many interactions a piece of software can take.

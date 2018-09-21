@@ -8,8 +8,7 @@ tags:
   - Agile
   - Design
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e591c925c5c742629db162775239460c.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e591c925c5c742629db162775239460c.JPG"
 ---
 With increasing project momentum comes a much bigger Show & Tell space. Moving from the buzz of the Hive working space, where Show & Tells were previously held, the Digital Team have now invited colleagues to join them in their bigger working studio space, located in a much more central area within the building.<br/>
 
@@ -47,15 +46,15 @@ As a part of Newham’s community safety, residents can use a variety of channel
 
 <br/>
 Progress across Enforcement and Safety so far includes:<br/>
- 
+
 - Shadowing Newham Law Enforcement Officers and carrying out a number of interviews with residents during these sessions
 - Analysing this research to begin uncovering key insights and any trends that may be emerging
 - Introducing a workshop to begin sketching early-stage service concepts to then test with residents
 - Relating this all back to the main question to be answered: “How might we provide better updates to residents who have reported issues?”
 
- 
+
 The next steps include:<br/>
- 
+
 - Writing up user stories and personas to serve as guidelines for a potential Alpha phase
 - Assessing the potential impact for residents and businesses, based on a reduced service demand on the Customer Service Centre as a result of better feedback from the service
 - Addressing how the improved service would integrate into the already-existing systems
@@ -65,7 +64,7 @@ The next steps include:<br/>
 <br/>
 # Discovery #3: Parking Appeals
 Parking Appeals is the service in which residents can pay or challenge their Penalty Charge Notice (PCN). Progress to date, shared by [Lawrence](https://unboxed.co/people/#lawrence-richards), includes:<br/>
- 
+
 - Understanding how the current end-to-end PCN system works, from entry to exit
 - Further interviewing, beginning to generate insights from current users of this service and those who have previous experience in the PCN process
 - Beginning to build up the outputs from these sessions, as a starting point to work from
@@ -75,7 +74,7 @@ Parking Appeals is the service in which residents can pay or challenge their Pen
 
 <br/>
 The next steps the team will be taking in Parking Appeals include:<br/>
- 
+
 - Investigating the planned upgrades to the current technical system behind this service to begin understanding how our proposed solution could integrate with it
 - Writing up recommendations for a potential Alpha, focusing on opportunity areas identified during the Discovery, such as presenting evidence of infringement more transparently, re-addressing the tone of voice used within PCN letters, and looking at the language used in communicating recommendations on how to avoid further tickets
 
@@ -86,14 +85,14 @@ Council Tax and Benefits service covers everything from council tax payments to 
 
 <br/>
 A few sprints into this Discovery phase so far, the team share progress of what’s been happening across the last two weeks:<br/>
- 
+
 - Investigating the tone of voice used within benefit letters, looking into the type of language and content used, and seeing how residents relate with this
 - Heading out into East Ham to validate potential pain points with a range of residents from across the borough
 - Reading through letters received by individual residents to understand how they relate with the content used (“With a green pen, please circle any information you may think is important”, “With a red pen, please circle any information you may find confusing”)
 
 <br/>
 The next steps in Council Tax and Benefits include:<br/>
- 
+
 - Further interviews with residents
 - Preparing for a concept development workshop with service staff
 

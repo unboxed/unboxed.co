@@ -4,22 +4,22 @@ published: true
 title: "Event: Andrew White’s Technical Breakfast Club - What's coming in Rails 5.0?"
 authors:
   - "Graeme McCubbin"
-main_image: "http://bit.ly/1iCddwP"
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/735c893c-fee2-461e-be2a-8bb554554ee3.png"
 tags:
   - Culture
   - Rails
 
 ---
 
-<p align="center"><img src="http://bit.ly/1OwlrTj" alt="Andrew White's Technical Breakfast Club"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5364d91d-20e6-49e9-8040-edef4744256c.png" alt="Andrew White's Technical Breakfast Club"></p>
 
 Rails Core Member and Unboxed’s CTO, [Andrew White](/people#andrew-white) ([@pixeltrix](https://twitter.com/pixeltrix)), held the first <i>Andrew White’s Technical Breakfast Club</i> last Wednesday morning. Developers and architects attended to hear the uncovering of the major topic, and find out the answer the question on everyone's minds: What’s coming in Rails 5.0?<br/>
 
-<p align="center"><img src="http://bit.ly/1KqdYTO" alt="The club"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/98a185c4-2404-4365-8b47-6c65279b493f.png" alt="The club"></p>
 
 With the impending release of Rails 5.0 likely to be the biggest release for five years, the time has come to start thinking about migration plans. Nobody likes being left behind, nobody likes being tripped up with major releases… Enter Andrew White to guide the way.<br/>
 
-<p align="center"><img src="http://bit.ly/1LCFYQM" alt="Gathered Rails crowd"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/192c448c-ffe9-48e5-8f86-3d26403a418c.png" alt="Gathered Rails crowd"></p>
 
 <h1>The main topics covered included:</h1>
 
@@ -30,16 +30,16 @@ With the impending release of Rails 5.0 likely to be the biggest release for fiv
 * Rails API - Integration, how to prepare, big fixes, security updates<br/>
 <br/>
 
-<p align="center"><img src="http://bit.ly/1QtbGUg" alt="Rails insights"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2f8c2cdd-af3d-4512-a450-c10805328a1e.png" alt="Rails insights"></p>
 
 <h1>Other insights shared included:</h1><br/>
 
-<p align="center"><img src="http://bit.ly/1FaJcOX" alt="Upgrade all the Rails apps"></p>
-<p align="center"><img src="http://bit.ly/1j2Mv0s" alt="Don't worry"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/63eb76fe-461a-442c-8011-8cbc4881641e.png" alt="Upgrade all the Rails apps"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4f5fe92e-2a5c-45b8-8b0c-7d15197272bc.png" alt="Don't worry"></p>
 
 The session ended with a short Q&A, where members of the audience picked Andrew's brain about the bounty of new and upcoming features in Rails 5.0:</br>
 
-<p align="center"><img src="http://bit.ly/1iCddwP" alt="Q&A"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/735c893c-fee2-461e-be2a-8bb554554ee3.png" alt="Q&A"></p>
 
 And without further ado, the slides from the session:<br/>
 

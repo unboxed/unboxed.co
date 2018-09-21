@@ -7,7 +7,7 @@ tags:
   - Innovation
 authors:
   - Graeme McCubbin
-main_image: ' https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4ba289711dbc667fb88d662a55f40cf8.png'
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4ba289711dbc667fb88d662a55f40cf8.png"
 ---
 <i>As a network for digital practitioners in local government, LocalGov Digital is on a mission to raise standards in web provision and the use of digital by councils across the country.</i><br/>
 
@@ -50,7 +50,7 @@ This was a problem. The public sector needed solutions which were:<br/>
 How do you make procurement work for you? You adapt it to your needs. Addressing these problems, the introduction of Digital Marketplace has:<br/>
 
 - Opened the door to a much broader range of supplies, making it easier for SMEs to apply to work with the public sector, encouraging much more competitive pricing for buyers
-- Cut down these long and lengthy contracts 
+- Cut down these long and lengthy contracts
 - Made it easier for subject experts to buy without needing a deep knowledge of procurement - the buying process is much simpler, where a supplier can submit what services they can provide and a buyer can then pick from a full list
 - Helped keep things fair and open by working towards preventing fraud, waste and corruption
 

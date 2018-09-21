@@ -4,8 +4,7 @@ authors:
 tags:
   - Agile
   - Design
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fe1fd797a5edda9dd450d34277caafae.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fe1fd797a5edda9dd450d34277caafae.PNG"
 date: '2016-04-27 11:47 +0100'
 published: true
 title: >-
@@ -30,7 +29,7 @@ Work through the user journey and try to identify what is on the mind of your us
 - What is your user is thinking about?
 - What is your user expecting?
 - What is your user feeling?
- 
+
 Also, ultimately, at what point they might say: <i>“This is no good”</i> and give up.<br/>
 
 # Where to start?

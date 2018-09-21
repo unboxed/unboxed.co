@@ -6,8 +6,7 @@ authors:
   - Leon Odey Knight
 tags:
   - Design
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/939f66ae8f813cc8d7c7bc621b1f0fee.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/939f66ae8f813cc8d7c7bc621b1f0fee.PNG"
 ---
 
 What will digital trends change about the digital product design process – it’s a hard question to answer. So I’ll start by unpicking how we currently design for digital…<br/>

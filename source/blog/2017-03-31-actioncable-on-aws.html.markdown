@@ -10,7 +10,7 @@ tags:
   - Innovation
   - Testing
 has_syntax: true
-main_image: https://s3-eu-west-1.amazonaws.com/unboxed-web-images/112d1cabf6570fdb37bdd5d485e0ff98.png
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-images/112d1cabf6570fdb37bdd5d485e0ff98.png"
 ---
 
 We were recently tasked with adding a feature that showed the status of a IoT

@@ -13,7 +13,7 @@ tags:
 <p>So how does it work? Well, that&#39;s easiest to show with some examples...</p>
 <h3>A Basic Navbar</h3>
 <p>In the view:</p>
-<script src="http://gist.github.com/498861.js?file=gistfile1.erb"></script><noscript>
+<script src="https://gist.github.com/498861.js?file=gistfile1.erb"></script><noscript>
 <pre><code>&lt;%
   render_tabnav do |n|
     n.add_tab do |t|
@@ -29,7 +29,7 @@ tags:
   end
 %&gt;</code></pre>
 </noscript><p>When rendering the home page</p>
-<script src="http://gist.github.com/498861.js?file=gistfile2.html"></script><noscript>
+<script src="https://gist.github.com/498861.js?file=gistfile2.html"></script><noscript>
 <pre><code>&lt;ul&gt;
   &lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/froobles&quot;&gt;Froobles&lt;/a&gt;&lt;/li&gt;
@@ -37,7 +37,7 @@ tags:
 </code></pre>
 </noscript><p>It allows lots of control over the generated markup:</p>
 <p>In the view:</p>
-<script src="http://gist.github.com/498861.js?file=gistfile3.erb"></script><noscript>
+<script src="https://gist.github.com/498861.js?file=gistfile3.erb"></script><noscript>
 <pre><code>&lt;%
   render_tabnav :id =&gt; &quot;main_navigation&quot;, :class =&gt; &quot;clearfix&quot; do |n|
     n.add_tab :class =&gt; &quot;home_tab&quot; do |t|
@@ -58,7 +58,7 @@ tags:
 %&gt;
 </code></pre>
 </noscript><p>On froobles/index outputs:</p>
-<script src="http://gist.github.com/498861.js?file=gistfile4.html"></script><noscript>
+<script src="https://gist.github.com/498861.js?file=gistfile4.html"></script><noscript>
 <pre><code>&lt;ul id=&quot;main_navigation&quot; class=&quot;clearfix&quot;&gt;
   &lt;li class=&quot;home_tab&quot;&gt;&lt;a href=&quot;/&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
   &lt;li class=&quot;heading active&quot;&gt;&lt;span&gt;Froobles Heading&lt;/span&gt;&lt;/li&gt;

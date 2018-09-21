@@ -8,8 +8,7 @@ tags:
   - Agile
   - Culture
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f1425f1413fb7f93b3bb865ab5816957.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f1425f1413fb7f93b3bb865ab5816957.PNG"
 ---
 With a couple of sprints under their belts since last there, I went along to Newham Council a few weeks ago to attend the Digital Team’s third Show & Tell. This is the third installment of what’s been happening during the council’s [10-week Discovery Phase for their Digital Customer Programme](https://unboxed.co/news/unboxed-is-awarded-digital-customer-programme-discovery-phase-contract-with-newham-council/).<br/>
 

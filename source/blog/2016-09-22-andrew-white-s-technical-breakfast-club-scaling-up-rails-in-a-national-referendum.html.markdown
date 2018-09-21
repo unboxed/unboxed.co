@@ -8,8 +8,7 @@ authors:
   - Andrew White
 tags:
   - Rails
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8fd7241a0202c76923be06e8431d23d5.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8fd7241a0202c76923be06e8431d23d5.PNG"
 ---
 <i>This was the next installment of Andrew White’s Technical Breakfast Club – the breakfast club for Rails developers and architects, hosted by Rails Core Team Member and our CTO, [Andrew White](https://unboxed.co/people#andrew-white).</i><br/>
 
@@ -34,7 +33,7 @@ The [current version of Petitions was launched in July 2015](https://unboxed.co/
 
 For this version of the platform, the team focused on:<br/>
 
-- A complete service redesign 
+- A complete service redesign
 - Taking a mobile-first response to design
 - Using and applying the four years’ of GDS experience (at the time) in terms of research and toolkits
 

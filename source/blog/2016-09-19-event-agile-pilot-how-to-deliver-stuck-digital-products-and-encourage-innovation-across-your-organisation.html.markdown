@@ -10,7 +10,7 @@ tags:
   - Agile
   - Culture
   - Lean
-main_image: ' https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2784c3628a61277b52177433cf92607.JPG'
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2784c3628a61277b52177433cf92607.JPG"
 ---
 Complex portfolios of digital products can stall in development. It’s a fact of life. The vision gets clouded, deployment slows down, your team becomes demotivated and progress halts. You’ve stopped delivering. Or even worse, you can’t quite seem to get your ducks in a row and you’re having trouble kick-starting your new project.<br/>
 
@@ -42,7 +42,7 @@ Melissa’s session addressed the situation where an organisation moves too slow
 ## Failure is not an easy thing
 
 - In baseball, the elite players fail 7 out of 10 times - we have to get as comfortable with failure as they are
-- It's easy to say we do, but when it comes to money being invested and people's jobs on the line, protecting the status quo feels responsible 
+- It's easy to say we do, but when it comes to money being invested and people's jobs on the line, protecting the status quo feels responsible
 - When failure does happen, sometimes it's the right thing after all
 
 <br/>
@@ -71,7 +71,7 @@ Martyn Evan ([@martynrevans](https://twitter.com/martynrevans)) - Head of Produc
 Martyn’s session focused around transforming digital services through applying the [GDS (Government Digital Service) Service Standard](https://www.gov.uk/service-manual/service-standard), using local council as a recent example, and sharing his top tips for ensuring success within a pilot agile project.<br/>
 <br/>
 
-## Applying the GDS Service Standard to transform digital services 
+## Applying the GDS Service Standard to transform digital services
 One of the main drivers in public sector organisations is not how to <i>make</i> money, but how to <b>save</b> money. The challenge is knowing that better services need to be delivered. There is currently a large movement in the public sector moving towards, and adopting, agile and the GDS Service Standard.<br/>
 
 <b>What you <i>shouldn’t</i> do</b><br/>
@@ -150,7 +150,7 @@ And Martyn's slides from the session:<br/>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/uPzTRHwT3P6E1J" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/UBXD/agile-pilot-martyn-evans" title="Agile Pilot - Martyn Evans" target="_blank">Agile Pilot - Martyn Evans</a> </strong> from <strong><a href="//www.slideshare.net/UBXD" target="_blank">Unboxed </a></strong> </div>
 
 <br/>
-# Session 3: Getting un-stuck - A tale of destruction and rebirth 
+# Session 3: Getting un-stuck - A tale of destruction and rebirth
 
 Richard Atherton ([@RathertonRich](https://twitter.com/RathertonRich)), Management Consultant, Coach & Programme Manager<br/>
 
@@ -181,7 +181,7 @@ Richard’s session took the audience through the story of his leadership of the
 
 - Feedback feedback, feedback: Encourage a culture of getting feedback into everything you do, and always ask for this feedback
 - Get this feedback through workshops, sessions, user research interviews - anything and everything, just make sure you get this vital feedback
-- Use storytelling to connect to people on your change journey - create a visual story of your whole journey together 
+- Use storytelling to connect to people on your change journey - create a visual story of your whole journey together
 - Carry out your Show & Tells in big open spaces and get everyone involved, including your sales team - get them to share their prospects, 'work out loud'
 
 <br/>

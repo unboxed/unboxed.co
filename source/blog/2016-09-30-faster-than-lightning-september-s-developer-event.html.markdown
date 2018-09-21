@@ -8,8 +8,7 @@ tags:
   - Culture
   - Innovation
 has_syntax: true
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/62e7d29b0fa9aa85264805d31661471e.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/62e7d29b0fa9aa85264805d31661471e.PNG"
 ---
 This month we hosted our regular 'Faster than Lightning' developer talks, where Unboxed developers get together to discuss code that we’ve been working with, and share stories about these with each other. The idea is to get together and have a chat about what we’ve been thinking about, with the code as a talking point.<br/>
 
@@ -144,7 +143,7 @@ There were many other autocorrected linting violations in the PR I made so I did
 
 ```ruby
 def can_edit_site?(site_to_edit)
-  can_edit_sites[site_to_edit.abbr] ||= 
+  can_edit_sites[site_to_edit.abbr] ||=
     site_is_editable?(site_to_edit) && has_permission_to_edit_site?(site_to_edit)
 end
 

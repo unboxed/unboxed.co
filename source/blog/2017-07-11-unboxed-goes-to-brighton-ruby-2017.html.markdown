@@ -7,8 +7,7 @@ tags:
   - Innovation
 authors:
   - 'Neil van Beinum'
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/brighton-ruby-2017-outdoors.jpg
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/brighton-ruby-2017-outdoors.jpg"
 ---
 
 On Friday 7th July, a small crowd of developers from Unboxed made their way south to the coastal town of Brighton for its fourth annual Ruby conference: [Brighton Ruby 2017](https://brightonruby.com/).

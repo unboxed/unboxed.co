@@ -5,8 +5,7 @@ title: What should be in your “innovation kit”?
 tags:
   - Agile
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dc06dcaf44745887fae0fef8a49f5388.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dc06dcaf44745887fae0fef8a49f5388.JPG"
 authors:
   - Graeme McCubbin
 ---

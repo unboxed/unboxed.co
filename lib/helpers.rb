@@ -36,7 +36,7 @@ module Helpers
   end
 
   def image_url(source)
-    URI.join("http://unboxed.co/", image_path(source))
+    URI.join("https://unboxed.co/", image_path(source))
   end
 
   def article_info(people, page)

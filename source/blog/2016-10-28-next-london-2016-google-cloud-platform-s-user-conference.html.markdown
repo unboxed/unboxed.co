@@ -8,8 +8,7 @@ authors:
 tags:
   - Culture
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/93e1e9c6c48e2ab1758a026a53227c0e.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/93e1e9c6c48e2ab1758a026a53227c0e.PNG"
 ---
 Paula and I attended last Friday’s [NEXT London 2016 - Google Cloud Platform's User Conference](https://cloudplatformonline.com/NEXT2016-London.html) - the largest Google developer and IT gathering in the UK, exploring the latest developments in cloud technology.<br/>
 

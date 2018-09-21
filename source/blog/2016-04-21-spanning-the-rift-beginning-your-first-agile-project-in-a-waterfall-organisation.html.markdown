@@ -4,8 +4,7 @@ authors:
 tags:
   - Agile
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0ef180671d52db7fbdad41ae42477368.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0ef180671d52db7fbdad41ae42477368.PNG"
 date: '2016-04-21 09:59 +0100'
 published: true
 title: >-
@@ -20,7 +19,7 @@ It’s much more about your culture and behaviour. In traditional waterfall orga
 
 # Achieving a shift in behaviour
 Traditional organisations can be quite ‘top down’ and managerial. Management makes decisions and workers “do” what has been decided for them. Agile organisations believe that a culture of empowerment and local decision-making is much more effective. Traditional organisations believe that change is something that needs to be controlled, managed and it’s a bad thing. Agile organisations believe that change is inevitable and actually, often, quite a good thing. It means you’re more likely to get what you need. For those reasons, and a whole bunch more, there’s actually a shift in behaviour and ways of thinking that’s needed to adopt agile. It’s really important to recognise that it’s this cultural shift that you’re trying to achieve as well as just a process change.<br/>
- 
+
 So how do you start?<br/>
 
 # Start with a pilot project
@@ -33,5 +32,5 @@ When your team is starting out, it’s important for you to be co-located - ever
 
 # Get your stakeholder engagement
 The last thing is something critical: Business engagement. Sometimes you’ll find that a digital team within an organisation wants to try agile but they don’t feel they can talk to the organisation about it. The pace and rhythm of an agile project is so different to the pace and rhythm of a waterfall project.<br/>
- 
+
 The level of engagement you need from stakeholders is continuously much more constant and regular in an agile project. It’s vital to get this stakeholder engagement upfront. It’s important when choosing your pilot project that you have this in mind and you have someone in a product area who can take the role of Product Owner. This is someone who has the vision for the product, the budget, someone who can make decisions, prioritise and see how this product is going to evolve.

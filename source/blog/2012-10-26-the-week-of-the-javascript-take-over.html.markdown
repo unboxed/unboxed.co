@@ -26,7 +26,7 @@ Create terminal like interfaces in a browser. Because... why not?
 [http://www.michalkowalkowski.com/cssConsole/](http://www.michalkowalkowski.com/cssConsole/)
 
 ## A novel, efficient approach to JavaScript loading
-<iframe width="560" height="315" src="http://www.youtube.com/embed/mGENRKrdoGY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mGENRKrdoGY" frameborder="0" allowfullscreen></iframe>
 
 
 **More videos of JSConfEU talks can be found here:**

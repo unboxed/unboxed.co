@@ -1,7 +1,7 @@
 ---
 authors:
   - Graeme McCubbin
-tags: 
+tags:
   - Innovation
 main_image: ""
 date: "2016-01-15 16:55 +0000"
@@ -15,7 +15,7 @@ title: LifT Digital
 
 Many growing small businesses in the UK need to ease cash flow quickly - but it needs to be cost effective and sustainable over time. LifT is an online invoice financing solution, connecting SMEs to ‘self serve’ invoice financing directly from their existing online accounting software account, like Xero.<br/>
 <br/>
- 
+
 # What LifT does for small businesses
 - Gets your invoice financed cash into your bank faster – reduces a 30 days approval process down to 5 working days
 - Makes the cost effective option of invoice financing quick and easy to access

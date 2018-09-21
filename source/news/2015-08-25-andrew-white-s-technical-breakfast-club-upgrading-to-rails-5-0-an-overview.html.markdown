@@ -27,7 +27,7 @@ you don&#39;t get left behind.<br/></p>
 
 <h1>About Andrew White:</h1>
 
-<p><img src="http://bit.ly/1ER12kd" alt="Andrew White"></p>
+<p><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-images/2721e369-9e78-4944-bdfe-fcda3c77ebbe.png" alt="Andrew White"></p>
 
 <p>Andrew has been a contributor to Rails since 2007 and since 2012 has
 been a member of the Rails Core Team responsible for setting the

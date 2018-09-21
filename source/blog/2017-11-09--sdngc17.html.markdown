@@ -2,8 +2,7 @@
 date: '2017-11-09 10:54 +0000'
 published: true
 title: '#SDNGC17'
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/45bdf05ff96606a7b6ad02421d2f8d2c.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/45bdf05ff96606a7b6ad02421d2f8d2c.JPG"
 authors:
   - Dawn Turner
   - Boris Divjak
@@ -12,7 +11,7 @@ tags:
   - Design
   - Events
 ---
-“How do I explain what I do for a living to my grandmother?” This is the opening question put to us by Pascal Soboll during his presentation at this year’s Service Design Network Global Conference in Madrid. He makes an interesting point. Service design field has grown considerably in recent years, particularly in Europe, but defining what it is and its benefits to organisations and businesses is still a challenge, let alone to people like Pascal’s 85 year old grandmother. 
+“How do I explain what I do for a living to my grandmother?” This is the opening question put to us by Pascal Soboll during his presentation at this year’s Service Design Network Global Conference in Madrid. He makes an interesting point. Service design field has grown considerably in recent years, particularly in Europe, but defining what it is and its benefits to organisations and businesses is still a challenge, let alone to people like Pascal’s 85 year old grandmother.
 
 This is why the [Service Design Network (SDN)](https://www.service-design-network.org) and events such as its annual global conference are so important. Connecting like minded service designers from universities, agencies and companies and innovators so they can exchange ideas, experiences and tools helps to strengthen the community and build awareness and appetite for this user-centric approach.
 
@@ -25,13 +24,13 @@ We’re one of the first companies to present on day one, so with Madonna-style 
 
 ![Presenting the Newham case study](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ef2019c5c05b5b4b6706d161e4761112.jpg)
 
-At which steps did anxiety peak? 
+At which steps did anxiety peak?
 
 - Asking questions about extremely personal and emotive subjects during **user interviews with residents and staff**. Learning quickly how to ask the right questions and guide the conversation to reveal residents’ needs.
 
-- **Stepping up at workshops**; being responsible for keeping the conversation on track and delivering outcomes. Being tasked with delivering better council services as a newly skilled ‘service designer’ and keeping the momentum going once Unboxed had left. 
+- **Stepping up at workshops**; being responsible for keeping the conversation on track and delivering outcomes. Being tasked with delivering better council services as a newly skilled ‘service designer’ and keeping the momentum going once Unboxed had left.
 
-Our presentation leads to a number of interesting conversations over coffee, not only with public sector organisations who are collaborating with service designers to bring about change, but also service designers themselves who hadn’t been exposed to the client experience of learning on the job. 
+Our presentation leads to a number of interesting conversations over coffee, not only with public sector organisations who are collaborating with service designers to bring about change, but also service designers themselves who hadn’t been exposed to the client experience of learning on the job.
 
 ![Mingling over coffee and cake](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2482b4db6fb222f0fc6626e382844f84.jpg)
 
@@ -41,9 +40,9 @@ As we move between presentations and continue our conversations into the evening
 These included:
 
 **1) Start small and infiltrate beyond silos**
-<br>Similar to our approach at Newham, design agency Snook started with a small blended centralised team at Cork County Council during their change programme and gradually trained officers in other departments as the programme gained momentum. 
+<br>Similar to our approach at Newham, design agency Snook started with a small blended centralised team at Cork County Council during their change programme and gradually trained officers in other departments as the programme gained momentum.
 
-“Key to starting small is to not promise the world!” explains Sarah Drummond. Little steps and small wins are far more effective to grow sustainably. 
+“Key to starting small is to not promise the world!” explains Sarah Drummond. Little steps and small wins are far more effective to grow sustainably.
 
 As Strina Vanhoof, a service designer from Knight Moves explains, to go viral, there needs to be foundations built across the organisation, not just in one department. You need to break down any existing silos and get buy in across the organisation.
 
@@ -54,14 +53,14 @@ Here’s Strina introducing the steps to scaling up service design in an organis
 **2) Involve management from the start - mixed top down and bottom up approach**
 <br>How do you attempt to break down silos? You need to engage with the right people at the right time.
 
-According to the BIO Agency, 70% of change programmes fail - 66% due to employee adoption. Good customer experience relies on good employee experience. Internal staff have the inside knowledge - it’s like running a sense check of what’s going on. 
+According to the BIO Agency, 70% of change programmes fail - 66% due to employee adoption. Good customer experience relies on good employee experience. Internal staff have the inside knowledge - it’s like running a sense check of what’s going on.
 
 Although it is important to get buy-in from stakeholders at all levels through a mix of top down and bottom up approaches, it is crucial to involve management from the beginning. If you want them to be interested in service design, you need to get them to experience service design.
 
 **3) Learn and teach through collaboration**
-<br>Jamin Hegeman during his presentation on giving in and sharing service design, pointed out that ‘the organisation is the design’. Your way is not the only way; you can learn together and invent new tools where necessary. 
+<br>Jamin Hegeman during his presentation on giving in and sharing service design, pointed out that ‘the organisation is the design’. Your way is not the only way; you can learn together and invent new tools where necessary.
 
-Similarly at Cork Council, Snook learned not to be the agency, but to speak the same language as the organisation you are working with. These are important messages about working in a collaborative way - finding the right balance to achieve a successful partnership. 
+Similarly at Cork Council, Snook learned not to be the agency, but to speak the same language as the organisation you are working with. These are important messages about working in a collaborative way - finding the right balance to achieve a successful partnership.
 
 Although qualifications are important to the service design field it has to also be about on the job coaching. Mike Press, Managing Director of Open Change believes service design should be taught to people who need to do service design. This is what we did at Newham. We empowered members of staff to challenge existing practices and develop a better way to deliver services to residents.
 
@@ -70,7 +69,7 @@ Judith Bastiaans and Meddie Versteeg, business consultants from ING sum this poi
 ![Empower colleagues, create a leading coalition](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b25ffdb867e0059bfba9f3cc3b9e8ff8.jpg)
 
 **4) Show the impact of the work you are doing**
-<br>How do you know whether the work you are doing is making an impact? What does success look like? This is a common issue, but particularly in the public sector where project funding is often attached to deliverables and making savings. 
+<br>How do you know whether the work you are doing is making an impact? What does success look like? This is a common issue, but particularly in the public sector where project funding is often attached to deliverables and making savings.
 
 Strina Vanhoof, speaking about her experience working with the Flemish Government stressed the need to define your success parameters from the beginning. “Show the impact change can make to gain trust.” Instead of waiting until the end to evaluate success, make it an iterative process. Work with staff to measure impact as you develop the product and learn and make changes where necessary.
 
@@ -79,6 +78,6 @@ As the conference draws to a close, we step outside and soak up the last of the 
 
 ![Dawn and Boris soaking up the sun](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/223d9036349be0e79bc61653d3854960.jpg)
 
-Service design is clearly an exciting discipline to be working in nowadays. There's energy, lots of new ideas, plus a determination to make a change. Evidence shows that organisations have a growing appetite for user-centric design and through a systemic approach are building up internal capability to develop better services - either through collaborative working or by recruiting in-house service designers. 
+Service design is clearly an exciting discipline to be working in nowadays. There's energy, lots of new ideas, plus a determination to make a change. Evidence shows that organisations have a growing appetite for user-centric design and through a systemic approach are building up internal capability to develop better services - either through collaborative working or by recruiting in-house service designers.
 
 That's not to say there aren't challenges along the way; there are plenty and change takes time. But the more we share ideas, learnings and examples of good practice, the easier this journey will become.

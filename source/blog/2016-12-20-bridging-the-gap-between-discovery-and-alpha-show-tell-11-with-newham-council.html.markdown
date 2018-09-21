@@ -11,8 +11,7 @@ tags:
   - Culture
   - Innovation
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/02dfc219fa625aa591e579adfa3327db.JPG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/02dfc219fa625aa591e579adfa3327db.JPG"
 ---
 The first Show & Tell [since the completion of the initial Discovery Phase](https://unboxed.co/blog/digital-customer-programme-discovery-phase-show-tell-10-with-newham-council/), and the final of 2016, with the Digital Team at Newham Council.<br/>
 
@@ -28,7 +27,7 @@ Led by [Boris](https://unboxed.co/people/#boris-divjak), Ikramul and Soraya of t
 
 - Completing the initial Discovery Phase of the Digital Customer Programme
 - Extending the Discovery of the Housing Account service
-- Forming the plans for further Discovery Phases of other residential services 
+- Forming the plans for further Discovery Phases of other residential services
 - Preparing for the launch of the upcoming Alpha Phase surrounding the Homelessness service
 
 <br>

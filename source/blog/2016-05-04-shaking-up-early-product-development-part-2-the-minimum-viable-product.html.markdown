@@ -5,8 +5,7 @@ tags:
   - Agile
   - Innovation
   - Lean
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/efca4733cf45093ec7174d9360d86703.PNG
+main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/efca4733cf45093ec7174d9360d86703.PNG"
 date: '2016-05-04 11:16 +0100'
 published: true
 title: 'Shaking up early product development, part 2: The Minimum Viable Product'
@@ -39,7 +38,7 @@ Use sketching to as a first point of getting your assumptions onto paper, so you
 
 <b>Crowdfunding</b><br/>
 Sites such as Kickstarter offer a way of testing your product position by describing your vision and the early product  and asking for funding to build it. If people believe in it too, they might invest their money to back it. It’s a good way to gauge whether concept captures people’s imagination.<br/>
- 
+
 <b>Concierge</b><br/>
 Sometimes referred to as <i>“The Wizard of Oz”</i> – the concierge refers to the person behind the curtain, pulling the levers. This is a way of proving your business model before spending any money on automating a process. Your users think they’re using a product that has been built  but you are the person behind this <i>“product”</i>, testing if they’ll really use it.<br/>
 

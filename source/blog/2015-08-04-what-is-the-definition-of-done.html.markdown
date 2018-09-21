@@ -4,7 +4,7 @@ published: true
 title: What is the definition of ‘done’?
 authors:
   - Richard Stobart
-main_image: /assets/images/prose/pedro.png
+main_image: "https://unboxed.co/assets/images/prose/pedro.png"
 tags:
   - Agile
 ---
