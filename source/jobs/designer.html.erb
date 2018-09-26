@@ -98,8 +98,15 @@ related:
       link: "/blog/shaking-up-early-product-development-part-1-using-journey-mapping-to-improve-your-user-journey"
 ---
 
-<!--Twitter card tags-->
 <% content_for(:head) do %>
+  <!--Open Graph card tags-->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://unboxed.co<%= current_page.url %>">
+  <meta property="og:title" content="<%= current_page.data.title %>">
+  <meta property="og:description" content="<%= current_page.data.meta_description %>">
+  <meta property="og:image" content="<%= image_url(current_page.data.main_image) %>">
+
+  <!--Twitter card tags-->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@Ubxd">
   <meta name="twitter:title" content="<%= current_page.data.title %>">
