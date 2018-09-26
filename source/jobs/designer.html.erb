@@ -1,28 +1,30 @@
 ---
-title: "Join Us - Senior Designer - Join our team as a designer"
+title: "Join Us - Service Designer - Join our team as a service designer"
+
+meta_description: "We are looking for a talented and confident Service Designer to join us and grow our team."
+main_image: "/jobs/images/designer-1.jpg"
 
 header:
   title: "Join us"
-  subtitle: "Senior Strategic Designer"
+  subtitle: "Service Designer"
 
 introduction:
   title: "At Unboxed, design is a team sport"
   text_1: "We are a digital service design and development agency with 13 years of experience and an impressive reputation for creating great digital services in both the public and private sectors."
   text_2: "Our delivery approach is strongly based on Agile principles. We work in multidisciplinary teams, collaborating all the way from initial user research and customer engagement through to building fully functioning digital services. We believe in openness, transparency and honest communication, encouraging collaboration and learning from each other. We work closely with our customers, including them as part of our project teams. We create the conditions for our teams to flourish and create better digital services."
   text_3: "Our teams work from our London office or our customer’s locations."
-  text_4: "We are looking for a talented and confident Senior Strategic Designer to join us and grow our team. Some of the key activities within this role include:"
+  about_role_title: "About the role"
+  text_4: "We are looking for a talented and confident Service Designer to join us and grow our team. Some of the key activities within this role include:"
   requirements:
-    - Support the delivery of complex service design and development projects
-    - Work within multi-disciplinary teams to design, prototype and build cutting-edge propositions
-    - Lead user-centred research and co-design activities
-    - Facilitate workshops and design sprints to rapidly design, test, and iterate prototypes
-    - Oversee design iterations from low-fidelity sketches, through wireframes to high fidelity visual designs
-    - Work with developers to ensure consistent, high-quality design standards are adopted throughout the service
-    - Provide support and direction to less experienced team members
-    - Contribute to designing frameworks and approaches for Unboxed
-    - Collaborate with senior stakeholder groups to successfully influence long-lasting change
-    - Contribute to new business activity
-    - Take an active interest in the design discipline and regularly share the subject with the broader team and community
+    - Analysing complex services and providing insights for design and development
+    - Working within multi-disciplinary teams to understand, design, prototype and build cutting-edge propositions
+    - Conducting user-centred research to understand user needs and create a rich picture of user behaviour
+    - Facilitating co-design workshops and design sprints to generate service concepts
+    - Creating, testing and rapidly iterating service prototypes
+    - Arranging service concepts into rational user journeys, creating a seamless experience for service users
+    - Communicating findings to help the team develop a deep understanding of users and their needs – including presentations at show and tells, designing and maintaining research outputs on the team wall, creating formal reports
+    - Providing support and direction to less experienced team members
+    - Taking an active interest in the service design discipline and regularly share the subject with the broader team and community
 
 design_image_1:
   image: "/jobs/images/designer-1.jpg"
@@ -31,13 +33,14 @@ design_image_1:
 description:
   title: "Key competencies and skills"
   content:
-    - Experience in several design disciplines, ideally a combination of service design, user experience, and UI design
-    - Ability to lead and manage a range of activities from customer engagement workshops to ethnographic research, prototyping and testing
+    - Experience in service design and/or user experience design, with a good understanding of qualitative user research methods and approaches
+    - Ability to participate in a range of activities from client engagement workshops to ethnographic research, prototyping and testing
     - Ability to think strategically to address issues of high uncertainty and complexity
+    - Ability to sketch and create prototypes on paper and/or using digital tools
     - Ability to communicate the process with stakeholders and other interested parties
-    - Being a passionate advocate for Design Thinking and Lean and Agile principles
+    - Being a passionate advocate for Design Thinking, Lean and Agile principles
+    - Enthusiasm to get out and learn from users, customers and stakeholders
     - Willingness to work collaboratively with a cross-functional team
-    - Willingness to get out and learn from users, customers and stakeholders
 
 other_requirements:
   title: "Highly desirable"
@@ -46,7 +49,8 @@ other_requirements:
     - Experience with all stages of Agile development, including sprint planning and daily Scrum meetings
     - Experience with projects that follow the GDS Service Standard
     - Potential to champion the value of design within Unboxed
-    - Presence within the broader design community
+    - Presence within the broader service design community
+    - Knowledge of technical aspects of developing digital services
   image: "/jobs/images/designers-session.jpg"
   image_description: "Designers meeting"
 
@@ -94,6 +98,23 @@ related:
       link: "/blog/shaking-up-early-product-development-part-1-using-journey-mapping-to-improve-your-user-journey"
 ---
 
+<% content_for(:head) do %>
+  <!--Open Graph card tags-->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://unboxed.co<%= current_page.url %>">
+  <meta property="og:title" content="<%= current_page.data.title %>">
+  <meta property="og:description" content="<%= current_page.data.meta_description %>">
+  <meta property="og:image" content="<%= image_url(current_page.data.main_image) %>">
+
+  <!--Twitter card tags-->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@Ubxd">
+  <meta name="twitter:title" content="<%= current_page.data.title %>">
+  <meta name="twitter:description" content="<%= current_page.data.meta_description %>">
+  <meta name="twitter:image" content="<%= image_url(current_page.data.main_image) %>">
+<% end %>
+
+
 <%= partial 'jobs/job_header' %>
 
 <div class="container" data-header-waypoint>
@@ -112,6 +133,12 @@ related:
       <p class="text-tile__paragraph--with-spacing">
         <%= current_page.data.introduction.text_3 %>
       </p>
+
+    </div>
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.about_role_title %>
+      </h2>
       <p class="text-tile__paragraph--with-spacing">
         <%= current_page.data.introduction.text_4 %>
       </p>
