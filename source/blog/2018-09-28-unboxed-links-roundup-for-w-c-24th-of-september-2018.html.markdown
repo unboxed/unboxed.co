@@ -40,7 +40,7 @@ time. This weakens our lower back muscles and results in our spine turning into
 a "C" shape. No one wants that. Our neck can become displaced forward in this
 position and results in us getting more and more tired when we attempt to keep
 it upright. While it's important that we focus on taking breaks and move around
-from time to tiem, we can also make sure that our posture protects our back.
+from time to time, we can also make sure that our posture protects our back.
 This articles recommends some baby steps we can take to become more aware of how
 we're sitting and improve our posture.
 
