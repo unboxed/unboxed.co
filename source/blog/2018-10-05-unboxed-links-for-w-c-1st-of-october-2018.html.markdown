@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: "Roundup: Impersonation in Rails, accessible video games, CORS, semantic intent"
+title: "Roundup: The Github Rails upgrade, impersonation in Rails, accessible video games, CORS, semantic intent"
 date: '2018-10-05 14:30:00 BST'
 authors:
   - 'Elena Tanasoiu'
@@ -8,6 +8,14 @@ tags: # (Delete as appropriate)
 - Culture
 
 ---
+
+## Upgrading GitHub from Rails 3.2 to 5.2 - [Andrew W](/people#andrew-white)
+
+https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/
+
+Rails Core Team member, Eileen Uchitelle, explains how she and her colleagues 
+took GitHub from Rails 3.2 to Rails 5.2 over a period of 18 months and offers 
+tips on how to stay current and to smooth the upgrade process.
 
 ## Implementing impersonation - [Andrew W](/people#andrew-white)
 
