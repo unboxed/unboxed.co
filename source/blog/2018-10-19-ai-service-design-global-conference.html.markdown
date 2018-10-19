@@ -1,5 +1,5 @@
 ---
-date: '2018-10-19 00:01 +0000'
+date: '2018-10-19 00:00:01 BST'
 published: true
 title: "AI and the Service Design Global Conference 2018"
 authors:
