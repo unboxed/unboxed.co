@@ -99,19 +99,6 @@
     link: https://uk.linkedin.com/in/elenatanasoiu
   - name: GitHub
     link: https://github.com/elenatanasoiu
-- name: Leon Odey Knight
-  short_name: leon-odey-knight
-  role: Creative
-  email: leon.odey-knight
-  bio: |
-    A creative with a curious, provocative mind and a singular vision; To shape
-    the future of our digital world working with like minded thinkers unable to resist
-    asking themselves "what if...".
-  social_networks:
-  - name: Twitter
-    link: https://twitter.com/leonintheblind
-  - name: LinkedIn
-    link: https://uk.linkedin.com/in/leon-odey-knight-8029638
 - name: Steve Lennon
   short_name: steve-lennon
   role: Delivery
@@ -138,24 +125,6 @@
     link: https://twitter.com/CBedingfield
   - name: LinkedIn
     link: https://uk.linkedin.com/in/carriebedingfield
-- name: Tom Sabin
-  short_name: tom-sabin
-  role: Developer
-  email: tom.sabin
-  bio: |
-    I have been interested in web design/development since the start of high school
-    where I created a personal website. This was used to host numerous Photoshop tutorials
-    and other content that I had created. Following this success I have been producing
-    portfolio websites for small local companies and ever since I have been eager
-    to develop this passion further. This has been made possible by joining Unboxed
-    Consulting.
-  social_networks:
-  - name: Twitter
-    link: https://twitter.com/tomsabin
-  - name: LinkedIn
-    link: https://uk.linkedin.com/in/tom-sabin-32838046
-  - name: GitHub
-    link: https://github.com/tomsabin
 - name: Ben Wong
   short_name: ben-wong
   role: Developer
@@ -232,13 +201,6 @@
     link: https://www.linkedin.com/in/david-henry-000b603/
   - name: Github
     link: https://github.com/dwhenry
-- name: Chris Stobart
-  short_name: chris-stobart
-  role: Developer
-  email: chris.stobart
-  social_networks:
-    - name: LinkedIn
-      link: https://www.linkedin.com/in/christopher-stobart-162562109/
 - name: Celia Collins
   short_name: celia-collins
   role: Developer
