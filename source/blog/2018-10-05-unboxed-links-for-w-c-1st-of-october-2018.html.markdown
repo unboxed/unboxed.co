@@ -60,4 +60,4 @@ One of the many great things about The Bridge is the theme music…
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RFQ6XgvX3Qo" frameborder="0" allowfullscreen></iframe>
 
-[Choir of Young Believers - Hollow Talk](https://www.youtube.com/watch?reload=9&v=RFQ6XgvX3Qo)
+[Choir of Young Believers - Hollow Talk](https://www.youtube.com/watch?v=RFQ6XgvX3Qo)
