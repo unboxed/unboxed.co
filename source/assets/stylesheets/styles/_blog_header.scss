@@ -1,5 +1,9 @@
 .blog-header {
-  padding: 40px 0 0;
+  padding: 40px 0 40px 0;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 40px 0 0;
+  }
 }
 
 .blog-header__container {
