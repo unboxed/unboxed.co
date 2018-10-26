@@ -26,9 +26,9 @@ To get the attendees' in creative thinking mode and talking to one another, the 
 
 Armed with a partner, a large piece of paper, a Sharpie marker each and some 'interesting' concepts around electricity generation, the creative sparks began to fly:<br/>
 
-<p align="center"><img src="http://bit.ly/1gQcxCv" alt="Introduction 1"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/66bd8682-f9da-4774-88d7-d19882102a5d.jpg" alt="Introduction 1"></p>
 
-And the finished posters were shared on the walls:</br>
+And the finished posters were shared on the walls:<br/>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">How electricity works when you get to know one another <a href="https://twitter.com/hashtag/LeanUXMasterclass?src=hash">#LeanUXMasterclass</a> <a href="https://twitter.com/Ubxd">@Ubxd</a> <a href="http://t.co/QDqXTIizFb">pic.twitter.com/QDqXTIizFb</a></p>&mdash; Claire Kemp (@ClaireKmp) <a href="https://twitter.com/ClaireKmp/status/631388130478850048">August 12, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 <br/>
@@ -37,7 +37,7 @@ And the finished posters were shared on the walls:</br>
 ## Session 1: Introducing KPIs
 Richard kicked off the morning’s first session - defining what a KPI is and how they can benefit your organisation:<br/>
 
-<p align="center"><img src="http://bit.ly/1hKAJXV" alt="KPIs"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f6dd4325-f02e-4763-a5ed-e403c7caa202.png" alt="KPIs"></p>
 <br/>
 The topic then branched into KPI trees:<br/>
 <br/>
@@ -49,7 +49,7 @@ The topic then branched into KPI trees:<br/>
 <br/>
 An example KPI tree was shared:<br/>
 <br/>
-<p align="center"><img src="http://bit.ly/1DXTuRR" alt="KPI Tree"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/debeda39-53bd-4f12-88c3-8f866c63aaeb.png" alt="KPI Tree"></p>
 
 * <b>Strategic Goal:</b> What you’re aiming to achieve
 * <b>Theme:</b> Dimensions of all the elements that you’re going to be measuring
@@ -65,7 +65,7 @@ An example KPI tree was shared:<br/>
 * Building KPI trees helps 'Management' build a structured method by which to speak to 'Development'
 * Having a KPI tree helps development and innovation make development decisions make a significant difference on strategic PIs and KPIs
 * They are simple visual tools which can sum up large strategic initiatives in a few key indicator
-</br>
+<br/>
 <br/>
 
 <h1>What are the benefits of KPI trees?:</h1>
@@ -78,7 +78,7 @@ An example KPI tree was shared:<br/>
 <br/>
 <br/>
 
-<p align="center"><img src="http://bit.ly/1WCgVpz" alt="Introduction 3"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f9476d45-32ac-46df-97a9-4cfaf784fb95.png" alt="Introduction 3"></p>
 <br/>
 
 <h1>Pre-requisites for setting your KPIs:</h1>
@@ -121,7 +121,7 @@ An example KPI tree was shared:<br/>
 <br/>
 <br/>
 
-<p align="center"><img src="http://bit.ly/1NCXKGi" alt="Introduction 2"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/695b1471-9ebe-4911-ba48-2b2a2b88f9dd.png" alt="Introduction 2"></p>
 <br/>
 
 <h1>Tips on creating your KPI trees:</h1>

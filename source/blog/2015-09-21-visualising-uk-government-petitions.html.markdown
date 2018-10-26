@@ -13,41 +13,41 @@ The new [Petitions](https://petition.parliament.uk) site has been a massive succ
 
 Allow me to introduce [Petition Map](http://petitionmap.unboxedconsulting.com/):
 
-<p align="center"><img src="http://bit.ly/1KjPHeE" alt="Petitions 1"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5052a541-8578-4bea-92a9-fece50666330.png" alt="Petitions 1"></p>
 
 Petition Map allows users to select from the most popular petitions, signature-wise (with the option to input the URL of any smaller petitions) and regions of the UK to generate new heatmap visualisations:
 
-<p align="center"><img src="http://bit.ly/1ijKD2D" alt="Petitions 2"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1bcc970d-dc86-428b-b6a3-a44723a029fb.png" alt="Petitions 2"></p>
 
 
 Users can search through each constituency (or hover over parts of the map) to find out the number of signatures on each petition in each individual area:
 
-<p align="center"><img src="http://bit.ly/1NG8O8T" alt="Petitions 3"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d6d74a13-3e7c-4e41-b35f-eebff4476ebd.png" alt="Petitions 3"></p>
 
 Petition Map has been built to work on both desktop and mobile so that petitions can be visualised even when on the move:
 
-<p align="center"><img src="http://bit.ly/1NG8VkQ" alt="Petitions 4"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/339dabcc-5ce6-4f34-ab71-40898db75d7c.png" alt="Petitions 4"></p>
 
 
 <h2>How to use Petition Maps</h2>
 Petition Map defaults to the most signed petition, but other popular petitions can easily be found using the searchable dropdown menu. It’s also possible to change the area that the map displays which is useful for more regional petitions (Northern Ireland is currently not supported at this time) i.e. Scotland:
 
-<p align="center"><img src="http://bit.ly/1OhzCwf" alt="Petitions 5"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a5ac4bc0-8f9c-45d3-9790-50802c39e003.png" alt="Petitions 5"></p>
 
 Any constituency can be highlighted by using the searchable constituency dropdown or by hovering over a constituency on the map. The colour of the highlighted area
 corresponds the party of that constituencies’ MP, along with their name:
 
-<p align="center"><img src="http://bit.ly/1izOlWD" alt="Petitions 6"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/deff4d82-71a8-46c8-b2ef-fd3656902aa8.png" alt="Petitions 6"></p>
 
 The map itself supports zoom using the control panel on the right but if you’re using a mobile device or a supported trackpad - pinch to zoom can be used too:
 
-<p align="center"><img src="http://bit.ly/1iScQOA" alt="Petitions 7"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/832e10c1-593c-4d08-adf3-e26e20bb16f3.png" alt="Petitions 7"></p>
 
 If you find a map you want to share you can use the Share Map button to generate a link or share directly to Twitter or Facebook.
 
 If you want to take a screenshot or you’re using a device with a low resolution, parts of the user interface (UI) can be hidden in the settings panel, for a clearer overall map view:
 
-<p align="center"><img src="http://bit.ly/1FPRdU9" alt="Petitions 8"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0aea3164-db50-487f-a0b1-2999775f8bff.png" alt="Petitions 8"></p>
 
 
 <h2>Technology</h2>

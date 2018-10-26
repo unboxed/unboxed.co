@@ -22,7 +22,7 @@ I think the answer is:<br/>
 <br/>
 In a [PRINCE2](https://www.prince2.com) world, you have:<br/>
 
-<p align="center"><img src="http://bit.ly/1Ml9VHn" alt="PRINCE2"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e87659b5-99a4-40ae-acf7-5a7ce0dd6af7.png" alt="PRINCE2"></p>
 
 <h2>1. An IT project manager</h2>
 They generally deliver the solution.<br/>
@@ -45,7 +45,7 @@ No one owns the delivery of the business case, which is why the project was init
 
 Choose a Product Owner.<br/>
 
-<p align="center"><img src="http://bit.ly/1BKwHCk" alt="Product Owner"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/9e6c362b-a65c-435c-8ef4-9cd2befbeacf.png" alt="Product Owner"></p>
 
 Give them the budget to deliver what they need to deliver to make the business case work.<br/>
 
@@ -64,7 +64,7 @@ Make sure your project is set up with a Product Owner (or a business project man
 
 It’s important to view your project as a set of features, some of which are:<br/>
 
-<p align="center"><img src="http://bit.ly/1GksEUs" alt="Value and cost"></p>
+<p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/88d95eec-f29f-4f8d-8c14-c4804528abc8.png" alt="Value and cost"></p>
 
 It’s also important to understand the return on your investment for each feature. You don't want to deliver the features that are going to cost you a lot and not deliver any value.<br/>
 
