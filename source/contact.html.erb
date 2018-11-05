@@ -10,8 +10,8 @@ offices:
 
   - name: "London"
     address: |
-      17 Blossom Street
-      E1 6PL
+      60-62 Commercial Street
+      E1 6LT
       London, UK
     humanized_phone_number: "+44 20 7183 4250"
     phone_number: "+442071834250"
@@ -19,7 +19,7 @@ offices:
     calendly_link: "https://calendly.com/unboxed"
     email: "hellolondon@unboxed.co"
     map_link_title: "Open in Google Maps"
-    map_link: "http://goo.gl/maps/AuKrs"
+    map_link: "https://goo.gl/maps/hrEPw5rgq9S2"
     interactive_map: "https://a.tiles.mapbox.com/v4/web-unboxed.oebohej0/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
 
     transport_directions: "Nearest stations"
@@ -30,6 +30,9 @@ offices:
       - name: "Shoreditch High Street"
         link: "https://tfl.gov.uk/overground/stop/910GSHRDHST/shoreditch-high-street-rail-station"
         icon: "tfl-icon__overground.png"
+      - name: "Aldgate East"
+        link: "https://tfl.gov.uk/tube/stop/940GZZLUADE/aldgate-east-underground-station/"
+        icon: "tfl-icon__underground.png"
 ---
 
 <header class="page-header page-header--bottom-margin">
@@ -49,13 +52,13 @@ offices:
     <% current_page.data.offices.each do |office| %>
       <div class="contact-page-tile" id="<%= office.name.gsub(/\s+/, "") %>">
         <div class="contact-page-tile__container">
-  
+
           <div class="contact-page-tile__content">
             <p class="contact-page-tile__title"><%= office.name %></p>
             <address class="contact-page-address">
               <%= simple_format office.address %>
             </address>
-  
+
             <% if office.calendly_link %>
               <div class="contact-page-address__button-container">
                 <a class="contact-page-address__button" href="<%= office.calendly_link %>"
@@ -65,28 +68,28 @@ offices:
                 </a>
               </div>
             <% end %>
-  
+
             <div class="contact-page-address__phone-number">
               <a href="tel:<%= office.phone_number %>">
                 <i class="fa fa-phone contact-page-address__phone-icon"></i>
                 <%= office.humanized_phone_number %>
               </a>
             </div>
-  
+
             <div class="contact-page-address__email">
               <a href="mailto:<%= office.email %>" onclick='sendToGaContactPageEmailClickEvent()'>
                 <i class="fa fa-envelope contact-page-address__email-icon"></i>
                 <%= office.email %>
               </a>
             </div>
-  
+
             <div class="contact-page-address__map-link">
               <a href="<%= office.map_link %>" target="_blank">
                 <i class="fa fa-map-marker fa-lg contact-page-address__map-icon"></i>
                 <%= office.map_link_title %>
               </a>
             </div>
-  
+
             <div class="contact-page-address__directions">
               <%= office.transport_directions %>
                <ul>
@@ -101,7 +104,7 @@ offices:
                </ul>
             </div>
           </div>
-  
+
           <iframe class="contact-page-tile__image" frameBorder='0' src="<%= office.interactive_map %>"></iframe>
         </div>
       </div>
