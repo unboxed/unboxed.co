@@ -20,7 +20,8 @@ offices:
     email: "hellolondon@unboxed.co"
     map_link_title: "Open in Google Maps"
     map_link: "https://goo.gl/maps/hrEPw5rgq9S2"
-    interactive_map: "https://a.tiles.mapbox.com/v4/web-unboxed.oebohej0/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1Ijoid2ViLXVuYm94ZWQiLCJhIjoiY2lpN2hneWlvMDA4YnYzbHg2NHFqbW9yaSJ9.J1ksUtXP8Xsb2piQUcWJfA"
+    map_id: "london-map"
+    map_location: [-0.07359, 51.51772]
 
     transport_directions: "Nearest stations"
     station_and_parking:
@@ -33,7 +34,14 @@ offices:
       - name: "Aldgate East"
         link: "https://tfl.gov.uk/tube/stop/940GZZLUADE/aldgate-east-underground-station/"
         icon: "tfl-icon__underground.png"
+
+mapbox_token: "pk.eyJ1IjoidW5ib3hlZHdlYiIsImEiOiJjam80OXZhdmYxMjc2M3BueDZnZjNtMWRwIn0.KyV6qQeKuG2035XLg3kGnw"
 ---
+
+<% content_for(:head) do %>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css" rel="stylesheet" />
+<% end %>
 
 <header class="page-header page-header--bottom-margin">
   <div class="page-header__container">
@@ -49,6 +57,10 @@ offices:
 
 <div class="container">
   <div class="container--grid" id="offices" data-header-waypoint>
+    <script>
+      mapboxgl.accessToken = '<%= current_page.data.mapbox_token %>';
+    </script>
+
     <% current_page.data.offices.each do |office| %>
       <div class="contact-page-tile" id="<%= office.name.gsub(/\s+/, "") %>">
         <div class="contact-page-tile__container">
@@ -105,7 +117,28 @@ offices:
             </div>
           </div>
 
-          <iframe class="contact-page-tile__image" frameBorder='0' src="<%= office.interactive_map %>"></iframe>
+          <div class="contact-page-tile__image">
+            <div id="<%= office.map_id %>"></div>
+          </div>
+
+          <script>
+            if (mapboxgl.supported()) {
+              var map = new mapboxgl.Map({
+                container: '<%= office.map_id %>',
+                center: <%= office.map_location.to_json %>,
+                zoom: 15,
+                style: 'mapbox://styles/mapbox/streets-v10'
+              });
+
+              var marker = new mapboxgl.Marker({ color: '#8A2D8E' })
+                .setLngLat(<%= office.map_location.to_json %>)
+                .addTo(map);
+
+              var control = new mapboxgl.NavigationControl({ showCompass: false });
+
+              map.addControl(control, 'top-right');
+            }
+          </script>
         </div>
       </div>
     <% end %>

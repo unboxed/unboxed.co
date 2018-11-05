@@ -43,15 +43,30 @@
   }
 }
 
-iframe.contact-page-tile__image {
+.contact-page-tile__image {
   box-sizing: border-box;
   display: block;
   min-height: 200px;
   padding: 6px;
   width: 100%;
+  position: relative;
+  overflow: hidden;
+
+  .mapboxgl-map {
+    box-sizing: border-box;
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    right: 6px;
+    bottom: 6px;
+  }
+
+  canvas {
+    outline: none;
+  }
 
   @include breakpoint($tablet-breakpoint) {
-    min-height: 495px;
+    min-height: 515px;
     width: 50%;
   }
 }
