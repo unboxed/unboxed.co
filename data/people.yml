@@ -204,6 +204,15 @@
     link: https://twitter.com/borisdivjak
   - name: LinkedIn
     link: https://www.linkedin.com/in/borisdivjak/
+- name: Ben Baumann
+  short_name: ben-baumann
+  role: Developer
+  email: ben.baumann
+  social_networks:
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/ben-baumann
+  - name: Github
+    link: https://github.com/benbaumann95
 - name: Igor Fontana
   short_name: igor-fontana
   role: Developer
