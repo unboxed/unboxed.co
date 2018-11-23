@@ -160,6 +160,13 @@
     link: https://twitter.com/lawrence_design
   - name: LinkedIn
     link: https://www.linkedin.com/in/lawrencer/
+- name: Celia Collins
+  short_name: celia-collins
+  role: Developer
+  email: celia.collins
+  social_networks:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/celia-collins-275783150/
 - name: Neil van Beinum
   short_name: neil-van-beinum
   role: Developer
@@ -181,6 +188,13 @@
     link: https://twitter.com/mattunboxed
   - name: LinkedIn
     link: https://uk.linkedin.com/in/mattturrell1
+- name: Vicky Peele
+  short_name: vicky-peele
+  role: Operations
+  email: vicky.peele
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/victoriakpeel
 - name: Boris Divjak
   short_name: boris-divjak
   role: Designer
@@ -201,10 +215,4 @@
     link: https://www.linkedin.com/in/david-henry-000b603/
   - name: Github
     link: https://github.com/dwhenry
-- name: Celia Collins
-  short_name: celia-collins
-  role: Developer
-  email: celia.collins
-  social_networks:
-    - name: LinkedIn
-      link: https://www.linkedin.com/in/celia-collins-275783150/
+
