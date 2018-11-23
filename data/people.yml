@@ -71,6 +71,13 @@
   social_networks:
   - name: Twitter
     link: https://twitter.com/DawnTurner21
+- name: Celia Collins
+  short_name: celia-collins
+  role: Developer
+  email: celia.collins
+  social_networks:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/celia-collins-275783150/
 - name: Murray Steele
   short_name: murray-steele
   role: Developer
@@ -99,6 +106,13 @@
     link: https://uk.linkedin.com/in/elenatanasoiu
   - name: GitHub
     link: https://github.com/elenatanasoiu
+- name: Vicky Peel
+  short_name: vicky-peel
+  role: Operations
+  email: vicky.peel
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/victoriakpeel
 - name: Steve Lennon
   short_name: steve-lennon
   role: Delivery
@@ -190,6 +204,10 @@
     link: https://twitter.com/borisdivjak
   - name: LinkedIn
     link: https://www.linkedin.com/in/borisdivjak/
+- name: Igor Fontana
+  short_name: igor-fontana
+  role: Developer
+  email: igor.fontana
 - name: David Henry
   short_name: david-henry
   role: Developer
@@ -201,10 +219,5 @@
     link: https://www.linkedin.com/in/david-henry-000b603/
   - name: Github
     link: https://github.com/dwhenry
-- name: Celia Collins
-  short_name: celia-collins
-  role: Developer
-  email: celia.collins
-  social_networks:
-    - name: LinkedIn
-      link: https://www.linkedin.com/in/celia-collins-275783150/
+
+
