@@ -1,3 +1,21 @@
+.blog-container {
+  margin: 0 auto;
+  max-width: $max-mobile-container;
+  overflow: hidden;
+
+  @include breakpoint($tablet-breakpoint) {
+    max-width: 960px;
+  }
+}
+
+.blog-container--grid {
+  @include breakpoint($tablet-breakpoint) {
+    margin: 0 -3px;
+  }
+
+  @include clearfix;
+}
+
 .blog-tile__grid-sizer {
   width: calc(100%/3);
 }
