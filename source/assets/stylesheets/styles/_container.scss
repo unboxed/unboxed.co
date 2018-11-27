@@ -4,8 +4,7 @@
   overflow: hidden;
 
   @include breakpoint($tablet-breakpoint) {
-    max-width: 1280px;
-    // $desktop-breakpoint;
+    max-width: $desktop-breakpoint;
   }
 }
 
