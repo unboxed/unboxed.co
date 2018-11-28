@@ -1,0 +1,138 @@
+---
+title: "Product Story - char.gy' - Providing residents with an on-street electric vehicle charging solution with char.gy"
+meta_keywords: "Ruby on Rails, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails development, Ruby on Rails developer London"
+
+team:
+  title: "Unboxed team"
+  people:
+    - full_name: "Richard Stobart"
+      image: "/product-stories/chargy/team/richard-stobart.png"
+      link: "/people#richard-stobart"
+
+    - full_name: "Tim Higgins"
+      image: "/product-stories/chargy/team/tim-higgins.png"
+      link: "/people#tim-higgins"
+
+    - full_name: "Henry Turner"
+      image: "/product-stories/chargy/team/henry-turner.png"
+      link: "/people#henry-turner"
+
+    - full_name: "Steve Lennon"
+      image: "/product-stories/v-and-a-museum/team/steve-lennon.png"
+      link: "/people#steve-lennon"
+
+    - full_name: "Martyn Evans"
+      image: "/product-stories/guys-and-st-thomas/team/martyn-evans.png"
+      link: "/people#martyn-evans"
+
+site:
+  link: "https://char.gy/"
+  text: "Visit the char.gy site"
+
+header:
+  client: "char.gy"
+  introduction: "Providing residents with an on-street electric vehicle charging solution with char.gy"
+  image: "/product-stories/chargy/header-chargy.jpg"
+  image_description: "char.gy"
+
+introduction:
+  title: "TODO"
+  content:
+    - "TODO1"
+    - "TODO2"
+    - "TODO3"
+    - "TODO4"
+  image: "/product-stories/chargy/car-charging-with-chargy.jpg"
+  image_description: "Car charging with char.gy"
+
+in_numbers:
+  title: "char.gy in numbers"
+  project: "chargy"
+  statistics:
+    - number: "4"
+      text: "Current chargepoint locations"
+    - number: "7.7kWh"
+      text: "Fast charging"
+
+chargy_plug:
+  content: "TODO"
+  image: "/product-stories/chargy/chargy-plug.jpg"
+  image_description: "char.gy plug"
+
+quote_chris_1:
+  quote: "The last four years have seen a surge in demand for electric vehicles in the UK, with the demand due to drastically continue increasing over the next few years. With nowhere to easily charge an electric vehicle in a residential street, how can this uptake be supported by limited infrastructure? This is the problem we’re working with Unboxed to overcome."
+  source: "Chris McDowell, Chief Product Officer — char.gy"
+
+phones:
+  content: "TODO"
+  image: "/product-stories/chargy/phones.jpg"
+  image_description: "char.gy app"
+
+quote_chris_2:
+  quote: "TODO"
+  source: "Chris McDowell, Chief Product Officer — char.gy"
+
+chargy_charging:
+  content: "TODO"
+  image: "/product-stories/chargy/chargy-plug.jpg"
+  image_description: "char.gy plug"
+
+quote_chris_3:
+  quote: "We are extremely pleased with the platform development service provided to us by Unboxed. The iterative development process they employ is focused around adding value to our customers and has delivered cost-effective solutions."
+  source: "Chris McDowell, Chief Product Officer — char.gy"
+
+links:
+  - title: "char.gy: New player on London lamp post charging scene"
+    source: "Electrive"
+    type: "news"
+    link: "https://www.electrive.com/2018/08/21/char-gy-new-player-on-london-lamp-post-charging-scene/"
+
+  - title: "Char.gy taps into lampposts to charge your electric car"
+    source: "Techcrunch"
+    type: "news"
+    link: "https://techcrunch.com/2017/04/10/char-gy-zaps-the-street-furniture-for-super-powers/"
+
+related:
+  title: "Related"
+  articles:
+    - title: "char.gy Awarded Contract to Install Lamppost EV Charge Points in London Boroughs"
+      type: "news"
+      link: "https://www.renewableenergymagazine.com/electric_hybrid_vehicles/char-gy-awarded-contract-to-install-lamppost-20180817"
+
+    - title: "London lamp posts to plug EV charging gaps"
+      type: "news"
+      link: "https://fleetworld.co.uk/london-lamp-posts-to-plug-ev-charging-gaps/"
+
+    - title: "UK’s first public lamp post Electric Vehicle charging points go live in Marlow!"
+      type: "news"
+      link: "https://www.mymarlow.co.uk/2018/06/uks-first-public-lamp-post-electric-vehicle-charging-points-go-live-in-marlow/"
+
+---
+
+<%= partial 'shared/page_header', locals: current_page.data.header %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'shared/full_image', locals: current_page.data.header %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
+
+  <%= partial 'shared/highlight', locals: current_page.data.in_numbers %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.chargy_plug %>
+
+  <%= partial 'shared/quote', locals: current_page.data.quote_chris_1 %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.phones %>
+
+  <%= partial 'shared/quote', locals: current_page.data.quote_chris_2 %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.chargy_charging %>
+
+  <%= partial 'shared/quote', locals: current_page.data.quote_chris_3 %>
+
+  <%= partial 'shared/project_team' %>
+
+  <%= partial 'shared/link_tiles' %>
+
+  <%= partial 'shared/related_tiles' %>
+</div>
