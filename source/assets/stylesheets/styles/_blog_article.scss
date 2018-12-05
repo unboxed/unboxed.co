@@ -4,7 +4,14 @@
 }
 
 .blog-article__container {
-  @extend .container;
+  margin: 0 auto;
+  max-width: $max-mobile-container;
+  overflow: hidden;
+
+  @include breakpoint($tablet-breakpoint) {
+    max-width: 960px;
+  }
+
   box-sizing: border-box;
   padding: 0 20px 30px;
 }

@@ -7,13 +7,7 @@
 }
 
 .blog-header__container {
-  margin: 0 auto;
-  max-width: $max-mobile-container;
-  overflow: hidden;
-
-  @include breakpoint($tablet-breakpoint) {
-    max-width: 960px;
-  }
+  @extend .container;
   padding: 0 20px 20px;
   box-sizing: border-box;
 }

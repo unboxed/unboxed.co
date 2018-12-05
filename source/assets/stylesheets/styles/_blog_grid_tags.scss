@@ -1,14 +1,10 @@
 .blog-grid-tags {
-  margin: 0 auto;
-  max-width: $max-mobile-container;
-  overflow: hidden;
+  @extend .container;
+  display: none;
 
   @include breakpoint($tablet-breakpoint) {
-    max-width: 960px;
     display: block;
     box-sizing: border-box;
     padding: 0 20px 20px;
   }
-
-  display: none;
 }
