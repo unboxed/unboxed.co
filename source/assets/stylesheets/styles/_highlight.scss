@@ -121,6 +121,12 @@
   color: $white;
 }
 
+.highlight--jersey-petitions {
+  @extend %highlight;
+  background-color: #9d122b;
+  color: $white;
+}
+
 .highlight--southwark-ccg {
   @extend %highlight;
   background-color: #027EC5;
