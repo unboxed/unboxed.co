@@ -18,13 +18,13 @@ Having an up to date and accurate record of citizens is a valuable and increasin
 
 ![Hackney Council Citizen Index Show and Tell](/assets/images/uploads/citizen-index-show-and-tell-2x.jpg)
 
-_A show and tell presentation at the Hackney Service Centre_
+*A show and tell presentation at the Hackney Service Centre*
 
 However there are a number of costs and pain points associated with running and maintaining a citizen index. Unboxed undertook a discovery phase to address 3 research questions; to identify areas where the current solution works well and where there are problems, evaluate alternate approaches, and uncover opportunities for future improvement. 
 
 ![Hackney Council Citizen Index Alignment Workshop](/assets/images/uploads/alignment-workshop-2x.jpg)
 
-_Alignment workshop to understand the as-is system _
+*Alignment workshop to understand the as-is system*
 
 To understand how the system is working currently the team conducted a number of research activities such as shadowing staff, interviews, surveys and performance testing. 
 
@@ -40,7 +40,7 @@ Our technical investigations sought to understand how the current data integrati
 
 ![Hackney Council Citizen Index Performance Testing](/assets/images/uploads/performance-testing-2x.jpg)
 
-Speed c_omparison of common and uncommon name searches _
+*Speed comparison of common and uncommon name searches*
 
 # Reframing the citizen index around identified use cases rather than assumed uses
 
@@ -54,9 +54,9 @@ The 3 identified use cases were:
 
 ![Hackney Council Citizen Index Co-design Workshops](/assets/images/uploads/concept-workshop-2x.jpg)
 
-_Co-design workshop _
+*Co-design workshop*
 
-# A streamlined tool based on clearly identified needs 
+# A streamlined tool based on clearly identified needs
 
 The proposed solution should move away from a large monolithic system to a simplified system. It is to be designed around the 3 clear use cases, and streamlined by providing only as much data is needed (rather than unnecessary data and historic). 
 
