@@ -154,6 +154,13 @@
     link: https://uk.linkedin.com/in/ben-wong-45876a1
   - name: GitHub
     link: https://github.com/spannerinworks
+- name: Holly Brenan
+  short_name: holly-brenan
+  role: Designer
+  email: holly.brenan
+  social_networks:
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/holly-brenan-57391b7/
 - name: Henry Turner
   short_name: henry-turner
   role: Developer
