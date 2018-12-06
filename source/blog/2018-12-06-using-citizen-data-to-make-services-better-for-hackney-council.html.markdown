@@ -6,7 +6,7 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: ''
+main_image: 'https://unboxed.co/assets/images/uploads/alignment-workshop-2x.jpg'
 date: '2018-12-06T11:38:34+00:00'
 published: true
 ---
