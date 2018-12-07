@@ -1,6 +1,7 @@
 ---
 weekly_roundup: true
-title: "Roundup: requiring Ruby code"
+title: "Roundup: requiring Ruby code, advent of code, the crypto-rich, 
+and things I learnt in 2018"
 date: '2018-12-07 14:30:00 BST'
 authors:
   - 'Neil van Beinum'
@@ -24,6 +25,24 @@ alternative model that seems to me to be based on the ES6 module system.  Who
 knows if something like this would ever become part of ruby itself, but the 
 ability to require only small parts of a library without worrying about 
 namespace clashes sounds really good to me.
+
+## Advent of code 2018 - [Elena T](/people#elena-tanasoiu)
+
+https://adventofcode.com/2018
+
+Advent of code is live - one coding challenge every day until Christmas, if you're into that sort of thing. 
+
+## Four days trapped at sea with crypto's nouveau riche - [Elena T](/people#elena-tanasoiu)
+
+https://breakermag.com/trapped-at-sea-with-cryptos-nouveau-riche/
+
+How one person sets sail with the crypto-rich, a few hours after a bitcoin crash. 
+
+## 52 things I learned in 2018 - [Elena T](/people#elena-tanasoiu)
+
+https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2018-b07fc110d8e1
+
+Surprisingly interesting read.
 
 ## Track of the Week - [Lawrence R](/people#lawrence-richards)
 
