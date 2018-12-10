@@ -16,8 +16,7 @@
     <meta name="twitter:site" content="@Ubxd">
     <meta name="twitter:title" content="<%= current_page.data.title %>">
     <meta name="twitter:description" content="<%= truncate(strip_tags(current_page.data.header ? current_page.data.header.introduction : ""), length: 150) %>">
-    <meta name="twitter:image" content="<%= current_page.data.header ? image_url("current_page.data.header.image") : image_url("assets/images/blog/unboxed-logo.png") %>">
-    <meta name="twitter:url" content="current_page.data.url">
+    <meta name="twitter:image" content="<%= current_page.data.header ? current_page.data.header.image : image_url("assets/images/blog/hackathon.jpg") %>">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
     <%= stylesheet_link_tag "application" %>
     <%= stylesheet_link_tag "ie10_fixes" %>
