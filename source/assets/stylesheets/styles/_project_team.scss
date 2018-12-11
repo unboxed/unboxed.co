@@ -45,6 +45,10 @@
 
 .project-team__container--4 {
   width: 25%;
+
+  .project-team__headshot {
+    width: 75%;
+  }
 }
 
 .project-team__container--5 {
@@ -57,6 +61,6 @@
 
 .project-team__headshot {
   display: block;
-  width: 100% auto;
   max-height: 377px; // there is a problem with some images, it's used to unify them all
+  width: 100%;
 }
