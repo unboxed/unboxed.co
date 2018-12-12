@@ -113,6 +113,13 @@
   social_networks:
   - name: Twitter
     link: https://twitter.com/victoriakpeel
+- name: Paul John-Baptiste
+  short_name: paul-john-baptiste
+  role: Designer
+  email: paul.john-baptiste
+  social_networks:
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/paul-john-baptiste-9b47b51/
 - name: Steve Lennon
   short_name: steve-lennon
   role: Delivery
