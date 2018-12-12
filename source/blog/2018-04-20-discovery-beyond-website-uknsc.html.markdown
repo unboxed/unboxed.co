@@ -38,7 +38,7 @@ the underlying technical infrastructure is outdated and needs to be reviewed.
 Unboxed was engaged by Public Health England to conduct a website review for the UK NSC. From the start of the Discovery phase,
 we aimed to establish agile, collaborative working practices within the project team. We were fortunate to work with an amazing
 Product Owner from UK NSC, who went above and beyond to engage project stakeholders and facilitate a smooth workflow
-(thank you, [Adrian](https://www.linkedin.com/in/adrian-byrtus-b62ab72a/)). As with any project, there were challenges along the way,
+(thank you, Adrian). As with any project, there were challenges along the way,
 yet with Adrian’s help we managed to establish a collaborative environment:
 
 * **Co-location;** Public Health England is a busy organisation and there wasn’t much working space available within their offices.
