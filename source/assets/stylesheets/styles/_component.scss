@@ -1,6 +1,11 @@
 .component {
   @include clearfix;
   background-color: $white;
+
+  @include breakpoint($desktop-breakpoint) {
+    max-height: 550px;
+    overflow: hidden;
+  }
 }
 
 .component--spinouts {

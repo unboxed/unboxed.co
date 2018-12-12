@@ -37,13 +37,17 @@
 
 .project-team__container--3 {
   width: 33%;
+
+  .project-team__headshot {
+    width: 66%;
+  }
 }
 
 .project-team__container--4 {
   width: 25%;
 
   .project-team__headshot {
-    width: 75%;
+    width: 66%;
   }
 }
 

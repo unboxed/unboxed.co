@@ -3,12 +3,12 @@
   padding-bottom: 30px;
 
   @include breakpoint($tablet-breakpoint) {
-    margin-top: 88px;
+    margin-top: 53px;
     padding-bottom: 50px;
   }
 
   @include breakpoint($desktop-breakpoint) {
-    margin-top: 98px;
+    margin-top: 64px;
   }
 }
 
