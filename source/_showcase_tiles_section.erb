@@ -24,10 +24,16 @@
   <% end %>
 
   <% if locals[:client_logos] %>
-    <div class="showcase-tile-client-logos">
-      <% locals[:client_logos].each do |client_logo| %>
-        <%= image_tag client_logo.image, alt: client_logo.name, class: 'showcase-tile-client-logos__logo', srcset: retina_srcset(client_logo.image) %>
-      <% end %>
-    </div>
+      <div class="showcase-tile-client-logos">
+        <% locals[:client_logos].each do |client_logo| %>
+          <% if client_logo.link %>
+            <a href="<%= client_logo.link %>" title="<%= client_logo.name %>">
+              <%= image_tag client_logo.image, alt: client_logo.name, class: 'showcase-tile-client-logos__logo-link', srcset: retina_srcset(client_logo.image) %>
+            </a>
+          <% else %>
+            <%= image_tag client_logo.image, alt: client_logo.name, class: 'showcase-tile-client-logos__logo', srcset: retina_srcset(client_logo.image) %>
+          <% end %>
+        <% end %>
+      </div>
   <% end %>
 </section>
