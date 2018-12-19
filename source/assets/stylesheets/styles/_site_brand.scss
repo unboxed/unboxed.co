@@ -4,7 +4,7 @@
   box-sizing: border-box;
   margin-bottom: 15px;
   padding-right: 25px;
-  float: right;
+  transition: 1s;
 
   @include breakpoint($tablet-breakpoint) {
     padding-right: 20px;
@@ -13,6 +13,11 @@
   @include breakpoint($desktop-breakpoint) {
     padding-right: 20px;
   }
+}
+
+.site-brand__right {
+  float: right;
+  transition: 1s;
 }
 
 .site-brand__link {
