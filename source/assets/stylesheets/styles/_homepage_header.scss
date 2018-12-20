@@ -53,7 +53,7 @@
   }
 
   @include breakpoint($desktop-breakpoint) {
-    min-height: 480px;
+    min-height: 500px;
   }
 
   video {

@@ -1,6 +1,6 @@
 .site-navigation {
   height: 37px;
-  margin: 0 auto;
+  margin: 10px auto 0 auto;
   max-width: $max-mobile-container;
   overflow: hidden;
   position: relative;
@@ -110,7 +110,7 @@
   }
 
   @include breakpoint($desktop-breakpoint) {
-    font-size: 1em;
+    font-size: 1.2em;
     padding: 16px 14px;
   }
 }

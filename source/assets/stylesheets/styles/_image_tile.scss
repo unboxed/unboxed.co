@@ -5,4 +5,10 @@
   @include breakpoint($tablet-breakpoint) {
     min-height: 320px;
   }
+
+  @include breakpoint($desktop-breakpoint) {
+    max-height: 550px;
+    height: 100%;
+    object-fit: cover;
+  }
 }

@@ -13,11 +13,11 @@
   font-size: 1.4em;
 
   @include breakpoint($tablet-breakpoint) {
-    font-size: 3.68vw;
+    font-size: 3vw;
   }
 
   @include breakpoint($desktop-breakpoint) {
-    font-size: 2.2em;
+    font-size: 2.5em;
   }
 }
 
@@ -41,7 +41,7 @@
   }
 
   @include breakpoint($desktop-breakpoint) {
-    font-size: 1.3em;
+    font-size: 1.6em;
   }
 }
 

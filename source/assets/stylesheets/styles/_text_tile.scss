@@ -15,6 +15,11 @@
     padding: 30px 20px 20px;
     min-height: 320px;
   }
+
+  @include breakpoint($desktop-breakpoint) {
+    padding: 30px 30px 20px;
+    min-height: 320px;
+  }
 }
 
 .text-tile--double-tile {
@@ -112,6 +117,7 @@
 
   @include breakpoint($desktop-breakpoint) {
     margin-top: 16px;
+    line-height: 1.4;
   }
 }
 

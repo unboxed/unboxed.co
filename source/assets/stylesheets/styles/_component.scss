@@ -1,6 +1,16 @@
 .component {
   @include clearfix;
   background-color: $white;
+
+  @include breakpoint($desktop-breakpoint) {
+    max-height: 550px;
+    overflow: hidden;
+  }
+}
+
+.component--full-page {
+  @include clearfix;
+  background-color: $white;
 }
 
 .component--spinouts {
