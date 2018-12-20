@@ -8,6 +8,11 @@
   }
 }
 
+.component--full-page {
+  @include clearfix;
+  background-color: $white;
+}
+
 .component--spinouts {
   @extend .component;
   margin-bottom: 6px;
