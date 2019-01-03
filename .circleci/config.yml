@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/unboxed/unboxed.co
     docker:
-      - image: circleci/ruby:2.3.7-node
+      - image: circleci/ruby:2.6.0-node
     steps:
       - checkout
       - restore_cache:
