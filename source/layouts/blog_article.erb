@@ -5,9 +5,6 @@
 
 <!--Twitter card tags-->
 <% content_for(:twitter_card) do %>
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@Ubxd">
-  <meta name="twitter:title" content="<%= current_page.data.title %>">
   <meta name="twitter:description" content="<%= truncate(strip_tags(current_article.body), length: 150) %>">
   <meta name="twitter:image" content="<%= current_page.data.weekly_roundup ? image_url("assets/images/blog/unboxed_roundup.jpg") : current_page.data.main_image %>">
 <% end %>
