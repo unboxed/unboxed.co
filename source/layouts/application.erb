@@ -12,11 +12,20 @@
     <meta name="description" content="<%= page_data(:meta_description) %>">
     <meta name="keywords" content="<%= page_data(:meta_keywords) %>">
     <%= favicon_tag "favicon.ico" %>
+
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@Ubxd">
     <meta name="twitter:title" content="<%= current_page.data.title %>">
-    <meta name="twitter:description" content="<%= truncate(strip_tags(current_page.data.header ? current_page.data.header.introduction : ""), length: 150) %>">
-    <meta name="twitter:image" content="<%= current_page.data.header ? image_url("#{current_page.data.header.image}") : image_url("assets/images/blog/unboxed-product-story.png") %>">
+
+    <%# Most page types have a consistent header structure and rules for description/image (as used below), but some pages (e.g. blog posts) differ. %>
+    <%# This seems to have come about because prose doesn't allow nested YML easily. %>
+    <% if content_for?(:twitter_card) %>
+      <%= yield_content(:twitter_card) %>
+    <% else %>
+      <meta name="twitter:description" content="<%= truncate(strip_tags(current_page.data.header ? current_page.data.header.introduction : ""), length: 150) %>">
+      <meta name="twitter:image" content="<%= defined?(current_page.data.header.image) ? image_url("#{current_page.data.header.image}") : image_url("assets/images/unboxed-default-twitter-card.jpg") %>">
+    <% end %>
+
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
     <%= stylesheet_link_tag "application" %>
     <%= stylesheet_link_tag "ie10_fixes" %>
