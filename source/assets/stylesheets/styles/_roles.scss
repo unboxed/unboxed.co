@@ -2,8 +2,8 @@
   padding: 30px 0 0 0;
 
   @include breakpoint($tablet-breakpoint) {
-    overflow: auto;
-    padding: 60px 0 50px 0;
+    overflow: hidden;
+    padding-top: 60px;
   }
 }
 

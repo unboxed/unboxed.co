@@ -1,19 +1,15 @@
 .roles-tiles{
-
-  overflow: hidden;
-
   @include breakpoint($tablet-breakpoint) {
     display: flex;
     flex-direction: row;
     width: 100%;
-    min-height: 280px;
-    max-height: fit-content;
+    min-height: 200px;
     justify-content: center;
   }
 
   @include breakpoint($desktop-breakpoint) {
     max-height: none;
-    height: 320px;
+    height: 250px;
   }
 
 }
