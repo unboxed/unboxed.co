@@ -1,0 +1,153 @@
+---
+title: "Join Us - Senior Developer - Join our team as a senior developer"
+
+header:
+  title: "Join us"
+  subtitle: "Senior Developer"
+
+introduction:
+  title: "Senior Developer"
+  text_1: "Salary range £65k - £80k"
+  text_2: "We are on the lookout for London based Senior Developers, with solid technical experience of Ruby on Rails, who love working with people to make a meaningful impact in the world, by delivering valuable solutions."
+  text_3: "You will be working as a core member of one of our multi-disciplinary teams to:"
+  activities:
+    - Help our clients understand what their user needs actually are
+    - Prototype alternative solutions to identify the right thing for us to build
+    - Build scalable, sustainable and innovative systems based on what we've learnt in the project so far
+  text_4: "We're growing Unboxed. We want new team members who are interested in more than coding, we want people to join us to help to add to our community leadership, mentor our more junior people and increase our diversity."
+
+developers_image:
+  image: "/jobs/images/developers-1.jpg"
+  image_description: "Developers presenting code"
+
+description:
+  title: "Some of the key activities within this role include:"
+  content:
+    - Collaborating with designers, user researchers, subject matter experts and other project stakeholders
+    - Developing and maintaining Ruby on Rails applications through agile ways of working
+    - Making informed decisions, quickly drawing from a breadth of technical experience
+    - Turning designs and wireframes into functional applications
+    - Involving your team in discussions on progress of stories
+    - Identifying areas of risk and complexity during each project
+
+requirements:
+  title: "Some of the skills we're looking for"
+  intro: "These are the types of skills that we expect our senior developers to have (but if there's anything you can't do yet, we will help you learn):"
+  content:
+    - Ruby and Ruby on Rails experience
+    - Experience of version control (ideally Git)
+    - TDD/BDD experience
+    - SQL (preferably MySQL or PostgreSQL)
+    - HTML and CSS
+    - Ability to work in multidisciplinary teams to plan and ship projects
+    - Ability to identify areas of risk and complexity during the planning process
+    - Ability to work iteratively and collaboratively, with open communication
+    - Can turn wireframes and designs into functional applications
+    - Writing and maintaining integration and unit test suites
+
+other_requirements:
+  title: "Nice to have"
+  content:
+    - Experience working in an agile environment
+    - Experience setting up and maintaining UNIX systems
+    - Experience working with AWS
+    - Experience of working on Discoveries, Alphas and Betas following the GDS Service Manual
+    - JavaScript
+    - Understanding of continuous integration and delivery
+  image: "/jobs/images/developers-2.jpg"
+  image_description: "Developer at work"
+
+benefits:
+  title: "Benefits of working with us"
+  content:
+    - 25 holiday days per year, on top of the bank holiday allowance
+    - '10 "Innovation Days" per year to explore your own ideas'
+    - Holiday flexibility and loyalty bonus benefits
+    - Maternity and Shared Parental Leave policies
+    - A company-wide peer-to-peer mentoring programme
+    - A generous conference budget
+    - Salary reviews twice a year
+    - Flexible working hours and location
+    - An informal culture of growth
+    - Monthly "Linkers and Thinkers" idea-exploring lunches
+    - Weekly reflection at "Whines & Cheers", our Friday company retrospective
+    - A 'Bike To Work' scheme
+
+process:
+  title: "What next?"
+  text_1: "Send us your CV and, if we think you will make a good team member, we will get you to complete a short coding exercise. This gives you the opportunity to showcase your approach to solving problems and for us to see your code on a clean build project."
+  text_2: "Following this is a face-to-face pairing session with one of our developers, where we will talk over the choices you have made in your solution and get to know you a little better. You will then get to meet with one of our directors."
+  image: "/jobs/images/developers-4.jpg"
+  image_description: "Developers working together"
+
+developer_quote:
+  quote: "I feel very lucky to be part of Unboxed where you are welcomed to be yourself, you're encouraged to grow and there are plenty of challenges to help you become your very best. You're given great freedom and you've got creative and passionate co-workers that are always keen to get involved in the community, tinker with new ideas and find solutions to complex problems."
+  source: "Elena Tanasoiu, Ruby on Rails Developer"
+  image: "/assets/images/people/elena-tanasoiu.png"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Unboxed Hackathon #2 - All in an innovation day’s work"
+      type: "blog"
+      link: "/blog/unboxed-hackathon-2-all-in-an-innovation-day-s-work"
+
+    - title: "RubyConf Portugal 2016"
+      type: "blog"
+      link: "/blog/rubyconf-portugal-2016"
+
+    - title: "Faster than Lightning: November's Developer Event"
+      type: "blog"
+      link: "/blog/faster-than-lightning-november-s-developer-event"
+---
+
+<%= partial 'jobs/job_header' %>
+
+<div class="container" data-header-waypoint>
+  <section class="component--full-page">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_2 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_3 %>
+      </p>
+
+      <ul class="text-tile__list">
+        <% current_page.data.introduction.activities.each do |requirement| %>
+            <li class="text-tile__list-item">
+              <%= requirement %>
+            </li>
+        <% end %>
+      </ul>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_4 %>
+      </p>
+    </div>
+  </section>
+
+  <%= partial 'shared/full_image', locals: current_page.data.developers_image %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.requirements %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.other_requirements %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
+
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
+
+  <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
+
+  <%= partial 'jobs/contact_us' %>
+
+  <%= partial 'shared/related_tiles' %>
+</div>

@@ -1,18 +1,15 @@
 .roles-tile {
   box-sizing: border-box;
   display: block;
-  margin-bottom: 6px;
-  padding-right: 6px;
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
     padding-left: 3px;
     padding-right: 3px;
     float: left;
-    max-width: 50%;
     flex-grow: 1;
     flex-basis: 0;
-    max-height:100%;
+    max-height: 100%;
 
     &:last-of-type {
       padding-right: 0px;
@@ -29,77 +26,15 @@
 .roles-tile--linked {
   @extend .roles-tile;
   color: darken($light-gray, 5%);
-}
-
-.roles-tile--linked-single {
-  padding-right: 6px;
-  color: darken($light-gray, 5%);
-}
-
-.roles-tile__content-single {
-  @extend .roles-tile;
-  max-width: 100%;
-  background-color: $white;
-  padding-bottom: 0;
-  margin-right: 0;
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 185px;
-  }
-
-  &:hover {
-    background-color: mix($white, $light-gray);
-  }
-
-  &:first-of-type {
-    padding-right: 0;
-  }
-}
-
-
-.roles-tile__text-single {
-  box-sizing: border-box;
-  padding: 30px 20px;
-
-  @include breakpoint($tablet-breakpoint) {
-    padding: 30px 20px 0 20px;
-  }
-}
-
-.roles-tile__image-container{
-  @include clearfix;
-  display: flex;
-  justify-content: center;
-
-  @include breakpoint($tablet-breakpoint) {
-    justify-content: flex-end;
-    float: left;
-    width: 50%;
-  }
-  height: 100%;
-}
-
-
-.roles-tile__image {
-  display: block;
-  height: 100%;
-  width: 100%;
-  margin: auto;
-  //Allows image to auto crop
-  object-fit: cover;
-  //Fixes object-fit for IE browsers using object-fit JS library
-  font-family: 'object-fit: cover';
-
-  @include breakpoint($tablet-breakpoint) {
-    margin-right: 0;
-  }
+  margin-bottom: 6px;
 }
 
 .roles-tile__content {
   background-color: $white;
   box-sizing: border-box;
-  padding: 8px;
-  max-height: 100%;
+  padding: 10px;
+  min-height: 190px;
+
   &:hover {
     background-color: mix($white, $light-gray);
   }
@@ -107,15 +42,15 @@
 
 .roles-tile__title {
   @include responsive-text;
-  color: lighten($dark-gray, 15%);
+  color: $purple;
   padding: 14px 6px;
 }
 
 .roles-tile__paragraph {
   color: $dark-gray;
-  padding: 0 6px 6px;
+  padding: 6px 6px 6px;
   font-weight: 300;
-  line-height: 1.2em;
+  line-height: 1.4em;
 
   @include breakpoint($tablet-breakpoint) {
     font-size: .95em;
@@ -123,8 +58,8 @@
   }
 
   @include breakpoint($desktop-breakpoint) {
-    font-size: 1.1em;
-    min-height: 106px;
+    font-size: 1.2em;
+    min-height: 100px;
   }
 }
 
@@ -138,4 +73,9 @@
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 0;
   }
+}
+
+.roles-tile__fake-link {
+  color: $purple;
+  text-decoration: underline;
 }

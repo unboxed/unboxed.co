@@ -9,25 +9,28 @@ meta_keywords: >-
 header:
   title: Join us
 introduction:
-  title: Learn. Innovate. Deliver. Share. It's how we roll...
+  title: Working at Unboxed
   text_1: We foster an environment in which entrepreneurial thinking can thrive.
   text_2: >-
-    We use Innovation Days to build on our own ideas that we are passionate
-    about. Then apply the techniques that we use to incubate these ideas
-    internally. Because without an equity share we know not to expect brilliant
-    ideas to be born.
+    Our London office consists of a wide and varied team; a blend of designers,
+    developers, Scrum Masters, digital strategists and more. We encourage collaboration
+    and strive to create a friendly and welcoming atmosphere.
 unboxed_meeting_image:
-  image: /assets/images/jobs/unboxed-meeting.jpg
-  image_description: Unboxers doing agile retrospective
+  image: /assets/images/jobs/developer.jpg
+  image_description: Unboxers working together on code
 roles:
   title: Roles we are looking to fill
   content:
-    - name: Developer
+    - name: 3 &times Senior Developers
       text: >-
         Our developers thrive on collaboration with customers and delivering
         digital products.
-      link: /jobs/developer
-      image: /assets/images/jobs/developer.jpg
+      link: /jobs/senior_developer
+    - name: Senior Delivery Manager
+      text: >-
+        Our delivery managers thrive on helping our teams deliver real value
+        and meaningful change in complex environments
+      link: /jobs/senior_delivery_manager
 offer:
   title: What we offer
   incentives:
@@ -106,35 +109,37 @@ published: true
       </h2>
       <% if current_page.data.roles.content.length == 1 %>
         <% role = current_page.data.roles.content[0] %>
-            <a class="roles-tile__content-single" href="<%= role.link %>" title="<%= role.name %>">
-                <div class="component__tile roles-tile__text-single" >
-                  <h3 class="roles-tile__title">
-                    <%= role.name %>
-                  </h3>
-                  <p class="roles-tile__paragraph">
-                    <%= role.text %>
-                  </p>
-                </div>
-                <div class="roles-tile__image-container">
-                  <%= image_tag role.image, alt: role.name, class: "roles-tile__image", srcset: retina_srcset(role.image) %>
-                </div>
+            <a class="roles-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
+              <div class="roles-tile__content" >
+                <h3 class="roles-tile__title">
+                  <%= role.name %>
+                </h3>
+                <p class="roles-tile__paragraph">
+                  <%= role.text %>
+                  <br>
+                  <br>
+                  <span class="roles-tile__fake-link">See the full job description</span>
+                </p>
+              </div>
             </a>
       <% else %>
         <div class="roles-tiles">
           <% current_page.data.roles.content.each do |role| %>
-              <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
-              <a class="roles-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
-                <div class="roles-tile__content">
-                  <%= image_tag role.image, alt: role.name, class: "roles-tile__image", srcset: retina_srcset(role.image) %>
-                  <h3 class="roles-tile__title">
-                    <%= role.name %>
-                  </h3>
-                  <p class="roles-tile__paragraph">
-                    <%= role.text %>
-                  </p>
-                </div>
-              </a>
-            <% end %>
+            <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
+            <a class="roles-tile--linked" href="<%= role.link %>">
+              <div class="roles-tile__content">
+                <h3 class="roles-tile__title">
+                  <%= role.name %>
+                </h3>
+                <p class="roles-tile__paragraph">
+                  <%= role.text %>
+                  <br>
+                  <br>
+                  <span class="roles-tile__fake-link">See the full job description</span>
+                </p>
+              </div>
+            </a>
+          <% end %>
         </div>
       <% end %>
     <% end %>
