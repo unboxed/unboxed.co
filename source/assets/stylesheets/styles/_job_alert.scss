@@ -1,0 +1,26 @@
+.job-alert {
+  background-color: #55bceb;
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  @include breakpoint($desktop-breakpoint) {
+    min-height: 100px;
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 70px;
+  }
+}
+
+.job-alert__text {
+  @include responsive-text;
+  color: white;
+  text-align: center;
+  padding: 10px;
+
+  a {
+    color: white;
+  }
+}
