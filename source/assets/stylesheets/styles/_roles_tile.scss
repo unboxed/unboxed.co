@@ -29,33 +29,6 @@
   margin-bottom: 6px;
 }
 
-.roles-tile--linked-single {
-  padding-right: 6px;
-  color: darken($light-gray, 5%);
-}
-
-.roles-tile__content-single {
-  @extend .roles-tile;
-  background-color: $white;
-  padding-bottom: 0;
-  margin-right: 0;
-
-  @include breakpoint($tablet-breakpoint) {
-    height: 185px;
-  }
-
-  &:hover {
-    background-color: mix($white, $light-gray);
-  }
-}
-
-.roles-tile__text-single {
-  box-sizing: border-box;
-  padding: 10px;
-  width: 100%;
-}
-
-
 .roles-tile__content {
   background-color: $white;
   box-sizing: border-box;
