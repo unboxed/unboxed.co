@@ -1,0 +1,154 @@
+---
+title: "Join Us - Delivery Manager - Join our team as a delivery manager"
+
+header:
+  title: "Join us"
+  subtitle: "Delivery Manager"
+
+introduction:
+  title: "Are you a Delivery Manager?"
+  text_1: "Salary range £55k - £70k"
+  text_2: "We're looking for a London based Delivery Manager, who lives by and loves agile principles with broad experience, has strong communication skills and who wants to make a meaningful impact in the world, by helping our teams deliver valuable solutions."
+  text_3: "You will be working with our teams and clients to:"
+  activities:
+    - Champion and coach agile working
+    - Facilitate effective communication
+    - Ensure successful delivery of a wide variety of projects
+  text_4: "We're growing Unboxed. We want new team members who are interested in more than coding, we want people to join us to help to add to our community leadership, mentor our more junior people and increase our diversity."
+
+developers_image:
+  image: "/jobs/images/developers-1.jpg"
+  image_description: "Developers presenting code"
+
+description:
+  title: "Some of the key activities within this role include:"
+  content:
+    - Servant leadership of Unboxed teams across multiple client projects
+    - Coaching agile through doing, helping our clients adopt agile practices while we  delivering their projects
+    - Pragmatically adapting your style to suit different clients and project types
+    - Working as part of a multi disciplinary team of user researchers, designers and developers
+    - Working with a variety of clients, stakeholders and Product Owners
+    - Communicating with gravitas, knowing when to challenge a situation and when to adapt to it
+    - Growing and shielding our people and our teams
+    - Keeping an eye on the big picture of a project, to ensure we deliver the best possible result, on budget
+    - Working on a broad range of projects, from discoveries and alphas, through to full-on Scrum-based delivery projects
+
+requirements:
+  title: "Some of the skills we're looking for"
+  intro: "These are the types of skills that we expect our senior developers to have (but if there's anything you can't do yet, we will help you learn):"
+  content:
+    - A leadership style that employs a highly collaborative approach
+    - Excellent communication skills enabling growth and maintenance of effective relationships
+    - Able to establishing credibility with people very quickly
+    - Facilitation of participatory decision-making and conflict resolution
+    - Experience delivering a wide range of projects using agile principles
+    - Highly organised
+
+other_requirements:
+  title: "Nice to have"
+  content:
+    - Mentoring skills that demonstrate the agile values and principles in every thought and action
+    - A people-centric approach
+    - Ability to fail fast, learn quickly, and be able to adapt to new challenges
+    - Passionate about quality and team success
+    - Experience of working on Discoveries, Alphas and Betas following the GDS Service Manual
+    - Active in user community
+  image: "/jobs/images/developers-2.jpg"
+  image_description: "Developer at work"
+
+benefits:
+  title: "Benefits of working with us"
+  content:
+    - 25 holiday days per year, on top of the bank holiday allowance
+    - '10 "Innovation Days" per year to explore your own ideas'
+    - Holiday flexibility and loyalty bonus benefits
+    - Maternity and Shared Parental Leave policies
+    - A company-wide peer-to-peer mentoring programme
+    - A generous conference budget
+    - Salary reviews twice a year
+    - Flexible working hours and location
+    - An informal culture of growth
+    - Monthly "Linkers and Thinkers" idea-exploring lunches
+    - Weekly reflection at "Whines & Cheers", our Friday company retrospective
+    - A 'Bike To Work' scheme
+
+
+process:
+  title: "What next?"
+  text_1: "Send us your CV and, if we think you will make a good team member, we will get you to complete a short coding exercise. This gives you the opportunity to showcase your approach to solving problems and for us to see your code on a clean build project."
+  text_2: "Following this is a face-to-face pairing session with one of our developers, where we will talk over the choices you have made in your solution and get to know you a little better. You will then get to meet with one of our directors."
+  image: "/jobs/images/developers-4.jpg"
+  image_description: "Developers working together"
+
+developer_quote:
+  quote: "I feel very lucky to be part of Unboxed where you are welcomed to be yourself, you're encouraged to grow and there are plenty of challenges to help you become your very best. You're given great freedom and you've got creative and passionate co-workers that are always keen to get involved in the community, tinker with new ideas and find solutions to complex problems."
+  source: "Elena Tanasoiu, Ruby on Rails Developer"
+  image: "/assets/images/people/elena-tanasoiu.png"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Unboxed Hackathon #2 - All in an innovation day’s work"
+      type: "blog"
+      link: "/blog/unboxed-hackathon-2-all-in-an-innovation-day-s-work"
+
+    - title: "RubyConf Portugal 2016"
+      type: "blog"
+      link: "/blog/rubyconf-portugal-2016"
+
+    - title: "Faster than Lightning: November's Developer Event"
+      type: "blog"
+      link: "/blog/faster-than-lightning-november-s-developer-event"
+---
+
+<%= partial 'jobs/job_header' %>
+
+<div class="container" data-header-waypoint>
+  <section class="component--full-page">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_2 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_3 %>
+      </p>
+
+      <ul class="text-tile__list">
+        <% current_page.data.introduction.activities.each do |requirement| %>
+            <li class="text-tile__list-item">
+              <%= requirement %>
+            </li>
+        <% end %>
+      </ul>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_4 %>
+      </p>
+    </div>
+  </section>
+
+  <%= partial 'shared/full_image', locals: current_page.data.developers_image %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.requirements %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.other_requirements %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
+
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
+
+  <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
+
+  <%= partial 'jobs/contact_us' %>
+
+  <%= partial 'shared/related_tiles' %>
+</div>
