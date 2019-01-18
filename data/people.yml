@@ -231,6 +231,11 @@
   short_name: igor-fontana
   role: Developer
   email: igor.fontana
+  social_networks:
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/igor-sf/
+  - name: Github
+    link: https://github.com/ayghor/
 - name: David Henry
   short_name: david-henry
   role: Developer
