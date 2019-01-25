@@ -1,6 +1,6 @@
 ---
 weekly_roundup: true
-title: "Roundup: Text messages, chat guidelines, dishwashers and Gandhi"
+title: "Roundup: Engineering management and domesticated foxes"
 date: '2019-01-25 14:30:00 GMT'
 authors:
   - 'Ben Baumann'
@@ -9,36 +9,22 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Route of a text message - [Celia C](/people#celia-collins)
+## Engineering Management: The Pendulum Or The Ladder - [Henry T](/people#henry-turner)
 
-https://scottbot.net/the-route-of-a-text-message/
+https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/
 
-This explains how a text travels between phones. I didn't understand a lot of it and maybe skipped a bit, but I now really appreciate how complicated stuff is.
+I work on a small project so it's not a current issue for me, but choosing a technical career track or a management one (or a mix) is a problem. I like Charity's approach - the pendulum - were you can do both by rocking back and forth between them, and her suggestions for the type of technical stories to attempt. eg. "Picking up a p2 bug that's annoying but never seems to become top priority? ✅"
 
-## Guidelines for customer service chat features - [Lawrence R](/people#lawrence-richards)
+## Domesticated foxes - [Lawrence R](/people#lawrence-richards)
 
-https://www.nngroup.com/articles/chat-ux/?utm_source=loop11&utm_campaign=fab-ux-five&ref=loop11
+https://www.youtube.com/watch?v=4dwjS_eI-lQ
 
-It's pretty common for most services to have some form of online chat these days, but the way in which it's implemented can make the difference from it being used or not – and therefore if customers are leaving or seeking information elsewhere. Some handy pointers here.
+Yes I came here mainly for the idea of pet foxes, but the video explains of a fascinating behavioural experiment Russia in the 60s created the first semi domesticated foxes, by choosing them based on their friendliness to humans, essentially manufacturing the evolutionary process. But in the end, they're still not that friendly – which actually feels quite fitting.
 
-## How do dishwashers work - [Lawrence R](/people#lawrence-richards)
+## Track of the Week - [Ben B](/people#ben-baumann)
 
-https://www.youtube.com/watch?v=APdhKLyr7s4&list=PLF7tYivQrAw1NEDA2FfqC4z6TzNnwvHd0&t=0s&index=2
+James Blake released a new album (Assume Form) recently. It's pretty good, here is a little taster.
 
-There was quite a bit of discussion at a lunch time chat at Unboxed week about how dishwashers work. This video explains the process in a very methodical way. I also like the focus on repairing rather than replacing that the video makers try to instil on the viewer.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PWPafG8wEvc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Gandhi must fall - [Igor F](/people#igor-fontana)
-
-https://caravanmagazine.in/caste/gandhi-must-fall-interview
-
-A shocking interview with Ghana university professor Ọbádélé Kambon about
-Gandhi, colonialism and racism. Very good read, specially if you watched the
-movie.
-
-## Track of the Week - [Henry T](/people#henry-turner)
-
-This is Avenging Angels by Gothic Storm from Gothic Action.... Steele thy blade etc etc
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OYoTBziF9Fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[David Wainwright & Jode Steele - Avenging Angels (Gothic Action)](https://www.youtube.com/watch?v=OYoTBziF9Fk)
+[James Blake - Mile High feat. Travis Scott and Metro Boomin](https://www.youtube.com/watch?v=PWPafG8wEvc)
