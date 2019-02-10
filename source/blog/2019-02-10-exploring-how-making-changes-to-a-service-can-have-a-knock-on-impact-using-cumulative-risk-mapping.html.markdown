@@ -8,12 +8,10 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: 'https://unboxed.co/assets/images/uploads/cumulative-risk-mapping-cover-2x.jpg'
+main_image: 'blob:https://unboxed.co/c270db55-a845-4ca9-84aa-4e61874f652d'
 date: '2019-02-10T21:07:04+00:00'
 published: true
 ---
-# Context
-
 We often use tools such as risk mapping to think about potential effects of interventions in projects and how that might cause a problem in the future. These risks might be internal project risks (e.g. ‘not enough time to deliver the project’), more project specific outcomes (‘building a new admin system might mean more work for admins’), or wider concerns (‘will users use the new system’).
 
 This tool borrows and builds on [risk mapping](https://medium.muz.li/how-design-thinking-will-fix-design-thinking-5ce735b4c029), as well as systems thinking concepts such as causal loops, and the [Iceberg Model](http://www.ascd.org/ASCD/pdf/journals/ed_lead/el200910_kohm_iceberg.pdf) to think about unseen impacts on systems.
