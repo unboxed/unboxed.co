@@ -8,7 +8,8 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: 'blob:https://unboxed.co/c270db55-a845-4ca9-84aa-4e61874f652d'
+main_image: >-
+  https://unboxed.co/assets/images/uploads/cumulative-risk-mapping-cover-new-2x.jpg
 date: '2019-02-10T21:07:04+00:00'
 published: true
 ---
