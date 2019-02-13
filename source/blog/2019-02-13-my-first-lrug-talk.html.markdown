@@ -8,7 +8,7 @@ tags:
   - Design
   - Events
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/891a0f8618052bd5851e82b2a1cdacb1.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f75b12c3ecfc2bf49f989cae2aed0aa0.png
 date: '2019-02-13T10:09:53+00:00'
 published: true
 ---
