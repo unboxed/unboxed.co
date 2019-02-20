@@ -33,7 +33,6 @@
   background-color: $white;
   box-sizing: border-box;
   padding: 10px;
-  min-height: 190px;
 
   &:hover {
     background-color: mix($white, $light-gray);
@@ -44,6 +43,10 @@
   @include responsive-text;
   color: $purple;
   padding: 14px 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 30px;
+  }
 }
 
 .roles-tile__paragraph {
@@ -59,7 +62,14 @@
 
   @include breakpoint($desktop-breakpoint) {
     font-size: 1.2em;
-    min-height: 100px;
+  }
+}
+
+.roles-tile__description {
+  min-height: 50px;
+
+  @include breakpoint($tablet-breakpoint) {
+    min-height: 105px;
   }
 }
 
