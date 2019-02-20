@@ -66,14 +66,10 @@
 }
 
 .roles-tile__description {
-  min-height: 100px;
+  min-height: 50px;
 
   @include breakpoint($tablet-breakpoint) {
     min-height: 105px;
-  }
-
-  @include breakpoint($desktop-breakpoint) {
-    min-height: 100px;
   }
 }
 
