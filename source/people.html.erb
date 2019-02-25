@@ -2,6 +2,10 @@
 title: "People"
 meta_keywords: "unboxed consulting, developers, employees, people, Unboxed, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails people"
 
+header:
+  title: "People"
+  subtitle: "Our London office consists of a wide and varied team; a blend of designers, developers, delivery leads, digital strategists, innovators and more."
+
 inside_unboxed:
   title: "Inside Unboxed"
   content:
@@ -24,8 +28,12 @@ email_domain: "unboxed.co"
 <header class="page-header page-header--bottom-margin">
   <div class="page-header__container">
     <h1 class="page-header__title">
-      <%= current_page.data.title %>
+      <%= current_page.data.header.title %>
     </h1>
+
+    <p class="page-header__subtitle">
+      <%= current_page.data.header.subtitle %>
+    </p>
   </div>
 </header>
 
