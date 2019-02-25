@@ -2,6 +2,22 @@
 title: "People"
 meta_keywords: "unboxed consulting, developers, employees, people, Unboxed, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails people"
 
+inside_unboxed:
+  title: "Inside Unboxed"
+  content:
+    - image: "/assets/images/people/inside_unboxed/designer_working.jpg"
+      image_description: "A designer working"
+    - image: "/assets/images/people/inside_unboxed/designers_discussing.jpg"
+      image_description: "Designers discussing work"
+    - image: "/assets/images/people/inside_unboxed/sketch_session.jpg"
+      image_description: "A sketching session"
+    - image: "/assets/images/people/inside_unboxed/developers_discussing.jpg"
+      image_description: "Developers discussing work"
+    - image: "/assets/images/people/inside_unboxed/developer_working.jpg"
+      image_description: "A developer working"
+    - image: "/assets/images/people/inside_unboxed/collaboration.jpg"
+      image_description: "An Unboxed meeting"
+
 email_domain: "unboxed.co"
 ---
 
@@ -24,19 +40,19 @@ email_domain: "unboxed.co"
           <div class="person-tile__image-container">
             <img class="person-tile__image" src="/assets/images/people/<%= person.short_name %>.png" alt="<%= person.name %>" />
           </div>
-  
+
           <div class="person-tile__details">
             <h2 class="person-tile__name">
               <%= person.name %>
             </h2>
-  
+
             <div class="person-tile__role">
               <%= person.role %>
             </div>
-  
+
             <a class="person-tile__email" href="mailto:<%= person.email %>@<%= current_page.data.email_domain %>"><%= person.email %>@<%= current_page.data.email_domain %></a>
           </div>
-  
+
           <% if person.social_networks %>
             <div class="person-tile__social-networks">
               <% person.social_networks.each do |social_network| %>
@@ -50,6 +66,27 @@ email_domain: "unboxed.co"
         </div>
       </div>
     <% end %>
+  </div>
+
+  <section class="photo-gallery" data-header-waypoint>
+    <p class="photo-gallery__introduction">
+      <%= current_page.data.inside_unboxed.title %>
+    </p>
+    <% current_page.data.inside_unboxed.content.each do |picture| %>
+      <div class="photo-gallery-container">
+        <div class="photo-gallery-image">
+          <%= image_tag(picture.image, alt: picture.image_description, class: "gallery__image", srcset: retina_srcset(picture.image)) %>
+        </div>
+      </div>
+    <% end %>
+  </section>
+  <div class="job-alert">
+    <h2 class="job-alert__text">
+      Join Us
+      <br>
+      <br>
+      We're currently hiring. Check out our <a href="/jobs">jobs page</a>.
+    </h2>
   </div>
 </div>
 

@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
+  flex-direction: column;
 
   @include breakpoint($desktop-breakpoint) {
     min-height: 100px;
@@ -18,7 +19,7 @@
   @include responsive-text;
   color: white;
   text-align: center;
-  padding: 10px;
+  padding: 20px;
 
   a {
     color: white;
