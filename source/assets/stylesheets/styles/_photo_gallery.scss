@@ -40,8 +40,8 @@
 }
 
 .photo-gallery-image {
-  overflow: auto;
-  min-height: 225px;
+  overflow: inherit;
+  min-height: auto;
 }
 
 .gallery__image {
