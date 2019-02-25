@@ -1,6 +1,11 @@
 ---
 title: "Product stories"
 
+header:
+  title: "Product stories"
+  subtitle: "Since 2005, Unboxed has been working across both the public and private sectors to
+            deliver end-to-end digital products and services through agile, user-centered approaches."
+
 product_stories:
   - client: "Petitions"
     description: "Public sector collaboration with GDS to relaunch Petitions platform for UK citizens, meeting new user needs and public demand in just 10 weeks"
@@ -101,8 +106,12 @@ product_stories:
 <header class="page-header page-header--bottom-margin">
   <div class="page-header__container">
     <h1 class="page-header__title">
-      <%= current_page.data.title %>
+      <%= current_page.data.header.title %>
     </h1>
+
+    <p class="page-header__subtitle">
+      <%= current_page.data.header.subtitle %>
+    </p>
   </div>
 </header>
 
