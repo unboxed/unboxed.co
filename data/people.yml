@@ -66,7 +66,7 @@
     link: https://github.com/GramMcCram
 - name: Dawn Turner
   short_name: dawn-turner
-  role: Relationships
+  role: Designer
   email: dawn.turner
   social_networks:
   - name: Twitter
@@ -197,7 +197,7 @@
     link: https://github.com/neilvb
 - name: Matt Turrell
   short_name: matt-turrell
-  role: Scrum Master
+  role: Delivery
   email: matt.turrell
   bio: |
     My whole career has been in software, and I love it when a system goes live, making a positive impact on the lives and work of its users.
