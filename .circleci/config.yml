@@ -14,6 +14,9 @@ jobs:
           name: Set RAILS and RACK env
           command: echo -e "export RAILS_ENV=test\nexport RACK_ENV=test" >> $BASH_ENV
       - run:
+          name: update bundler
+          command: bundle update --bundler
+      - run:
           name: Cleanup rubygems
           command: gem cleanup
       - run:
