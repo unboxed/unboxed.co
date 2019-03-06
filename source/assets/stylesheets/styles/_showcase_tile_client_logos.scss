@@ -21,6 +21,6 @@
   width: 50%;
 
   @include breakpoint($tablet-breakpoint) {
-    width: 33%;
+    width: 25%;
   }
 }
