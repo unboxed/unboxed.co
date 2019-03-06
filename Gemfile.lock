@@ -176,6 +176,7 @@ PLATFORMS
 
 DEPENDENCIES
   builder
+  bundler (~> 2.0.1)
   middleman
   middleman-blog
   middleman-blog-similar

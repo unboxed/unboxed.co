@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'bundler', '~>2.0.1'
 gem 'sqlite3', '~> 1.3.6'
 gem 'builder'
 gem 'middleman'
