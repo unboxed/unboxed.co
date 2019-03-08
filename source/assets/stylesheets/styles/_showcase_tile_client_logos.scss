@@ -7,10 +7,10 @@
     display: block;
     clear: both;
   }
-  
+
   @include breakpoint($tablet-breakpoint) {
     margin: 0 0 6px;
-  }  
+  }
 }
 
 .showcase-tile-client-logos__logo {
