@@ -11,7 +11,7 @@ published: true
 ---
 Unboxed has won the 2019 DigitalAgenda [Impact Award](https://www.impact-awards.co.uk/) in the ‘Connected Cities’ category for our work with [char.gy](https://char.gy/) in supporting electric vehicle uptake by providing residents with an EV charging solution through existing on-street lampposts.
 
-![char.gy Impact Awards]( https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6d6717433249203eb7734efa63783691.jpg)
+![char.gy Impact Awards](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6d6717433249203eb7734efa63783691.jpg)
 
 The [DigitalAgenda](https://digitalagenda.io/) Impact Awards celebrate technological innovations that improve people’s lives and the world around us. Now in their third year, the awards are open to any UK-operating business, government department or non-profit using digital products or services for positive social impact.\
 \
@@ -19,7 +19,8 @@ From over 300 entries submitted across 12 categories, char.gy was shortlisted as
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">And the winner in the Connected Cities Category is… <a href="https://twitter.com/char_gy?ref_src=twsrc%5Etfw">@char_gy</a> with <a href="https://twitter.com/Ubxd?ref_src=twsrc%5Etfw">@ubxd</a> and their project to get more people to use electric cars. Congratulations with the win! <a href="https://twitter.com/hashtag/ImpactAwards?src=hash&amp;ref_src=twsrc%5Etfw">#ImpactAwards</a> <a href="https://t.co/CyNqzS3LQv">pic.twitter.com/CyNqzS3LQv</a></p>&mdash; DigitalAgenda (@DigitalAgenda_) <a href="https://twitter.com/DigitalAgenda_/status/1103700995027202054?ref_src=twsrc%5Etfw">March 7, 2019</a></blockquote>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>\
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 \
 The full finalist and winners list can be [found here](https://www.impact-awards.co.uk/finalists).\
 \
