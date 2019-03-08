@@ -17,6 +17,10 @@ The [DigitalAgenda](https://digitalagenda.io/) Impact Awards celebrate technolog
 
 From over 300 entries submitted across 12 categories, char.gy was shortlisted as one of the three places in the ‘Connected Cities’ category, alongside [VU.CITY](https://vu.city/) and [WeWALK](https://wewalk.io/), as digital initiatives to enhance urban places and spaces, and enable people to connect more easily.<br/>
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">And the winner in the Connected Cities Category is… <a href="https://twitter.com/char_gy?ref_src=twsrc%5Etfw">@char_gy</a> with <a href="https://twitter.com/Ubxd?ref_src=twsrc%5Etfw">@ubxd</a> and their project to get more people to use electric cars. Congratulations with the win! <a href="https://twitter.com/hashtag/ImpactAwards?src=hash&amp;ref_src=twsrc%5Etfw">#ImpactAwards</a> <a href="https://t.co/CyNqzS3LQv">pic.twitter.com/CyNqzS3LQv</a></p>&mdash; DigitalAgenda (@DigitalAgenda_) <a href="https://twitter.com/DigitalAgenda_/status/1103700995027202054?ref_src=twsrc%5Etfw">March 7, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br/>
 The full finalist and winners list can be [found here](https://www.impact-awards.co.uk/finalists).<br/>
 
 On the win, Richard Stobart — Founder & Director of char.gy and CEO of Unboxed said:<br/>
