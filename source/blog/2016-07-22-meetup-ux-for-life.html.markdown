@@ -89,7 +89,7 @@ In conclusion:<br/>
 ## Leon Odey-Knight
 [@leonintheblind](https://twitter.com/leonintheblind)<br/>
 
-<i>Leon is Design Lead at Unboxed – London’s largest Ruby on Rails development agency, specialising in agile and lean practices.</i><br/>
+<i>Leon is Design Lead at Unboxed – London’s most experienced Ruby on Rails development agency, specialising in agile and lean practices.</i><br/>
 
 ![Leon Odey-Knight](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/cdf5f5db1080a434739a9a6ce48174d8.PNG)
 
