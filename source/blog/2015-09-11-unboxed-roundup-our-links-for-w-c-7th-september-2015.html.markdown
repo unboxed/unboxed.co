@@ -9,7 +9,7 @@ tags:
   - Culture
 ---
 
-## A hint at a future Apple CPU instruction set architecture - [Oskar P](/people)
+## A hint at a future Apple CPU instruction set architecture - [Oskar P](/team)
 
 http://adriansampson.net/blog/appleisa.html
 

@@ -20,7 +20,7 @@ A small Unboxed team is currently working alongside the Digital Team to take the
 # Digital Discovery - Sprint Five
 <i>Show & Tell duration: 20 minutes</i><br/>
 
-Led by [Martyn](http://www.unboxed.co/people/#martyn-evans), Paul (the service designer of the project), Baljit (the Business Operations Support Manager at Newham Council) and Boris (the newest Unboxed member), the team shared the big chunks of progress that have been made across the last one-week sprint, including:<br/>
+Led by [Martyn](http://www.unboxed.co/team/#martyn-evans), Paul (the service designer of the project), Baljit (the Business Operations Support Manager at Newham Council) and Boris (the newest Unboxed member), the team shared the big chunks of progress that have been made across the last one-week sprint, including:<br/>
 
 - Interviewing residents who are at risk of being homeless
 - Building on mapping out the key Discovery user persona in more detail

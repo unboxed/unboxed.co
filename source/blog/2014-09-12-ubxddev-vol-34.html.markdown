@@ -33,7 +33,7 @@ A couple of well written posts introducing the 'mobile first' and grid layout co
 1. http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works
 2. http://www.helloerik.com/bootstrap-3-grid-introduction
 
-## Tech leadership - [Murray](/people#murray-steele)
+## Tech leadership - [Murray](/team#murray-steele)
 
 https://www.skillsmatter.com/skillscasts/5707-how-not-to-become-a-terrible-human-being-once-you-get-a-leadership-title
 

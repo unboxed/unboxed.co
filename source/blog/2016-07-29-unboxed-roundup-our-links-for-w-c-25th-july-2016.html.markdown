@@ -9,19 +9,19 @@ tags: # (Delete as appropiate)
 
 ---
 
-## Was Waterfall misunderstood? - [Alan T](/people#alan-thomas)
+## Was Waterfall misunderstood? - [Alan T](/team#alan-thomas)
 
 https://pragtob.wordpress.com/2012/03/02/why-waterfall-was-a-big-misunderstanding-from-the-beginning-reading-the-original-paper/
 
 Why Waterfall was a big misunderstanding from the beginning – reading the original paper
 
-## CSS at BBC Sport - [Tom S](/people/#tom-sabin)
+## CSS at BBC Sport - [Tom S](/team/#tom-sabin)
 
 https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66#.ervxw7zbl
 
 An broad overview of the (visual) front end process that the BBC follows. A very interesting read after recently discovering Harry Robert’s ITCSS methodology, so I was delighted to see this was baked into their process after Harry introduced it first to the team in 2014.
 
-## Mac image compressing app - [Tom S](/people/#tom-sabin)
+## Mac image compressing app - [Tom S](/team/#tom-sabin)
 
 https://imageoptim.com/mac
 
@@ -38,13 +38,13 @@ Flynn, which I’ve been keeping an eye on for a while, has just released its fi
 It includes routing, service discovery, high availability/autoscaling and crucially, it also supports native database appliances as part of the platform.
 Definitely a system to watch and look very closely at for your next platform.
 
-## Professor Frisby's Mostly Adequate Guide to Functional Programming - [Charlie E](/people/#charlie-egan)
+## Professor Frisby's Mostly Adequate Guide to Functional Programming - [Charlie E](/team/#charlie-egan)
 
 https://drboolean.gitbooks.io/mostly-adequate-guide/content/
 
 I've been reading this over the last two weeks, so far it's been a good introduction to functional concepts that didn't sink in when I'd covered them in the past. It uses Javascript and Ramda library for the examples which are easy to test out here in a browser here: http://ramdajs.com/repl/?v=0.21.0
 
-## Mini classics - [Leon O-K](/people#leon-odey-knight)
+## Mini classics - [Leon O-K](/team#leon-odey-knight)
 
 http://www.theverge.com/2016/7/17/12208802/animated-movie-gifs-classic-art
 

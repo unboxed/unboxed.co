@@ -19,7 +19,7 @@ The session began with a fantastic pairing activity. Each person was given a car
 
 ![outsource1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3ce0edc652796e8877ca43ec3bf964bf.jpg)
 
-[Carrie](/people#carrie-bedingfield) and Paul Westmore matched as Mario and Luigi, making a perfect plumbing/hero partnership.<br/>
+[Carrie](/team#carrie-bedingfield) and Paul Westmore matched as Mario and Luigi, making a perfect plumbing/hero partnership.<br/>
 
 The first pairing activity then paved the way for the second, the origami challenge… Each pair was required to produce an origami piece of art by working in partnership. <br/>
 
@@ -55,7 +55,7 @@ Yoann Martin, Technical Director of Notonthehighstreet, shared what makes a succ
 
 <i>"Outsourcing provides the power to scale up and down creates diversity which is an amazing thing! More debate. More innovation."</i><br/>
 
-Our very own [Richard](/people#richard-stobart) and [Steve](/people#steve-lennon) then concluded the session with:<br/>
+Our very own [Richard](/team#richard-stobart) and [Steve](/team#steve-lennon) then concluded the session with:<br/>
 • What to outsource and when<br/>
 • Understanding cost<br/>
 • Why ‘just recruiting’ isn’t that simple<br/>

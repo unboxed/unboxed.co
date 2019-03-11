@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Actual "what is good" code research - [Murray S](/people#murray-steele)
+## Actual "what is good" code research - [Murray S](/team#murray-steele)
 
 https://brains-on-code.github.io/shorter-identifier-names.pdf
 
@@ -22,25 +22,25 @@ reckon".  It's nice to see someone do some actual research on the topic.  It
 may be on the seemingly simple problem of what sorts of names to use for
 variables, but we have to start somewhere.
 
-## Dumber phone - [Elena T](/people#elena-tanasoiu)
+## Dumber phone - [Elena T](/team#elena-tanasoiu)
 
 https://nomasters.io/posts/dumber-phone/
 
 How many of the apps on your phone are you really using? A guide to de-clutter your phone. 
 
-## Ten things I learned from a job hunt - [Elena T](/people#elena-tanasoiu)
+## Ten things I learned from a job hunt - [Elena T](/team#elena-tanasoiu)
 
 http://fuzzyblog.io/blog/jobhound/2018/04/24/ten-things-i-learned-from-a-job-hunt-for-a-senior-engineering-role.html
 
 How recruitment is broken from the perspective of one person looking for a senior developer job. 
 
-## FIRE - [Elena T](/people#elena-tanasoiu)
+## FIRE - [Elena T](/team#elena-tanasoiu)
 
 https://story.californiasunday.com/tech-retirees
 
 Tech workers in their 30s who are engineering their Financial Independence / Retire Early (FIRE) future. 
 
-## Track of the Week - [Graeme M](/people#graeme-mccubbin)
+## Track of the Week - [Graeme M](/team#graeme-mccubbin)
 
 I didn't realise that my nomination for Track of the Week was _this_ week, so I've chosen the track that I was listening to when delivered this glorious news.
 

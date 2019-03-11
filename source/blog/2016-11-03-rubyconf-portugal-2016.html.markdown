@@ -11,7 +11,7 @@ main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/705f3
 ---
 # RubyConf Portugal 2016
 
-Last week an Unboxed team (consisting of [Ben](/people#ben-wong), [Crystal](/people#chris-carter), [Jack](/people#jack-bracewell) and [myself](/people#chris-holmes)) visited Braga for [RubyConf Portugal](http://rubyconf.pt/) 2016 where we enjoyed a few days full of talks, plenty of sunshine, good chances for discussion opportunities with some familiar friends and the opportunity to make some new friends. Braga is one of the oldest Portuguese cities, established in Roman times as Bracara Avgvsta. This year's conference was held across two days, the 27th and 28th October, with a single track schedule and a lineup including a diverse mix of speakers.
+Last week an Unboxed team (consisting of [Ben](/team#ben-wong), [Crystal](/team#chris-carter), [Jack](/team#jack-bracewell) and [myself](/team#chris-holmes)) visited Braga for [RubyConf Portugal](http://rubyconf.pt/) 2016 where we enjoyed a few days full of talks, plenty of sunshine, good chances for discussion opportunities with some familiar friends and the opportunity to make some new friends. Braga is one of the oldest Portuguese cities, established in Roman times as Bracara Avgvsta. This year's conference was held across two days, the 27th and 28th October, with a single track schedule and a lineup including a diverse mix of speakers.
 
 ![The conference begins](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/28e8022feeb02af74c9f5d1c2a59d9f2.JPEG)
 
@@ -34,8 +34,8 @@ Day two kicked off with [Yehuda Katz](https://twitter.com/wycats) talking about 
 [Aaron Patterson](https://twitter.com/tenderlove) closed proceedings with his talk on garbage collection in Ruby, this was the most technical talk of the conference but he managed to keep it light-hearted and engaging with his combination of trolling and humour. After riding in on a bicycle to the sound of banana phone he talked us through how Ruby allocates memory and the differences between alternative garbage collection algorithms.
 
 
-# RubyConf Portugal conference impressions - [Crystal](https://unboxed.co/people/#chris-carter)
+# RubyConf Portugal conference impressions - [Crystal](https://unboxed.co/team/#chris-carter)
 Overall I really enjoyed the conference; the venues have only got better year upon year, and there's always a great Portuguese feast at lunchtime. Just be careful not to over-indulge or you can write the afternoon's talks off! I particularly found [Pat Allan](https://twitter.com/pat)'s talk about open source the most eye-opening; our community is built on a mountain of commitment and funded architecture which we can often take for granted. Give back and make a contribution to something you use if you can, even if it's as small as a documentation change!
 
-# RubyConf Portugal conference impressions - [Chris](https://unboxed.co/people/#chris-holmes)
+# RubyConf Portugal conference impressions - [Chris](https://unboxed.co/team/#chris-holmes)
 A thouroughly enjoyable trip, for me the highlight was getting to taste a [Francesinha](https://en.wikipedia.org/wiki/Francesinha) for the first time. Followed closely of course by the interesting people I met and conversations I had over the few days. A well organised festival packed full of varied content in a beautiful location, what more can you ask for, hopefully I'll have to oppertunity to return next year.

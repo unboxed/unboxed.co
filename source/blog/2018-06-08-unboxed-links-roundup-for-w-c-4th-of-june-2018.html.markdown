@@ -10,19 +10,19 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Dealing with legacy technology - [Martyn E](/people#martyn-evans)
+## Dealing with legacy technology - [Martyn E](/team#martyn-evans)
 
 https://gdstechnology.blog.gov.uk/2018/05/24/understanding-legacy-technology-in-government/
 
 Everywhere in the public sector (and the private sector too), people understand the needs and have great ideas for new and innovative services but "legacy" technology frustrates any implementation of those ideas. Not many answers here (it's a discovery after all) but it's great that this is being seen as something people need help with - urgently!
 
-## Double splats in Ruby - [David H](/people#david-henry)
+## Double splats in Ruby - [David H](/team#david-henry)
 
 https://dev.firmafon.dk/blog/drat-ruby-has-a-double-splat/
 
 I did know this was a thing, and honestly don't know of any great use-cases for it, but it's been around since ruby 2.0 so someone must be using it.
 
-## Ruby's concurrency model - [Murray S](/people#murray-steele)
+## Ruby's concurrency model - [Murray S](/team#murray-steele)
 
 https://www.codeotaku.com/journal/2018-06/improving-ruby-concurrency/index
 
@@ -37,7 +37,7 @@ could always be faster enougher.
 
 [is-ruby-too-slow]: https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html
 
-## The Psychology of Money - [Elena T](/people#elena-tanasoiu)
+## The Psychology of Money - [Elena T](/team#elena-tanasoiu)
 
 http://www.collaborativefund.com/blog/the-psychology-of-money
 
@@ -48,13 +48,13 @@ I'm still not sure either option would be the one I would take, but it's
 interesting to see this contrast and how you consistently behave will determine
 whether you are successful or not, moreso than your starting point. 
 
-## London's heartbeat - [Elena T](/people#elena-tanasoiu)
+## London's heartbeat - [Elena T](/team#elena-tanasoiu)
 
 http://tubeheartbeat.com/london
 
 This map is amazing, I've spent some time just staring at it. 
 
-## Track of the Week - [Ben W](/people#ben-wong)
+## Track of the Week - [Ben W](/team#ben-wong)
 
 I haven’t been coding this week, so not a lot of music for me. I have however, been playing battletech.
 

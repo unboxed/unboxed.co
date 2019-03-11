@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Is your DB ORM Making Your App Tardy? - [Richard S](/people#richard-stobart)
+## Is your DB ORM Making Your App Tardy? - [Richard S](/team#richard-stobart)
 
 https://hyperloop-rails.github.io/220-HowNotStructure.pdf
 
@@ -18,7 +18,7 @@ It's a quick read with lots of graphs but with a couple of useful reminders.
 There's also a tldr; at https://blog.acolyer.org/2018/06/28/how-_not_-to-structure-your-database-backed-web-applications-a-study-of-performance-bugs-in-the-wild/.
 
 
-## Rational overrides: designing experiences to influence behaviour - [Boris D](/people#boris-divjak)
+## Rational overrides: designing experiences to influence behaviour - [Boris D](/team#boris-divjak)
 
 https://www.slideshare.net/Livework/rational-overrides-influencing-behaviour-beyond-nudging
 
@@ -29,7 +29,7 @@ for service interactions that require important decisions to be made.
 Well worth a read!
 
 
-## What's next after clean code? - [Murray S](/people#murray-steele)
+## What's next after clean code? - [Murray S](/team#murray-steele)
 
 http://johannesbrodwall.com/2018/06/24/forget-about-clean-code-lets-embrace-compassionate-code/
 
@@ -44,7 +44,7 @@ code, the whys and wherefores of how we got here, and how we can communicate
 that to the current and future teams that will work on it.
 
 
-## Why We Sleep - [Matt T](/people#matt-turrell)
+## Why We Sleep - [Matt T](/team#matt-turrell)
 
 https://www.penguin.co.uk/books/295665/why-we-sleep/
 
@@ -55,28 +55,28 @@ Wrong. Enough sleep (eight hours a night) is more important than I could have im
 The book is a compelling read and I recommend it to everyone. It will improve your health and your quality of life.
 
 
-## Solid principles around you - [Elena T](/people#elena-tanasoiu)
+## Solid principles around you - [Elena T](/team#elena-tanasoiu)
 
 https://medium.com/@trekhleb/solid-principles-around-you-6db2f0e12139
 
 This article is pretty solid.
 
 
-## PostgreSQL Features You May Not Have Tried But Should - [Elena T](/people#elena-tanasoiu)
+## PostgreSQL Features You May Not Have Tried But Should - [Elena T](/team#elena-tanasoiu)
 
 https://pgdash.io/blog/postgres-features.html
 
 I found it interesting to read that you can do pub/sub notifications directly in Postgres. 
 
 
-## How to Cook Easy Peel Hard Boiled Eggs - [Ben w](/people/#ben-wong)
+## How to Cook Easy Peel Hard Boiled Eggs - [Ben w](/team/#ben-wong)
 
 https://youtu.be/RV9nz1qlY64
 
 Peeling hard boiled eggs is a bit of a chore so I decided to put some effort in to make my life easier. As a bonus, the video also tells you why cooking eggs this way works.
 
 
-## Track of the Week - [Matt T](/people#matt-turrell)
+## Track of the Week - [Matt T](/team#matt-turrell)
 
 I'll be in Ibiza next month ... this is getting me in mood sipping Sangria at sunset!
 

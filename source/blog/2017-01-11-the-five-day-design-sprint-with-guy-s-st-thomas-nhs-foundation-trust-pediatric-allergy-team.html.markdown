@@ -30,7 +30,7 @@ Sprint is a book about surprising ideas: that the biggest challenges require les
 
 ![Guy’s & St. Thomas’ NHS Foundation Trust Sprint 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/79b7aed30e38698debdd87b9698dfc1a.JPG)
 
-The first thing to do was introduce ourselves to one another. From left to right: Hazel (Senior Finance Manager), Yasmin (Deputy Service Manager), Miranda (Service Manager), Roisin (Service Lead) and Ruth (Dietician for Paediatric Allergy). And at the far back - left is [Cale](https://twitter.com/tlfrd) (an Unboxed developer), [myself](https://unboxed.co/people/#leon-odey-knight) on the right and [Martyn](http://www.unboxed.co/people/#martyn-evans) (our Head of Product) is the man behind the camera.<br/>
+The first thing to do was introduce ourselves to one another. From left to right: Hazel (Senior Finance Manager), Yasmin (Deputy Service Manager), Miranda (Service Manager), Roisin (Service Lead) and Ruth (Dietician for Paediatric Allergy). And at the far back - left is [Cale](https://twitter.com/tlfrd) (an Unboxed developer), [myself](https://unboxed.co/team/#leon-odey-knight) on the right and [Martyn](http://www.unboxed.co/team/#martyn-evans) (our Head of Product) is the man behind the camera.<br/>
 
 The next task: The outline for the week ahead.<br/>
 

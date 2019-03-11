@@ -9,13 +9,13 @@ tags:
   - Rails
 ---
 
-## Patterns - [Henry](/people#henry-turner)
+## Patterns - [Henry](/team#henry-turner)
 
 [http://library.uniteddiversity.coop/Ecological\_Building/A\_Pattern\_Language.pdf](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf) (warning - 45 MB PDF)
 
 My Dad, a town planner and landscape architect, often bemoans how the software industry has utilised the concept of patterns better than his own from which the term came. If you haven’t seen [A Pattern Language by Christopher Alexander](http://library.uniteddiversity.coop/Ecological_Building/A_Pattern_Language.pdf) it’s pretty interesting to flick through and see what he was trying to achieve.
 
-## Rails 404 pages - [Andrew W](/people#andrew-white)
+## Rails 404 pages - [Andrew W](/team#andrew-white)
 
 [http://blog.jerodsanto.net/2014/06/a-step-by-step-guide-to-bulletproof-404s-on-rails/](http://blog.jerodsanto.net/2014/06/a-step-by-step-guide-to-bulletproof-404s-on-rails/)
 
@@ -25,7 +25,7 @@ If what you want is to have 404 pages rendered from an ERb template, you can do 
 
 If you want to write a custom failure app that's okay - just don't use [``ActionDispatch::Routing::RouteSet``](https://github.com/rails/rails/blob/master/actionpack/lib/action_dispatch/routing/route_set.rb) as it's not designed for it!
 
-## Google Design - [Murray](/people#murray-steele)
+## Google Design - [Murray](/team#murray-steele)
 
 [http://www.google.com/design/spec/](http://www.google.com/design/spec/)
 

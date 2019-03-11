@@ -9,19 +9,19 @@ tags: # (Delete as appropriate)
 
 ---
 
-## A Tailing of Two Logs - [Ben W](/people#ben-wong)
+## A Tailing of Two Logs - [Ben W](/team#ben-wong)
 
 http://www.thegeekstuff.com/2009/09/multitail-to-view-tail-f-output-of-multiple-log-files-in-one-terminal/
 
 I've been running many servers during development recently and the number of logs is getting out of hand. I still want to see them all but don't want to devote my entire screen to log terminals. Thankfully, a really old unix blog has come to the rescue, my favourite: `tail -f /var/log/syslog -f /var/log/auth.log`
 
-## Scrum Masters, Do No Harm - [Richard S](/people#richard-stobart)
+## Scrum Masters, Do No Harm - [Richard S](/team#richard-stobart)
 
 http://digitalhub.mindtree.com/scrum-masters-and-the-agile-framework-first-do-no-harm
 
 Our Scrum Masters add value to projects but it’s always good to remember that they should add value to the team.
 
-## Reflections on mobbing - [Murray S](/people#murray-steele)
+## Reflections on mobbing - [Murray S](/team#murray-steele)
 
 http://underthehood.meltwater.com/blog/2016/06/01/mob-programming/
 

@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Vulnerabilities in online payment gateways - [Abraao M](/people#abraao-mota)
+## Vulnerabilities in online payment gateways - [Abraao M](/team#abraao-mota)
 
 http://tinyhack.com/2017/09/05/mastercard-internet-gateway-service-hashing-design-flaw/
 
@@ -20,7 +20,7 @@ but it's in fact quite disappointing given the severity of the issues. Just
 makes you think about how many white-hat hackers eventually leave their hats
 at home because the dark side is much more lucrative.
 
-## Cracked your screen? Better get a whole new phone… - [Abraao M](/people#abraao-mota)
+## Cracked your screen? Better get a whole new phone… - [Abraao M](/team#abraao-mota)
 
 https://arstechnica.co.uk/information-technology/2017/08/a-repair-shop-could-completely-hack-your-phone-and-you-wouldnt-know-it/
 
@@ -32,7 +32,7 @@ put in the corner shops to fix our phones. It might not even be malicious
 on their part, but it shows that even they might not know the new screen
 they're installing could be logging your every move into the internet.
 
-## Going deep on character encodings - [Murray S](/people#murray-steele)
+## Going deep on character encodings - [Murray S](/team#murray-steele)
 
 http://kunststube.net/encoding/
 
@@ -49,10 +49,10 @@ avoid the problems in php, which the author suggests you skip if you're
 not using php, but I found it to be useful as the problems and workarounds
 are pretty universal.
 
-## Track of the Week - [Jack B](/people#jack-bracewell)
+## Track of the Week - [Jack B](/team#jack-bracewell)
 
 Nuclear War, Mass flooding, Hurricanes, Earthquakes; and now
-[Anissa](/people#anissa-said) is leaving us!
+[Anissa](/team#anissa-said) is leaving us!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z0GFRcFm-aY" frameborder="0" allowfullscreen></iframe>
 

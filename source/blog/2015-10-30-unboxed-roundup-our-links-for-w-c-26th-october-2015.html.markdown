@@ -9,23 +9,23 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Computers are Fast - [Oskar](/people)
+## Computers are Fast - [Oskar](/team)
 
 Put your optimisation skills to the test guessing how fast programs will run at [Computers are Fast](http://computers-are-fast.github.io). If you’ve previously read [Latency Numbers Every Programmer should know](https://gist.github.com/jboner/2841832) then  this page will put your skills to the test!
 
-## Explaining graphic design to four-year-olds - [Graeme](/people#graeme-mccubbin)
+## Explaining graphic design to four-year-olds - [Graeme](/team#graeme-mccubbin)
 
 https://medium.com/@deanvipond/explaining-graphic-design-to-four-year-olds-fe9257ffaf3d#.wxnk64qc8
 
 Sometimes the most simple explanation is the most effective.
 
-## The Socratic Method - [Oskar](/people)
+## The Socratic Method - [Oskar](/team)
 
 http://www.garlikov.com/Soc_Meth.html
 
 Teaching by asking. You may have read it before, but the author attempts to teach 8-9 year olds binary arithmetic with the Socratic method.
 
-## The surprising facts of Docker adoption - [Oskar](/people)
+## The surprising facts of Docker adoption - [Oskar](/team)
 
 https://www.datadoghq.com/docker-adoption/
 

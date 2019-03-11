@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Bugs as a security _feature_ - [Murray S](/people#murray-steele)
+## Bugs as a security _feature_ - [Murray S](/team#murray-steele)
 
 https://arxiv.org/pdf/1808.00659.pdf
 
@@ -28,7 +28,7 @@ not exploitable.  Of course, these chaff bugs are added by software so you've
 got to hope that there's no bugs in _that_ software meaning the bugs you're 
 adding that you think aren't exploitable actually _are_ exploitable.
 
-## Useful Product/Project Roadmaps - [Matt T](/people#matt-turrell)
+## Useful Product/Project Roadmaps - [Matt T](/team#matt-turrell)
 
 https://medium.com/@eleanor.mollett/radarban-roadmap-70dfb425aa2f
 
@@ -52,7 +52,7 @@ in progress limits (simulating team throughput).
 
 I'll be using it on a project I'm working on in the coming weeks.
 
-## The Beauty of No Man's Sky - [James C](/people#james-cook)
+## The Beauty of No Man's Sky - [James C](/team#james-cook)
 
 https://www.reddit.com/r/NoMansSkyTheGame/comments/928mhp/taken_from_the_moon_of_my_first_planet/
 
@@ -67,7 +67,7 @@ you see is an in-game screenshot.
 So far, some of the in-game screenshots posted by players around the world have been 
 incredible and they showcase what an amazing game this has become.
 
-## Blockchain before it was cool in the NYT - [Elena T](/people#elena-tanasoiu)
+## Blockchain before it was cool in the NYT - [Elena T](/team#elena-tanasoiu)
 
 https://motherboard.vice.com/en_us/article/j5nzx4/what-was-the-first-blockchain
 
@@ -79,7 +79,7 @@ that document.
 However, instead of publishing the hash to a public digital ledger, it would be 
 published in the New York Times.
 
-## Track of the Week - [Henry T](/people#henry-turner)
+## Track of the Week - [Henry T](/team#henry-turner)
 
 I don't know what it's about 🤷
 

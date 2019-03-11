@@ -4,7 +4,7 @@ date: '2015-10-30T11:58:00+00:00'
 published: true
 ---
 
-<p>Unboxed CEO, <a href="/people#richard-stobart">Richard Stobart</a>, has been shortlisted for this year’s <a href="https://theagileportal.com/awards">UK Agile Awards</a>.<br/></p>
+<p>Unboxed CEO, <a href="/team#richard-stobart">Richard Stobart</a>, has been shortlisted for this year’s <a href="https://theagileportal.com/awards">UK Agile Awards</a>.<br/></p>
 
 ![Agile Awards 2015](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/67f329e82532ab1464428772f05b6127.PNG)
 

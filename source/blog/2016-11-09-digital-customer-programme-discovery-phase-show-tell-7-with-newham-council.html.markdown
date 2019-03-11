@@ -20,7 +20,7 @@ More and more new faces are coming along to this weekly session, indicating that
 # Digital Discovery - Sprint Seven
 <i>Show & Tell duration: 20 minutes</i><br/>
 
-Led by [Martyn](https://unboxed.co/people/#martyn-evans), Boris, Baljit and Ikram, the Digital Team shared the progress that has been made across Sprint Seven:<br/>
+Led by [Martyn](https://unboxed.co/team/#martyn-evans), Boris, Baljit and Ikram, the Digital Team shared the progress that has been made across Sprint Seven:<br/>
 
 - Testing a variety of prototype services with local residents
 - Reviewing these prototypes with key stakeholders in each area of service

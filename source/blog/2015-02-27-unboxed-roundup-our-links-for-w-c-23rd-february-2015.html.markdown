@@ -9,13 +9,13 @@ tags:
   - Culture
 ---
 
-## CSS statistics for your website - [Tom S](/people#tom-sabin)
+## CSS statistics for your website - [Tom S](/team#tom-sabin)
 
 http://www.stylestats.org/
 
 This little utility will parse a website and break it down to some CSS statistics, resulting in items such as the most popular properties, unique colours, and many others.
 
-## Programming Myths - [Murray](/people#murray-steele)
+## Programming Myths - [Murray](/team#murray-steele)
 
 http://videlalvaro.github.io/2015/02/programming-myths.html
 

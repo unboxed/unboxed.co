@@ -17,7 +17,7 @@ We regularly host “Faster than Lightning” code talks where our developers ge
 Here’s a selection of the submissions from this month:<br/>
 <br/>
 
-## [Chris C](www.unboxed.co/people/#chris-carter)
+## [Chris C](www.unboxed.co/team/#chris-carter)
 
 Recently, I had the chance to play with the [Parslet](https://github.com/kschiess/parslet/) gem. It's great for expressing some kind of grammar or format without getting lost in a sea of nameless regular expressions. I used it for parsing the output of clauses from [Clingo](https://github.com/potassco/clingo), a "grounder and solver for logic programs". As you can see, each matched expression can be given a name, and is then built into higher level expressions. A simple Hash is returned to represent the structure of the matched expressions.<br/>
 
@@ -68,7 +68,7 @@ This line of code is from a project where I needed to display a randomly selecte
 ```
 
 <br/>
-## [Andrew W](www.unboxed.co/people/#andrew-white)
+## [Andrew W](www.unboxed.co/team/#andrew-white)
 
 The standard way of running tasks at a particular time of day is to use [cron][1] but on the Petitions website we often need to scale up our number of background workers when  we're busy or sending large amounts of email. This results in multiple cron jobs running at the same time which is less than ideal. To deal with this on Petitions we've created a Task model that uses the database as a shared lock so that only one cron job is created. This means that we don't have to have a 'special' server and gives use extra redundancy.<br/>
 
@@ -114,7 +114,7 @@ Task.run('my_task') { MyTask.perform_later }
 ```
 
 <br/>
-## [Andrew W](www.unboxed.co/people/#andrew-white)
+## [Andrew W](www.unboxed.co/team/#andrew-white)
 
 When we deploy a new version of the Petitions website we do it in such a way that the user doesn't notice by removing one server at a time from the load balancer and then updating it before adding it back. This means we need to be careful that database migrations leave the database in a state that works with both the old and new versions of the application.<br/>
 
@@ -139,7 +139,7 @@ end
 ```
 
 <br/>
-## [Neil van B](www.unboxed.co/people/#neil-van-beinum)
+## [Neil van B](www.unboxed.co/team/#neil-van-beinum)
 
 A small snippet from me this month. I’ve recently been working on a project that uses minitest as its testing framework. At Unboxed we favour the use of rspec, so it’s taken me a while to get used to this framework. I prefer rspec as I think its methods are more readable.<br/>
 

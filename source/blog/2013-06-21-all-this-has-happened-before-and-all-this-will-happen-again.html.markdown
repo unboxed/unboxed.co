@@ -30,12 +30,12 @@ This is an interesting take on how to make javascript heavy client side applicat
 
 Part 1 of a series of blog posts from [Collective Idea](http://collectiveidea.com/), providing some tips for [building good APIs in Rails](http://collectiveidea.com/blog/archives/2013/06/13/building-awesome-rails-apis-part-1/)
 
-## Academic research into pair programming - [Murray](/people#murray-steele)
+## Academic research into pair programming - [Murray](/team#murray-steele)
 [http://salfreudenberg.wordpress.com/](http://salfreudenberg.wordpress.com/)
 
 A lot of our industry "best practices" seem to be built around anecdote (and as we all know [the plural of anecdote is not data](http://en.wikipedia.org/wiki/Anecdotal_evidence)) so it's good to read some actual studies with real measured data around this sort of thing.  There's only a couple of blog posts so far, linking to published papers, but I'm hopeful for more.
 
-## Nobody understands the GIL - [Murray](/people#murray-steele)
+## Nobody understands the GIL - [Murray](/team#murray-steele)
 
 A series of blog posts by [Jesse Storimer](http://www.jstorimer.com/) about the GIL (Global Interpreter Lock) in Ruby.  Specifically we're talking about MRI Ruby as neither JRuby nor Rubinius have one.  Published so far are [part 1](http://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil) where he explains what the GIL is, and [part 2](http://www.jstorimer.com/blogs/workingwithcode/8100871-nobody-understands-the-gil-part-2-implementation) about the MRI implementation.  Part 3, coming soon I hope, promises to explain what the GIL actually means when it comes to thread-safe programming.
 

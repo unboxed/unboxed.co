@@ -12,7 +12,7 @@ tags: # (Delete as appropriate)
 We missed last week because it was our Christmas party, so you get a bumper
 double edition this week to get you through until we return in January 2017.
 
-## Monorepos - [Murray S](/people#murray-steele)
+## Monorepos - [Murray S](/team#murray-steele)
 
 http://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/
 
@@ -27,7 +27,7 @@ versioning problem, but I like to think I've learned a bit more about source
 code versioning and hygiene since then.  David is pretty convincing, but I'm
 still not sure.  It's nice to think about alternative approaches though.
 
-## Large Scale Scrum (LeSS) @ J.P. Morgan - [Matt T](/people#matt-turrell)
+## Large Scale Scrum (LeSS) @ J.P. Morgan - [Matt T](/team#matt-turrell)
 
 https://www.infoq.com/articles/large-scale-scrum-jomorgan
 
@@ -39,7 +39,7 @@ needless hierarchy.
 This is a great post about how a 3000+ section of J.P.Morgan’s technology group
 was transformed to use the LeSS framework (LeSS = Large Scale Scrum).
 
-## Perceived Customer Experience Improvement - [Richard S](/people#richard-stobart)
+## Perceived Customer Experience Improvement - [Richard S](/team#richard-stobart)
 
 https://medium.com/@daverothschild/use-this-simple-psychology-rule-to-improve-your-customer-experience-41aa4f3f2124#.dlw21ages
 
@@ -47,7 +47,7 @@ If you are looking to improve the perception of your customer's experience,
 there are two places to focus. Thinking of the good and bad customer
 experiences, this rings true.
 
-## Running Specs from Vim - [Elena T](/people#elena-tanasoiu)
+## Running Specs from Vim - [Elena T](/team#elena-tanasoiu)
 
 https://robots.thoughtbot.com/running-specs-from-vim-sent-to-tmux-via-tslime
 
@@ -82,7 +82,7 @@ Alternatively you can use vim-dispatch instead of vim-tmux-runner, if you don't 
 
 This will open a new window which you can exit to go back to your test.
 
-## Tips for running code review - [Murray S](/people#murray-steele)
+## Tips for running code review - [Murray S](/team#murray-steele)
 
 https://hypothes.is/blog/code-review-in-remote-teams/
 
@@ -94,7 +94,7 @@ out for me most is the first section "What are code reviews for?" - it's
 definitely useful to agree as a team why you are doing code reviews and make
 sure everyone understands that purpose.
 
-## Track of the Week - [Carrie B](/people#carrie-bedingfield)
+## Track of the Week - [Carrie B](/team#carrie-bedingfield)
 
 This is the ultimate wintery atmospheric track - I love it because it makes me feel wild and soaring over mountains
 and under the stars. It makes me think of being alone in the night sky. Which is kind of weird but very cool.

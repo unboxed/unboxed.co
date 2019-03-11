@@ -11,7 +11,7 @@ tags:
 
 More fun links from the unboxed devs.
 
-## How Buildings Learn Episode 4 - [(Ben)](/people#ben-wong)
+## How Buildings Learn Episode 4 - [(Ben)](/team#ben-wong)
 
 http://www.youtube.com/watch?v=ZSaWdp833YM
 
@@ -25,7 +25,7 @@ http://gimcrackd.com/etc/src/
 Possibly not of interest to anyone but me, but recently I've been playing with a tool called Twine- a tool which allows interactive fiction writers see a visual map of the story as they are writing and highlights broken links in your story so it is really easy to debug. It is a lot less heavy that tools like Inform (http://inform7.com/if/) as you are working with interactions as opposed to mapping out full objects and I am rather enjoying working with it.
 
 
-##  IE VMs are Back - [(Murray)](/people#murray-steele)
+##  IE VMs are Back - [(Murray)](/team#murray-steele)
 
 http://www.modern.ie/virtualization-tools
 
@@ -50,7 +50,7 @@ https://github.com/adamhunter/dossier
 
 A nice way to allow users to do reporting from a rails app
 
-## Code is Art Man...  - [(Murray)](/people#murray-steele)
+## Code is Art Man...  - [(Murray)](/team#murray-steele)
 
 http://instacode.linology.info/
 

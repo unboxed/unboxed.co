@@ -12,7 +12,7 @@ tags:
   - Lean
 ---
 
-#[Richard Stobart](/people#richard-stobart)
+#[Richard Stobart](/team#richard-stobart)
 
 ##Still not on Rails 3?
 You will need to bite the bullet sooner or later and sooner is better than later in most cases.  Have a look at Simon Carletti's post for some useful hints and tips. http://www.simonecarletti.com/blog/2010/07/the-way-to-rails-3/

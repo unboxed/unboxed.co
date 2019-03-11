@@ -17,13 +17,13 @@ This month we hosted our regular 'Faster than Lightning' developer talks, where 
 Here’s a selection of the submissions from this month:<br/>
 <br/>
 
-## [Charlie Egan](https://unboxed.co/people/#charlie-egan)
+## [Charlie Egan](https://unboxed.co/team/#charlie-egan)
 
 We all place a high value on project documentation and setup instructions, regularly changing projects it's important that this is the best it can be. However, when it comes to setting up _personal_ development environments often the approach is less rigorous. Last weekend I was adding a system tool for use via my editor and decided to write up a [Dockerfile](https://github.com/charlieegan3/dotfiles/blob/85405d3d93ef23374d2d234af525644560156144/Dockerfile) to codify the process. I looked around and found that other's containerized vim setups were all [heavily tailored](https://github.com/JAremko/alpine-vim/blob/master/Dockerfile) and opted to write my own (heavily tailored) Dockerfile.<br/>
 
 
 <br/>
-## [Andrew White](https://unboxed.co/people/#andrew-white)
+## [Andrew White](https://unboxed.co/team/#andrew-white)
 
 **Q.** Why does this [template fragment][1] sometimes blow up with an
 encoding mismatch error on the second line?<br/>
@@ -79,7 +79,7 @@ to think about turning off that hidden field which you can do by passing the opt
 ![Faster than Lightning 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7f8c7a2f3c62291afca8315cc77d8fba.JPG)
 <br/>
 
-## [Neil van Beinum](https://unboxed.co/people/#neil-van-beinum)
+## [Neil van Beinum](https://unboxed.co/team/#neil-van-beinum)
 
 This code snippet is part of a work-in-progress project. I’ve been experimenting with creating music using the `Tone.js` Javascript library. I wanted to take a person’s name and convert it into 6 musical notes (from the range A-G). I wanted two similar names to result in very different notes.<br/>
 
@@ -111,7 +111,7 @@ function leadChordNotes(winnerNameHash) {
 ```
 
 <br/>
-## [Murray Steele](https://unboxed.co/people/#murray-steele)
+## [Murray Steele](https://unboxed.co/team/#murray-steele)
 
 I recently added a [linter](https://github.com/alphagov/govuk_lint) to a project I was working on, and running it produced a warning about this fragment of code:
 

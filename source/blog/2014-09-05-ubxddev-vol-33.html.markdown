@@ -9,7 +9,7 @@ tags:
   - Rails
 ---
 
-## It's just CSS - [Murray](/people#murray-steele)
+## It's just CSS - [Murray](/team#murray-steele)
 
 http://codepen.io/samthejarvis/pen/rpIKz
 
@@ -25,7 +25,7 @@ It was recently [announced that Rack was "done" and there would be no Rack 2.0](
 
 ["How Gmail Happened: The Inside Story of Its Launch 10 Years Ago"](http://time.com/43263/gmail-10th-anniversary/) - A nice reminder that great things come from small beginnings.
 
-## Build Quality In - [Murray](/people#murray-steele)
+## Build Quality In - [Murray](/team#murray-steele)
 
 http://blog.buildqualityin.com/
 

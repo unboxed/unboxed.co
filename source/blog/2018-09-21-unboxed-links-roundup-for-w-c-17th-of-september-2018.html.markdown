@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Git client from Sublime - [Elena T](/people#elena-tanasoiu)
+## Git client from Sublime - [Elena T](/team#elena-tanasoiu)
 
 https://www.sublimemerge.com/
 
@@ -17,14 +17,14 @@ I appreciate Sublime for coming out with this tool, and it looks like the
 only downside is that the dark theme is only available for the paid version 
 (well played). Bonuses: no need to login, loads very fast. 
 
-## How can you improve your Rails code readability using one tool - [Piotr J](/people#piotr-jaworski)
+## How can you improve your Rails code readability using one tool - [Piotr J](/team#piotr-jaworski)
 
 https://github.com/andypike/rectify
 
 Really awesome gem which helps to structure complex Rails code. Currently it 
 supports four concepts: form objects, commands, presenters and query objects.
 
-## What Most Remote Companies Don't Tell You About Remote Work - [Elena T](/people#elena-tanasoiu)
+## What Most Remote Companies Don't Tell You About Remote Work - [Elena T](/team#elena-tanasoiu)
 
 https://blog.doist.com/mental-health-and-remote-work-1b77616f6945
 
@@ -33,7 +33,7 @@ meant to work in isolation. This is doubly hard if you're a young person
 starting out in your career. This article explores the trappings of remote work 
 and what people are doing to mitigate them.
 
-## Build impossible programs - [Murray S](/people#murray-steele)
+## Build impossible programs - [Murray S](/team#murray-steele)
 
 https://jvns.ca/blog/2018/09/18/build-impossible-programs/
 
@@ -47,13 +47,13 @@ already working on your idea so you shouldn't bother.  I'd go even further and
 say that even if they are, that doesn't mean you wouldn't get anything out of it
 by doing it yourself.
 
-## The Hacking of America - [Elena T](/people#elena-tanasoiu)
+## The Hacking of America - [Elena T](/team#elena-tanasoiu)
 
 https://www.nytimes.com/2018/09/14/sunday-review/politics-disruption-media-technology.html
 
 A historical frame to modern propaganda. 
 
-## Track of the Week - [Piotr J](/people#piotr-jaworski)
+## Track of the Week - [Piotr J](/team#piotr-jaworski)
 
 After a short break for international games and UEFA Nations League, Premier 
 League is finally back! So it’s perfect time for a song which probably every 

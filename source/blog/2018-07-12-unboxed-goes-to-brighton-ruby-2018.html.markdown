@@ -14,21 +14,21 @@ published: true
 
 The Unboxed gang made their way to Brighton Ruby yet again this year. For some of us, it was our first time at Brighton Ruby, for others it was our third or fifth time. We all enjoyed it so we've written down our thoughts about what talks we found particularly interesting.
 
-## [Piotr J](/people#piotr-jaworski)
+## [Piotr J](/team#piotr-jaworski)
 
 Conference pick: [A Branch in Time - Tekin Süleyman](https://brightonruby.com/2018/a-branch-in-time-tekin-suleyman/)
 
 I really enjoyed this talk - it was a bit different than the others. Tekin prepared his talk in a bit different way - it was more like an illustrated story. It talked about how adding comments to our commits could save you time. I’m pretty sure that all of us have been in the same moment - we spot some weird code, run a git blame command but it doesn’t help. There isn’t a pull request or any other description why someone did this and why we shouldn’t touch it.
 Tekin showed us that adding a comment to our commit could really save us, or our colleague. Imagine that a story on Trello has been archived or a Jira board has been removed, what now? We don’t have any other description or backup. And without this knowledge, we can destroy something in our application’s logic, even with a one liner change! That’s a pretty easy thing but normally we don’t think about it.
 
-## [Celia C](/people#celia-collins)
+## [Celia C](/team#celia-collins)
 
 Conference pick: [Cockroft’s Folly - Nick Means](https://brightonruby.com/2018/cockcrofts-folly-nick-means/)
 
 In this talk I learned how narrowly England avoided a major nuclear disaster in the 1950s. John Cockroft insisted on putting a filter on the top of a recently-built nuclear reactor’s towers, meaning that the project was more expensive and took more time. The filters earned the name of Cockroft’s folly because they were deemed unnecessary and caused inconvenience to the workmen. Consequently, when the reactor caught fire, they were the only things that ensured that Cumbria wasn’t poisoned by all the dangerous gases that escaped. This is not only a fun story to tell at dinner parties, but also relates to the practice of coding. By making sure that we put precautionary measures into our code, we too can avoid disasters that have unexpected but far-reaching ethical implications.
 
 
-## [Elena T](/people#elena-tanasoiu)
+## [Elena T](/team#elena-tanasoiu)
 
 Conference pick #1: [Cultivating Instinct - Katrina Owen](https://brightonruby.com/2018/cultivating-instinct-katrina-owen/)
 

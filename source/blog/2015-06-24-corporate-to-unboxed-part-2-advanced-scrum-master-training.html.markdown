@@ -9,7 +9,7 @@ tags:
 
 ---
 
-Following on from [Part 1](/blog/corporate-to-unboxed-a-project-manager-s-journey-to-scrum-master-part-1) in my journey - last week, I attended an Advanced Scrum Master course with [Jolie](/people#jolie-lanser), one of Unboxed’s resident (and very experienced) Scrum Masters.<br/>
+Following on from [Part 1](/blog/corporate-to-unboxed-a-project-manager-s-journey-to-scrum-master-part-1) in my journey - last week, I attended an Advanced Scrum Master course with [Jolie](/team#jolie-lanser), one of Unboxed’s resident (and very experienced) Scrum Masters.<br/>
 
 <p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2ca624ca-8df4-4ac4-88b1-1a9e131c9cd2.jpeg" alt="Scrum1"></p>
 

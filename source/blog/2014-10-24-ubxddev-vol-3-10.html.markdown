@@ -25,25 +25,25 @@ architectures](http://martinfowler.com/bliki/SacrificialArchitecture.html).  Ass
 longevity of the code base / solution - how will you easily replace what
 you're doing now with something new in 5 years time?
 
-## Interview about the mobile web - [Neil](/people#neil-van-beinum)
+## Interview about the mobile web - [Neil](/team#neil-van-beinum)
 
 http://www.infoq.com/interviews/andrew-betts-mobile-web
 
 The Financial Times mobile web app is regarded as one of the best examples of how HTML5 can be used to create a native mobile app experience. In this interview, director Andrew Betts outlines their approach and some of the challenges that they face including older browsers, multiple devices and competing with native UIs.
 
-## Geometrical Art in JS - [Neil](/people#neil-van-beinum)
+## Geometrical Art in JS - [Neil](/team#neil-van-beinum)
 
 http://vart.institute/mondrian/
 
 Fun article about the process of creating geometrical art through Javascript. The author starts with a hard-coded design and then builds up a recursive program to mimic a famous piece by Mondrian, randomly generated each time.
 
-## Surviving Big Rewrites - [Murray](/people#murray-steele)
+## Surviving Big Rewrites - [Murray](/team#murray-steele)
 
 http://onstartups.com/tabid/3339/bid/97052/How-To-Survive-a-Ground-Up-Rewrite-Without-Losing-Your-Sanity.aspx
 
 Our natural instinct as developers when encountering old code is often "this is terrible, we must re-write".  Harking back to our [boring developers links from a couple of weeks back](/blog/ubxddev-vol-38) we often overcome that instinct by thinking about how much work a full rewrite will be and how much we've forgotten that is encoded in the old software.  Sometimes though weighing up the pros and cons it might just be that a rewrite might be the correct approach.  This article gives some advice on how to approach a rewrite, and how to survive.
 
-## Creating a type style guide - [Neil](/people#neil-van-beinum)
+## Creating a type style guide - [Neil](/team#neil-van-beinum)
 
 http://blog.typekit.com/2014/10/22/creating-a-type-style-guide/
 

@@ -9,14 +9,14 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Google Pixel 3 review - [Murray S](/people#murray-steele)
+## Google Pixel 3 review - [Murray S](/team#murray-steele)
 
 https://www.buzzfeednews.com/article/mathonan/google-pixel-3-review-android
 
 A review of the latest pixel phone from Google.  I wouldn't normally link to
 such a mundane sounding thing, but it's not what you expect.  Just go with it.
 
-## What does a senior engineer do? - [Murray S](/people#murray-steele)
+## What does a senior engineer do? - [Murray S](/team#murray-steele)
 
 https://jvns.ca/blog/senior-engineer/
 
@@ -31,7 +31,7 @@ your company and different again if you move job.  However, it's important to
 understand that you can work out what you can and can't do, and what you should
 and shouldn't be expected to do, regardless of what those things actually _are_.
 
-## Ruby HAP Server - HomeKit support for the Rubyist - [Andrew W](/people#andrew-white)
+## Ruby HAP Server - HomeKit support for the Rubyist - [Andrew W](/team#andrew-white)
 
 https://github.com/karlentwistle/ruby_home
 
@@ -40,7 +40,7 @@ support for HomeKit. Now your wait is over as Unboxed alumni and now Cookpad
 developer [Karl Entwistle](https://twitter.com/karlentwistle) has got your back
 with his new project - check it out.
 
-## Track of the Week - [Holly B](/people#holly-brenan)
+## Track of the Week - [Holly B](/team#holly-brenan)
 
 I've had this song on loop all week trying to eke out the last of the sunshine
 and warm weather vibes for as long as I can. Also, it's been the perfect

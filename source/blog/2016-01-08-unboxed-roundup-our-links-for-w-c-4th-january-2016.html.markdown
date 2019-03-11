@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## The Website Obesity Crisis - [Andrew W](/people#andrew-white)
+## The Website Obesity Crisis - [Andrew W](/team#andrew-white)
 
 http://idlewords.com/talks/website_obesity.htm
 

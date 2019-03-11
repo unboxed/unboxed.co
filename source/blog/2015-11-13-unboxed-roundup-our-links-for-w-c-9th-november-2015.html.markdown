@@ -9,13 +9,13 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Bad service design is not a strategy - [Andrew W](/people#andrew-white)
+## Bad service design is not a strategy - [Andrew W](/team#andrew-white)
 
 https://medium.com/public-innovators-network/bad-service-design-is-not-a-strategy-b3024efd3e9d
 
 Andrew Greenway (formerly Programme Manager at GDS) challenges service owners about using excuses like demand management as justification for not improving bad services.
 
-## Clickbait title goes here - [Murray S](/people#murray-steele)
+## Clickbait title goes here - [Murray S](/team#murray-steele)
 
 http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/
 

@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Changing the world for the better - [Matt T](/people#matt-turrell)
+## Changing the world for the better - [Matt T](/team#matt-turrell)
 
 http://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html
 
@@ -27,7 +27,7 @@ https://devdocs.io
 
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 
-## Advice from 40 year old me to 30 year old me - [Matt T](/people#matt-turrell)
+## Advice from 40 year old me to 30 year old me - [Matt T](/team#matt-turrell)
 
 http://matadornetwork.com/life/advice-40-year-old-30-year-old/
 
@@ -37,7 +37,7 @@ I wonder if, when I was 30, I would’ve listened to the advice or something you
 
 Worth a read.
 
-## Decoupling database migrations from application deployments - [Murray S](/people#murray-steele)
+## Decoupling database migrations from application deployments - [Murray S](/team#murray-steele)
 
 http://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/
 

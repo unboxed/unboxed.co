@@ -9,25 +9,25 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Jai - [Murray S](/people#murray-steele)
+## Jai - [Murray S](/team#murray-steele)
 
 https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md
 
 [Jonathan Blow](https://twitter.com/Jonathan_Blow), creator of indie games [Braid](http://braid-game.com/) and [The Witness](http://the-witness.net/), has been working on a new language called Jai.  This is an unofficial primer on that language collecting information from talks and videos that Blow has given.  As a language it is intended as an alternative to C rather than other higher level languages and so as such it doesn't have things we might consider "standard" or "modern" like automatic memory management.  That doesn't mean we should discount it though as there are some interesting things in it.  For example, code-refactoring is given importance in the language design with a syntax that supports it (see the last example of [this section](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md#code-refactoring)).
 
-## This week hot topic aka How deep is your dependency - [Paula S](/people#paula-stepinska)
+## This week hot topic aka How deep is your dependency - [Paula S](/team#paula-stepinska)
 
 http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/
 
 Can you call yourself a programmer if you can't/are too lazy to write your own basic programming functions? Plus some rationale from [the other side](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328).
 
-## Left pad as a service - [Jack B](/people#jack-bracewell)
+## Left pad as a service - [Jack B](/team#jack-bracewell)
 
 http://left-pad.io/
 
 Are your strings feeling distinctly un-left-padded since everyone’s favourite npm package was removed this week? Never fear, left pad as a service is here to save the day.
 
-## Windows of the World - [Tom S](/people#tom-sabin)
+## Windows of the World - [Tom S](/team#tom-sabin)
 
 http://www.andrevicentegoncalves.com/#!/index/G00004m4OOrWV5YE
 

@@ -11,7 +11,7 @@ tags: # (Delete as appropriate)
 ---
 
 
-## What is programming? - [Murray S](/people#murray-steele)
+## What is programming? - [Murray S](/team#murray-steele)
 
 https://www.theincomparable.com/robot/136/
 
@@ -32,7 +32,7 @@ you don't have to type out code, doesn't mean it's not programming or is somehow
 a lesser discipline because of it.  In many ways it might be better; no more
 frustrating hours spent chasing down errors caused by missing semi-colons!
 
-## How to encrypt your entire life in less than an hour - [Ben B](/people#ben-baumann)
+## How to encrypt your entire life in less than an hour - [Ben B](/team#ben-baumann)
 
 https://medium.freecodecamp.org/tor-signal-and-beyond-a-law-abiding-citizens-guide-to-privacy-1a593f2104c3
 
@@ -45,14 +45,14 @@ use his email and password to gain access to his Twitter and Pinterest accounts 
 No one is safe! So if you want some quick handy tips and tricks to maintain a safe 
 digital profile then look no further.
 
-## Try Crystal this afternoon - [Richard S](/people#richard-stobart)
+## Try Crystal this afternoon - [Richard S](/team#richard-stobart)
 
 https://gist.github.com/paulcsmith/5668e9407179c14b77aaad5cb27938e2
 
 TBH I only looked at it because it's called Crystal and I thought [he](https://twitter.com/haironfire907?lang=en) wrote it.  It seems 
 like it's worth keeping an eye on.
 
-## London Cycling Design Standards - [Henry T](/people#henry-turner)
+## London Cycling Design Standards - [Henry T](/team#henry-turner)
 
 https://tfl.gov.uk/corporate/publications-and-reports/streets-toolkit#on-this-page-2
 
@@ -60,20 +60,20 @@ Published design systems, or manuals, or standards, seem to be getting increasin
 popular. I enjoyed reading TfL's design guide for cycling infrastructure partly because 
 \I like cycling, and partly because it wasn't a guide related to producing a web service.
 
-## Design checklist - [Richard S](/people#richard-stobart)
+## Design checklist - [Richard S](/team#richard-stobart)
 
 http://blog-en.tilda.cc/articles-website-design-mistakes
 
 It's worth having a look at your existing site with a critical eye and seeing whether 
 this checklist gives you any inspiration.  Horses for courses, of course.
 
-## Compare passports - [Elena T](/people#elena-tanasoiu)
+## Compare passports - [Elena T](/team#elena-tanasoiu)
 
 https://multinational.io/compare_passports
 
 A very handy tool for comparing the power of different passports around the world. 
 
-## Track of the Week - [Tim H](/people#tim-higgins)
+## Track of the Week - [Tim H](/team#tim-higgins)
 
 70s summer disco pop.  In this heat there is nothing better!  We don't even need to Fly Away for our holidays this year!
 

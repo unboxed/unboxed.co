@@ -9,7 +9,7 @@ tags: # (Delete as appropiate)
 
 ---
 
-## Static typing will not save us from broken software - [Charlie E](/people#charlie-egan)
+## Static typing will not save us from broken software - [Charlie E](/team#charlie-egan)
 
 http://www.drmaciver.com/2016/10/static-typing-will-not-save-us-from-broken-software/
 
@@ -19,7 +19,7 @@ easier to cover a bug that made it into the wild with a test than model it
 in a type system. There's also a good discussion over on [Hacker
 News](https://news.ycombinator.com/item?id=12774024).
 
-## welcome.js - [Murray S](/people#murray-steele)
+## welcome.js - [Murray S](/team#murray-steele)
 
 http://booktwo.org/notebook/welcome-js/
 
@@ -30,7 +30,7 @@ mistake.  Viewing the source and using the browser to make changes to see how
 things work is one of the best ways we have to encourage people to learn about
 how the web works.
 
-## How the Sexual Health: 24 service used GOV.UK patterns - [Graeme M](/people#graeme-mccubbin)
+## How the Sexual Health: 24 service used GOV.UK patterns - [Graeme M](/team#graeme-mccubbin)
 
 https://gds.blog.gov.uk/2016/10/14/how-the-sexual-health-24-service-used-gov-uk-patterns/
 

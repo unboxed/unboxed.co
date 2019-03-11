@@ -10,13 +10,13 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Github Incident Post Mortem - [Elena T](/people#elena-tanasoiu)
+## Github Incident Post Mortem - [Elena T](/team#elena-tanasoiu)
 
 https://blog.github.com/2018-10-30-oct21-post-incident-analysis/
 
 Excellent write-up of the great Github blackout of the 21st-22nd of October.
 
-## How a month without computers changed me - [Elena T](/people#elena-tanasoiu)
+## How a month without computers changed me - [Elena T](/team#elena-tanasoiu)
 
 https://dev.to/iskin/how-a-month-without-computers-changed-me-1ho4
 
@@ -25,13 +25,13 @@ entire life unless I add limitations to it. This article describes a full detox,
 which I'm not really inclined to undertake because of the logistics it would 
 involve. However, the article does offer some healthy conclusions. 
 
-## Toodles: Project management directly from the TODO's in your codebase - [Andrew W](/people#andrew-white)
+## Toodles: Project management directly from the TODO's in your codebase - [Andrew W](/team#andrew-white)
 
 https://github.com/aviaviavi/toodles
 
 Leverage TODO comments in your code for simple project management.
 
-## Redis launches streams - [Elena T](/people#elena-tanasoiu)
+## Redis launches streams - [Elena T](/team#elena-tanasoiu)
 
 https://brandur.org/redis-streams
 

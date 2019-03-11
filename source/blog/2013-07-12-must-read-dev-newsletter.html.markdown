@@ -29,7 +29,7 @@ http://www.independent.co.uk/news/science/how-many-surrealists-does-it-take-to-s
 http://blog.lunatech.com/2009/02/03/what-every-web-developer-must-know-about-url-encoding
 A blog post from a few years ago, but still useful and relevant.
 
-##[Murray Steele](/people#murray-steele)
+##[Murray Steele](/team#murray-steele)
 
 #### TDD; where did it all go wrong
 At [the Norwegian Developer Conference](http://www.ndcoslo.com/) earlier this year [Ian Cooper](https://twitter.com/ICooper) gave a talk called ["TDD; Where did it all go wrong?"](https://vimeo.com/68375232) that I recommend we all put aside an hour for and watch. This is a good summary of what any developer, no matter their language of choice, might be doing with TDD today and where we might have misinterpreted [Kent Beck's original ideas](http://www.amazon.co.uk/Driven-Development-Addison-Wesley-Signature-Series/dp/0321146530/).  A welcome hint that it's not a rubyists problem and we can look to other communities for advice.

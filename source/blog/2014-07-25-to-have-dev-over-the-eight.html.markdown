@@ -23,7 +23,7 @@ checkboxes from markdown, Github style, e.g.:
 It also lets you update the status of the checkboxes by clicking
 through a simple PUT/PATCH request. There's [more details on the announcement blog post](http://brightbit.com/blog/2013/12/09/enhancing-markdown-rendering-with-the-markdown-checkboxes-gem/)
 
-## How RSpec stubs and mocks work - [Murray](/people#murray-steele)
+## How RSpec stubs and mocks work - [Murray](/team#murray-steele)
 
 https://speakerdeck.com/samphippen/the-anatomy-of-a-mocked-call-rulu-2014
 

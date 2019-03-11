@@ -9,7 +9,7 @@ tags:
   - Culture
 ---
 
-## Slow programming - [Murray](/people#murray-steele)
+## Slow programming - [Murray](/team#murray-steele)
 
 https://ventrellathing.wordpress.com/2013/06/18/the-case-for-slow-programming/
 
@@ -21,19 +21,19 @@ http://typesetinthefuture.com/alien/
 
 An exceptional detailed analysis of the fonts, icons, and device interfaces of the film Alien.
 
-## SmartUnderline (JS library) - [Tom S](/people#tom-sabin)
+## SmartUnderline (JS library) - [Tom S](/team#tom-sabin)
 
 [https://eager.io/showcase/SmartUnderline/](https://eager.io/showcase/SmartUnderline/)
 
 Style underlined text more beautifully so that letter descenders have a little bit of padding to the left and right of the line.
 
-## Regular expression visualiser - [Tom S](/people#tom-sabin)
+## Regular expression visualiser - [Tom S](/team#tom-sabin)
 
 [http://jex.im/regulex/](http://jex.im/regulex/)
 
 Breaks down a regex so that you visually see how it has been constructed.
 
-## Data maps of London - [Tom S](/people#tom-sabin)
+## Data maps of London - [Tom S](/team#tom-sabin)
 
 [http://www.bbc.co.uk/news/magazine-29915801](http://www.bbc.co.uk/news/magazine-29915801)
 
@@ -43,7 +43,7 @@ I love data visualisations. I especially love these visualisations of London. A 
 - a range of colours overlaid on London showing different ethnic groups
 - Central Line vs average rent
 
-## The JS console object is brilliant: 5 functions you didn’t know existed - [Tom S](/people#tom-sabin)
+## The JS console object is brilliant: 5 functions you didn’t know existed - [Tom S](/team#tom-sabin)
 
 [https://shellycloud.com/blog/2014/11/five-functions-of-the-console-object-you-didnt-know](https://shellycloud.com/blog/2014/11/five-functions-of-the-console-object-you-didnt-know)
 
@@ -55,7 +55,7 @@ http://artandsoleblog.com/features/view/inspired-ingenuity-sneaker-speakers-by-n
 
 Inspirational design, even though it clearly started life as a pun ;)
 
-## Ruby in the future - [Paula](/people#paula-stepinska)
+## Ruby in the future - [Paula](/team#paula-stepinska)
 
 http://astonj.com/tech/ruby-is-about-to-get-red-hot-again/
 

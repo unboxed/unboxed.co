@@ -46,13 +46,13 @@ Active reloading is configured, so the server will listen for changes and refres
 
 Using [BrowserStack](https://www.browserstack.com) for compatibility testing
 
-## Adding to the 'people' page
+## Adding to the 'team' page
 
 Upload caricatures at a size at or near to (212px * 425px), with a transparent background. This can be done with e.g. the Mac Preview app.
 
 ## Removing an employee from the site
 
-Use `ruby 'lib/remove_person.rb'` to start a script to remove an employee from the people page and their links across the site.
+Use `ruby 'lib/remove_person.rb'` to start a script to remove an employee from the team page and their links across the site.
 
 ## Blog CSS Features
 
@@ -71,7 +71,7 @@ appended onto the filename (E.g macbook.jpg and macbook@2x.jpg). The
 retina version should be twice the size of the non-retina version. See
 [style guide](https://unboxed.co/style-guide) for image resolutions.
 
-Whenever possible, you should use Photoshop or GIMP to resize images. 
+Whenever possible, you should use Photoshop or GIMP to resize images.
 Alternatively, Apple Preview can be used with decent results
 (go to `Tools > Adjust size` and select desired size in pixels).
 

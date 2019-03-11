@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## How to teach yourself hard things - [Elena T](/people#elena-tanasoiu)
+## How to teach yourself hard things - [Elena T](/team#elena-tanasoiu)
 
 https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/
 
@@ -22,7 +22,7 @@ about X yet".
 She then goes on to offer some good advice about how we could identify
 what we don't understand and focus on fixing that.
 
-## Bored and brilliant a few weeks later - [Celia C](/people#celia-collins)
+## Bored and brilliant a few weeks later - [Celia C](/team#celia-collins)
 
 https://medium.com/@elo_sf/bored-and-brilliant-a-few-weeks-later-dd2333ad418a
 
@@ -32,7 +32,7 @@ different task for every day of one week, such as not using your phone while
 walking, or deleting the app you use the most. The guy writing the blog kind of
 fails, but the challenge has given me some good ideas.
 
-## Design with Difficult Data - [Andrew W](/people#andrew-white)
+## Design with Difficult Data - [Andrew W](/team#andrew-white)
 
 https://alistapart.com/article/design-with-difficult-data
 
@@ -44,7 +44,7 @@ other difficult situations where a design can break down and encourages
 designers to not just follow a 'happy path' where names are short and all the
 data is present.
 
-## Google Dataset Search - [Boris D](/people#boris-divjak)
+## Google Dataset Search - [Boris D](/team#boris-divjak)
 
 https://toolbox.google.com/datasetsearch
 
@@ -66,7 +66,7 @@ them:
 
 > ... but not _too_ much
 
-## Track of the Week - [Graeme M](/people#graeme-mccubbin)
+## Track of the Week - [Graeme M](/team#graeme-mccubbin)
 
 Going back to one of my favourite 80's playlists, the choon of this week is a little number from the Beverly Hills Cop soundtrack.
 

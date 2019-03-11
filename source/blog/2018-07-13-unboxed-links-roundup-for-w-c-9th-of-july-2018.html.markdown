@@ -11,29 +11,29 @@ tags: # (Delete as appropriate)
 ---
 
 
-## Where GREP Came From - Brian Kernighan - [Elena T](/people#elena-tanasoiu)
+## Where GREP Came From - Brian Kernighan - [Elena T](/team#elena-tanasoiu)
 
 https://www.youtube.com/watch?v=NTfOnGZUZDk
 
-## Better Stand Ups - Martin Fowler - [Richard S](/people#richard-stobart)
+## Better Stand Ups - Martin Fowler - [Richard S](/team#richard-stobart)
 
 https://martinfowler.com/articles/itsNotJustStandingUp.html
 
 Following on from the Retrospectives post by Steve last week, why not read Martin Fowler's blog on better stand ups over the weekend and add a little refreshing zest to Monday morning's stand up.
 
-## Story Points - @tottinge - [Richard S](/people#richard-stobart)
+## Story Points - @tottinge - [Richard S](/team#richard-stobart)
 
 https://twitter.com/tottinge/status/1015267580465041408?s=21
 
 While we are looking at bit and bobs about Agile, here is a little Twitter thread on story points.  How far would your discussion get?
 
-## Remote Show and Tells - Emily Webber - [Richard S](/people#richard-stobart)
+## Remote Show and Tells - Emily Webber - [Richard S](/team#richard-stobart)
 
 https://emilywebber.co.uk/a-decent-remote-show-and-tell-set-up/
 
 We might as well give out another titbit on Agile ceremonies by our friend, Emily Webber - the remote show-and-tell.
 
-## Estimation - Geoff Watts - [Richard S](/people#richard-stobart)
+## Estimation - Geoff Watts - [Richard S](/team#richard-stobart)
 
 https://youtu.be/wy58ws6krKQ
 

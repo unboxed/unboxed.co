@@ -22,19 +22,19 @@ https://wearecitizensadvice.org.uk/to-take-the-next-step-on-digital-we-dropped-t
 
 "RIP channels. More than this, it's now clear that the very idea of 'channels' is becoming outdated." This is something I definitely agree with, and it's interesting to read Citizen's Advice Bureau's take on it.
 
-## How to build a wall-mounted calendar with a Raspberry Pi  - [Elena T](/people#elena-tanasoiu)
+## How to build a wall-mounted calendar with a Raspberry Pi  - [Elena T](/team#elena-tanasoiu)
 
 https://www.hanselman.com/blog/HowToBuildAWallMountedFamilyCalendarAndDashboardWithARaspberryPiAndCheapMonitor.aspx
 
 If you've got nothing to do over the Christmas vacation, this might be a fun little project. 
 
-## State of Javascript - 2018  - [Elena T](/people#elena-tanasoiu)
+## State of Javascript - 2018  - [Elena T](/team#elena-tanasoiu)
 
 https://2018.stateofjs.com/introduction
 
 I found this useful, since Javascript frameworks are constantly in flux.
 
-## Track of the Week - [Matt T](/people#matt-turrell)
+## Track of the Week - [Matt T](/team#matt-turrell)
 
 This song was fed to my by Down Dog, a yoga app I use a lot. It's an uplifting song which now always reminds of transitioning from one pose to the next!
 

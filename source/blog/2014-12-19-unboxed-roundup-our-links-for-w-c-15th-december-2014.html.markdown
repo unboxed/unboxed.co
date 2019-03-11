@@ -15,7 +15,7 @@ http://www.postgresql.org/about/news/1557/
 
 I’ve been waiting for this release, which brings JSONB support, making Postgres an even more flexible tool. The release also brings interesting performance gains to GIN indexes, which are very welcome by everyone making use of hstore, for instance.
 
-## A more useful git diff - [Murray](/people#murray-steele)
+## A more useful git diff - [Murray](/team#murray-steele)
 
 Commit diffs on github obviously show line differences, but they also highlight the character differences between lines.  For example in [this commit diff](https://github.com/unboxed/be_valid_asset/commit/7b46bba362d32f13a300ee245b708ee6b89d1b64) the diff shows that we've changed the first line of the LICENSE.txt, but also the diff highlights that the real change between the two lines was just the year.  I wanted to get the same from my own git diffs and it turns out that git ships [a perl script](https://github.com/git/git/tree/master/contrib/diff-highlight) that does this if you hook it up.  This [pro-tip by Cameron Tod on coderwall](https://coderwall.com/p/nl-bdg/more-readable-git-word-diff-on-osx) explains how to hook that up on OS X if you're using [homebrew](http://brew.sh/) for git.  If you're not on OS X the comments explain a more general solution.
 

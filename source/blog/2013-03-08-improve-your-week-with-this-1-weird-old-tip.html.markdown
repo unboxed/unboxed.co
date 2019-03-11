@@ -41,7 +41,7 @@ First there was TDD. Then BDD.  Now comes [RDD](http://tom.preston-werner.com/20
 Andrew and I found this when researching the changes going into [CanCan 2.0](https://github.com/ryanb/cancan/tree/2.0)
 
 
-Tips from [Murray S](/people#murray-steele)
+Tips from [Murray S](/team#murray-steele)
 --------------------
 
 ### [Rails Girls London](http://railsgirls.com/london)

@@ -9,13 +9,13 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Trying out stormboard for remote, distributed team retrospective - [Carrie B](/people#carrie-bedingfield)
+## Trying out stormboard for remote, distributed team retrospective - [Carrie B](/team#carrie-bedingfield)
 
 https://stormboard.com/
 
 How do you run a retrospective with 40 people, all over the UK? One answer is using Stormboard which is pretty handy as far as online whiteboards go. Veerrry nice interface and lots of free functionality of which the most cool is the kanban template which means your post its go on a grid and Stormboard ​_knows where you posted them_​ (how does it KNOW?) and exports them in the right categories (no typing up and order). Also there is voting stickies up/down and index cards and all kinds of other nice things.
 
-## Giving your feature a lifespan - [Murray S](/people#murray-steele)
+## Giving your feature a lifespan - [Murray S](/team#murray-steele)
 
 http://matt.chadburn.co.uk/notes/apoptosis.html
 
@@ -23,7 +23,7 @@ I've never really used feature-switching as an approach to delivering software, 
 
 The article reminded me of ["Rewriting Code and Culture" by Sabrina Leandro](https://www.youtube.com/watch?v=-VEf8j6aGMk).  In this talk Sabrina tells us how [songkick](https://songkick.com) rebuilt their app and one of the things they did was to remove features that had accrued over time that were no longer core to the app.  They took lots of other approaches too so it's worth watching the whole talk to get some other ideas if you are facing a similar problem.
 
-## Shutting down gracefully - [Murray S](/people#murray-steele)
+## Shutting down gracefully - [Murray S](/team#murray-steele)
 
 https://medium.com/@revdancatt/building-shutdownability-closing-down-contributoria-the-nice-way-e3691016e59c#.xcumrao0d
 

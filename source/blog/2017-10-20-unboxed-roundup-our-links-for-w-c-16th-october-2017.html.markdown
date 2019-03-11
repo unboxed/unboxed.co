@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Google's Learning Software Learns to Write Learning Software - [Boris D](/people#boris-divjak)
+## Google's Learning Software Learns to Write Learning Software - [Boris D](/team#boris-divjak)
 
 http://www.wired.com/story/googles-learning-software-learns-to-write-learning-software/
 
@@ -20,7 +20,7 @@ and it's smart, does that mean it's alive? Does this lead to ever smarter
 software and artificial superintelligence? Is superintelligence something that
 can be owned? We live in exciting times!
 
-## Psychological Safety and Learning Behavior in Work Teams - [Carrie B](/people#carrie-bedingfield)
+## Psychological Safety and Learning Behavior in Work Teams - [Carrie B](/team#carrie-bedingfield)
 
 https://www.jstor.org/stable/2666999?seq=1#page_scan_tab_contents
 
@@ -33,7 +33,7 @@ teams. Or as it turned out, they noted/shared more mistakes allowing them to
 address them. So here's the peer-reviewed data on what psychological safety is
 all about…
 
-## Advice on microservices - [Murray S](/people#murray-steele)
+## Advice on microservices - [Murray S](/team#murray-steele)
 
 https://therealadam.com/2017/10/19/you-must-be-this-tall-to-ride-the-micro-services/
 
@@ -44,7 +44,7 @@ prerequisites you should meet before trying to do this.  I think much of the
 advice would also apply if you were embarking on a brand new application and
 wanted to start with a microservices architecture.
 
-## iOS Privacy: Easily get a user's Apple ID password, just by asking - [Elena T](/people#elena-tanasoiu)
+## iOS Privacy: Easily get a user's Apple ID password, just by asking - [Elena T](/team#elena-tanasoiu)
 
 https://krausefx.com/blog/ios-privacy-stealpassword-easily-get-the-users-apple-id-password-just-by-asking
 
@@ -52,7 +52,7 @@ Users are used to just entering their Apple ID and password whenever iOS prompts
 them to do so. A phishing app can easily abuse this and randomly ask for your
 credentials without you even having opened the app.
 
-## Track of the Week - [Lawrence R](/people#lawrence-richards)
+## Track of the Week - [Lawrence R](/team#lawrence-richards)
 
 Last time I did a track of the week it was Spring, now with the weather getting
 frisky and having myself recovered from a cold this week… it's most definitely

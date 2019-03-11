@@ -50,7 +50,7 @@ published: true
 
 ![Carrie Bedingfield](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/018c336fd1a431f23cfcfaf8a766a133.PNG)
 
-<p><a href="../people#carrie-bedingfield">Carrie</a> will explain the psychology and behavioural economics behind securing new budgets for new initiatives. Understand why ​<i>perception</i> of value is often disconnected from ​<i>actual</i> value - and how to use this rather than trip over it. Carrie is a business communication expert at Unboxed and a guest lecturer at Cambridge University Judge Business School.<br/>
+<p><a href="../team#carrie-bedingfield">Carrie</a> will explain the psychology and behavioural economics behind securing new budgets for new initiatives. Understand why ​<i>perception</i> of value is often disconnected from ​<i>actual</i> value - and how to use this rather than trip over it. Carrie is a business communication expert at Unboxed and a guest lecturer at Cambridge University Judge Business School.<br/>
 <br/></p>
 
 <h3>Richard Atherton</h3>

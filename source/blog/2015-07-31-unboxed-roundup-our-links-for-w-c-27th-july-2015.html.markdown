@@ -9,7 +9,7 @@ tags:
   - Culture
 ---
 
-## A clear view through future nonsense - [Martyn E](/people#martyn-evans)
+## A clear view through future nonsense - [Martyn E](/team#martyn-evans)
 
 http://idlewords.com/talks/web_design_first_100_years.htm
 
@@ -33,7 +33,7 @@ http://slack.birdly.fr
 
 File expenses via direct message on Slack. (Beta)
 
-## Address forms - [Murray S](/people#murray-steele)
+## Address forms - [Murray S](/team#murray-steele)
 
 https://alpha.openaddressesuk.org/blog/2015/05/13/free-format-user-research
 

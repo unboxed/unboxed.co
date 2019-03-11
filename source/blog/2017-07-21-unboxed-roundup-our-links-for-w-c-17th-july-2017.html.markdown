@@ -10,25 +10,25 @@ tags: # (Delete as appropriate)
 
 ---
 
-## How to Destroy Programmer Productivity - [Richard S](/people#richard-stobart)
+## How to Destroy Programmer Productivity - [Richard S](/team#richard-stobart)
 
 https://georgestocker.com/2014/04/15/how-to-destroy-programmer-productivity/
 
 The article is a couple of years old but these distractions haven’t diminished since the article was written.  As someone who is very easily distracted, this resonates.
 
-## Why we argue style - [Elena T](/people#elena-tanasoiu)
+## Why we argue style - [Elena T](/team#elena-tanasoiu)
 
 https://www.sandimetz.com/blog/2017/6/1/why-we-argue-style
 
 Sandi Metz quotes Tolstoy in this article to point out how we make ourselves miserable by not agreeing on a general style guide: "Happy families are all alike; every unhappy family is unhappy in its own way."
 
-## go-pry - [Charlie](/people#charlie-egan)
+## go-pry - [Charlie](/team#charlie-egan)
 
 https://github.com/d4l3k/go-pry
 
 Very occasionally I find the time to work on a some tiny Go side projects and I've found myself sometimes reaching for something like Ruby's pry in Go. I haven't tried this but it looks like the real deal.
 
-## Databases vs. reality - [Murray S](/people#murray-steele)
+## Databases vs. reality - [Murray S](/team#murray-steele)
 
 https://gojko.net/2017/05/24/names-make-computers-go-crazy.html
 
@@ -44,13 +44,13 @@ world examples.  It's sobering to think that something as seemingly simple
 as the char limit we put on a database field having such complex
 repercussions.
 
-## Citymapper's new nightbuses - [Elena T](/people#elena-tanasoiu)
+## Citymapper's new nightbuses - [Elena T](/team#elena-tanasoiu)
 
 https://medium.com/@Citymapper/cm2-night-rider-our-first-commercial-bus-route-d9d7918be899
 
 Through analysis of their traffic data, city mapper has found gaps in public transportation for London. It's now launching its first commercial night bus to fill one of these gaps. The article goes on to explain how they picked the route. 
 
-## Track of the Week - [Tim H](/people#tim-higgins)
+## Track of the Week - [Tim H](/team#tim-higgins)
 
 [Graham Parker and The Rumour - Hey Lord Don't Ask ME Questions](https://www.youtube.com/watch?v=v7NlS-f29xM&list=RDv7NlS-f29xM&index=1)
 

@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Migrating a Rails Application to AWS Fargate - [Oskar P](/people#oskar-pearson)
+## Migrating a Rails Application to AWS Fargate - [Oskar P](/team#oskar-pearson)
 
 https://medium.com/code-wild/migrating-our-rails-application-to-aws-fargate-be671541b5df
 
@@ -17,7 +17,7 @@ How Bloom & Wild migrated their Rails application to AWS Fargate, allowing them 
 
 Disclaimer: I did a bunch of the above work with Bernat
 
-## Ruby Quirks - [Murray S](/people#murray-steele)
+## Ruby Quirks - [Murray S](/team#murray-steele)
 
 https://idiosyncratic-ruby.com/
 
@@ -37,19 +37,19 @@ language.
 [ruby-globals]: https://idiosyncratic-ruby.com/9-globalization.html
 [ruby-stdlib]: https://idiosyncratic-ruby.com/20-better-standards.html
 
-## What if Linus Torvalds got hit by a bus - [Elena T](/people#elena-tanasoiu)
+## What if Linus Torvalds got hit by a bus - [Elena T](/team#elena-tanasoiu)
 
 https://www.crummy.com/writing/segfault.org/Bus.html
 
 An empirical study on the effects of buses on Linus Torvalds. 
 
-## Things I don't know as of 2018 - [Elena T](/people#elena-tanasoiu)
+## Things I don't know as of 2018 - [Elena T](/team#elena-tanasoiu)
 
 https://overreacted.io/things-i-dont-know-as-of-2018/
 
 A brave list of admissions on what people assume a regular developer knows. 
 
-## Track of the Week - [Celia C](/people#celia-collins)
+## Track of the Week - [Celia C](/team#celia-collins)
 
 It’s the most wrong and most right thing I think has ever happened.
 

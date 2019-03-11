@@ -9,7 +9,7 @@ tags:
 
 ---
 
-## Is writing bug free software too expensive? - [Alan T](/people#alan-thomas)
+## Is writing bug free software too expensive? - [Alan T](/team#alan-thomas)
 
 http://www.drmaciver.com/2015/10/the-economics-of-software-correctness/
 

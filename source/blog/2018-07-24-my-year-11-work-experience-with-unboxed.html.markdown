@@ -37,7 +37,7 @@ The importance of [sprints](https://www.scrum.org/resources/what-is-a-sprint-in-
 
 # Day 3: Back to Hackney Council
 
-I spent the whole day in the Hackney Council office, working on the Marvel project. I found a very new exciting feature of linking pages together and had a lot of fun when I was presenting my app for repair services to allow operatives to see where fittings, such as lights and taps, are located. [Boris](https://unboxed.co/people/#boris-divjak) role-played a very good plumber, even if he did ask some difficult questions — but, who knows, if you make an answer up on the spot! Still amazed at how many Post-It notes get used in the office.
+I spent the whole day in the Hackney Council office, working on the Marvel project. I found a very new exciting feature of linking pages together and had a lot of fun when I was presenting my app for repair services to allow operatives to see where fittings, such as lights and taps, are located. [Boris](https://unboxed.co/team/#boris-divjak) role-played a very good plumber, even if he did ask some difficult questions — but, who knows, if you make an answer up on the spot! Still amazed at how many Post-It notes get used in the office.
 
 ![Saskia and Boris at Hackney Council](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fae2cf2ee3b6defac693500208dd2a73.JPG)
 

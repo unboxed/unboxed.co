@@ -1,5 +1,5 @@
 /blog/author  /blog
-/people/*  /people#:splat
+/team/*  /team#:splat
 /case-studies/*  /product-stories
 /project-stories/* /product-stories/:splat
 /about-us  /contact

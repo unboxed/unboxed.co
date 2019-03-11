@@ -9,19 +9,19 @@ tags:
   - Culture
 ---
 
-## Intro to ReactJS - [Paula](/people#paula-stepinska)
+## Intro to ReactJS - [Paula](/team#paula-stepinska)
 
 http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html
 
 Quick and practical introduction to ReactJS including essential description of fundamental concepts and techniques of Facebook JavaScript library for building user interfaces (http://facebook.github.io/react/).
 
-## The Internet Archive - [Murray](/people#murray-steele)
+## The Internet Archive - [Murray](/team#murray-steele)
 
 http://www.newyorker.com/magazine/2015/01/26/cobweb
 
 An interesting article about [The Internet Archive](https://archive.org/).  The task they are undertaking is almost impossible and yet clearly worthwhile.  There's a well believed notion that "the internet never forgets" but reality is probably much different as we learn from this article: services get shut down and content moves around all the time.  As developers we need to make sure we remember that [Cool URIs don't change](http://www.w3.org/Provider/Style/URI.html), and in particular as rails developers this means making liberal use of [redirect routes](http://api.rubyonrails.org/classes/ActionDispatch/Routing/Redirection.html) when we can't avoid changing URLs in our applications.
 
-## Tuning ruby method cache performance - [Murray](/people#murray-steele)
+## Tuning ruby method cache performance - [Murray](/team#murray-steele)
 
 http://www.shopify.com/technology/16777156-tuning-rubys-global-method-cache
 
