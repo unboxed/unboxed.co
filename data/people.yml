@@ -236,6 +236,17 @@
     link: https://www.linkedin.com/in/igor-sf/
   - name: Github
     link: https://github.com/ayghor/
+- name: Serafeim Maroulis
+  short_name: serafeim-maroulis
+  role: Developer
+  email: serafeim.maroulis
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/serafeimrl
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/serafeimmaroulis/
+  - name: Github
+    link: https://github.com/Reyko
 - name: David Henry
   short_name: david-henry
   role: Developer
@@ -247,5 +258,3 @@
     link: https://www.linkedin.com/in/david-henry-000b603/
   - name: Github
     link: https://github.com/dwhenry
-
-
