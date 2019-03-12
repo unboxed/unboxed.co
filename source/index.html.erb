@@ -19,6 +19,14 @@ services:
       text: "Build a culture of agile, cross- functional collaboration and continuous learning to support your growing digital services."
       link: "/services/grow-and-improve"
 
+principles:
+  title: "The Unboxed Way"
+  content: 
+    - "“The Unboxed Way” is a guide to the way in which we do things at Unboxed." 
+    - "As our general set of principles, it has been grown and developed by our team through open discussion and collaboration."
+  image: "prose/unboxed_principles.jpg"
+  link: "/the-unboxed-way/unboxed-principles"
+
 products:
   title: "Who we work with"
   client_logos:
@@ -127,6 +135,7 @@ call_to_action:
     <% end %>
   </section>
 
+
   <%= partial 'showcase_tiles_section' , locals: current_page.data.products %>
 
   <section class="showcase-tiles-section">
@@ -153,6 +162,25 @@ call_to_action:
         </div>
       </a>
     <% end %>
+  </section>
+
+  <section class="homepage-principles" data-header-waypoint>
+    <div class="homepage-principles__left_con">
+      <h2 class="services__title">
+        <%= current_page.data.principles.title %>
+      </h2>
+        <% current_page.data.principles.content.each do |content| %>
+          <p class="homepage-contact__paragraph">
+            <%= content %>
+          </p>
+        <% end %>
+      <a class="service__button" href=<%= current_page.data.principles.link %>>
+        See our principles
+      </a>
+    </div>
+    <div class="homepage-principles__right_con"> 
+      <%= image_tag(current_page.data.principles.image, class: "homepage-principles__image") %>
+    </div>
   </section>
 </div>
 
