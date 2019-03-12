@@ -1,0 +1,21 @@
+.principles-image {
+  height: 600px;
+}
+
+.principles {
+  .principles__grid {
+    padding: 0 40px;
+
+    ol {
+      list-style-type: decimal;
+
+      > li {
+        color: $purple;
+      }
+
+      ul {
+        padding: 10px 0 20px;
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+---
+title: "The Unboxed principles"
+
+header:
+  introduction: "The Unboxed principles"
+  image: "/assets/images/prose/unboxed_principles.jpg"
+  image_description: "Header image"
+
+introduction:
+  content:
+  - "To help guide us on our way, the Unboxed team have collaboratively devised a set of principles that will guide us, as part “The Unboxed Way” — our handbook to the way in which we do things at Unboxed."
+
+principles:
+  content:
+    - "These are essential to who we are and help us to shape everything we do together. We develop digital products. not only because we do it well and are passionate about it, but also because it allows us to live by our principles:"
+  list:
+    - heading: "Openness and transparency"
+      content: "We love to live in a world that is open and transparent, and information is shared freely. In order to live up to this, as a company, we ensure we’re honest and don’t exaggerate or deceive. We share as much as we can about what we’re doing."
+    - heading: "Learning by doing"
+      content: "Progress is achieved through experimentation, so we actively encourage people to go out and try new things, rather than just talk about them. From coding through to processes, feedback loops are built into everything we do, allowing us to consistently learn from what we’re doing and improve."
+    - heading: "Making sense of complexity"
+      content: "Complex problems are untangled by understanding the bigger picture. We challenge these difficult-to-understand situations by starting off small and keeping everything simple. Even when it isn’t."
+    - heading: "Healthier relationships"
+      content: "We like people. Working closely with our customers, and including them as part of our project teams, encourages key collaboration and allows us to learn from each other. We acknowledge the achievements of others, as well as our own, to help us grow."
+    - heading: "Questioning the status quo"
+      content: "We know that today’s best solution could change by tomorrow, so we’re always challenging the status quo. We are constantly striving to do thing in better and different ways. Continuous innovation enables us to explore new technologies, create new opportunities and routinely seek new and better ways of doing things."
+
+---
+
+<%= partial 'shared/page_header', locals: current_page.data.header %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'services/full_width_text_tile_prose', locals: current_page.data.introduction %>
+
+  <%= image_tag current_page.data.header.image, alt: current_page.data.header.image_description, class: "full-image principles-image" %>
+
+  <section class="principles activities">
+    <%= partial 'services/full_width_text_tile_prose', locals: current_page.data.principles %>
+
+    <div class="principles__grid">
+      <ol class="text-tile__paragraph">
+        <% current_page.data.principles.list.each do |principle| %>
+          <li><%= principle.heading %></li>
+          <ul>
+            <li><%= principle.content %></li>
+          </ul>
+        <% end %>
+      <ol>
+    </div>
+  </section>
+</div>
+
+<%= partial 'book_meeting' %>
