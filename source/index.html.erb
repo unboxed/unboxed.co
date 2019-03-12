@@ -85,6 +85,9 @@ newsletter:
 
 blog_title: "What we have been blogging about"
 
+call_to_action:
+  title: "Do you have a project in mind?"
+  link: "mailto:hello@unboxed.co"
 ---
 
 <div class="homepage">
@@ -152,6 +155,13 @@ blog_title: "What we have been blogging about"
     <% end %>
   </section>
 </div>
+
+<section class="call-to-action-section">
+  <h2 class="call-to-action-section__title">
+    <%= current_page.data.call_to_action.title %>
+  </h2>
+  <a class="service__button" href=<%= current_page.data.call_to_action.link %>>Get in touch</a>
+</section>
 
 <%= partial 'book_meeting' %>
 
