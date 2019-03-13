@@ -3,7 +3,7 @@ title: "The Unboxed principles"
 
 header:
   introduction: "The Unboxed principles"
-  image: "/assets/images/prose/unboxed_principles.jpg"
+  image: "/assets/images/prose/unboxed_principles.png"
   image_description: "Header image"
 
 introduction:
@@ -27,7 +27,13 @@ principles:
 
 ---
 
-<%= partial 'shared/page_header', locals: current_page.data.header %>
+<header class="page-header page-header--bottom-margin">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.title %>
+    </h1>
+  </div>
+</header>
 
 <div class="container" data-header-waypoint>
   <%= partial 'services/full_width_text_tile_prose', locals: current_page.data.introduction %>
@@ -38,14 +44,14 @@ principles:
     <%= partial 'services/full_width_text_tile_prose', locals: current_page.data.principles %>
 
     <div class="principles__grid">
-      <ol class="text-tile__paragraph">
+      <div class="text-tile__paragraph">
         <% current_page.data.principles.list.each do |principle| %>
-          <li><%= principle.heading %></li>
-          <ul>
-            <li><%= principle.content %></li>
-          </ul>
+          <div class="principles__grid__principle">
+            <h3><%= principle.heading %></h3>
+            <p><%= principle.content %></p>
+          </div>
         <% end %>
-      <ol>
+      </ul>
     </div>
   </section>
 </div>
