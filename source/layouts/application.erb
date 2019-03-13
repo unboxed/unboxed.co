@@ -115,7 +115,7 @@
       </div>
     </header>
 
-    <div class="page-content<%= '--news-article' if is_matching_link?('/news', current_page.url) %>">
+    <div class="page-content<%= page_content_css_class(current_page.url) %>">
       <%= yield %>
     </div>
 

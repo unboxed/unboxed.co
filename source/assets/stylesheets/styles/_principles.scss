@@ -1,20 +1,25 @@
-.principles-image {
-  height: 600px;
-}
+.page-content--unboxed-principles {
+  background-color: $white;
 
-.principles {
-  .principles__grid {
-    padding: 0 40px;
+  .text-tile--full-width-narrow {
+    padding-top: 0;
+  }
 
-    ol {
-      list-style-type: decimal;
+  .page-header__title {
+    font-size: 1.5em;
+  }
 
-      > li {
+  .principles {
+    .principles__grid {
+      padding-left: 40px;
+
+      h3 {
         color: $purple;
+        margin-bottom: 10px;
       }
 
-      ul {
-        padding: 10px 0 20px;
+      .principles__grid__principle {
+        margin-bottom: 30px;
       }
     }
   }
