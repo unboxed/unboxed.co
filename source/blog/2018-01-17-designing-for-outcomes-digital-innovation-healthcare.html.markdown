@@ -57,7 +57,7 @@ structure areas of impact. This formed the basis for a thorough pre- and post- a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A9PadE2aN5g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 *SHARP Impact Assessment*
 presented by [Sarah Josefsberg](https://www.linkedin.com/in/sarah-josefsberg-aaa54264/) from South London and Maudsley NHS Foundation Trust
-and [Boris Divjak](https://unboxed.co/people#boris-divjak) from Unboxed
+and [Boris Divjak](https://unboxed.co/team#boris-divjak) from Unboxed
 ([Link to slides](https://www.slideshare.net/BorisDivjak1/sharp-impact-assessment))
 
 <br />
@@ -70,7 +70,7 @@ The second case study is related to early stages of development of new digital s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hds7Twk30m4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 *Working toward better patient referrals with Guy’s & St Thomas’ hospital*
 presented by Dr. Toby Garrood from Guy’s & St Thomas’ NHS Foundation Trust
-and [Leon Odey-Knight](https://unboxed.co/people#leon-odey-knight) and [Martyn Evans](https://unboxed.co/people#martyn-evans) from Unboxed.
+and [Leon Odey-Knight](https://unboxed.co/team#leon-odey-knight) and [Martyn Evans](https://unboxed.co/team#martyn-evans) from Unboxed.
 
 <br />
 

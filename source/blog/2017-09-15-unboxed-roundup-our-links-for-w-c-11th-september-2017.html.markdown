@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Coinhive - Monero JavaScript Mining - [Charlie](/people#charlie-egan)
+## Coinhive - Monero JavaScript Mining - [Charlie](/team#charlie-egan)
 
 https://coin-hive.com/
 
@@ -18,7 +18,7 @@ Simple JS plugin implementing the Cryptonight algorithm to mine the
 aside...this seems like a pretty neat idea; just a shame it wasn't a more
 viable alternative to invasive adverts.
 
-## Data stories - [Murray S](/people#murray-steele)
+## Data stories - [Murray S](/team#murray-steele)
 
 http://www.paulplowman.com/stuff/house-address-twins-proximity/
 
@@ -29,7 +29,7 @@ Plowman](https://twitter.com/tallscreen) goes deep into the data for
 UK addresses; what's available, what's not, what you can do with it
 and reveals an interesting quirk in reality.
 
-## Seven Questions about technology you aren't even allowed to ask - [Elena T](/people#elena-tanasoiu)
+## Seven Questions about technology you aren't even allowed to ask - [Elena T](/team#elena-tanasoiu)
 
 https://www.technologyreview.com/s/601997/seven-questions-about-technology-you-arent-even-allowed-to-ask/
 
@@ -38,7 +38,7 @@ discussed at a conference at the MIT Media Lab. Regardless if you oppose the
 ideas entirely or you think it might be worth discussing them, it's an interesting
 foray into subjects that are normally avoided.
 
-## Why we should really stop trying to contact aliens - [Elena T](/people#elena-tanasoiu)
+## Why we should really stop trying to contact aliens - [Elena T](/team#elena-tanasoiu)
 
 http://bigthink.com/robby-berman/why-we-should-really-stop-trying-to-contact-aliens
 
@@ -49,7 +49,7 @@ It also suggestes that we start a new field of "cosmic sociology" as a means of
 understanding interactions with distant civilisations, starting from a series of
 axioms that would be true for any civilisation.
 
-## Track of the Week - [Neil B](/people#neil-van-beinum)
+## Track of the Week - [Neil B](/team#neil-van-beinum)
 
 Graeme and I have been swapping disco and soul tunes. This is an uplifting classic.
 

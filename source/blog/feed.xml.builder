@@ -27,7 +27,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom", "xml:lang" => "en-GB" do
           xml.author do
             xml.name author.name
             xml.email "#{author.email}@unboxed.co"
-            xml.uri "https://unboxedconsulting.com/people/#{author.short_name}"
+            xml.uri "https://unboxedconsulting.com/team/#{author.short_name}"
           end
         end
       else

@@ -3,7 +3,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     overflow: auto;
-    padding: 60px 0 10px 0;
+    padding: 60px 0 40px 0;
     margin: 0 -3px;
   }
 }
@@ -17,5 +17,13 @@
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 50px;
+  }
+}
+
+.product-stories {
+  text-align: center;
+
+  .service__button {
+    margin: 0 20px;
   }
 }

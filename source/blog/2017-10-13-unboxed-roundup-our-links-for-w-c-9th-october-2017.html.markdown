@@ -9,13 +9,13 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Sustainable Food Systems at Green Lab - [Martyn E](/people#martyn-evans)
+## Sustainable Food Systems at Green Lab - [Martyn E](/team#martyn-evans)
 
 http://greenlab.org/
 
 I met up with my old friend Ande Gregson this week and found out about his new venture Green Lab. It's like a strange experimental potting shed with Ande as resident restless eccentric connecting people, plants, fish, insects and high-tech IOT and fabrication devices. If you've ever fancied fooling around with hydroponics you should get involved.
 
-## Hackers Paradise - [Chris H](/people#chris-holmes)
+## Hackers Paradise - [Chris H](/team#chris-holmes)
 
 https://www.hackerparadise.org/
 
@@ -23,7 +23,7 @@ A colleague shared this link in one of our Slack channels this week, organised t
 I've worked remotely in the past and did take a few small trips but I really like the idea of doing so with a group of like-minded people. The prices vary depending on the location but are around
 $700 per week for a short trip and $500 per week for longer trips so not a budget holiday but something I would consider doing next time I'm working remotely.
 
-## Why Ruby app servers break on macOS High Sierra - [Andrew W](/people#andrew-white)
+## Why Ruby app servers break on macOS High Sierra - [Andrew W](/team#andrew-white)
 
 https://blog.phusion.nl/2017/10/13/why-ruby-app-servers-break-on-macos-high-sierra-and-what-can-be-done-about-it/
 

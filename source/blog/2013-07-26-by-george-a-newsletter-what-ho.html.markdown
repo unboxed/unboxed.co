@@ -18,7 +18,7 @@ I wrote about virtualisation recently when I found out how to cut my virtual mac
 
 Please consider up voting it if you think that the article is well written and is useful to you.
 
-## DNS: The Good Parts - [Murray S](/people#murray-steele/)
+## DNS: The Good Parts - [Murray S](/team#murray-steele/)
 
 [http://www.petekeen.net/dns-the-good-parts](http://www.petekeen.net/dns-the-good-parts)
 

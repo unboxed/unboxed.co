@@ -21,7 +21,7 @@ http://www.hughmalkin.com/blogwriter/2015/9/23/why-no-one-has-solved-event-disco
 
 'Events' as a content type is extremely difficult to manage, and Hugh Malkin should know, having built a business in this area with 1m+ users. Now at Time Out, he talks frankly and openly, with data and design details, about the problem with 'events'.
 
-## The hows and whys of Flat Design - [Murray S](/people#murray-steele)
+## The hows and whys of Flat Design - [Murray S](/team#murray-steele)
 
 http://www.nngroup.com/articles/flat-design/
 
@@ -45,7 +45,7 @@ http://firstround.com/review/How-design-thinking-transformed-Airbnb-from-failing
 
 How design thinking and piracy saved AirBnB
 
-## A practical approach to integrating your micro-monoliths - [Henry T](/people#henry-turner)
+## A practical approach to integrating your micro-monoliths - [Henry T](/team#henry-turner)
 
 http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/
 

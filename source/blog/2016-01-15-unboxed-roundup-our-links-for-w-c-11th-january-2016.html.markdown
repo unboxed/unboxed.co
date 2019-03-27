@@ -25,7 +25,7 @@ Software is the result of thousands of decisions. Add this feature; clarify this
 
 Creating software is a journey—let Git be your travel journal.
 
-## Track of the Week - [Jolie L](/people#jolie-lanser)
+## Track of the Week - [Jolie L](/team#jolie-lanser)
 
 "I re-invented my image so many times that I'm in denial that I was originally an overweight Korean woman."
 David Bowie

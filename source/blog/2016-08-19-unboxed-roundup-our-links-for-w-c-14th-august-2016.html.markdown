@@ -9,25 +9,25 @@ tags: # (Delete as appropriate)
 
 ---
 
-## The Search For `<Class:0x00000027b59290>` - [Jack B](/people#jack-bracewell)
+## The Search For `<Class:0x00000027b59290>` - [Jack B](/team#jack-bracewell)
 
 https://chrisarcand.com/the-search-for-class0x0000001ab51700/
 
 A short, but interesting, Ruby Whodunit.
 
-## Being targeted because of your github profile - [Murray S](/people#murray-steele)
+## Being targeted because of your github profile - [Murray S](/team#murray-steele)
 
 http://www.kennethreitz.org/essays/on-cybersecurity-and-being-targeted
 
 [Kenneth Reitz](http://www.kennethreitz.org/) describes a fairly sophisticated phishing attempt he was targeted by because of his access to open source projects on github.  Another timely reminder to enable 2FA on your accounts, and be wary about logging in to links you get via email or sms.
 
-## A Container Is A Function Call - [Charlie E](/people#charlie-egan)
+## A Container Is A Function Call - [Charlie E](/team#charlie-egan)
 
 https://glyph.twistedmatrix.com/2016/08/defcontainer.html
 
 This discusses our definition for containers and how Dockerfiles might be improved with some additional, more-descriptive attributes.
 
-## Track of the Week - [Murray S](/people#murray-steele)
+## Track of the Week - [Murray S](/team#murray-steele)
 
 Fuzzy guitars, shouty choruses, horror-film videos.  What's not to love?  Really excited for their new album in November.
 

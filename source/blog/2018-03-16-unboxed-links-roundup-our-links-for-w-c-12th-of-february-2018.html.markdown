@@ -11,7 +11,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## A short history of wasps - [Murray S](/people#murray-steele)
+## A short history of wasps - [Murray S](/team#murray-steele)
 
 https://css-tricks.com/short-history-wasp-web-standards-matter/
 
@@ -19,32 +19,32 @@ No, not the grim insects that plague our summer picnics, [The Web Standards Proj
 This article explores the history of this project, why it mattered then, and why it 
 still matters now even though it has since closed down.
 
-## EU wants to require platforms to filter uploaded content (including code) - [Andrew W](/people#andrew-white)
+## EU wants to require platforms to filter uploaded content (including code) - [Andrew W](/team#andrew-white)
 
 https://blog.github.com/2018-03-14-eu-proposal-upload-filters-code/
 
 Trouble on the horizon for open-source software?
 
-## The Surprising Solution to Ocean Plastic - [Ben W](/people#ben-wong)
+## The Surprising Solution to Ocean Plastic - [Ben W](/team#ben-wong)
 
 https://www.ted.com/talks/david_katz_the_surprising_solution_to_ocean_plastic
 
 A cool take on recycling, alternative currencies and saving the world
 
-## Playing Video Games With My Son Isn’t What I Thought It Would Be - [Elena T](/people#elena-tanasoiu)
+## Playing Video Games With My Son Isn’t What I Thought It Would Be - [Elena T](/team#elena-tanasoiu)
 
 https://www.thecut.com/2018/03/playing-minecraft-with-my-son.html
 
 How a dad learns why the floor is lava, and other anecdotes. 
 
 
-## Staying awake: the surprisingly effective way to treat depression - [Elena T](/people#elena-tanasoiu)
+## Staying awake: the surprisingly effective way to treat depression - [Elena T](/team#elena-tanasoiu)
 
 https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/
 
 Interesting info about the antidepressant effect of sleep deprivation.
 
-## Track of the Week - [Steve L](/people#steve-lennon)
+## Track of the Week - [Steve L](/team#steve-lennon)
 
 To celebrate 40 years since the original Hitchhiker's Guide to the Galaxy radio broadcast - here’s the song that the TV show ended with.
 

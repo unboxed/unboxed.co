@@ -5,7 +5,7 @@ title: >-
   Unboxed and Guy’s & St. Thomas’ NHS Foundation Trust presenting at Service
   Design in Health 2017
 ---
-[Martyn Evans](https://unboxed.co/people/#martyn-evans), our Head of Product, and Toby Garrood, Clinical Lead for Rheumatology at [Guy's and St Thomas' NHS Foundation Trust](http://www.guysandstthomas.nhs.uk/Home.aspx), are confirmed to be presenting at this year’s [Service Design in Health](http://sdinhealth.net/2017/) conference.<br/>
+[Martyn Evans](https://unboxed.co/team/#martyn-evans), our Head of Product, and Toby Garrood, Clinical Lead for Rheumatology at [Guy's and St Thomas' NHS Foundation Trust](http://www.guysandstthomas.nhs.uk/Home.aspx), are confirmed to be presenting at this year’s [Service Design in Health](http://sdinhealth.net/2017/) conference.<br/>
 
 ![Service Design in Health](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/92b43f002ad1ff00f814dbf3395cd75f.png)
 

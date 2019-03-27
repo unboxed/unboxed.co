@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Stackoverflow: Sunsetting Documentation - [Charlie E](/people#charlie-egan)
+## Stackoverflow: Sunsetting Documentation - [Charlie E](/team#charlie-egan)
 
 https://meta.stackoverflow.com/questions/354217/sunsetting-documentation
 
@@ -21,7 +21,7 @@ it's important for documentation to remain in control of project teams.
 This meta post is a write up about why they chose to do this and what's
 going to happen to the site now.
 
-## Hemingway Editor - [Charlie E](/people#charlie-egan)
+## Hemingway Editor - [Charlie E](/team#charlie-egan)
 
 http://hemingwayapp.com
 
@@ -32,7 +32,7 @@ into the app it checks for surplus adverbs and sentences with poor
 readability scores. A list of all the things is does are explained on
 it's [help page](http://hemingwayapp.com/help.html).
 
-## direnv - [Charlie E](/people#charlie-egan)
+## direnv - [Charlie E](/team#charlie-egan)
 
 https://direnv.net
 
@@ -49,7 +49,7 @@ mentioned. Turns out that what I'd been hacking together is an
 them](https://github.com/direnv/direnv/blob/master/README.md#similar-projects).
 Anyway, I've been using it for all of one day and it's been pretty handy.
 
-## Elon Musk's future, a TED talk - [Tom S](/people#tom-sabin)
+## Elon Musk's future, a TED talk - [Tom S](/team#tom-sabin)
 
 https://www.ted.com/talks/elon_musk_the_future_we_re_building_and_boring#t-1168521
 
@@ -61,14 +61,14 @@ excited for his future. In this 40 minute talk, he shares his vision and
 why he's pushing all these industries forward. Spoilers; it's because
 he's not boring.
 
-## Researchers build a fax machine for viruses - [Elena T](/people#elena-tanasoiu)
+## Researchers build a fax machine for viruses - [Elena T](/team#elena-tanasoiu)
 
 http://www.popularmechanics.com/science/news/a27608/researchers-build-machine-to-fax-viruses
 
 If you're an evil genius who's been dreaming about designing and building
 your very own virus strain, this is your chance!
 
-## Track of the Week - [Vinul W](/people#vinul-wimalaweera)
+## Track of the Week - [Vinul W](/team#vinul-wimalaweera)
 
 This track is dedicated to Chance the Rapper's grandmother and her personality. It's a truly feel good song, perfect for a Sunday morning.
 

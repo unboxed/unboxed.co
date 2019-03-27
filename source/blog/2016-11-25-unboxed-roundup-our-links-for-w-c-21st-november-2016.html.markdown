@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Rspec Christmas Tree  - [Elena T](/people#elena-tanasoiu)
+## Rspec Christmas Tree  - [Elena T](/team#elena-tanasoiu)
 
 https://github.com/elabs/christmas_tree_formatter
 
@@ -19,7 +19,7 @@ this gem which formats your rspec output in the shape of a christmas tree.
 There's a pull request for adding blinking snow, which I'm hoping will be
 merged!
 
-## IronFunctions - [Charlie Egan](/people#charlie-egan)
+## IronFunctions - [Charlie Egan](/team#charlie-egan)
 
 https://github.com/iron-io/functions
 
@@ -29,7 +29,7 @@ ought to be possible to run super cheaply on [hyper.sh](https://console.hyper.sh
 (that's my referral link - gets us both some free credits). It runs functions
 in containers so how you write your functions is pretty flexible.
 
-## Fun things in Elixir - [Elena T](/people#elena-tanasoiu)
+## Fun things in Elixir - [Elena T](/team#elena-tanasoiu)
 
 https://dev.to/ryanflach/fun-things-in-elixir
 
@@ -38,7 +38,7 @@ I found these were a nice exploration of some things that make Elixir different.
 I especially liked that you can do method chaining using the `|>` operator.
 Function definition with clauses was also interesting.
 
-## Writing tests - [Murray S](/people#murray-steele)
+## Writing tests - [Murray S](/team#murray-steele)
 
 http://www.marclittlemore.com/how-to-write-high-quality-unit-tests/
 
@@ -49,7 +49,7 @@ most confidence about making future changes.  This is obviously my own failing,
 as this article by Marc Littlemore clearly describes what to think about when
 writing good unit tests and provides useful steps to follow.
 
-## 12 Fractured Apps (2015) - [Charlie](/people#charlie-egan)
+## 12 Fractured Apps (2015) - [Charlie](/team#charlie-egan)
 
 https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c
 
@@ -59,7 +59,7 @@ with the environment are more generally applicable. If you're interested in
 containers, Kelsey Hightower has a lot of interesting project and tutorials
 on his [GitHub](https://github.com/kelseyhightower?tab=repositories) Profile.
 
-## Track of the Week - [Tom Gladhill](/people#tom-gladhill)
+## Track of the Week - [Tom Gladhill](/team#tom-gladhill)
 
 20 years young this week, it's the ever fresh DJ Shadow's Organ Donor.
 

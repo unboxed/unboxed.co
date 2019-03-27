@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## LessPass: Next-Gen Open Source Password Manager - [Charlie E](/people#charlie-egan)
+## LessPass: Next-Gen Open Source Password Manager - [Charlie E](/team#charlie-egan)
 
 https://lesspass.com
 
@@ -20,7 +20,7 @@ also an optional, self hosted encrypted password store for passwords and a cool
 emoji-hash indicator to make sure you're entering your master password
 correctly ([see here](https://d262ilb51hltx0.cloudfront.net/max/800/1*wgrq2WIxhyBSfL1Tbr5Qbw.gif)).
 
-## How H.264 works - [Murray S](/people#murray-steele)
+## How H.264 works - [Murray S](/team#murray-steele)
 
 https://sidbala.com/h-264-is-magic/
 
@@ -31,14 +31,14 @@ of the image.  This is pretty amazing.  The rest of the article goes into the
 tricks that h.264 plays to achieve that compression. It's well worth your time
 to read this even if you've never really thought about video encodings.
 
-## My fight against CDN libraries - [Charlie E](/people#charlie-egan)
+## My fight against CDN libraries - [Charlie E](/team#charlie-egan)
 
 http://peppercarrot.com/article390/my-fight-against-cdn-libraries
 
 A short write up of some alternatives to _consider_ before reaching for that
 CDN library & it's associated privacy concerns. [Discussion](https://news.ycombinator.com/item?id=13075199)
 
-## Track of the Week - [Boris D](/people#boris-divjak)
+## Track of the Week - [Boris D](/team#boris-divjak)
 
 It’s Say a Little Prayer by Aretha Franklin. It’s a perfect morning song and I like to listen to it during breakfast. Gets my spirits up!
 

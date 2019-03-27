@@ -9,7 +9,7 @@ tags:
   - Rails
 ---
 
-## Understanding strong parameters - [Murray](/people#murray-steele)
+## Understanding strong parameters - [Murray](/team#murray-steele)
 
 http://patshaughnessy.net/2014/6/16/a-rule-of-thumb-for-strong-parameters
 
@@ -21,7 +21,7 @@ Rails 4 has been around for a while now, so we should all be pretty familiar wit
 
 The blog also goes into some of the detail of how the parameter permission code works, so there's something for everyone.  I must admit I found it surprising that it's not the params object itself that complains, but that [``ActiveModel`` instances that will raise the error](https://github.com/rails/rails/blob/master/activemodel/lib/active_model/forbidden_attributes_protection.rb#L19-24).
 
-## ``git``, open-source projects, & pull requests - [Murray](http://www.unboxedconsulting.com/people#murray-steele)
+## ``git``, open-source projects, & pull requests - [Murray](http://www.unboxedconsulting.com/team#murray-steele)
 
 http://blog.spreedly.com/2014/06/24/merge-pull-request-considered-harmful/
 
@@ -33,7 +33,7 @@ I've seen quite a few open source maintainers complaining about the pull-request
 
 Something for everyone!
 
-## jQuery plugin: input masks - [Tom S](/people#tom-sabin)
+## jQuery plugin: input masks - [Tom S](/team#tom-sabin)
 
 [jQuery Mask Plugin](http://igorescobar.github.io/jQuery-Mask-Plugin/): a nice plugin for input fields, it can be used for masking and binding events for completion/change/key press. I have used this in two circumstances so far, one for a postcode input, and the other for day-month-year text fields.
 
@@ -67,7 +67,7 @@ In order to do this using the jQuery plugin, the following snippet seems to work
 
 My only comment about this plugin, however, is when you go to select all characters, e.g. using the keyboard shortcut. **Sometimes** it breaks out of the selection to move the cursor to after the first character. Weird.
 
-## The Simpsons in CSS - [Tom S](/people#tom-sabin)
+## The Simpsons in CSS - [Tom S](/team#tom-sabin)
 
 Some Simpsons characters made purely from CSS: http://pattle.github.io/simpsons-in-css/
 
@@ -87,7 +87,7 @@ Corey Haines' ``active_record_spec_helper`` is
 helpful in speeding up your TDD cycle for Active Record objects.  We've
 been using it when developing on Rails 2 and it is a joy.
 
-## A selection of links inspired by [FEL](http://www.frontendlondon.co.uk/) - [Tom S](/people#tom-sabin)
+## A selection of links inspired by [FEL](http://www.frontendlondon.co.uk/) - [Tom S](/team#tom-sabin)
 
 I went to the [June Front End London meetup](http://lanyrd.com/2014/front-end-london-june/) last night, and came away full of new ideas and things to look into.  I've collected some of them below:
 

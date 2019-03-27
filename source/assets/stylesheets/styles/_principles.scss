@@ -1,0 +1,26 @@
+.page-content--unboxed-principles {
+  background-color: $white;
+
+  .text-tile--full-width-narrow {
+    padding-top: 0;
+  }
+
+  .page-header__title {
+    font-size: 1.5em;
+  }
+
+  .principles {
+    .principles__grid {
+      padding-left: 40px;
+
+      h3 {
+        color: $purple;
+        margin-bottom: 10px;
+      }
+
+      .principles__grid__principle {
+        margin-bottom: 30px;
+      }
+    }
+  }
+}

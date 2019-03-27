@@ -29,7 +29,7 @@ Using good design to communicate vs relying on noisy, forceful interface clutter
 
 The rolling ball bot, BB8 is a physical effect in Star Wars VII, not CGI:
 
-## Bath Ruby Conf videos - [Murray S](/people#murray-steele)
+## Bath Ruby Conf videos - [Murray S](/team#murray-steele)
 
 http://confreaks.tv/events/bathruby2015
 

@@ -9,13 +9,13 @@ tags: # (Delete as appropiate)
 
 ---
 
-## CSS is more than classes - [Murray S](/people#murray-steele)
+## CSS is more than classes - [Murray S](/team#murray-steele)
 
 http://alistapart.com/article/meaningful-css-style-like-you-mean-it
 
 I'm not entirely sure what I think about this article.  I do like the fundamental idea: don't put loads of extra classes on your elements just for styling make use of the cascade and target elements by using semantic elements and roles.  What I'm not sure about is that the article seems to take a hard line saying you should never use classes, and I'm not sure how such an approach would actually work in the face of a real world website of any complexity.  I think the real complaint might be aimed at CSS frameworks like bootstrap that require many classes (`<a class="btn btn-primary btn-sm">` for example) to achieve their results.  We don't have to throw away classes entirely to avoid that though; we can use CSS-preprocessors to abstract bootstrap away from our HTML as explained [in this coderwall tip](https://coderwall.com/p/wixovg/bootstrap-without-all-the-debt) by [Dan Tao](https://twitter.com/dan_tao).
 
-## LambCI - [Jack B](/people#jack-bracewell)
+## LambCI - [Jack B](/team#jack-bracewell)
 ​
 https://github.com/lambci/lambci
 ​

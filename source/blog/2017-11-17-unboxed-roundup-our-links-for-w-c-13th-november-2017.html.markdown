@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Who is on a team matters less than how the team members interact, structure their work, and view their contributions - [Carrie B](/people#carrie-bedingfield)
+## Who is on a team matters less than how the team members interact, structure their work, and view their contributions - [Carrie B](/team#carrie-bedingfield)
 
 https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
 
@@ -21,7 +21,7 @@ risk, being about to count on each other, clear goals, roles and execution,
 working on something personally important and belief that the work matters
 to others.
 
-## Data viz extravaganza - [Lawrence R](/people#lawrence-richards)
+## Data viz extravaganza - [Lawrence R](/team#lawrence-richards)
 
 http://datavizproject.com/
 
@@ -31,14 +31,14 @@ place –probably the most comprehensive catalogue I've seen. You can filter by
 graph family, function, shape and input so it's easy to find a a similar style
 to fit the type of data you're working with.
 
-## The Morality of Manipulation  - [Martyn E](/people#martyn-evans)
+## The Morality of Manipulation  - [Martyn E](/team#martyn-evans)
 
 https://medium.com/the-mission/the-morality-of-manipulation-c3115fb2bb3d
 
 This is a nice little tool to sense-check your motivation when designing a
 digital tool - A Manipulation Matrix from Nir Eyal.
 
-## Time better spent - [Lawrence R](/people#lawrence-richards)
+## Time better spent - [Lawrence R](/team#lawrence-richards)
 
 http://timewellspent.io/
 
@@ -51,7 +51,7 @@ page, that product teams can use to start conversations about the likely end
 result of the small decisions they make, often unconsciously, that affect how
 someone interacts a feature.
 
-## Yak shaving - [Murray S](/people#murray-steele)
+## Yak shaving - [Murray S](/team#murray-steele)
 
 http://yakshav.es/the-patron-saint-of-yakshaves/
 
@@ -59,7 +59,7 @@ This is the transcript of a talk about Donald Knuth's typesetting language
 [TeX](https://en.wikipedia.org/wiki/TeX).  A language that may just be the
 biggest [yak-shave](https://en.wiktionary.org/wiki/yak_shaving) of all time.
 
-## Track of the Week - [Jolie L](/people#jolie-lanser)
+## Track of the Week - [Jolie L](/team#jolie-lanser)
 
 My week has been about fire, our visiting friend from Germany got a phone call
  her house burned down and a few days later I almost did the same with ours..

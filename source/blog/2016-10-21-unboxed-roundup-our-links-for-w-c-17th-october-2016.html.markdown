@@ -9,25 +9,25 @@ tags: # (Delete as appropiate)
 
 ---
 
-## New Macs? - [Alan T](/people#alan-thomas)
+## New Macs? - [Alan T](/team#alan-thomas)
 
 https://www.cnet.com/uk/news/apples-new-macs-are-almost-here-invites-out-for-october-27/
 
 Rumours are that new MacBook Pro's will be launched next week
 
-## Adding a phone number to your Google account can make it LESS secure - [Chris H](/people#chris-holmes)
+## Adding a phone number to your Google account can make it LESS secure - [Chris H](/team#chris-holmes)
 
 https://tech.vijayp.ca/adding-a-phone-number-to-your-google-account-can-make-it-less-secure-f1cc7280ff6a
 
 A reminder to enable two-factor auth, especially important when access could used to infiltrate a number of accounts.
 
-## Playing Overwatch on Azure's new monster GPU instances - [Charlie E](/people#charlie-egan)
+## Playing Overwatch on Azure's new monster GPU instances - [Charlie E](/team#charlie-egan)
 
 http://lg.io/2016/10/12/cloudy-gamer-playing-overwatch-on-azures-new-monster-gpu-instances.html
 
 After the Google Cloud event yesterday this cool use of _Azure_ should balance things out. Azure have a preview for GPU compute resources. With a good enough internet connection, you can use these to lease an powerful gaming setup and build your own onlive.com.
 
-## Your Social Media Fingerprint - [Charlie E](/people#charlie-egan)
+## Your Social Media Fingerprint - [Charlie E](/team#charlie-egan)
 
 https://robinlinus.github.io/socialmedia-leak/
 

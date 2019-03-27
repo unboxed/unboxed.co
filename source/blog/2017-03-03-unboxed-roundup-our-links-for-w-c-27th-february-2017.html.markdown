@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Why Typography Matters — Especially At The Oscars - [Andrew W](/people#andrew-white)
+## Why Typography Matters — Especially At The Oscars - [Andrew W](/team#andrew-white)
 
 https://medium.freecodecamp.com/why-typography-matters-especially-at-the-oscars-f7b00e202f22
 
@@ -20,7 +20,7 @@ you don't need is confusion. Benjamin Bannister shows us how problems could've
 been spotted as soon as Warren Beatty pulled the card from the envelope with
 a little application of typography.
 
-## What makes WebAssembly fast? - [Charlie E](/people#charlie-egan)
+## What makes WebAssembly fast? - [Charlie E](/team#charlie-egan)
 
 https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast
 
@@ -31,7 +31,7 @@ It's part of a series but I hadn't read the others and found it to be quite
 accessible. Also worth stopping by [caniuse.com](http://caniuse.com/#search=WebAssembly)
 for a reality check!
 
-## How to automate restocking your kitchen with AI and a Raspberry Pi camera - [Elena T](/people#elena-tanasoiu)
+## How to automate restocking your kitchen with AI and a Raspberry Pi camera - [Elena T](/team#elena-tanasoiu)
 
 https://medium.freecodecamp.com/how-i-built-a-fully-automated-system-that-restocks-my-kitchens-coffee-from-amazon-87072b65efd0#.rr7o6ao33
 
@@ -43,7 +43,7 @@ This is one IoT project that I'd like to try out, although I'd be scared of
 accidentally moving my food from its expected position and winding up with
 too much of it.
 
-## webshit weekly - [Charlie E](/people#charlie-egan)
+## webshit weekly - [Charlie E](/team#charlie-egan)
 
 http://n-gate.com/hackernews/
 
@@ -51,7 +51,7 @@ Weekly satirical summaries of the distracted Hacker News hive mind - almost as
 good as this [amazing parody thread](http://bradconte.com/files/misc/HackerNewsParodyThread/)
 from a few years ago...
 
-## Track of the Week - [Richard S](/people#richard-stobart)
+## Track of the Week - [Richard S](/team#richard-stobart)
 
 Sometimes a song sticks in your head and sets you off in a good mood. This is one of those songs for me.
 

@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## A different way to require ruby code - [Murray S](/people#murray-steele)
+## A different way to require ruby code - [Murray S](/team#murray-steele)
 
 https://github.com/ciconia/modulation/blob/master/README.md
 
@@ -26,25 +26,25 @@ knows if something like this would ever become part of ruby itself, but the
 ability to require only small parts of a library without worrying about 
 namespace clashes sounds really good to me.
 
-## Advent of code 2018 - [Elena T](/people#elena-tanasoiu)
+## Advent of code 2018 - [Elena T](/team#elena-tanasoiu)
 
 https://adventofcode.com/2018
 
 Advent of code is live - one coding challenge every day until Christmas, if you're into that sort of thing. 
 
-## Four days trapped at sea with crypto's nouveau riche - [Elena T](/people#elena-tanasoiu)
+## Four days trapped at sea with crypto's nouveau riche - [Elena T](/team#elena-tanasoiu)
 
 https://breakermag.com/trapped-at-sea-with-cryptos-nouveau-riche/
 
 How one person sets sail with the crypto-rich, a few hours after a bitcoin crash. 
 
-## 52 things I learned in 2018 - [Elena T](/people#elena-tanasoiu)
+## 52 things I learned in 2018 - [Elena T](/team#elena-tanasoiu)
 
 https://medium.com/fluxx-studio-notes/52-things-i-learned-in-2018-b07fc110d8e1
 
 Surprisingly interesting read.
 
-## Track of the Week - [Lawrence R](/people#lawrence-richards)
+## Track of the Week - [Lawrence R](/team#lawrence-richards)
 
 I've been binge watching Toast of London and hence the theme tune is in my head. It's pretty good and the video's a bit of a tear jerker.
 

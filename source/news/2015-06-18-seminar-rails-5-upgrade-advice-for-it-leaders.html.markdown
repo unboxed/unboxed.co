@@ -8,7 +8,7 @@ published: true
 
 <p>Unboxed is hosting this unique event to allow IT leaders responsible for deciding and leading on upgrading a significant, existing Rails app to learn from the only <a href="http://rubyonrails.org/core/">Rails Core Team Member</a> in the UK.<br/></p>
 
-<p><a href="../people#andrew-white">Andrew White</a> will share the key upgrade issues for enterprise on:<br/>
+<p><a href="../team#andrew-white">Andrew White</a> will share the key upgrade issues for enterprise on:<br/>
 <b>Time:</b>  09:30 - 12:30<br/>
 <b>Date:</b> Thursday 13th August<br/>
 <b>Location:</b> 17 Blossom Street, London, E1 6PL<br/></p>

@@ -22,7 +22,7 @@ A slightly old (a whole year), but an interesting experiment in which pairs of s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9sObr3dwdeE" frameborder="0" allowfullscreen></iframe>
 
-## Flexbox will solve all our problems - [Tom S](/people#tom-sabin)
+## Flexbox will solve all our problems - [Tom S](/team#tom-sabin)
 
 http://philipwalton.github.io/solved-by-flexbox/
 

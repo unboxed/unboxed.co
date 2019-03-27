@@ -3,7 +3,7 @@ title: "StrongerAgile Webinar Series 2015"
 date: "2014-12-16T16:15:00+00:00"
 ---
 
-<p>Help yourself to practical advice and tools from some of the most experienced Agile practitioners on the planet: Unboxed’s <a href="/people#richard-stobart">Richard Stobart</a>, <a href="/people#martyn-evans">Martyn Evans</a>, <a href="/people#carlo-kruger">Carlo Kruger</a> and <a href="/people#steve-lennon">Steve Lennon</a>. Join us for our <i>#StrongerAgile</i> webinar series in 2015:<br/></p>
+<p>Help yourself to practical advice and tools from some of the most experienced Agile practitioners on the planet: Unboxed’s <a href="/team#richard-stobart">Richard Stobart</a>, <a href="/team#martyn-evans">Martyn Evans</a>, <a href="/team#carlo-kruger">Carlo Kruger</a> and <a href="/team#steve-lennon">Steve Lennon</a>. Join us for our <i>#StrongerAgile</i> webinar series in 2015:<br/></p>
 
 <h1>Why pair programming? And how to do it well...</h1>
 <h3>Wednesday 4th February, 16:00</h3>

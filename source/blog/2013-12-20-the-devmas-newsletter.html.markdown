@@ -31,7 +31,7 @@ This article will give you an overview of what Docker is, how it works and a lit
 So there is this new tool called Docker, and you may have heard great stories about it. But as a web developer using Ruby, you may wonder what this tool changes for you. Skeptical? Please follow [this way](http://blog.gemnasium.com/post/65599561888/rails-meets-docker)!
 
 
-### One step closer to an IE6 free universe... ah Happy Christmas - [Alan T](/people#alan-thomas)
+### One step closer to an IE6 free universe... ah Happy Christmas - [Alan T](/team#alan-thomas)
 
 [http://www.modern.ie/ie6countdown](http://www.modern.ie/ie6countdown)
 

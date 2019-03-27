@@ -7,7 +7,7 @@ date: "2012-06-21T13:02:00+01:00"
 
 <p>At the end of May, we took Agile &lsquo;lego-style&rsquo; to <a href="http://http://digitalshoreditch.com/">Digital Shoreditch</a> – the festival celebrating the outstanding creative, technical and entrepreneurial talent of East London and Tech City. </p>
 
-<p><a href="/people#richard-stobart">Richard Stobart</a> and Tom Dickinson ran a huge live workshop session in the Big Top designed using lego to simplify and explain how agile works in practice. Teams of visitors tried out Agile methodology for themselves, building towns and amenities and experiencing the full Agile cycle in a single hour. </p>
+<p><a href="/team#richard-stobart">Richard Stobart</a> and Tom Dickinson ran a huge live workshop session in the Big Top designed using lego to simplify and explain how agile works in practice. Teams of visitors tried out Agile methodology for themselves, building towns and amenities and experiencing the full Agile cycle in a single hour. </p>
 
 <p>One visitor rated the workshop as &ldquo;…the most interesting and exciting table top session I’ve seen in my career. In five minutes we had already built a town – using any other methodology, we’d still be talking about it…&rdquo;</p>
 

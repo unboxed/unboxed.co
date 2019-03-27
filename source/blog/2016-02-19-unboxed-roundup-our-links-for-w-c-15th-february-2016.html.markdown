@@ -9,19 +9,19 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Deadlock empire! - [Murray S](/people#murray-steele)
+## Deadlock empire! - [Murray S](/team#murray-steele)
 
 https://deadlockempire.github.io/
 
 An in-browser game that teaches you about the pitfalls of thread programming.  You play the part of a scheduling wizard defending a realm against attack by the parralel wizard.  Your only form of defense is to run the enemey code in such a sequence as to cause deadlock or thread exceptions.  It's fun, fairly short, and a good exploration of how hard it is to write correct thread-safe code even with all the mutexes, queues, semaphores, and condition variables at your disposal.
 
-## Continues delivery standards and what's no longer good enough - [Paula S](/people#paula-stepinska)
+## Continues delivery standards and what's no longer good enough - [Paula S](/team#paula-stepinska)
 
 https://gojko.net/2016/02/01/potentially-shippable/
 
 Thoughtful article about changes in software delivery and how 'potentially shippable' should be a minimum to reach and not the aim we look for at the end of each iteration.
 
-## `puts` debugging - [Murray S](/people#murray-steele)
+## `puts` debugging - [Murray S](/team#murray-steele)
 
 http://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html
 

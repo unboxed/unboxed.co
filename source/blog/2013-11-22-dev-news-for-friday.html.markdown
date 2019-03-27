@@ -11,7 +11,7 @@ tags:
   - Lean
 ---
 
-## A controversial opinion - [Murray](/people#murray-steele)
+## A controversial opinion - [Murray](/team#murray-steele)
 
 Flying in face of the dogma spouted by the so-called "XP" and "Agile” throught-leaders, [Pat Maddox](http://patmaddox.com/) bravely provides a convincing blog post about [why *not* to pair](http://patmaddox.com/2013/11/21/why-not-to-pair/).
 

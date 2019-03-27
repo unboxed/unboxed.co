@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Software Disenchantment - [Elena T](/people#elena-tanasoiu)
+## Software Disenchantment - [Elena T](/team#elena-tanasoiu)
 
 http://tonsky.me/blog/disenchantment/
 
@@ -31,7 +31,7 @@ some practices that focus on having a healthy ecosystem, some of which
 involve throwing stuff away so we can give ourselves space for real
 progress.
 
-## How to protect your back - [Elena T](/people#elena-tanasoiu)
+## How to protect your back - [Elena T](/team#elena-tanasoiu)
 
 https://www.npr.org/sections/health-shots/2018/09/24/649169060/cant-get-comfortable-in-your-chair-heres-what-you-can-do
 
@@ -44,7 +44,7 @@ from time to time, we can also make sure that our posture protects our back.
 This articles recommends some baby steps we can take to become more aware of how
 we're sitting and improve our posture.
 
-## Naming doesn't have to be hard - [Murray S](/people#murray-steele)
+## Naming doesn't have to be hard - [Murray S](/team#murray-steele)
 
 https://www.sitepoint.com/whats-in-a-name-anti-patterns-to-a-hard-problem/
 

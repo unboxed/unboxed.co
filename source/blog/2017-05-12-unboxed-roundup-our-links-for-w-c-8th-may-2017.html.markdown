@@ -9,13 +9,13 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Isaac Asimov Asks, "How Do People Get New Ideas?" - [Henry T](/people#henry-turner)
+## Isaac Asimov Asks, "How Do People Get New Ideas?" - [Henry T](/team#henry-turner)
 
 https://www.technologyreview.com/s/531911/isaac-asimov-asks-how-do-people-get-new-ideas/
 
 A 58 year old letter from Isaac Asimov on how to be creative in a group. Even if you hate the content, the MIT Technology Review website is quite nice.
 
-## Chasing "best practices" for better or worse - [Murray S](/people#murray-steele)
+## Chasing "best practices" for better or worse - [Murray S](/team#murray-steele)
 
 http://labs.ig.com/code-coverage-100-percent-tragedy
 
@@ -35,7 +35,7 @@ way to express these internalised understandings to other developers.
 Particularly as I think it'll help me work out if what I'm doing is actually 
 good or not!
 
-## Kubernetes clusters for the hobbyist - [Elena T](/people#elena-tanasoiu)
+## Kubernetes clusters for the hobbyist - [Elena T](/team#elena-tanasoiu)
 
 https://github.com/hobby-kube/guide
 
@@ -47,13 +47,13 @@ http://www.telegraph.co.uk/technology/2017/05/11/bbc-iplayer-now-has-password-co
 
 So today I wanted to check out what has been happening in Line of Duty and I found that I would need to register to watch stuff on iPlayer. It also seems that you can purchase the old seasons in the BBC Store, although it is more expensive than Amazon Video...
 
-## Is the gig economy working? - [Elena T](/people#elena-tanasoiu)
+## Is the gig economy working? - [Elena T](/team#elena-tanasoiu)
 
 http://www.newyorker.com/magazine/2017/05/15/is-the-gig-economy-working
 
 Housework - done, homework - done, sending your dog on vacation - done. A "constellation of data points" now affects how well someone is paid for doing a task and adds to the insecurity of not knowing when your next paycheck is and how much it's going to be. The social effects of the gig economy are still uncertain, but this is a nice exploration of what it feels like to be dependent on one of our new fangled software-driven work roles. 
 
-## Track of the Week - [Sarah B](/people#sarah-beck)
+## Track of the Week - [Sarah B](/team#sarah-beck)
 
 This is on Spotify’s Throwback Thursday playlist, some classic MJ
 

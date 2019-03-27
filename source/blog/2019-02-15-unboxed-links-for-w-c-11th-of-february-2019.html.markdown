@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## The views of the incoming generation of female tech founders - [Celia C](/people#celia-collins)
+## The views of the incoming generation of female tech founders - [Celia C](/team#celia-collins)
 
 https://www.theguardian.com/careers/2019/feb/05/here-come-the-girls-teenage-tech-founders-on-the-future-they-want
 
@@ -17,13 +17,13 @@ Conversations with some of the new female tech founders - what they are doing an
 
 My favourite quote from Trisha Prabhu: "You do look at Silicon Valley and think: 'Why would I want to work there?' There aren't many people who look like me, as a woman of colour, there are harassment allegations, and often there isn't an environment that's respectful of women's needs. Many companies don't have policies like maternity leave, for example, or have women in leadership."
 
-## Descript: Edit video by editing text - [Boris D](/people#boris-divjak)
+## Descript: Edit video by editing text - [Boris D](/team#boris-divjak)
 
 https://www.descript.com/
 
 I've been looking into tools that would help me transcribe / edit user research interviews and came across this. Looks like an amazing tool, so I'll give it a try when I can ... Even if you're not into user research, it looks like a great way to edit podcasts or similar recorded materials. And it's just beautifully designed!
 
-## Track of the Week - [Ben B](/people#ben-baumann)
+## Track of the Week - [Ben B](/team#ben-baumann)
 
 The weather seems to be picking up this week!
 

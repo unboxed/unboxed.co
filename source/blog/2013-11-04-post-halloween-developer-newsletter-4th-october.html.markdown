@@ -47,6 +47,6 @@ I find the ideas around segmented iterative development being an anti-pattern qu
 Yes, it's yet another SVG library, no it doesn't fallback to IE8, but it does focus more on the animation/interaction side of things, and it is simple enough to get up and running in a few minutes. Give it a go.
 
 
-## The Parable of Mustache.js - [Murray](/people#murray-steele)
+## The Parable of Mustache.js - [Murray](/team#murray-steele)
 
 [Jan Lenhardt](http://jan.prima.de/) has written [a great article](http://writing.jan.io/2013/11/01/the-parable-of-mustache-js.html) about the history of [mustache.js](https://github.com/janl/mustache.js).  On the face of it he's written an interesting look back on why he wrote mustache.js, and how to cope with others advancing your work via forks.  What I mainly took away from it however is his point that often there is no one true implementation of an idea.  Extracting specs from the original allows multiple implementations of an it to exist to cover different purposes.  For example: Mustache itself has been implemented in [multiple languages](http://mustache.github.io/), and within JS it's been [implemented](https://github.com/janl/mustache.js) [multiple](http://handlebarsjs.com/) [times](http://twitter.github.io/hogan.js/); all of these serve slightly different purposes, and that's ok!

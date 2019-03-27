@@ -23,7 +23,7 @@ With the Digital Customer Programme now entering into the Alpha Phase, it’s a 
 # Digital Customer Programme - Sprint 11
 <i>Show & Tell duration: 20 minutes</i>
 
-Led by [Boris](https://unboxed.co/people/#boris-divjak), Ikramul and Soraya of the Digital Team, progress made since Show & Tell #10 includes:<br/>
+Led by [Boris](https://unboxed.co/team/#boris-divjak), Ikramul and Soraya of the Digital Team, progress made since Show & Tell #10 includes:<br/>
 
 - Completing the initial Discovery Phase of the Digital Customer Programme
 - Extending the Discovery of the Housing Account service

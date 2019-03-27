@@ -63,7 +63,7 @@ The next steps include:<br/>
 
 <br/>
 # Discovery #3: Parking Appeals
-Parking Appeals is the service in which residents can pay or challenge their Penalty Charge Notice (PCN). Progress to date, shared by [Lawrence](https://unboxed.co/people/#lawrence-richards), includes:<br/>
+Parking Appeals is the service in which residents can pay or challenge their Penalty Charge Notice (PCN). Progress to date, shared by [Lawrence](https://unboxed.co/team/#lawrence-richards), includes:<br/>
 
 - Understanding how the current end-to-end PCN system works, from entry to exit
 - Further interviewing, beginning to generate insights from current users of this service and those who have previous experience in the PCN process

@@ -10,13 +10,13 @@ tags: # (Delete as appropiate)
 
 ---
 
-## Writing CSS as a software engineer  - [Tom S](/people#tom-sabin)
+## Writing CSS as a software engineer  - [Tom S](/team#tom-sabin)
 
 https://vimeo.com/album/3953264/video/166790749
 
 Harry Roberts (http://csswizardry.com/) recently spoke at Render conference this year and it was by far my favourite talk. His talk was about bringing software design patterns to CSS development, such as DRY, the single responsibility principle, the separation of concerns, immutability and the open/closed principle.
 
-## Repokémon - Github Repos with Pokémon names - [Jack B](/people#jack-bracewell)
+## Repokémon - Github Repos with Pokémon names - [Jack B](/team#jack-bracewell)
 
 https://cheeaun.github.io/repokemon/
 
@@ -24,7 +24,7 @@ Scroll down to see my most popular repository! (Smeargle)
 
 And see if you can take inspiration for a project idea from any of the untaken pokémon names.
 
-## Integrating React with Rails - [Tom S](/people#tom-sabin)
+## Integrating React with Rails - [Tom S](/team#tom-sabin)
 
 https://github.com/tomsabin/rails-es6
 

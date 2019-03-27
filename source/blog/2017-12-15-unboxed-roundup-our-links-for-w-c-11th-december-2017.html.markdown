@@ -10,13 +10,13 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Rebuilding slack.com - [Tom S](/people#tom-sabin)
+## Rebuilding slack.com - [Tom S](/team#tom-sabin)
 
 https://slack.engineering/rebuilding-slack-com-b124c405c193
 
 A glimpse into how the team at Slack rebuilt slack.com and separated the shared code from the Slack web app. It's nice to see that they've embraced CSS Grid and are using feature queries to fall back to a Flexbox-based layout when it's not supported.
 
-## The tale of `.dev` - [Murray S](/people#murray-steele)
+## The tale of `.dev` - [Murray S](/team#murray-steele)
 
 https://medium.engineering/use-a-dev-domain-not-anymore-95219778e6fd
 
@@ -27,19 +27,19 @@ The article explains some workaround if you are affected by this, but what I
 really liked about it is that it takes you on a journey through the history of
 the internet and domain names to explain how we got here.
 
-## Flexbox and CSS Grid in harmony - [Tom S](/people#tom-sabin)
+## Flexbox and CSS Grid in harmony - [Tom S](/team#tom-sabin)
 
 https://aerolab.co/blog/flexbox-grids/
 
 This article aims to debunk the 'Flexbox vs CSS Grid' belief, and has some examples of using both layouts together, or showing when to just use one or the other. I've yet to use CSS Grid myself, so I particularly enjoyed the Fluid Grid Layout example being built out.
 
-## 10 More New Features in Ruby v2.5 - [Elena T](/people#elena-tanasoiu)
+## 10 More New Features in Ruby v2.5 - [Elena T](/team#elena-tanasoiu)
 
 https://tom-lord.github.io/10-More-New-Features-In-Ruby-2.5/
 
 A follow up to the original post which appeared in October: ["Ten new features in Ruby v2.5"](https://blog.jetbrains.com/ruby/2017/10/10-new-features-in-ruby-2-5/), with even more juicy new features for the Christmas release of Ruby 2.5.
 
-## Capybara JavaScript testing - [Tom S](/people#tom-sabin)
+## Capybara JavaScript testing - [Tom S](/team#tom-sabin)
 
 https://bibwild.wordpress.com/2016/02/18/struggling-towards-reliable-capybara-javascript-testing/
 
@@ -51,7 +51,7 @@ While debugging this pesky test, I crafted a handy command to run the test conti
 
 `while bundle exec rspec path/to/spec.rb:10; do (( count++ )); echo $count; done; echo "Failed after $count reruns`
 
-## Track of the Week - [Richard S](/people#richard-stobart)
+## Track of the Week - [Richard S](/team#richard-stobart)
 
 A banging tune for getting you into the festive spirit without being a Christmas song.
 

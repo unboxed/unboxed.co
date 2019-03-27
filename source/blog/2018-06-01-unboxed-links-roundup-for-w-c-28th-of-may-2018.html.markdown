@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Embedding security in your process - [Murray S](/people#murray-steele)
+## Embedding security in your process - [Murray S](/team#murray-steele)
 
 http://dan.tanham.co.uk/2016/04/25/five-real-things-about-security-in-agile/
 
@@ -19,7 +19,7 @@ said, it's not really important, as the tips are all very useful.  I can't think
 of any project I've worked on, using agile processes or not, that wouldn't have
 benefitted from applying any or all of these practices.
 
-## NASA will send a helicopter to Mars - [Elena T](/people#elena-tanasoiu)
+## NASA will send a helicopter to Mars - [Elena T](/team#elena-tanasoiu)
 
 http://www.bbc.co.uk/news/world-us-canada-44090509
 
@@ -27,7 +27,7 @@ This is less exciting when you realize the helicopter is the size
 of a drone, but it will pilot itself so technically doesn't qualify
 as a drone. Anyway, exciting news for space exploration!
 
-## Resurrecting celebrities as holograms - [Elena T](/people#elena-tanasoiu)
+## Resurrecting celebrities as holograms - [Elena T](/team#elena-tanasoiu)
 
 http://www.wired.co.uk/article/tupac-michael-jackson-billie-holiday-dead-celebrity-holograms
 

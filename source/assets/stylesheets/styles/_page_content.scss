@@ -21,3 +21,7 @@
   @extend .page-content;
   overflow: hidden;
 }
+
+.page-content--unboxed-principles{
+  @extend .page-content;
+}

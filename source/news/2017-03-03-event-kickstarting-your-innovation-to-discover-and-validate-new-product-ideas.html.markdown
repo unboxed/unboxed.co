@@ -42,14 +42,14 @@ This event is for:<br/>
 
 <br/>
 # Speakers
-Hosted by [Carrie Bedingfield](https://unboxed.co/people#carrie-bedingfield), Founder of [50th Generation](https://www.50thgeneration.org/), hear from digital leaders who have successfully innovated within large organisations.<br/>
+Hosted by [Carrie Bedingfield](https://unboxed.co/team#carrie-bedingfield), Founder of [50th Generation](https://www.50thgeneration.org/), hear from digital leaders who have successfully innovated within large organisations.<br/>
 
 ![Carrie Bedingfield](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fdab3d278f5d498aad8dc1005a47e1a9.PNG)
 
 <br/>
 Speakers include:<br/>
 
-## [Martyn Evans](https://unboxed.co/people#martyn-evans) - Head of Product, [Unboxed](https://www.unboxe.co)<br/>
+## [Martyn Evans](https://unboxed.co/team#martyn-evans) - Head of Product, [Unboxed](https://www.unboxe.co)<br/>
 [@martynrevans](https://twitter.com/martynrevans)<br/>
 
 ![Martyn Evans, Unboxed](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/24d75ff6bfcfb72a8bf19a387fa640ce.PNG)

@@ -10,7 +10,7 @@ tags:
 
 ---
 
-[Martyn Evans](/people#martyn-evans) hosted the second in our [SpeedAgile](/news/the-speed-agile-webinar-series) webinar series: <i>Speed up problem and customer validation</i>. In this session, Martyn explored how to unlock development by quickly and deeply understand:<br/>
+[Martyn Evans](/team#martyn-evans) hosted the second in our [SpeedAgile](/news/the-speed-agile-webinar-series) webinar series: <i>Speed up problem and customer validation</i>. In this session, Martyn explored how to unlock development by quickly and deeply understand:<br/>
 <br/>
 1. The real problem that your digital product or service needs to solve<br/>
 2. The exact customers who will pay for the solution<br/>

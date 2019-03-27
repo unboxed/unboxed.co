@@ -25,19 +25,19 @@ A DJ using Ableton Live, a huge bundle of MaxMSP emitting a UDP stream of beat i
 
 There’s also an image at: http://glenmaddern.com/articles/javascript-in-2015
 
-## A great place to work can't be found on lists - [Tom S](/people#tom-sabin)
+## A great place to work can't be found on lists - [Tom S](/team#tom-sabin)
 
 [http://dealbook.nytimes.com/2014/12/19/a-great-place-to-work-cant-be-found-on-lists/](http://dealbook.nytimes.com/2014/12/19/a-great-place-to-work-cant-be-found-on-lists/)
 
 A short article about why the "best places to work" often aren't. It's all down to creating a work environment that "enables and encourages all employees to regularly refuel and renew themselves, both on and off the job."
 
-## The state of JavaScript in 2015 - [Tom S](/people#tom-sabin)
+## The state of JavaScript in 2015 - [Tom S](/team#tom-sabin)
 
 [http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015/](http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015/)
 
 Jimmy Breck-McKye writes his opinions on the churn rate of JavaScript frameworks and technologies. It's worth reading the some of the comments on the article to see other's opinions too.
 
-## The biggest single day crowdsourced timelapse - [Tom S](/people#tom-sabin)
+## The biggest single day crowdsourced timelapse - [Tom S](/team#tom-sabin)
 
 [http://vimeo.com/114649098](http://vimeo.com/114649098)
 
@@ -57,7 +57,7 @@ This survey downloaded CSS files from over 8,000 domains and aggregated some dat
 
 ## A spot of Friday fun
 
-[Carrie](/people#carrie-bedingfield): http://gabinaureche.com/TheaterJS/
+[Carrie](/team#carrie-bedingfield): http://gabinaureche.com/TheaterJS/
 
 Dom: [retro games machines pixel art](http://thecuriousbrain.com/?p=56883)
 

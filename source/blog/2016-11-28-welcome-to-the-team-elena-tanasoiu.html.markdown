@@ -20,6 +20,6 @@ My first job after graduating computer science was working with Ruby on Rails, b
 
 Outside of work, I enjoy traveling and cluttering my house with books I forget to read.<br/>
 
-As well as working my way the New Joiner’s introduction board, the first project I’m working on involves pairing with [Crystal](https://unboxed.co/people/#chris-carter) on Buckinghamshire County Council’s ‘Maintain My Street’ service, which I’m very excited about. We’re developing an easier way to report problems to the council using React and Leaflet.<br/>
+As well as working my way the New Joiner’s introduction board, the first project I’m working on involves pairing with [Crystal](https://unboxed.co/team/#chris-carter) on Buckinghamshire County Council’s ‘Maintain My Street’ service, which I’m very excited about. We’re developing an easier way to report problems to the council using React and Leaflet.<br/>
 
 It’s fantastic to be part of the team here. My first few weeks have been very insightful in getting to know everyone and finding my feet. I’ve also enjoyed getting to know my buddy, getting involved in Friday’s Whines & Cheers sessions and playing a few rounds of [Exploding Kittens](http://www.explodingkittens.com/) and [8-minute Empire](https://boardgamegeek.com/boardgame/131366/eight-minute-empire).

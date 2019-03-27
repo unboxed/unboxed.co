@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Stack Overflow Developer Survey 2017 - [Charlie E](/people#charlie-egan)
+## Stack Overflow Developer Survey 2017 - [Charlie E](/team#charlie-egan)
 
 https://www.surveymonkey.com/r/92SGNSF
 
@@ -17,7 +17,7 @@ Each year stackoverflow asks lots of questions to lots of developers and does a
 nice write up of the results. Last year they had over 50k responses & did a nice
 write up of the results [here](http://stackoverflow.com/research/developer-survey-2016).
 
-## Ruby 2.4 Hashes - [Murray S](/people#murray-steele)
+## Ruby 2.4 Hashes - [Murray S](/team#murray-steele)
 
 https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding
 
@@ -26,7 +26,7 @@ present for the ruby community.  This article explains some of the new features
 and changes.  I particularly enjoyed the deep-dive explanation of how hashes
 work, and how tweaking the implementation has made them much faster in ruby 2.4.
 
-## The Cloudcast #281 - Monoliths and Microservices - [Charlie E](/people#charlie-egan)
+## The Cloudcast #281 - Monoliths and Microservices - [Charlie E](/team#charlie-egan)
 
 http://www.thecloudcast.net/2016/12/the-cloudcast-281-monoliths-and.html
 
@@ -35,7 +35,7 @@ more balanced take on the Monolith vs. Microservices discussion. The take away
 for me was that 'monolith problems' often stem from process or organizational
 culture and that microservices can't fix that.
 
-## Git alias tips - [Murray S](/people#murray-steele)
+## Git alias tips - [Murray S](/team#murray-steele)
 
 http://blogs.atlassian.com/2014/10/advanced-git-aliases/
 
@@ -79,7 +79,7 @@ in my `.gitconfig`, which means I can type:
 and no longer have to copy and paste from an error message as part of my
 workflow.  Hurrah!
 
-## Textures.js - [Charlie E](/people#charlie-egan)
+## Textures.js - [Charlie E](/team#charlie-egan)
 
 http://riccardoscalco.github.io/textures/
 
@@ -87,7 +87,7 @@ I've had various interesting discussions with [petition map
 Cale](https://twitter.com/tlfrd) about heat-maps, cartograms and choropleths and
 how colour can introduce bias. Maybe textures would work better?
 
-## Track of the Week - [Tim H](/people#tim-higgins)
+## Track of the Week - [Tim H](/team#tim-higgins)
 
 This cheery little tune from the mid 1980s seems so current at the moment I had to choose it ;)  Nuf said.
 

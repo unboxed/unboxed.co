@@ -15,6 +15,16 @@ module Helpers
     link_to(link_text, href, options)
   end
 
+  def page_content_css_class(current_url)
+    case current_url
+    when '/news/'
+      '--news-article'
+    when '/the-unboxed-way/unboxed-principles/'
+      '--unboxed-principles'
+    end
+    # puts current_url
+  end
+
   def is_matching_link?(href, current_url)
     href == current_url.match(/^(\/[^\/]*).*$/)[1]
   end

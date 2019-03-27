@@ -12,7 +12,7 @@ Last week, a small team of us took part in the Introduction to Agile course, rig
 
 ![Lego1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8f68860b9e3230ada2f39cb7b59af4f9.jpg)
 
-Alex Bobin, Charlie Egan, [Paula Stepinska] (/people#paula-stepinska), [Oskar Pearson] (/people) and myself ([Graeme McCubbin] (/people#graeme-mccubbin)) all spent the day taking this internal version of the course, hosted by our very own Rakesh Patel (with Priyanka Sushil on camera duty!)
+Alex Bobin, Charlie Egan, [Paula Stepinska] (/team#paula-stepinska), [Oskar Pearson] (/team) and myself ([Graeme McCubbin] (/team#graeme-mccubbin)) all spent the day taking this internal version of the course, hosted by our very own Rakesh Patel (with Priyanka Sushil on camera duty!)
 
 ![Lego2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/855adf988a3e928c13271a1f8a4ae416.jpg)
 

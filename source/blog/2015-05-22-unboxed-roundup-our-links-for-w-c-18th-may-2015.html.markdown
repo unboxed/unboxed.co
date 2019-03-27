@@ -21,7 +21,7 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## The great progressive enhancement debate (again) - [Murray S](/people#murray-steele)
+## The great progressive enhancement debate (again) - [Murray S](/team#murray-steele)
 
 * http://www.sitepoint.com/javascript-dependency-backlash-myth-busting-progressive-enhancement/
 * https://medium.com/@AaronGustafson/the-true-cost-of-progressive-enhancement-d395b6502979
@@ -32,7 +32,7 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## Optimising a slow build? You’re solving the wrong problem - [Alan T](/people#alan-thomas)
+## Optimising a slow build? You’re solving the wrong problem - [Alan T](/team#alan-thomas)
 
 * http://blog.mattwynne.net/2013/03/04/optimising-a-slow-build-youre-solving-the-wrong-problem/
 
@@ -41,12 +41,12 @@ I also love the fact that the author remind us that when we get into this type o
 
 
 <br/>
-## LXC – Running 14,000 tests per day and beyond! (Part 1) - [Oskar P](/people)
+## LXC – Running 14,000 tests per day and beyond! (Part 1) - [Oskar P](/team)
 
 * https://codeascraft.com/2013/09/23/lxc-running-14000-tests-per-day-and-beyond-part-1/<br/>
 <br/>
 
-## LXC – Automating Containers aka Virtual Madness (Part 2) - [Oskar P](/people)
+## LXC – Automating Containers aka Virtual Madness (Part 2) - [Oskar P](/team)
 
 * https://codeascraft.com/2013/09/23/lxc-automating-containers-aka-virtual-madness-part-2/
 

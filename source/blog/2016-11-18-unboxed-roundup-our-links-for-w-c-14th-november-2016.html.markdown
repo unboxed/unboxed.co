@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Wealth, in pictures - [Crystal](/people#chris-carter)
+## Wealth, in pictures - [Crystal](/team#chris-carter)
 
 http://waitbutwhy.com/2014/03/combined-wealth-world.html
 
@@ -17,7 +17,7 @@ A bit of an old article now, but shows (in interesting and visualisable ways)
 how the wealth of the world is split. I like the idea of climbing 68% of the
 way to the moon on money.
 
-## [Discussion Thread] What simple tools or products are you most proud of making? - [Charlie](/people#charlie-egan)
+## [Discussion Thread] What simple tools or products are you most proud of making? - [Charlie](/team#charlie-egan)
 
 https://news.ycombinator.com/item?id=12957371
 
@@ -29,7 +29,7 @@ interesting side projects. Some highlights for me:
 * [imguru](https://github.com/FigBug/imguru) - uploads images to Imgur from the command line
 * [transfer.sh](https://transfer.sh) - a simple CLI for file transfers.
 
-## Fast Search Using PostgreSQL Trigram Indexes - [Chris H](/people#chris-holmes)
+## Fast Search Using PostgreSQL Trigram Indexes - [Chris H](/team#chris-holmes)
 
 https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/
 
@@ -40,7 +40,7 @@ table with millions of rows. I changed the query to use the case insensitive
 a trigram index which gave significant performance improvements. This article
 has some useful info on trigram indexes and how to use them.
 
-## Why We Chose Turbolinks - [Charlie E](/people#charlie-egan)
+## Why We Chose Turbolinks - [Charlie E](/team#charlie-egan)
 
 https://changelog.com/posts/why-we-chose-turbolinks
 
@@ -48,7 +48,7 @@ From a podcast regularly interviewing people making the latest cool thing this
 was an interesting read about the state of Turbolinks and why they chose it for
 the new Changelog site.
 
-## Real World Rails Applications - [Andrew W](/people#andrew-white)
+## Real World Rails Applications - [Andrew W](/team#andrew-white)
 
 https://github.com/eliotsykes/real-world-rails
 

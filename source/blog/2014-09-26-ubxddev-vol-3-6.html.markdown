@@ -9,7 +9,7 @@ tags:
   - Rails
 ---
 
-## Ruby Kaigi writeups - [Murray](/people#murray-steele)
+## Ruby Kaigi writeups - [Murray](/team#murray-steele)
 
 * http://brewhouse.io/blog/2014/09/18/ruby-kaigi-2014-day-1
 * http://brewhouse.io/blog/2014/09/19/ruby-kaigi-2014-day-2
@@ -17,7 +17,7 @@ tags:
 
 Write ups of the [Ruby Kaigi](http://rubykaigi.org/2014) conference by [Godfrey Chan](https://twitter.com/chancancode).  Unlike most of the ruby conferences I read about or attend, Ruby Kaigi seems to be more focussed on the development of ruby itself rather than development with ruby.  It's really interesting to see what is coming in future versions of ruby that might make the language more performant.  I also liked the sound of Matz's talk from the day 2 write up; it's encouraging to see that ruby is far from stagnant.
 
-## Vertical align CSS property - [Neil](/people#neil-van-beinum)
+## Vertical align CSS property - [Neil](/team#neil-van-beinum)
 
 http://christopheraue.net/2014/03/05/vertical-align/
 
@@ -45,7 +45,7 @@ Overall It’s a nicely paced, smooth and well rehearsed talk. Worth a watch!
 
 These two articles go over using Postgres window functions: the first introduces the concept, including useful links to PG docs; and the second is a more practical example of using in the context of a rails app. I created a demo rails to check performance on this, using FactoryGirl to generate thousands of records, and was quite impressed by the performance gain.
 
-## Some new frontend tools - [Tom S](/people#tom-sabin)
+## Some new frontend tools - [Tom S](/team#tom-sabin)
 
 ### [ScrollIt.js](https://github.com/cmpolis/scrollIt.js) (jQuery)
 

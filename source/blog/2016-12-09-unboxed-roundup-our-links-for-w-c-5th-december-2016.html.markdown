@@ -9,13 +9,13 @@ tags: # (Delete as appropriate)
 
 ---
 
-## ZType: A Typing Game - [Tom S](/people#tom-sabin)
+## ZType: A Typing Game - [Tom S](/team#tom-sabin)
 
 http://zty.pe/
 
 Destroy invading spaceships with this fun typing game.
 
-## semantic-rs - [Charlie E](/people#charlie-egan)
+## semantic-rs - [Charlie E](/team#charlie-egan)
 
 https://github.com/semantic-rs/semantic-rs
 
@@ -26,7 +26,7 @@ it's just another thing to remember to do. I haven't used semantic-rs but it
 looks pretty useful for helping automate the process. I've not yet come across
 an equivalent for Ruby.
 
-## An introduction to ITCSS - [Tom S](/people#tom-sabin)
+## An introduction to ITCSS - [Tom S](/team#tom-sabin)
 
 https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.5o22hszg5
 
@@ -60,7 +60,7 @@ Sorry for manipulating you like that.
 
 x
 
-## Finding The Fake-News King - [Charlie E](/people#charlie-egan)
+## Finding The Fake-News King - [Charlie E](/team#charlie-egan)
 
 http://www.npr.org/sections/money/2016/12/02/504155809/episode-739-finding-the-fake-news-king
 
@@ -69,13 +69,13 @@ someone running a number of fake news sites. Interesting to hear the story from
 the other side. The interview is written up
 [here](http://www.npr.org/sections/alltechconsidered/2016/11/23/503146770/npr-finds-the-head-of-a-covert-fake-news-operation-in-the-suburbs).
 
-##  Robotic pen draws & writes - [Tom S](/people#tom-sabin)
+##  Robotic pen draws & writes - [Tom S](/team#tom-sabin)
 
 https://vimeo.com/193294744
 
 So satisfying to watch that it's almost therapeutic.
 
-## Track of the Week - [Martin E](/people#martyn-evans)
+## Track of the Week - [Martin E](/team#martyn-evans)
 
 I've been in Cape Town this week running Techqala (our start-up accelerator -
 http://www.techqala.com/) and I brought my 17 year old son along for the ride.

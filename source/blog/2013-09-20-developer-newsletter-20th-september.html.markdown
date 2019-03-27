@@ -17,7 +17,7 @@ Lots of languages use the single-equals and double-equals operators for assignme
 http://www.securityfocus.com/news/7388
 
 
-## The comic about the value of questions and answers. [Ben W](/people#ben-wong)
+## The comic about the value of questions and answers. [Ben W](/team#ben-wong)
 
 http://comicsthatsaysomething.quora.com/A-Day-at-the-Park
 

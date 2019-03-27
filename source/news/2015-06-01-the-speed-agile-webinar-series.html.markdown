@@ -18,7 +18,7 @@ published: true
 
 <h3>Wednesday 24th June, 16:00</h3>
 
-<p>With <a href="../people#richard-stobart">Richard Stobart</a>, CEO<br/></p>
+<p>With <a href="../team#richard-stobart">Richard Stobart</a>, CEO<br/></p>
 
 ![Richard Stobart](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/47ddfbd1dfbe9d9fd11b661cfa265f07.JPG)
 
@@ -31,7 +31,7 @@ published: true
 
 <h3>Wednesday 1st July, 16:00</h3>
 
-<p>With <a href="../people#martyn-evans">Martyn Evans</a>, Head of Product<br/></p>
+<p>With <a href="../team#martyn-evans">Martyn Evans</a>, Head of Product<br/></p>
 
 ![Martyn Evans](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6f111ac2d49ced085bebc824868ae997.JPG)
 
@@ -44,7 +44,7 @@ published: true
 
 <h3>Wednesday 15th July, 16:00</h3>
 
-<p>With <a href="../people#steve-lennon">Steve Lennon</a>, Director of Delivery<br/></p>
+<p>With <a href="../team#steve-lennon">Steve Lennon</a>, Director of Delivery<br/></p>
 
 ![Steve Lennon](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/39bdb67cdd3d283012f43f9991eabbd7.JPG)
 

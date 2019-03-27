@@ -9,7 +9,7 @@ tags:
 
 ---
 
-As we celebrate our 10th birthday next week, we thought we'd look back at what song was riding high as UK #1 on 29th April 2005. Much to our surprise, it was Peter Kay singing <i>‘Is This The Way To Amarillo?’</i> along with Tony Christie, wearing a purple suit and a jazzy shirt to go with it (are you sure this isn't you in the video, [Richard](/people#richard-stobart)?):<br/>
+As we celebrate our 10th birthday next week, we thought we'd look back at what song was riding high as UK #1 on 29th April 2005. Much to our surprise, it was Peter Kay singing <i>‘Is This The Way To Amarillo?’</i> along with Tony Christie, wearing a purple suit and a jazzy shirt to go with it (are you sure this isn't you in the video, [Richard](/team#richard-stobart)?):<br/>
 
 <iframe width="700" height="360" src="https://www.youtube.com/embed/yqLLDZvbG-U" frameborder="0" allowfullscreen></iframe>
 
@@ -18,7 +18,7 @@ I thought it would make for some good nostalgia to look back at what the UK #1 s
 
 So we start the countdown...<br/>
 <br/>
-##10. [Sarah](/people#sarah-beck):<br/>
+##10. [Sarah](/team#sarah-beck):<br/>
 <h1>Sonia - You'll Never Stop Me Loving You</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/xUmFD8_0q9U" frameborder="0" allowfullscreen></iframe>
 Sarah's comment:<i>“I hadn't heard this until I had to search for it! I wish it has been something better, 1989 had some crackers.”</i><br/>
@@ -48,25 +48,25 @@ Chris' comment: <i>“God, this is embarrassing.”</i><br/>
 Tyler's comment: <i>"'Don’t tell me it’s not worth fighting for.' Wise words, Bryan Adams. This song has two guitar solos in it. How rad is that? (Shortcuts - 2:43 onwards & 4:50)".</i><br/>
 <br/>
 
-##5. [Tom S](/people#tom-sabin):<br/>
+##5. [Tom S](/team#tom-sabin):<br/>
 <h1>Wet Wet Wet - Goodnight Girl</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/VI_MBT0GQrQ" frameborder="0" allowfullscreen></iframe><br/>
 Tom's comment: <i>"I have no recollection of this, nice haircut though.”</i><br/>
 <br/>
 
-##4. [Neil](/people#neil-van-beinum):<br/>
+##4. [Neil](/team#neil-van-beinum):<br/>
 <h1>Foreigner - I Want To Know What Love Is</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/raNGeq3_DtM" frameborder="0" allowfullscreen></iframe><br/>
 Neil's comment: <i>"I definitely know the song, can't say I have any particular attachment to it"</i><br/>
 <br/>
 
-##3. [Graeme](/people#graeme-mccubbin):<br/>
+##3. [Graeme](/team#graeme-mccubbin):<br/>
 <h1>Marc Almond & Gene Pitney - Something's Gotten Hold Of My Heart</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/AZTX0RBlqnM" frameborder="0" allowfullscreen></iframe><br/>
 Graeme's comment: <i>"This song gives me the creeps... Given the choice, I'd definitely go for the US #1 on my birthday, [Paula Abdul - Straight Up](https://www.youtube.com/watch?v=El1kgCqD7Xk). (Would probably choose Paula Abdul in most situation)."</i><br/>
 <br/>
 
-##2. [Carrie](/people#carrie-bedingfield):<br/>
+##2. [Carrie](/team#carrie-bedingfield):<br/>
 <h1>The Boomtown Rats - I Don't Like Mondays</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/-Kobdb37Cwc" frameborder="0" allowfullscreen></iframe>):<br/>
 Carrie's comment: <i>"It's not true that I don't like Mondays. But I <b>do</b> like rats and I think they should have more weekday opportunities for fun and dancing. So in that way it is an entirely accurate predictor of my personality and world view."</i><br/>
@@ -75,7 +75,7 @@ Carrie's comment: <i>"It's not true that I don't like Mondays. But I <b>do</b> l
 And we've hit the last song in the countdown...<br/>
 <br/>
 
-##1. [Richard](/people#richard-stobart):<br/>
+##1. [Richard](/team#richard-stobart):<br/>
 <h1>Jane Birkin et Serge Gainsbourg - Je T'aime,...Moi Non Plus</h1>
 <iframe width="700" height="360" src="https://www.youtube.com/embed/k3Fa4lOQfbA" frameborder="0" allowfullscreen></iframe><br/>
 Richard's comment: <i>"Classy."</i><br/>

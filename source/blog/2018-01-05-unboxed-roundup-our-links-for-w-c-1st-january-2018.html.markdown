@@ -10,19 +10,19 @@ tags: # (Delete as appropriate)
 
 ---
 
-## IOHIDeous - [Henry T](/people#henry-turner)
+## IOHIDeous - [Henry T](/team#henry-turner)
 
 https://siguza.github.io/IOHIDeous/
 
 A write up of a zero day macOS vulnerability. I read some of this and understood some of what I read, but no more. For me it was a little insight into the intimidating amount of effort this type of work must require.
 
-## What robots can learn from babies - [Boris D](/people#boris-divjak)
+## What robots can learn from babies - [Boris D](/team#boris-divjak)
 
 http://news.berkeley.edu/2017/12/04/robots-see-into-their-future/
 
 UC Berkeley researchers have programmed a robot to complete tasks like a baby would – by playing with objects and then imagining how to get tasks done. This enables them to learn to predict the future outcome of their actions so they can figure out how to manipulate objects they have never encountered before. Now there's a challenge for designers – how do you design a baby robot?
 
-## Track of the Week - [Neil vB](/people#neil-van-beinum)
+## Track of the Week - [Neil vB](/team#neil-van-beinum)
 
 A YouTuber takes part of a minimal classical piece by composer Steve Reich and slows it down by 800%. The result is an 45 minute peaceful, ambient tune which is good for studying or concentrating.
 

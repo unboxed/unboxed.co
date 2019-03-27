@@ -22,7 +22,7 @@ I'm not a fan of style guides in general.  They often have seemingly arbitrary "
 
 Anyway, I'm not linking to this so I can rant about styleguides (well, maybe I am a wee bit).  What I like about this style guide is that they actually make an effort to explain and give citations for their rules.  Sometimes there are ways of writing code that express the same concept but are more performant when written one way vs. another.  I wholeheartedly approve of this!  Of course, they haven't (yet) done this for everything so I still disapprove of all the other sections without citations or explanations (even if I agree with the choice they express).
 
-<em>Submitted by [Murray](/people#murray-steele)</em>
+<em>Submitted by [Murray](/team#murray-steele)</em>
 
 ## [CSS Rule Visualisation](http://css.benjaminbenben.com/)
 A simple tool for visualising CSS rules and a given webpage.
@@ -47,7 +47,7 @@ Montage seems to have some nice data binding mechanisms and is built on top of N
 ## [Richardson Maturity Model](http://martinfowler.com/articles/richardsonMaturityModel.html)
 We seem to be doing more around web services theses days.  Martin Fowler explains Leonard Richardson's Restful Maturity Model.
 
-<em>Submitted by [Richard S](/people#richard-stobart)</em>
+<em>Submitted by [Richard S](/team#richard-stobart)</em>
 
 ## [React.js](http://facebook.github.io/react/)
 Facebookstagram's attempt to reduce multi reflows inherent to non trivial client side rendering.

@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## You are @ 10K Apart - [Charlie](/people#charlie-egan)
+## You are @ 10K Apart - [Charlie](/team#charlie-egan)
 
 https://a-k-apart.com/#winners
 
@@ -18,7 +18,7 @@ experience in under 10KB of transferred content. Some submissions are better
 than others but I thought it was a good competition idea.
 
 
-## Why you shouldn't use ENV variables for secret data - [Charlie](/people#charlie-egan)
+## Why you shouldn't use ENV variables for secret data - [Charlie](/team#charlie-egan)
 
 https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data
 
@@ -28,7 +28,7 @@ that can arise from storing secrets in environment variables. There's also a
 rest.
 
 
-## Using your device's light sensor to steal browser data - [Abraao M](/people#abraao-mota)
+## Using your device's light sensor to steal browser data - [Abraao M](/team#abraao-mota)
 
 https://blog.lukaszolejnik.com/stealing-sensitive-browser-data-with-the-w3c-ambient-light-sensor-api/
 
@@ -37,7 +37,7 @@ user permission by showing it's possible to exfiltrate browser data (such as
 account recovery QR codes) by flashing the screen. It's a fairly slow to exploit
 in a real scenario but shows the dangers of exposing sensitive API's.
 
-## Track of the Week - [Murray S](/people#murray-steele)
+## Track of the Week - [Murray S](/team#murray-steele)
 
 You know who is brilliant?  It's Björk.  It's always Björk.  I can't think of
 a situation that wouldn't be improved by a Björk soundtrack.  What I'm saying is

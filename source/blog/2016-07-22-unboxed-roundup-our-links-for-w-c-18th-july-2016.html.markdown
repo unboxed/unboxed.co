@@ -9,14 +9,14 @@ tags: # (Delete as appropiate)
 
 ---
 
-## Elon Musk’s master plan, part 2 - [Tom S](/people#tom-sabin)
+## Elon Musk’s master plan, part 2 - [Tom S](/team#tom-sabin)
 
 https://www.tesla.com/blog/master-plan-part-deux
 
 Elon Musk, the person behind Tesla, shares his future plan for the world to achieve and use sustainable energy. The main topics he covers are: empowering people to generate and store their own energy, expanding Tesla to cover other forms of transport, autonomy and sharing.
 
 
-## Track of the Week - [Tom S](/people#tom-sabin)
+## Track of the Week - [Tom S](/team#tom-sabin)
 
 It took me far too long to choose a track for this week’s newsletter. Spotify has encouraged me to discover their rich music library. My chosen track is Partner in Crime by MAZEMIRROR, a song (and artist) I would describe as a hidden gem.
 

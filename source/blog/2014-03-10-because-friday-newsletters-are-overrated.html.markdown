@@ -10,19 +10,19 @@ tags:
 
 ---
 
-## I’ve been ``git``-ing it wrong! - [Murray Steele](/people#murray-steele)
+## I’ve been ``git``-ing it wrong! - [Murray Steele](/team#murray-steele)
 
 I was helping someone on my team prepare a deploy recently and noticed they tagged the release with ``git -a tag <sha> -m “tagging for release”``.  I was mostly confused by the ``-m``, as I didn’t know you could add a message to a tag, but I couldn’t recall seeing the ``-a`` either.  I did some research, and it turns out [I’ve been creating lightweight tags](http://www.rockstarprogrammer.org/post/2008/oct/16/git-tag-does-wrong-thing-default/) all along.  How embarrassing!
 
-## Plain Javascript - [Murray Steele](/people#murray-steele)
+## Plain Javascript - [Murray Steele](/team#murray-steele)
 
 There’s definitely a push back on using jQuery for everything in JS.  I’ve been aware of the idea, but I’ve never really thought about it much, so found [this article about plain javascript alternatives to jQuery methods](http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/) really useful.  New DOM APIs are supported in most modern browsers, but of course, modern browsers aren’t the problem.  Libraries like jQuery provide standard APIs and polyfills for old browsers too, but if we use a site like [Can I Use](http://caniuse.com/) we can find out the full range of browsers that support an API and can decide if we want the overhead of using jQuery or not for a particular project.
 
-## On stupid classes - [Murray Steele](/people#murray-steele)
+## On stupid classes - [Murray Steele](/team#murray-steele)
 
 I can’t remember how I found [this article about controller patterns and stupid classes](http://me.veekun.com/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/), but the arguments about object design, and MVC controllers in particular, are very interesting.  Some of the stuff is particular to Python (e.g. method annotations, which we don’t have in Ruby, although there’s [plenty of discussion if you’re interested](https://www.google.co.uk/search?q=ruby+method+annotations)), but the main point is that objects should have state and behaviour and from that you can talk about what they are.  Controllers are stupid classes because they’re don’t really represent anything other than the mechanics of MVC.  My *tl;dr* isn’t very good, so you should just read it.
 
-## Ruby implementation of Bitcoin - [Henry Turner](/people#henry-turner)
+## Ruby implementation of Bitcoin - [Henry Turner](/team#henry-turner)
 
 It’s just a Gist… But it’s a Ruby implementation of [Bitcoin’s proof of work concept](https://gist.github.com/thehenster/9368139). Proof of work is what Bitcoin is based on and mining is often described as ‘solving mathematical problems’ when it’s little more than a coin toss.
 
