@@ -17,7 +17,7 @@ Roll up.. roll up! Welcome everybody to this weeks one and only dev newsletter. 
 
 ..and by the looks of things, the incompatibility list is quite small.
 
-## ..and a shameless plug for [Ruby Manor 4](http://rubymanor.org/4/) - [Murray S](/team#murray-steele)
+## ..and a shameless plug for [Ruby Manor 4](http://rubymanor.org/4/) - [Murray S](/people#murray-steele)
 
 [Ruby Manor 4](http://rubymanor.org/4/): CFP closes Monday 4th, Voting starts shortly after.
 

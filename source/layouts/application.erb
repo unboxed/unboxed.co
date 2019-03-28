@@ -97,7 +97,7 @@
       <div class="site-header__container">
         <div class="site-brand">
           <a class="site-brand__link" href="/">
-            <%= image_tag 'unboxed-logo.png', alt: 'Unboxed', class: 'site-brand__logo-image' %>
+            <%= image_tag 'unboxed-logo.png', alt: 'Unboxed', srcset: retina_srcset('unboxed-logo.png'), class: 'site-brand__logo-image' %>
           </a>
         </div>
 
@@ -106,7 +106,7 @@
             <%= site_nav_link('Home', '/', class: 'site-navigation__link--home') %>
             <%= site_nav_link('Services', '/services') %>
             <%= site_nav_link('Product stories', '/product-stories') %>
-            <%= site_nav_link('Team', '/team') %>
+            <%= site_nav_link('People', '/people') %>
             <%= site_nav_link('Blog', '/blog') %>
             <%= site_nav_link('Join us', '/jobs') %>
             <%= site_nav_link('Contact', '/contact', class: 'site-navigation__link--contact') %>
@@ -115,7 +115,7 @@
       </div>
     </header>
 
-    <div class="page-content<%= page_content_css_class(current_page.url) %>">
+    <div class="page-content<%= '--news-article' if is_matching_link?('/news', current_page.url) %>">
       <%= yield %>
     </div>
 

@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## `house_style` - [Murray S](/team#murray-steele)
+## `house_style` - [Murray S](/people#murray-steele)
 
 https://altmetric.engineering/maintaining-a-consistent-coding-style-across-projects-with-house-style-5b1c07e0d1ae
 
@@ -21,7 +21,7 @@ http://www.scottaaronson.com/blog/?p=2756
 
 Something that's always intrigued me, and which I'm putting off until I have a spare weekend to solve it - consciousness for computers. The article does get quite technical (quantum gravity and microtubules…?), but interesting to think about anyway! It offers lots of opportunity for further research for those interested in this field.
 
-## Track of the Week - [Paula S](/team#paula-stepinska)
+## Track of the Week - [Paula S](/people#paula-stepinska)
 
 This is enticing summer to come along at last. With a little help from Larry Levan. And until then, let's go dancing.
 

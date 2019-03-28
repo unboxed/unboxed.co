@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Rails Docker App Deployment on Kubernetes - [Charlie E](/team#charlie-egan)
+## Rails Docker App Deployment on Kubernetes - [Charlie E](/people#charlie-egan)
 
 http://www.eggie5.com/82-rails-docker-app-deployment-kubernetes
 
@@ -19,7 +19,7 @@ production setup then this is one way to do it. The [previous
 post](http://www.eggie5.com/81-rails-docker-app) has a Docker development
 Rails quick start guide.
 
-## How to Create Postgres Indexes Concurrently in ActiveRecord Migrations - [Chris H](/team#chris-holmes)
+## How to Create Postgres Indexes Concurrently in ActiveRecord Migrations - [Chris H](/people#chris-holmes)
 
 https://robots.thoughtbot.com/how-to-create-postgres-indexes-concurrently-in
 
@@ -27,7 +27,7 @@ This week I came across a migration that used the Postgres concurrency option
 when creating an index. Useful for indexing large tables without downtime as it
 doesn't prevent concurrent inserts, updates or deletes on the table.
 
-## DynamicClass, A faster replacement for OpenStruct - [Andrew W](/team#andrew-white)
+## DynamicClass, A faster replacement for OpenStruct - [Andrew W](/people#andrew-white)
 
 https://github.com/amcaplan/dynamic_class
 
@@ -40,7 +40,7 @@ will be as fast as if you manually created the methods. One important caveat -
 don't use it with arbitrary user params as it will open your app up to a DoS
 attack by constantly creating new methods.
 
-## Building a networking stack in ruby - [Murray S](/team#murray-steele)
+## Building a networking stack in ruby - [Murray S](/people#murray-steele)
 
 https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b
 
@@ -53,7 +53,7 @@ programming.  I forget that ruby has these features as I'm usually working at a
 much higher level and don't worry about bytes much, so it's nice to be reminded
 that I can work further down the stack in my favourite language.
 
-## Track of the Week - [Sarah B](/team#sarah-beck)
+## Track of the Week - [Sarah B](/people#sarah-beck)
 
 In order to improve this weeks mood, and to celebrate Gram and I going on
 holiday (separately) I think this is appropriate:

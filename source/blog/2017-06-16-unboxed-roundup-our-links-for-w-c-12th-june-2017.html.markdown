@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-## Product Design Playbook - [Boris D](/team#boris-divjak)
+## Product Design Playbook - [Boris D](/people#boris-divjak)
 
 https://uxdesign.cc/product-design-playbook-103d3a5cf2e3
 
@@ -19,7 +19,7 @@ thinking and writing about this topic. This article offers a good overview
 of some of the principles and approaches we employ ourselves in our
 product development work. Via Martyn.
 
-## Developers Who Use Spaces Make More Money Than Those Who Use Tabs - [Elena T](/team#elena-tanasoiu)
+## Developers Who Use Spaces Make More Money Than Those Who Use Tabs - [Elena T](/people#elena-tanasoiu)
 
 https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/
 
@@ -27,14 +27,14 @@ The "holy war" on tabs versus spaces, also mentioned in the Silicon Valley
 TV show, now with in-your-face statistics! If you haven't watched Silicon
 Valley [here's the relevant clip](https://www.youtube.com/watch?v=SsoOG6ZeyUI)
 
-## MacRansom: Offered as Ransomware as a Service - [Elena T](/team#elena-tanasoiu)
+## MacRansom: Offered as Ransomware as a Service - [Elena T](/people#elena-tanasoiu)
 
 https://blog.fortinet.com/2017/06/09/macransom-offered-as-ransomware-as-a-service
 
 An exercise in white-hat hacking, this article describes what it's like to
 run a ransomware on a Macbook.
 
-## History of the browser user-agent string - [Elena T](/team#elena-tanasoiu)
+## History of the browser user-agent string - [Elena T](/people#elena-tanasoiu)
 
 http://webaim.org/blog/user-agent-string-history/
 
@@ -42,7 +42,7 @@ Unless you already knew why a lot of browsers mis-identify as Mozilla in
 their user agents, this article will give you the historical context of
 how we got in this situation.
 
-## Choose Your Own Adventure - [Murray S](/team#murray-steele)
+## Choose Your Own Adventure - [Murray S](/people#murray-steele)
 
 http://www.atlasobscura.com/articles/cyoa-choose-your-own-adventure-maps
 
@@ -57,13 +57,13 @@ different perspective on it (for example [generating ERD
 diagrams of your models](https://github.com/voormedia/rails-erd) to see
 dependencies).
 
-## Newham Council: Improving residential access and support to homelessness services - the Discovery and Alpha phases - [Graeme M](https://unboxed.co/team/#graeme-mccubbin)
+## Newham Council: Improving residential access and support to homelessness services - the Discovery and Alpha phases - [Graeme M](https://unboxed.co/people/#graeme-mccubbin)
 
 https://www.local.gov.uk/newham-council-improving-residential-access-and-support-homelessness-services-discovery-and-alpha
 
 All about one of our recent projects with Newham Council, the Local Government Association have published a case study.
 
-## Track of the Week - [Neil VB](/team#neil-van-beinum)
+## Track of the Week - [Neil VB](/people#neil-van-beinum)
 
 It's indie pop with an added organ
 

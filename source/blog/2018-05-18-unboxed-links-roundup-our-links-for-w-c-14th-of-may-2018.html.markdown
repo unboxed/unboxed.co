@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Making a Mark: Visual Identity with Tom Geismar - [Neil vB](/team#neil-van-beinum)
+## Making a Mark: Visual Identity with Tom Geismar - [Neil vB](/people#neil-van-beinum)
 
 https://99percentinvisible.org/episode/making-mark-visual-identity-tom-geismar/
 
@@ -19,7 +19,7 @@ his 60+ year career. He explains how he approaches making his logos relevant and
 meaningful, as well as effective on various formats including letterheads,
 newspapers and, more recently, smartphones.
 
-## From Grammarly to Patreon, view the culture codes from celebrity-status-new-world companies - [Carrie B](/team#carrie-bedingfield)
+## From Grammarly to Patreon, view the culture codes from celebrity-status-new-world companies - [Carrie B](/people#carrie-bedingfield)
 
 https://tettra.co/culture-codes/culture-decks
 
@@ -29,7 +29,7 @@ inspired by”. Maybe you want to see them to definitely NOT use the same approa
 and language. Either way - useful if you are interested in team and
 organisational culture.
 
-## WiFi in hotels - [Murray S](/team#murray-steele)
+## WiFi in hotels - [Murray S](/people#murray-steele)
 
 http://community.arubanetworks.com/t5/Technology-Blog/Wi-Fi-Design-APs-in-Hallways/ba-p/314718
 
@@ -39,7 +39,7 @@ hotels actually can cause terrible performance as the access points end up
 interfering with each other.  Happily it also explains what a better layout is,
 so you'll be able to setup perfect WiFi in that hotel you're building.
 
-## Track of the Week - [Boris D](/team#boris-divjak)
+## Track of the Week - [Boris D](/people#boris-divjak)
 
 It’s a classic! I just find myself listening to this whenever sun comes out in
 London. I guess, I’ve only been waiting for this moment to arise!

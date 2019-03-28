@@ -9,7 +9,7 @@ tags: # (Delete as appropiate)
 
 ---
 
-## Exploring other rubies - [Murray S](/team#murray-steele)
+## Exploring other rubies - [Murray S](/people#murray-steele)
 
 https://medium.com/@rubinius/rubinius-takes-the-fun-out-of-ruby-21db64ce87a6#.q01hbnsvk
 
@@ -27,19 +27,19 @@ programming languages.  It'll be interesting to see how far the two diverge,
 and if this means that new language features from rubinius are now more or less
 likely to end up back in MRI ruby.
 
-## EA Games and Origin quietly bans an entire country - or, why you shouldn't take digital distribution for granted. - [Charlie E](/team#charlie-egan)
+## EA Games and Origin quietly bans an entire country - or, why you shouldn't take digital distribution for granted. - [Charlie E](/people#charlie-egan)
 
 https://www.reddit.com/r/gaming/comments/5a51e2/ea_games_and_origin_quietly_bans_an_entire/
 
 In what looks like an effort to avoid liability; EA turned of it's digital distribution service Origin for users in Myanmar. While an intersting story in itself, it also highlights the fragility of DRM'd services we so often take for granted.
 
-## Awesome Falsehood - [Charlie E](/team#charlie-egan)
+## Awesome Falsehood - [Charlie E](/people#charlie-egan)
 
 https://github.com/kdeldycke/awesome-falsehood
 
 A good long list of all the things you can get away with - most of the time.
 
-## A Rubyist looks at Crystal - [Chris H](/team#chris-holmes)
+## A Rubyist looks at Crystal - [Chris H](/people#chris-holmes)
 
 https://citizen428.net/a-rubyist-looks-at-crystal-part-1-86a9284c936e
 
@@ -49,7 +49,7 @@ although compatability is not a goal of the language. It shows some interesting 
 like the arity and type based method overloading and has inspired me to look at some
 of the more advanced language features.
 
-## Track of the Week - [Anissa S](/team#anissa-said)
+## Track of the Week - [Anissa S](/people#anissa-said)
 
 Love the different edges to the song
 

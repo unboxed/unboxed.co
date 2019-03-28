@@ -11,7 +11,7 @@ authors:
 ---
 <b>The conference:</b> Share Digital 2016<br/>
 <b>The date:</b> Wednesday 6th July<br/>
-<b>The attendees:</b> [Graeme](https://unboxed.co/team/#graeme-mccubbin), [Martyn](https://unboxed.co/team/#martyn-evans)<br/>
+<b>The attendees:</b> [Graeme](https://unboxed.co/people/#graeme-mccubbin), [Martyn](https://unboxed.co/people/#martyn-evans)<br/>
 
 With the aim of growing and expanding my knowledge in the digital public services area, I jumped at the opportunity to attend this year’s ShareDigital 2016 conference, attending as a [LoGov](http://logovplatform.co.uk) representative.<br/>
 

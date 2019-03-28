@@ -36,7 +36,7 @@ http://venturebeat.com/2015/08/12/blackjack-taught-twitters-sid-patel-about-data
 
 Here at Unboxed we favour the gentlemanly card game, Bridge, but [Sid Patil](https://twitter.com/sidp1897) of Twitter learned everything he knows about data science from Blackjack...
 
-## Half done vs fake - [Henry T](/team#henry-turner)
+## Half done vs fake - [Henry T](/people#henry-turner)
 
 https://www.facebook.com/notes/kent-beck/half-done-versus-fake-the-intermediate-resultmock-tradeoff/1005370156162515
 

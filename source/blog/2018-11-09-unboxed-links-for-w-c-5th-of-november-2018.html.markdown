@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## What are story points for? - [Murray S](/team#murray-steele)
+## What are story points for? - [Murray S](/people#murray-steele)
 
 https://robots.thoughtbot.com/the-real-story-behind-story-points
 
@@ -27,13 +27,13 @@ the things we use story points for, and what alternatives we might be able to
 use instead, including options for keeping story points, but being more flexible
 about how you use them.
 
-## How I created a bot that talked to recruiters for me - [Elena T](/team#elena-tanasoiu)
+## How I created a bot that talked to recruiters for me - [Elena T](/people#elena-tanasoiu)
 
 https://dev.to/whokilledkevin/how-i-created-a-bot-that-talked-to-recruiters-for-me-54n5
 
 I'll be honest, I've fantasized about writing something like this myself.
 
-## Github now allows you to delete issues - [Elena T](/team#elena-tanasoiu)
+## Github now allows you to delete issues - [Elena T](/people#elena-tanasoiu)
 
 https://hub.packtpub.com/github-now-allows-repository-owners-to-delete-an-issue-curse-or-a-boon/
 
@@ -43,14 +43,14 @@ project. On the other hand, it means we can now get rid of issues like Rails'
 'Bender from the future' issue: https://github.com/rails/rails/issues/5239. Or
 this one from VS Code: https://github.com/Microsoft/vscode/issues/32405.
 
-## Artificial Intelligence Hits the Barrier of Meaning - [Elena T](/team#elena-tanasoiu)
+## Artificial Intelligence Hits the Barrier of Meaning - [Elena T](/people#elena-tanasoiu)
 
 https://www.nytimes.com/2018/11/05/opinion/artificial-intelligence-machine-learning.html
 
 An argument for why A.I. predictions severely underestimate replication of human
 intelligence and why future A.I. might be potato quality.
 
-## Track of the Week - [Boris D](/team#boris-divjak)
+## Track of the Week - [Boris D](/people#boris-divjak)
 
 I’m going to see Leon Bridges live in a week, so I thought this would be a
 perfect tune for this Friday.

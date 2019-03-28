@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Why Portability is Not the Same Thing as Compatibility - [Charlie E](/team#charlie-egan)
+## Why Portability is Not the Same Thing as Compatibility - [Charlie E](/people#charlie-egan)
 
 http://crunchtools.com/portability-not-compatibility/
 
@@ -18,7 +18,7 @@ This article has a good discussion about container image / container host
 compatibility as well as a good list of questions you might want to
 consider when running things in containers on virtual machines.
 
-## Your smartphone makes you dumb - [Elena T](/team#elena-tanasoiu)
+## Your smartphone makes you dumb - [Elena T](/people#elena-tanasoiu)
 
 http://www.journals.uchicago.edu/doi/abs/10.1086/691462
 
@@ -27,13 +27,13 @@ within your immediate vicinity. The study claims that knowing we have our
 smartphone nearby makes us allocate "Working Memory" in case we need to
 pay attention to it.
 
-## A primer on blockchain - [Elena T](/team#elena-tanasoiu)
+## A primer on blockchain - [Elena T](/people#elena-tanasoiu)
 
 https://anders.com/blockchain/
 
 A nice short video explanation of what a blockchain is and how it's formed.
 
-## Design+AI: exploring agency, language, and creativity - [Boris D](/team#boris-divjak)
+## Design+AI: exploring agency, language, and creativity - [Boris D](/people#boris-divjak)
 
 http://medium.com/design-for-the-network/design-ai-exploring-agency-language-and-creativity-1b6bfdd7050
 
@@ -42,14 +42,14 @@ can designer better understand the basics of AI? How does the design
 process need to change to design for AI? How can we use AI to enable
 human agency and creativity?
 
-## An oral history on Crash Bandicoot - [Elena T](/team#elena-tanasoiu)
+## An oral history on Crash Bandicoot - [Elena T](/people#elena-tanasoiu)
 
 https://www.polygon.com/2017/6/22/15820540/crash-bandicoot-an-oral-history
 
 A tale of how Crash Bandicoot was created and how it redefined the
 platformer genre.
 
-## Track of the Week - [Tom S](/team#tom-sabin)
+## Track of the Week - [Tom S](/people#tom-sabin)
 
 We recently watched Moana and this was one of my favourite songs (of many)
 from this film. It's worth watching if you've yet to see it!

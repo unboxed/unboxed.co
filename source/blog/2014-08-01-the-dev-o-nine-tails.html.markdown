@@ -9,13 +9,13 @@ tags:
   - Rails
 ---
 
-## Monoliths vs. microservices - [Murray](/team#murray-steele)
+## Monoliths vs. microservices - [Murray](/people#murray-steele)
 
 http://highscalability.com/blog/2014/7/28/the-great-microservices-vs-monolithic-apps-twitter-melee.html
 
 The prevalent opinion about system architecture seems to be that monolithic applications are bad and using lots of loosely coupled microservices is good.  I've never really questioned this opinion, so I found it useful that this article covers both sides of the argument.  It starts by summarising a debate from twitter (surprisingly civil and useful, despite the 140-char replies) and then goes into greater detail on the topic.  There's loads of related reading at the end too.  As with all things, it really seems that the answer is "it depends".
 
-## Benchmarking Ruby Frameworks - [Murray](/team#murray-steele)
+## Benchmarking Ruby Frameworks - [Murray](/people#murray-steele)
 
 http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html
 

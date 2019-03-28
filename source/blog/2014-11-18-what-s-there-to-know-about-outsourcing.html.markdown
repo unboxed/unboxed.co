@@ -132,7 +132,7 @@ Having a fancy high quality video conferencing suite in each location that is sh
 
 <h2><b>What book do you recommend reading in order to learn more about managing distributed teams?</b></h2>
 • <i>[Waltzing with Bears: Managing Risk on Software Projects](http://www.amazon.co.uk/Waltzing-Bears-Managing-Software-Projects/dp/0932633609/ref=sr_1_1?ie=UTF8&qid=1416309351&sr=8-1&keywords=Waltzing+with+Bears)</i>by Tom DeMarco and Timothy Lister<br/>
-• <i>[Peopleware: Productive Projects and Teams](http://www.amazon.co.uk/teamware-Productive-Projects-Tom-DeMarco/dp/0321934113/ref=sr_1_1?ie=UTF8&qid=1416309391&sr=8-1&keywords=Peopleware)</i> by Tom de Marco and Timothy Lister<br/>
+• <i>[Peopleware: Productive Projects and Teams](http://www.amazon.co.uk/Peopleware-Productive-Projects-Tom-DeMarco/dp/0321934113/ref=sr_1_1?ie=UTF8&qid=1416309391&sr=8-1&keywords=Peopleware)</i> by Tom de Marco and Timothy Lister<br/>
 • <i>[The Principles of Product Development Flow](http://www.amazon.co.uk/Principles-Product-Development-Flow-Generation/dp/1935401009/ref=sr_1_1?ie=UTF8&qid=1416309470&sr=8-1&keywords=Product+Development+Flow)</i> by Don Rinertsen<br/>
 • <i>[The Goal: A Process of Ongoing Improvement](http://www.amazon.co.uk/Goal-Process-Ongoing-Improvement/dp/0566086654/ref=sr_1_1?ie=UTF8&qid=1416309514&sr=8-1&keywords=The+Goal+by+Eli+Goldratt)</i> by Eliyahu M. Goldratt</br>
 <br/>

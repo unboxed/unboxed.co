@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Progressive enhancement: it's still your best option - [Murray S](/team#murray-steele)
+## Progressive enhancement: it's still your best option - [Murray S](/people#murray-steele)
 
 https://alistapart.com/article/the-slow-death-of-internet-explorer-and-future-of-progressive-enhancement
 
@@ -29,27 +29,27 @@ what they need to do, they'll forgive us a few lofi pages with a white
 background, Times New Roman text and purple and blue links.
 
 
-## Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760) - [Elena T](/team#elena-tanasoiu)
+## Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760) - [Elena T](/people#elena-tanasoiu)
 
 https://blog.heroku.com/rails-asset-pipeline-vulnerability
 
 The low-down on what this vulnerability is and how to go about fixing it. 
 
 
-## Learning Go's concurrency through illustrations - [Elena T](/team#elena-tanasoiu)
+## Learning Go's concurrency through illustrations - [Elena T](/people#elena-tanasoiu)
 
 https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
 
 An introduction to Go's concurrency model. 
 
 
-## YAML: probably not so great after all - [Elena T](/team#elena-tanasoiu)
+## YAML: probably not so great after all - [Elena T](/people#elena-tanasoiu)
 
 https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html
 
 On the shortcomings and constraints of using YAML. 
 
-## Track of the Week - [Elena T](/team#elena-tanasoiu)
+## Track of the Week - [Elena T](/people#elena-tanasoiu)
 
 [The Paparuda](https://upload.wikimedia.org/wikipedia/commons/3/37/Taniec_Perperuny.jpg) is an ancient Romanian rain ritual performed either in the Spring or in times of severe drought. Wearing a dress of knitted vines, a dancing girl is accompanied through the village by singing, shouting locals' intent on securing fertility for the season ahead. "Paparuda" derives from the name of [a Thracian deity](https://en.wikipedia.org/wiki/Dodola).
 

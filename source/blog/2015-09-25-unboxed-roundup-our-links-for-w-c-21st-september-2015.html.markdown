@@ -21,7 +21,7 @@ http://hashrocket.com/blog/posts/using-simpledelegator-for-your-decorators
 
 You can use SimpleDelegator (which is standard ruby) to implement the decorator pattern on your models for your views.
 
-## Installing web-apps in 2015 - [Murray S](/team#murray-steele)
+## Installing web-apps in 2015 - [Murray S](/people#murray-steele)
 
 http://eev.ee/blog/2015/09/17/the-sad-state-of-web-app-deployment/
 

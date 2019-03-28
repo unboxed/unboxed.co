@@ -39,7 +39,7 @@ https://www.theguardian.com/info/developer-blog/2015/jul/27/the-user-experience-
 
 Here at Unboxed, we know that user centric design is a critical skill in successful project delivery. This neat article summarises why.
 
-## Performance boost coming in Rails 5 - [Andrew W](/team#andrew-white)
+## Performance boost coming in Rails 5 - [Andrew W](/people#andrew-white)
 
 http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance/
 

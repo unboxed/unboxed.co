@@ -21,7 +21,7 @@ http://steveblank.com/2015/05/19/organizational-debt-is-like-technical-debt-but-
 
 Technical debt is well understood by developers, but often organisational debt is ignored and it could be worse for your company.
 
-## Old games on new systems - [Murray S](/team#murray-steele)
+## Old games on new systems - [Murray S](/people#murray-steele)
 
 http://www.rockpapershotgun.com/2015/09/16/how-gog-com-save-and-restore-classic-videogames/
 

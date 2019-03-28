@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Explaining CPU vulnerabilities - [Murray S](/team#murray-steele)
+## Explaining CPU vulnerabilities - [Murray S](/people#murray-steele)
 
 https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/
 
@@ -23,7 +23,7 @@ to the attacks.  I found it to be very clear and now I have a better
 understanding of the attacks, and how modern CPUs achieve some performance
 while not really being much faster at the Hz level.
 
-## Online shopping in Africa doesn't work because of this web form - [Charlie E](/team#charlie-egan)
+## Online shopping in Africa doesn't work because of this web form - [Charlie E](/people#charlie-egan)
 
 https://hackernoon.com/online-shopping-in-africa-doesnt-work-because-of-this-web-form-e4974a8d165a
 
@@ -34,7 +34,7 @@ is the first to break down the code into some kind of 'meaningful' parts.
 Much more useful than [what3words.com](https://map.what3words.com/glad.grapes.forget)
 where the code is totally random and meaningless.
 
-## A beginner's guide to longevity research - [Elena T](/team#elena-tanasoiu)
+## A beginner's guide to longevity research - [Elena T](/people#elena-tanasoiu)
 
 https://www.ldeming.com/longevityfaq
 
@@ -42,21 +42,21 @@ A visually pleasing intro about how to decrease your chances of dying as you
 get older. Obviously decreasing your chances doesn't mean eliminating them
 altogether.
 
-## The best things and stuff of 2017 - [Elena T](/team#elena-tanasoiu)
+## The best things and stuff of 2017 - [Elena T](/people#elena-tanasoiu)
 
 http://blog.fogus.me/2018/01/02/the-best-things-and-stuff-of-2017
 
 I've been working my way through this list and I think it's worth sharing. It's
 a compilation of some great articles (and "stuff") that have come out in 2017.
 
-## Help any website have an API - [Elena T](/team#elena-tanasoiu)
+## Help any website have an API - [Elena T](/people#elena-tanasoiu)
 
 http://www.toapi.org/
 
 A small library that can help add an api service to your website, as long as
 you define the proper data structures.
 
-## Complex adaptive systems - why (for resilience) and what (unpredictable, contagious, modular) - [Carrie B](/team#carrie-bedingfield)
+## Complex adaptive systems - why (for resilience) and what (unpredictable, contagious, modular) - [Carrie B](/people#carrie-bedingfield)
 
 https://www.youtube.com/watch?v=BfnY9gn6ktk
 
@@ -65,7 +65,7 @@ why they are important for withstanding things like the financial crisis from
 a dude at Stockholm Resilience Centre who plays football and is willing to
 alienate his friends at work. Or something.
 
-## Track of the Week - [Leon O-K](/team#leon-odey-knight)
+## Track of the Week - [Leon O-K](/people#leon-odey-knight)
 
 A bittersweet time of year for me. But as I sit in a Cafe looking out onto the
 beach this is the song setting the tone for the year right now...

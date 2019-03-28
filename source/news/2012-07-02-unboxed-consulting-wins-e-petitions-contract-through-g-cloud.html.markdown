@@ -9,7 +9,7 @@ date: "2012-07-02T12:49:00+01:00"
 
 <p>Unboxed Consulting created e-petitions, the online public service application, in 2011 and has now won the contract to provide support to users and administrators of the site. </p>
 
-<p>e-petitions is one of several innovative online applications to be delivered by the Government Digital Service, under the stewardship of Peter Herlihy. Unboxed director and co-founder, <a href="/team#richard-stobart">Richard Stobart</a>, says: &ldquo;Having created e-petitions for the Government Digital Service, we’re delighted to be supporting it going forward and play a role in its ongoing success. The system represents a real opportunity for anyone in the UK to create change in an area they are passionate about and we’re proud to be chosen to suppor this.&ldquo;</p>
+<p>e-petitions is one of several innovative online applications to be delivered by the Government Digital Service, under the stewardship of Peter Herlihy. Unboxed director and co-founder, <a href="/people#richard-stobart">Richard Stobart</a>, says: &ldquo;Having created e-petitions for the Government Digital Service, we’re delighted to be supporting it going forward and play a role in its ongoing success. The system represents a real opportunity for anyone in the UK to create change in an area they are passionate about and we’re proud to be chosen to suppor this.&ldquo;</p>
 
 <p>G-Cloud is a collection of companies. </p>
 

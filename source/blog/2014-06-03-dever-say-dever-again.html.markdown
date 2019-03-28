@@ -12,7 +12,7 @@ tags:
 
 Welcome!  Welcome to our rebooted Dev Newsletter.
 
-### On Developer Empathy - [Murray](/team#murray-steele)
+### On Developer Empathy - [Murray](/people#murray-steele)
 
 [http://techbelly.ghost.io/empathy/](http://techbelly.ghost.io/empathy/)
 
@@ -26,7 +26,7 @@ One tool I use a lot is ``git blame``.  I use it [when trying to work out why a 
 
 [Microsoft Design](http://www.microsoft.com/design/) and [Bassett & Partners](http://www.bassett.tv/about/) have just released a lovely series of short films about connectivity, design and making things. I was particularly moved by the story of MakerBot who are 3D printing affordable mechanical prosthetic hands for children born with Amniotic Band Syndrome. The film, called [Connecting: Makers](https://vimeo.com/96699192), made me wanna make!
 
-### Preserving git history during a separation refactoring - [Murray](/team#murray-steele)
+### Preserving git history during a separation refactoring - [Murray](/people#murray-steele)
 
 [https://gdstechnology.blog.gov.uk/2014/06/04/using-git-to-refactor-vcloud-tools-into-separate-gems/](https://gdstechnology.blog.gov.uk/2014/06/04/using-git-to-refactor-vcloud-tools-into-separate-gems/)
 

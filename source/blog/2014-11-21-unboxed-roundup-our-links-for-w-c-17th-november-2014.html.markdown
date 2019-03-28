@@ -15,7 +15,7 @@ https://speakerdeck.com/mcfunley/data-driven-products-now
 
 Dan McKinley of Etsy gives a very frank and honest presentation on the art of using data and common sense to prioritise web product features. Great insight.
 
-## A statically-typed Ruby? - [Murray](/team#murray-steele)
+## A statically-typed Ruby? - [Murray](/people#murray-steele)
 
 https://www.omniref.com/blog/blog/2014/11/17/matz-at-rubyconf-2014-will-ruby-3-dot-0-be-statically-typed/
 

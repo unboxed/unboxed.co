@@ -18,7 +18,7 @@ Then comes the big question: <i>“What does it take to gain momentum?”</i>.<b
 
 Three speakers, three sessions, a round of Lego and room full of eager minds were the basis of our Agile Pilot event, where we aimed to uncover a variety of different answers to this big question. Not only that, but hear from those who have successfully piloted agile projects through traditional organisations and come out the other side, cheering victoriously.<br/>
 
-With introductions by [Carrie Bedingfield](https://unboxed.co/team/#carrie-bedingfield) done and out of the way, the morning launched with an energetic [‘Yes, But…’](http://www.yesandyourbusiness.com/portfolio/yes-but-yes-and) session, with the room pairing to build ideas for products based on their partner’s idea.<br/>
+With introductions by [Carrie Bedingfield](https://unboxed.co/people/#carrie-bedingfield) done and out of the way, the morning launched with an energetic [‘Yes, But…’](http://www.yesandyourbusiness.com/portfolio/yes-but-yes-and) session, with the room pairing to build ideas for products based on their partner’s idea.<br/>
 
 ![Yes But 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d38f9787e97d96193cfc0955d2a03459.JPG)
 

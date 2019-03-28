@@ -21,7 +21,7 @@ The Digital Team have reached a milestone Show & Tell in their Digital Customer 
 # Digital Discovery - Sprint 10
 <i>Show & Tell duration: 20 minutes</i>
 
-[Martyn](https://unboxed.co/team/#martyn-evans) stepped up to the plate to recollect and share the progress achieved by the Digital Team across Sprint 10, including:<br/>
+[Martyn](https://unboxed.co/people/#martyn-evans) stepped up to the plate to recollect and share the progress achieved by the Digital Team across Sprint 10, including:<br/>
 
 - The Show & Tell roadshow – delivering a series of Show & Tell sessions by going into each relevant service department (including Housing, Homelessness and Children’s Services) across the borough to share progress with a much wider audience and gain more stakeholder buy-in
 - Further iterations of the current eight user personas (including our old friend Jenny – the original Newham persona)

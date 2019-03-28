@@ -19,14 +19,6 @@ services:
       text: "Build a culture of agile, cross- functional collaboration and continuous learning to support your growing digital services."
       link: "/services/grow-and-improve"
 
-principles:
-  title: "The Unboxed Way"
-  content: 
-    - "“The Unboxed Way” is a guide to the way in which we do things at Unboxed." 
-    - "As our general set of principles, it has been grown and developed by our team through open discussion and collaboration."
-  image: "prose/unboxed_principles.jpg"
-  link: "/the-unboxed-way/unboxed-principles"
-
 products:
   title: "Who we work with"
   client_logos:
@@ -87,15 +79,21 @@ products:
     - name: "Macmillan Cancer Support"
       image: "/assets/images/homepage/logo-macmillan.png"
 
+contact:
+  title: "What about you?"
+  text: "Martyn is our Head of Product. If you have a challenge, or even just a question, get in touch:"
+  email: "hello@unboxed.co"
+  display_email: "martyn.evans@unboxed.co"
+  email_subject: "Homepage enquiry"
+  acknowledgement: "Thanks for sending, we’ll be in touch."
+  image_description: "Martyn Evans"
+
 newsletter:
   title: "Our newsletter"
   text: "Or if you're not currently facing any challenges, we'd love to connect anyway. Pop in your email address and join the world of Unboxed through our updates:"
 
 blog_title: "What we have been blogging about"
 
-call_to_action:
-  title: "Do you have a project in mind?"
-  link: "mailto:hello@unboxed.co"
 ---
 
 <div class="homepage">
@@ -135,8 +133,61 @@ call_to_action:
     <% end %>
   </section>
 
-
   <%= partial 'showcase_tiles_section' , locals: current_page.data.products %>
+
+  <section class="homepage-contact">
+    <div class="homepage-contact__container">
+      <h2 class="homepage-contact__title">
+        <%= current_page.data.contact.title %>
+      </h2>
+
+      <%= image_tag "/assets/images/homepage/contact--mobile.jpg", alt: current_page.data.contact.image_description, class: "homepage-contact__image", srcset: "/assets/images/homepage/contact--mobile@2x.jpg 2x" %>
+
+      <p class="homepage-contact__paragraph">
+        <%= current_page.data.contact.text %>
+      </p>
+
+      <form class="homepage-contact-form" id="contact-form" action="//formspree.io/<%= current_page.data.contact.email %>" method="POST" data-required-form>
+        <p class="homepage-contact-form__to-disabled-input" data-to="<%= current_page.data.contact.display_email %>"></p>
+        <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_next" value="/#contact-form" />
+        <input type="hidden" name="_subject" value="<%= current_page.data.contact.email_subject %>" />
+        <input class="homepage-contact-form__email-input" type="email" name="_replyto" placeholder="Your email" required />
+        <textarea class="homepage-contact-form__message-input" name="comment" placeholder="Message" required></textarea>
+        <input class="homepage-contact-form__send-button" type="submit" value="Send">
+      </form>
+
+      <div class="homepage-contact-form__acknowledgement">
+        <%= current_page.data.contact.acknowledgement %>
+      </div>
+
+      <script>
+        document.querySelector('[data-required-form]').onsubmit = function (event) {
+          var elements = this.querySelectorAll('[required]');
+          for (var i = 0; i < elements.length; i++) {
+            if (elements[i].value === '' || elements[i].value === elements[i].placeholder) {
+              elements[i].classList.add('error');
+              event.preventDefault ? event.preventDefault() : (window.event.returnValue = false);
+            } else {
+              elements[i].classList.remove('error');
+            }
+          }
+        };
+      </script>
+    </div>
+  </section>
+
+  <section class="homepage-newsletter">
+    <h2 class="homepage-newsletter__title">
+      <%= current_page.data.newsletter.title %>
+    </h2>
+
+    <p class="homepage-newsletter__paragraph">
+      <%= current_page.data.newsletter.text %>
+    </p>
+
+    <%= partial 'newsletter', locals: { block_class: 'homepage-newsletter', onclick_function: 'sendToGaHomePageSubscribeClickEvent()' } %>
+  </section>
 
   <section class="showcase-tiles-section">
     <h2 class="showcase-tiles-section__title">
@@ -163,33 +214,7 @@ call_to_action:
       </a>
     <% end %>
   </section>
-
-  <section class="homepage-principles" data-header-waypoint>
-    <div class="homepage-principles__left_con">
-      <h2 class="services__title">
-        <%= current_page.data.principles.title %>
-      </h2>
-        <% current_page.data.principles.content.each do |content| %>
-          <p class="homepage-contact__paragraph">
-            <%= content %>
-          </p>
-        <% end %>
-      <a class="service__button" href=<%= current_page.data.principles.link %>>
-        See our principles
-      </a>
-    </div>
-    <div class="homepage-principles__right_con"> 
-      <%= image_tag(current_page.data.principles.image, class: "homepage-principles__image") %>
-    </div>
-  </section>
 </div>
-
-<section class="call-to-action-section">
-  <h2 class="call-to-action-section__title">
-    <%= current_page.data.call_to_action.title %>
-  </h2>
-  <a class="service__button" href=<%= current_page.data.call_to_action.link %>>Get in touch</a>
-</section>
 
 <%= partial 'book_meeting' %>
 

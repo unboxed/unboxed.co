@@ -16,13 +16,13 @@ On Friday 7th July, a small crowd of developers from Unboxed made their way sout
 
 Presentations at this one day, single track conference covered a broad range of topics including Ruby language features, debugging tips, music generation, inclusion and psychology as well as many others. This post outlines a selection of our impressions from the day.
 
-## [Vinul W](/team#vinul-wimalaweera)
+## [Vinul W](/people#vinul-wimalaweera)
 
 Conference pick: [Ruby Paper Scissors - Dot Wingrove](https://brightonruby.com/2017/ruby-paper-scissors-dot-wingrove/)
 
 This talk focussed on the techniques utilised in code to win Rock Paper Scissors. The talk was interesting, utilising the case study of Iocaine Powder which won the Rock Paper Scissors bot championship in 1999. It was interesting to see how the bot grew from a simple bot that only outputted one result to one of increasing complexity that could recognise patterns in its opponents gameplay.
 
-## [Tom S](/team#tom-sabin)
+## [Tom S](/people#tom-sabin)
 
 Conference pick: [Can My Friends Come Too? - Andrew Nesbitt](https://brightonruby.com/2017/can-my-friends-come-too-andrew-nesbitt/)
 
@@ -39,7 +39,7 @@ Final thoughts were "a puppy is for life, not just for Christmas" and that you s
 
 I learnt of a new gem, [LicenseFinder](https://github.com/pivotal/LicenseFinder), to detect the licenses of all dependencies. We also briefly covered [bundler-audit](https://github.com/rubysec/bundler-audit) to check for vulnerabilities which we already have configured in our CircleCI builds.
 
-## [Abraao M](/team#abraao-mota)
+## [Abraao M](/people#abraao-mota)
 
 Conference pick: [Ruby Paper Scissors - Dot Wingrove](https://brightonruby.com/2017/ruby-paper-scissors-dot-wingrove/)
 
@@ -47,7 +47,7 @@ I really enjoyed the Rock-Paper-Scissors talk - it delved into game-theory (one 
 
 ![Brighton Ruby 2017 - Unboxed developers on the seafront](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/brighton-ruby-2017-seafront.jpg)
 
-## [Murray S](/team#murray-steele)
+## [Murray S](/people#murray-steele)
 
 I could recommend most of the talks from Brighton Ruby this year.  There was a really high standard and I got something out of most of them.  When the videos come out you wouldn't be wasting any time if you sat down and watched them all.  If you are a little time constrained then I'd suggest you watch opening keynote ["Lucky"](https://brightonruby.com/2017/lucky-saron-yitbarek/) by [Saron Yitbarek](https://twitter.com/saronyitbarek), ["Ruby Paper Scissors"](https://brightonruby.com/2017/ruby-paper-scissors-dot-wingrove/) by [Dot Wingrove](https://twitter.com/notthepoint), ["Debugging for New Developers"](https://brightonruby.com/2017/debugging-for-new-developers-ali-najaf/) by [Najaf Ali](https://twitter.com/alinajaf), ["This code sucks: A Story about non-violent communication"](https://brightonruby.com/2017/this-code-sucks-a-story-about-non-violent-communication-nadia-odunayo/) by [Nadia Odunayo](https://twitter.com/nodunayo), ["Eigen What now?"](https://brightonruby.com/2017/eigen-what-now-eliza-de-jager/) by [Eliza de Jager](https://twitter.com/code_kitten), and the closing keynote ["Livable Code"](https://brightonruby.com/2017/livable-code-sarah-mei/) by [Sarah Mei](https://twitter.com/sarahmei).  This is not to say none of the other talks were good, but these are the ones that stood out and gave me the most to think about.
 
@@ -55,13 +55,13 @@ Admittedly I'm recommending you watch roughly half of the talks, so this isn't g
 
 ![Brighton Ruby 2017 - Unboxed developers outside the Brighton Pavilion](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/brighton-ruby-2017-outdoors.jpg)
 
-## [Charlie E](/team#charlie-egan)
+## [Charlie E](/people#charlie-egan)
 
 Conference pick: [Ruby Paper Scissors - Dot Wingrove](https://brightonruby.com/2017/ruby-paper-scissors-dot-wingrove/)
 
 This talk was about the implementation for a Rock-Paper-Scissors bot called 'Iocaine Powder'. I think what was interesting about this talk for me was that it was possible to have a strategy that worked for a game that always appeared to be purely mind games and luck.
 
-## [Neil vB](/team#neil-van-beinum)
+## [Neil vB](/people#neil-van-beinum)
 
 Conference pick: [Can My Friends Come Too? - Andrew Nesbitt](https://brightonruby.com/2017/can-my-friends-come-too-andrew-nesbitt/)
 
@@ -69,7 +69,7 @@ Conference pick: [Can My Friends Come Too? - Andrew Nesbitt](https://brightonrub
 
 This talk from the creator of [libraries.io](https://libraries.io/) highlighted the fact that our apps are built "on the shoulders of giants" and how we as developers are taking on a "responsibility of care" when we rely on third-party libraries. Statistics supporting the talk, such as an average of 52 gems used in Gemfile.lock files in open source projects, and that the vast majority of gems maintained by a sole developer, helped reinforce the message that we do not develop our apps in a vacuum. By using practical tips from this talk such as pruning unused dependencies, keeping gems up to date and using other tools which check licenses and security, we can give ourselves the best chances of keeping our app's "support network" as healthy as possible.
 
-## [Elena T](/team#elena-tanasoiu)
+## [Elena T](/people#elena-tanasoiu)
 
 Conference pick: [Debugging for New Developers - Najaf Ali](https://brightonruby.com/2017/debugging-for-new-developers-ali-najaf/)
 

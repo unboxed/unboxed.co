@@ -15,13 +15,13 @@ http://hamberg.no/erlend/posts/2013-11-29-git-autosquash.html
 
 A nifty efficiency boost for squashing your branches
 
-## Actually using the database - [Murray](/team#murray-steele)
+## Actually using the database - [Murray](/people#murray-steele)
 
 https://bendyworks.com/actually-using-the-database/
 
 This article explores (in the context of writing a Haskell application) actually letting our databases do what they're good at and making use of their features to provide some of the things that our frameworks deal with in code.  Rails suggests keeping all the business logic of our application in the rails code and simply treating the database as a dumb store.  A large part of this approach is about being agnostic to the underlying db so it's interesting to look at alternative approaches and think about what we miss-out on by using a one-size fits all framework.
 
-## Start afresh every day - [Murray](/team#murray-steele)
+## Start afresh every day - [Murray](/people#murray-steele)
 
 http://articles.coreyhaines.com/posts/short-lived-branches/
 

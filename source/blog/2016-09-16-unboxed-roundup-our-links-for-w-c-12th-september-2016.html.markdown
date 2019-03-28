@@ -19,19 +19,19 @@ Try running your files through this lovely little app - think of it like Photosh
 
 Oh, and it runs offline once you've cached it in your browser, which is nice.
 
-## The GitHub GraphQL API - [Henry T](/team#henry-turner)
+## The GitHub GraphQL API - [Henry T](/people#henry-turner)
 
 http://githubengineering.com/the-github-graphql-api/
 
 Github are moving away from RESTful JSON APIs and towards Facebook's GraphQL. [The Overview/Usage section of the Ruby gem they used](https://github.com/rmosolgo/graphql-ruby#overview) gives you a quick idea of what an implementation looks like.
 
-## Slack's Architecture with Keith Adams - [Charlie E](/team#charlie-egan)
+## Slack's Architecture with Keith Adams - [Charlie E](/people#charlie-egan)
 
 http://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/
 
 Not sure how keen everyone is on podcasts but if you've ever wondered how Slack fits together behind the scenes this is worth a listen. (As are many of the other episodes for that matter)
 
-## Track of the Week - [Richard S](/team#richard-stobart)
+## Track of the Week - [Richard S](/people#richard-stobart)
 
 A friend of mine has this on a continuous loop and forced me to listen to it more than once!
 

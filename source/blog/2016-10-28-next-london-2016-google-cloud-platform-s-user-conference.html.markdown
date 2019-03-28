@@ -17,7 +17,7 @@ Paula and I attended last Friday’s [NEXT London 2016 - Google Cloud Platform's
 Across the day, we attended a number of sessions from the Plenary and Breakout tracks. Here are our summaries of some these talks... <br/>
 <br/>
 
-## GCP Next 2016 conference impressions - [Charlie](https://unboxed.co/team#charlie-egan)
+## GCP Next 2016 conference impressions - [Charlie](https://unboxed.co/people#charlie-egan)
 
 # Painless container management with Google Container Engine & Kubernetes
 This was the first talk in the big hall. Craig Box gave a similar overview of
@@ -84,7 +84,7 @@ the process and was a great bonus - people were clearly interested, but
 skeptical, in the SRE setup.<br/>
 <br/>
 
-## GCP Next 2016 conference impressions - [Paula](https://unboxed.co/team#paula-stepinska)
+## GCP Next 2016 conference impressions - [Paula](https://unboxed.co/people#paula-stepinska)
 
 This certainly was a big selling event. But Google managed to spark the interest
 in their different Google Cloud products, presenting how to solve real problems

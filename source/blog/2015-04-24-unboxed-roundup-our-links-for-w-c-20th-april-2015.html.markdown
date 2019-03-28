@@ -9,7 +9,7 @@ tags:
   - Culture
 ---
 
-## Speeding up the front-end - [Murray S](/team#murray-steele)
+## Speeding up the front-end - [Murray S](/people#murray-steele)
 
 http://viget.com/extend/rails-front-end-performance
 
@@ -23,7 +23,7 @@ This contains loads of awesome features, and you should read the blog post at ht
 
 GitLab CI now contains "Deploy Jobs", which are jobs that are triggered on the successful completion of a build. With this change, it's much easier to replace a Jenkins instance (which has historically had very poor integration with GitLab) with a GitLab CI instance, for all your shiny continuous integration needs.
 
-## Everyone has JS - [Murray S](/team#murray-steele)
+## Everyone has JS - [Murray S](/people#murray-steele)
 
 http://kryogenix.org/code/browser/everyonehasjs.html
 

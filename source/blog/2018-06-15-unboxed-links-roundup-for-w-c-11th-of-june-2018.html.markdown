@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## A better approach to transforming healthcare systems - [Martyn E](/team#martyn-evans)
+## A better approach to transforming healthcare systems - [Martyn E](/people#martyn-evans)
 
 https://www.digitalhealth.net/2018/06/the-have-nots-could-overtake-exemplars-in-the-interoperability-stakes/
 
@@ -20,20 +20,20 @@ build on that success. Remove the pressures of delivering large, cumbersome
 programmes, and show people what good looks like, and they will be inspired to
 do the same, or more.
 
-## How I became Leonardo da Vinci on the Blockchain - [Elena T](/team#elena-tanasoiu)
+## How I became Leonardo da Vinci on the Blockchain - [Elena T](/people#elena-tanasoiu)
 
 https://shkspr.mobi/blog/2018/06/how-i-became-leonardo-da-vinci-on-the-blockchain/
 
 On the state of verification on the bitcoin blockchain.
 
-## Aynchronous Ruby - [Elena T](/team#elena-tanasoiu)
+## Aynchronous Ruby - [Elena T](/people#elena-tanasoiu)
 
 https://www.codeotaku.com/journal/2018-06/asynchronous-ruby/index
 
 A Ruby gem that uses the reactor pattern to implement co-routines
 (aka "fibers") for concurrent execution.
 
-## Designing a GraphQL API - [Andrew W](/team#andrew-white)
+## Designing a GraphQL API - [Andrew W](/people#andrew-white)
 
 https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2
 
@@ -43,14 +43,14 @@ tutorial created by Scott Walkinshaw at Shopify sets out a set of ground rules
 to follow and how to avoid some of the pitfalls that Shopify made when designing
 their API.
 
-## Ruby's External Malloc Problem - [Elena T](/team#elena-tanasoiu)
+## Ruby's External Malloc Problem - [Elena T](/people#elena-tanasoiu)
 
 https://samsaffron.com/archive/2018/06/13/ruby-x27-s-external-malloc-problem
 
 A source of memory bloat in Ruby triggered by the PG gem is gaining new
 interest.
 
-## What your git commits say about your repo - [Murray S](/team#murray-steele)
+## What your git commits say about your repo - [Murray S](/people#murray-steele)
 
 https://medium.com/@FutureLearn/telling-one-word-stories-with-your-git-history-d24910fd0996
 
@@ -58,7 +58,7 @@ In this article, [Simon Coffey](https://twitter.com/urbanautomaton) describes
 what he found out after doing some analysis of the commit messages on the
 repository at his work.  The long tail is, as ever, where it gets interesting.
 
-## Track of the Week - [Lawrence R](/team#lawrence-richards)
+## Track of the Week - [Lawrence R](/people#lawrence-richards)
 
 It's my track of the week!
 

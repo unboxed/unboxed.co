@@ -9,19 +9,19 @@ tags: # (Delete as appropriate)
 
 ---
 
-## GTA V Graphics Study - [Charlie](/team#charlie-egan)
+## GTA V Graphics Study - [Charlie](/people#charlie-egan)
 
 http://www.adriancourreges.com/blog/2015/11/02/gta-v-graphics-study
 
 Saw this mentioned in the comments to a similar, [more recent write up](https://interplayoflight.wordpress.com/2017/10/25/how-unreal-renders-a-frame/) for unreal. This explains the surprisingly many things that an engine must do to build up an apparently simple video game scene. Lots of nice pictures explaining the process along the way.
 
-## Festo's Fantastical Flying Robots - [Elena T](/team#elena-tanasoiu)
+## Festo's Fantastical Flying Robots - [Elena T](/people#elena-tanasoiu)
 
 https://spectrum.ieee.org/video/robotics/robotics-hardware/festos-fantastical-flying-robots
 
 A really cool presentation of some rare flying robots with unusual design. Quite fun to watch.
 
-## Frontend doesn't mean Javascript - [Murray S](/team#murray-steele)
+## Frontend doesn't mean Javascript - [Murray S](/people#murray-steele)
 
 https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06
 
@@ -34,7 +34,7 @@ browser performance, or accessibility, or any of the other things that
 help us make our sites work well for all users.  Turns out I'm not the
 only one that feels this way.
 
-## Track of the Week - [Graeme M](/team#graeme-mccubbin)
+## Track of the Week - [Graeme M](/people#graeme-mccubbin)
 
 I came across this song on a YouTube trawl, which I originally thought was a parody (I'm still not sure if it is or not…). The 80's throwback makes it a pleasant little number.
 

@@ -15,7 +15,7 @@ https://tech.bellycard.com/blog/sass-mixins-vs-extends-the-data/
 
 If mixins and extends both have some amount of duplication, which is best?
 
-## TDD in the games industry - [Murray](/team#murray-steele)
+## TDD in the games industry - [Murray](/people#murray-steele)
 
 http://chrismdp.com/2015/03/why-games-coders-dont-use-tdd-and-why-it-matters/
 
@@ -27,7 +27,7 @@ http://www.hackerchick.com/2009/01/why-you-should-let-your-developers-surf.html
 
 Only when everybody is moving fast can the system as a whole move faster. Local optimisations not only don't work, in software development they can actually create waste.
 
-## Thanks to Service Workers push notifications is no longer only mobile device feature - [Paula](/team#paula-stepinska)
+## Thanks to Service Workers push notifications is no longer only mobile device feature - [Paula](/people#paula-stepinska)
 
 http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web
 
@@ -39,7 +39,7 @@ https://packagecontrol.io/packages/GhostText
 
 Use Sublime Text to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 
-## Design by Contract in Ruby - [Murray](/team#murray-steele)
+## Design by Contract in Ruby - [Murray](/people#murray-steele)
 
 http://awardwinningfjords.com/2015/03/03/my-weird-ruby.html
 

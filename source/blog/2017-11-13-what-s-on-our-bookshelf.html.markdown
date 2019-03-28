@@ -23,7 +23,7 @@ Here are some titles that have been key reads within our team over the last few 
 # Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously
 By Jeff Gothelf and Josh Seiden<br/>
 
-Reader: [Boris Divjak](https://unboxed.co/team#boris-divjak)<br/>
+Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)<br/>
 
 ![Sense and Respond: How Successful Organizations Listen to Customers and Create New Products Continuously](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e92a80c36de684a339eaf22e761098b3.png)
 
@@ -40,7 +40,7 @@ Recommended for business managers interested in innovation and culture change as
 # Sprint: How to solve big problems and test new ideas in just five days
 By Jake Knapp, John Zeratsky and Braden Kowitz<br/>
 
-Reader: [Matt Turrell](https://unboxed.co/team#matt-turrell)<br/>
+Reader: [Matt Turrell](https://unboxed.co/people#matt-turrell)<br/>
 
 ![Sprint - how to solve big problems and test new ideas in just five days](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e2acf7d1e9e29872f8126847c2f16b7e.png)
 
@@ -59,7 +59,7 @@ A worthwhile read… And essential if you’re going to be running the process!<
 # The Service Innovation Handbook: Action-oriented Creative Thinking Toolkit for Service Organizations
 By Lucy Kimbell<br/>
 
-Reader: [Boris Divjak](https://unboxed.co/team#boris-divjak)<br/>
+Reader: [Boris Divjak](https://unboxed.co/people#boris-divjak)<br/>
 
 [Link](https://www.amazon.co.uk/Service-Innovation-Handbook-Action-oriented-Organizations/dp/9063693532/ref=sr_1_1?ie=UTF8&qid=1504517846&sr=8-1&keywords=handbook+service+innovation)<br/>
 
@@ -73,7 +73,7 @@ And a title that's not quite part of the Unboxed bookshelf, but gets a special m
 # Good Omens
 By Terry Pratchett and Neil Gaiman<br/>
 
-Reader: [Elena Tanasoiu](https://unboxed.co/team#elena-tanasoiu)<br/>
+Reader: [Elena Tanasoiu](https://unboxed.co/people#elena-tanasoiu)<br/>
 
 [Link](https://www.goodreads.com/book/show/12067.Good_Omens)<br/>
 

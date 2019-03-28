@@ -11,7 +11,7 @@ tags:
 
 Stalled products in your product portfolio, a situation which is ultimately frustrating.<br/>
 
-So how do you rapidly progress these products through the pipeline, and towards the glowing light at the other end? Following on from our [<i>#StuckPipeline</i> event](/blog/ubxd-event-kicking-the-cobwebs-out-of-your-stuck-digital-product-pipeline), we've pulled some insightful gems from four industry experts (including our own [Richard Stobart](/team#richard-stobart)) to share with you.<br/>
+So how do you rapidly progress these products through the pipeline, and towards the glowing light at the other end? Following on from our [<i>#StuckPipeline</i> event](/blog/ubxd-event-kicking-the-cobwebs-out-of-your-stuck-digital-product-pipeline), we've pulled some insightful gems from four industry experts (including our own [Richard Stobart](/people#richard-stobart)) to share with you.<br/>
 
 <h1>Unstick your product pipeline:</h1>
 

@@ -37,7 +37,7 @@ It is always nice going to a party! Invite New Joiners to social activities befo
 Give New Joiners access to your systems before they start. At Unboxed Consulting we have  our UBXD Induction Game in the form of a Trello board with activities for the New Joiner to complete. We have ensured that it facilitates interaction with key business people in their early days, is simplified so that business critical operations are covered and makes learning about the organisation fun.
 
 
-One of the tasks on the UBXD Induction Game Trello board relates to the [caricatures](/team) that we have on our virtual and physical walls. A New Joiner looks on our “Wall of Faces” to identify who they have met during the recruitment process and who they will be working with on their first project. It helps us to identify who the New Joiner has yet to meet too.
+One of the tasks on the UBXD Induction Game Trello board relates to the [caricatures](/people) that we have on our virtual and physical walls. A New Joiner looks on our “Wall of Faces” to identify who they have met during the recruitment process and who they will be working with on their first project. It helps us to identify who the New Joiner has yet to meet too.
 
 <p align="center"><img src="https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/914b4e5661e12fa108ffd4af5aa61bef.jpg" alt="image1" height="449" width="581"></p>
 

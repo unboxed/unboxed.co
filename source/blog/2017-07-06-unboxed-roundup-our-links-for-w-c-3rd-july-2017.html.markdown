@@ -9,19 +9,19 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Why do mirrors flip horizontally (but not vertically)? - [Ben W](/team#ben-wong)
+## Why do mirrors flip horizontally (but not vertically)? - [Ben W](/people#ben-wong)
 
 https://youtu.be/vBpxhfBlVLU
 
 I found this a cool explanation, especially the bit where she flips the card with a bit of text.
 
-## The concepts of CSS grid layout - [Tom S](/team/#tom-sabin)
+## The concepts of CSS grid layout - [Tom S](/people/#tom-sabin)
 
 https://fettblog.eu/grid-concepts
 
 The grid layout is a hot topic right now, and there are volumes of articles about it. However, this article found from CSS Weekly covers the major concepts which at first seem very different to the normal CSS properties you are used to seeing. It's no doubt that when this is widely supported and can be used on production sites, that it will be a game changer for front end development.
 
-## The 10x Developer - [Murray S](/team#murray-steele)
+## The 10x Developer - [Murray S](/people#murray-steele)
 
 http://blog.jessitron.com/2017/06/the-most-productive-circumstances-for.html
 
@@ -47,7 +47,7 @@ spread the knowledge around your team and help make everyone a better
 developer.  I look forward to using them when I next realise I'm in the
 same position.
 
-## Track of the Week - [Steve L](/team#steve-lennon)
+## Track of the Week - [Steve L](/people#steve-lennon)
 
 It’s my 5 year wedding anniversary tomorrow and this song was our first dance. Happy memories.
 

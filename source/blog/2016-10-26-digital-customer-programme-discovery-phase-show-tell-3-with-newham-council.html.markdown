@@ -18,7 +18,7 @@ With a couple of sprints under their belts since last there, I went along to New
 # Digital Discovery - Sprint Three
 <i>Show & Tell duration: 20 minutes</i>
 
-Led by [Martyn](https://unboxed.co/team/#martyn-evans) and Paul (the service designer of the project), the team shared the progress that has been happening across the previous one-week sprint of the project, with stakeholders and interested parties from around the council.
+Led by [Martyn](https://unboxed.co/people/#martyn-evans) and Paul (the service designer of the project), the team shared the progress that has been happening across the previous one-week sprint of the project, with stakeholders and interested parties from around the council.
 
 A few examples of important progress milestones the team have achieved include:
 

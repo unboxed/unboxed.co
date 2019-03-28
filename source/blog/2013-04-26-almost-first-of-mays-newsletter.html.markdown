@@ -5,14 +5,14 @@ published: true
 title: "Almost April's last newsletter"
 authors:
   - Tom ten Thij
-tags:
+tags: 
   - Rails
 main_image: ""
 ---
 
 
 
-## [Murray Steele](/team#murray-steele)
+## [Murray Steele](/people#murray-steele)
 [Public Domain is not Open Source](http://opensource.org/faq#public-domain)
 
 I have a personal preference for not putting a license on software, because there are too many debates to be had about which is the "best" OSS license.  Until now, if asked I'd just say my stuff is public domain, or at a push, [CC0](http://creativecommons.org/about/cc0).  Turns out that according to the above (admittedly biased) [FAQ](http://opensource.org/faq#public-domain) this decision might be a bad one, and they suggest that [CC0](http://opensource.org/faq#cc-zero) isn't good enough either.
