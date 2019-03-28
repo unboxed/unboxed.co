@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## What does it mean to be "senior"? - [Murray S](/team#murray-steele)
+## What does it mean to be "senior"? - [Murray S](/people#murray-steele)
 
 http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 
@@ -24,13 +24,13 @@ of "senior" I want to be.
 
 <small><a name="fn-1">*</a>: delete as appropriate. You can call yourselves whatever you want.  But not ninja-rockstars, m'kay?</small>
 
-## Scrimba - [Charlie](/team#charlie-egan)
+## Scrimba - [Charlie](/people#charlie-egan)
 
 https://scrimba.com
 
 This is a tool to create short video demonstrations of simple web 'programs'. Sort of like [asciinema](https://asciinema.org) only more... webby?
 
-## Google Cloud Container Builder - [Charlie](/team#charlie-egan)
+## Google Cloud Container Builder - [Charlie](/people#charlie-egan)
 
 https://cloudplatform.googleblog.com/2017/03/Google-Cloud-Container-Builder-a-fast-and-flexible-way-to-package-your-software.html
 
@@ -40,13 +40,13 @@ and [Distelli](https://www.distelli.com) but found both had their quirks when de
 to a GCE cluster. I've yet to play with GCCB but hopefully better ease of use will
 come from the closer integration.
 
-## Faster RSpec - [Elena T](/team#elena-tanasoiu)
+## Faster RSpec - [Elena T](/people#elena-tanasoiu)
 
 https://www.wetestrails.com/blog/profiling-factorygirl
 
 I found this article interesting because it describes how you can use a profiling tool to optimize your usage of FactoryGirl. The tool is called, unsurprisingly, FactoryGirlProfiler. It allows you to see which factories are taking up the most time, and hopefully give you a better picture of your usage.
 
-## Don't Rush - [Elena T](/team#elena-tanasoiu)
+## Don't Rush - [Elena T](/people#elena-tanasoiu)
 
 https://robots.thoughtbot.com/don-t-rush
 
@@ -54,7 +54,7 @@ This article is about product design, but I believe it can be applied to softwar
 
 The article compares the way London and New York have been designed as cities. In London, there was no master design and everyone focused on their own patch of land. New York, on the other hand, was designed with a plan in mind from the start. According to the author, the result is that one is a city that is easier to use, although they are both equally beautiful.
 
-## Track of the Week - [Matt T](/team#matt-turrell)
+## Track of the Week - [Matt T](/people#matt-turrell)
 
 This is one of my faves at the moment, I love it because it's uplifting and hints at summer fun!
 

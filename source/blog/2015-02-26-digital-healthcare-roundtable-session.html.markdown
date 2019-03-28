@@ -18,7 +18,7 @@ Wednesday 18th February saw the Digital Healthcare Roundtable Session take place
 <br/>
 The session brought together a handpicked and diverse group of healthcare experts and leaders, with the aim to start a revolution in digital healthcare. Ideas were explored and exchanged about how we can do more to improve public health with digital technology, in this one-off discussion.<br/>
 <br/>
-[Martyn Evans](/team#martyn-evans) and [Carrie Bedingfield](/team#carrie-bedingfield) both attended from Unboxed Consulting, with Carrie chairing the session.<br/>
+[Martyn Evans](/people#martyn-evans) and [Carrie Bedingfield](/people#carrie-bedingfield) both attended from Unboxed Consulting, with Carrie chairing the session.<br/>
 <br/>
 ![healthcare1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/91dc2c77df67d6d63dfac24d7c99a440.png)
 

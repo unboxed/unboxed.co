@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Scaling Scrum - [Matt T](/team#matt-turrell)
+## Scaling Scrum - [Matt T](/people#matt-turrell)
 
 http://www.agile42.com/en/blog/2014/01/14/scaling-scrum-organisation/
 
@@ -27,13 +27,13 @@ The Chrome web inspector is right up there as one of my most used tools when dev
 
 Whether it’s prototyping basic mockups for a new feature from existing pages, checking the amount of padding needed on a heading, or explaining just how that very long piece of content breaks a layout on mobile viewports, the folk at GDS provide a great overview for devs, testers and designers alike on how to get the most out of that Elements panel.
 
-## How could banks with multiple branches work in a world without quick communication? - [Charlie E](/team#charlie-egan)
+## How could banks with multiple branches work in a world without quick communication? - [Charlie E](/people#charlie-egan)
 
 http://worldbuilding.stackexchange.com/questions/57014/how-could-banks-with-multiple-branches-work-in-a-world-without-quick-communicati
 
 This stackexchange site has [loads of interesting questions](http://worldbuilding.stackexchange.com/questions?sort=votes). This is a good one from this week about banking and systems of trust. The answers have interesting parallels with TransferWise, cryptocurrencies and the like.
 
-## React Props/State Explained Through Darth Vader's Hunt for the Rebels - [Chris H](/team#chris-holmes)
+## React Props/State Explained Through Darth Vader's Hunt for the Rebels - [Chris H](/people#chris-holmes)
 
 https://medium.freecodecamp.com/react-props-state-explained-through-darth-vaders-hunt-for-the-rebels-8ee486576492
 

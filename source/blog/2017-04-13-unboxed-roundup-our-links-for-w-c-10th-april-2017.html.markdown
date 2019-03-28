@@ -8,7 +8,7 @@ tags: # (Delete as appropriate)
 - Culture
 
 ---
-## Managing GitHub with Terraform - [Andrew W](/team#andrew-white)
+## Managing GitHub with Terraform - [Andrew W](/people#andrew-white)
 
 https://www.hashicorp.com/blog/managing-github-with-terraform/
 
@@ -17,19 +17,19 @@ that you could use it for other things. In this article Seth Vargo from Hashicor
 shows you to use it to manage your GitHub repos and automate laborious tasks such
 as ensuring a consistent set of labels across your repos.
 
-## Grid Garden - [Charlie](/team#charlie-egan)
+## Grid Garden - [Charlie](/people#charlie-egan)
 
 http://cssgridgarden.com
 
 Support for CSS grid is [coming along nicely](http://caniuse.com/#feat=css-grid) - this is a simple horticultural game demonstrating it's functionality.
 
-## Consolia Comics: Containers and docker - [Charlie](/team#charlie-egan)
+## Consolia Comics: Containers and docker - [Charlie](/people#charlie-egan)
 
 https://consolia-comic.com/comics/containers-and-docker
 
 If you like explanatory comics and don't know what containers are or how they relate to docker and VMs this might be worth a look over.
 
-## Kurzweil Claims That the Singularity Will Happen by 2045 - [Elena](/team#elena-tanasoiu)
+## Kurzweil Claims That the Singularity Will Happen by 2045 - [Elena](/people#elena-tanasoiu)
 
 https://futurism.com/kurzweil-claims-that-the-singularity-will-happen-by-2045/
 
@@ -37,7 +37,7 @@ Google's Director of Engineering has a reputation for making informed prediction
 
 He suggests that it will actually be used, as any current technology, to enhance our own capabilities instead of being a stand alone entity. Specifically he goes a step further and talks about hooking this AI up to our own neocortex. To quote Kurzweil: "We're going to get more neocortex, we're going to be funnier, we're going to be better at music. [...] We're really going to exemplify all the things that we value in humans to a greater degree." One can only hope more brain power means enhanced understanding of the world. We certainly need more of that.
 
-## Humanity in a virtual Petri dish - [Elena](/team#elena-tanasoiu)
+## Humanity in a virtual Petri dish - [Elena](/people#elena-tanasoiu)
 
 https://digitalculturist.com/when-pixels-collide-reddit-place-and-the-creation-of-art-3f9c15cc3d82
 
@@ -47,7 +47,7 @@ This year it's been about getting the ability to place a pixel every few minuts 
 
 Full timelapse: https://www.youtube.com/watch?v=XnRCZK3KjUY
 
-## A React Rendering Misconception - [Elena](/team#elena-tanasoiu)
+## A React Rendering Misconception - [Elena](/people#elena-tanasoiu)
 
 https://robots.thoughtbot.com/react-rendering-misconception
 
@@ -57,7 +57,7 @@ This article explains how we can take advantage of React's lifecycle hooks by us
 
 This cuts down on automatic re-rendering as we are more in control of when the DOM gets updated, saving us valuable CPU power.
 
-## Track of the Week - [Ben W](/team#ben-wong)
+## Track of the Week - [Ben W](/people#ben-wong)
 
 The 2013 Tony Awards opening number, where Neil Patrick Harris:
 

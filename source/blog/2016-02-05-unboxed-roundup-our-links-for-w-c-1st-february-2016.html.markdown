@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Stop sleeping in your tests - [Andrew W](/team#andrew-white)
+## Stop sleeping in your tests - [Andrew W](/people#andrew-white)
 
 https://github.com/schneems/wait_for_it
 
@@ -22,7 +22,7 @@ http://bit.ly/1PCXg6n
 
 I found this blog post whilst flicking through the pages on www about human response to technology evolution. Firms fight for new talent entering the market but it seems that  there is a greater need to maximise the value of employees’ knowledge than planning career development within a particular firm.
 
-## On Net Promoter and Data Golems - [Andrew W](/team#andrew-white)
+## On Net Promoter and Data Golems - [Andrew W](/people#andrew-white)
 
 https://medium.com/on-human-centric-systems/on-net-promoter-and-data-golems-a4af7575fa5b#.g1jjf1vcl
 
@@ -34,19 +34,19 @@ https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f
 
 Angry man post lampooning what Node.js + javascript frameworks (aka SPA's) have done to modern websites. Behind the ridicule is a message to web developers to keep things lean, mean and use the simplest tool to get the job done
 
-## Get free SSL certificates for your CloudFront/S3 website - [Andrew W](/team#andrew-white)
+## Get free SSL certificates for your CloudFront/S3 website - [Andrew W](/people#andrew-white)
 
 https://blog.webinista.com/2016/02/enable-https-cloudfront-certificate-manager-s3/index.html
 
 If you host your website on S3 with CloudFront in front of it then the recently launched AWS Certificate Manager gives you free, renewable SSL certs that are easy to install. Tiffany B. Brown walks you through how to set it up and tells you about the common problems you may have doing it.
 
-## Bye Bye Parse - [Tom S](/team#tom-sabin)
+## Bye Bye Parse - [Tom S](/people#tom-sabin)
 
 http://blog.parse.com/announcements/moving-on/
 
 I’ve only fairly recently found Parse, but since being acquired by Facebook, it is being shut down. The service will run until early 2017.
 
-## Performance Tuning Queries in PostgreSQL - [Andrew W](/team#andrew-white)
+## Performance Tuning Queries in PostgreSQL - [Andrew W](/people#andrew-white)
 
 http://www.geekytidbits.com/performance-tuning-postgres/
 

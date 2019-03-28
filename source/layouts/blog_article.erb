@@ -24,7 +24,7 @@
         <div class="blog-header__subtitle">
           <% authors.each_with_index do |author, index| %>
             <% if author.short_name.present? %>
-              <a class="blog-header__author--linked" href="/team#<%= author.short_name %>" rel="author"><%= author.name %></a><%= ", " if index != authors.size - 1 %>
+              <a class="blog-header__author--linked" href="/people#<%= author.short_name %>" rel="author"><%= author.name %></a><%= ", " if index != authors.size - 1 %>
             <% else %>
               <div class="blog-header__author"><%= author.name %></div><%= ", " if index != authors.size - 1 %>
             <% end %>
@@ -57,11 +57,11 @@
     <div class="blog-footer__container">
       <% article_info.current_authors.each_with_index do |a, i| %>
         <section class="blog-author">
-          <% if sitemap.find_resource_by_path "/assets/images/team/#{a.short_name}.png" %>
-            <img class="blog-author__image" src="/assets/images/team/<%= a.short_name %>.png" alt="<%= a.name %>"/>
+          <% if sitemap.find_resource_by_path "/assets/images/people/#{a.short_name}.png" %>
+            <img class="blog-author__image" src="/assets/images/people/<%= a.short_name %>.png" alt="<%= a.name %>"/>
           <% end %>
           <aside class="blog-author__right-section">
-            <a class="blog-author__name" href="/team#<%= a.short_name %>">
+            <a class="blog-author__name" href="/people#<%= a.short_name %>">
               <%= a.name %>
             </a>
             <div class="blog-author__bio">

@@ -15,7 +15,7 @@ https://www.periscope.io/blog/extrapolating-data-with-day-of-week-effects.html
 
 People from [persicope.io](http://persicope.io) take you through a solution to a problem they had: predicting weekly server load growth, step by step, with clear explanations. I highly recommend subscribing to their blog updates as the articles are consistently good.
 
-## Where are your requests coming from? - [Tom S](/team#tom-sabin)
+## Where are your requests coming from? - [Tom S](/people#tom-sabin)
 
 https://github.com/biola/Voight-Kampff
 
@@ -47,13 +47,13 @@ http://mumbrella.com.au/new-york-times-apple-watch-attracting-more-mobile-reader
 
 Apple Watch forces content creators to rethink services.
 
-## Rails Polymorphic Associations - [Neil vB](/team#neil-van-beinum)
+## Rails Polymorphic Associations - [Neil vB](/people#neil-van-beinum)
 
 http://6ftdan.com/allyourdev/2015/02/10/rails-polymorphic-models/
 
 A polymorphic association allows us to specify a belongs_to relationship on one model without specifying the model type it belongs to. This makes it easy to have a model that belongs to multiple other model types. The example used in this article is a Comment model which can belong to an Article, Photo or Event. The post includes lots of code snippets and command line generator commands and it explains clearly what problems would arise if polymorphic associations weren’t possible.
 
-## Track of the Week - [Sarah B](/team#sarah-beck)
+## Track of the Week - [Sarah B](/people#sarah-beck)
 
 This time next Friday Chris and I will be on the way to Japan, probably somewhere over Siberia. So it would only be right to have a Japanese themed song to get in the mood:
 

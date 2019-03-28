@@ -20,7 +20,7 @@ Microservices are the cool kid on the block, but they come with different comple
 
 [Cognitive Lode](http://coglode.com/) breaks behavioural economics and consumer psychology down into fun, shiny, and easy to understand nuggets
 
-## Finally, a date and time picker that doesn't suck - [Tom S](/team#tom-sabin)
+## Finally, a date and time picker that doesn't suck - [Tom S](/people#tom-sabin)
 
 * http://amsul.ca/pickadate.js/date/
 * http://amsul.ca/pickadate.js/time/
@@ -37,7 +37,7 @@ I have found myself return to this blog post lately trying to solve a couple of 
 
 https://gist.github.com/pixeltrix/e2298822dd89d854444b
 
-Our very own [Andrew W](/team#andrew-white) helpfully explains the misconceptions about the Ruby [DateTime](http://ruby-doc.org/stdlib/libdoc/date/rdoc/DateTime.html) and [Time](http://ruby-doc.org/core/Time.html) objects, and when to use each one.  An explanation so helpful it was [added to the official ruby docs](https://github.com/ruby/ruby/commit/4545875)!
+Our very own [Andrew W](/people#andrew-white) helpfully explains the misconceptions about the Ruby [DateTime](http://ruby-doc.org/stdlib/libdoc/date/rdoc/DateTime.html) and [Time](http://ruby-doc.org/core/Time.html) objects, and when to use each one.  An explanation so helpful it was [added to the official ruby docs](https://github.com/ruby/ruby/commit/4545875)!
 
 ## Mind bending design fiction from an alternative universe - Dom M
 

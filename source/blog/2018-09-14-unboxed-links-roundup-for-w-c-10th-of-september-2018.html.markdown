@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Debugging for performance - [Murray S](/team#murray-steele)
+## Debugging for performance - [Murray S](/people#murray-steele)
 
 https://pharr.org/matt/blog/2018/07/16/moana-island-pbrt-all.html
 
@@ -25,25 +25,25 @@ about memory profiling and debugging for performance than they are about the
 intricacies of 3D rendering.  In fact most of the effort goes into the tools 
 that parse and represent the data in memory, rather than the actual rendering.
 
-## The British Airways Breach Explained - [Elena T](/team#elena-tanasoiu)
+## The British Airways Breach Explained - [Elena T](/people#elena-tanasoiu)
 
 https://www.riskiq.com/blog/labs/magecart-british-airways-breach/
 
 A breakdown of how the British Airways hack took place, why the code to skim 380.000 credit cards is not that complicated, and how Magecart got around to inserting that code in the payment page and then funnelling the skimmed data out. 
 
-## Preventing Muscle Loss as We Age - [Elena T](/team#elena-tanasoiu)
+## Preventing Muscle Loss as We Age - [Elena T](/people#elena-tanasoiu)
 
 https://www.nytimes.com/2018/09/03/well/live/preventing-muscle-loss-among-the-elderly.html
 
 Some good advice to keep in mind about how to avoid muscle loss, especially for those of us who sit at our desks all day.
 
-## Migrating PostgreSQL standalone instance to Aurora (Amazon RDS) - [Elena T](/team#elena-tanasoiu)
+## Migrating PostgreSQL standalone instance to Aurora (Amazon RDS) - [Elena T](/people#elena-tanasoiu)
 
 https://medium.com/@paveltyk/migrating-postgresql-standalone-instance-to-aurora-amazon-rds-3c038cfd2517
 
 A nice migration path described in detail for migrating your postgres instance. 
 
-## Track of the Week - [Elena T](/team#elena-tanasoiu)
+## Track of the Week - [Elena T](/people#elena-tanasoiu)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8QzHxHk_WoY" frameborder="0" allowfullscreen></iframe>
 

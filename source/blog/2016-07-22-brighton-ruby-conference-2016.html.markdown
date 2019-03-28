@@ -13,7 +13,7 @@ authors:
 [Brighton Ruby](http://brightonruby.com/) is unsurprisingly a conference about Ruby based in Brighton, and organised by [@AndyCroll](https://twitter.com/andycroll). Being quite new to both Ruby and to Rails, a Ruby conference seemed like the perfect place to pickup a few tricks of the trade and see what's next for the language and community.
 
 ![The Ruby Conf Crew](/assets/images/blog/Ruby_Team.png)
-*The Ubxd Ruby Conf team, from left to right: [Neil](https://unboxed.co/team#neil-van-beinum), Jon, [Murray](https://unboxed.co/team#murray-steele), [Chris](https://unboxed.co/team#chris-holmes), Crystal, Cale, [Ben](https://unboxed.co/team#ben-wong), and [Tom](https://unboxed.co/team#tom-sabin)*
+*The Ubxd Ruby Conf team, from left to right: [Neil](https://unboxed.co/people#neil-van-beinum), Jon, [Murray](https://unboxed.co/people#murray-steele), [Chris](https://unboxed.co/people#chris-holmes), Crystal, Cale, [Ben](https://unboxed.co/people#ben-wong), and [Tom](https://unboxed.co/people#tom-sabin)*
 
 # Talks Worth Talking About
 ## The Point of Objects / [John Cinnamond](https://twitter.com/jcinnamond)

@@ -21,7 +21,7 @@ I did not know much about Kate so I had a look for her on the world wide webisph
 
 Kate, this Gardener loves you a little bit more.
 
-## Just when you thought you were safe via your VPN - [Jon N](/team#jon-normington)
+## Just when you thought you were safe via your VPN - [Jon N](/people#jon-normington)
 
 https://www.perfect-privacy.com/blog/2015/11/26/ip-leak-vulnerability-affecting-vpn-providers-with-port-forwarding/
 
@@ -30,7 +30,7 @@ providers that offer port forwarding, even if you aren't using this feature
 yourself, in summary though check your own VPN provider to see if they are
 affected/and or have patched an update.
 
-## What a load of Raspbian Pi... - [Jon N](/team#jon-normington)
+## What a load of Raspbian Pi... - [Jon N](/people#jon-normington)
 
 https://github.com/RPi-Distro/repo/issues/6
 

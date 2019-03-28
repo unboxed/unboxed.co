@@ -11,7 +11,7 @@ authors:
 ---
 Over the last few weeks, we’ve been running a number of Innovation Surgeries. These are two-hour sessions with product and digital teams to begin exploring how they can do things differently within their teams and organisations, introducing a sense of “innovation” in helping them go forward with their customer offering.<br/>
 
-When preparing for each of these sessions, [Martyn](https://unboxed.co/team/#martyn-evans) and I have had exactly the same conversation beforehand, consisting of questions such as:<br/>
+When preparing for each of these sessions, [Martyn](https://unboxed.co/people/#martyn-evans) and I have had exactly the same conversation beforehand, consisting of questions such as:<br/>
 
 - “Have you got the Sharpies?”
 - “Do we have enough post-its?”

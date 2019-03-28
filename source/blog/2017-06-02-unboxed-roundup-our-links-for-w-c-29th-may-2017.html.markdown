@@ -9,14 +9,14 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Basic Performance Analysis - [Ben W](/team#ben-wong)
+## Basic Performance Analysis - [Ben W](/people#ben-wong)
 
 https://blog.heapanalytics.com/basic-performance-analysis-saved-us-millions/
 
 I've always wanted an easy way to look at what my processes are doing. This
 seems very handy for poking at any slow server processes to see what going on.
 
-## Always be learning - [Murray S](/team#murray-steele)
+## Always be learning - [Murray S](/people#murray-steele)
 
 https://medium.com/@sugarpirate/i-am-still-learning-f61c765d657c
 
@@ -27,7 +27,7 @@ tools, libraries, programming languages, architectures, methodologies, etc.
 [Laura Tan's](https://twitter.com/sugarpirate_) article explains it much more
 clearly than I ever did.
 
-## The Tectonic Typesetting System - [Charlie](/team#charlie-egan)
+## The Tectonic Typesetting System - [Charlie](/people#charlie-egan)
 
 https://tectonic-typesetting.github.io
 
@@ -43,7 +43,7 @@ https://yougov.co.uk/uk-general-election-2017/
 This updates every day I think with predictions for next week and displays it
 by constituency too.
 
-## Pairing with Junior Developers - [Elena T](/team#elena-tanasoiu)
+## Pairing with Junior Developers - [Elena T](/people#elena-tanasoiu)
 
 https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/
 
@@ -52,7 +52,7 @@ debating what's the best way to handle working with junior developers. This is a
 nice read about how to structure your pairing session with your local
 neighbourhood junior dev.
 
-## Track of the week - [Henry T](/team#henry-turner)
+## Track of the week - [Henry T](/people#henry-turner)
 
 It’s an early Jamie xx single. I like the steel drums.
 

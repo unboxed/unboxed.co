@@ -20,7 +20,7 @@ I googled it.
 
 Unfortunately it was not that interesting.
 
-## Servo Starters - [Charlie E](/team#charlie-egan)
+## Servo Starters - [Charlie E](/people#charlie-egan)
 
 https://starters.servo.org/
 
@@ -29,7 +29,7 @@ Rust community & mozilla have a number of initiatives for new contributors.
 _Servo Starters_ is one such initiative for the servo browser engine that lists
 issues suitable for beginners as well as highlighting mentored.
 
-## Online migrations at scale - [Chris H](/team#chris-holmes)
+## Online migrations at scale - [Chris H](/people#chris-holmes)
 
 https://stripe.com/blog/online-migrations
 
@@ -40,7 +40,7 @@ frameworks that they use. I particularly liked their use of Github's
 [Scientist](https://github.com/github/scientist) library to alert them to any
 inconsistencies during the process in a safe way.
 
-## Scale API - [Charlie E](/team#charlie-egan)
+## Scale API - [Charlie E](/people#charlie-egan)
 
 https://www.scaleapi.com/
 
@@ -51,7 +51,7 @@ There's also an [SE Daily
 episode](https://softwareengineeringdaily.com/2016/12/16/scale-api-with-lucy-guo-and-alexandr-wang/)
 with an interview for those into podcasts.
 
-## Track of the Week - [Boris D](/team#boris-divjak)
+## Track of the Week - [Boris D](/people#boris-divjak)
 
 While I didn’t like the movie very much (I thought the story was pretty weak) I did like the music and I still finding
 myself humming bits of it after a week. Also, the colours in the movie were amazing (seriously)!

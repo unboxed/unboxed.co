@@ -10,7 +10,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Ice Cube: Ruby Date Recurrence Library - [Andrew W](/team#andrew-white)
+## Ice Cube: Ruby Date Recurrence Library - [Andrew W](/people#andrew-white)
 
 https://github.com/seejohnrun/ice_cube
 
@@ -22,14 +22,14 @@ Ice Cube library which deals with all the complicated stuff for you, has a
 nice fluent API for adding rules and can handle serializing to both YAML
 and ICAL for persisting rules to a database.
 
-## Dwarf fortress starting during apt-get upgrade - [Charlie](/team#charlie-egan)
+## Dwarf fortress starting during apt-get upgrade - [Charlie](/people#charlie-egan)
 
 https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade
 
 This made me smile - just such an unexpected and unpredictable side effect
 of something seemingly completely unrelated.
 
-## Bash Manual - [Charlie](/team#charlie-egan)
+## Bash Manual - [Charlie](/people#charlie-egan)
 
 https://www.gnu.org/software/bash/manual/bash.txt
 
@@ -40,7 +40,7 @@ reading this I also found `set -o vi` which makes the bash prompt editing
 of the current command behave a little bit like vim. This needs to be in
 `.bashrc` but it also works in `readline.zsh` for those using zsh.
 
-## A history of internetworking - [Murray S](/team#murray-steele)
+## A history of internetworking - [Murray S](/people#murray-steele)
 
 http://apenwarr.ca/log/?m=201708#10
 

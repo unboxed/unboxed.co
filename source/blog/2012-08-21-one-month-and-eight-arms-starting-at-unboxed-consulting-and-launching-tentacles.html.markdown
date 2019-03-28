@@ -9,9 +9,9 @@ tags:
 
 ---
 
-Karlis, Shaban, Stefan and myself ([Tom](/team#tom-sabin)) have been taken on as part of Unboxed Consulting’s third internship programme. During our first few weeks we were given an introduction to Agile and Ruby on Rails.
+Karlis, Shaban, Stefan and myself ([Tom](/people#tom-sabin)) have been taken on as part of Unboxed Consulting’s third internship programme. During our first few weeks we were given an introduction to Agile and Ruby on Rails.
 
-The first week of training involved Agile and learning "The Unboxed Way" (taught by [Richard Stobart](/team#richard-stobart)). Afterwards, Chris Patuzzo took the Ruby and Ruby on Rails course. Our newly acquired knowledge enabled us to progress to a project of our own, which allowed us to put into practice what  we had recently been taught. We also had a few days covering front-end development by Rob Pataki.
+The first week of training involved Agile and learning "The Unboxed Way" (taught by [Richard Stobart](/people#richard-stobart)). Afterwards, Chris Patuzzo took the Ruby and Ruby on Rails course. Our newly acquired knowledge enabled us to progress to a project of our own, which allowed us to put into practice what  we had recently been taught. We also had a few days covering front-end development by Rob Pataki.
 
 I managed to pick up Ruby easily and can appreciate its elegance after working with Java and C at university. Rails, on the other hand took a little more time to grasp. However, with just a chair’s scoot away are some great developers who are more than happy to help.
 

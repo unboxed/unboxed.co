@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## sshuttle: where transparent proxy meets VPN meets ssh - [Andrew W](/team#andrew-white)
+## sshuttle: where transparent proxy meets VPN meets ssh - [Andrew W](/people#andrew-white)
 
 https://github.com/apenwarr/sshuttle
 
@@ -20,7 +20,7 @@ uses a standard SSH connection to tunnel all your network connections. Now
 testing geo-ip targeting is as easy as spinning up a VM in the AWS
 region/Digital Ocean data center of your choice and just firing up sshuttle.
 
-## iPhone performance slowdown - [Tom S](/team#tom-sabin)
+## iPhone performance slowdown - [Tom S](/people#tom-sabin)
 
 https://www.engadget.com/2017/12/20/apple-says-slower-performance-of-older-iphones-intentional/
 
@@ -30,7 +30,7 @@ iPhone model or iOS version is released. However, theories aside, it turns out
 that Apple does throttle performance on iPhone with low battery capacity,
 and I'm sure it's not that "Low Power Mode".
 
-## Event sourcing - [Henry T](/team#henry-turner)
+## Event sourcing - [Henry T](/people#henry-turner)
 
 https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
 
@@ -44,11 +44,11 @@ it, appeals to me and event sourcing seems to be the holy grail of this
 approach. I found this article to neatly summarise the benefits and a couple
 of the issues.
 
-## Google Maps vs. Apple Maps (again) - [Murray S](/team#murray-steele)
+## Google Maps vs. Apple Maps (again) - [Murray S](/people#murray-steele)
 
 https://www.justinobeirne.com/google-maps-moat/
 
-[Tom S](/team#tom-sabin) linked to another article by Justin comparing the
+[Tom S](/people#tom-sabin) linked to another article by Justin comparing the
 Google and Apple maps data [back in one of our April
 roundups](/blog/unboxed-roundup-our-links-for-w-c-10th-july-2017/).  This
 follow-up article goes even deeper into the comparison.  It seems like the
@@ -60,14 +60,14 @@ combine more data their maps are only going to get better and better, whereas
 it doesn't seem like the Apple maps data is being used in that way, perhaps
 because it's mostly licensed and not owned by Apple.
 
-## A New Weapon in the Fight Against Superbugs - [Ben W](/team#ben-wong)
+## A New Weapon in the Fight Against Superbugs - [Ben W](/people#ben-wong)
 
 https://www.ted.com/talks/david_brenner_a_new_weapon_in_the_fight_against_superbugs
 
 Turns out we might not all die from the antibiotic resistant bacteria
 apocalypse.
 
-## Track of the Week - [Murray S](/team#murray-steele)
+## Track of the Week - [Murray S](/people#murray-steele)
 
 Probably my favourite Christmas song.
 

@@ -22,7 +22,7 @@ This May we hosted <i>“Faster than Lightning”</i> code talks. For this event
 
 Here's a selection of the submissions from May:<br/>
 
-## [Murray S](https://unboxed.co/team/#murray-steele)
+## [Murray S](https://unboxed.co/people/#murray-steele)
 
 I chose this code as it reminded me of similar code that my university lecturer once showed me. This code uses the same features: an array of pointers to functions and use some input value as the index in the array of which function to call on some other input values. The use of language features and the economy of effort is prime proof that you can write code that is aesthetically pleasing, as well as functional.<br/>
 
@@ -70,7 +70,7 @@ Over the last week I’ve been working on [SH:24](https://unboxed.co/product-sto
 
 
 <br/>
-## [Andrew W](https://unboxed.co/team/#andrew-white)
+## [Andrew W](https://unboxed.co/people/#andrew-white)
 
 As part of a project for [Buckinghamshire County Council](https://unboxed.co/product-stories/bucks-cc), we needed to display points on a map using longitude and latitude but the data was stored as OS grid references. To make the conversion I implemented equations supplied by the OS in Ruby which converts from the flat coordinate space of the OS grid to the polar coordinate space of latitude/longitude (commonly known as WGS84). One complicating factor was the fact that the OS uses a slightly different ellipsoid to do the mercator projection which meant applying a 3D transformation between two different ellipsoids.<br/>
 
@@ -78,7 +78,7 @@ As part of a project for [Buckinghamshire County Council](https://unboxed.co/pro
 
 
 <br/>
-## [Neil van B](https://unboxed.co/team/#neil-van-beinum)
+## [Neil van B](https://unboxed.co/people/#neil-van-beinum)
 
 I've recently been adopting a style of writing specs that makes greater use of `let` and `context` blocks. This leaves the `it` blocks often containing just an expectation or two. I've been finding that writing descriptions for the contexts helps me think about what I want to test and that the overall readability is increased. However, larger spec files seem to require more attention with this approach - it often requires you to scan up and down the file to find  where the spec is being set up. The first example below has all of the setup included within the `it` block while the second snippet makes use of `context` and `before` blocks to keep the setup separate. It also uses `described_class` to refer to the class being tested. Which do you prefer?<br/>
 
@@ -119,7 +119,7 @@ end
 
 
 <br/>
-## [Henry T](https://unboxed.co/team/#henry-turner)
+## [Henry T](https://unboxed.co/people/#henry-turner)
 
 At a glance this query seems to start with something that looks like a function call that takes a `content_id` and returns that `content_id`. What use is that? It's an unusual query but not complicated. Can you see how it works?<br/>
 

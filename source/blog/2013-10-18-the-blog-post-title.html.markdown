@@ -17,11 +17,11 @@ it's Friday. You know what that means? Time for another exciting instalment of t
 
 ---
 
-## JS Testing - [Murray](/team#murray-steele/)
+## JS Testing - [Murray](/people#murray-steele/)
 
 [James Coglan](http://jcoglan.com) is writing [a book on Javascript testing](http://jstesting.jcoglan.com/).  What makes this special is that James is the author of open source work like [Faye](http://faye.jcoglan.com/) and [vault](https://getvau.lt/), talks like [Writing a language in 15 minutes](http://skillsmatter.com/podcast/ajax-ria/implementing-scheme-in-ruby) and articles like [Callbacks are imperative, promises are functional](http://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/).  With that kind of pedigree, I expect the book to be brilliant, and you should too.
 
-## Changelog++ - [Murray](/team#murray-steele/)
+## Changelog++ - [Murray](/people#murray-steele/)
 
 It's been a long time since I was a pythonista, so I don't know if [Requests](http://docs.python-requests.org/) is a good library, or if the [2.0 release](https://twitter.com/kennethreitz/status/382582748705488896) was hotly anticipated.  What I do know that I really like [this changelog blog post](https://lukasa.co.uk/2013/09/Requests_20/) by one of the contributors.  It acts like a guide to [the changelog for the release](http://docs.python-requests.org/en/latest/community/updates/#software-updates),  each change is annotated so rather than just saying "feature X has changed" it gives us the rationale behind why the change was made.  It's a real shame this is on an external blog rather than the official site, but I really like that it exists.  I know documentation is often the hardest thing, but I do hope that more software projects find the time to do this sort of thing in the future.
 

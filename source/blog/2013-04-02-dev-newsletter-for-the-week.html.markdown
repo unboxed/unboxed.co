@@ -11,7 +11,7 @@ tags:
 
 An unusually short newsletter for an unusually short week.
 
-## Rails' Insecure Defaults ([Murray](/team#murray-steele))
+## Rails' Insecure Defaults ([Murray](/people#murray-steele))
 
 http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/
 

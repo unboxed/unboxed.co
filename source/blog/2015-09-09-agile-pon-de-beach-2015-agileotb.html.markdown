@@ -16,7 +16,7 @@ tags:
 
 ![The attendees](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a3ecef0d62681d7a18c6e184db4e2de2.PNG)
 
-Claire, [Jack](/team#jack-bracewell), [Martyn](/team#martyn-evans), [Ben](/team#ben-wong) and [Graeme](/team#graeme-mccubbin) (+200 others, but we don't have caricatures for them)<br/>
+Claire, [Jack](/people#jack-bracewell), [Martyn](/people#martyn-evans), [Ben](/people#ben-wong) and [Graeme](/people#graeme-mccubbin) (+200 others, but we don't have caricatures for them)<br/>
 
 2 days. 50 speakers. 40 sessions. 1 beach party. It was that time of year again: Agile On The Beach.<br/>
 

@@ -24,7 +24,7 @@ These Show & Tell sessions are open to anyone and everyone who would like to com
 # Digital Discovery - Sprint 1
 <i>Show & Tell duration: 20 minutes</i><br/>
 
-Led by [Martyn](https://unboxed.co/team/#martyn-evans), the Digital Team summarised the progress they have been making across the first sprint of the project:<br/>
+Led by [Martyn](https://unboxed.co/people/#martyn-evans), the Digital Team summarised the progress they have been making across the first sprint of the project:<br/>
 <br/>
 
 ## 1. Holding an Inception Workshop

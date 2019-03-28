@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Saying goodbye to websites - [Murray S](/team#murray-steele)
+## Saying goodbye to websites - [Murray S](/people#murray-steele)
 
 https://missyou.rip/
 
@@ -23,12 +23,12 @@ it, and what, if anything, you can leave as an artefact for those users.  The
 gold standard to me, is what [ThisIsMyJam](https://www.thisismyjam.com/) did -
 a static archive of everything.
 
-## A tutorial introduction to Kubernetes - [Elena T](/team#elena-tanasoiu)
+## A tutorial introduction to Kubernetes - [Elena T](/people#elena-tanasoiu)
 
 http://okigiveup.net/a-tutorial-introduction-to-kubernetes/
 
 
-## Retrospectives - [Richard S](/team#richard-stobart)
+## Retrospectives - [Richard S](/people#richard-stobart)
 
 https://naga.co.za/2018/07/03/retros-are-the-most-important-agile-activity/
 

@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Squib - [Charlie E](/team#charlie-egan)
+## Squib - [Charlie E](/people#charlie-egan)
 
 http://squib.rocks
 
@@ -17,7 +17,7 @@ I spent a [recent Hackday](https://unboxed.co/blog/unboxed-hackathon-2-all-in-an
 working on a simple app to generate art for playing cards. Squib is a ruby DSL
 for generating & laying out cards - looks like a cool project.
 
-## Everything you need to know about HTTP security headers - [Elena T](/team#elena-tanasoiu)
+## Everything you need to know about HTTP security headers - [Elena T](/people#elena-tanasoiu)
 
 https://blog.appcanary.com/2017/http-security-headers.html
 
@@ -27,7 +27,7 @@ to implement them in Rails, Django, Express.js, Go, Nginx, and Apache. There is
 also a [gem](https://github.com/twitter/secureheaders) made by Twitter which
 applies all these recommendations for you, and a few more.
 
-## Invisible Captcha - [Charlie E](/team#charlie-egan)
+## Invisible Captcha - [Charlie E](/people#charlie-egan)
 
 https://github.com/markets/invisible_captcha
 
@@ -43,7 +43,7 @@ A rundown from Discord on moving their 120MM messages per day storage from Mongo
 to Cassandra. Comes with great advice like "build quickly to prove out a product
 feature, but always with a path to a more robust solution".
 
-## Track of the Week - [Murray S](/team#murray-steele)
+## Track of the Week - [Murray S](/people#murray-steele)
 
 I've never been a fan of Neko Case, K.D. Lang, or Laura Veirs individually
 (mostly through ignorance, rather than avoidance), but I listened to their

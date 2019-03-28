@@ -22,7 +22,7 @@ The Digital Customer Programme [launched last year](https://unboxed.co/news/unbo
 
 ![Boris and Dawn](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c36b176a3815c0ffa62f7eb291273016.PNG)
 
-Led by [Boris](https://unboxed.co/team/#boris-divjak) (Service Designer) and Dawn (Website Product Manager), the Digital Team began by sharing the good news that the team is now growing. Expanding by two additional members, the team are welcoming a new developer and a customer services representative. As some services are moving into (and through) the Alpha Phase, as well as additional services due to enter into the Discovery Phase, a larger team is now required to continue delivering results, keeping the momentum of the project going.<br/>
+Led by [Boris](https://unboxed.co/people/#boris-divjak) (Service Designer) and Dawn (Website Product Manager), the Digital Team began by sharing the good news that the team is now growing. Expanding by two additional members, the team are welcoming a new developer and a customer services representative. As some services are moving into (and through) the Alpha Phase, as well as additional services due to enter into the Discovery Phase, a larger team is now required to continue delivering results, keeping the momentum of the project going.<br/>
 
 <br/>
 # Alpha Phase: Homelessness service

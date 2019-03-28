@@ -34,7 +34,7 @@ tags:
 
 
 <br/>
-## Revisiting Ruby Refinements - [Murray S](/team#murray-steele)
+## Revisiting Ruby Refinements - [Murray S](/people#murray-steele)
 
 http://devblog.avdi.org/2015/05/20/so-whats-the-deal-with-ruby-refinements-anyway/
 

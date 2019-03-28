@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Fixing a community - [Murray S](/team#murray-steele)
+## Fixing a community - [Murray S](/people#murray-steele)
 
 https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/
 
@@ -22,13 +22,13 @@ the people who run the site admitting that they've made mistakes and setting out
 concrete plans for how they plan to address those problems.  The maintainers of
 other social community websites should take note.
 
-## Diversity in Rails - [Richard S](/team#richard-stobart)
+## Diversity in Rails - [Richard S](/people#richard-stobart)
 
 https://github.com/rails/homepage/issues/102
 
 It might seem like a small detail but the welcome screen of Rails has been updated to represent the diversity of the Rails community. https://user-images.githubusercontent.com/121535/39332868-68656c92-496e-11e8-9d74-dab79dfaa72e.jpg.  Rails is also cat friendly but dogs are now persona non grata.
 
-## New GitHub repo for Ruby Together board - [Andrew W](/team#andrew-white)
+## New GitHub repo for Ruby Together board - [Andrew W](/people#andrew-white)
 
 https://github.com/rubytogether/board
 
@@ -36,13 +36,13 @@ One outcome of last week's Ruby Together drama has been a commitment to increase
 
 [1]: https://github.com/rubytogether/board/issues/created_by/practicingdev
 
-## All I Really Need to Know about Pair Programming I Learned in Kindergarten - [Elena T](/team#elena-tanasoiu)
+## All I Really Need to Know about Pair Programming I Learned in Kindergarten - [Elena T](/people#elena-tanasoiu)
 
 https://anh.cs.luc.edu/170/Kindergarten.html
 
 Pretty easy to follow guide to how to behave when you pair program.
 
-## Machine learning's amazing ability to predict chaos - [Elena T](/team#elena-tanasoiu)
+## Machine learning's amazing ability to predict chaos - [Elena T](/people#elena-tanasoiu)
 
 https://www.quantamagazine.org/machine-learnings-amazing-ability-to-predict-chaos-20180418/
 

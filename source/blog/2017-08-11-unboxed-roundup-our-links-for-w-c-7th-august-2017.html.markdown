@@ -11,14 +11,14 @@ tags: # (Delete as appropriate)
 
 ---
 
-## How to build a better job - [Elena T](/team#elena-tanasoiu)
+## How to build a better job - [Elena T](/people#elena-tanasoiu)
 
 http://www.npr.org/2017/07/31/540648577/you-2-0-how-to-build-a-better-job
 
 A discussion around crafting the boundaries of your job to make it be more
 meaningful to you.
 
-## Typed Nils in Go - [Charlie E](/team#charlie-egan)
+## Typed Nils in Go - [Charlie E](/people#charlie-egan)
 
 https://dave.cheney.net/2017/08/09/typed-nils-in-go-2
 
@@ -27,7 +27,7 @@ twice. In a language with static typing what does `nil` look like? Why
 might nil not always 'equal' nil? This is a post about how this issue can
 arise in the Go programming language.
 
-## Font-size: An Unexpectedly Complex CSS Property - [Charlie E](/team#charlie-egan)
+## Font-size: An Unexpectedly Complex CSS Property - [Charlie E](/people#charlie-egan)
 
 https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property
 
@@ -37,7 +37,7 @@ explanation of the surprising way that font-sizes are actually meant to
 work. I only got as far as the MathML section - at that point I'd got the
 message!
 
-## LSTM neural net to generate Hacker News submissions - [Charlie E](/team#charlie-egan)
+## LSTM neural net to generate Hacker News submissions - [Charlie E](/people#charlie-egan)
 
 https://medium.com/@hondanhon/i-trained-an-lstm-neural-net-to-generate-hacker-news-submissions-9213e1225208
 
@@ -46,7 +46,7 @@ than humans. Is it generating titles or is it predicting the future? Some
 favorites: "The Simple Command Line Toolkit for Money", "Self-Driving Cars
 Using Docker Components" & "Ask HN: How do you manage your data scientists?"
 
-## CSS: what might have been - [Murray S](/team#murray-steele)
+## CSS: what might have been - [Murray S](/people#murray-steele)
 
 https://blog.cloudflare.com/the-languages-which-almost-became-css/
 
@@ -65,27 +65,27 @@ one based on LISP had been chosen.  Instead of a set of style declarations
 we'd have an entire programming language to work with.  Exciting and
 terrifying in equal measure I think.
 
-## The evolution of trust - [Ben W](/team#ben-wong)
+## The evolution of trust - [Ben W](/people#ben-wong)
 
 http://ncase.me/trust
 
 A cool demonstration of a multistage prisoners dilemma - and why it doesn't
 pay to be nice all the time.
 
-## ‘Digital Transformation’ Is a Misnomer - [Martyn E](/team#martyn-evans)
+## ‘Digital Transformation’ Is a Misnomer - [Martyn E](/people#martyn-evans)
 
 http://sloanreview.mit.edu/article/digital-transformation-is-a-misnomer/
 
 Nice concise piece on what Digital Transformation is and isn't.
 
-##Don't trust your eyes - [Ben W](/team#ben-wong)
+##Don't trust your eyes - [Ben W](/people#ben-wong)
 
 https://twitter.com/mryat/status/888642029361668096
 
 I stared at this for ages wondering how it worked. For the
 lazy: https://twitter.com/aozora_unabara/status/888880145913618432
 
-## Track of the Week - [Elena T](/team#elena-tanasoiu)
+## Track of the Week - [Elena T](/people#elena-tanasoiu)
 
 If your commute has been a bit soggy this week, this might help with walking like a badass to work.
 

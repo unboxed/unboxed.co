@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## A minecraft scam gets out of hand - [Murray S](/team#murray-steele)
+## A minecraft scam gets out of hand - [Murray S](/people#murray-steele)
 
 https://www.wired.com/story/mirai-botnet-minecraft-scam-brought-down-the-internet/
 
@@ -20,7 +20,7 @@ attack with a specific goal, but it had a much further reaching impact.
 
 [morris-worm]: https://en.wikipedia.org/wiki/Morris_worm
 
-## A debugging rule - [Murray S](/team#murray-steele)
+## A debugging rule - [Murray S](/people#murray-steele)
 
 https://dev.to/gonedark/the-debugging-golden-rule-7cb
 
@@ -31,7 +31,7 @@ of assuming the problem is something else and ignoring what the computer is
 telling me.  The advice in this article helps avoid another problem - assuming
 that the problem isn't yours.
 
-## Track of the Week - [Neil vB](/team#neil-van-beinum)
+## Track of the Week - [Neil vB](/people#neil-van-beinum)
 
 One of the current Unboxed projects is around data management. This 
 field often refers to the concept of a 'golden record', which is a data record

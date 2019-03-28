@@ -33,7 +33,7 @@ http://a16z.com/2015/04/22/ted-ullyot-policy-regulatory-affairs/
 
 There's a great deal of investment in all kinds of start-ups across finance, pharma, health, transport and other regulation heavy sectors... Is that a naive gamble when large corporations are mired in the same regulation? How can start-ups cope without teams of lawyers or years of experience?
 
-## An optional type system for Ruby? - [Henry T](/team#henry-turner)
+## An optional type system for Ruby? - [Henry T](/people#henry-turner)
 
 http://tonyarcieri.com/an-open-letter-to-matz-on-ruby-type-systems
 

@@ -10,7 +10,7 @@ tags:
   - Rails
 main_image: "https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8fd7241a0202c76923be06e8431d23d5.PNG"
 ---
-<i>This was the next installment of Andrew White’s Technical Breakfast Club – the breakfast club for Rails developers and architects, hosted by Rails Core Team Member and our CTO, [Andrew White](https://unboxed.co/team#andrew-white).</i><br/>
+<i>This was the next installment of Andrew White’s Technical Breakfast Club – the breakfast club for Rails developers and architects, hosted by Rails Core Team Member and our CTO, [Andrew White](https://unboxed.co/people#andrew-white).</i><br/>
 
 ![Andrew White's Technical Breakfast Club 1](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/81e08b38b497b76fbc97519825e9554a.JPG)
 
@@ -106,7 +106,7 @@ When scaling up to the 12th application server for the evening, we hit a problem
 
 <br/>
 <b>Sunday 26th June</b><br/>
-Reports of fraudulent signatures arrived in the media by day three. [Oskar](https://twitter.com/oskarpearson), [Murray](https://unboxed.co/team#murray-steele) and myself investigated and removed any fraudulent signatures from the system that had previously been processed and ensured these were constantly monitored going forward. Helen Jones MP, Chair of the Petitions Committee, released a statement from the House of Commons to address this issue:<br/>
+Reports of fraudulent signatures arrived in the media by day three. [Oskar](https://twitter.com/oskarpearson), [Murray](https://unboxed.co/people#murray-steele) and myself investigated and removed any fraudulent signatures from the system that had previously been processed and ensured these were constantly monitored going forward. Helen Jones MP, Chair of the Petitions Committee, released a statement from the House of Commons to address this issue:<br/>
 
 ![Andrew White's Technical Breakfast Club 8](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3486354464e7b5564757bf9c70b26c1a.JPG)
 

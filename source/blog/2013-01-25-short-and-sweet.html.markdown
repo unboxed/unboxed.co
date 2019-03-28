@@ -40,7 +40,7 @@ http://nakedsecurity.sophos.com/2013/01/25/do-programmers-understand-private/
 Smashing magazine explored the [importance of sections in HTML](
 http://coding.smashingmagazine.com/2013/01/18/the-importance-of-sections). It's quite a comprehensive read
 
-##Background tasks with Redis ([Grant S](/team#grant-speelman))
+##Background tasks with Redis ([Grant S](/people#grant-speelman))
 
 Grant's been exploring the world of background tasks and has come across [Sidekiq](http://mperham.github.com/sidekiq/), an alternative to Resque that uses threading.
 

@@ -9,21 +9,21 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Amazon admits Alexa is creepily laughing at people and is working on a fix - [Elena T](/team#elena-tanasoiu)
+## Amazon admits Alexa is creepily laughing at people and is working on a fix - [Elena T](/people#elena-tanasoiu)
 
 https://www.theverge.com/circuitbreaker/2018/3/7/17092334/amazon-alexa-devices-strange-laughter
 
 It's not exactly an explanation as to why this happens, but confirming that people are indeed not crazy
 when they hear Alexa talking to herself is a good first step. 
 
-## "Blockchain" is meaningless - [Elena T](/team#elena-tanasoiu)
+## "Blockchain" is meaningless - [Elena T](/people#elena-tanasoiu)
 
 https://www.theverge.com/2018/3/7/17091766/blockchain-bitcoin-ethereum-cryptocurrency-meaning
 
 It was supposed to offer a get rich quick scheme for everyone. Expect to see more of these articles cropping 
 up as the honeymoon period for blockchain is thoroughly coming to an end. 
 
-## What good seniority looks like - [Murray S](/team#murray-steele)
+## What good seniority looks like - [Murray S](/people#murray-steele)
 
 * https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202
 * https://medium.com/@BenHolliday/seniority-in-design-5169a39465c8
@@ -37,7 +37,7 @@ means without talking about time-spent and have given me lots
 to think about.  Particularly around the things I'm not doing that I 
 should be if I want to keep calling myself a "senior" developer.
 
-## Track of the Week - [Matt T](/team#matt-turrell)
+## Track of the Week - [Matt T](/people#matt-turrell)
 
 This always puts a crazy smile on my face and is the accompanying song to the slo-mo (hilarious) video booth from my wedding.
 

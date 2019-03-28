@@ -9,7 +9,7 @@ published: true
 title: "Deploying indigo-falcon to production!"
 ---
 
-This isn't my idea (it's [Ben's](https://unboxed.co/team#ben-wong)) but I wanted to write it up because I think it's interesting.
+This isn't my idea (it's [Ben's](https://unboxed.co/people#ben-wong)) but I wanted to write it up because I think it's interesting.
 
 I originally started this post in December as a fantasy story about train stations and animals of the Ark but couldn't get it to make sense. Hopefully this version will.
 

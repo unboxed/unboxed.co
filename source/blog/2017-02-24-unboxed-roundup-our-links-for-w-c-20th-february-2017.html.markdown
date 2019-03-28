@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Graphical depiction of ownership and borrowing in Rust - [Charlie](/team#charlie-egan)
+## Graphical depiction of ownership and borrowing in Rust - [Charlie](/people#charlie-egan)
 
 https://rufflewind.com/2017-02-15/rust-move-copy-borrow
 
@@ -19,7 +19,7 @@ good diagram for something that's not easily understood. There's even a [PDF
 version](https://rufflewind.com/img/rust-move-copy-borrow.pdf) for making
 posters to spread the good word.
 
-## Rails 5.1.0.beta1: Loving JavaScript, System Tests, Encrypted Secrets, and more - [Chris H](/team#chris-holmes)
+## Rails 5.1.0.beta1: Loving JavaScript, System Tests, Encrypted Secrets, and more - [Chris H](/people#chris-holmes)
 
 http://weblog.rubyonrails.org/2017/2/23/Rails-5-1-beta1/
 
@@ -28,7 +28,7 @@ the changes. It's really great to see system tests become part of the framework
 and there are lots of changes in JavaScript land with the introduction of Yarn,
 Webpack and JQuery being removed as a dependency and much more.
 
-## The first SHA-1 collision has been found - [Elena](/team#elena-tanasoiu)
+## The first SHA-1 collision has been found - [Elena](/people#elena-tanasoiu)
 
 https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
 
@@ -41,7 +41,7 @@ Nine quintillion SHA1 computations and 110 GPU years were needed to arrive at
  the first collision. Comparatively MD5 can be broken on a smartphone in 30
   seconds, and traditionally bruteforcing SHA1 would take 12 million GPU years.
 
-## Making animations from a series of images - [Tom S](/team#tom-sabin)
+## Making animations from a series of images - [Tom S](/people#tom-sabin)
 
 Using ImageMagick (installable from homebrew), you can do some cool simple
 things like creating an animated GIF using the `convert` command. Take the
@@ -55,7 +55,7 @@ sequentially:
 This creates an `animated.gif` image which loops endlessly and has a delay of
 100 ticks per second. If you want the animation faster then decrease the ticks.
 
-## Image to Image translation in Tensorflow - [Elena](/team#elena-tanasoiu)
+## Image to Image translation in Tensorflow - [Elena](/people#elena-tanasoiu)
 
 http://affinelayer.com/pixsrv/index.html
 
@@ -68,7 +68,7 @@ rendering someone's doodles. It's fun to think that this might become useful
 for people who can't draw but would like to generate decent, believable
 artwork.
 
-## Here's What TfL Learned From Tracking Your Phone On the Tube - [Charlie](/team#charlie-egan)
+## Here's What TfL Learned From Tracking Your Phone On the Tube - [Charlie](/people#charlie-egan)
 
 http://www.gizmodo.co.uk/2017/02/heres-what-tfl-learned-from-tracking-your-phone-on-the-tube/
 
@@ -78,7 +78,7 @@ to protect privacy and make passengers aware (I noticed the posters). As well
 as the larger 'traffic flow' maps; there's also a plan drawing of a station
 with journey times annotated.
 
-## PostgreSQL Vacuuming: An Introduction for Busy Devs - [Chris H](/team#chris-holmes)
+## PostgreSQL Vacuuming: An Introduction for Busy Devs - [Chris H](/people#chris-holmes)
 
 http://okigiveup.net/postgresql-vacuuming-an-introduction-for-busy-devs/
 
@@ -88,7 +88,7 @@ and dead rows in a number of their large and more active tables. I found the
 to be very useful and this link gives a nice overview of vacuuming, why it is
 used and how it can be improved.
 
-## Track of the Week - [Sarah B](/team#sarah-beck)
+## Track of the Week - [Sarah B](/people#sarah-beck)
 
 It always seems I get to do this the week before holiday!
 So, this time I am off skiing, with my family. And this song was playing on repeat on a holiday in Italy when

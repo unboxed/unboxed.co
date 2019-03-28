@@ -24,7 +24,7 @@ This is an awesome app and we could gain a lot from looking at it's gesture base
 
 [Site](http://www.peekcalendar.com/)
 
-## Games on the web platform - [Henry Turner](/team#henry-turner)
+## Games on the web platform - [Henry Turner](/people#henry-turner)
 
 The web platform is becoming more and more powerful. [Artillery](http://blog.artillery.com/2013/09/project-atlas-and-the-artillery-platform.html) is a platform for the development of in-browser games.
 

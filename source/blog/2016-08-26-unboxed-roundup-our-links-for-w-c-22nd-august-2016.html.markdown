@@ -9,19 +9,19 @@ tags: # (Delete as appropriate)
 
 ---
 
-## "fs" unpublished and restored - [Charlie E](/team#charlie-egan)
+## "fs" unpublished and restored - [Charlie E](/people#charlie-egan)
 
 http://status.npmjs.org/incidents/dw8cr1lwxkcr
 
 In responding to a flagged package, npm Inc. broke project builds that had mistakenly required the bogus "fs" package rather than requiring the "fs" module from Node.
 
-## Core Infrastructure Initiative Best Practices - [Chris H](/team#chris-holmes)
+## Core Infrastructure Initiative Best Practices - [Chris H](/people#chris-holmes)
 
 https://github.com/linuxfoundation/cii-best-practices-badge/blob/master/doc/criteria.md
 
 The Core Infrastructure Initiative fund and support free and open-source software projects. I recently came across their Best Practices Badge Program which has been created to encourage projects to follow best practices, help new projects discover what those practices are and help users know which projects are following them. A useful reference for anyone who maintains an open source project, or is interested in starting one, the details are [summarised on the readme](https://github.com/linuxfoundation/cii-best-practices-badge#user-content-summary-of-best-practices-criteria) if you'd prefer a shorter read.
 
-## Generating fantasy maps - [Murray S](/team#murray-steele)
+## Generating fantasy maps - [Murray S](/people#murray-steele)
 
 http://mewo2.com/notes/terrain/
 

@@ -9,7 +9,7 @@ tags:
   - Culture
 ---
 
-## Why digital products show no respect for our time - and what we might do about it - [Carrie](/team#carrie-bedingfield)
+## Why digital products show no respect for our time - and what we might do about it - [Carrie](/people#carrie-bedingfield)
 
 https://www.youtube.com/watch?v=jT5rRh9AZf4
 

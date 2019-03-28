@@ -21,7 +21,7 @@ But before you do that here's a picture of some us enjoying the lovely Budapest 
 ![Euruko 2017 - Mmmmm, lemonade](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/17a56164f0807a79ddc8c3218e22ad67.JPG)
 
 
-## Euruko impressions - [Charlie E](/team#charlie-egan)
+## Euruko impressions - [Charlie E](/people#charlie-egan)
 
 ### Predicting Performance Changes of Distributed Applications - [Wojtek Rząsa](https://euruko2017.org/speakers/#wojtek)
 
@@ -35,7 +35,7 @@ I thought this talk was brilliant. In my final year we had to write a report on 
 
 I thought this was a really nice intro to information extraction. The talk built up a list of enhancements one could make to an information extraction tool for search. It covered things like ignoring stop words, tf-idf & stemming without being too theoretical. I've always thought that NLP problems are great because it's so simple to understand the problem; the solutions can be very varied and are almost always far from absolute. It was really nice to get a surprise refresher of this at EuRuKo.
 
-## Euruko impressions - [Ben W](/team#ben-wong)
+## Euruko impressions - [Ben W](/people#ben-wong)
 
 ### Rescuing legacy codebases with GraphQL and Rails - [Netto Farah](https://www.euruko2017.org/speakers/#netto)
 
@@ -53,13 +53,13 @@ Because progress bars on terminal commands are _mandatory_ .
 
 ![Excitement building prior to the first talk of the conference](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5354aea8e0e807b03796c7102298237e.JPG)
 
-## Euruko impressions - [Elena T](/team#elena-tanasoiu)
+## Euruko impressions - [Elena T](/people#elena-tanasoiu)
 
 ### How to Make It As A Junior Dev and Stay Sane - [Katelyn Hertel](https://euruko2017.org/speakers/#katelyn)
 
 One of my favorite moments in the whole conference was when Katelyn Hertel started talking to us about power poses. The entire talk was great in terms of recovering from burnout, learning to say no, setting aside time in your day to have no meetings scheduled (which will keep you sane). All great advice not only for juniors, but for everyone working in this industry. But if there's one thing I'll remember it will be the moment Katelyn's voice became more confident when she started demonstrating what power poses she does to increase her confidence. It was great to see such a well put together presentation about life as a junior and her strong gif game definitely played a role in that.
 
-## Euruko impressions - [Neil vB](/team#neil-van-beinum)
+## Euruko impressions - [Neil vB](/people#neil-van-beinum)
 
 ### Case Study: The Real Black Friday aka How To Scale an Unscalable Service - [Judit Ördög-Andrási](https://euruko2017.org/speakers/#judit)
 
@@ -72,7 +72,7 @@ One of the aspects of this talk I enjoyed was how it used a story-telling approa
 3. Longer-term code changes including adding background jobs to perform the backend work asynchronously and deploying this change for a subset of users (known as a "dark launch") so that they could monitor and compare the changes while only testing on a smaller set of users.
 
 
-## Euruko impressions - [Chris H](/team#chris-holmes)
+## Euruko impressions - [Chris H](/people#chris-holmes)
 
 This year was my first Euruko and I really enjoyed it, there was a good variety of talks in a beautiful city with lots of Rubyists, what's not to like? The
 first day highlights for me were Matz talking us through progress toward the Ruby 3x3 (making Ruby 3 three times faster than Ruby 2) and how progress

@@ -9,19 +9,19 @@ tags:
   - Culture
 ---
 
-## The diversity of viewports - [Tom S](/team#tom-sabin)
+## The diversity of viewports - [Tom S](/people#tom-sabin)
 
 http://www.iamthefold.com/
 
 A visual representation of visitor's viewport heights.
 
-## All code is debt - [Oskar](/team)
+## All code is debt - [Oskar](/people)
 
 https://pantheon.io/blog/all-code-debt
 
 Software can be an amazing tool that solves business problems. However, even with Agile software delivery, having something hard-coded into a software system reduces your ability to change, and requires maintenance. This article makes some suggestions about how to avoid having to write code in the first place.
 
-## http2 is coming - [Murray](/team#murray-steele)
+## http2 is coming - [Murray](/people#murray-steele)
 
 http://daniel.haxx.se/http2/http2-v1.10.pdf
 
@@ -40,7 +40,7 @@ https://medium.com/@porteneuve/fix-conflicts-only-once-with-git-rerere-7d116b2ce
 
 An interesting workflow using git comand `rerere` to keep a mainline and long-running branch in-sync without "dirtying" the branch with mainline commits.
 
-## 7 Tips for slimming down fat Rails Models - [Neil](/team#neil-van-beinum)
+## 7 Tips for slimming down fat Rails Models - [Neil](/people#neil-van-beinum)
 
 http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
 

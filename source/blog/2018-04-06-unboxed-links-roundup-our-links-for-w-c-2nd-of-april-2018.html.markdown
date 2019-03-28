@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## iOS 11.3 adds support for basic PWA tech - [Tom S](/team#tom-sabin)
+## iOS 11.3 adds support for basic PWA tech - [Tom S](/people#tom-sabin)
 
 https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7
 
@@ -17,7 +17,7 @@ It's happening! Well, it's certainly on the way to be happening! In the latest i
 Apple has added a few of the basic technologies required for PWAs. However, as the blog post 
 reports, there's still work for Apple to do.
 
-## Stripe Billing - [Henry T](/team#henry-turner)
+## Stripe Billing - [Henry T](/people#henry-turner)
 
 https://stripe.com/blog/billing
 
@@ -26,7 +26,7 @@ including [metered billing](https://stripe.com/docs/billing/subscriptions/metere
 which is relevant to the project I'm working on. However this will probably kill a little 
 ecosystem of businesses that have developed around the void, which is a bit sad.
 
-## Measuring Time - [Murray S](/team#murray-steele)
+## Measuring Time - [Murray S](/people#murray-steele)
 
 https://blog.dnsimple.com/2018/03/elapsed-time-with-ruby-the-right-way/
 
@@ -38,7 +38,7 @@ front-and-center in my brain right now.  The article explains how the system
 clock can end up changing, and what you want to use is the monotonic clock
 instead.
 
-## Inserting usernames into text with zero-width characters - [Elena T](/team#elena-tanasoiu)
+## Inserting usernames into text with zero-width characters - [Elena T](/people#elena-tanasoiu)
 
 https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66
 
@@ -48,7 +48,7 @@ would be hidden inside it, as a zero-width string.
 
 There's even a Chrome extension to detect these characters: https://github.com/chpmrc/zero-width-chrome-extension. 
 
-## The death of the newsfeed - [Elena T](/team#elena-tanasoiu)
+## The death of the newsfeed - [Elena T](/people#elena-tanasoiu)
 
 https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed
 

@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Thoughts on code review - [Murray S](/team#murray-steele)
+## Thoughts on code review - [Murray S](/people#murray-steele)
 
 http://blog.davidablack.net/2016/09/27/some-thoughts-on-code-review/
 
@@ -21,7 +21,7 @@ Black](http://www.davidablack.net/) says in this timely article.  He
 suggests that review is about checking for unclear code, not nitpicking
 that it's not exactly the code you would have written.
 
-## Running Online Services at Riot - [Charlie E](/team#charlie-egan)
+## Running Online Services at Riot - [Charlie E](/people#charlie-egan)
 
 https://engineering.riotgames.com/news/running-online-services-riot-part-i
 
@@ -33,13 +33,13 @@ https://www.youtube.com/watch?v=kPRA0W1kECg
 
 Ever wanted to hear your favourite sorting algorithms at work? Now you can! Today I googled “cocktail shaker sort”, because I had no idea it existed.
 
-## Retracing Original Object-Oriented Programming - [Charlie E](/team#charlie-egan)
+## Retracing Original Object-Oriented Programming - [Charlie E](/people#charlie-egan)
 
 https://medium.com/skyfishtech/retracing-original-object-oriented-programming-f8b689c4ce50#.96azepgd7
 
 While perhaps a little long, it raises some interesting points about what object orientation really means.
 
-## Ruby vs. Python - [Murray S](/team#murray-steele)
+## Ruby vs. Python - [Murray S](/people#murray-steele)
 
 https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be#.jiq26lsmq
 

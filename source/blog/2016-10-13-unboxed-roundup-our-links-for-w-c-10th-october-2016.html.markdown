@@ -9,13 +9,13 @@ tags: # (Delete as appropiate)
 
 ---
 
-## Why Podcasting Still Needs RSS - [Charlie E](/team#charlie-egan)
+## Why Podcasting Still Needs RSS - [Charlie E](/people#charlie-egan)
 
 https://about.radiopublic.com/why-podcasting-still-needs-rss-6a2779e94e96
 
 A post about building on an existing standard - rather than replacing it with a propriety one (as various other podcast services are doing).
 
-## You might not need Javascript - [Chris H](/team#chris-holmes)
+## You might not need Javascript - [Chris H](/people#chris-holmes)
 
 http://youmightnotneedjs.com/
 

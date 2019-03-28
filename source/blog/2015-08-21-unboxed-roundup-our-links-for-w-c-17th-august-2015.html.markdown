@@ -33,7 +33,7 @@ https://medium.com/life-learning/may-i-have-your-attention-please-19ef6395b2c3
 
 The latest media platform attention figures are out. Who's winning, who's losing and while mobile dominates, how is small screen carved up?
 
-## Crypto key increases - [Oskar P](/team)
+## Crypto key increases - [Oskar P](/people)
 
 http://m.nsa.gov/ia/programs/suiteb_cryptography/index.shtml
 

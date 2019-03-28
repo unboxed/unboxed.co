@@ -9,7 +9,7 @@ tags: # (Delete as appropriate)
 
 ---
 
-## Static Site Generators - [Charlie E](/team#charlie-egan)
+## Static Site Generators - [Charlie E](/people#charlie-egan)
 
 https://staticsitegenerators.net/
 
@@ -17,7 +17,7 @@ A static site generator for every language. I feel like I missed someone
 influential claiming static site generators are literally _the best_ side
 project ever. Good list nonetheless.
 
-## PostgreSQL's Powerful Lateral Join - [Elena T](/team#elena-tanasoiu)
+## PostgreSQL's Powerful Lateral Join - [Elena T](/people#elena-tanasoiu)
 
 https://blog.heapanalytics.com/postgresqls-powerful-new-join-type-lateral/
 
@@ -27,14 +27,14 @@ query and perform a second sub-query. This is also cool because the subquery
 can take parameters. The subqueries are not evaluated independently so you
 have access to the results from previous executions.
 
-## awesome-bits - [Charlie E](/team#charlie-egan)
+## awesome-bits - [Charlie E](/people#charlie-egan)
 
 https://github.com/keon/awesome-bits
 
 Another (more awesome) list. Basically it's a write up of bit wise operations
 of varying complexity, most of the simple ones work in Ruby too.
 
-## Doors - [Murray S](/team#murray-steele)
+## Doors - [Murray S](/people#murray-steele)
 
 http://www.lizengland.com/blog/2014/04/the-door-problem/
 
@@ -45,7 +45,7 @@ choices I might make when building software and reminds me that if it seems
 "simple" I might need to think a bit more about it to understand the true impact
 on other users.
 
-## Track of the Week - [Leon O K](/team#leon-odey-knight)
+## Track of the Week - [Leon O K](/people#leon-odey-knight)
 
 ...gloriously fragile, yet overwhelmingly powerful. Like the innocent memories of youth are fogged by excess.
 
