@@ -6,7 +6,7 @@ tags:
   - Agile
   - Innovation
 date: '2019-04-11T17:54:46+01:00'
-published: true
+published: false
 ---
 _Unboxed has been working with Southwark Council, Hackney Council, Greater London Authority and Connected Places Catapult on an 8-week discovery phase to explore a user-centered back-office planning system.<br/>_\
 <br/>\
