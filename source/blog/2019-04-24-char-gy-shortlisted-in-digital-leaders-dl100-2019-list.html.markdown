@@ -25,6 +25,8 @@ On the shortlisting, [Richard Stobart](https://twitter.com/richardstobart) — F
 
 The full ‘Digital SME of the Year’ category shortlisting [can be found here](https://digileaders100.com/digital-sme), as well as instructions on how to vote.<br/>
 
+<br/>
+
 # About Digital Leaders
 
 Digital Leaders is a global initiative that has created a shared professional space for senior leadership from different sectors promoting effective, long-term digital transformation. The DL100 list is created by public vote and celebrates the teams and individuals who are working hard behind the scenes to secure the UK’s Digital Transformation.<br/>
