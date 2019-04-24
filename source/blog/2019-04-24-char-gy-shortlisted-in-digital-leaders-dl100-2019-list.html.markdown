@@ -15,16 +15,15 @@ published: true
 
 Starting as an internal idea in 2016, char.gy was formed as a way of tackling the issue of a lack of electric vehicle charging infrastructure for residents with no access to off-street parking.<br/>
 
-[Unboxed has been working with char.gy](https://unboxed.co/product-stories/chargy/) over the last three years to design, develop and deliver the physical electric vehicle lamppost charging solution and supporting software platform for enabling drivers to manage charging via their smartphone. char.gy now has [live chargepoints installed](https://char.gy/map) across Southwark, Redbridge, Sutton, Buckinghamshire and Warwickshire.<br/>
+[Unboxed has been working with char.gy](https://unboxed.co/product-stories/chargy/) over the last three years to design, develop and deliver the physical electric vehicle lamppost charging solution and supporting software platform for enabling drivers to manage charging via their smartphone. char.gy now has [live chargepoints installed](https://char.gy/map) across Southwark, Redbridge, Brent, Buckinghamshire and Warwickshire.<br/>
 
 ![char.gy](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7c993447c98685a4a4d5d4c9045994e9.jpg)
 
 On the shortlisting, [Richard Stobart](https://twitter.com/richardstobart) — Founder & Director of char.gy and CEO of Unboxed said:<br/>
 
-“char.gy started as a little idea to solve a big problem. It is wonderful to now see it out in the wild, charging electric vehicles and going from strength-to-strength. It is great news to see it shortlisted within the Digital Leaders DL100.”<br/>
+“char.gy started as a little idea to solve a big problem. It is wonderful to now see it out in the wild, charging electric vehicles and going from strength-to-strength. It is great news to be shortlisted within the Digital Leaders DL100.”<br/>
 
-The full ‘Digital SME of the Year’ category shortlisting [can be found here](https://digileaders100.com/digital-sme), as well as instructions on how to vote.<br/>\
-<br/>
+The full ‘Digital SME of the Year’ category shortlisting [can be found here](https://digileaders100.com/digital-sme), as well as instructions on how to vote.<br/>
 
 # About Digital Leaders
 
