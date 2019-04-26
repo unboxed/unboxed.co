@@ -8,10 +8,10 @@ tags:
 date: '2019-04-11T17:54:46+01:00'
 published: false
 ---
-_Unboxed has been working with Southwark Council, Hackney Council, Greater London Authority and Connected Places Catapult on an 8-week discovery phase to explore a user-centered back-office planning system.<br/>_\
-<br/>\
-\
-**Weekly update - 12 April 2019**\
+_Unboxed has been working with Southwark Council, Hackney Council, Greater London Authority and Connected Places Catapult on an 8-week discovery phase to explore a user-centered back-office planning system.<br/>_
+<br/>
+
+**Weekly update - 12 April 2019**<br/>
 The final week of the final sprint and we’ve wrapped up the discovery phase activities for exploring the back-office planning system with Southwark Council, Hackney Council, GLA and Connected Places Catapult.<br/>
 
 This week has mainly been focused on honing in activities around user research with Planning Officers, final rounds of concept testing, synthesising insights into the final discovery report and exploring next steps.<br/>
