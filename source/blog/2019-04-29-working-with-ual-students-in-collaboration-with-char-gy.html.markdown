@@ -10,7 +10,7 @@ tags:
   - Culture
   - Design
   - Innovation
-main_image: 'blob:https://unboxed.co/2f211d16-d069-4ec9-bf28-8b43e0b4a5cb'
+main_image: 'https://unboxed.co/assets/images/uploads/lcc-chargy-sketching-2x.jpg'
 date: '2019-04-29T19:44:42+01:00'
 published: true
 ---
