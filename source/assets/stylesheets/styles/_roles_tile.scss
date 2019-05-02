@@ -40,37 +40,17 @@
 }
 
 .roles-tile__title {
-  @include responsive-text;
+  @include responsive-sub-title;
   color: $purple;
   padding: 14px 6px;
-
-  @include breakpoint($tablet-breakpoint) {
-    min-height: 30px;
-  }
 }
 
 .roles-tile__paragraph {
+  @include responsive-text;
   color: $dark-gray;
   padding: 6px 6px 6px;
   font-weight: 300;
   line-height: 1.4em;
-
-  @include breakpoint($tablet-breakpoint) {
-    font-size: .95em;
-    min-height: fit-content;
-  }
-
-  @include breakpoint($desktop-breakpoint) {
-    font-size: 1.2em;
-  }
-}
-
-.roles-tile__description {
-  min-height: 50px;
-
-  @include breakpoint($tablet-breakpoint) {
-    min-height: 105px;
-  }
 }
 
 .roles-tile__no-roles-paragraph {
