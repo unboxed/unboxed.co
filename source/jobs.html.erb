@@ -26,11 +26,6 @@ roles:
         Our developers thrive on collaboration with customers and delivering
         digital products.
       link: /jobs/senior_developer
-    - name: Senior Delivery Manager
-      text: >-
-        Our delivery managers thrive on helping our teams deliver real value
-        and meaningful change in complex environments
-      link: /jobs/senior_delivery_manager
 offer:
   title: What we offer
   incentives:
@@ -107,41 +102,24 @@ published: true
       <h2 class="roles__title">
         <%= current_page.data.roles.title %>
       </h2>
-      <% if current_page.data.roles.content.length == 1 %>
-        <% role = current_page.data.roles.content[0] %>
-            <a class="roles-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
-              <div class="roles-tile__content" >
-                <h3 class="roles-tile__title">
-                  <%= role.name %>
-                </h3>
-                <p class="roles-tile__paragraph">
-                  <%= role.text %>
-                  <br>
-                  <br>
-                  <span class="roles-tile__fake-link">See the full job description</span>
-                </p>
-              </div>
-            </a>
-      <% else %>
-        <div class="roles-tiles">
-          <% current_page.data.roles.content.each do |role| %>
-            <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
-            <a class="roles-tile--linked" href="<%= role.link %>">
-              <div class="roles-tile__content">
-                <h3 class="roles-tile__title">
-                  <%= role.name %>
-                </h3>
-                <p class="roles-tile__paragraph roles-tile__description">
-                  <%= role.text %>
-                </p>
-                <p class="roles-tile__paragraph roles-tile__fake-link">
-                  See the full job description
-                </p>
-              </div>
-            </a>
-          <% end %>
-        </div>
-      <% end %>
+      <div class="roles-tiles">
+        <% current_page.data.roles.content.each do |role| %>
+          <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
+          <a class="roles-tile--linked" href="<%= role.link %>" title="<%= role.name %>"">
+            <div class="roles-tile__content">
+              <h3 class="roles-tile__title">
+                <%= role.name %>
+              </h3>
+              <p class="roles-tile__paragraph">
+                <%= role.text %>
+              </p>
+              <p class="roles-tile__paragraph roles-tile__fake-link">
+                See the full job description
+              </p>
+            </div>
+          </a>
+        <% end %>
+      </div>
     <% end %>
   </section>
 

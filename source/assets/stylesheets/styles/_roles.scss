@@ -1,6 +1,5 @@
 .roles {
   padding: 30px 0 0 0;
-  min-height: 300px;
 
   @include breakpoint($tablet-breakpoint) {
     overflow: hidden;
