@@ -5,6 +5,7 @@
 /about-us  /contact
 /blog/feed  /blog/feed.xml
 
+/jobs/senior_developer /jobs/developer_and_senior_developer 302
 /jobs/tester  /jobs  302
 /jobs/testers/ /jobs 302
 
