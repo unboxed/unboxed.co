@@ -14,9 +14,9 @@ main_image: 'https://unboxed.co/assets/images/uploads/lcc-chargy-sketching-2x.jp
 date: '2019-04-29T19:44:42+01:00'
 published: true
 ---
-Just over 2 years ago I graduated from London College of Communication on the then [MDes Service Design and Innovation course](https://masedi.myblog.arts.ac.uk/). This year I was invited back to help out with the collaborative unit. This unit is all about collaborating with others, whether it’s stakeholders, users or other designers. This is a project that takes place with a live project, in an industry setting. I travelled down to Elephant and Castle with Henry to talk on behalf of [Char.gy](https://char.gy) as the client that the students would work with.
+Just over 2 years ago I graduated from London College of Communication on the then [MDes Service Design and Innovation course](https://masedi.myblog.arts.ac.uk/). This year I was invited back to help out with the collaborative unit. This unit is all about collaborating with others, whether it’s stakeholders, service users or other designers. This is a project that takes place with a live project, in an industry setting. I travelled down to Elephant and Castle with Henry to talk on behalf of [Char.gy](https://char.gy) as the client that the students would work with.
 
-Over the course of 8 weeks students the students worked in teams to undertake research, scope the landscape, and develop early prototypes based on some identified challenges faced by char.gy. We proposed 6 briefs to give the students a taste of working on a live project, with difficult challenges in an agile way, following the kind of process that we might use in a regular project.
+Over the course of 8 weeks students the students worked in teams to undertake research, scope the landscape, and develop early prototypes based on some identified challenges faced by char.gy. We proposed 6 briefs, with some difficult challenges to give students a taste of working on a real world project. It was conducted in an agile way, following the kind of process that we might use in a regular project.
 
 ![The briefs](/assets/images/uploads/lcc-chargy-briefs-2x.jpg)
 
@@ -24,7 +24,7 @@ Over the course of 8 weeks students the students worked in teams to undertake re
 
 # Kick-off and demo
 
-There’s a lot to get up to speed on with char.gy, the kick-off session covered landscape of electric car charging, what the trends are, what common problems people have with electric charging and what potential areas for improvement might be. To get the students up to speed we played back the findings from our user testing sessions and results of interviews with our users to help with foundational research. After a kick-off workshop students got a chance to use our demo charge point unit, and get to know the product first hand.
+There’s a lot to get up to speed on with char.gy, the kick-off session covered the landscape of electric car charging, current trends, what common problems people have with electric charging and what potential areas for improvement might be. To get the students up to speed we played back the findings from our user testing sessions and results of interviews with our users to help with foundational research. After a kick-off workshop students got a chance to use our demo charge point unit, and get to know the product first hand.
 
 ![Using a char.gy](/assets/images/uploads/lcc-chargy-demo-2x.jpg)
 
@@ -34,7 +34,7 @@ There’s a lot to get up to speed on with char.gy, the kick-off session covered
 
 After a sprint of completing research activities around their selected briefs, the students brought a list of pain points to opportunity areas to start to work towards new solutions. 
 
-Through guided workshops the students we're able to learn some stable prototyping techniques such as journey mapping, pain points, how might we's, crazy eights and concept sketching.
+Through guided workshops the students we're able to learn some staple prototyping techniques such as journey mapping, pain points, how might wes, crazy eights and concept sketching.
 
 ![Co-design workshop](/assets/images/uploads/lcc-chargy-sketching-2x.jpg)
 
