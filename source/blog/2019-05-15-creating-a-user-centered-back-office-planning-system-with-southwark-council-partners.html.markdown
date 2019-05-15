@@ -10,7 +10,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8d94a491db676030feb0555035be6195.JPG
 date: '2019-05-15T16:30:40+01:00'
-published: false
+published: true
 ---
 Planning departments in local authorities are currently experiencing a sector-wide problem: back-end case management systems aren’t meeting the needs of the Planning Officers using them.<br/>
 
