@@ -7,7 +7,7 @@ tags:
   - Innovation
   - Lean
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/75c28347b6d1316ef23b4ee2b14a78c5.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ff2140ce8f57a83255a17daf70659d2e.png
 date: '2019-05-16T16:00:23+01:00'
 published: true
 ---
