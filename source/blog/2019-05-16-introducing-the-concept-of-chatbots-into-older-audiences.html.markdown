@@ -9,7 +9,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/75c28347b6d1316ef23b4ee2b14a78c5.png
 date: '2019-05-16T16:00:23+01:00'
-published: false
+published: true
 ---
 Chatbots are very much a current theme at the centre of a number of product teams at the moment. From exploring ways of meeting increasing service demand through to identifying the next “big” way of interacting with customers — there are a number of different ways in which chatbots have the potential to integrate into existing products and services to benefit the customer, their experience and the product or service provider.<br/>
 
@@ -21,11 +21,9 @@ One innovative, groundbreaking digital experience example has the potential to o
 
 # Putting chatbots into practice
 
-An Unboxed team has recently been working on a project looking to explore how to help older audiences better understand guidance around their financial options, ensuring they make the right decision for their individual situation, based on their own circumstances and needs.<br/>\
+As part of a recent discovery phase, an Unboxed team has been looking into chatbots as a potential way of supporting online guidance of older audiences, who are looking to make decisions based on their individual circumstances and needs.<br/>\
 \
-As part of the discovery phase, the concept of a chatbot was introduced as a potential way of providing guidance through a supporting channel, based on specific topics.<br/>\
-\
-Through designing a simple pilot user journey, repurposing existing content and mocking up a series of simple, coded prototypes, the team headed out to put these concepts into the hands of existing service users to begin understanding:<br/>
+Through repurposing existing content, designing a simple pilot user journey and mocking up a series of simple, coded prototypes, the team headed out to put these concepts into the hands of existing service users to begin understanding:<br/>
 
 * How users would react when presented with this option in a standalone environment;
 * The behaviours around tying a chatbot concept to a personal subject matter;
