@@ -71,7 +71,8 @@ Following this session, teamed with opportunity statements from user interviews,
 ![A data-informed workflow](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6c01990f56303d84b51754137baf8d7b.png)
 
 * **A collaborative 3D workflow<br/>**
-  A future-oriented workflow, where an openly available 3D city plan is co-created through new planning applications that include submissions of 3D models
+  A future-oriented workflow, where an openly available 3D city plan is co-created through new planning applications that include submissions of 3D models\
+  <br/>
 
 # What’s next?
 
