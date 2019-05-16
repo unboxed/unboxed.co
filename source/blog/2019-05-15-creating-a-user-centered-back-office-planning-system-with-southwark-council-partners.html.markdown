@@ -31,17 +31,17 @@ Enabled through the [Ministry of Housing, Communities and Local Government](http
 
 # 
 
+<br/>
+
 # Discovering the pain of Planning Officers
 
-\
 An Unboxed team (including team member from Hackney Council) has been working with this partnership, consisting of Southwark Council, Hackney Council, Greater London Authority and Connected Places Catapult, across an 8-week discovery phase to begin forming an understanding of the pain experienced by Planning Officers through existing systems and processes.<br/>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/319511844" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <p><a href="https://vimeo.com/319511844">Back Office Planning Discovery &ndash; Week 1</a> from <a href="https://vimeo.com/ubxd">Unboxed</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-From discovery, some of the insights uncovered include:<br/>
-
+From discovery, some of the insights uncovered include:<br/>\
 \
 **Different local authorities have different systems and processes<br/>**
 The planning application process varies from authority to authority, including differences in the classification of different types of planning applications (e.g. application code types and descriptions). Whereas some local authorities drive all their applications through an existing system, some local authorities still have some manual, paper-based processes in place.<br/>
