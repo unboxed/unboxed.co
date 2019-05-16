@@ -8,7 +8,7 @@ tags:
   - Agile
   - Innovation
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8d94a491db676030feb0555035be6195.JPG
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8d5bd1ac6ba51b280ad2525dae5e84f1.png
 date: '2019-05-15T16:30:40+01:00'
 published: true
 ---
