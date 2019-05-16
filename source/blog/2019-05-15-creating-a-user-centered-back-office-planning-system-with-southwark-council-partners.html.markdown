@@ -25,8 +25,7 @@ Over the last few years, a number of pain points have emerged from current syste
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/54Z5X23MYg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Enabled through the [Ministry of Housing, Communities and Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government) (MHCLG) [Local Digital Fund](https://localdigital.gov.uk/fund/), a partnership of local authorities has identified an opportunity to begin understanding how a cross-authority, user-centered solution for providing back-end case management could unlock wider impact across the overall planning system, increasing efficiency.<br/>\
-<br/>
+Enabled through the [Ministry of Housing, Communities and Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government) (MHCLG) [Local Digital Fund](https://localdigital.gov.uk/fund/), a partnership of local authorities has identified an opportunity to begin understanding how a cross-authority, user-centered solution for providing back-end case management could unlock wider impact across the overall planning system, increasing efficiency.<br/>
 
 # Discovering the pain of Planning Officers
 
