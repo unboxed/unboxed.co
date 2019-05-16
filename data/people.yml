@@ -78,34 +78,6 @@
   social_networks:
     - name: LinkedIn
       link: https://www.linkedin.com/in/celia-collins-275783150/
-- name: Murray Steele
-  short_name: murray-steele
-  role: Developer
-  email: murray.steele
-  bio: |
-    There's only so much a developer can do on their own, even when supplied with
-    a bottomless cup of Darjeeling and all the Scottish indie-pop their ears desire.
-    At least, that's what I've learned in my years as a web developer and why I joined
-    Unboxed Consulting. It's a great team of smart people with an amazing focus on
-    agile development processes and I'm glad to be a part of it.
-  social_networks:
-  - name: Twitter
-    link: https://twitter.com/hlame
-  - name: LinkedIn
-    link: https://uk.linkedin.com/in/hlame
-  - name: GitHub
-    link: https://github.com/h-lame
-- name: Elena Tanasoiu
-  short_name: elena-tanasoiu
-  role: Developer
-  email: elena.tanasoiu
-  social_networks:
-  - name: Twitter
-    link: https://twitter.com/elenatanasoiu
-  - name: LinkedIn
-    link: https://uk.linkedin.com/in/elenatanasoiu
-  - name: GitHub
-    link: https://github.com/elenatanasoiu
 - name: Vicky Peel
   short_name: vicky-peel
   role: Operations
