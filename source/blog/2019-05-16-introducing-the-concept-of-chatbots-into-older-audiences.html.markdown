@@ -17,7 +17,8 @@ Chatbots are very much a current theme at the centre of a number of product team
 
 As technology progresses, it can evidently be seen how different digital experiences are integrating into people’s day-to-day behaviours and lives. For example, from [renewing your passport online](https://www.gov.uk/renew-adult-passport/renew), to [ordering dinner through an app](https://deliveroo.co.uk/), and even [charging your electric vehicle via the assistance of your smartphone](https://char.gy/).<br/>
 
-One innovative, groundbreaking digital experience example has the potential to open the doors across many other areas and bring this to a wider audience adoption.<br/>\
+One innovative, groundbreaking digital experience example has the potential to open the doors across many other areas and bring this to a wider audience adoption.<br/>
+
 <br/>
 
 # Putting chatbots into practice
