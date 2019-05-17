@@ -31,10 +31,7 @@ Through repurposing existing content, designing a simple pilot user journey and 
 * The behaviours around tying a chatbot concept to a personal subject matter;
 * The types of questions users would be looking to ask on this topic
 
-
 ![Chatbot in practice](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/bc5db7786a0c784a1f374c6c933cf92e.png)
-
-
 
 # What did the team learn?
 
@@ -60,7 +57,7 @@ From grouping insights and synthesising each of these sessions, our team learned
   <br/>
 * **It often rates lower on a scale of preference, but not always** — when giving users the opportunity to rank their preference of how to receive complex information and share personal details, the chatbot (in this case) ranks lower than face-to-face, telephone and webchat channels. It does, however, rank higher for asking simple questions.<br/>
 
-In conclusion, our team found that whilst a chatbot wasn’t suitable for the purpose and audience that we were exploring, or what we were looking to achieve in this project phase, there is a strong user case for this channel to assist people of a lower digital confidence.<br/>
+In conclusion, our team found that whilst a chatbot wasn’t suitable for this need and audience that we were exploring, there is a strong user case for this channel to assist people of a lower digital confidence.<br/>
 
 The interface is similar to some familiar day-to-day tasks, such as sending a text message, as well as being simple enough to lower the chance of pressing the wrong button or users giving up due to confusion over how it works.<br/>
 
