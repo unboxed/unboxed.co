@@ -16,7 +16,7 @@ published: true
 ---
 Just over two years ago, I graduated from London College of Communication on the then [MDes Service Design and Innovation course](https://masedi.myblog.arts.ac.uk/). This year, I was invited back to help out with the collaborative unit. This unit is all about collaborating with others, whether it’s stakeholders, service users or other designers. This is a project that takes place with a live project, in an industry setting. I travelled down to Elephant and Castle with Henry to talk on behalf of [char.gy](https://char.gy) as the client that the students would work with.
 
-Over the course of 8 weeks students the students worked in teams to undertake research, scope the landscape, and develop early prototypes based on some identified challenges faced by char.gy. We proposed six briefs, with some difficult challenges to give students a taste of working on a real world project. It was conducted in an agile way, following the kind of process that we might use in a regular project.
+Over the course of 8 weeks, the students worked in teams to undertake research, scope the landscape, and develop early prototypes based on some identified challenges faced by char.gy. We proposed six briefs, with some difficult challenges to give students a taste of working on a real world project. It was conducted in an agile way, following the kind of process that we might use in a regular project.
 
 ![The briefs](/assets/images/uploads/lcc-chargy-briefs-2x.jpg)
 
