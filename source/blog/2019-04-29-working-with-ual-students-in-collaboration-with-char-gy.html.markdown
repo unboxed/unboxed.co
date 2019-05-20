@@ -34,7 +34,7 @@ There’s a lot to get up to speed on with char.gy, the kick-off session covered
 
 After a sprint of completing research activities around their selected briefs, the students brought a list of pain points to opportunity areas to start to work towards new solutions. 
 
-Through guided workshops, the students we're able to learn some staple prototyping techniques such as journey mapping, pain points, 'How Might We' statements, crazy eights and concept sketching.
+Through guided workshops, the students were able to learn some staple prototyping techniques such as journey mapping, pain points, 'How Might We' statements, crazy eights and concept sketching.
 
 ![Co-design workshop](/assets/images/uploads/lcc-chargy-sketching-2x.jpg)
 
@@ -42,7 +42,7 @@ Through guided workshops, the students we're able to learn some staple prototypi
 
 # Student stories
 
-The main focus of the project was to give students an idea of the environment designers work in, and how to collaborate with other stakeholders. I’ll now pass over to the students themselves to describe their learnings.
+The main focus of the project was to give students an idea of the environment designers work in, and how to collaborate with other stakeholders. I’ll now pass over to the students themselves to describe their learnings... 
 
 ## Jesse Lai
 
