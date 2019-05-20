@@ -20,7 +20,7 @@ Over the course of 8 weeks students the students worked in teams to undertake re
 
 ![The briefs](/assets/images/uploads/lcc-chargy-briefs-2x.jpg)
 
-_Each team received a different brief focusing on an area that could be improved._
+<i>Each team received a different brief focusing on an area that could be improved.</i>
 
 # Kick-off and demo
 
@@ -28,7 +28,7 @@ There’s a lot to get up to speed on with char.gy, the kick-off session covered
 
 ![Using a char.gy](/assets/images/uploads/lcc-chargy-demo-2x.jpg)
 
-_Students interacting with the charge point using their own phones to understand the existing user experience._
+<i>Students interacting with the charge point using their own phones to understand the existing user experience.</i>
 
 # Co-designing new solutions
 
@@ -38,13 +38,13 @@ Through guided workshops, the students we're able to learn some staple prototypi
 
 ![Co-design workshop](/assets/images/uploads/lcc-chargy-sketching-2x.jpg)
 
-_Using crazy eights to quickly come up with new ideas._
+<i>Using crazy eights to quickly come up with new ideas.</i>
 
 # Student stories
 
-_The main focus of the project was to give students an idea of the environment designers work in, and how to collaborate with other stakeholders. I’ll now pass over to the students themselves to describe their learnings._
+The main focus of the project was to give students an idea of the environment designers work in, and how to collaborate with other stakeholders. I’ll now pass over to the students themselves to describe their learnings.
 
-## _Jesse Lai_
+## Jesse Lai
 
 Halfway through the project, we were struggling with our direction, and we found that the traditional [double diamond](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond) wasn't matching our design process. So, we sought out helpful model from other sources. We found that the Double Diamond from Continuum innovation was perfect for us. So, we use that model to guide us step by step.
 
@@ -52,9 +52,9 @@ One of the biggest factors in this project for us was time limitation, and this 
 
 ![communication methods](/assets/images/uploads/unnamed.jpg)
 
-_Examples of how Jesse's team created new tools to collaborate._
+<i>Examples of how Jesse's team created new tools to collaborate.</i>
 
-## _Jennifer Glasser_
+## Jennifer Glasser
 
 In order to improve any product, experience or service, as designers, we must first understand the existing user experience journey, tune into the opportunities that arise and glean valuable insights to work from. At the time of our project, Char.gy had two existing charging posts, a small user base, and a service that was not yet fully developed. Our team needed to be resourceful in order to access users to interview. 
 
@@ -64,9 +64,9 @@ Using the “Service Safari” method was particularly helpful in gaining valuab
 
 ![Service safari](/assets/images/uploads/service-safari.png)
 
-_Excerpt from the service safari video undertaken to understand the service as a first time user_
+<i>Excerpt from the service safari video undertaken to understand the service as a first time user.</i>
 
-## _Yutong Xiao_
+## Yutong Xiao
 
 In the beginning, we conducted various research methods with teammates to ensure we encapsulated the background of the EV market demand in London. In particular, one of the challenges we faced was finding test users to talk in the time available. But significantly, three of our classmates did an auto-ethnography, personally trying to rent an electric car through car rental and driving it to the closest char.gy device — to ensure we got the knowledge and empathy that could enhance the further design process.
 
