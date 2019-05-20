@@ -19,8 +19,7 @@ Over the last few years, a number of pain points have emerged from current syste
 * 40%+ of applications submitted via Planning Portal arrive incomplete, resulting in lengthier administration processes and higher costs
 * Poor and non-responsive user interfaces make it difficult for Planning Officers to succeed in meeting their goals
 * Poor data quality and data accessibility is affecting authority strategic considerations
-  A lack of required integration capabilities across different systems is blocking streamlined
-* processes, increasing administration activity
+  A lack of required integration capabilities across different systems is blocking streamlined processes, increasing administration activity
 * Local authorities are reliant on external software providers to update their product roadmaps, based on feedback — a lengthy and non-guaranteed process
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/54Z5X23MYg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
