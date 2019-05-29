@@ -17,13 +17,13 @@ Chatbots are very much a current theme at the centre of a number of product team
 
 As technology progresses, it can evidently be seen how different digital experiences are integrating into people’s day-to-day behaviours and lives. For example, from [renewing your passport online](https://www.gov.uk/renew-adult-passport/renew), to [ordering dinner through an app](https://deliveroo.co.uk/), and even [charging your electric vehicle via the assistance of your smartphone](https://char.gy/).<br/>
 
-One innovative, groundbreaking digital experience example has the potential to open the doors across many other areas and bring this to a wider audience adoption.<br/>
+One innovative, groundbreaking digital experience example has the potential to open the doors across many other areas and bring this to wider audience adoption.<br/>
 
 <br/>
 
 # Putting chatbots into practice
 
-As part of a recent discovery phase, an Unboxed team has been looking into chatbots as a potential way of supporting online guidance of older audiences, who are looking to make decisions based on their individual circumstances and needs.<br/>
+As part of a recent discovery phase, an Unboxed team has been looking into chatbots as a potential way of supporting online guidance for older audiences, who are looking to make decisions based on their individual circumstances and needs.<br/>
 
 Through repurposing existing content, designing a simple pilot user journey and mocking up a series of simple, coded prototypes, the team headed out to put these concepts into the hands of existing service users to begin understanding:<br/>
 
@@ -47,18 +47,18 @@ Some of the positive feedback received includes:<br/>
 
 From grouping insights and synthesising each of these sessions, our team learned:<br/>
 
-* **It’s quick to test and learn** — there are a number of chatbot platforms available online to use as prototype concepts, such as IBM Watson Assistant, in which example content can be created and uploaded, then put into the hands of users for shadowing, quick testing and rapid feedback.<br/>
+* **It’s quick to test and learn** — there are a number of chatbot platforms available online to use as prototype concepts, such as [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/), in which example content can be created and uploaded, then put into the hands of users for shadowing, quick testing and rapid feedback.<br/>
   <br/>
-* **Tone of voice is vital** — translating the medium of conversation into written responses to a wide range of individual questions is a very challenging task, especially when involving personal subject matters. Any feeling of doubt that a chatbot “doesn’t understand” makes people think twice about using and trusting this tool.<br/>
+* **Tone of voice is vital** — translating the medium of conversation into written responses to a wide range of individual questions is a very challenging task, especially when involving personal subject matters. Any feeling of doubt that a chatbot “doesn’t understand” makes people think twice about trusting and using this tool.<br/>
   <br/>
 * **There are varying levels of trust between webchat and chatbots** — users feel more comfortable with the knowledge that someone is sitting at the other side of the screen (webchat) than “speaking to a robot” (chatbot).<br/>
   <br/>
 * **It provides an intuitive interface** — the chatbot concept works quite well with users of a lower digital confidence, thanks to a simple interface of question and answer functionality.<br/>
   <br/>
-* **It often rates lower on a scale of preference, but not always** — when giving users the opportunity to rank their preference of how to receive complex information and share personal details, the chatbot (in this case) ranks lower than face-to-face, telephone and webchat channels. It does, however, rank higher for asking simple questions.<br/>
+* **It often rates lower on a scale of preference, but not always** — when giving users the opportunity to rank their preference of how to receive information and share personal details, the chatbot (in this case) ranks lower than face-to-face, telephone and webchat channels. It does, however, rank higher for asking simple questions.<br/>
 
-In conclusion, our team found that whilst a chatbot wasn’t suitable for this need and audience that we were exploring, there is a strong user case for this channel to assist people of a lower digital confidence.<br/>
+In conclusion, our team found that whilst a chatbot wasn’t suitable for the need and audience that we've been exploring in this project phase, there is a potential user case for this channel to assist people of a lower digital confidence.<br/>
 
-The interface is similar to some familiar day-to-day tasks, such as sending a text message, as well as being simple enough to lower the chance of pressing the wrong button or users giving up due to confusion over how it works.<br/>
+The interface is similar to some familiar day-to-day tasks, such as sending a text message, as well as being simple enough to lower the chance of pressing the wrong button or people giving up due to confusion over how it works.<br/>
 
 Some potential further opportunities surrounding chatbots could be around efficient ways for local authorities and central government to gather simple information from those who are less likely to use technology to access services.
