@@ -49,7 +49,7 @@ From grouping insights and synthesising each of these sessions, our team learned
 
 * **It’s quick to test and learn** — there are a number of chatbot platforms available online to use as prototype concepts, such as [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/), in which example content can be created and uploaded, then put into the hands of users for shadowing, quick testing and rapid feedback.<br/>
   <br/>
-* **Tone of voice is vital** — translating the medium of conversation into written responses to a wide range of individual questions is a very challenging task, especially when involving personal subject matters. Any feeling of doubt that a chatbot “doesn’t understand” makes people think twice about trusting and using this tool.<br/>
+* **Tone of voice is vital** — translating the medium of conversation into written responses to a wide range of individual questions is a very challenging task, especially when involving personal subject matters. Any feeling of doubt that a chatbot “doesn’t understand” can make people think twice about trusting and using this tool.<br/>
   <br/>
 * **There are varying levels of trust between webchat and chatbots** — users feel more comfortable with the knowledge that someone is sitting at the other side of the screen (webchat) than “speaking to a robot” (chatbot).<br/>
   <br/>
