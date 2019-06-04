@@ -1,0 +1,152 @@
+---
+title: "Product Story - Jersey Petitions - Launching Jersey Petitions through an open source approach with States of Jersey"
+
+header:
+  client: "States of Jersey"
+  introduction: "Launching Jersey Petitions through an open source approach with States of Jersey"
+  image: "/product-stories/jersey-petitions/header.jpg"
+  image_description: "Jersey Petitions"
+
+introduction:
+  title: "Launched public platform for opening engagement between public and States Assembly"
+  content:
+    - "5 weeks development to live launch in August 2018"
+    - "System built reusing open source codebase of UK Parliament’s Petitions platform"
+    - "Accelerated Ruby on Rails development through forking existing code, saving time and cost"
+    - "Launched platform with 26,059 signatures received to date"
+  image: "/product-stories/jersey-petitions/website-and-phone.jpg"
+  image_description: "Jersey petitions website on a computer and on a phone"
+
+in_numbers_1:
+  title: "Jersey Petitions in numbers"
+  project: "jersey-petitions"
+  statistics:
+    - number: "5"
+      text: "Weeks of development to live launch"
+    - number: "49,653"
+      text: "Signatures to date (June 2019)"
+
+increasing_engagement:
+  title: "Increasing engagement between Jersey Islanders and the States Assembly"
+  content: "In January 2018, Jersey's politicians unanimously agreed on an online facility for petitions,
+  making it easier for Islanders to make their views known to the States Assembly.
+  Through exploration of platforms used by other Parliaments, States Assembly identified requirements
+  matching those of UK Government and Parliament's Petitions — an open source platform,
+  built and launched in 2015 through collaboration between Government Digital Service and Unboxed."
+  image: "/product-stories/jersey-petitions/petitions-on-phone.jpg"
+  image_description: "A person looking at Jersey petitions on their phone"
+
+quote_mark_egan_1:
+  quote: "Petitions.gov.je has been created with Unboxed to deliver an online solution for the public
+    to quickly and easily engage with the States Assembly by submitting and/or supporting online
+    petitions, and as a result, engaging more of the public in Jersey’s democracy."
+  source: "Dr. Mark Egan, Greffier of the States — States Assembly"
+
+reusing_open_source_codebase:
+  title: "Reusing open source codebase of UK Parliament’s Petitions"
+  content: "Developing the UK Government and Parliament's Petitions platform through
+    open source technologies allowed for the team to copy the existing codebase through GitHub,
+    with no licence costs, as a starting point, resulting in an exact replica of features and
+    functionality. Jersey-specific requirements for the platform included amending location-specific
+    postcode functionality and introducing a new colour scheme."
+  image: "/product-stories/jersey-petitions/petitions-on-tablet.jpg"
+  image_description: "A person looking at Jersey petitions on a tablet"
+
+in_numbers_2:
+  title: "Jersey Petitions in numbers"
+  project: "jersey-petitions"
+  statistics:
+    - number: "87"
+      text: "Petitions opened to date (December 2018)"
+    - number: "17"
+      text: "Petitions to receive response from Minister to date (June 2019)"
+
+increasing_engagement_other:
+  title: "Increasing engagement between Jersey Islanders and the States Assembly"
+  content: "After six weeks, Jersey Petitions launched into the public domain, opening up a
+    new channel of communication between States Assembly and Jersey’s 100,000 Islanders.
+    Since launching in August 2018, 54 petitions have been opened by members of the public,
+    receiving a combined 26,059 signatures to date. Ten petitions have passed the 1,000+ signature
+    threshold, resulting in direct responses from Ministers."
+  image: "/product-stories/jersey-petitions/petitions-second-tablet.jpg"
+  image_description: "A person looking at Jersey petitions on their tablet"
+
+quote_mark_egan_2:
+  quote: "Having welcomed over 35,000 visitors and seen 30 petitions created in just 50 days,
+    since launching, we are already experiencing a great achievement for a new concept on an island
+    of just 100,000 people."
+  source: "Dr. Mark Egan, Greffier of the States — States Assembly"
+
+team:
+  title: "Unboxed team"
+  people:
+    - full_name: "Andrew White"
+      image: "/product-stories/jersey-petitions/team/andrew-white.png"
+      link: "/people#andrew-white"
+
+    - full_name: "Neil van Beinum"
+      image: "/product-stories/jersey-petitions/team/neil-van-beinum.png"
+      link: "/people#neil-van-beinum"
+
+    - full_name: "Steve Lennon"
+      image: "/product-stories/jersey-petitions/team/steve-lennon.png"
+      link: "/people#steve-lennon"
+
+site:
+  link: "https://petitions.gov.je/"
+  text: "Visit Jersey Petitions"
+
+links:
+  - title: "States Assembly launches new website and e-petitioning"
+    source: "States Assembly"
+    type: "news"
+    link: "https://statesassembly.gov.je/news/pages/States-Assembly-launches-new-website-and-e-petitioning.aspx "
+
+  - title: "Revised Assembly website features online petitions"
+    source: "Jersey Evening Post"
+    type: "news"
+    link: "https://jerseyeveningpost.com/news/2018/08/07/revised-assembly-website-features-online-petitions/ "
+
+related:
+  title: "Related"
+  articles:
+    - title: "50 days of online petitions in Jersey"
+      type: "news"
+      link: "https://www.itv.com/news/channel/2018-09-23/50-days-of-online-petitions-in-jersey/ "
+
+    - title: "Record-breaking EU 2nd referendum petition hits 3.9 million signatures and rising"
+      type: "news"
+      link: "https://unboxed.co/news/record-breaking-eu-2nd-referendum-petition-hits-3-9-million-signatures-and-rising-most-popular-parliament-petition-ever/"
+
+    - title: "New government Petitions website launched, developed in partnership with Unboxed"
+      type: "news"
+      link: "https://unboxed.co/news/new-government-petitions-website-launched-developed-in-partnership-with-unboxed-consulting/ "
+---
+
+<%= partial 'shared/page_header', locals: current_page.data.header %>
+
+<div class="container" data-header-waypoint>
+  <%= partial 'shared/full_image', locals: current_page.data.header %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
+
+  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_1 %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.increasing_engagement %>
+
+  <%= partial 'shared/quote', locals: current_page.data.quote_mark_egan_1 %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.reusing_open_source_codebase %>
+
+  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_2 %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.increasing_engagement_other %>
+
+  <%= partial 'shared/quote', locals: current_page.data.quote_mark_egan_2 %>
+
+  <%= partial 'shared/project_team' %>
+
+  <%= partial 'shared/link_tiles' %>
+
+  <%= partial 'shared/related_tiles' %>
+</div>
