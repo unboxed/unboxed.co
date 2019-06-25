@@ -10,7 +10,7 @@ tags:
   - Innovation
 main_image: ' https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dd6582d66ddea03c452fca7c5b262bf1.png'
 date: '2019-06-24T21:22:45+01:00'
-published: false
+published: true
 ---
 Loneliness, isolation and mental health are becoming bigger issues in our society. It can be a problem for anyone, of any age or gender. There's more talk about how, as individuals, we need to be more resilient to handle the stresses of modern life, but we're also becoming more disconnected from one of the most important things in our lives that helps us to be more resilient, and better cope with mental health problems, loneliness and isolation.<br/>
 
