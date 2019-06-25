@@ -66,7 +66,7 @@ The challenges for these people, firstly, is that they already have another job 
 
 Despite the challenges these valuable people within the community face, there’s still plenty of ways we think they could be supported to help local residents when they need it, and encourage resilience and better relationships locally.<br/>
 
-![Notice board](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/863859ba7b70736abb8c3b89a552fd52.png)
+![Notice board 2](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/863859ba7b70736abb8c3b89a552fd52.png)
 
 For example, currently the hairdresser has set up a WhatsApp group for local people to offer to help an elderly lady get to her weekly hair appointment when she became too frail to walk there on her own. This idea could be used in other contexts, with residents helping elderly people get out and about, get to GP appointments, the pharmacy, have lunch out, all the while also creating opportunities for human connections to happen.<br/>
 
