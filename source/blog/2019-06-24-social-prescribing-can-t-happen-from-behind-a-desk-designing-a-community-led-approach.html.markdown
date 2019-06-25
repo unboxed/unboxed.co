@@ -8,18 +8,15 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/863859ba7b70736abb8c3b89a552fd52.png
+main_image: ' https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dd6582d66ddea03c452fca7c5b262bf1.png'
 date: '2019-06-24T21:22:45+01:00'
-published: false
+published: true
 ---
 Loneliness, isolation and mental health are becoming bigger issues in our society. It can be a problem for anyone, of any age or gender. There's more talk about how, as individuals, we need to be more resilient to handle the stresses of modern life, but we're also becoming more disconnected from one of the most important things in our lives that helps us to be more resilient, and better cope with mental health problems, loneliness and isolation.<br/>
 
 In the UK, traditional institutions that could help are struggling to remain relevant - church attendance is declining, local assets and services cannot rely on the funding they require to survive and flourish, and our health and care system has become chronically over-stretched and under-resourced. This has left fewer opportunities to connect with others, to be a part of a supportive network of people and to know that someone cares and has your back.<br/>
 
 One approach to this that the NHS is currently exploring and promoting to help tackle these issues is the concept of social prescribing - connecting patients with local communities to support each other.<br/>
-
-
 
 # Social prescribing should be about human connections, not just a way to alleviate pressure on primary care
 
@@ -37,8 +34,6 @@ The emphasis here is on creating human connections that hopefully will lead to m
 
 ![Social prescribing](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7c14fbbe0f34f24c4fcfbe26dc5f5ff4.png)
 
-
-
 # You can’t create human connections from behind a desk
 
 Creating the spaces and places that enable people to connect in this way requires people on the ground, focussed on creating and facilitating those sorts of connections. As part of our research, we’ve identified a group of people that we called “Activators”. These people are highly active in their community, super networkers and are at the heart of a community group or service.<br/>
@@ -53,7 +48,7 @@ However, a challenge they have is getting new people to attend. Activators have 
 
 “Getting new people through the door is hard - some people feel at home in community centres, other people feel it’s not for them.”<br/>
 
-![Notice board](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1453cc5713c0e9c870dd7ac69ff349d5.png)
+![Awesome dogs](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/054b4310b9427d339aa815848e0500ee.png)
 
 Our team has also identified a second group of people that could be invaluable to helping create local support networks. We call this group of people “Listeners”. These are people who hold a position within the community that afforded them to spend some time individually with local residents and really get to know them, even though they aren’t really connected to the health and care system. In Nunhead we found Listeners in the local hairdresser, the local pharmacy staff, and even to a certain extent the owner of the cafe and the barman in the local pub.<br/>
 
@@ -64,8 +59,6 @@ This group of people can observe and get to know people in a more relaxed enviro
 “When a client started missing her appointments I called her, she was touched I cared. She was struggling to come to terms with her recent Alzheimers’ diagnosis, I called the Alzheimers’ society on her behalf.”<br/>
 
 The challenges for these people, firstly, is that they already have another job to do, so demands on them can’t be too high. Another challenge in this situation is knowing when it’s ok to get involved or ask questions of people. We heard from the GP surgery for example that due to patient privacy, they wouldn’t even confirm if a patient was or wasn’t registered there, let alone if someone unrelated to a patient tried to let them know that a person was struggling.<br/>
-
-
 
 # There’s plenty of opportunity to take better advantage of local assets and resources within the community
 
