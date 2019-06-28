@@ -1,7 +1,7 @@
 ---
 weekly_roundup: true
 title: "Roundup: Design research, Puma 4, and women in tech"
-date: '2019-06-28 12:00:00 GMT'
+date: '2019-06-28 11:30:00 GMT'
 authors:
   - 'Celia Collins'
 tags: # (Delete as appropriate)
