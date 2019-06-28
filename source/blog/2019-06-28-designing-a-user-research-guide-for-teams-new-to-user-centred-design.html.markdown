@@ -19,8 +19,8 @@ _Unboxed recently attended a roundtable discussion organised by HACT and the Cha
 # Introducing User research
 
 ![Interview guide](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e7c45e32061542df27eb7c73ea92ad29.png)
-*Our free to download user interview guide*
+*Our short introduction to doing user interviews*
 
 Out of this conversation we have put together a short guide for teams who are looking to get started and take their first step into taking a more user centred approach to project work. This introduction will look specifically at how to start doing user interviews, explaining the purpose of doing interviews, what’ll you’ll need to start and how to conduct the interviews to get the most out of them. Whilst just one part of user centred design process, doing interviews are a complex subject and we’ve tried to make the guide as straightforward as possible. We see it as a handy tool to bring with at interviews or discuss at meetings.
 
-The guide is free and open source, and you can [view and download it here](http://bit.ly/-user-interview-guide).
+The guide is available to [view and download it here](http://bit.ly/-user-interview-guide).
