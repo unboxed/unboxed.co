@@ -17,8 +17,7 @@ Loneliness, isolation and mental health are becoming bigger issues in our societ
 
 In the UK, traditional institutions that could help are struggling to remain relevant - church attendance is declining, local assets and services cannot rely on the funding they require to survive and flourish, and our health and care system has become chronically over-stretched and under-resourced. This has left fewer opportunities to connect with others, to be a part of a supportive network of people and to know that someone cares and has your back.<br/>
 
-One approach to this that the NHS is currently exploring and promoting to help tackle these issues is the concept of social prescribing - connecting patients with local communities to support each other.<br/>\
-<br/>
+One approach to this that the NHS is currently exploring and promoting to help tackle these issues is the concept of social prescribing - connecting patients with local communities to support each other.<br/>
 
 # Social prescribing should be about human connections, not just a way to alleviate pressure on primary care
 
@@ -35,8 +34,6 @@ To begin exploring how social prescribing can be facilitated across local commun
 The emphasis here is on creating human connections that hopefully will lead to meaningful and supportive relationships that see people through tougher times.<br/>
 
 ![Social prescribing](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7c14fbbe0f34f24c4fcfbe26dc5f5ff4.png)
-
-<br/>
 
 # You can’t create human connections from behind a desk
 
@@ -63,8 +60,6 @@ This group of people can observe and get to know people in a more relaxed enviro
 <i>“When a client started missing her appointments I called her, she was touched I cared. She was struggling to come to terms with her recent Alzheimers’ diagnosis, I called the Alzheimers’ society on her behalf.”</i><br/>
 
 The challenges for these people, firstly, is that they already have another job to do, so demands on them can’t be too high. Another challenge in this situation is knowing when it’s ok to get involved or ask questions of people. We heard from the GP surgery for example that due to patient privacy, they wouldn’t even confirm if a patient was or wasn’t registered there, let alone if someone unrelated to a patient tried to let them know that a person was struggling.<br/>
-
-<br/>
 
 # There’s plenty of opportunity to take better advantage of local assets and resources within the community
 
