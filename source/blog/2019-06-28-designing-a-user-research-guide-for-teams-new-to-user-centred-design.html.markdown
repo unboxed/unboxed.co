@@ -10,7 +10,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e7c45e32061542df27eb7c73ea92ad29.png
 date: '2019-07-04T09:09:00+01:00'
-published: true
+published: false
 ---
 Unboxed was recently invited to attend and contribute to an insightful roundtable discussion, organised by [HACT (Housing Associations' Charitable Trust)](https://www.hact.org.uk/) and the [Chartered Institute of Housing](http://www.cih.org/).
 
