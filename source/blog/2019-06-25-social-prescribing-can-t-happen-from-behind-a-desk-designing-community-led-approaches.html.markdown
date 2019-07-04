@@ -13,7 +13,7 @@ main_image: >-
 date: '2019-06-25T19:47:13+01:00'
 published: true
 ---
-Loneliness, isolation and mental health are becoming bigger issues in our society. It can be a problem for anyone, of any age or gender. There's more talk about how, as individuals, we need to be more resilient to handle the stresses of modern life, but we're also becoming more disconnected from one of the most important things in our lives that helps us to be more resilient, and better cope with mental health problems, loneliness and isolation.<br/>
+Loneliness, isolation and mental health are becoming bigger issues in our society. It can be a problem for anyone, of any age or gender. There's more talk about how, as individuals, we need to be more resilient to handle the stresses of modern life, but we're also becoming more disconnected from one of the most important things in our lives that helps us to be more resilient, and better cope with mental health problems, loneliness and isolation.<br/> 
 
 In the UK, traditional institutions that could help are struggling to remain relevant - church attendance is declining, local assets and services cannot rely on the funding they require to survive and flourish, and our health and care system has become chronically over-stretched and under-resourced. This has left fewer opportunities to connect with others, to be a part of a supportive network of people and to know that someone cares and has your back.<br/>
 
