@@ -15,15 +15,11 @@ published: true
 ---
 Unboxed was recently invited to attend and contribute to an insightful roundtable discussion, organised by [HACT (Housing Associations' Charitable Trust)](https://www.hact.org.uk/) and the [Chartered Institute of Housing](http://www.cih.org/).
 
-This session focused on why digital transformation seems to be struggling to gain traction in the housing sector, when compared to other public services, and what changes in culture and leadership are needed to drive this forward. Attendees held diverse roles across different organisations and associations, with an overriding emerging theme, regardless of organisation or role held, was that to be successful the sector needs to put residents at the centre of what it does.
-
-
+This session focused on why digital transformation seems to be struggling to gain traction in the housing sector, when compared to other public services, and what changes in culture and leadership are needed to drive this forward. Attendees held diverse roles across different organisations and associations, with common themes emerging around a need to put residents at the very centre of what the sector does, in order to achieve success.
 
 # Introducing user research
 
 ![Introducing user research](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e7c45e32061542df27eb7c73ea92ad29.png)
-
-
 
 To begin introducing resident-led conversations and approaches into the sector, we have put together a short guide to help teams who are looking to take their first steps into user-centered approaches to service delivery.
 
