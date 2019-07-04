@@ -17,8 +17,7 @@ Loneliness, isolation and mental health are becoming bigger issues in our societ
 
 In the UK, traditional institutions that could help are struggling to remain relevant - church attendance is declining, local assets and services cannot rely on the funding they require to survive and flourish, and our health and care system has become chronically over-stretched and under-resourced. This has left fewer opportunities to connect with others, to be a part of a supportive network of people and to know that someone cares and has your back.<br/>
 
-One approach to this that the NHS is currently exploring and promoting to help tackle these issues is the concept of social prescribing - connecting patients with local communities to support each other.<br/>\
-<br/>
+One approach to this that the NHS is currently exploring and promoting to help tackle these issues is the concept of social prescribing - connecting patients with local communities to support each other.<br/>
 
 # Social prescribing should be about human connections, not just a way to alleviate pressure on primary care
 
