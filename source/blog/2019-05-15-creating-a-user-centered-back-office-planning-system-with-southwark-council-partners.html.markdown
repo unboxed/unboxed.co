@@ -24,7 +24,8 @@ Over the last few years, a number of pain points have emerged from current syste
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/54Z5X23MYg8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Enabled through the [Ministry of Housing, Communities and Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government) (MHCLG) [Local Digital Fund](https://localdigital.gov.uk/fund/), a partnership of local authorities has identified an opportunity to begin understanding how a cross-authority, user-centered solution for providing back-end case management could unlock wider impact across the overall planning system, increasing efficiency.<br/>
+Enabled through the [Ministry of Housing, Communities and Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government) (MHCLG) [Local Digital Fund](https://localdigital.gov.uk/fund/), a partnership of local authorities has identified an opportunity to begin understanding how a cross-authority, user-centered solution for providing back-end case management could unlock wider impact across the overall planning system, increasing efficiency.<br/>\
+<br/>
 
 # Discovering the pain of Planning Officers
 
@@ -38,10 +39,15 @@ From discovery, some of the insights uncovered include:<br/>
 
 * **Different local authorities have different systems and processes<br/>**
   The planning application process varies from authority to authority, including differences in the classification of different types of planning applications (e.g. application code types and descriptions). Whereas some local authorities drive all their applications through an existing system, some local authorities still have some manual, paper-based processes in place.<br/>
+  <br/>
+
 * **Useful data is difficult to access<br/>**
   Planning application data is currently held in a series of PDF documents, as part of the application process, making it difficult for this to be accessed and used by a number of interested parties (e.g. Greater London Authority’s London Development Database). Improving accessibility and visibility of this data can provide the opportunity to tap into further benefits.<br/>
+  <br/>
+
 * **Inefficiencies are increasing submission timescales<br/>**
-  ‘8-week’ planning applications are typically the highest volume of application types, but often lack the required details, leading to resubmissions and lengthier timescales for both residents and planning teams. Increasing the first-time completion rate of these application types could greatly reduce additional time spent by Planning Officers per application.<br/>
+  ‘8-week’ planning applications are typically the highest volume of application types, but often lack the required details, leading to resubmissions and lengthier timescales for both residents and planning teams. Increasing the first-time completion rate of these application types could greatly reduce additional time spent by Planning Officers per application.<br/>\
+  <br/>
 
 # Two potential propositions
 
