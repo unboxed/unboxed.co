@@ -27,7 +27,7 @@ The gold standard is the [Web Content Accessibility Guidelines (WCAG)](https://w
 
 Avoid vague wording, jargon or technical language, if it's necessary include an explanation or link to a glossary. Introduce acronyms by spelling them out the first time they are used especially if they are used a lot. 
 
-When using links in blocks of text, it’s a good idea to make it clear what the link is for. For example, instead of [list of dates](#) the link could be [view a list of all the dates for consultations this year](#). This provides additional context for what will be on the next page.
+When using links in blocks of text, it’s a good idea to make it clear what the link is for. For example, instead of list of dates, the link could be view a list of all the dates for consultations this year. This provides additional context for what will be on the next page.
 
 # Design and UX
 
