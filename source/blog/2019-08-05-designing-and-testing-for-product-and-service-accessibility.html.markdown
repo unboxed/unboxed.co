@@ -19,8 +19,7 @@ The gold standard is the [Web Content Accessibility Guidelines (WCAG)](https://w
 
 ![null](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2cd57107acd1ddef5e7591000a81aad.png)
 
-<i>Personas with accessibility needs can be useful to ensure care is taken at every stage.</i>\
-<br/>
+<i>Personas with accessibility needs can be useful to ensure care is taken at every stage.</i>
 
 # Content design
 
@@ -38,8 +37,7 @@ Order and flow are important in visual design and it becomes even more important
 
 ![Screen reader](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2fc8f655c5c0017b7f02c665696ca1b3.png)
 
-<i>Using the magnifier tool at different zoom levels to spot problems in the visual design.</i>\
-<br/>
+<i>Using the magnifier tool at different zoom levels to spot problems in the visual design.</i>
 
 # Coding
 
@@ -53,8 +51,7 @@ If you want to emphasise something both on screen and also for screen readers, t
 
 ![Ditch the mouse](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8f06e3630ef09a5e6734e65e6faa5400.jpg)
 
-<i>Try ditching the mouse and using just the keyboard to navigate through an end to end journey a user of your service might take.</i>\
-<br/>
+<i>Try ditching the mouse and using just the keyboard to navigate through an end to end journey a user of your service might take.</i>
 
 # Key insights from testing
 
@@ -76,8 +73,7 @@ There are a lot of [good reasons to move away from PDFs to HTML pages.](https://
 
 ![null](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/943e98f29aee369d2371ee647d8cbca5.png)
 
-<i>A recent user testing session conducted for the National Screening Committee alpha phase.</i>\
-<br/>
+<i>A recent user testing session conducted for the National Screening Committee alpha phase.</i>
 
 # Further reading
 
