@@ -57,17 +57,17 @@ If you want to emphasise something both on screen and also for screen readers, t
 
 To get an idea of the things picked up from testing, here are some insights from a recent round of testing with accessibility users with Public Health England for the [UK National Screening Committee](https://www.gov.uk/government/groups/uk-national-screening-committee-uk-nsc):
 
-## **\#1: Spacing of elements**
+## \#1: Spacing of elements
 
 Because of the narrow field of view of magnifying tools, we found that some of our elements had too much space between them, and weren't explicitly connected. Items on rows can be a problem, that you can alleviate by shading the rows, or aiming to bring elements closer together. We found that checkboxes lost their meaning when they were too far away from the element they were inferring was complete.
 
 One way of mitigating this is to design pages that behave in the same way. If content is consistently left aligned then a user will be able to find information intuitively. If at some point elements are aligned to the right, then this will be an issue.
 
-## **\#2: Hover states**
+## \#2: Hover states
 
 Using hover states is risky with magnifying tools. The tools work by magnifying wherever the cursor is pointed. If the content produced from rolling over an element is outside the field of view of the magnifying tool then it is impossible to see and the content is essentially hidden from view. Avoiding using hover states or hidden content is best practice.
 
-## **\#3: PDFs**
+## \#3: PDFs
 
 There are a lot of [good reasons to move away from PDFs to HTML pages.](https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/) But for this project there was a business need for some larger documents to be kept as PDFs. We investigated how to make these as accessible as possible whilst moving as much as we could to HTML. Luckily, there are ways to make your PDFs better for screen readers, such as [marking up original documents with screen reader friendly formatting.](https://www.washington.edu/accessibility/documents/word/) When exporting, always use PDF/A which prevents further editing and means the document is suitable for longer-term archiving.
 
