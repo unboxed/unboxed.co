@@ -19,7 +19,8 @@ The gold standard is the [Web Content Accessibility Guidelines (WCAG)](https://w
 
 ![null](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2cd57107acd1ddef5e7591000a81aad.png)
 
-<i>Personas with accessibility needs can be useful to ensure care is taken at every stage.</i>
+<i>Personas with accessibility needs can be useful to ensure care is taken at every stage.</i>\
+<br>
 
 # Content design
 
@@ -27,7 +28,8 @@ The gold standard is the [Web Content Accessibility Guidelines (WCAG)](https://w
 
 Avoid vague wording, jargon or technical language, if it's necessary include an explanation or link to a glossary. Introduce acronyms by spelling them out the first time they are used especially if they are used a lot. 
 
-When using links in blocks of text, it’s a good idea to make it clear what the link is for. For example, instead of [list of dates](#) the link could be [view a list of all the dates for consultations this year](#). This provides additional context for what will be on the next page.
+When using links in blocks of text, it’s a good idea to make it clear what the link is for. For example, instead of [list of dates](#) the link could be [view a list of all the dates for consultations this year](#). This provides additional context for what will be on the next page.\
+<br>
 
 # Design and UX
 
@@ -37,7 +39,8 @@ Order and flow are important in visual design and it becomes even more important
 
 ![Screen reader](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2fc8f655c5c0017b7f02c665696ca1b3.png)
 
-<i>Using the magnifier tool at different zoom levels to spot problems in the visual design.</i>
+<i>Using the magnifier tool at different zoom levels to spot problems in the visual design.</i>\
+<br>
 
 # Coding
 
@@ -51,29 +54,34 @@ If you want to emphasise something both on screen and also for screen readers, t
 
 ![Ditch the mouse](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8f06e3630ef09a5e6734e65e6faa5400.jpg)
 
-<i>Try ditching the mouse and using just the keyboard to navigate through an end to end journey a user of your service might take.</i>
+<i>Try ditching the mouse and using just the keyboard to navigate through an end to end journey a user of your service might take.</i>\
+<br>
 
 # Key insights from testing
 
-To get an idea of the things picked up from testing, here are some insights from a recent round of testing with accessibility users with Public Health England for the [UK National Screening Committee](https://www.gov.uk/government/groups/uk-national-screening-committee-uk-nsc):
+To get an idea of the things picked up from testing, here are some insights from a recent round of testing with accessibility users with Public Health England for the [UK National Screening Committee](https://www.gov.uk/government/groups/uk-national-screening-committee-uk-nsc):\
+<br>
 
-**\#1: Spacing of elements**
+## **\#1: Spacing of elements**
 
 Because of the narrow field of view of magnifying tools, we found that some of our elements had too much space between them, and weren't explicitly connected. Items on rows can be a problem, that you can alleviate by shading the rows, or aiming to bring elements closer together. We found that checkboxes lost their meaning when they were too far away from the element they were inferring was complete.
 
-One way of mitigating this is to design pages that behave in the same way. If content is consistently left aligned then a user will be able to find information intuitively. If at some point elements are aligned to the right, then this will be an issue. 
+One way of mitigating this is to design pages that behave in the same way. If content is consistently left aligned then a user will be able to find information intuitively. If at some point elements are aligned to the right, then this will be an issue. \
+<br>
 
-**\#2: Hover states**
+## **\#2: Hover states**
 
-Using hover states is risky with magnifying tools. The tools work by magnifying wherever the cursor is pointed. If the content produced from rolling over an element is outside the field of view of the magnifying tool then it is impossible to see and the content is essentially hidden from view. Avoiding using hover states or hidden content is best practice.
+Using hover states is risky with magnifying tools. The tools work by magnifying wherever the cursor is pointed. If the content produced from rolling over an element is outside the field of view of the magnifying tool then it is impossible to see and the content is essentially hidden from view. Avoiding using hover states or hidden content is best practice.\
+<br>
 
-**\#3: PDFs**
+## **\#3: PDFs**
 
 There are a lot of [good reasons to move away from PDFs to HTML pages.](https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/) But for this project there was a business need for some larger documents to be kept as PDFs. We investigated how to make these as accessible as possible whilst moving as much as we could to HTML. Luckily, there are ways to make your PDFs better for screen readers, such as [marking up original documents with screen reader friendly formatting.](https://www.washington.edu/accessibility/documents/word/) When exporting, always use PDF/A which prevents further editing and means the document is suitable for longer-term archiving.
 
 ![null](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/943e98f29aee369d2371ee647d8cbca5.png)
 
-<i>A recent user testing session conducted for the National Screening Committee alpha phase.</i>
+<i>A recent user testing session conducted for the National Screening Committee alpha phase.</i>\
+<br>
 
 # Further reading
 
