@@ -17,11 +17,10 @@ From visiting places, including the [GDS Empathy Lab](https://unboxed.co/blog/ac
 
 The gold standard is the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) — a great place to start to begin making every aspect of your product and service as accessible as possible, aiming for AA rating.
 
-![](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2cd57107acd1ddef5e7591000a81aad.png)
+![null](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/b2cd57107acd1ddef5e7591000a81aad.png)
 
-_Personas with accessibility needs can be useful to ensure care is taken at every stage._
-
-
+<i>Personas with accessibility needs can be useful to ensure care is taken at every stage.</i>\
+<br/>
 
 # Content design
 
@@ -31,8 +30,6 @@ Avoid vague wording, jargon or technical language, if it's necessary include an 
 
 When using links in blocks of text, it’s a good idea to make it clear what the link is for. For example, instead of [list of dates](#) the link could be [view a list of all the dates for consultations this year](#). This provides additional context for what will be on the next page.
 
-
-
 # Design and UX
 
 From a design perspective, the layout of the page should work with those that might have limited eyesight, or use screen magnifier tools. Care must be taken to ensure good contrast, try [testing your prototypes using a contrast checker](https://contrast-checker.glitch.me/) to quickly spot the parts that aren’t showing up well (these might also be an issue in glare conditions). Being able to delineate between different statuses without relying on colours is important, we use [sim daltonism to make sure a design isn’t dependant on colour alone.](https://itunes.apple.com/gb/app/sim-daltonism/id693112260?mt=12) 
@@ -41,9 +38,8 @@ Order and flow are important in visual design and it becomes even more important
 
 ![Screen reader](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2fc8f655c5c0017b7f02c665696ca1b3.png)
 
-_Using the magnifier tool at different zoom levels to spot problems in the visual design._
-
-
+<i>Using the magnifier tool at different zoom levels to spot problems in the visual design.</i>\
+<br/>
 
 # Coding
 
@@ -57,9 +53,8 @@ If you want to emphasise something both on screen and also for screen readers, t
 
 ![Ditch the mouse](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8f06e3630ef09a5e6734e65e6faa5400.jpg)
 
-_Try ditching the mouse and using just the keyboard to navigate through an end to end journey a user of your service might take._
-
-
+<i>Try ditching the mouse and using just the keyboard to navigate through an end to end journey a user of your service might take.</i>\
+<br/>
 
 # Key insights from testing
 
@@ -79,11 +74,10 @@ Using hover states is risky with magnifying tools. The tools work by magnifying 
 
 There are a lot of [good reasons to move away from PDFs to HTML pages.](https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/) But for this project there was a business need for some larger documents to be kept as PDFs. We investigated how to make these as accessible as possible whilst moving as much as we could to HTML. Luckily, there are ways to make your PDFs better for screen readers, such as [marking up original documents with screen reader friendly formatting.](https://www.washington.edu/accessibility/documents/word/) When exporting, always use PDF/A which prevents further editing and means the document is suitable for longer-term archiving.
 
-![](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/943e98f29aee369d2371ee647d8cbca5.png)
+![null](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/943e98f29aee369d2371ee647d8cbca5.png)
 
-_A recent user testing session conducted for the National Screening Committee alpha phase._
-
-
+<i>A recent user testing session conducted for the National Screening Committee alpha phase.</i>\
+<br/>
 
 # Further reading
 
