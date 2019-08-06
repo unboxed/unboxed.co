@@ -45,7 +45,7 @@ How a web page is coded becomes even more important when a user is unable to see
 
 A good way of thinking about this is to understand how you would describe the page verbally, if you couldn’t use a visual example. By doing this, you realise you need something for images (alt image descriptions); you need to be able to interpret table elements (correct use of table header and row tags) and you need paragraphs to be read naturally (paragraph tags and avoiding line break tags). 
 
-To make it easier for screen readers to get a page overview, using the same tag (for example h2) allows a user to tab through the sections quickly. It’s like building in a contents page to find content they are looking for without having to read through everything. This might mean assigning sections to parts where there are no visuals elements, for example in this [analysis of the gov.uk home page.](https://www.nomensa.com/blog/2017/how-structure-headings-web-accessibility)
+To make it easier for screen readers to get a page overview, using the same tag (for example, h2) allows a user to tab through the sections quickly. It’s like building in a contents page to find content they are looking for without having to read through everything. This might mean assigning sections to parts where there are no visuals elements, for example in this [analysis of the gov.uk home page.](https://www.nomensa.com/blog/2017/how-structure-headings-web-accessibility)
 
 If you want to emphasise something both on screen and also for screen readers, then [use semantic tags rather than just stylistic tags.](https://support.siteimprove.com/hc/en-gb/articles/115002726312-Accessibility-Bold-vs-Strong-and-Italic-vs-Emphasis) 
 
