@@ -24,13 +24,13 @@ _Personas with accessibility needs can be useful to ensure care is taken at ever
 
 [Good content should be easy to understand for everyone who reads it.](https://gds.blog.gov.uk/2016/02/23/writing-content-for-everyone/) Make written content easy to scan by breaking it down it into manageable chunks. When using bullet points to list options, include a lead-in sentence for context.
 
-Avoid vague wording, jargon or technical language, if it's necessary include an explanation or link to a glossary. Introduce acronyms by spelling them out the first time they are used especially if they are used a lot. 
+Avoid vague wording, jargon or technical language, if it's necessary include an explanation or link to a glossary. Introduce acronyms by spelling them out the first time they are used especially if they are used a lot.
 
 When using links in blocks of text, it’s a good idea to make it clear what the link is for. For example, instead of [list of dates](#) the link could be [view a list of all the dates for consultations this year](#). This provides additional context for what will be on the next page.
 
 # Design and UX
 
-From a design perspective, the layout of the page should work with those that might have limited eyesight, or use screen magnifier tools. Care must be taken to ensure good contrast, try [testing your prototypes using a contrast checker](https://contrast-checker.glitch.me/) to quickly spot the parts that aren’t showing up well (these might also be an issue in glare conditions). Being able to delineate between different statuses without relying on colours is important, we use [sim daltonism to make sure a design isn’t dependant on colour alone.](https://itunes.apple.com/gb/app/sim-daltonism/id693112260?mt=12) 
+From a design perspective, the layout of the page should work with those that might have limited eyesight, or use screen magnifier tools. Care must be taken to ensure good contrast, try [testing your prototypes using a contrast checker](https://contrast-checker.glitch.me/) to quickly spot the parts that aren’t showing up well (these might also be an issue in glare conditions). Being able to delineate between different statuses without relying on colours is important, we use [sim daltonism to make sure a design isn’t dependant on colour alone.](https://itunes.apple.com/gb/app/sim-daltonism/id693112260?mt=12)
 
 Order and flow are important in visual design and it becomes even more important if you happen to use a tool to interpret a page. Magnifiers, for example, will limit a users' view, so test to make sure there isn’t too far of a gap between related elements (for example, between table columns).  
 
@@ -40,13 +40,13 @@ _Using the magnifier tool at different zoom levels to spot problems in the visua
 
 # Coding
 
-How a web page is coded becomes even more important when a user is unable to see a website, and must rely on how a screen reader interprets it. To recreate the effect of a sentence or paragraph; or show section titles; or display emphasis, content must be marked up how it is meant to be read. 
+How a web page is coded becomes even more important when a user is unable to see a website, and must rely on how a screen reader interprets it. To recreate the effect of a sentence or paragraph; or show section titles; or display emphasis, content must be marked up how it is meant to be read.
 
-A good way of thinking about this is to understand how you would describe the page verbally, if you couldn’t use a visual example. By doing this, you realise you need something for images (alt image descriptions); you need to be able to interpret table elements (correct use of table header and row tags) and you need paragraphs to be read naturally (paragraph tags and avoiding line break tags). 
+A good way of thinking about this is to understand how you would describe the page verbally, if you couldn’t use a visual example. By doing this, you realise you need something for images (alt image descriptions); you need to be able to interpret table elements (correct use of table header and row tags) and you need paragraphs to be read naturally (paragraph tags and avoiding line break tags).
 
 To make it easier for screen readers to get a page overview, using the same tag (for example h2) allows a user to tab through the sections quickly. It’s like building in a contents page to find content they are looking for without having to read through everything. This might mean assigning sections to parts where there are no visuals elements, for example in this [analysis of the gov.uk home page.](https://www.nomensa.com/blog/2017/how-structure-headings-web-accessibility)
 
-If you want to emphasise something both on screen and also for screen readers, then [use semantic tags rather than just stylistic tags.](https://support.siteimprove.com/hc/en-gb/articles/115002726312-Accessibility-Bold-vs-Strong-and-Italic-vs-Emphasis) 
+If you want to emphasise something both on screen and also for screen readers, then [use semantic tags rather than just stylistic tags.](https://support.siteimprove.com/hc/en-gb/articles/115002726312-Accessibility-Bold-vs-Strong-and-Italic-vs-Emphasis)
 
 ![Ditch the mouse!](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8f06e3630ef09a5e6734e65e6faa5400.jpg)
 
@@ -60,7 +60,7 @@ To get an idea of the things picked up from testing, here are some insights from
 
 Because of the narrow field of view of magnifying tools, we found that some of our elements had too much space between them, and weren't explicitly connected. Items on rows can be a problem, that you can alleviate by shading the rows, or aiming to bring elements closer together. We found that checkboxes lost their meaning when they were too far away from the element they were inferring was complete.
 
-One way of mitigating this is to design pages that behave in the same way. If content is consistently left aligned then a user will be able to find information intuitively. If at some point elements are aligned to the right, then this will be an issue. 
+One way of mitigating this is to design pages that behave in the same way. If content is consistently left aligned then a user will be able to find information intuitively. If at some point elements are aligned to the right, then this will be an issue.
 
 **\#2: Hover states**
 
@@ -75,7 +75,7 @@ _A recent user testing session conducted for the National Screening Committee al
 
 # Further reading
 
-There are heaps of great tools out there to test and access you prototypes. For example [try using the built-in accessibility audit tools in google chrome developer tools](https://developers.google.com/web/tools/lighthouse/) to get a quick assessment of what areas need work. 
+There are heaps of great tools out there to test and access you prototypes. For example [try using the built-in accessibility audit tools in google chrome developer tools](https://developers.google.com/web/tools/lighthouse/) to get a quick assessment of what areas need work.
 
 Every digital item — laptop, tablet, phone — will have accessibility software. A great place to start is by exploring how these work, then using them to test your products and services. Try using inbuilt tools like the magnifier, and going through a service from end-to-end.
 
