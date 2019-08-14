@@ -6,7 +6,7 @@ tags:
   - Agile
   - Culture
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dbd4abf8cce4f0a9e7e77a32c8e1a79e.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8e88d3296538c747725392d8bc5ceefe.png
 date: '2019-08-13T12:09:55+01:00'
 published: true
 ---
