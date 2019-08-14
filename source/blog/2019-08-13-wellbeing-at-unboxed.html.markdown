@@ -41,7 +41,7 @@ With this in mind, it’s important to take stock. At June’s company day, we r
 
 ![Dot voting](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d7158e3ecd0e1ba627d3979d4f2a5a57.png)
 
-<i>Dot voting on existing wellbeing initiatives.</i>
+<i>Dot voting on wellbeing initiatives.</i>
 
 While not an exact science or entirely representative, this process has been helpful in highlighting that there is already a positive number of things in place to support wellbeing in the organisational culture of Unboxed, with the highest-value areas pointing out flexible working practices and good, open communication. 
 
