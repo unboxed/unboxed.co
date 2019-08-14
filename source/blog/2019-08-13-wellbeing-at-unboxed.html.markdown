@@ -67,7 +67,7 @@ We looked at the ‘Five ways’ as a useful framework in which to think about w
 
 While there is a culture of open and effective communication at Unboxed, connection was one of the things we talked about that could do with some further consideration.
 
-There are a number of long-established opportunities in place for people to get together: monthly team lunches, end of the week Whines & Cheers (our weekly team retrospective at 5pm on a Friday), the amazing weekly newsletter (the “Unboxed Goss”), and Linkers and Thinkers lunches (monthly linking lunches), to name a few.
+There are a number of long-established opportunities in place for people to get together: monthly team lunches, end of the week Whines & Cheers (our weekly team retrospective at 5pm on a Friday), the amazing weekly internal newsletter (the “Unboxed Goss”), and Linkers & Thinkers lunches (monthly linking lunches), to name a few.
 
 But connecting on a day-to-day basis is perhaps more subtle, maybe even described as something softer. Good communication is about connecting and engaging. It affects whether people feel they belong and whether they feel valued. In the workplace, this is important as it’s entirely possible to feel lonely or disconnected at work even when surrounded by your colleagues. And loneliness or isolation is a significant factor for people’s mental health and engagement. 
 
