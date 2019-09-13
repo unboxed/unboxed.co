@@ -1,0 +1,93 @@
+<% content_for(:title) { "#{current_page.data.title}" } %>
+<% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
+<% add_atom_feed_to_head %>
+
+<!--Twitter card tags-->
+<% content_for(:twitter_card) do %>
+  <meta name="twitter:description" content="<%= truncate(strip_tags(current_article.body), length: 150) %>">
+  <meta name="twitter:image" content="<%= current_page.data.main_image %>">
+<% end %>
+
+<% wrap_layout :application do %>
+  <% article_info = article_info(data.people, current_page.data) %>
+
+  <section class="blog-article">
+    <div class="container">
+
+      <article class="content">
+        <%= partial 'shared/text_tile_reversed', locals: current_page.data.introduction %>
+        <%#= partial 'shared/full_width_text_tile', locals: current_page.data.introduction %>
+        <%#= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
+        <%#= partial 'shared/two_text_tiles', locals: current_page.data.section_2 %>
+        <%#= partial 'shared/text_tile', locals: current_page.data.section_3 %>
+        <%#= partial 'shared/two_text_tiles', locals: current_page.data.section_4 %>
+        <%#= partial 'shared/quote_caricature', locals: current_page.data.quote_1 %>
+
+        <%#= image_tag current_page.data.image_section_1.image, alt: current_page.data.image_section_1.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_1.image) %>
+
+        <%#= partial 'shared/two_text_tiles', locals: current_page.data.section_5 %>
+        <%#= partial 'shared/text_tile_reversed', locals: current_page.data.section_6 %>
+        <%#= partial 'shared/two_text_tiles', locals: current_page.data.section_7 %>
+
+        <%#= image_tag current_page.data.image_section_2.image, alt: current_page.data.image_section_2.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_2.image) %>
+
+        <%#= partial 'shared/quote', locals: current_page.data.quote_2 %>
+        <%#= partial 'shared/quote', locals: current_page.data.quote_3 %>
+
+        <%#= partial 'shared/project_team' %>
+
+        <%#= partial 'shared/link_tiles' %>
+        <%#= partial 'shared/related_tiles' %>
+      </article>
+
+      <%= partial 'share_social_icons' %>
+    </div>
+  </section>
+
+  <div class="blog-footer">
+    <div class="blog-footer__container">
+      <% if current_article.similar_articles.any? %>
+        <div class="page-footer-introduction">
+          <h3 class="page-footer-introduction__title">
+            Related
+          </h3>
+        </div>
+
+        <% current_article.similar_articles.first(3).each do |article| %>
+          <a class="blog-related-tile" href="<%= article.url %>">
+            <div class="blog-related-tile__title">
+              <%= truncate(article.title, length: 70) %>
+            </div>
+
+            <div>
+              <div class="blog-related-tile__author">
+                <%= article_info(data.people, article.data).author_names %>
+              </div>
+            </div>
+          </a>
+        <% end %>
+      <% end %>
+    </div>
+  </div>
+
+  <script>
+    var iframes = document.querySelectorAll('.blog-content iframe');
+    if (iframes.length !== 0) {
+      function resizeIframes() {
+        for (var i = 0; i < iframes.length; i++) {
+          var iframe = iframes[i]
+          // Get the iframe's intended aspect ratio via it's inline dimensions
+          var ratio = iframe.getAttribute('height') / iframe.getAttribute('width');
+          // Apply a CSS height that is in correct ratio to it's current width
+          iframe.style.height = iframe.offsetWidth * ratio + 'px';
+        };
+      }
+      var timer;
+      window.onresize = function() {
+        clearTimeout(timer);
+        timer = setTimeout(resizeIframes, 100);
+      };
+      resizeIframes();
+    }
+  </script>
+<% end %>

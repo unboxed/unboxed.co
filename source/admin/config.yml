@@ -59,6 +59,100 @@ collections:
         name: 'body'
         widget: 'markdown'
 
+  - name: 'product_stories'
+    label: 'Product stories'
+    folder: '/source/product-stories'
+    label_singular: 'product story'
+    create: true
+    slug: '{{slug}}'
+    extension: 'html.markdown' # Middleman v4 requires .html.markdown
+    format: 'frontmatter'
+    fields:
+      - label: 'Title'
+        name: 'title'
+        widget: 'string'
+
+      - label: 'Description (shown on the product story listing page)'
+        name: 'description'
+        widget: 'string'
+
+      - label: 'Image URL low res (shown on the product story listing page - 454 x 180 px)'
+        name: main_image
+        widget: string
+
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+
+      - label: 'Published?'
+        name: published
+        widget: boolean
+        default: true
+
+      - label: "Header Image"
+        name: "header"
+        widget: "image"
+
+      - label: 'Intro (heading and bullet point summary)'
+        name: introduction
+        widget: object
+        fields:
+          - {label: "Intro", name: intro, widget: markdown}
+          - {label: "Image", name: image, widget: image}
+
+      - label: 'Body (toggle to markdown)'
+        name: 'body'
+        widget: 'markdown'
+
+      # - label: "In numbers"
+      #   name: "in_numbers_1"
+      #   widget: "string"
+      #
+      # - label: "Paragraph and photo"
+      #   name: "paragraph_1"
+      #   widget: object
+      #   fields:
+      #     - {label: "Paragraph", name: paragraph, widget: markdown}
+      #     - {label: "Image", name: image, widget: image}
+      #
+      # - label: "Quote"
+      #   name: "quote_1"
+      #   widget: string
+      #
+      # - label: "Paragraph and photo"
+      #   name: "paragraph_2"
+      #   widget: object
+      #   fields:
+      #     - {label: "Paragraph", name: paragraph, widget: markdown}
+      #     - {label: "Image", name: image, widget: image}
+      #
+      # - label: "Quote"
+      #   name: "quote_2"
+      #   widget: string
+      #
+      # - label: "Paragraph and photo"
+      #   name: "paragraph_3"
+      #   widget: object
+      #   fields:
+      #     - {label: "Paragraph", name: paragraph, widget: markdown}
+      #     - {label: "Image", name: image, widget: image}
+      #
+      # - label: "In numbers"
+      #   name: "in_numbers_2"
+      #   widget: "string"
+      #
+      # - label: "Paragraph and photo"
+      #   name: "paragraph_4"
+      #   widget: object
+      #   fields:
+      #     - {label: "Paragraph", name: paragraph, widget: markdown}
+      #     - {label: "Image", name: image, widget: image}
+      #
+      # - label: "Quote"
+      #   name: "quote_3"
+      #   widget: string
+      #
+
   - name: 'news_articles'
     label: 'News articles'
     folder: '/source/news'

@@ -1,5 +1,7 @@
 ---
 title: "Product Story - Bookmetrix"
+description: "Exploring the impact of online publishing with Bookmetrix"
+image: "/assets/images/product-stories/bookmetrix.jpg"
 
 header:
   client: "Bookmetrix"
@@ -14,6 +16,8 @@ introduction:
     - Re-kickstarting the development of new revenue stream
     - Delivering a series of valuable metric features for authors and readers through collaboration
     - Platform experiencing 90+% growth in individual user sessions and pageviews
+  image: "/product-stories/bookmetrix/ben-full-width-1.jpg"
+  image_description: "Developer at work"
 
 highlight_1:
   title: "The Bookmetrix project in numbers"
@@ -30,10 +34,6 @@ section_2:
     Springer Nature is experiencing a publishing industry-specific problem - authors of scholarly books often do not receive any recognition from their university for publishing new books. Working on an idea to overcome this, Bookmetrix was born - an online platform for measuring the reach, usage and readership of a book or chapter by a published author.
   content_2: |
     The system works towards to supporting academic authors in answering vital questions from funders about the broader impact of their work, as well as supporting customers in making their purchasing decisions.
-
-image_section_1:
-  image: "/product-stories/bookmetrix/ben-full-width-1.jpg"
-  image_description: "Developer at work"
 
 section_3:
   title: "Partnering to deliver an impact in the world of publishing"
@@ -145,31 +145,3 @@ related:
       link: "/blog/faster-than-lightning-november-s-developer-event"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.introduction %>
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_2 %>
-  <%= partial 'shared/text_tile', locals: current_page.data.section_3 %>
-  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_4 %>
-  <%= partial 'shared/quote_caricature', locals: current_page.data.quote_1 %>
-
-  <%= image_tag current_page.data.image_section_1.image, alt: current_page.data.image_section_1.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_1.image) %>
-
-  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_5 %>
-  <%= partial 'shared/text_tile_reversed', locals: current_page.data.section_6 %>
-  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_7 %>
-
-  <%= image_tag current_page.data.image_section_2.image, alt: current_page.data.image_section_2.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_2.image) %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
-  <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-  <%= partial 'shared/related_tiles' %>
-</div>

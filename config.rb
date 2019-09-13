@@ -44,6 +44,16 @@ activate :blog do |blog|
   blog.page_link = 'page-{num}'
 end
 
+# product stories
+activate :blog do |blog|
+  blog.name = 'product-stories'
+  blog.sources = '{year}-{month}-{day}-{title}.html'
+  blog.layout = 'product_story'
+  blog.prefix = 'product-stories'
+  blog.permalink = "{title}.html"
+  blog.new_article_template = 'templates/product_story.md'
+end
+
 # news
 activate :blog do |blog|
   blog.name = 'news'

@@ -1,7 +1,8 @@
 ---
 title: "Product Story - Naturejobs"
-meta_description: "Recruitment site revitalisation for major scientific publishing group"
 meta_keywords: "Ruby on Rails, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails development, Ruby on Rails developer London"
+description: "Recruitment site revitalisation for major scientific publishing group"
+image: "/assets/images/product-stories/naturejobs-macmillan.jpg"
 
 header:
   client: "Naturejobs"
@@ -9,7 +10,7 @@ header:
   image: "/product-stories/naturejobs/header.jpg"
   image_description: "Naturejobs"
 
-collaboration:
+introduction:
   title: "Close, early engagement fosters confidence and aligns interests"
   content:
     - "Streamlined website development by gaining stakeholder buy-in"
@@ -106,41 +107,3 @@ related:
       type: "product story"
       link: "/product-stories/plymouth-university"
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.collaboration %>
-
-  <section class="highlight--naturejobs">
-    <h2 class="highlight__title">
-      <%= current_page.data.waterfall_to_agile_highlight %>
-    </h2>
-  </section>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.technology %>
-
-  <%= partial 'shared/quote', locals: current_page.data.collaboration_quote %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.user_journey %>
-
-  <%= partial 'shared/full_video', locals: current_page.data.head_of_product_video %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.metrics %>
-
-  <%= partial 'shared/quote', locals: current_page.data.mentality_quote %>
-
-  <%= partial 'shared/project_team' %>
-
-  <section class="highlight--naturejobs">
-    <h2 class="highlight__title">
-      <%= current_page.data.feedback_highlight %>
-    </h2>
-  </section>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>
