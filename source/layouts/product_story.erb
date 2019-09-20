@@ -1,0 +1,134 @@
+<% content_for(:title) { "#{current_page.data.title}" } %>
+<% content_for(:meta_description) { truncate(strip_tags(current_article.body), length: 150) } %>
+<% add_atom_feed_to_head %>
+
+<!--Twitter card tags-->
+<% content_for(:twitter_card) do %>
+  <meta name="twitter:description" content="<%= truncate(strip_tags(current_article.body), length: 150) %>">
+  <meta name="twitter:image" content="<%= current_page.data.main_image %>">
+<% end %>
+
+<% wrap_layout :application do %>
+  <% article_info = article_info(data.people, current_page.data) %>
+
+  <section class="blog-article">
+    <%= partial 'shared/page_header', locals: current_page.data.header %>
+
+    <div class="container">
+      <%= partial 'shared/full_image', locals: current_page.data.header %>
+
+      <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
+
+      <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
+
+      <%= partial 'shared/text_tile', locals: current_page.data.paragraph_1 %>
+
+      <%= partial 'shared/quote', locals: current_page.data.quote_1 %>
+
+      <%= partial 'shared/text_tile_reversed', locals: current_page.data.paragraph_2 %>
+
+      <% if current_page.data.video %>
+        <%= partial 'shared/full_video', locals: current_page.data.video %>
+      <% end %>
+
+      <% if current_page.data.highlight_2 %>
+        <%= partial 'shared/highlight', locals: current_page.data.highlight_2 %>
+      <% end %>
+
+      <%= partial 'shared/text_tile', locals: current_page.data.paragraph_3 %>
+
+      <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
+
+      <% if current_page.data.paragraph_4 %>
+        <%= partial 'shared/text_tile_reversed', locals: current_page.data.paragraph_4 %>
+      <% end %>
+
+      <% if current_page.data.highlight_3 %>
+        <%= partial 'shared/highlight', locals: current_page.data.highlight_3 %>
+      <% end %>
+
+      <% if current_page.data.quote_3 %>
+        <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
+      <% end %>
+
+      <% if current_page.data.paragraph_5 %>
+        <%= partial 'shared/text_tile', locals: current_page.data.paragraph_5 %>
+      <% end %>
+
+      <% if current_page.data.quote_4 %>
+        <%= partial 'shared/quote', locals: current_page.data.quote_4 %>
+      <% end %>
+
+      <% if current_page.data.paragraph_6 %>
+        <%= partial 'shared/text_tile_reversed', locals: current_page.data.paragraph_6 %>
+      <% end %>
+
+      <% if current_page.data.quote_5 %>
+        <%= partial 'shared/quote', locals: current_page.data.quote_5 %>
+      <% end %>
+
+      <% if current_page.data.paragraph_7 %>
+        <%= partial 'shared/text_tile', locals: current_page.data.paragraph_7 %>
+      <% end %>
+
+      <%= partial 'shared/project_team' %>
+
+      <% if current_page.data.links %>
+        <%= partial 'shared/link_tiles' %>
+      <% end %>
+
+      <% if current_page.data.related %>
+        <%= partial 'shared/related_tiles' %>
+      <% end %>
+
+      <%= partial 'share_social_icons' %>
+    </div>
+  </section>
+
+  <div class="blog-footer">
+    <div class="blog-footer__container">
+      <% if current_article.similar_articles.any? %>
+        <div class="page-footer-introduction">
+          <h3 class="page-footer-introduction__title">
+            Related
+          </h3>
+        </div>
+
+        <% current_article.similar_articles.first(3).each do |article| %>
+          <a class="blog-related-tile" href="<%= article.url %>">
+            <div class="blog-related-tile__title">
+              <%= truncate(article.title, length: 70) %>
+            </div>
+
+            <div>
+              <div class="blog-related-tile__author">
+                <%= article_info(data.people, article.data).author_names %>
+              </div>
+            </div>
+          </a>
+        <% end %>
+      <% end %>
+    </div>
+  </div>
+
+  <script>
+    var iframes = document.querySelectorAll('.blog-content iframe');
+    if (iframes.length !== 0) {
+      function resizeIframes() {
+        for (var i = 0; i < iframes.length; i++) {
+          var iframe = iframes[i]
+          // Get the iframe's intended aspect ratio via it's inline dimensions
+          var ratio = iframe.getAttribute('height') / iframe.getAttribute('width');
+          // Apply a CSS height that is in correct ratio to it's current width
+          iframe.style.height = iframe.offsetWidth * ratio + 'px';
+        };
+      }
+      var timer;
+      window.onresize = function() {
+        clearTimeout(timer);
+        timer = setTimeout(resizeIframes, 100);
+      };
+      resizeIframes();
+    }
+  </script>
+<% end %>
