@@ -1,7 +1,8 @@
 ---
 title: "Product Story - Newham Council Local Offer"
-meta_description: "Exploring special education needs and disability services with Newham Council"
+description: "Exploring special education needs and disability services with Newham Council"
 meta_keywords: "Ruby on Rails, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails development, Ruby on Rails developer London"
+image: "/assets/images/product-stories/newham-council-local-offer.jpg"
 
 header:
   client: "Newham Council Local Offer"
@@ -19,7 +20,7 @@ introduction:
   image: "/product-stories/newham-council-local-offer/project-board.jpg"
   image_description: "Dawn and team at project board"
 
-in_numbers_1:
+highlight_1:
   project: "newham-council-local-offer"
   title: "Newham Council in numbers"
   statistics:
@@ -28,33 +29,33 @@ in_numbers_1:
     - number: "15"
       text: "In-depth interviews with parents"
 
-exploring_improved_service:
+paragraph_1:
   title: "Exploring an improved service for 8,000+ families"
   content: "As a guide to the services available in the London borough of Newham for children and young people with special educational needs and disabilities (SEND), the Local Offer was an underperforming service for Newham Council and its 8,000+ users. Criticised for providing limited, out-of-date and fragmented information to residents, the council identified an opportunity to improve this service through redesign, beginning with a discovery phase."
   image: "/product-stories/newham-council-local-offer/gemma-using-laptop.jpg"
   image_description: "Gemma using laptop"
 
-quote_dawn_1:
+quote_1:
   quote: "As a council, we are legally obligated to provide a Local Offer service to our residents, however with a limited understanding of the needs of its users the current offer had become out-of-date and uptake extremely poor. The service was an ideal place to start our digital journey into user-centred design."
   source: "Dawn Turner, Digital Delivery Lead — Newham Council"
 
-better_local_offer_directory:
+paragraph_2:
   title: "How might we provide a better Local Offer directory?"
   content: "Working alongside the SEND team, a number of research goals were set for this exploration phase for understanding the needs of residents from this service, identifying how residents use the current service and exploring already-existing SEND systems available. Identifying our key users to help with these goals required reaching out to groups outside of the council's current reach."
   image: "/product-stories/newham-council-local-offer/sketches.jpg"
   image_description: "Prototype sketches"
 
-quote_boris_1:
+quote_2:
   quote: "Putting technology aside and focusing on users and their needs from the service, it soon became clear that the root of the problem was not only a lack of awareness, but also poor understanding of the purpose of the Local Offer and how to use it. Families needed guidance to find information and advice to support the specific needs of their child, however to do this the SEND service needed help too. With much of this information hard to find or unavailable on the web, they needed a way to find, manage and signpost families to support services."
   source: "Boris Divjak, Service Designer — Unboxed"
 
-validating_with_users:
+paragraph_3:
   title: "Validating early concepts through user interviewing"
   content: "Through in-depth interviewing, insights were quickly gathered around the challenges being faced by residents, translating into validated sets of user needs and personas to further test. From observing the experiences of residents using the current service, it quickly became clear that families were struggling to navigate through to their desired goals. Introducing the idea of a guided personal profiling experience quickly became a validated concept."
   image: "/product-stories/newham-council-local-offer/sarah-and-dawn.jpg"
   image_description: "Sarah and Dawn with prototype sketches"
 
-in_numbers_2:
+highlight_2:
   project: "newham-council-local-offer"
   title: "Newham Council in numbers"
   statistics:
@@ -63,13 +64,13 @@ in_numbers_2:
     - number: "5"
       text: "Local Offer solutions explored"
 
-validated_business_case:
+paragraph_4:
   title: "A validated business case for the following phase"
   content: "Results from in-depth interviews with 15 families and assessment of five existing Local Offer solutions concluded that the specific needs of Newham residents weren't being met through these systems. As part of the business case for the following Alpha phase, the adaptations and enhancement of a solution provider's current product has been explored in providing an improved SEND service for 8,000+ users."
   image: "/product-stories/newham-council-local-offer/whiteboard-sketches.jpg"
   image_description: "UI diagrams on whiteboard"
 
-quote_dawn_2:
+quote_3:
   quote: "We don't always have to start from scratch when we're designing new services. The Unboxed team has help us to understand that having something tangible, that we can test with users, helps us to quickly learn what does and doesn't work, and adapt the product to meet the needs of users."
   source: "Dawn Turner, Digital Delivery Lead — Newham Council"
 
@@ -119,35 +120,3 @@ related:
       link: "/product-stories/newham-council/"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.exploring_improved_service %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_dawn_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.better_local_offer_directory %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_boris_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.validating_with_users %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.validated_business_case %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_dawn_2 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>

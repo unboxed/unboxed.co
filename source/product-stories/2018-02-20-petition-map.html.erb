@@ -1,5 +1,7 @@
 ---
 title: "Product Story - Petition Map"
+description: "Visualising UK petition signatures and open source data"
+image: "/assets/images/product-stories/petition-map.jpg"
 
 header:
   client: "Unboxed"
@@ -21,22 +23,22 @@ quote_1:
   source: "Cale Tilford, Developer, Unboxed"
   image: "/product-stories/petition-map/team/cale-tilford-full.png"
 
-about:
+paragraph_1:
   title: "A heat map of UK politics"
   content: "Petition Map is an interactive heat map, which allows users to visualise signatures of a UK petition on a real-time map of the United Kingdom. Following the redevelopment of the Parliament Petitions platform with GDS (Government Digital Service), our intern developer, Cale, spent innovation time during his summer here to explore, develop and build this heat map to support the Petitions platform for members of the public."
   image: "/product-stories/petition-map/map.jpg"
   image_description: "Close up of heatmap"
 
-statistics_1:
+highlight_1:
   title: "Petition Map in numbers"
-  number: "4,066,694"
-  text: "Sessions since launch"
+  project: "petition-map"
+  statistics:
+    - number: "4,066,694"
+      text: "Sessions since launch"
+    - number: "693,785"
+      text: "Peak number of daily active users"
 
-statistics_2:
-  number: "693,785"
-  text: "Peak number of daily active users"
-
-open_source:
+paragraph_2:
   title: '​Pulling open data for real-time visualisation'
   content: "Petition Map pulls the JSON data of each individual petition, allowing users to select from a list of active petitions to visualise, with the popular Javascript library D3 used to render the outline of each parliamentary constituency. Each instance a petition is loaded, the colour scale is calculated relative to the total number of signatures, with each constituency then coloured in relation to this."
   image: "/product-stories/petition-map/open-source.jpg"
@@ -46,20 +48,20 @@ quote_2:
   quote: "Petition Map has been built to work on both desktop and mobile so that petitions can be visualised even when on the move. The tool is constantly being iterated using the feedback we receive from our users."
   source: "Cale Tilford, Developer, Unboxed"
 
-public_following:
+paragraph_3:
   title: "Gaining a high public following"
   content: "Following a number of high-profile political topics, the map has begun to build up a public following, appearing in publications such as Mail Online and The Independent. Petitions such as ‘Block Donald J Trump from UK entry’ and the more recent four-million-signature receiving ‘EU Referendum Rules triggering a 2nd EU Referendum’ have caused a sharp surge in map users, with the number of session crossing four million since it launched."
   image: "/product-stories/petition-map/mac.jpg"
   image_description: "Petition Map on a Mac"
 
-statistics_3:
+highlight_2:
   title: "Petition Map in numbers"
-  number: "2,643,906"
-  text: "Individual users"
-
-statistics_4:
-  number: "5,904,720"
-  text: "Page views"
+  project: "petition-map"
+  statistics:
+    - number: "2,643,906"
+      text: "Individual users"
+    - number: "5,904,720"
+      text: "Page views"
 
 quote_3:
   quote: "Since the EU Referendum petition, by popular demand the map has been updated with a new colouring option – weighting each constituency with its population. Hovering over each constituency also shows you the percentage of constituents that have signed. These new features make Petition Map an even more useful tool for examining regional engagement with politics."
@@ -87,65 +89,3 @@ links:
     link: "/news/record-breaking-eu-2nd-referendum-petition-hits-3-9-million-signatures-and-rising-most-popular-parliament-petition-ever/"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <section class="highlight--petition-map">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_1.title %>
-    </h2>
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_1.number %></p>
-      <p class="highlight__small-text"><%= current_page.data.statistics_1.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_2.number %></p>
-      <p class="highlight__wide-text"><%= current_page.data.statistics_2.text %></p>
-    </div>
-  </section>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.about %>
-
-  <blockquote class="quote">
-    <aside class="quote__right-section">
-      <p class="quote__text--centered">
-        <%= current_page.data.quote_1.quote %>
-      </p>
-      <p class="quote__source">
-        <%= current_page.data.quote_1.source %>
-      </p>
-    </aside>
-    <img class="quote__source-image" src="<%= current_page.data.quote_1.image %>" alt="<%= current_page.data.quote_1.source %>"/>
-  </blockquote>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.open_source %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.public_following %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <section class="highlight--petition-map">
-    <h2 class="highlight__title">
-      <%= current_page.data.statistics_3.title %>
-    </h2>
-
-    <div class="highlight__tile--two">
-      <p class="highlight__large-text"><%= current_page.data.statistics_3.number %></p>
-      <p class="highlight__small-text"><%= current_page.data.statistics_3.text %></p>
-      <p class="highlight__large-text"><%= current_page.data.statistics_4.number %></p>
-      <p class="highlight__small-text"><%= current_page.data.statistics_4.text %></p>
-    </div>
-  </section>
-
-  <%= partial 'shared/link_tiles' %>
-
-</div>
-

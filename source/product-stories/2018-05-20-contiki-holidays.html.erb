@@ -1,7 +1,8 @@
 ---
 title: "Product Story - Contiki Holidays"
-meta_description: "Powerful offshore partnership creates 47% increase in bookings for Contiki Tours"
 meta_keywords: "Ruby on Rails, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails development"
+description: "Powerful offshore partnership creates 47% increase in bookings for Contiki Tours"
+image: "/assets/images/product-stories/contiki.jpg"
 
 header:
   client: "Contiki Holidays"
@@ -9,7 +10,7 @@ header:
   image: "/product-stories/contiki-holidays/header-image.jpg"
   image_description: "Couple on the beach"
 
-partnership:
+introduction:
   title: "47% more holiday bookings through rebuilding travel platform"
   content:
     - "Offshore team led overhaul, vastly improving UX"
@@ -18,7 +19,7 @@ partnership:
   image: "/product-stories/contiki-holidays/yellow-screen.jpg"
   image_description: "Contiki website screenshot"
 
-introduction:
+paragraph_1:
   title: "10-year-old site needed more than a facelift to improve conversions"
   content: "Contiki Tours is a global travel operation, with 150k bookings for 18-35s per year. Contiki needed to revamp online platform to increase visitor-to sale conversion and meet expectations of tech-savvy audience. Something special was needed for the 10-year old site, already tweaked by several other agencies."
   image: "/product-stories/contiki-holidays/team-meeting.jpg"
@@ -42,33 +43,33 @@ highlight_2:
     text: "Increase in bookings over previous period"
     icon: fa-arrow-up
 
-agile:
+paragraph_2:
   title: "Agile key in move to iterative customer-led design development"
   content: "Unboxed’s offshore Cape Town team, led Contiki through the Agile-based project – focusing on rapid delivery of customer features over ‘pixel perfect’ designs. The complete project team consisted of four developers, a Scrum Master, Contiki’s design team and the Product Owner and the total project duration was 16 weeks."
   image: "/product-stories/contiki-holidays/design-presentation.jpg"
   image_description: "Presentation of a design"
 
-project_quote:
+quote_1:
   quote: "Our ambitious business objectives around performance and revenue were overwhelmingly met. The project came in on time and budget. Can’t ask for more than that!"
   source: "Simon Larkin, Product Owner — Contiki"
 
-collaboration:
+paragraph_3:
   title: "A step change in site performance shifts dated business model"
   content: "The development and design teams worked side-by-side and communicated using ‘The Unboxed Way’ - frequent, high-bandwidth, clear and open channels. Contiki were able to re-prioritise their features on a weekly basis as new requirements emerged. Built in Ruby on Rails, with JavaScript elements and Unboxed’s own micro-service APIs, this is a site created to meet Contiki’s future business goals."
   image: "/product-stories/contiki-holidays/sketch.jpg"
   image_description: "Sketch of a design"
 
-release_quote:
+quote_2:
   quote: "We had a straightforward and smooth product release, with minimal fuss or user support issues."
   source: "Simon Larkin, Product Owner — Contiki"
 
-objectives:
+paragraph_4:
   title: "Pre-project objectives met – results dropped straight onto bottom line"
   content: "All project’s objectives have been met or exceeded. Page loading times have decreased by 56%, conversion rates are up 43% and bookings up 47%. The technologies employed are designed to dramatically cut the cost of future improvements."
   image: "/product-stories/contiki-holidays/blue-screen.jpg"
   image_description: "Contiki website screenshot"
 
-team_quote:
+quote_3:
   quote: "The 'Unboxed Way' created a fully integrated team and made offshoring development a reality for Contiki."
   source: "Simon Larkin, Product Owner — Contiki"
 
@@ -132,58 +133,3 @@ related:
       type: "product story"
       link: "/product-stories/plymouth-university"
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.partnership %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/quote', locals: current_page.data.project_quote %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.agile %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.collaboration %>
-
-  <%= partial 'shared/quote', locals: current_page.data.release_quote %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.objectives %>
-
-  <%= partial 'shared/quote', locals: current_page.data.team_quote %>
-
-  <%= partial 'shared/project_team' %>
-
-  <section class="highlight--contiki-holidays">
-    <h2 class="highlight__title">
-      <%= current_page.data.objectives_outcomes.title %>
-    </h2>
-
-    <ul class="highlight__list--bulleted">
-      <% current_page.data.objectives_outcomes.objectives.each do |objective| %>
-        <li class="highlight__list-item">
-          <%= objective %>
-          <span class="highlight__small-list-item">Objective met</span>
-        </li>
-      <% end %>
-      <ul class="highlight__list--bulleted-one-column">
-        <% current_page.data.objectives_outcomes.objective_smashed.each do |objective| %>
-          <li class="highlight__list-item">
-            <%= objective %>
-            <span class="highlight__small-list-item">Objective smashed!</span>
-          </li>
-        <% end %>
-      </ul>
-    </ul>
-  </section>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>

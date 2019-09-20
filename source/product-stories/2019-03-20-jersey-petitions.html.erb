@@ -1,5 +1,7 @@
 ---
 title: "Product Story - Jersey Petitions - Launching Jersey Petitions through an open source approach with States of Jersey"
+description: "Launching Jersey Petitions through an open source approach with States of Jersey"
+image: "/assets/images/product-stories/jersey-petitions.png"
 
 header:
   client: "States of Jersey"
@@ -17,7 +19,7 @@ introduction:
   image: "/product-stories/jersey-petitions/website-and-phone.jpg"
   image_description: "Jersey petitions website on a computer and on a phone"
 
-in_numbers_1:
+highlight_1:
   title: "Jersey Petitions in numbers"
   project: "jersey-petitions"
   statistics:
@@ -26,7 +28,7 @@ in_numbers_1:
     - number: "49,653"
       text: "Signatures to date (June 2019)"
 
-increasing_engagement:
+paragraph_1:
   title: "Increasing engagement between Jersey Islanders and the States Assembly"
   content: "In January 2018, Jersey's politicians unanimously agreed on an online facility for petitions,
   making it easier for Islanders to make their views known to the States Assembly.
@@ -36,13 +38,13 @@ increasing_engagement:
   image: "/product-stories/jersey-petitions/petitions-on-phone.jpg"
   image_description: "A person looking at Jersey petitions on their phone"
 
-quote_mark_egan_1:
+quote_1:
   quote: "Petitions.gov.je has been created with Unboxed to deliver an online solution for the public
     to quickly and easily engage with the States Assembly by submitting and/or supporting online
     petitions, and as a result, engaging more of the public in Jersey’s democracy."
   source: "Dr. Mark Egan, Greffier of the States — States Assembly"
 
-reusing_open_source_codebase:
+paragraph_2:
   title: "Reusing open source codebase of UK Parliament’s Petitions"
   content: "Developing the UK Government and Parliament's Petitions platform through
     open source technologies allowed for the team to copy the existing codebase through GitHub,
@@ -52,7 +54,7 @@ reusing_open_source_codebase:
   image: "/product-stories/jersey-petitions/petitions-on-tablet.jpg"
   image_description: "A person looking at Jersey petitions on a tablet"
 
-in_numbers_2:
+highlight_2:
   title: "Jersey Petitions in numbers"
   project: "jersey-petitions"
   statistics:
@@ -61,7 +63,7 @@ in_numbers_2:
     - number: "17"
       text: "Petitions to receive response from Minister to date (June 2019)"
 
-increasing_engagement_other:
+paragraph_3:
   title: "Increasing engagement between Jersey Islanders and the States Assembly"
   content: "After five weeks, Jersey Petitions launched into the public domain, opening up a
     new channel of communication between States Assembly and Jersey’s 100,000 Islanders.
@@ -71,7 +73,7 @@ increasing_engagement_other:
   image: "/product-stories/jersey-petitions/petitions-second-tablet.jpg"
   image_description: "A person looking at Jersey petitions on their tablet"
 
-quote_mark_egan_2:
+quote_2:
   quote: "Having welcomed over 35,000 visitors and seen 30 petitions created in just 50 days,
     since launching, we are already experiencing a great achievement for a new concept on an island
     of just 100,000 people."
@@ -122,31 +124,3 @@ related:
       type: "news"
       link: "https://unboxed.co/news/new-government-petitions-website-launched-developed-in-partnership-with-unboxed-consulting/ "
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.increasing_engagement %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_mark_egan_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.reusing_open_source_codebase %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.increasing_engagement_other %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_mark_egan_2 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>

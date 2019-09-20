@@ -1,6 +1,7 @@
 ---
 title: "Product Story - char.gy"
-meta_description: "Providing residents with an on-street electric vehicle lamppost charging solution with char.gy"
+description: "Providing residents with an on-street electric vehicle lamppost charging solution with char.gy"
+image: "/assets/images/product-stories/chargy.jpg"
 
 header:
   client: "char.gy"
@@ -18,7 +19,7 @@ introduction:
   image: "/product-stories/chargy/car-charging-with-chargy.jpg"
   image_description: "Car charging with char.gy"
 
-in_numbers_1:
+highlight_1:
   title: "char.gy in numbers"
   project: "chargy"
   statistics:
@@ -27,23 +28,23 @@ in_numbers_1:
     - number: "50"
       text: "Charge points installed within Southwark"
 
-increasing_uptake:
+paragraph_1:
   title: "Increasing electric vehicle uptake"
   content: "With a third of UK households having no access to off-street parking, rising to 78% in London, widespread electric vehicle uptake is reliant on viable, convenient means of on-street charging. char.gy identified existing on-street lampposts as a potential way for residents to charge an electric vehicle at home, approaching Unboxed to help solve this problem, aligned with the Government’s ‘Road to Zero’ strategy to lead the world in zero-emission vehicle technology."
   image: "/product-stories/chargy/chargy-plug.jpg"
   image_description: "A person plugging into char.gy"
 
-quote_chris_1:
+quote_1:
   quote: "The last four years have seen a surge in demand for electric vehicles in the UK, with the demand due to drastically continue increasing over the next few years. With nowhere to easily charge an electric vehicle in a residential street, how can this uptake be supported by limited infrastructure? This is the problem we’re working with Unboxed to overcome."
   source: "Chris McDowell, Chief Product Officer — char.gy"
 
-designed_for_existing_infrastructure:
+paragraph_2:
   title: "Designed to fit onto existing infrastructure"
   content: "Beginning with a focus on hardware and electrical integrations, the team prototyped concepts for connecting power supplies with EVs, working towards similar power supplies to those available through on-street lampposts. Installing directly onto lampposts through secure bolting, and no requirement to dig up pathways, the charge point has been designed to provide charging capabilities of up to 7.36kW and meets open charging standards through standard cable compatibility."
   image: "/product-stories/chargy/chargy-prototype.jpg"
   image_description: "A prototype of char.gy"
 
-in_numbers_2:
+highlight_2:
   title: "char.gy in numbers"
   project: "chargy"
   statistics:
@@ -52,23 +53,23 @@ in_numbers_2:
     - number: "300+"
       text: "Live charge points now available"
 
-software_platform:
+paragraph_3:
   title: "A software platform for manage EV charging and payments"
   content: "Through user-led, agile approaches, the software platform was iteratively built around the physical step-by-step charging process, from a driver locating an available charge point through a map, to commencing a charging session and making payments through a range of tariffs. The char.gy application is now compatible with Apple Pay, allowing drivers to make single-touch purchases on the ‘Pay As You Go’ option for quicker and easier ad-hoc charging."
   image: "/product-stories/chargy/chargy-phones.png"
   image_description: "char.gy app on phone"
 
-public_lampost_chargepoint:
+paragraph_4:
   title: "The UK’s first open, public lamppost EV charge point"
   content: "The launched software application allows for drivers to manage their end-to-end charging journey from their smartphone (from locating an available charge point to processing payments). Passing all relevant UK hardware and electrical legislation, including ELEXON certification, char.gy has been installed onto public streets across London and Buckinghamshire, with further units due to be installed in 2019 to bring open, public lamppost EV charging to more residents."
   image: "/product-stories/chargy/car-on-street.jpg"
   image_description: "Car on street charging with char.gy"
 
-quote_chris_2:
+quote_2:
   quote: "The Unboxed team has been core to the success of getting char.gy onto the streets. Our next goal is to bring open electric vehicle charging to more residents across the UK — something we are working with Unboxed to do across 2019."
   source: "Chris McDowell, Chief Product Officer — char.gy"
 
-quote_henry:
+quote_3:
   quote: "The char.gy application has been designed and developed to meet a number of different elements — from communication with the charge points, enabling drivers to find available charge points through map integrations, reliability and performance monitoring, to beginning a charge through the front-end and handling payments via the most convenient methods. Our user-led approach has enabled the team to iteratively build a web platform to reach as many people as possible that is aligned with user needs."
   source: "Henry Turner, Senior Developer — Unboxed"
 
@@ -120,35 +121,3 @@ related:
       type: "news"
       link: "https://www.renewableenergymagazine.com/electric_hybrid_vehicles/char-gy-awarded-contract-to-install-lamppost-20180817"
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.increasing_uptake %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_chris_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.designed_for_existing_infrastructure %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.software_platform %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_henry %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.public_lampost_chargepoint %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_chris_2 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>

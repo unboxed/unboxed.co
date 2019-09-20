@@ -1,7 +1,8 @@
 ---
 title: "Product Story - Public Health England"
-meta_description: "Developing the UK National Screening Committee’s new online presence with Public Health England: discovery phase"
+description: "Developing the UK National Screening Committee’s new online presence with Public Health England: discovery phase"
 meta_keywords: "Ruby on Rails, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails development, Ruby on Rails developer London"
+image: "/assets/images/product-stories/public-health-england.jpg"
 
 header:
   client: "Public Health England"
@@ -23,12 +24,12 @@ highlight_1:
   title: "Public Health England in numbers:"
   project: "public-health-england"
   statistics:
-  - number: "33,000+"
-    text: "Average monthly UK NSC online visitors"
-  - number: "23"
-    text: "User engagements conducted"
+    - number: "33,000+"
+      text: "Average monthly UK NSC online visitors"
+    - number: "23"
+      text: "User engagements conducted"
 
-fragmented_screening:
+paragraph_1:
   title: "Fragmented online health screening information"
   content: "The UK National Screening Committee (UK NSC) website is a key resource for experts and policy makers in shaping screening recommendations, as well as wider public interest, reaching 33,000+ visitors per month. With current content spread across disparate pages, inconsistent uses of design elements and outdated, underlying technical infrastructure, Public Health England identified the need to create a new online presence for UK NSC, built around user-needs."
   image: "/product-stories/public-health-england-nsc-discovery/table.jpg"
@@ -38,7 +39,7 @@ quote_1:
   quote: During this Discovery phase, we've established a user-centred design process within the UK NSC team to begin changing the current experience from a number of inconsistent and defragmented interactions into a single consistent journey, aligned to the digital service standard.
   source: "— Lawrence Richards, Service Designer, Unboxed"
 
-engaging_stakeholders:
+paragraph_2:
   title: "​​Engaging stakeholders across four UK countries"
   content: "As a platform with users and stakeholders located across four UK countries (England, Scotland, Northern Ireland and Wales), the team worked to carry
   out in-depth interviews, through both face-to-face engagement in each location and online video conferencing to uncover insights. These results categorised as three main user groups (evidence review managers, policy stakeholders and the public), each with their own distinct requirements from the UK NSC."
@@ -49,7 +50,7 @@ quote_2:
   quote: "We’re really impressed with the work that Unboxed delivered in a very short four-week Discovery phase. The team introduced us to numerous user research tools and agile ways of working which PHE are keen to learn from."
   source: "— Adrian, Product Owner, Public Health England"
 
-user_engagement:
+paragraph_3:
   title: "Opportunities identified to improve user engagement"
   content: "In-depth interviews, workshops, shadowing and user journey mapping uncovered opportunities far beyond a website redesign. Signposting of various screening resources, independent and UK-wide positioning through through linking to national screening programmes across each country, a more proactive and engaging service through regular updates via email or SMS and leveraging available open-source technologies all emerged as opportunities to explore further."
   image: "/product-stories/public-health-england-nsc-discovery/wall-with-stickies.jpg"
@@ -59,12 +60,12 @@ highlight_2:
   title: "Public Health England in numbers:"
   project: "public-health-england"
   statistics:
-  - number: "13"
-    text: "User interviews conducted"
-  - number: "3"
-    text: "Emerging core user groups for UK NSC"
+    - number: "13"
+      text: "User interviews conducted"
+    - number: "3"
+      text: "Emerging core user groups for UK NSC"
 
-alpha:
+paragraph_4:
   title: "The service assessment through to Alpha"
   content: "Early validation of this Discovery phase has been delivered through successfully passing an internal service assessment (based on the Government Digital Service service assessment), conducted by the Department of Health and Social Care and PHE Digital. The next phase of this project is to prototype and test potential consultation platforms for screening recommendations, as the next step in creating a new online presence for UK NSC built around user needs."
   image: "/product-stories/public-health-england-nsc-discovery/screenshot.jpg"
@@ -124,36 +125,3 @@ related:
       link: "/product-stories/guys-and-st-thomas"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.fragmented_screening %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.engaging_stakeholders %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.user_engagement %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.alpha %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-
-</div>

@@ -1,7 +1,8 @@
 ---
 title: "Product Story - Guy's and St Thomas'"
-meta_description: "Introducing a patient-led innovation programme into the NHS with Guy's and St. Thomas' NHS Foundation Trust"
 meta_keywords: "Ruby on Rails, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails development, Ruby on Rails developer London"
+description: "Introducing a patient-led innovation programme into the NHS"
+image: "/assets/images/product-stories/guys-and-st-thomas.jpg"
 
 header:
   client: "Guy's and St Thomas'"
@@ -19,7 +20,7 @@ introduction:
   image: "/product-stories/guys-and-st-thomas/martyn-team-wall.jpg"
   image_description: "Martyn and team at team wall"
 
-in_numbers_1:
+highlight_1:
   title: "Guy's and St. Thomas' NHS Foundation Trust in numbers"
   project: "guys-and-st-thomas"
   statistics:
@@ -28,33 +29,33 @@ in_numbers_1:
     - number: "20"
       text: "New digital and non-digital opportunities identified"
 
-sustainable_innovation:
+paragraph_1:
   title: "Establishing sustainable innovation"
   content: "The NHS is under enormous pressure with growing demand for services, increasing numbers of patients and a constant drive to find cost-savings. As one of the UK's biggest providers of specialised services, with 2m+ contacts each year, Guy's and St. Thomas' NHS Foundation Trust is no different. The Trust understands that it needs to establish a sustainable and transformational approach in digital innovation for providing improved, more efficient services to their patients."
   image: "/product-stories/guys-and-st-thomas/toby-garrood-thinking.jpg"
   image_description: "Toby Garrood thinking"
 
-quote_toby_1:
+quote_1:
   quote: "It's very clear to me, as a service lead, that we've got to change the way we do things in the NHS. Working with Unboxed is a huge opportunity to rethink the way in which we deliver our services more efficiently."
   source: "Dr. Toby Garrood, Consultant Rheumatologist — Guy's and St. Thomas' NHS Foundation Trust"
 
-identify_opportunities:
+paragraph_2:
   title: "Starting small to identify opportunities"
   content: "Beginning with three exemplar departments (Children's Allergy, Rheumatology and Dermatology), the programme started with patient interviews to begin engaging further and gathering insights around current service experiences. Opportunities such as more valuable first appointments, unsustainable waste and inefficiency in processes were identified as just some of the highest-priority areas of focus."
   image: "/product-stories/guys-and-st-thomas/journey-map-wall.jpg"
   image_description: "Journey map wall"
 
-quote_toby_2:
+quote_2:
   quote: "One of the most transformative things is simply getting out of my clinic room, sitting in the waiting room, interacting with patients and talking to them. What they tell you face-to-face is very different to what they tell you on a feedback form."
   source: "Dr. Toby Garrood, Consultant Rheumatologist — Guy's and St. Thomas' NHS Foundation Trust"
 
-user_centred_approach:
+paragraph_3:
   title: "Opening up a user-centred approach to working"
   content: "Exploring further into inefficiency in processes led to discovering that patient referrals lack the efficiencies to ensure maximum value is delivered at the first appointment. Difficulty in accessing GP notes, growing time constraints, complex systems and patients not knowing what to expect have led to opportunities in identifying key information that can be provided by patients before an appointment, ensuring their first appointment is as valuable as possible."
   image: "/product-stories/guys-and-st-thomas/user-journey-leon-martyn.jpg"
   image_description: "User journey Leon & Martyn"
 
-in_numbers_2:
+highlight_2:
   title: "Guy's and St. Thomas' NHS Foundation Trust in numbers"
   project: "guys-and-st-thomas"
   statistics:
@@ -63,13 +64,13 @@ in_numbers_2:
     - number: "5"
       text: "Departments engaged in the programme"
 
-establishing_direction:
+paragraph_4:
   title: "Establishing the direction forward for improved services"
   content: "Since launching, the innovation programme has generated and identified over 20 new digital and non-digital opportunities for the Trust, as well as achieving an increase in levels of engagement across patients, staff and key stakeholders. New and innovative approaches are now being introduced into a number of core NHS departments, beginning the journey to improved and more efficient services for patients."
   image: "/product-stories/guys-and-st-thomas/product-image.jpg"
   image_description: "Product image"
 
-quote_toby_3:
+quote_3:
   quote: "We've been able to identify the root of many of the problems we are experiencing — patients and doctors are not receiving the right information at the right time. We've now taken an approach to begin engaging patients further in the referral process by including them earlier in the process. Unboxed are working with us to do something differently — we're putting our patients first."
   source: "Dr. Toby Garrood, Consultant Rheumatologist — Guy's and St. Thomas' NHS Foundation Trust"
 
@@ -122,35 +123,3 @@ related:
       link: "/product-stories/sh24/"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.sustainable_innovation %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_toby_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.identify_opportunities %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_toby_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.user_centred_approach %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.in_numbers_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.establishing_direction %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_toby_3 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>
