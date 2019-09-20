@@ -5,7 +5,11 @@ require './lib/article_info'
 module Helpers
   def retina_srcset(path)
     return "#{path}" if path =~ /^http(s)?/
-    "#{path.gsub(/\./, '@2x.')} 2x"
+    if File.exist?("source/#{path.gsub(/\./, '@2x.')}")
+      "#{path.gsub(/\./, '@2x.')} 2x"
+    elsif File.exist?("source/#{path.gsub(/\./, '-2x.')}")
+      "#{path.gsub(/\./, '-2x.')} 2x"
+    end
   end
 
   def site_nav_link(link_text, href, options = {})
