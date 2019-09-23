@@ -20,6 +20,10 @@
     <meta name="keywords" content="<%= page_data(:meta_keywords) %>">
     <%= favicon_tag "favicon.ico" %>
 
+    <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:title" content="<%= current_page.data.title %>" />
+    <meta prefix="og: http://ogp.me/ns#" property="og:url" content="<%= URI.join("https://unboxed.co/", current_page.url) %>" />
+
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@Ubxd">
     <meta name="twitter:title" content="<%= current_page.data.title %>">
@@ -29,6 +33,9 @@
     <% if content_for?(:twitter_card) %>
       <%= yield_content(:twitter_card) %>
     <% else %>
+      <meta prefix="og: http://ogp.me/ns#" property="og:description" content="<%= truncate(strip_tags(current_page.data.header ? current_page.data.header.introduction : ""), length: 150) %>" />
+      <meta prefix="og: http://ogp.me/ns#" property="og:image" content="<%= defined?(current_page.data.header.image) ? image_url("#{current_page.data.header.image}") : image_url("assets/images/unboxed-default-twitter-card.jpg") %>" />
+
       <meta name="twitter:description" content="<%= truncate(strip_tags(current_page.data.header ? current_page.data.header.introduction : ""), length: 150) %>">
       <meta name="twitter:image" content="<%= defined?(current_page.data.header.image) ? image_url("#{current_page.data.header.image}") : image_url("assets/images/unboxed-default-twitter-card.jpg") %>">
     <% end %>
