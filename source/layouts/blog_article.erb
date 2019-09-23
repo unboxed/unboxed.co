@@ -5,6 +5,9 @@
 
 <!--Twitter card tags-->
 <% content_for(:twitter_card) do %>
+  <meta prefix="og: http://ogp.me/ns#" property="og:description" content="<%= truncate(strip_tags(current_article.body), length: 150) %>" />
+  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="<%= current_page.data.weekly_roundup ? image_url("assets/images/blog/unboxed_roundup.jpg") : current_page.data.main_image %>" />
+
   <meta name="twitter:description" content="<%= truncate(strip_tags(current_article.body), length: 150) %>">
   <meta name="twitter:image" content="<%= current_page.data.weekly_roundup ? image_url("assets/images/blog/unboxed_roundup.jpg") : current_page.data.main_image %>">
 <% end %>
