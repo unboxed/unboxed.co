@@ -239,3 +239,12 @@
     link: https://twitter.com/JosieO09
   - name: LinkedIn
     link: https://www.linkedin.com/in/joanneoliveira/
+- name: Tom Harrison
+  short_name: tom-harrison
+  role: Delivery
+  email: tom.harrison
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/trinovantum
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/tomjharrison/
