@@ -248,3 +248,14 @@
     link: https://twitter.com/trinovantum
   - name: LinkedIn
     link: https://www.linkedin.com/in/tomjharrison/
+- name: Evangelos Giataganas
+  short_name: evangelos-giataganas
+  role: Developer
+  email: evangelos.giataganas
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/egiataganas
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/egiataganas/
+  - name: Github
+    link: https://github.com/egiataganas
