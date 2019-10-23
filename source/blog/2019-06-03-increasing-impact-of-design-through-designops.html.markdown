@@ -64,7 +64,7 @@ In line with the above, a key role of DesignOps is to keep an eye on the ‘heal
 <br />
 
 ![Design is relationships](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3abcd28c28bba1c757be4b062d670e6c.jpg)
-*Hay Hughes from AirBnB talks about the importance of designers nurturing relationships across the organisation*
+*Hayley Hughes from AirBnB talks about the importance of designers nurturing relationships across the organisation*
 
 
 
