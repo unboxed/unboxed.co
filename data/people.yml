@@ -85,13 +85,6 @@
   social_networks:
   - name: Twitter
     link: https://twitter.com/victoriakpeel
-- name: Paul John-Baptiste
-  short_name: paul-john-baptiste
-  role: Designer
-  email: paul.john-baptiste
-  social_networks:
-  - name: LinkedIn
-    link: https://www.linkedin.com/in/paul-john-baptiste-9b47b51/
 - name: Steve Lennon
   short_name: steve-lennon
   role: Delivery
@@ -118,21 +111,6 @@
     link: https://twitter.com/CBedingfield
   - name: LinkedIn
     link: https://uk.linkedin.com/in/carriebedingfield
-- name: Ben Wong
-  short_name: ben-wong
-  role: Developer
-  email: ben.wong
-  bio: |
-    Ten years ago I started my first job - shoring up a failing project in a failing
-    dot com. Ever since then I've been helping people with projects that are in trouble,
-    and in doing so, learnt a lot about agile methods and how they can help a struggling
-    project. If you have a problem, if no one else can help, and if you can find us,
-    maybe you can hire... unboxed
-  social_networks:
-  - name: LinkedIn
-    link: https://uk.linkedin.com/in/ben-wong-45876a1
-  - name: GitHub
-    link: https://github.com/spannerinworks
 - name: Holly Brenan
   short_name: holly-brenan
   role: Designer
