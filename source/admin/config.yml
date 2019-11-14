@@ -103,11 +103,7 @@ collections:
         widget: object
         fields:
           - {label: "Title", name: title, widget: string}
-          - label: "Bullet points"
-            name: content
-            widget: list
-            fields:
-              - {label: "Bullet point", widget: string}
+          - {label: "Content (usually in bullet points)", name: content, widget: markdown}
           - {label: "Image", name: image, widget: image}
           - {label: "Image description", name: image_description, widget: string}
 
