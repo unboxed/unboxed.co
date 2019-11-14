@@ -68,7 +68,7 @@ collections:
     extension: 'html.markdown' # Middleman v4 requires .html.markdown
     format: 'frontmatter'
     fields:
-      - label: 'Page title - e.g Product Story - Client'
+      - label: 'Page tab title - e.g Product Story - Client'
         name: 'title'
         widget: 'string'
 
@@ -95,7 +95,7 @@ collections:
         fields:
           - {label: "Client", name: client, widget: string}
           - {label: "Introduction", name: introduction, widget: string}
-          - {label: "Header image", name: image, widget: image}
+          - {label: "Header image - 1280 x 640 px", name: image, widget: image}
           - {label: "Image description", name: image_description, widget: string}
 
       - label: 'Introduction (heading and bullet point summary)'
@@ -104,7 +104,7 @@ collections:
         fields:
           - {label: "Title", name: title, widget: string}
           - {label: "Content (usually in bullet points)", name: content, widget: markdown}
-          - {label: "Image", name: image, widget: image}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
           - {label: "Image description", name: image_description, widget: string}
 
       - label: "In numbers"
@@ -112,7 +112,7 @@ collections:
         widget: object
         fields:
           - {label: "Title", name: title, widget: string}
-          - {label: "Project (used to create coloured bands)", name: project, widget: string}
+          - {label: "Project name e.g. southwark-council (used to create coloured bands)", name: project, widget: string}
           - label: "Statistics"
             name: statistics
             widget: list
@@ -126,7 +126,7 @@ collections:
         fields:
           - {label: "Header", name: title, widget: string}
           - {label: "Content", name: content, widget: markdown}
-          - {label: "Image", name: image, widget: image}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
           - {label: "Image description", name: image_description, widget: string}
 
       - label: "Quote"
@@ -142,7 +142,7 @@ collections:
         fields:
           - {label: "Header", name: title, widget: string}
           - {label: "Content", name: content, widget: markdown}
-          - {label: "Image", name: image, widget: image}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
           - {label: "Image description", name: image_description, widget: string}
 
       - label: "In numbers (not required)"
@@ -165,7 +165,7 @@ collections:
         fields:
           - {label: "Header", name: title, widget: string}
           - {label: "Content", name: content, widget: markdown}
-          - {label: "Image", name: image, widget: image}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
           - {label: "Image description", name: image_description, widget: string}
 
       - label: "Quote"
@@ -182,7 +182,7 @@ collections:
         fields:
           - {label: "header", name: title, widget: string}
           - {label: "content", name: content, widget: markdown}
-          - {label: "Image", name: image, widget: image}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
           - {label: "Image description", name: image_description, widget: string}
 
       - label: "Quote (not required)"
@@ -199,7 +199,7 @@ collections:
         required: false
         fields:
           - {label: "Youtube ID", name: youtube_id, widget: string}
-          - {label: "Image", name: image, widget: image}
+          - {label: "Image - 1280 x 720 px", name: image, widget: image}
           - {label: "Image description", name: image_description, widget: string}
 
       - label: "Team"
@@ -211,8 +211,8 @@ collections:
             widget: list
             fields:
               - {label: "Full name", name: full_name, widget: string}
-              - {label: "Image", name: image, widget: image}
-              - {label: "Link to people page", name: link, widget: string, required: false}
+              - {label: "Image - 72 x 72 px", name: image, widget: image}
+              - {label: "Link to people page (/people#perons-full-name)", name: link, widget: string, required: false}
 
       - label: "Site of the client (not required)"
         name: "site"
