@@ -21,10 +21,6 @@ unboxed_meeting_image:
 roles:
   title: Roles we are looking to fill
   content:
-    - name: Senior Digital Product Designer
-      text: >-
-        Our designers are passionate about user experience and user-centred, participatory design.
-      link: /jobs/senior-product-designer
 offer:
   title: What we offer
   incentives:
@@ -90,14 +86,8 @@ published: true
   <%= partial 'shared/full_image', locals: current_page.data.unboxed_meeting_image %>
 
   <section class="roles">
-    <% if current_page.data.roles.content.nil? %>
-      <h2 class="roles__title">
-        No current vacancies
-      </h2>
-      <p class="roles-tile__no-roles-paragraph">
-        We don't currently have any team openings.
-      </p>
-    <% else %>
+
+    <% if !current_page.data.roles.content.nil? %>
       <h2 class="roles__title">
         <%= current_page.data.roles.title %>
       </h2>
@@ -120,6 +110,7 @@ published: true
         <% end %>
       </div>
     <% end %>
+
   </section>
 
   <section class="component--full-page">
@@ -144,7 +135,12 @@ published: true
 
   <%= partial 'shared/quote_caricature', locals: current_page.data.alumni_quote %>
 
-  <%= partial 'jobs/contact_us', locals: { roles_count: current_page.data.roles.content.length } %>
+  <% if !current_page.data.roles.content.nil? %>
+    <%= partial 'jobs/contact_us', locals: { roles_count: current_page.data.roles.content.length } %>
+  <% else %>
+    <%= partial 'jobs/contact_us_no_roles'  %>
+  <% end %>
+
 
   <%= partial 'shared/related_tiles' %>
 </div>

@@ -8,7 +8,7 @@ header:
   image: "/jobs/images/twitter-card-image-design.jpg"
 
 introduction:
-  title: "Senior Digital Product Designer (Maternity Cover)"
+  title: "This vacancy is no longer open for applications"
   text_1: "Salary range: £60k - £75k"
   text_2: "We are on the lookout for a London-based Senior Product Designer, with solid experience of designing user flows and prototypes, who loves working with teams to turn designs into digital products that make a meaningful impact in the world."
   text_3: "You will be working as a core member of one of our multi-disciplinary teams to:"
@@ -97,43 +97,7 @@ developer_quote:
       <h2 class="text-tile__title">
         <%= current_page.data.introduction.title %>
       </h2>
-
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_1 %>
-      </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_2 %>
-      </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_3 %>
-      </p>
-
-      <ul class="text-tile__list">
-        <% current_page.data.introduction.activities.each do |requirement| %>
-            <li class="text-tile__list-item">
-              <%= requirement %>
-            </li>
-        <% end %>
-      </ul>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_4 %>
-      </p>
     </div>
   </section>
 
-  <%= partial 'shared/full_image', locals: current_page.data.developers_image %>
-
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
-
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.requirements %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.other_requirements %>
-
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
-
-  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
-
-  <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
-
-  <%= partial 'jobs/contact_us_holly' %>
 </div>
