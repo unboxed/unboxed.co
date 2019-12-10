@@ -13,7 +13,6 @@ published: true
 
 ![char.gy wins TRANStech Award](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fda36470f02c0ee349ca715ed1b6767c.jpg)
 
-\
 The TRANStech Awards recognise imagination and innovation by those using technology to improve the transport system, rewarding excellence and achievement in both established and emerging areas of mobility and transport.
 
 char.gy has been successful in winning the Electric Experience award for showcasing the innovative use of technology to improve transport through its on-street lamppost and bollard charging solutions, supporting the uptake of electric vehicles.
