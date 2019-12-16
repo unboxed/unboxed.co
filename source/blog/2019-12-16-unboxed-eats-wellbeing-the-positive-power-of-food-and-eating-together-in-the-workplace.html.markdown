@@ -7,7 +7,7 @@ authors:
 tags:
   - Culture
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e8b19c9e63be218ca1eb1b7cdc0e024f.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3cd79848bebc41bd9e8bfc6996b955f9.png
 date: '2019-12-16T11:07:26+00:00'
 published: true
 ---
