@@ -9,7 +9,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e8b19c9e63be218ca1eb1b7cdc0e024f.png
 date: '2019-12-16T11:07:26+00:00'
-published: false
+published: true
 ---
 Working adults spend around one third of their waking hours at work and, as such, our workplaces should be well-placed to provide an opportunity to improve our wellbeing, both mental and physical.
 
