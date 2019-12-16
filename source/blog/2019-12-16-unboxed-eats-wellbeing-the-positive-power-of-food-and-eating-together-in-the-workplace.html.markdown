@@ -25,6 +25,8 @@ In our [August wellbeing blog post](https://unboxed.co/blog/wellbeing-at-unboxed
 
 ![Wellbeing at Unboxed](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4ac4c59a70c7af49f5a16288ad5baa33.png)
 
+<br/>
+
 # The benefits of ‘commensality’
 
 Busy lives and a culture of long working days tend to facilitate less-healthy eating, and less time to eat. A working culture that encourages taking the time to eat properly, having access to a healthy choice of food, enabling conversation about and around food, is not only good for morale but good for our health too. Perhaps it’s as much about the time and sharing that is good for us as it is the food we eat.
@@ -39,7 +41,7 @@ A firefighters’ daily job will no doubt involve more energy spent than an offi
 
 Of course, there may be plenty of environments where a quick lunch alone at your desk still looking at your screen is the norm, and there are many occasions and reasons when this is fine and necessary. Eating together should be something that people are encouraged and want to do rather than be expected.<br/>
 
-
+<br/>
 
 # The positive power of food at Unboxed
 
