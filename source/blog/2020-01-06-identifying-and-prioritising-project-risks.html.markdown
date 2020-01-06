@@ -20,8 +20,6 @@ There’s a wide range of different types of risks involved in a project. Knowin
 
 ![Assessing project risks](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/86ca8c9ecdf951e15e747c41dde0bfeb.png)
 
-<br/>
-
 As part of the very beginning of a project, Unboxed teams run a kick-off (or alignment) workshop with our customers. These are typically a full-day workshop with the core team and stakeholders, involving a number of different activities, including setting the vision, identifying our users through personas, mapping their current user journeys, stakeholder mapping and a number of different tasks for beginning a project or phase (depending on the project). As part of this workshop, identifying and prioritising risks then creating mitigation strategies is a core task. 
 
 Here is one method of facilitating this task, ensuring that you can head into your first sprint with a good understanding of the challenges that you and your project may be facing.<br/>
