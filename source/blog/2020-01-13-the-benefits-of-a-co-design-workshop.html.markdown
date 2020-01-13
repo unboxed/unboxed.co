@@ -19,8 +19,6 @@ The co-design workshop brings this part of the design process together into a si
 
 Here are just some of the benefits of running a co-design workshop as part of your project:
 
-<br/>
-
 # Increases engagement
 
 Having a number of people involved in this practical session is a good way of increasing engagement across your project. Introducing an active approach to solving problems through interacting with others, hearing different points of view and taking more creative approaches can help people to feel more involved.
@@ -33,8 +31,6 @@ Having a number of people involved in this practical session is a good way of in
 
 It can often be challenging to engage senior stakeholders across a project as getting time in their diary is sometimes a difficult task. Co-design sessions that take place after the initial round of user research are a great way of checking in, sharing the results of research to date and provide the opportunity to share any ideas that they may have been holding on to.
 
-<br/>
-
 # Gives everyone a contributing voice
 
 Co-design sessions are a great space for everyone’s opinion to be heard. Whether junior or senior, once people see how simple sketches can be and the different ideas that can flourish from this method, sketching as a medium can help people feel more comfortable voicing their opinion.
@@ -46,8 +42,6 @@ Co-design sessions are a great space for everyone’s opinion to be heard. Wheth
 # Processes and synthesises user research insights
 
 It is a good opportunity for bringing together and synthesising your user research insights. During user research, a lot of information is gathered to help guide the direction of a project and user needs begin to form. Co-design sessions can help the core team to begin thinking about how concepts and prototypes may start beginning to emerge to meet these needs, and refocus them away from thinking about business needs first to user needs first.
-
-<br/>
 
 # Involves your users
 
