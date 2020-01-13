@@ -11,7 +11,7 @@ main_image: >-
 date: '2020-01-13T12:01:23+00:00'
 published: true
 ---
-As a core method of primary user research, co-design is a collaborative and creative process of working _with_ your users and stakeholders in the design process to begin taking the first steps to consolidating user insights within the team and validating potential solutions for a product or service.
+As a core method of primary user research, co-design is a collaborative and creative process of working <i>with</i> your users and stakeholders in the design process to begin taking the first steps to consolidating user insights within the team and validating potential solutions for a product or service.
 
 ![Co-design workshop](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0cd77f7db055fb543c233cea47bc4c1c.png)
 
