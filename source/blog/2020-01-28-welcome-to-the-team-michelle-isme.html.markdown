@@ -33,7 +33,7 @@ Although I’ve recently come onboard permanently, I’m not completely new to U
 
 <i>User testing at Hackney Council.</i>
 
-The first was a discovery phase with the Department for Transport, exploring the use, need and potential for an open list of charge point data for electric vehicle users. This was followed by a stint at Hackney Council, looking at how to improve the way citizens register for and access online services. Most recently (October to December 2019), I've been working on an alpha phase project with Southwark Council & Partners, where I was prototyping a digital product that helps planning teams to more-quickly and easily assess planning applications from householders.
+The first was a discovery phase with the Department for Transport, exploring the use, need and potential for an open list of charge point data for electric vehicle users. This was followed by a stint at Hackney Council, looking at how to improve the way citizens register for and access online services. Most recently (October to December 2019), I've been working on an alpha phase project with Southwark Council & Partners, where I was part of the team prototyping a digital product that helps planning teams to more-quickly and easily assess planning applications from householders.
 
 ![Sketching prototypes for a new back-office planning system](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6d7736023d58396beefc582d91943bad.png)
 
