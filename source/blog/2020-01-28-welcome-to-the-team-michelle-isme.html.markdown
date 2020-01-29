@@ -11,15 +11,13 @@ published: true
 ---
 Hello, I’m [Michelle Isme](https://twitter.com/icoo) — the newest Unboxed joiner and latest member of the growing design team.
 
-![Michelle Isme](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/dcffea663bff3d26665d8fdaca291746.png)
+![User testing](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e9fd9b299f9a8714e0bae8d0e4e0917e.png)
 
 I’ve been working “in digital” for the last 14 years, branching out from digital comms and campaigning jobs to more product and UX-focused roles about seven years ago. 
 
 Since then, I've been working in product management, service design and user experience design — I'm not tied to one particular discipline. 
 
 As a product manager, my design background helps me to emphasise with users and deliver experiences to met their needs; as a designer, I wear my product hat to assess how technically feasible and commercially viable what I’m designing is. The challenge of identifying and solving problems is what makes things interesting; working with people affected by the ‘problem’ to design a better alternative is what makes it satisfying.
-
-![User testing](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e9fd9b299f9a8714e0bae8d0e4e0917e.png)
 
 Previously, I’ve worked in a tech startup, in the third sector, government, and for my own company. Every job and organisation has taught me something new about my career and myself. 
 
@@ -31,15 +29,15 @@ Now, I’m looking forward to experiencing agency life at Unboxed.
 
 Although I’ve recently come onboard permanently, I’m not completely new to Unboxed. I’ve been contracting for the last two years and have worked with Unboxed on three projects during that time. 
 
-![Sketching prototypes for a new back-office planning system](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6d7736023d58396beefc582d91943bad.png)
-
-<i>Sketching prototypes for a new back-office planning system.</i>
-
-The first was a discovery phase with the Department for Transport, exploring the use, need and potential for an open list of charge point data for electric vehicle users. This was followed by a stint at Hackney Council, looking at how to improve the way citizens register for and access online services. Most recently (Oct-Dec 2019), I've been working on an alpha phase project with Southwark Council & Partners, where I prototyped a digital product that helps planning teams to more-quickly and easily assess planning applications from householders.
-
 ![User testing at Hackney Council](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2283a5ddb3edb431cafaf223500c918e.png)
 
 <i>User testing at Hackney Council.</i>
+
+The first was a discovery phase with the Department for Transport, exploring the use, need and potential for an open list of charge point data for electric vehicle users. This was followed by a stint at Hackney Council, looking at how to improve the way citizens register for and access online services. Most recently (October to December 2019), I've been working on an alpha phase project with Southwark Council & Partners, where I was prototyping a digital product that helps planning teams to more-quickly and easily assess planning applications from householders.
+
+![Sketching prototypes for a new back-office planning system](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/6d7736023d58396beefc582d91943bad.png)
+
+<i>Sketching prototypes for a new back-office planning system.</i>
 
 Each project has allowed me to dive in and immerse myself in a completely new subject area and meet people with very different work and life experiences to my own.
 
