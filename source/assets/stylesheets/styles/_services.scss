@@ -4,7 +4,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     overflow: auto;
-    padding: 20px 0 0 20px;
+    padding: 20px ($padding-h-main-desktop - $gutter/2) 0;
   }
 }
 
@@ -17,6 +17,7 @@
   padding-top: 40px;
 
   @include breakpoint($tablet-breakpoint) {
+  	padding: 40px $gutter/2 0;
     margin-bottom: 50px;
   }
 }
@@ -30,6 +31,7 @@
   @include breakpoint($tablet-breakpoint) {
     float: left;
     width: 33.33%;
+	padding: 0 $gutter/2;
   }
 
   &:last-of-type {
@@ -46,6 +48,7 @@
   padding-right: 20px;
 
   @include breakpoint($tablet-breakpoint) {
+	padding: 0 $gutter/2;
     margin-bottom: 50px;
     line-height: 1.3em;
   }

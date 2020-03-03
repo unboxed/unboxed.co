@@ -12,12 +12,11 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
-    padding: 30px 20px 20px;
+    padding: 30px $padding-h-main-desktop 20px;
     min-height: 320px;
   }
 
   @include breakpoint($desktop-breakpoint) {
-    padding: 30px 30px 20px;
     min-height: 320px;
   }
 }
@@ -43,7 +42,7 @@
   @extend .text-tile;
 
   @include breakpoint($tablet-breakpoint) {
-    padding: 30px 20px;
+    padding: 30px $padding-h-main-desktop;
     min-height: 320px;
   }
 
@@ -126,7 +125,7 @@
   font-weight: 300;
   line-height: 1.3em;
   list-style: disc;
-  padding-left: 20px;
+  padding-left: 1.1em;
   margin-top: 16px;
 
   @include breakpoint($tablet-breakpoint) {

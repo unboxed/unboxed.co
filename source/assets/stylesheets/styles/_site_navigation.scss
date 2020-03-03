@@ -102,7 +102,7 @@
   @include breakpoint($tablet-breakpoint) {
     font-size: 0.8em;
     height: auto;
-    padding: 14px 9px;
+    padding: 16px;
 
     &:last-of-type {
       margin-right: 0;
@@ -111,7 +111,6 @@
 
   @include breakpoint($desktop-breakpoint) {
     font-size: 1.2em;
-    padding: 16px 14px;
   }
 }
 

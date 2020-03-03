@@ -100,6 +100,7 @@
   right: 20px;
 
   @include breakpoint($tablet-breakpoint) {
+	padding: 20px $padding-h-main-desktop;
     bottom: 10%;
     left: 0;
     right: 41%;

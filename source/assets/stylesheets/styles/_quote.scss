@@ -6,7 +6,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     box-sizing: border-box;
-    padding: 40px;
+    padding: 40px $padding-h-main-desktop;
   }
 }
 

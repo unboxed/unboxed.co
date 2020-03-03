@@ -32,24 +32,23 @@
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
-    padding-left: 15px;
     padding-top: 30px;
     padding-bottom: 30px;
   }
 
-  @include breakpoint($desktop-breakpoint) {
-    padding-left: 20px;
-  }
 }
 
 .whitepaper-tile__content-summary {
   @include breakpoint($tablet-breakpoint) {
+    padding-left: $padding-h-main-desktop;
     width: 60%;
   }
 }
 
 .whitepaper-tile__file-summary {
   @include breakpoint($tablet-breakpoint) {
+	padding-left: $gutter;
+    padding-right: $padding-h-main-desktop;
     width: 40%;
   }
 }
