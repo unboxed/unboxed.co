@@ -94,12 +94,12 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e677277b', endColorstr='#e677277b',GradientType=1 );
   font-weight: 300;
   left: 20px;
-  line-height: 1.6;
   padding: 20px;
   position: absolute;
   right: 20px;
 
   @include breakpoint($tablet-breakpoint) {
+	padding: 20px $padding-h-main-desktop;
     bottom: 10%;
     left: 0;
     right: 41%;

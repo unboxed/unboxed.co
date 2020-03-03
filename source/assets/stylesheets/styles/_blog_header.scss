@@ -8,7 +8,7 @@
 
 .blog-header__container {
   @extend .container;
-  padding: 0 20px 20px;
+  padding: 0 $padding-h-main-desktop 20px;
   box-sizing: border-box;
 }
 

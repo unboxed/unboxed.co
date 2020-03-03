@@ -3,7 +3,7 @@
   padding: 30px 20px;
 
   @include breakpoint($tablet-breakpoint) {
-    padding: 30px 20px 20px;
+    padding: 30px $padding-h-main-desktop 20px;
   }
 }
 
@@ -27,7 +27,7 @@
   overflow: hidden;
 
   @include breakpoint ($tablet-breakpoint) {
-    margin: 0 -10px;
+    margin: 0 (-$gutter/2);
   }
 }
 
@@ -38,7 +38,7 @@
   @include breakpoint ($tablet-breakpoint) {
     float: left;
     width: 33.33%;
-    padding: 10px 10px 20px;
+    padding: 10px $gutter/2 20px;
     overflow: hidden;
 
     &:nth-child(3n+1) {

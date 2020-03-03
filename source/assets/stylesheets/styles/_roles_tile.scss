@@ -37,6 +37,11 @@
   &:hover {
     background-color: mix($white, $light-gray);
   }
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 20px $padding-h-main-desktop;
+	min-height: 280px;
+  }
 }
 
 .roles-tile__title {
@@ -50,7 +55,6 @@
   color: $dark-gray;
   padding: 6px 6px 6px;
   font-weight: 300;
-  line-height: 1.4em;
 }
 
 .roles-tile__no-roles-paragraph {

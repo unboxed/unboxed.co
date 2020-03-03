@@ -6,7 +6,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     box-sizing: border-box;
-    padding: 40px;
+    padding: 40px $padding-h-main-desktop;
   }
 }
 
@@ -14,7 +14,6 @@
   @include responsive-text;
   color: $dark-gray;
   font-weight: 300;
-  line-height: 1.3;
   position: relative;
   quotes: "“" "”";
 
