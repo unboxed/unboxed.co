@@ -9,7 +9,7 @@
 
   @include breakpoint($desktop-breakpoint) {
     margin: 0 auto;
-    max-width: $desktop-breakpoint;
+    max-width: $max-desktop-width;
     padding: 0;
   }
 }
