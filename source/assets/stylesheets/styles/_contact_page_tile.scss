@@ -33,14 +33,10 @@
 
   @include breakpoint($tablet-breakpoint) {
     float: left;
-    padding-left: 15px;
-    padding-top: 30px;
+	padding: 30px $padding-h-main-desktop;
     width: 50%;
   }
 
-  @include breakpoint($desktop-breakpoint) {
-    padding-left: 20px;
-  }
 }
 
 .contact-page-tile__image {

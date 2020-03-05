@@ -6,6 +6,7 @@
 
   @include breakpoint($tablet-breakpoint) {
     margin-top: 60px;
+    padding: 0 $padding-h-main-desktop 30px;
   }
 }
 

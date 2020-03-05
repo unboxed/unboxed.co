@@ -5,11 +5,11 @@
     width: 100%;
     min-height: 200px;
     justify-content: center;
+	margin-bottom: 50px;
   }
 
   @include breakpoint($desktop-breakpoint) {
     max-height: none;
-    height: 250px;
   }
 
 }

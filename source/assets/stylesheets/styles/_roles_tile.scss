@@ -1,6 +1,6 @@
 .roles-tile {
   box-sizing: border-box;
-  display: block;
+  display: flex;
   text-decoration: none;
 
   @include breakpoint($tablet-breakpoint) {
@@ -31,11 +31,17 @@
 
 .roles-tile__content {
   background-color: $white;
+  display: flex;
+  flex-direction: column;
   box-sizing: border-box;
   padding: 10px;
 
   &:hover {
     background-color: mix($white, $light-gray);
+  }
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 20px $padding-h-main-desktop 30px;
   }
 }
 
@@ -43,14 +49,21 @@
   @include responsive-sub-title;
   color: $purple;
   padding: 14px 6px;
+
+  @include breakpoint($tablet-breakpoint) {
+  	padding: 14px 0;
+  }
 }
 
 .roles-tile__paragraph {
   @include responsive-text;
   color: $dark-gray;
-  padding: 6px 6px 6px;
+  padding: 6px;
   font-weight: 300;
-  line-height: 1.4em;
+
+  @include breakpoint($tablet-breakpoint) {
+  	padding: 6px 0;
+  }
 }
 
 .roles-tile__no-roles-paragraph {

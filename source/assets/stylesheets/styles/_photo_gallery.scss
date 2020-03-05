@@ -29,13 +29,11 @@
   @include responsive-text;
   color: $purple;
   font-weight: 300;
-  line-height: 1.6;
   margin-bottom: 20px;
   padding-right: 20px;
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 50px;
-    line-height: 1.3em;
   }
 }
 

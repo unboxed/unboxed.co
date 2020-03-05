@@ -16,6 +16,6 @@
 
   @include breakpoint($tablet-breakpoint) {
     margin-bottom: 50px;
-    padding-left: 20px;
+    padding-left: $padding-h-main-desktop;
   }
 }
