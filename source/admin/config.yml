@@ -59,6 +59,197 @@ collections:
         name: 'body'
         widget: 'markdown'
 
+  - name: 'product_stories'
+    label: 'Product stories'
+    folder: '/source/product-stories'
+    label_singular: 'product story'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: 'html.markdown' # Middleman v4 requires .html.markdown
+    format: 'frontmatter'
+    fields:
+      - label: 'Page tab title - e.g Product Story - Client'
+        name: 'title'
+        widget: 'string'
+
+      - label: 'Description (shown on the product story listing page)'
+        name: 'description'
+        widget: 'string'
+
+      - label: 'Client logo shown on the product story listing page - 454 x 180 px'
+        name: image
+        widget: "image"
+
+      - label: 'Date'
+        name: 'date'
+        widget: 'datetime'
+
+      - label: 'Published?'
+        name: published
+        widget: boolean
+        default: true
+
+      - label: "Header"
+        name: "header"
+        widget: "object"
+        fields:
+          - {label: "Client", name: client, widget: string}
+          - {label: "Introduction", name: introduction, widget: string}
+          - {label: "Header image - 1280 x 640 px", name: image, widget: image}
+          - {label: "Image description", name: image_description, widget: string}
+
+      - label: 'Introduction (heading and bullet point summary)'
+        name: introduction
+        widget: object
+        fields:
+          - {label: "Title", name: title, widget: string}
+          - {label: "Content (usually in bullet points. - Format</br> - Like</br> - This for bullet points</br>)", name: content, widget: markdown}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
+          - {label: "Image description", name: image_description, widget: string}
+
+      - label: "In numbers"
+        name: "highlight_1"
+        widget: object
+        fields:
+          - {label: "Title", name: title, widget: string}
+          - {label: "Project name e.g. southwark-council (used to create coloured bands)", name: project, widget: string}
+          - label: "Statistics"
+            name: statistics
+            widget: list
+            fields:
+              - {label: "number", name: number, widget: string}
+              - {label: "text", name: text, widget: string}
+
+      - label: "Paragraph and photo"
+        name: "paragraph_1"
+        widget: object
+        fields:
+          - {label: "Header", name: title, widget: string}
+          - {label: "Content", name: content, widget: markdown}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
+          - {label: "Image description", name: image_description, widget: string}
+
+      - label: "Quote"
+        name: "quote_1"
+        widget: object
+        fields:
+          - {label: "Quote", name: quote, widget: string}
+          - {label: "Source", name: source, widget: string}
+
+      - label: "Paragraph and photo"
+        name: "paragraph_2"
+        widget: object
+        fields:
+          - {label: "Header", name: title, widget: string}
+          - {label: "Content", name: content, widget: markdown}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
+          - {label: "Image description", name: image_description, widget: string}
+
+      - label: "In numbers (not required)"
+        name: "highlight_2"
+        widget: object
+        required: false
+        fields:
+          - {label: "Title", name: title, widget: string}
+          - {label: "Project (used to create coloured band)", name: project, widget: string}
+          - label: "Statistics"
+            name: statistics
+            widget: list
+            fields:
+              - {label: "Number", name: number, widget: string}
+              - {label: "Text", name: text, widget: string}
+
+      - label: "Paragraph and photo"
+        name: "paragraph_3"
+        widget: object
+        fields:
+          - {label: "Header", name: title, widget: string}
+          - {label: "Content", name: content, widget: markdown}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
+          - {label: "Image description", name: image_description, widget: string}
+
+      - label: "Quote"
+        name: "quote_2"
+        widget: object
+        fields:
+          - {label: "Quote", name: quote, widget: string}
+          - {label: "Source", name: source, widget: string}
+
+      - label: "Paragraph and photo (not required)"
+        name: "paragraph_4"
+        widget: object
+        required: false
+        fields:
+          - {label: "header", name: title, widget: string}
+          - {label: "content", name: content, widget: markdown}
+          - {label: "Image - 640 x 618 px", name: image, widget: image}
+          - {label: "Image description", name: image_description, widget: string}
+
+      - label: "Quote (not required)"
+        name: "quote_3"
+        widget: object
+        required: false
+        fields:
+          - {label: "quote", name: quote, widget: string}
+          - {label: "source", name: source, widget: string}
+
+      - label: "Video (not required)"
+        name: "video"
+        widget: object
+        required: false
+        fields:
+          - {label: "Youtube ID", name: youtube_id, widget: string}
+          - {label: "Image - 1280 x 720 px", name: image, widget: image}
+          - {label: "Image description", name: image_description, widget: string}
+
+      - label: "Team"
+        name: team
+        widget: object
+        fields:
+          - label: "People"
+            name: people
+            widget: list
+            fields:
+              - {label: "Full name", name: full_name, widget: string}
+              - {label: "Image - 72 x 72 px", name: image, widget: image}
+              - {label: "Link to people page (/people#perons-full-name)", name: link, widget: string, required: false}
+
+      - label: "Site of the client (not required)"
+        name: "site"
+        widget: object
+        required: false
+        fields:
+          - {label: "Link", name: link, widget: string}
+          - {label: "Text", name: text, widget: string}
+
+      - label: "Links related to this product story (not required)"
+        name: links
+        widget: list
+        required: false
+        fields:
+          - {label: "Title", name: title, widget: string}
+          - {label: "Source", name: source, widget: string}
+          - {label: "Type", name: type, widget: string}
+          - {label: "Link", name: link, widget: string}
+
+      - label: "Related Articles (not required)"
+        name: "related"
+        widget: object
+        required: false
+        fields:
+          - {label: "Title (fill in with 'related')", name: title, widget: string}
+          - label: "Articles"
+            name: articles
+            widget: list
+            fields:
+              - {label: "Title", name: title, widget: string}
+              - {label: "Type", name: type, widget: string}
+              - {label: "Link", name: link, widget: string}
+
+      - label: 'Body (just fill in with single character)'
+        name: 'body'
+        widget: 'markdown'
+
   - name: 'news_articles'
     label: 'News articles'
     folder: '/source/news'

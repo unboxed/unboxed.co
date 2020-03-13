@@ -1,7 +1,8 @@
 ---
 title: "Product Story - Plymouth University"
-meta_description: "Agile website rebuild to increase online student conversion rates with Plymouth University"
+description: "Unboxed leads Agile rebuild of Plymouth University website"
 meta_keywords: "Ruby on Rails, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails development, Ruby on Rails developer London"
+image: "/assets/images/product-stories/plymouth-university.jpg"
 
 header:
   client: "Plymouth University"
@@ -19,7 +20,7 @@ introduction:
   image: "/product-stories/plymouth-university/plymouth-website.jpg"
   image_description: "Plymouth website screenshot"
 
-plymouth_cio_video:
+video:
   youtube_id: "nTSKD1PG1e4"
   image: "/product-stories/plymouth-university/video-still.jpg"
   image_description: "Plymouth University CIO video"
@@ -28,12 +29,12 @@ highlight_1:
   title: "Plymouth University in numbers:"
   project: "plymouth-university"
   statistics:
-  - number: "25,895"
-    text: "Number of students enrolled in the 2014/2015 academic year"
-  - number: "#20"
-    text: "Ranking on Sitemorse 2015 Q3/UK Universities and Higher Education list"
+    - number: "25,895"
+      text: "Number of students enrolled in the 2014/2015 academic year"
+    - number: "#20"
+      text: "Ranking on Sitemorse 2015 Q3/UK Universities and Higher Education list"
 
-emerging_demands:
+paragraph_1:
   title: "A website to meet commercial demands"
   content: "As the competition to attract new students increases, universities have had to become much more commercially oriented. For Plymouth University, one of the ways to achieve this was to improve the way that they engage with prospective students online. The University is fully aware that most students learn about what they have to offer through their website, and wanted their site to better reflect the quality of the Plymouth University experience."
   image: "/product-stories/plymouth-university/demands.jpg"
@@ -43,7 +44,7 @@ quote_1:
   quote: "We knew the site had to change, but not just in terms of design. We had to make sure it gave a great experience on mobile devices such as smartphones, as that is how a large number of our potential students now want to interact with us."
   source: "Paul Westmore, Interim CIO, Plymouth University"
 
-design_testing:
+paragraph_2:
   title: "​​Every design fully tested with students before build"
   content: "To create a site that delivers what users want, the team ran sessions with different stakeholders, with particular emphasis on primary users - students. They worked to deliver the most important features first, iterating to add further functionality on the basis of evidence gathered for what was most effective. Our team co-located with the team at Plymouth University, living in a specially rented flat in Plymouth for the duration of the project."
   image: "/product-stories/plymouth-university/design-testing.jpg"
@@ -53,12 +54,12 @@ highlight_2:
   title: "Plymouth University in numbers:"
   project: "plymouth-university"
   statistics:
-  - number: "10,000+"
-    text: "Number of website pages maintained"
-  - number: "59th"
-    text: "Ranking in world’s 150 best universities under 50 years old"
+    - number: "10,000+"
+      text: "Number of website pages maintained"
+    - number: "59th"
+      text: "Ranking in world’s 150 best universities under 50 years old"
 
-agile:
+paragraph_3:
   title: "Advanced Agile deployed for maximum value captured"
   content: "In line with the most powerful elements of Agile philosophy, pages of the new site were released almost immediately, alongside the old site, with no clunky, delayed or high-stress site changeover. Stories were deployed and new functionality released early and often. Students featured in the user testing, giving feedback on prototypes before this functionality was built into the site."
   image: "/product-stories/plymouth-university/design-sketch.jpg"
@@ -68,7 +69,7 @@ quote_2:
   quote: "Getting core elements of the site out early allowed us to gain feedback, make changes and importantly continue to add functionality early and often, confident that everything that had gone before had been user accepted. Releasing the whole site in one go would have been risky, and meant unacceptable delays to presenting students with a true image of Plymouth University life."
   source: "Paul Westmore, Interim CIO, Plymouth University"
 
-platform:
+paragraph_4:
   title: "An easier accessible platform for prospective users"
   content: "A custom CMS was developed to meet user requirements of the platform, making content and navigation more easily accessible, especially on mobile. A new website content strategy and process were then implemented to overcome the challenges of reducing down their 10,000+ pages of content. With launch of the new homepage, we coached the internal team in Ruby on Rails to roll out the new website, going forward."
   image: "/product-stories/plymouth-university/team-meeting.jpg"
@@ -129,38 +130,3 @@ related:
       link: "/product-stories/plymouth-university-gets-agile"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/full_video', locals: current_page.data.plymouth_cio_video %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.emerging_demands %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.design_testing %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.agile %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.platform %>
-
-  <%= partial 'shared/quote_caricature', locals: current_page.data.quote_3 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-
-</div>

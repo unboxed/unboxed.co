@@ -1,5 +1,7 @@
 ---
 title: "Product Story - V&A"
+description: "Hosting and infrastructure delivery of new digital platform for world-leading V&A"
+image: "/assets/images/product-stories/v-and-a-museum.jpg"
 
 header:
   client: "V&A"
@@ -20,12 +22,12 @@ highlight_1:
   title: "V&A in numbers"
   project: "v-and-a-museum"
   statistics:
-  - number: "12,699,552"
-    text: "Online visitors during 2014-2015"
-  - number: "8%"
-    text: "Conversion rate from online to museum visitors"
+    - number: "12,699,552"
+      text: "Online visitors during 2014-2015"
+    - number: "8%"
+      text: "Conversion rate from online to museum visitors"
 
-infrastructure:
+paragraph_1:
   title: "Support and infrastructure for world-leading digital platform"
   content: "Founded in 1852, the Victoria and Albert Museum (V&A) is the world's leading museum of art and design, with over 60,000 collection items on permanent display. Following the delivery of a new digital platform, their Digital Media team required a partner to ensure this remained live during the critical website re-launch phase, along with efficient, scalable infrastructure and support for the future."
   image: "/product-stories/v-and-a-museum/devs2.jpg"
@@ -35,7 +37,7 @@ quote_1:
   quote: "The aim is for our website to bring the V&A to life online. With our new site ready for re-launch, it was time to invest in our digital infrastructure and support. Unboxed came highly recommended to us by our development partner."
   source: "Kati Price, Head of Digital Media, V&A"
 
-aws:
+paragraph_2:
   title: "Rails application deployed to AWS for peak traffic levels"
   content: "We began by deploying the application onto AWS (Amazon Web Services) to ensure accommodation for extra capacity at peak traffic levels. Meeting new levels of traffic demand was a key activity of preparation for V&A’s high profile re-launch. We evaluated a number of methods for the infrastructure build, settling on AWS CloudFormation to manage the AWS resource and CodeDeploy to co-ordinate application deployments."
   image: "/product-stories/v-and-a-museum/devs1.jpg"
@@ -46,7 +48,7 @@ quote_2:
   source: "Andrew White, CTO, Unboxed"
   image: "/product-stories/v-and-a-museum/team/andrew-white-full.png"
 
-server_load:
+paragraph_3:
   title: "Reducing the server load, automatically deploying"
   content: "Cloudfront, a Content Delivery Network, was implemented reducing the load of the system’s front-end CMS servers. The CMS was then separated from the front-end, ensuring an extra layer of security, and S3 selected for the backup and recovery of media and catalogue uploads – vital for support of the 5,000-page CMS. Automatically deploying to a preview environment when merging pull requests reduced development time."
   image: "/product-stories/v-and-a-museum/mac.jpg"
@@ -56,12 +58,12 @@ highlight_2:
   title: "V&A in numbers"
   project: "v-and-a-museum"
   statistics:
-  - number: "10.08%"
-    text: "Target online-to-visitor conversion rate for 2017/18"
-  - number: "5,000"
-    text: "Page CMS supported"
+    - number: "10.08%"
+      text: "Target online-to-visitor conversion rate for 2017/18"
+    - number: "5,000"
+      text: "Page CMS supported"
 
-digital_platform:
+paragraph_4:
   title: "Supported digital platform successfully re-launched"
   content: "With the re-launch of the platform a success, we are now responsible for the ongoing infrastructure services and application support. Multiple servers behind Elastic Load Balancing now allow for zero downtime deploys and AWS autoscaling is used to reduce running costs during lower capacity periods. The V&A is now in a position to continue growing their digital presence."
   image: "/product-stories/v-and-a-museum/iphone.jpg"
@@ -121,36 +123,3 @@ related:
     link: "https://unboxed.co/blog/andrew-white-s-technical-breakfast-club-what-s-coming-in-rails-5-0/"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.infrastructure %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.aws %>
-
-  <%= partial 'shared/quote_caricature', locals: current_page.data.quote_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.server_load %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.digital_platform %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-
-</div>

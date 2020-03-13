@@ -1,5 +1,7 @@
 ---
 title: "Product Story - Buckinghamshire County Council"
+description: "12-week Beta phase for two services with annual cost-saving of £350,000"
+image: "/assets/images/product-stories/bucks-cc-beta.jpg"
 
 header:
   client: "Buckinghamshire County Council"
@@ -20,12 +22,12 @@ highlight_1:
   title: "Buckinghamshire County Council in numbers"
   project: "bucks-cc-beta"
   statistics:
-  - number: "£100,000"
-    text: "Total estimated annual savings in school admissions service"
-  - number: "£250,000"
-    text: "Total estimated annual savings in street maintenance reporting service"
+    - number: "£100,000"
+      text: "Total estimated annual savings in school admissions service"
+    - number: "£250,000"
+      text: "Total estimated annual savings in street maintenance reporting service"
 
-beta_step:
+paragraph_1:
   title: "The next step in the journey: Beta for Buckinghamshire"
   content: "Buckinghamshire County Council are on a journey to digital transformation, with a cost-saving target of £1.8m by 2017/18. Following our 8-week Alpha phase to identify the biggest technical risks around building two key exemplar digital services, the team embarked on the Beta technical phase to build and scale these services for the 522,000 local residents of Buckinghamshire."
   image: "/product-stories/bucks-cc-beta/postit.jpg"
@@ -35,7 +37,7 @@ quote_1:
   quote: "The outcomes from the Alpha phase helped provide clarity over what we were facing in this Beta phase. Knowing the technical challenges ahead helped provide a strong vision of how we were going to successfully deliver both these digital services for our residents over the next 12 weeks."
   source: "Matthew Cain, Head of Digital, Buckinghamshire County Council"
 
-design_and_dev:
+paragraph_2:
   title: "An integrated approach to design and development"
   content: "The team chose an integrated design/development approach from Sprint One. Design was broken down into five elements (research, user experience, user interface, visual and tone of voice), and each user story discussed before moving from ‘to-do’ into ‘doing’. Open discussion ensured a much clearer understanding of how to bring design and development together to address the impact of UX (user experience) and UI (user interface)."
   image: "/product-stories/bucks-cc-beta/meeting.jpg"
@@ -45,12 +47,12 @@ highlight_2:
   title: "Buckinghamshire County Council in numbers"
   project: "bucks-cc-beta"
   statistics:
-  - number: "2"
-    text: "Digital services built side-by-side"
-  - number: "£900,000"
-    text: "Estimated cost-saving over next three years"
+    - number: "2"
+      text: "Digital services built side-by-side"
+    - number: "£900,000"
+      text: "Estimated cost-saving over next three years"
 
-contact_centre:
+paragraph_3:
   title: "Reducing the volume of contact centre calls"
   content: "Service design was constantly iterated to evaluate how users move successfully through the services, ensuring any barriers encountered were removed and relevant information addressed at the relevant stage. User research was used to map where key information would be placed in each process, with the aim of reducing the volume of query calls to contact centre calls, carrying a cost of £9.02 per call and £78.80 per school application."
   image: "/product-stories/bucks-cc-beta/presentation.jpg"
@@ -60,7 +62,7 @@ quote_2:
   quote: "Keeping the overall design of the service at the forefront of our minds throughout Beta was vital in ensuring we always knew what the most valuable thing to focus on was. We constantly addressed the question of: How might someone move through this part of the service? Thus ensuring the bigger stories were always tied together. This was crucial to the service as a whole."
   source: "Leon Odey-Knight, Design Lead, Unboxed"
 
-sys_integrations:
+paragraph_4:
   title: "Overcoming technical system integrations"
   content: "Service integration into current systems was one of the biggest technical challenges encountered by the team during this phase. Faced with complexities of mapping solutions, APIs and integrations of third party black box systems, the team were required to overcome these technical barriers by co-ordinating these new services across different providers and legacy systems, including Capita One School Admissions and Confirm Asset Management systems."
   image: "/product-stories/bucks-cc-beta/planning.jpg"
@@ -70,12 +72,12 @@ highlight_3:
   title: "Buckinghamshire County Council in numbers"
   project: "bucks-cc-beta"
   statistics:
-  - number: "12"
-    text: "Weeks for technical build of both services"
-  - number: "6"
-    text: "Months from inception to working digital services"
+    - number: "12"
+      text: "Weeks for technical build of both services"
+    - number: "6"
+      text: "Months from inception to working digital services"
 
-launch:
+paragraph_5:
   title: "Two Live services with immediate cost-savings"
   content: "With two digital services launched into the Live phase, both meeting security and performance standards, Buckinghamshire County Council have begun experiencing the cost-saving benefits to their council budgets. ‘Find My Child a School Place’ is set to save the council £100,000 in the next year, with ‘Maintain my Street’ exceeding this, forecasting an annual saving of £250,000."
   image: "/product-stories/bucks-cc-beta/demo2.jpg"
@@ -138,39 +140,3 @@ related:
       link: "https://unboxed.co/news/record-breaking-eu-2nd-referendum-petition-hits-3-9-million-signatures-and-rising-most-popular-parliament-petition-ever/"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.beta_step %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.design_and_dev %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.contact_centre %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.sys_integrations %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_3 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.launch %>
-
-  <%= partial 'shared/quote_caricature', locals: current_page.data.quote_3 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>

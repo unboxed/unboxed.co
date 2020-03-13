@@ -1,5 +1,7 @@
 ---
 title: "Product Story - Bookmetrix"
+description: "Exploring the impact of online publishing with Bookmetrix"
+image: "/assets/images/product-stories/bookmetrix.jpg"
 
 header:
   client: "Bookmetrix"
@@ -14,77 +16,75 @@ introduction:
     - Re-kickstarting the development of new revenue stream
     - Delivering a series of valuable metric features for authors and readers through collaboration
     - Platform experiencing 90+% growth in individual user sessions and pageviews
+  image: "/product-stories/bookmetrix/ben-and-charlie.jpg"
+  image_description: "Developer at work"
 
 highlight_1:
   title: "The Bookmetrix project in numbers"
   project: "bookmetrix"
   statistics:
-  - number: "16,000"
-    text: "Book report requests during first month"
-  - number: "4,000,000+"
-    text: "Online chapters now available for users"
+    - number: "16,000"
+      text: "Book report requests during first month"
+    - number: "4,000,000+"
+      text: "Online chapters now available for users"
 
-section_2:
+paragraph_1:
   title: "Working towards overcoming an industry-specific problem"
-  content_1: |
+  content: |
     Springer Nature is experiencing a publishing industry-specific problem - authors of scholarly books often do not receive any recognition from their university for publishing new books. Working on an idea to overcome this, Bookmetrix was born - an online platform for measuring the reach, usage and readership of a book or chapter by a published author.
-  content_2: |
     The system works towards to supporting academic authors in answering vital questions from funders about the broader impact of their work, as well as supporting customers in making their purchasing decisions.
+  image: "/product-stories/bookmetrix/print-report.png"
 
-image_section_1:
-  image: "/product-stories/bookmetrix/ben-full-width-1.jpg"
-  image_description: "Developer at work"
-
-section_3:
+paragraph_2:
   title: "Partnering to deliver an impact in the world of publishing"
   content: |
     Following the global merger, Springer Nature required a development partner to bridge the gap in delivering tangible results, boosting Bookmetrix to new heights within the world of publishing. Keen to quickly begin building on the existing functionality of this highly data-driven platform, progress kicked off through an inception workshop.
   image: "/product-stories/bookmetrix/ben-and-charlie.jpg"
 
-section_4:
+
+paragraph_3:
   title: "Quickly progressing through close collaboration"
-  content_1: |
+  content: |
     Aligning the direction of the project with stakeholders and the team, a clear roadmap and first set of prioritised user stories emerged from this session through close collaboration alongside Martijn Roelandse, Head of Publishing Innovation at Springer Nature.
-  content_2: |
     Led by Martijn, as Product Owner of Bookmetrix, the team began undertaking the first steps to building on the already-existing functionality of this highly data-driven system. Initially reviewing the existing code base, work began on the development environments.
+  image: "/product-stories/bookmetrix/ben-and-charlie.jpg"
+  image_description: "Developers at work"
 
 highlight_2:
   project: "bookmetrix"
   statistics:
-  - number: "4"
-    text: "Team members"
-  - number: "10,000+"
-    text: "Publications imported to the existing database"
+    - number: "4"
+      text: "Team members"
+    - number: "10,000+"
+      text: "Publications imported to the existing database"
 
-section_5:
+paragraph_4:
   title: "Growing the existing database for a broader audience"
-  content_1: |
+  content: |
     Springer Nature were requiring a number of vital system features for Bookmetrix. Importing over 10,000+ external Palgrave ebooks grew the existing database by over 5%, reaching a total of over four million chapters, expanding the Bookmetrix offering to a broader audience.
-  content_2: |
     This marked a significant milestone as the first time a non-Springer publication had been imported into the system. Collaborating with a number of internal stakeholders, through close online communication, allowed the release of this major feature to open up the opportunity for further third party imports to meet future requirements.
+  image: "/product-stories/bookmetrix/ben-and-charlie.jpg"
+  image_description: "Developers at work"
 
-section_6:
+paragraph_5:
   title: "Emerging new features introduced to support users"
   content: |
     As the platform rapidly grows through continuous development and regular releases, further key features have emerged for users. A ‘Print book report’ feature now gives authors the ability to print a report surrounding the analytics and activity of their ebooks for use in supporting publishing grant applications. Across the first month of this feature release, over 16,000+ book report requests have already been made.
   image: "/product-stories/bookmetrix/print-report.png"
 
-section_7:
+paragraph_6:
   title: "Increasing the team to build on momentum"
-  content_1: |
+  content: |
     Sustained growth is already beginning to develop across Bookmetrix. Individual user sessions are experiencing a 90%+ increase and pageviews are growing by 98%+. A newly-released 'Call to Action' feature has also began converting click-throughs to direct sale results.
-  content_2: |
     Following the success of the merger period, Springer Nature is now in a position to resume Bookmetrix development internally, bringing the project in-house. The delivered results to date and momentum surrounding the project have now justified scaling up the development team from two developers to a team of four.
-
-image_section_2:
-  image: "/product-stories/bookmetrix/ben-full-width-2.jpg"
+  image: "/product-stories/bookmetrix/ben-and-charlie.jpg"
   image_description: "Developers at work"
 
 quote_1:
   quote: |
     As Product Owner, I had not guided a team of developers so closely before - quite a change from the world of phone and email to Slack and Trello. A refreshing breeze actually. Thankfully, the team at Unboxed was very patient with me and guided me through this new world.
   source: "Martijn Roelandse, Head of Publishing Innovation &amp; Product Owner, Springer Nature"
-  image: "/product-stories/bookmetrix/team/martijn-roelandse-full.png"
+
 
 quote_2:
   quote: |
@@ -145,31 +145,3 @@ related:
       link: "/blog/faster-than-lightning-november-s-developer-event"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.introduction %>
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_2 %>
-  <%= partial 'shared/text_tile', locals: current_page.data.section_3 %>
-  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_4 %>
-  <%= partial 'shared/quote_caricature', locals: current_page.data.quote_1 %>
-
-  <%= image_tag current_page.data.image_section_1.image, alt: current_page.data.image_section_1.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_1.image) %>
-
-  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_5 %>
-  <%= partial 'shared/text_tile_reversed', locals: current_page.data.section_6 %>
-  <%= partial 'shared/two_text_tiles', locals: current_page.data.section_7 %>
-
-  <%= image_tag current_page.data.image_section_2.image, alt: current_page.data.image_section_2.image_description, class: "full-image", srcset: retina_srcset(current_page.data.image_section_2.image) %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
-  <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-  <%= partial 'shared/related_tiles' %>
-</div>

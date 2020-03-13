@@ -1,5 +1,7 @@
 ---
 title: "Product Story - Reed Learning"
+description: "Leading digital transformation in professional learning and development"
+image: "/assets/images/product-stories/reed-learning.jpg"
 
 header:
   client: "Reed Learning"
@@ -16,7 +18,7 @@ introduction:
   image: "/product-stories/reed-learning/iterate.jpg"
   image_description: "The Reed Learning app"
 
-digital_learning:
+paragraph_1:
   title: "Breaking into the emerging digital learning marketplace"
   content: "For over 20 years, Reed Learning has successfully delivered courses, programmes and training to individuals and corporates. Facing fundamental changes to how people learn, and an emerging digital learning marketplace, they approached us with a vision to transform the way they design and deliver their products and services."
   image: "/product-stories/reed-learning/journey-map.jpg"
@@ -25,16 +27,16 @@ digital_learning:
 highlight_1:
   project: "reed-learning"
   statistics:
-  - number: "£1,000+"
-    text: "Average L&D spend per employee by UK companies"
-  - number: "45%"
-    text: "Percentage drop in instructor-led training hours year on year"
+    - number: "£1,000+"
+      text: "Average L&D spend per employee by UK companies"
+    - number: "45%"
+      text: "Percentage drop in instructor-led training hours year on year"
 
 quote_1:
   quote: "We had aggressive goals to remake our product portfolio, using digital to change how people get learning in organisations. We needed flexible partners to help us learn and build quickly."
   source: "Melissa Sabella, Director of Product and Innovation — Reed Learning"
 
-agile_pioneers:
+paragraph_2:
   title: "Creating a team of agile pioneers"
   content: "Embedding our team into the Reed Learning team allowed us to introduce agile and lean ways of working in an organisation that hadn't used these before. Before beginning this transformation, we had to ensure we were in a position to start delivering from day one. With ceremonies, systems and our working space all set up, in place and ticked off our checklist, the newly formed Reed Learning / Unboxed team was in a strong position to begin delivering results."
   image: "/product-stories/reed-learning/design.jpg"
@@ -44,7 +46,7 @@ quote_2:
   quote: "We were looking for a culture change that would consistently drive innovation. The entire product function was being newly created and we needed to do it right."
   source: "Melissa Sabella, Director of Product and Innovation — Reed Learning"
 
-piloting:
+paragraph_3:
   title: "Piloting the team’s first agile project"
   content: "Starting small, as a first step, the team launched a pilot agile project. This pilot wasn’t so big that it could be a major risk, but was large enough to make an impact and create positive waves across the organisation. Fortnightly Show & Tells were scheduled to involve stakeholders in this new way of working and used to provide updates on the most important delivered work and priorities, building up trust."
   image: "/product-stories/reed-learning/office.jpg"
@@ -54,13 +56,13 @@ quote_3:
   quote: "This pilot project was the perfect way to start small in moving towards a more agile way of working. It has also helped achieve big results at regular intervals to share with our stakeholders – along with our customers, it got our internal stakeholders excited and helped them understand what we were doing."
   source: "Melissa Sabella, Director of Product and Innovation — Reed Learning"
 
-key_features:
+paragraph_4:
   title: "Key features validated through customer engagement"
   content: "To understand the features customers would immediately start using, the team took a lean approach, talking directly to real customers. Working side-by-side with these customers, the team developed, tested and iterated prototypes. Early on, they began to understand exactly which specific features customers would immediately pay for and use."
   image: "/product-stories/reed-learning/feedback.jpg"
   image_description: "User feedback gathered and shared"
 
-new_product:
+paragraph_5:
   title: "New product in the hands of customers within weeks"
   content: "Within just a few weeks of collaborating, the team were able to fully prototype and build a working digital Ruby on Rails product that addressed a specific, validated user need, which was then immediately adopted by several active customers. Sharing this result with stakeholders increased confidence that this transformation had already begun to show results, which were not only benefitting the internal team, but also the customer."
   image: "/product-stories/reed-learning/app.jpg"
@@ -70,7 +72,7 @@ quote_4:
   quote: "Being able to share positive progress in a short amount of time was key in conveying that we really are making a difference, from the inside out."
   source: "Martyn Evans, Head of Product — Unboxed"
 
-scaling_transformation:
+paragraph_6:
   title: "Scaling transformation to increase delivery"
   content: "With a working digital product providing invaluable customer insight and full stakeholder buy-in across the organisation, the Reed Learning team have taken great strides in their vision being realised. The next step is to scale up the efforts, iterating on the product and introducing new features based on genuine customer needs and their own innovation strategy."
   image: "/product-stories/reed-learning/honeycomb.jpg"
@@ -123,39 +125,3 @@ related:
     link: "/blog/event-the-50k-springboard/"
 
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.digital_learning %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.agile_pioneers %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.piloting %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_3 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.key_features %>
-
-  <%= partial 'shared/text_tile_reversed', locals: current_page.data.new_product %>
-
-  <%= partial 'shared/quote', locals: current_page.data.quote_4 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.scaling_transformation %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>

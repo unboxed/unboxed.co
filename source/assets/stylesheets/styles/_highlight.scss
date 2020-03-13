@@ -133,6 +133,42 @@
   color: $white;
 }
 
+.highlight--hackney-council {
+  @extend %highlight;
+  background-color: #016A51;
+  color: $white;
+}
+
+.highlight--lewisham-homes {
+  @extend %highlight;
+  background-color: #C31787;
+  color: $white;
+}
+
+.highlight--beis {
+  @extend %highlight;
+  background-color: #003479;
+  color: $white;
+}
+
+.highlight--southwark-council {
+  @extend %highlight;
+  background-color: #256F8A;
+  color: $white;
+}
+
+.highlight--department-for-transport {
+  @extend %highlight;
+  background-color: #026A56;
+  color: $white;
+}
+
+.highlight--buckinghamshire-council {
+  @extend %highlight;
+  background-color: #2C2C84;
+  color: $white;
+}
+
 .highlight__title {
   @include responsive-title;
   font-weight: 300;

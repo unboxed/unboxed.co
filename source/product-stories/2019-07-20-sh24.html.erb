@@ -1,7 +1,8 @@
 ---
 title: "Product Story - SH:24"
-meta_description: "Transformation of NHS face-to-face sexual health clinic to digital service in 8 weeks"
+description: "Transformation of NHS face-to-face sexual health clinic to digital service in 8 weeks"
 meta_keywords: "Ruby on Rails, Ruby on Rails developer, Ruby on Rails developers, Ruby on Rails development, Ruby on Rails developer London, public sector"
+image: "/assets/images/product-stories/sh24.jpg"
 
 header:
   client: "SH:24"
@@ -23,68 +24,74 @@ highlight_1:
   title: "SH:24 in numbers"
   project: "sh24"
   statistics:
-  - number: "1,600+"
-    text: "Orders dispatched per week"
-  - number: "200,000+"
-    text: "Test kits ordered to date"
+    - number: "1,600+"
+      text: "Orders dispatched per week"
+    - number: "200,000+"
+      text: "Test kits ordered to date"
 
 highlight_2:
   title: "SH:24 in numbers since launch"
   project: "sh24"
   statistics:
-  - number: "78%"
-    text: "Kit return rate"
-  - number: "98.4%"
-    text: "User satisfation rate"
-  - number: "100+"
-    text: "Users involved in the design"
-  - number: "95%"
-    text: "People starting the order process through to completion"
+    - number: "78%"
+      text: "Kit return rate"
+    - number: "98.4%"
+      text: "User satisfation rate"
 
-online_process:
+highlight_3:
+  title: "SH:24 in numbers"
+  project: "sh24"
+  statistics:
+    - number: "100+"
+      text: "Users involved in the design"
+    - number: "95%"
+      text: "People starting the order process through to completion"
+
+
+paragraph_1:
   title: "Taking the process from the doctor’s waiting room to online"
   content: "Following a string of negative headlines and a rise in STI rates in the Lambeth and Southwark areas, SH:24 came to us with an idea for a digital service: An online sexual health testing service for 620,000+ local residents. The vision was a self-service testing kit, ordered online, to tackle long queues at sexual health centers and dramatically increase public access to these services."
   image: "/product-stories/sh24/website-screenshot.jpg"
   image_description: "Screenshot of SH:24 website"
 
-first_met_quote:
+quote_1:
   quote: "From the moment we met Unboxed, we felt they understood our approach and had a robust process for exploration and delivery."
   source: "Chris Howroyd, Director — SH:24"
 
-learning:
+paragraph_2:
   title: "'Moving in' next door to users and partners"
   content: "We co-located with the SH:24 part of the team in their offices in Lambeth for the discovery and alpha phases. Our location, close to the clinics, gave us direct access to the service users and our clinical partners. From the earliest sketches, through prototypes and models, to the final production code and kits, we were able to validate our thinking on a daily basis with real users of the service."
   image: "/product-stories/sh24/workshop.jpg"
   image_description: "Stakeholder workshop and meeting"
 
-service:
+paragraph_3:
   title: "A new physical service with a digital core"
   content: "Whilst the digital elements formed a critical part of the service, great care was taken to ensure that the experience of the physical product was equally as effective. The packaging and instructions, supporting information and messaging went through numerous iterations – for example the home blood sampling process changed radically and the instructions were tested and recreated several times."
   image: "/product-stories/sh24/prototyping-instructions.jpg"
   image_description: "Early prototype of kit instructions"
 
-blood_instruction_video:
+video:
   youtube_id: "7tY0vW2Ix3A"
   image: "/product-stories/sh24/video-still.jpg"
   image_description: "Blood instructions video"
 
-timely_quote:
+quote_2:
   quote: "Unboxed brought people together rapidly and helped us to deliver a full service in an incredibly short space of time."
   source: "Chris Howroyd, Director — SH:24"
 
-stakeholder_trust:
+paragraph_4:
   title: "Building trust amongst stakeholders"
   content: "Many different stakeholders had high hopes or deep concerns about the outcome of this mould-breaking project. So we held regular open workshops to establish enough trust to move fast. We identified the most significant issues first - patient record security and service quality – and directly addressed these immediately."
   image: "/product-stories/sh24/team-discussions.jpg"
   image_description: "Team and stakeholders discussion"
 
-launch:
+paragraph_5:
   title: "Live service launched in 16 weeks"
   content: "After just 8 weeks, users were able to order and complete an STI test at home, without any clinical support. A further 8 weeks and this live service was scaled and launched to the public, resulting in over 60,000+ tests being ordered to date. With a result pleasing users and stakeholders alike, SH:24 has rolled out across a further six UK areas. SH:24 won the 'Best User Experience’ award at the User Experience UK (UXUK) Awards 2016."
   image: "/product-stories/sh24/sti-test-kit.jpg"
   image_description: "Opened SH:24 test kit"
 
-team_quote:
+quote_3:
   quote: "A great team with exactly the right mix of skills we needed."
   source: "Chris Howroyd, Director — SH:24"
 
@@ -150,39 +157,3 @@ related:
       type: "product story"
       link: "/product-stories/channel-5"
 ---
-
-<%= partial 'shared/page_header', locals: current_page.data.header %>
-
-<div class="container" data-header-waypoint>
-  <%= partial 'shared/full_image', locals: current_page.data.header %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.introduction %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_1 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.online_process %>
-
-  <%= partial 'shared/quote', locals: current_page.data.first_met_quote %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.learning %>
-
-  <%= partial 'shared/full_video', locals: current_page.data.blood_instruction_video %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.service %>
-
-  <%= partial 'shared/quote', locals: current_page.data.timely_quote %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.stakeholder_trust %>
-
-  <%= partial 'shared/highlight', locals: current_page.data.highlight_2 %>
-
-  <%= partial 'shared/text_tile', locals: current_page.data.launch %>
-
-  <%= partial 'shared/quote', locals: current_page.data.team_quote %>
-
-  <%= partial 'shared/project_team' %>
-
-  <%= partial 'shared/link_tiles' %>
-
-  <%= partial 'shared/related_tiles' %>
-</div>
