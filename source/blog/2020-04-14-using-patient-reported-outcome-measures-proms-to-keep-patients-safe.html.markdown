@@ -1,5 +1,7 @@
 ---
-title: Using Patient Reported Outcome Measures (PROMs) to keep patients safe
+title: >-
+  Promenade: Using Patient Reported Outcome Measures (PROMs) to keep patients
+  safe
 authors:
   - Martyn Evans
 tags:
