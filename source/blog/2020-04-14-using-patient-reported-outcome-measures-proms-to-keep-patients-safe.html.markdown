@@ -27,7 +27,7 @@ The challenge of supporting non-urgent patients away from the hospital has never
 
 <br/>
 
-## Building on the learnings
+# Building on the learnings
 
 Whilst a small number of our planned projects have been delayed, we are fortunate at Unboxed to be relatively unaffected by the current crisis. Many projects are continuing and we have always been well-placed to work and collaborate remotely. It does mean, however, that we have a few members of the team (including three new joiners) available to work on our own product ideas.
 
@@ -37,4 +37,4 @@ Over the next few weeks, our team will be creating an application to support the
 
 We know the use of these questionnaires to measure the impact of medical interventions on specific conditions has been validated by thorough research and we must be careful not to tamper with them too much, but we are keen to see how they might help provide a more holistic picture of a patient’s health status that is of value to both clinicians and the patient themselves.
 
-If you’d like to follow progress on project _Promenade_, or even provide some input to the process, please contact Martyn Evans at <mailto:martyn.evans@unboxed.co>.
+If you’d like to follow progress on project <i>Promenade</i>, or even provide some input to the process, please contact Martyn Evans at <mailto:martyn.evans@unboxed.co>.
