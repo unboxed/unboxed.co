@@ -7,7 +7,7 @@ authors:
 tags:
   - Agile
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/742ae654c2a417fa79640d87116e54b0.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/70ad11f4422bec797b0dfb9b4fed3fb7.png
 date: '2020-04-14T18:01:25+01:00'
 published: true
 ---
