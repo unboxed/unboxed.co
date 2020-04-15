@@ -13,9 +13,9 @@ published: true
 ---
 Planning teams and departments across UK local authorities are currently experiencing a sector-wide problem: the back-office systems being used to process planning applications aren’t meeting the needs of the planning officers that need them to do their jobs:
 
-* Planning applications often arrive incomplete;
-* Unintuitive and fragmented interfaces in existing back-office systems slow planning officers down, making it difficult to arrive at decisions quickly;
-* Poor data quality in non-machine-readable formats creates manual processes, making it difficult to share data for strategic reporting by external stakeholder groups;
+* Planning applications often arrive incomplete
+* Unintuitive and fragmented interfaces in existing back-office systems slow planning officers down, making it difficult to arrive at decisions quickly
+* Poor data quality in non-machine-readable formats creates manual processes, making it difficult to share data for strategic reporting by external stakeholder groups
 * The inability to integrate with other systems blocks opportunities for innovation and streamlining processes, resulting in local authorities having to rely on the suppliers of legacy systems to update their product roadmaps to introduce required functionality
 
 All of these issues, and more, have a negative impact on the planning officer’s role and the way they assess applications, resulting in lengthy delays and a lack of transparency to a decision.
