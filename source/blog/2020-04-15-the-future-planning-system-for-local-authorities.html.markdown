@@ -22,7 +22,7 @@ All of these issues, and more, have a negative impact on the planning officer’
 
 By focusing on improving the back-office application process, planning officers will be able to perform tasks quicker and more-efficiently, creating a better and more-transparent service for applicants.
 
-![The future planning system](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/93703662070cfe47619ceab21c193048.png)
+![The future planning system](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e212441f2b00af958d7723b5db08351a.png)
 
 <br/>
 
@@ -40,6 +40,8 @@ Project partners (to-date) include:
 * Greater London Authority (GLA)
 * Connected Places Catapult
 
+<br/>
+
 ![Alpha phase alignment workshop with BoPS partners](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8efc953965f7f0656ca9054aa0e05270.png)
 
 <i>Alpha phase alignment workshop with BoPS partners.</i>
@@ -48,9 +50,9 @@ Project partners (to-date) include:
 
 # Starting with the riskiest element
 
-The back-office side of the planning system is large, intricate and complex, providing both the means to assess applications against a range of policy and local constraints but also to act as an audit trail that documents which decisions have been made.
+The back-office side of the planning system is large, intricate and complex, providing both the means to assess applications against a range of policy and local constraints, but also to act as an audit trail that documents which decisions have been made.
 
-To de-risk trying to solve one huge problem in a short, single project phase, as well as to align our efforts with other projects that are working on the public-facing application system, our team has prioritised a focus on building a product to support the ‘Assessment and recommendation’ of applications, with our main users being planning officers and managers.
+To de-risk trying to solve one huge problem in a short, single project phase, as well as to align our efforts with other projects that are working on the public-facing application system, our team has prioritised a focus on building a product to support the ‘assessment and recommendation’ of applications, with our main users being planning officers and planning managers.
 
 ![The wider BoPS system](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c7dac65bc4608898c7af738ba05dcce7.png)
 
@@ -69,6 +71,8 @@ Assessing applications can take anywhere from half a day for a simple Certificat
 A lot of time is taken in this process by accessing different documents to gather information, moving between different software windows (of the same application), and copying and pasting.
 
 Our research has found that many householder applications can take a similar format, in terms of the information required, and a lot of planning officers’ time can be spent by inputting the same information again and again across different applications of the same type.
+
+![Engaging planning officers](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4bd75fbfccb23d997e92010ad9a0cb98.png)
 
 During alpha, our team has worked with planning officers across multiple local authorities to create, test and iterate a prototype to:
 
