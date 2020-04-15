@@ -9,7 +9,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/742ae654c2a417fa79640d87116e54b0.png
 date: '2020-04-14T18:01:25+01:00'
-published: false
+published: true
 ---
 Early last year, Unboxed worked with the rheumatology team and patients at Guy’s and St. Thomas’ NHS Foundation Trust to launch a new digital service supporting patients with long-term conditions such as rheumatoid arthritis.
 
