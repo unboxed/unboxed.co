@@ -11,7 +11,7 @@ published: true
 ---
 Hi, I’m [Claudia Hopkins](https://twitter.com/ClaudiaIHopkins) and I’m a designer. I am very excited to join Unboxed and work on a breadth of projects! 
 
-![Claudia Hopkins](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/691171b8a52b1fe578ff7e077bf6c1d2.png)
+![Claudia Hopkins](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/fd257fa50b8a8f02143e554a00994d3d.png)
 
 Before coming to Unboxed, I was an interaction designer at Public Health England Digital and have mainly focused on healthcare design throughout my career. However, my road to design started at an unusual place: Chemical Biology. 
 
@@ -41,6 +41,6 @@ I'm still getting to know London since moving from Vancouver nine months ago. So
 
 I am my calmest, happiest self when I’m by the ocean — whether it is sitting, reading, walking, or swimming. When I can’t be by the water, I create paper cuts of these magical places to tell stories and evoke memories.
 
-![Paper cuts](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e911fcdcd891ba58bfe6e004c38be2f6.png)
+![Paper cuts](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e0e78e25d692341d60ae5ed7a836ca99.png)
 
 Another passion of mine is food. I love exploring other cultures and getting to know people through cooking and sharing. I was gifted a sourdough starter three months ago, and have been experimenting ever since. I have also been baking with my flatmates recently to make self-isolation a bit sweeter.
