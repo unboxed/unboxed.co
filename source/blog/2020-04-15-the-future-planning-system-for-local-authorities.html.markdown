@@ -129,7 +129,7 @@ To carry out this experiment, the team integrated with Hackney Council’s [‘S
 
 ![Coded prototype](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7f276b73e3b2965511e9b4e2729ba5fc.png)
 
-_Technical BoPS prototypes._
+<i>Technical BoPS prototypes.</i>
 
 <br/>
 
