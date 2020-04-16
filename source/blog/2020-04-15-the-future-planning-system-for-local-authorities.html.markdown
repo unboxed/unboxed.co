@@ -22,21 +22,21 @@ All of these issues, and more, have a negative impact on the planning officer’
 
 By focusing on improving the back-office application process, planning officers will be able to perform tasks quicker and more-efficiently, creating a better and more-transparent service for applicants.
 
-![The future planning system](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e212441f2b00af958d7723b5db08351a.png)
-
 <br/>
 
 # A collaborative, cross-authority project
 
 To solve this problem, Unboxed has been working with London Borough of Southwark & Partners on a collaborative [MHCLG Local Digital Fund](https://localdigital.gov.uk/fund/) project to create a cross-authority back-office of the planning system (project nickname: ‘BoPS’).
 
-Project partners (to-date) include:
+![The future planning system](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3ada4377be662fb90f58aae27b2777e3.png)
+
+Project partners (to date) from discovery into beta include:
 
 * Coventry City Council
 * Surrey Heath Borough Council
 * Braintree District Council
-* London Borough of Croydon Council
-* London Borough of Hackney Council
+* London Borough of Croydon
+* London Borough of Hackney
 * Greater London Authority (GLA)
 * Connected Places Catapult
 
@@ -94,7 +94,7 @@ By removing this manual approach for gathering information for each application,
 
 A core part of being a Local Digital Fund project is to create a system that can solve a common problem — BoPS needs to meet the needs of planning officers across multiple local authorities.
 
-Throughout discovery, our team carried out primary user research with planning officers across a wide range of different local authorities (London, non-London, central, rural, larger and smaller) to identify common user needs. 
+Throughout discovery, our team carried out primary user research with planning officers across a wide range of different local authorities (London, non-London, inner city, rural, larger and smaller) to identify common user needs. 
 
 Research also highlighted some of the biggest differences between planning departments, with some examples including:
 
@@ -108,7 +108,7 @@ To overcome these differences, we’re aiming to design and build a system that 
 
 # Making data available through data-informed workflows
 
-Planning data is of great importance and use to not only local authorities but a wide range of stakeholders, including central government.
+Planning data is of great importance and use to not only local authorities but also a wide range of external stakeholders, including central government.
 
 GLA gains a London-level view of planning permissions, starts and completions across London through the London Development Database (LDD), and MHCLG gains a national-level view of planning through a variety of initiatives.
 
@@ -133,7 +133,7 @@ To carry out this experiment, the team integrated with Hackney Council’s [‘S
 
 The alpha phase has concluded with [an alpha phase report and a series of prototypes](https://www.southwark.gov.uk/innovate/collabrative-project/planning-back-office?chapter=21), all available publicly [via Southwark Innovate](https://www.southwark.gov.uk/innovate/collabrative-project/planning-back-office).
 
-Feedback on the prototypes, gathered through user testing with planning officers, has primarily been positive to date:
+Feedback on the prototypes, gathered through user testing with planning officers and planning managers, has primarily been positive to date:
 
 * <i>“It’s designed the way we want it. We love it.”</i>
 * <i>“I hope this \[goes] live tomorrow.”</i>
