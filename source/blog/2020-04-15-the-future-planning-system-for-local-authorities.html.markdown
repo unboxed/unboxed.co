@@ -58,7 +58,7 @@ To de-risk trying to solve one huge problem in a short, single project phase, as
 
 ‘Assessment and recommendation’ is the part of the service which provides planning officers a way to review applications and plans, check whether they meet relevant policy requirements in line with what the applicant is proposing to do and any constraints on the property or local amenity, and make a recommendation to their managers on the outcome of the application. In short, this is the part of the service that leads applicants to receive a decision on their proposed application, and is the basis on which planning system processes are primarily created— getting that ‘yes’ or ‘no’ decision.
 
-Through the discovery phase, our team identified that over 50% of planning officers’ time, on average, is spent processing simple “fast-track” applications, such as home extensions and modifications. Based on this data, this project has prioritised the element of the service that makes it easier to assess these types of applications — householder applications.
+Through the discovery phase, our team identified that over 50% of planning officers’ time, on average, is spent processing simple “fast-track” applications, such as home extensions and modifications. Based on this data, this project has prioritised the element of the service to make it easier to assess these types of applications — householder applications.
 
 <br/>
 
@@ -66,15 +66,17 @@ Through the discovery phase, our team identified that over 50% of planning offic
 
 Planning officers can be responsible for managing multiple householder applications at the ‘assessment and recommendation’ stage, all with differing deadline dates. Simple householder applications typically have an eight-week lead time for the full process in which a decision needs to be made and outcome provided to the applicant.
 
-Assessing applications can take anywhere from half a day for a simple Certificate of Lawfulness and up-to two days for a full householder application. Although these applications can rarely be completed in a single sitting, with information going back and forth between planning officers, applicants and consultees, as well as lengthy waiting times (which could take weeks) for revised details and conversations with the applicant and their agent, leading to lengthy backlogs for planning officers.
+Assessing applications can take anywhere from half a day for a simple Certificate of Lawfulness and up-to two days for a full householder application. These applications can rarely be completed in a single sitting though, with information going back and forth between planning officers, applicants and consultees, as well as lengthy waiting times (which could take weeks) for revised details and conversations with the applicant and their agent. This then leads to lengthy backlogs for planning officers to manage.
 
-A lot of time is taken in this process by accessing different documents to gather information, moving between different software windows (of the same application), and copying and pasting.
+A lot of time is taken in this process by accessing different documents to gather information, moving between different software windows (of the same application), and copying and pasting from one place to another.
 
 Our research has found that many householder applications can take a similar format, in terms of the information required, and a lot of planning officers’ time can be spent by inputting the same information again and again across different applications of the same type.
 
 ![Engaging planning officers](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4bd75fbfccb23d997e92010ad9a0cb98.png)
 
-During alpha, our team has worked with planning officers across multiple local authorities to create, test and iterate a prototype to:
+<i>Engaging with planning officers.</i>
+
+During alpha, our team has worked with planning officers and planning managers across multiple local authorities to create, test and iterate a prototype to:
 
 * Automatically gather information about the application from multiple sources
 * Provide more guidance for planning officers on what should be considered
@@ -92,13 +94,13 @@ By removing this manual approach for gathering information for each application,
 
 # Creating a system that works across local authorities
 
-A core part of being a Local Digital Fund project is to create a system that can solve a common problem — BoPS needs to meet the needs of planning officers across multiple local authorities.
+A core part of being a Local Digital Fund project is to create a system that can solve a common problem — BoPS needs to meet the needs of planning officers and planning managers across multiple local authorities.
 
 Throughout discovery, our team carried out primary user research with planning officers across a wide range of different local authorities (London, non-London, inner city, rural, larger and smaller) to identify common user needs. 
 
-Research also highlighted some of the biggest differences between planning departments, with some examples including:
+Research also highlighted some of the biggest <i>differences</i> between planning departments, with some examples including:
 
-* <b>Different authorities have different processes in place</b> — processes are often dictated by the existing systems that are in place, providing limited-to-no flexibility to improve the processes, so authorities can process applications in slightly different ways
+* <b>Different authorities have different processes in place</b> — processes are often dictated by the existing systems that are in place, providing limited-to-no flexibility to improve the processes, leading authorities to process applications in slightly different ways
 * <b>Individuals have their own preferred tools</b> — planning officers have their own preferred set of tools to support the application process, including those to check plans and drawings, find neighbours’ addresses and assess a property’s flood risk
 * <b>Each authority is configured locally</b> — each local authority has their own GIS (Geographic Information System) map and local policies for consideration
 
@@ -112,7 +114,7 @@ Planning data is of great importance and use to not only local authorities but a
 
 GLA gains a London-level view of planning permissions, starts and completions across London through the London Development Database (LDD), and MHCLG gains a national-level view of planning through a variety of initiatives.
 
-Presently, existing back-office systems often capture application data in PDFs, creating a barrier to use for other stakeholders. Other sectors, industries and organisations have an identified need for open planning data, but no easy method of accessing it.
+Presently, existing back-office systems often capture application data in PDFs, creating a barrier to use for other stakeholders. Other sectors, industries and organisations have an identified a need for open planning data, but there's currently no easy method of accessing it.
 
 Our team is taking an open data approach to ensure that the data from the BoPS system can be available and useful to inform the entire planning system.
 
@@ -126,6 +128,8 @@ With the data journey beginning at the applicant-facing application system, our 
 To carry out this experiment, the team integrated with Hackney Council’s [‘Submit my Planning Application’](http://smpa.hactar.is/) — an in-development public-facing application system, enabling Hackney residents to submit a planning application. Through integrating with Hackney Council’s API, we were able to successfully pull raw application data and application documents into a user interface (based on the GOV.UK Design System) as part of the BoPS system, validating our assumption that this data can be used.
 
 ![Coded prototype](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7f276b73e3b2965511e9b4e2729ba5fc.png)
+
+_Technical BoPS prototypes._
 
 <br/>
 
@@ -141,7 +145,7 @@ Feedback on the prototypes, gathered through user testing with planning officers
 
 This is a great indicator that BoPS is heading in the right direction. There are still many other complexities and considerations to take into account on a project with so many moving parts, which is a core focus when moving forward.
 
-To conclude the phase, the team also held (and recorded) a final Show & Tell: 
+To conclude the phase, the team also held a final Show & Tell: 
 
 <iframe src="https://player.vimeo.com/video/376310404" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -149,11 +153,11 @@ To conclude the phase, the team also held (and recorded) a final Show & Tell:
 
 The beta phase has recently been [awarded funding via the Local Digital Fund](https://www.gov.uk/government/news/councils-given-1-2-million-for-innovative-digital-projects), alongside five other collaborative projects, meaning that BoPS is able to continue progressing into the next phase.
 
-Southwark Council, project partners, MHCLG and Unboxed have just kicked off the beta phase of this back-office planning system project (project phase name: ‘Beta BoPS’) to design and develop the ‘Assessment and recommendation’ element of the service.
+Southwark Council, project partners, MHCLG and Unboxed have just kicked off the beta phase of this back-office planning system project (project phase nickname: ‘Beta BoPS’) to design and develop the ‘assessment and recommendation’ element of the service.
 
 Throughout this next project phase, the team will also be working closely with Open Systems Lab, who are focusing on an applicant-facing system through their work with [Plan✕](https://beta.planx.uk/southwark) and [RIPA](https://www.ripa.digital/) (Reducing Invalid Planning Applications).
 
-Keep up-to-date with [project progress via Medium](https://medium.com/ubxd), in which the team will be sharing weeknotes, links and other project updates. Also, if you would like to have a conversation about the project to find out more, please get in touch: 
+Keep up-to-date with [project progress via Medium](https://medium.com/ubxd), in which the team will be sharing sprint notes, links and other project updates. Also, if you would like to have a conversation about the project to find out more, please get in touch: 
 
 * <mailto:jack.ricketts@southwark.gov.uk>
 * <mailto:graeme.mccubbin@unboxed.co>
