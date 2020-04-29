@@ -9,8 +9,10 @@ tags:
   - Agile
   - Design
   - Innovation
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2e04558068b928c8f25a6bbd17d1e181.jpeg
 date: '2020-04-29T14:31:13+01:00'
-published: false
+published: true
 ---
 When it comes to the UK planning system there are many problems to solve.
 
