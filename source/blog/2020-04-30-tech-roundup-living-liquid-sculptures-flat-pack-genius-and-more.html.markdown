@@ -5,7 +5,7 @@ authors:
 tags:
   - Innovation
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2881e837e77f221a0bbba6900093db7f.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2b5b606e978d6d98bc671e96f50e121f.png
 date: '2020-04-30T17:10:20+01:00'
 published: true
 ---
