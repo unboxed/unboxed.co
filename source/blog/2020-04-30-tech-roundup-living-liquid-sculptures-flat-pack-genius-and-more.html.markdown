@@ -45,4 +45,4 @@ As much of the population endures the COVID-19 lockdown, one thing is in abundan
 
 # The week’s events at Sydney Opera House
 
-As our work and social lives move online, so do cultural events. Sydney Opera House is digging through its rich archives to present a Digital Season of events each week, from cooking conversations with Yotam Ottolenghi to breathtaking performances by the Sydney International Orchestra: [https://www.sydneyoperahouse.com/digital/season.html](https://techcrunch.com/2020/04/18/samsungs-new-eco-tv-packing-transforms-into-cat-houses-shelves-and-magazine-racks/)
+As our work and social lives move online, so do cultural events. Sydney Opera House is digging through its rich archives to present a Digital Season of events each week, from cooking conversations with Yotam Ottolenghi to breathtaking performances by the Sydney International Orchestra: <https://www.sydneyoperahouse.com/digital/season.html>
