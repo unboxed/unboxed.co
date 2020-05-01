@@ -31,12 +31,12 @@ This is our second week working on the project as a fully remote team, including
 * Lawrence, the designer on the project, made some prototypes that look towards the future. While we’re not quite ready to implement them, it’s a good exercise to think about where this project could go further down the line. 
 * Our second Show & Tell went really well. It was a really great opportunity to reflect on how far we’ve come and to share what we’ve found difficult, and of course get helpful tips and feedback from different pairs of eyes.
 
-**What we’re thinking about **
+**What we’re thinking about**
 
 * The big eternal question - how best to manage work on a large remote team? Where are the blockers, how to remove them, how much mob programming is too much? 
 * Finding the right balance between taking time to learn and getting user stories through to done.  It seems at the moment that one comes at the expense of the other, and we’re trying to work out how to make the two go more hand in hand. 
 
-**Next week **
+**Next week**
 
 * Finish this large user story for enabling patients to fill in a PROM
 * Begin implementing email reminders for patients to fill out their PROMs
