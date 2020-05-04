@@ -85,6 +85,53 @@
   social_networks:
   - name: Twitter
     link: https://twitter.com/victoriakpeel
+- name: Michelle Isme
+  short_name: michelle-isme
+  role: Product
+  email: michelle.isme
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/icoo
+- name: Rhian Lewis
+  short_name: rhian-lewis
+  role: Developer
+  email: rhian.lewis
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/rhian_is
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/rhian-lewis-72141221/
+  - name: Github
+    link: https://github.com/rhian
+- name: Anastasia Pankina
+  short_name: anastasia-pankina
+  role: Developer
+  email: anastasia.pankina
+  social_networks:
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/anastasiapankina/
+  - name: Github
+    link: https://github.com/siapankina?tab=repositories
+- name: Claudia Hopkins
+  short_name: claudia-hopkins
+  role: Designer
+  email: claudia.hopkins
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/claudiaihopkins
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/claudiahopkins/
+- name: Melissa Real
+  short_name: melissa-real
+  role: Developer
+  email: melissa.real
+  social_networks:
+  - name: Twitter
+    link: https://twitter.com/mreal_unboxed
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/melissa-real-1555b565/
+  - name: GitHub
+    link: https://github.com/melzreal
 - name: Steve Lennon
   short_name: steve-lennon
   role: Delivery
