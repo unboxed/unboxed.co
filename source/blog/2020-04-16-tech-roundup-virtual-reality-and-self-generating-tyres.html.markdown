@@ -37,4 +37,4 @@ Boston Dynamics are fond of impressing - and in most cases, horrifying - the wor
 
 # Visit the world’s best museums without leaving your sofa
 
-Trips to museums and art galleries might be off the menu for now while we do the socially responsible thing and self-isolate, but there’s no need to miss out entirely on the world’s greatest treasures. Check out this great resource and pay a visit to cultural hotspots like New York’s Guggenheim, the Musee d’Orsay in Paris and the National Museum of Modern and Contemporary Art in Seoul: <https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours>
+Trips to museums and art galleries might be off the menu for now while we do the socially responsible thing and self-isolate, but there’s no need to miss out entirely on the world’s greatest treasures. Check out this great resource and pay a visit to cultural hotspots like New York’s Guggenheim, the Musee d’Orsay in Paris and the National Museum of Modern and Contemporary Art in Seoul, as well as gems such as the Georgia O'Keeffe Museum : <https://upgradedpoints.com/best-virtual-museum-tours/>
