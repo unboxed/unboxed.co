@@ -20,7 +20,7 @@ Over the last 18 months, we’ve been working with their rheumatology team and p
 
 Benefits of the service include the provision of high-quality, personalised care, without the need for patients to routinely attend unnecessary face-to-face appointments at the hospital.
 
-Find out more about the project, including our approach, the outcomes, how it can be used to aid the in the COVID-19 recovery phase and the future of remote monitoring in the session recording:
+Find out more about the project in the session recording, including our approach, the outcomes, how it can be used to support the COVID-19 recovery phase and the future of remote monitoring:
 
 <iframe src="https://player.vimeo.com/video/421105181" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
