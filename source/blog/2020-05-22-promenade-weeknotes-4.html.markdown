@@ -13,7 +13,7 @@ main_image: >-
 date: '2020-05-22T13:37:42+01:00'
 published: true
 ---
-_We’re working on an internal project named ‘Promenade’ — a digital application for non-urgent patients to remotely track their conditions, such as arthritis, away from hospital. Find out more about the project _[_here_](https://unboxed.co/blog/using-patient-reported-outcome-measures-proms-to-keep-patients-safe/)_._
+_We’re working on an internal project named ‘Promenade’ — a digital application for non-urgent patients to remotely track their conditions, such as arthritis, away from hospital. Find out more about the project_ [here](https://unboxed.co/blog/using-patient-reported-outcome-measures-proms-to-keep-patients-safe/).
 
 Through a series of holidays and team members moving to other projects, we’re down to a much smaller team this week, but we’ve still managed to get quite a fair few number of user stories through to “done”.
 
