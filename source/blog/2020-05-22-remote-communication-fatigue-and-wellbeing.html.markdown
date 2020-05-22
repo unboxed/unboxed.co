@@ -73,6 +73,8 @@ Knowing you are always being seen through the camera adds to the tiring aspect o
 
 Boundaries, pauses and transitions during the day are important, so build them in to the day as you would normally in order to refresh. Perhaps come to an understanding before meetings that it’s OK to go to the toilet, make a drink, or stare out of the window during meetings. Make clear the etiquette and expectations. It’s what we do when we are physically together and therefore should be what we do remotely. 
 
+![Meeting etiquette](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/00d45367fc8313eb1124fffaf073ffa3.png)
+
 As events shift suddenly we are aware we have to work differently to create buffers between our private and workplace identities and we need to acknowledge the aspects that affect us negatively. That way, we can better continue to work productively while looking after wellbeing. 
 
 When we see each other on the screen we are reminded that we are not necessarily where we should be, which is normally, together. Since lockdown, it has been important to check in with each other and as a team we have shown impressive care and attention to our colleagues. 
