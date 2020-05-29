@@ -1,5 +1,7 @@
 ---
-title: 'Tech roundup: '
+title: >-
+  Tech roundup: AR art installations, electric vehicles advance and
+  cancer-fighting nanobots
 authors:
   - Rhian Lewis
 tags:
