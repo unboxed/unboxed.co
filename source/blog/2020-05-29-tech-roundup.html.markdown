@@ -19,7 +19,7 @@ We keep an eye on the latest technology developments so you don’t have to. Her
 
 # Augmented reality art installations
 
-Fancy a temporary art installation in your own home? The Acute Art app, with new works by new AR artworks by Olafur Eliasson allows you to sip a coffee or a margarita with a colourful puffin perched on the table next to you, or to park a rain cloud above your bed, view your bedroom through the sight and sound of a gentle rain shower or park various other cool artefacts in your immediate surroundings.  <https://app.acuteart.com/>
+Fancy a temporary art installation in your own home? The Acute Art app, with new AR artworks by Olafur Eliasson, allows you to sip a coffee with a colourful puffin perched on the table next to you, or to park a rain cloud above your bed, view your bedroom through the sight and sound of a gentle rain shower or park various other cool artefacts in your immediate surroundings.  <https://app.acuteart.com/>
 
 # The electric vehicle revolution gathers pace
 
