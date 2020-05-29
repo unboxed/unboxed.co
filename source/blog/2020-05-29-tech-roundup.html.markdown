@@ -5,13 +5,7 @@ title: >-
 authors:
   - Rhian Lewis
 tags:
-  - Agile
-  - Culture
-  - Design
-  - Events
   - Innovation
-  - Lean
-  - Rails
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2b5b606e978d6d98bc671e96f50e121f.png
 date: '2020-05-29T10:55:10+01:00'
