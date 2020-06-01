@@ -19,11 +19,15 @@ Where previously people were tired perhaps from commuting and commitments after 
 
 As well as continuing to work hard while remote, we have tried hard to remain connected, to keep isolation and anxiety at bay. There is undoubtedly an opportunity within this experience to learn from our ways of working and to help manage our work lives and our physical and mental wellbeing.
 
+<br/>
+
 # Why is it so tiring?
 
 Everyone working remotely will have experienced it; the connection dropping out, the screen freezing, dozens of heads all looking at you, seeing yourself, back-to-back calls, finding it harder to take a break, trying not to talk over each other, wondering what other people are thinking. It’s exhausting. 
 
 Associate Professor at Insead, Gianpiero Petriglieri and Marissa Shuffler, associate professor at Clemson University have [highlighted these issues as common to many people’s experiences](https://www.bbc.com/worklife/article/20200421-why-zoom-video-chats-are-so-exhausting). We are all in new territory and we need to understand what makes it so tiring so we can respond.
+
+<br/>
 
 # Motion sickness
 
@@ -33,9 +37,13 @@ Talking through a screen we have to work to demonstrate that we are paying atten
 
 Your mind is saying one thing and your body another! The moments of delay and silence compound this. It is difficult to read an action within a silence and it can produce a perception that someone is not paying attention or focussed.
 
+<br/>
+
 # Performing
 
 Communicating largely through the screen means that we know we are being watched, often by multiple people, and there is a different intensity to this experience; a heightened sense of surveillance, that we are performing and having to perform to our best, particularly in times of underlying fear and uncertainty to make ourselves feel secure. Performing is stressful and tiring and when we can also see ourselves all the time we become more aware of how we are performing.
+
+<br/>
 
 # Multiple selves
 
@@ -47,6 +55,8 @@ We might be spending our working time on video calls, then doing the same in the
 
 While it is nice to have a window into colleagues’ home lives and see them in a different context, it can also feel intrusive as you become aware of colleagues and customers having a view into your private world.
 
+<br/>
+
 # Natural rhythms
 
 This working and living experience is teaching and reminding us constantly of things we perhaps didn't think much about before. In the office environment, the day is naturally punctuated. Toilet breaks are taken during meetings, we move into different rooms or wander over to other’s desks, or chat over making a coffee all of which provides a natural break. 
@@ -55,9 +65,11 @@ Remotely, it is a much more concentrated period of time. Back-to-back meetings c
 
 So how can we help and what can we learn?
 
-We are all thinking on our feet and learning each week how best to adapt and be productive. We need to recognise the challenges that affect our wellbeing and find ways to help.
+<br/>
 
 # Some ideas
+
+We are all thinking on our feet and learning each week how best to adapt and be productive. We need to recognise the challenges that affect our wellbeing and find ways to help.
 
 It helps to simply acknowledge the difficulties that come up and share the experiences. If one person is having a particular experience, it's likely someone else is too. When issues are shared we can come up with solutions together or we risk feeling isolated and anxious. 
 
