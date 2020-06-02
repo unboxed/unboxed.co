@@ -89,36 +89,44 @@ blog_title: "What we have been blogging about"
 
 <div class="homepage">
   <header class="homepage-header">
-    <video preload="metadata" autoplay muted loop type="video/mp4" src="/assets/videos/unboxed_promo_video.mp4"></video>
     <h1 class="homepage-header__text">
-      We're Unboxed. We <strong>collaborate</strong> to grow your ideas for digital products. Then we <strong>build</strong> them. We can also improve the way your organisation works.<br><br>
-      We do this through <strong>agile</strong> and <strong>lean</strong> techniques, using <strong>Ruby on Rails</strong>.
+      Unboxed is a service design and digital product development agency.<br><br>
+      We create digital products and services that solve complex problems and have a positive impact on people’s lives.
     </h1>
   </header>
+
+  <section class="homepage-header-section">
+    <p class="homepage-header__intro">
+      Our multidisciplinary teams deliver <strong>end-to-end digital solutions</strong> through <strong>agile</strong>, <strong>user-centred</strong> approaches,
+      <strong>integrated service design and development</strong>, <strong>open-source technologies</strong> (Ruby on Rails) and cross-team <strong>collaboration</strong>.
+    </p>
+  </section>
 
   <section class="services" data-header-waypoint>
     <h2 class="services__title">
       <%= current_page.data.services.title %>
     </h2>
-    <% current_page.data.services.content.each do |service| %>
-      <div class="services-container__service">
-        <div class="service">
-          <h3 class="service__title">
-            <%= service.title %>
-          </h3>
-          <%= link_to image_tag(service.image, alt: service.title, class: "service__image--hover", srcset: retina_srcset(service.image)), service.link %>
-          <p class="service__paragraph">
-            <%= service.text %>
-          </p>
+    <div class="services-container">
+      <% current_page.data.services.content.each do |service| %>
+        <div class="services-container__service">
+          <div class="service">
+            <h3 class="service__title">
+              <%= service.title %>
+            </h3>
+            <%= link_to image_tag(service.image, alt: service.title, class: "service__image--hover", srcset: retina_srcset(service.image)), service.link %>
+            <p class="service__paragraph">
+              <%= service.text %>
+            </p>
+          </div>
+          <div class="service__button-container">
+            <a class="service__button" href=<%= service.link %>
+             onClick="sendToGaHomePageServiceClickEvent('<%= service.title %>');">
+              Learn more
+            </a>
+          </div>
         </div>
-        <div class="service__button-container">
-          <a class="service__button" href=<%= service.link %>
-           onClick="sendToGaHomePageServiceClickEvent('<%= service.title %>');">
-            Learn more
-          </a>
-        </div>
-      </div>
-    <% end %>
+      <% end %>
+    </div>
   </section>
 
   <%= partial 'showcase_tiles_section' , locals: current_page.data.products %>
