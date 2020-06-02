@@ -1,23 +1,6 @@
 .services {
-  background-color: $white;
-  padding: 30px 0 30px 20px;
-
   @include breakpoint($tablet-breakpoint) {
     overflow: auto;
-    padding: 20px ($padding-h-main-desktop - $gutter/2) 0;
-  }
-}
-
-.services__opening {
-  @include responsive-text;
-  color: $dark-gray;
-  font-weight: 300;
-  margin-bottom: 20px;
-  padding-right: 20px;
-
-  @include breakpoint($tablet-breakpoint) {
-    padding: 20px $gutter/2 0;
-    margin-bottom: 50px;
   }
 }
 
@@ -26,12 +9,22 @@
   color: $purple;
   font-weight: 300;
   margin-bottom: 20px;
-  padding-right: 20px;
+  padding-left: 20px;
   padding-top: 40px;
 
   @include breakpoint($tablet-breakpoint) {
-  	padding: 40px $gutter/2 0;
+  	padding: 40px 40px 0;
     margin-bottom: 50px;
+  }
+}
+
+.services-container {
+  background-color: $white;
+  padding: 30px 0 30px 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    overflow: auto;
+    padding: 20px ($padding-h-main-desktop - $gutter/2) 0;
   }
 }
 
