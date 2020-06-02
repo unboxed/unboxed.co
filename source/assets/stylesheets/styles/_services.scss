@@ -8,6 +8,19 @@
   }
 }
 
+.services__opening {
+  @include responsive-text;
+  color: $dark-gray;
+  font-weight: 300;
+  margin-bottom: 20px;
+  padding-right: 20px;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding: 20px $gutter/2 0;
+    margin-bottom: 50px;
+  }
+}
+
 .services__title {
   @include responsive-title;
   color: $purple;

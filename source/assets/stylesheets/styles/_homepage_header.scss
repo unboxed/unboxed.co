@@ -1,10 +1,10 @@
 .homepage-header {
+  background-image: url(/assets/images/homepage/header--mobile.jpg);
   min-height: 400px;
   position: relative;
   overflow: hidden;
 
   @media only screen and (max-width: $tablet-breakpoint) {
-    background-image: url(/assets/images/homepage/header--mobile.jpg);
     background-color: darken($light-gray, 10%);
     background-position: 65% 40%;
 
@@ -49,59 +49,61 @@
   }
 
   @include breakpoint($tablet-breakpoint) {
+    background-image: url(/assets/images/homepage/header--tablet.jpg);
+    background-color: darken($light-gray, 10%);
+    background-size: cover;
     min-height: 50vw;
+
+    @include retina {
+      background-image: url(/assets/images/homepage/header--tablet@2x.jpg);
+    }
   }
 
   @include breakpoint($desktop-breakpoint) {
     min-height: 500px;
   }
-
-  video {
-    position: absolute;
-    min-width: 100%;
-    min-height: 100%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    display: none;
-
-    @include breakpoint($tablet-breakpoint) {
-      display: block;
-    }
-
-    // iPhone X in portrait & landscape
-    @media only screen and (min-device-width : 375px) and (max-device-width : 812px) and (-webkit-device-pixel-ratio : 3) {
-      display: none;
-    }
-
-    // iPhone 6, 7, 8 in portrait & landscape
-    @media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
-      display: none;
-    }
-
-    // iPhone 6, 7, 8 Plus in portrait & landscape
-    @media only screen and (min-device-width : 414px) and (max-device-width : 736px) {
-      display: none;
-    }
-  }
 }
 
 .homepage-header__text {
-  @include responsive-text;
-  background-color: transparentize(darken($purple, 5%), 0.1);
-  bottom: 20px;
-  color: $white;
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e677277b', endColorstr='#e677277b',GradientType=1 );
-  font-weight: 300;
-  left: 20px;
-  padding: 20px;
-  position: absolute;
-  right: 20px;
+    @include responsive-text;
+    background-color: transparentize(darken($purple, 5%), 0.1);
+    bottom: 20px;
+    color: $white;
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e677277b', endColorstr='#e677277b',GradientType=1 );
+    font-weight: 300;
+    left: 20px;
+    padding: 20px;
+    position: absolute;
+    right: 20px;
+
+    @include breakpoint($tablet-breakpoint) {
+      padding: 20px $padding-h-main-desktop;
+      bottom: 10%;
+      left: 0;
+      right: 41%;
+    }
+  }
+
+.homepage-header-section {
+  background-color: $white;
+  padding: 30px 0 30px 20px;
+  margin-bottom: 30px;
 
   @include breakpoint($tablet-breakpoint) {
-	padding: 20px $padding-h-main-desktop;
-    bottom: 10%;
-    left: 0;
-    right: 41%;
+    overflow: auto;
+    padding: 20px ($padding-h-main-desktop - $gutter/2) 0;
+  }
+
+  .homepage-header__intro {
+    @include responsive-text;
+    color: $dark-gray;
+    font-weight: 300;
+    margin-bottom: 20px;
+    padding-right: 20px;
+
+    @include breakpoint($tablet-breakpoint) {
+      padding: 20px $gutter/2 0;
+      margin-bottom: 50px;
+    }
   }
 }
