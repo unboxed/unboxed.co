@@ -9,7 +9,7 @@ tags:
   - Lean
   - Rails
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/01b18f738f8b2c76091330f533121d72.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/e24b4b1e19fe0670f82b7c563722d5ab.jpg
 date: '2020-06-15T10:53:46+01:00'
 published: true
 ---
@@ -23,14 +23,15 @@ Gaining access to patients for testing has been rather difficult in the current 
 
 We started with the PSAID PROM for patients with Psoriatic Arthritis and have added the PHQ-9 which is used to assess and monitor symptoms of depression. The application architecture has been designed to make the addition of new PROMs fairly simple and we're currently testing this further by adding the BASDAI PROM for patients with Ankylosing Spondylitis.
 
-![Promenade screenshots, using NHS Design System](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/483c1887daf1caf13f2fa5233d1ec006.jpg)
-
-_Promenade screenshots, using NHS Design System_
+![Promenade - submitting a PROM](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/01b18f738f8b2c76091330f533121d72.png)
 
 We decided to use the [NHS Design System](https://service-manual.nhs.uk/design-system) for our MVP. It seemed logical given the potential for this to be integrated into other NHS services, but the application is adaptable and could easily be modified to work in private healthcare if necessary.
 
 As it currently stands, patients who are added to the system, can sign-in and complete their own PROMs at any time, and see a historical record of their past PROMs. They can also choose to share the information with a clinician, or keep it private for their own use only. If they register for notifications, they can receive email reminders every 1, 2, or 4 weeks, and use a one-click link to create a new PROM without having to sign-in. They can also add their own free-text comment to a PROM to give it some context for themselves or for the clinician.
 
+![Promenade screenshots, using NHS Design System](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/483c1887daf1caf13f2fa5233d1ec006.jpg)
+
+_Promenade screenshots, using NHS Design System_
 It's a basic set of features but we're keen to test them at this stage, to understand where we could best add more functionality to make it more useful to patients. We know that clinicians find PROMs useful but we need to learn how they might be given more meaning for patients. We believe this is essential to motivate regular usage and to help patients feel in control of their health.
 
 Please contact martyn.evans@unboxed.co if you'd like to know more or would be prepared to run a test in your organisation.
