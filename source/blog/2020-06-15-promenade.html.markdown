@@ -1,5 +1,5 @@
 ---
-title: 'Promenade: '
+title: 'Promenade: Looking for help to test the MVP'
 authors:
   - Martyn Evans
 tags:
@@ -11,7 +11,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/01b18f738f8b2c76091330f533121d72.png
 date: '2020-06-15T10:53:46+01:00'
-published: false
+published: true
 ---
 A couple of months ago, we kicked off an internal project within Unboxed to create an application that would allow patients to capture Patient Reported Outcome Measures (PROMs) and share them with their clinical team. You can read a little more about the rationale [here](https://unboxed.co/blog/using-patient-reported-outcome-measures-proms-to-keep-patients-safe/) and the team have been posting regular week-notes, the latest of which is [here](https://unboxed.co/blog/promenade-weeknotes-6/).
 
