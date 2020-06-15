@@ -29,6 +29,6 @@ We decided to use the [NHS Design System](https://service-manual.nhs.uk/design-s
 
 As it currently stands, patients who are added to the system, can sign-in and complete their own PROMs at any time, and see a historical record of their past PROMs. They can also choose to share the information with a clinician, or keep it private for their own use only. If they register for notifications, they can receive email reminders every 1, 2, or 4 weeks, and use a one-click link to create a new PROM without having to sign-in. They can also add their own free-text comment to a PROM to give it some context for themselves or for the clinician.
 
-It's a basic set of features but we're keen to test them at this stage. We know that clinicians find PROMs useful but we need to learn how they might be given more meaning for patients. We believe this is essential to motivate regular usage and to help patients feel in control of their health.
+It's a basic set of features but we're keen to test them at this stage, to understand where we could best add more functionality to make it more useful to patients. We know that clinicians find PROMs useful but we need to learn how they might be given more meaning for patients. We believe this is essential to motivate regular usage and to help patients feel in control of their health.
 
 Please contact martyn.evans@unboxed.co if you'd like to know more or would be prepared to run a test in your organisation.
