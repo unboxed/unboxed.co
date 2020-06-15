@@ -23,6 +23,8 @@ We started with the PSAID PROM for patients with Psoriatic Arthritis and have ad
 
 ![Promenade screenshots, using NHS Design System](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/483c1887daf1caf13f2fa5233d1ec006.jpg)
 
+_Promenade screenshots, using NHS Design System_
+
 We decided to use the [NHS Design System](https://service-manual.nhs.uk/design-system) for our MVP. It seemed logical given the potential for this to be integrated into other NHS services, but the application is adaptable and could easily be modified to work in private healthcare if necessary.
 
 As it currently stands, patients who are added to the system, can sign-in and complete their own PROMs at any time, and see a historical record of their past PROMs. They can also choose to share the information with a clinician, or keep it private for their own use only. If they register for notifications, they can receive email reminders every 1, 2, or 4 weeks, and use a one-click link to create a new PROM without having to sign-in. They can also add their own free-text comment to a PROM to give it some context for themselves or for the clinician.
