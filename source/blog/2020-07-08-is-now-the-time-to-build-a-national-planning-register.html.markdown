@@ -122,6 +122,6 @@ Again, for more information about the users of planning data check out the [exce
 
 So, that’s why planning registers are important, who uses them and could use them in future, and why local registers are problematic. Tomorrow, I’ll share some ideas we’ve prototyped for what a national planning register could look like... 
 
-_If you have any thoughts or comments please share them with me on twitter @icoo or email michelle.isme@unboxedconsulting.com - planning can be a minefield so please let me know if I’ve missed anything! :)_
+If you have any thoughts or comments please share them with me on twitter @icoo or email michelle.isme@unboxedconsulting.com - planning can be a minefield so please let me know if I’ve missed anything! :)
 
 ##
