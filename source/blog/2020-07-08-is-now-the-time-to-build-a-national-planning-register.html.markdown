@@ -43,7 +43,7 @@ The way it works at the moment is largely like this (give or take a few discrepa
 
 ![Planning application notice on a lamp post](/assets/images/uploads/image0.jpeg)
 
-_Planning notices on lampposts - _[_this isn’t necessarily the way forward!_](https://mhclgdigital.blog.gov.uk/2020/05/28/start-treating-planning-applications-as-data-rather-than-documents/)
+Planning notices on lampposts - [this isn’t necessarily the way forward!](https://mhclgdigital.blog.gov.uk/2020/05/28/start-treating-planning-applications-as-data-rather-than-documents/)
 
 # What problems need solving?
 
