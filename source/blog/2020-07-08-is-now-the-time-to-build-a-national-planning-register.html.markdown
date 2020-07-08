@@ -73,7 +73,9 @@ The last point is particularly problematic for projects like BoPS.
 
 Planning officers often need to check the planning history of a site when assessing a new proposal. For example, if an applicant wants to extend their property by 3 metres at the back, and this is permitted under planning legislation, the officer needs to make sure the property hasn’t already been extended before.  To do that, now, the officer will check whether there are any previous applications associated with a site in the back office system.
 
-## _**Insert picture of post-it diagram of history**_
+
+
+![Sketches on three post-it notes showing how the same property has had three planning extensions to extend different parts of it over 10 years. The first two applications were granted but the third one was not.](/assets/images/uploads/historical-applications.jpg)
 
 If a national planning register existed the officer could simply look up the property on there instead, which would make it easier to start using a new back office system like BoPS. Alternatively, and in an ideal world, that national planning register might even provide an api so projects like BoPS could pull in planning history and display it to users when they need it!
 
@@ -85,7 +87,7 @@ While developing the api, to share data from BoPS, we have also developed a proo
 
 
 
-## _insert poc register_
+![Screenshot of our proof of concept register which lists all of the householder planning applications and the decision that was made on them (e.g granted or refused).](/assets/images/uploads/poconcept-register-list.jpg)
 
 This is not an MVP register because although it’s minimal, it isn’t really viable, as it currently only lists the decision of applications and not the detail of them e.g drawings.
 
