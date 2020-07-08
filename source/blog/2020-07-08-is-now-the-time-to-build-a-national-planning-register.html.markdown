@@ -6,7 +6,7 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: ''
+main_image: blog-cover-image.png
 date: '2020-07-08T14:20:00+01:00'
 published: true
 ---
