@@ -6,6 +6,7 @@ tags:
   - Agile
   - Design
   - Innovation
+main_image: 'https://unboxed.co/bde5c846-f9a1-4f37-8383-06f63b3e5186'
 date: '2020-07-08T14:20:45+01:00'
 published: false
 ---
