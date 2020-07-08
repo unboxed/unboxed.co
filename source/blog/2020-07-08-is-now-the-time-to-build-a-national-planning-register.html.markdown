@@ -96,22 +96,22 @@ So, who are the users?
 
 As we haven’t done the research this probably isn’t an exhaustive list but here are the users we know about:
 
-* **Neighbours and local residents **who want to provide feedback on a nearby development e.g the house next door that wants to add an extra storey to their home.
+* **Neighbours and local residents** who want to provide feedback on a nearby development e.g the house next door that wants to add an extra storey to their home.
 * **Local community groups** that want to stay aware of (and when required) respond to developments in their area. For example, this might be a neighbourhood group that is opposing a major development.
 * **Statutory bodies** that also need to provide feedback during consultation. These may include teams based in the council, such as the council’s highways team, but could also be staff working in national bodies that are consulted for their expertise.
-* **Planning staff **- planning officers sometimes use their council’s public register to search for data as it is easier than looking for it in their current back office system.
+* **Planning staff** - planning officers sometimes use their council’s public register to search for data as it is easier than looking for it in their current back office system.
 * **Other council staff** - enforcement teams, legal teams etc…
 
 We also suspect that applicants could use planning registers to:
 
 * **Keep updated on progress** - planning officers have told us that applicants call up to ask what stage their application is at. Automatically pushing more updates, and perhaps more specific statuses, to a register might be a way to keep applicants in the loop. However, this problem might also be better solved through the software applicants use to submit their applications.
 * **Read consultation feedback** e.g from neighbours
-* **Do research before submitting an application **- has anybody else in the neighbourhood submitted a similar proposal? Were they granted permission? Which architects did they use?
+* **Do research before submitting an application** - has anybody else in the neighbourhood submitted a similar proposal? Were they granted permission? Which architects did they use?
 
 And if we think beyond the realm of how planning registers function now, at a very localised level, it’s likely that a national register could be beneficial to other users too including:
 
 * **Central government** - instead of collating data from each individual council, could they just go and get it directly from a national planning register? Could that national register even do some of the number crunching for them?
-* **Developers and architects **- perhaps to identify planning trends in particular areas.
+* **Developers and architects** - perhaps to identify planning trends in particular areas.
 * **PlanTech companies** - if a national planning register existed and provided an api this might be of use to companies operating in the "plan tech" space.
 * **Number-crunchers and commentators** - I don’t know really what to call these users and they might be any of the people I’ve mentioned above. They might be economists, journalists, market analysts, urban planning gurus. They might write reports with titles like, “20% increase in demand to extend houses, over the last fives years, will push the average house price up by £X”
 * And maybe, one day, **historians** that want to understand how an area has changed over time!
