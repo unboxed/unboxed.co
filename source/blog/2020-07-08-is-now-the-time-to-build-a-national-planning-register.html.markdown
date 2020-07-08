@@ -9,6 +9,10 @@ tags:
 date: '2020-07-08T14:20:45+01:00'
 published: false
 ---
+![](/assets/images/uploads/planning-local-to-national.gif)
+
+
+
 **Quick answer:** we think it might be!
 
 We’re currently building a new back office system ([BoPS](https://bops.digital/)) for council planners to more easily assess planning applications from householders. 
@@ -73,8 +77,6 @@ The last point is particularly problematic for projects like BoPS.
 
 Planning officers often need to check the planning history of a site when assessing a new proposal. For example, if an applicant wants to extend their property by 3 metres at the back, and this is permitted under planning legislation, the officer needs to make sure the property hasn’t already been extended before.  To do that, now, the officer will check whether there are any previous applications associated with a site in the back office system.
 
-
-
 ![Sketches on three post-it notes showing how the same property has had three planning extensions to extend different parts of it over 10 years. The first two applications were granted but the third one was not.](/assets/images/uploads/historical-applications.jpg)
 
 If a national planning register existed the officer could simply look up the property on there instead, which would make it easier to start using a new back office system like BoPS. Alternatively, and in an ideal world, that national planning register might even provide an api so projects like BoPS could pull in planning history and display it to users when they need it!
@@ -84,8 +86,6 @@ To understand more about the problems of separate, local planning registers and 
 # Who uses a planning register?
 
 While developing the api, to share data from BoPS, we have also developed a proof of concept register that simply lists the outcome of applications - basically whether they were granted or refused. 
-
-
 
 ![Screenshot of our proof of concept register which lists all of the householder planning applications and the decision that was made on them (e.g granted or refused).](/assets/images/uploads/poconcept-register-list.jpg)
 
