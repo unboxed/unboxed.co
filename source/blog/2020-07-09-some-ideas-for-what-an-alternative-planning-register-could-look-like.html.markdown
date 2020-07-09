@@ -5,6 +5,8 @@ authors:
 tags:
   - Design
   - Innovation
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7123e8ca187c674827a663a1ad1a8850.jpg
 date: '2020-07-09T14:38:19+01:00'
 published: false
 ---
