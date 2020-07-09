@@ -1,5 +1,5 @@
 ---
-title: Is now the time to build a national platform of planning register?
+title: Is now the time to build a national platform of planning data?
 authors:
   - Michelle Isme
 tags:
