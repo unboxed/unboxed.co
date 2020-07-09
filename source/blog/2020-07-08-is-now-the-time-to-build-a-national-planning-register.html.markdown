@@ -1,5 +1,5 @@
 ---
-title: Is now the time to build a national planning register?
+title: Is now the time to build a national platform of planning register?
 authors:
   - Michelle Isme
 tags:
@@ -19,7 +19,7 @@ We’re currently building a new back office system ([BoPS](https://bops.digital
 
 However, when an application comes into the council it doesn’t just need to appear in the back office system - the council is also required to publish planning applications, as outlined by [planning legislation](http://www.legislation.gov.uk/uksi/2010/2184/article/36/made).
 
-And this is where the planning register comes in.
+And this is where planning registers comes in.
 
 Each local authority has its own planning register where it publishes planning applications and decisions. With this in mind, we’ve developed a simple api to allow data about applications to flow through and out of BoPS i.e onto a register. 
 
@@ -65,9 +65,7 @@ What we don’t have, and would really need, is research with people who use pla
 
 Arguably the above problems could be solved by injecting a dollop of user centred design into the process of building a new local planning register. 
 
-# So, why go national?
-
-Individual registers - even those that are accessible and easy to use - are problematic because: 
+However, publishing local planning data onto a national platform could also help to tackle a few other problems:
 
 * **there’s a lack of consistency across registers** that are provided by different suppliers, which makes it hard to analyse and compare data across different authorities, unless they happen to use the same system. And if legislation is changed each system will need to be updated. 
 * **councils can end up with multiple planning registers** when they change their back office systems - unless they are able to migrate data from their old register into the new one (and it’s often not possible to do that) their residents will be required to search through both registers which, as mentioned above, may also look different.
@@ -79,13 +77,15 @@ Planning officers often need to check the planning history of a site when assess
 
 ![Sketches on three post-it notes showing how the same property has had three planning extensions to extend different parts of it over 10 years. The first two applications were granted but the third one was not.](/assets/images/uploads/historical-applications.jpg)
 
-If a national planning register existed the officer could simply look up the property on there instead, which would make it easier to start using a new back office system like BoPS. Alternatively, and in an ideal world, that national planning register might even provide an api so projects like BoPS could pull in planning history and display it to users when they need it!
 
-To understand more about the problems of separate, local planning registers and the need for a single national register, I strongly recommend you take a look at this [extensive research](https://digital-land.github.io/project/single-register-of-planning/discovery/) by MySociety.
+
+If there was a national platform which pulled data from local planning registers, the officer could simply look up the property on there instead, which would make it easier to start using a new back office system like BoPS. Alternatively, and in an ideal world, that platform might even provide an api so projects like BoPS could pull in planning history and display it to users when they need it!
+
+To understand more about the difficulty of obtaining planning data, I strongly recommend you take a look at this [extensive research](https://digital-land.github.io/project/single-register-of-planning/discovery/) by MySociety.
 
 # Who uses a planning register?
 
-While developing the api, to share data from BoPS, we have also developed a proof of concept register that simply lists the outcome of applications - basically whether they were granted or refused. 
+While developing the api, to share data from BoPS, we have also developed a proof of concept planning register that simply lists the outcome of applications - basically whether they were granted or refused. 
 
 ![Screenshot of our proof of concept register which lists all of the householder planning applications and the decision that was made on them (e.g granted or refused).](/assets/images/uploads/poconcept-register-list.jpg)
 
@@ -109,11 +109,11 @@ We also suspect that applicants could use planning registers to:
 * **Read consultation feedback** e.g from neighbours
 * **Do research before submitting an application** - has anybody else in the neighbourhood submitted a similar proposal? Were they granted permission? Which architects did they use?
 
-And if we think beyond the realm of how planning registers function now, at a very localised level, it’s likely that a national register could be beneficial to other users too including:
+And if we think about a national platform that pulls data from local registers, it’s likely that it could be beneficial to other users too, including:
 
-* **Central government** - instead of collating data from each individual council, could they just go and get it directly from a national planning register? Could that national register even do some of the number crunching for them?
+* **Central government** - instead of collating data from each individual council, could they just go and get it directly from a single, national platform? Could that platform even do some of the number crunching for them?
 * **Developers and architects** - perhaps to identify planning trends in particular areas.
-* **PlanTech companies** - if a national planning register existed and provided an api this might be of use to companies operating in the "plan tech" space.
+* **PlanTech companies** - if a national planning platform existed and provided an api this might be of use to companies operating in the "plan tech" space.
 * **Number-crunchers and commentators** - I don’t know really what to call these users and they might be any of the people I’ve mentioned above. They might be economists, journalists, market analysts, urban planning gurus. They might write reports with titles like, “20% increase in demand to extend houses, over the last fives years, will push the average house price up by £X”
 * And maybe, one day, **historians** that want to understand how an area has changed over time!
 
@@ -121,7 +121,7 @@ Again, for more information about the users of planning data check out the [exce
 
 \--
 
-So, that’s why planning registers are important, who uses them and could use them in future, and why local registers are problematic. Tomorrow, I’ll share some ideas we’ve prototyped for what a national planning register could look like... 
+So, that’s why planning registers are important, who uses them, and the benefits that could come from bringing planning data together onto a national platform. Tomorrow, I’ll share some ideas we’ve prototyped for what an alternative planning register could look like…
 
 If you have any thoughts or comments please share them with me on twitter @icoo or email michelle.isme@unboxedconsulting.com - planning can be a minefield so please let me know if I’ve missed anything! :)
 
