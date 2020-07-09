@@ -1,5 +1,5 @@
 ---
-title: Some ideas for what an alternative planning register could look like...
+title: Some ideas for what a user centred planning register could look like...
 authors:
   - Michelle Isme
 tags:
@@ -10,7 +10,7 @@ main_image: >-
 date: '2020-07-09T14:38:19+01:00'
 published: true
 ---
-Yesterday, I published a [blog post](https://unboxed.co/blog/is-now-the-time-to-build-a-national-planning-register/) that questioned whether now is the time to develop a national planning register and the problems it might solve. Today I’m going to share some ideas for what an alternative planning register will look like.
+Yesterday, I published a [blog post](https://unboxed.co/blog/is-now-the-time-to-build-a-national-planning-register/) that questioned whether now is the time to pull local planning register data together onto a national platform. I also shared some of the feedback we’d heard, from planning officers, about the problems with some legacy planning registers... So, today, I’m going to share some ideas for what an alternative planning register will look like.
 
 The reason we’re thinking about this is because we are in the middle of building a new back office planning system ([BoPS](https://bops.digital/)), and will likely also need to develop some sort of planning register so that councils can fulfil their legislative duties, to publish planning applications and decisions… We also need to find a way for the main users of BoPS (planning officers) to obtain and review feedback from the public, something that is often done through the council’s planning register.
 
@@ -18,12 +18,9 @@ To tackle this we have several options:
 
 * **Ask planning officers to upload applications to their existing registers** (where existing software allows this). However, this will provide an additional admin burden that is not present now because existing back office systems integrate with their own registers.
 * **We can create a user-centred local planning register** for each council which just shows the planning applications in their authority (same as now but, ideally, underpinned with plenty of user research, particularly with members of the public)
-* **We could also provide an api **for the above local register, so that data can be fed into a separate, national register in the future 
-* **We can develop a simple national planning register** that shows all planning applications across the country, that authorities can link to and the public can search. If required, we could also develop a filtered view so that authorities can link directly to a page that is zoomed in on their authority.
+* **We could also provide an api **for the above local register, so that data can be fed into a separate, national platform of planning data in the future.
 
-## 
 
-![Screenshots of two web pages with search bars, one to search for planning applications in just Southwark, the other to search for applications across the UK](/assets/images/uploads/register-home-local-and-national.png)
 
 # So, what could a planning register look like?
 
@@ -41,9 +38,9 @@ Lastly, our prototypes are based on householder planning applications (i.e addin
 
 Caveats out of the way.. [Check out the prototype here.](https://www.figma.com/proto/8G5PxbJUUEUg8S0VPwAKA9/Planning-register?node-id=1065%3A2&scaling=scale-down) 
 
-## National register homepage:
+## Planning register homepage:
 
-A clean, simple homepage to make it easy to search planning applications. This could also provide a starting point to share high level stats and data e.g for policy teams in central government.
+A clean, simple homepage to make it easy to search planning applications. This could also provide a starting point to share high level stats.
 
 ![Screenshot from prototype showing a search page to search planning applications in the UK](/assets/images/uploads/transp-uk-register-searchpage.png)
 
@@ -51,8 +48,7 @@ A clean, simple homepage to make it easy to search planning applications. This c
 
 * How do different types of users need to search a planning register?
 * What data points are useful to share?
-* Should we provide stats on the planning register or would this be better surfaced in a separate standalone service, perhaps pulling data from the register?
-* Would each council need its own filtered landing page and, if so, why?
+* Should we provide stats on the planning register or would this be better surfaced in a separate standalone service, perhaps pulling data from the planning register?
 
 ## Search results page:
 
