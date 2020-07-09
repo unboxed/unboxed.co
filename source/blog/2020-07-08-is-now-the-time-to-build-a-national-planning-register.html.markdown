@@ -6,7 +6,8 @@ tags:
   - Agile
   - Design
   - Innovation
-main_image: ''
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/a34fa55a2d55ab79ac6eef8ec271334e.png
 date: '2020-07-08T14:20:00+01:00'
 published: true
 ---
