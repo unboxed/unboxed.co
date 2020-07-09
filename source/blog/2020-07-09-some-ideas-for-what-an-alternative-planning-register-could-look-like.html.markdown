@@ -10,7 +10,7 @@ main_image: >-
 date: '2020-07-09T14:38:19+01:00'
 published: true
 ---
-Yesterday, I published a [blog post](https://unboxed.co/blog/is-now-the-time-to-build-a-national-planning-register/) that questioned whether now is the time to pull local planning register data together onto a national platform. I also shared some of the feedback we’d heard, from planning officers, about the problems with some legacy planning registers... So, today, I’m going to share some ideas for what an alternative planning register will look like.
+Yesterday, I published a [blog post](https://unboxed.co/blog/is-now-the-time-to-build-a-national-planning-register/) that questioned whether now is the time to pull local planning register data together onto a national platform. I also shared some of the feedback we’d heard, from planning officers, about the problems with some legacy planning registers... So, today, I’m going to share some ideas for what an alternative planning register could look like.
 
 The reason we’re thinking about this is because we are in the middle of building a new back office planning system ([BoPS](https://bops.digital/)), and will likely also need to develop some sort of planning register so that councils can fulfil their legislative duties, to publish planning applications and decisions… We also need to find a way for the main users of BoPS (planning officers) to obtain and review feedback from the public, something that is often done through the council’s planning register.
 
@@ -19,8 +19,6 @@ To tackle this we have several options:
 * **Ask planning officers to upload applications to their existing registers** (where existing software allows this). However, this will provide an additional admin burden that is not present now because existing back office systems integrate with their own registers.
 * **We can create a user-centred local planning register** for each council which just shows the planning applications in their authority (same as now but, ideally, underpinned with plenty of user research, particularly with members of the public)
 * **We could also provide an api **for the above local register, so that data can be fed into a separate, national platform of planning data in the future.
-
-
 
 # So, what could a planning register look like?
 
