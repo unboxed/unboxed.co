@@ -21,7 +21,9 @@ To tackle this we have several options:
 * **We could also provide an api **for the above local register, so that data can be fed into a separate, national register in the future 
 * **We can develop a simple national planning register** that shows all planning applications across the country, that authorities can link to and the public can search. If required, we could also develop a filtered view so that authorities can link directly to a page that is zoomed in on their authority.
 
-## image 1
+## 
+
+![Screenshots of two web pages with search bars, one to search for planning applications in just Southwark, the other to search for applications across the UK](/assets/images/uploads/register-home-local-and-national.png)
 
 # So, what could a planning register look like?
 
@@ -43,7 +45,7 @@ Caveats out of the way.. [Check out the prototype here.](https://www.figma.com/p
 
 A clean, simple homepage to make it easy to search planning applications. This could also provide a starting point to share high level stats and data e.g for policy teams in central government.
 
-![Two screens with a search bar. One is to search for applications just in Southwark, the other is to search the whole of the UK](/assets/images/uploads/register-home-local-and-national.png)
+![Screenshot from prototype showing a search page to search planning applications in the UK](/assets/images/uploads/transp-uk-register-searchpage.png)
 
 **Research required:**
 
@@ -56,7 +58,7 @@ A clean, simple homepage to make it easy to search planning applications. This c
 
 A page displaying a list of planning applications, highlighting key information such as the application type and its status. Over time the register could also group together multiple applications that relate to the same site.
 
-## image 3
+## 
 
 ![Screenshot of the search results page in our prototype, which includes options to filter results. It also groups together applications that relate to the same property](/assets/images/uploads/transp-search-results.png)
 
@@ -75,7 +77,9 @@ Known challenges:
 
 Currently, application documents are published on registers as downloadable PDF forms but if data is supplied in a structured format, to systems like BoPS, it can be displayed directly on the application page. We have also experimented with how different steps of the assessment process could be displayed to enable users to quickly grasp at what stage an application is at. This could, potentially, also be useful for applicants when they want to check on the progress of their application.
 
-## image 4
+## 
+
+![Screenshot of prototype showing a web page with information about a planning application including details about the proposal, the address, a map, the drawing that the applicant submitted with their application, and the status of the application.](/assets/images/uploads/transp-application-page.png)
 
 Note: The image shows a prototype page for an application for householder planning permission. You can also see a prototype for a simpler application, for a certificate for [lawfulful development](https://www.figma.com/proto/8G5PxbJUUEUg8S0VPwAKA9/Planning-register?node-id=1065%3A91&scaling=scale-down).
 
@@ -126,7 +130,9 @@ With some of these things in mind we started [prototyping a structured form](htt
 
 Here are some screenshots:
 
-## image 5 and 6
+![Screenshot from prototype showing the first step on a consultation feedback form, asking users to choose the capacity in which they are commenting. They can choose one of three options: a neighbour or local resident, a community group or organisation, other.](/assets/images/uploads/transp-consultation1.png)
+
+![Screenshot from prototype showing the second step on a consultation feedback form, asking users whether they are objecting, supporting or neutral about the proposal. The second question asks whether the proposal will have a negative affect on the user's own property.](/assets/images/uploads/transp-consultation2.png)
 
 This is one approach but we know that other platforms exist, or are being developed, that might be better placed to facilitate consultation - such as [Commonplace](https://www.commonplace.is/) or [Civic Voice](http://www.civicvoice.org.uk/) (who, by the way, we presented alongside at a [Connected Places webinar](https://youtu.be/1XqjGpMcoWU) earlier this year).
 
@@ -144,4 +150,4 @@ And we created these prototypes largely to take what we’ve been learning, from
 
 So, we would like to hear any thoughts you have on our prototypes (don’t worry, we expect them to be flawed and we’re not precious about them!) and any of the points raised in this or [yesterday's blog post](https://unboxed.co/blog/is-now-the-time-to-build-a-national-planning-register/).
 
-Share your thoughts on twitter with [@icoo](https://twitter.com/icoo) or email michelle.isme@unboxedconsulting.com :)
+Share your thoughts on twitter with [@icoo](https://twitter.com/icoo) or email michelle.isme@unboxed.co
