@@ -8,7 +8,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/7123e8ca187c674827a663a1ad1a8850.jpg
 date: '2020-07-09T14:38:19+01:00'
-published: false
+published: true
 ---
 Yesterday, I published a [blog post](https://unboxed.co/blog/is-now-the-time-to-build-a-national-planning-register/) that questioned whether now is the time to develop a national planning register and the problems it might solve. Today I’m going to share some ideas for what an alternative planning register will look like.
 
