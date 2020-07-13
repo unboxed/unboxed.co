@@ -61,7 +61,7 @@ However, it shouldn’t just be a case of replicating what’s available now bec
 What we don’t have, and would really need, is research with people who use planning registers and need to provide consultation feedback. However, we have had a look at some of the research others have done, such as Snook’s work on the [Submit My Planning Application service](https://research.localgov.digital/projects/planning-applications/) with Hackney Council, and made some assumptions (that would need to be tested):
 
 * **Planning registers are difficult for people that don’t have any planning knowledge to understand**. Looking at existing planning registers, we felt it was difficult to quickly grasp what a proposal was for and wondered whether the technical and planning-specific content on some registers is understood by the public.
-* **The public need more guidance about what they can and can’t object to **- some consultation forms are centred around an open text box and provide very little guidance to applicants. We wondered whether this might be a contributing factor to some of the problems planning officers face when reviewing feedback (as outlined above).
+* **The public need more guidance about what they can and can’t object to** - some consultation forms are centred around an open text box and provide very little guidance to applicants. We wondered whether this might be a contributing factor to some of the problems planning officers face when reviewing feedback (as outlined above).
 
 Arguably the above problems could be solved by injecting a dollop of user centred design into the process of building a new local planning register. 
 
@@ -76,8 +76,6 @@ The last point is particularly problematic for projects like BoPS.
 Planning officers often need to check the planning history of a site when assessing a new proposal. For example, if an applicant wants to extend their property by 3 metres at the back, and this is permitted under planning legislation, the officer needs to make sure the property hasn’t already been extended before.  To do that, now, the officer will check whether there are any previous applications associated with a site in the back office system.
 
 ![Sketches on three post-it notes showing how the same property has had three planning extensions to extend different parts of it over 10 years. The first two applications were granted but the third one was not.](/assets/images/uploads/historical-applications.jpg)
-
-
 
 If there was a national platform which pulled data from local planning registers, the officer could simply look up the property on there instead, which would make it easier to start using a new back office system like BoPS. Alternatively, and in an ideal world, that platform might even provide an api so projects like BoPS could pull in planning history and display it to users when they need it!
 
