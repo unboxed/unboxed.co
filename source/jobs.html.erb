@@ -20,7 +20,15 @@ unboxed_meeting_image:
   image_description: Unboxers working together on code
 roles:
   title: Roles we are looking to fill
-  content:
+  content: 
+  - title: Senior product UX designer
+    name: Senior product UX designer
+    text: "We are on the lookout for a London-based Senior Product Designer, with solid experience of designing user flows and prototypes, who loves working with teams to turn designs into digital products that make a meaningful impact in the world."
+    link: /jobs/senior-product-ux-designer
+  - title: Senior developer
+    name: Senior developer
+    text: "We are on the lookout for Senior Ruby on Rails Developers to join us in London. As a core part of our team, our developers are responsible for building scalable, sustainable systems from project inception right through to production."
+    link: /jobs/senior_developer
 offer:
   title: What we offer
   incentives:
@@ -94,7 +102,7 @@ published: true
       <div class="roles-tiles">
         <% current_page.data.roles.content.each do |role| %>
           <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
-          <a class="roles-tile--linked" href="<%= role.link %>" title="<%= role.name %>"">
+          <a class="roles-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
             <div class="roles-tile__content">
               <h3 class="roles-tile__title">
                 <%= role.name %>
