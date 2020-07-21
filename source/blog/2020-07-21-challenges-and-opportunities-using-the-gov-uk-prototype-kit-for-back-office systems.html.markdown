@@ -34,7 +34,7 @@ With back office systems especially, certain patterns, like an accordion, may ap
 
 <i>On multiple pages, the same accordions and page templates are used.</i>
 
-If I altered the accordion template for the prototype, I would then have to **change up to 400 lines of code** that are dispersed in multiple sections of code. Often when copying and pasting accordions from these pages, this would result in having too few </div> or too many, causing my columns to collapse. And if I forgot to iterate upon one accordion on a page, the participant during user testing would be the first to find it!
+If I altered the accordion template for the prototype, I would then have to **change up to 400 lines of code** that are dispersed in multiple sections of code. Often when copying and pasting accordions from these pages, this would result in having too few  or too many closing div elements, causing my columns to collapse. And if I forgot to iterate upon one accordion on a page, the participant during user testing would be the first to find it!
 
 ![A webpage screenshot where the template is mapped against the pieces of code. This shows the amount of redundant code used](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0723c899f16cc2b9c15e996050dc9c6b.png)
 
