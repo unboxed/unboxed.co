@@ -11,6 +11,8 @@ main_image: >-
 date: '2020-07-24T14:38:46+01:00'
 published: true
 ---
+We keep an eye on the latest technology developments so you don’t have to. Here are some of the things we’ve spotted recently that are changing our world for the better - or at least, helping us raise a smile in challenging times.
+
 # A new Russian robot
 
 We tend to associate humanoid robots with gimmicky appearances in Tokyo nightclubs or scary BostonDynamics videos, but a synthetic clerical worker is now answering questions and issuing certificates in a government office in Perm, Siberia. While the robot would not be mistaken for a biological person, ‘she’ is capable of more than 600 facial expressions and has one direct advantage over her human rivals: she is directly connected to a printer, a scanner and document database. Its manufacturer, Promobot, say they have used AI to analyze the features of thousands of Russian women and create a composite of their appearance. \
