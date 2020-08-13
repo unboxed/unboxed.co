@@ -11,7 +11,7 @@ main_image: >-
 date: '2020-08-12T09:41:29+01:00'
 published: true
 ---
-We keep an eye on the latest technology developments so you don’t have to. Here are some of the things we’ve spotted recently that are changing our world for the better - or at least, helping us raise a smile in challenging times.
+We keep an eye on the latest technology developments so you don’t have to. Here are some of the things we’ve spotted recently that are changing our world - or at least, helping us raise a smile in challenging times.
 
 # Walking the (robot) dog
 
