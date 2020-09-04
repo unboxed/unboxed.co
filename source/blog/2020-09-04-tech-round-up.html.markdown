@@ -1,5 +1,7 @@
 ---
-title: 'Tech Round-up: '
+title: >-
+  Tech Round-up: Remote-control shelf-stackers, Tour de France in AR and 50 new
+  planets discovered
 authors:
   - Rhian Lewis
 tags:
