@@ -25,6 +25,10 @@ roles:
     name: Senior developer
     text: "We are on the lookout for Senior Ruby on Rails Developers to join us. As a core part of our team, our developers are responsible for building scalable, sustainable systems from project inception right through to production."
     link: /jobs/senior_developer
+  - title: Business Development Coordinator
+    name: Business Development Coordinator
+    text: "Unboxed is on the lookout for a Business Development Coordinator to join our growing business development team, promote the work we do, and increase our opportunities for growth."
+    link: /jobs/business-development-coordinator
 offer:
   title: What we offer
   incentives:
@@ -100,15 +104,19 @@ published: true
           <!--we need to have this extra class to Safari bug - it's overriding anchor color and makes a border purple in the nested element-->
           <a class="roles-tile--linked" href="<%= role.link %>" title="<%= role.name %>">
             <div class="roles-tile__content">
-              <h3 class="roles-tile__title">
-                <%= role.name %>
-              </h3>
-              <p class="roles-tile__paragraph">
-                <%= role.text %>
-              </p>
-              <p class="roles-tile__paragraph roles-tile__fake-link">
-                See the full job description
-              </p>
+              <div>
+                <h3 class="roles-tile__title">
+                  <%= role.name %>
+                </h3>
+                <p class="roles-tile__paragraph">
+                  <%= role.text %>
+                </p>
+              </div>
+              <div>                
+                <p class="roles-tile__paragraph roles-tile__fake-link">
+                  See the full job description
+                </p>
+              </div>
             </div>
           </a>
         <% end %>

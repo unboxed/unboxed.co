@@ -1,0 +1,136 @@
+---
+title: "Join Us - Business Development Coordinator - Join our team as a business development coordinator"
+
+header:
+  title: "Join us"
+  subtitle: "Business Development Coordinator"
+
+introduction:
+  title: "Business Development Coordinator"
+  text_1: "Salary range: £22k - £28k"
+  text_2: "Unboxed is on the lookout for a Business Development Coordinator to join our growing business development team, promote the work we do, and increase our opportunities for growth."
+  text_3: "We are a service design and digital product development agency, creating digital products and services that solve complex problems and have a positive impact on people’s lives."
+  text_4: "Some of our customers include Government Digital Service (GDS), Southwark Council, Hackney Council, Department for Business, Energy and Industrial Strategy, Guy’s and St. Thomas’ NHS Foundation Trust, Char.gy and others.."
+  text_5: "You will be working as a core member of our business development team to:"
+  activities:
+    - Embed processes for delivering consistent marketing activity every week, ensuring that people are regularly hearing about us
+    - Spread the word about Unboxed to the wider world, increasing our audience reach
+    - Introduce and engage new and existing audiences with compelling communications about the work that we’re doing
+    - Increase our capacity to write proposals and respond to requests for bids
+  text_6: "This role is an opportunity for a confident self-starter to lead on a wide range of marketing activities, support our sales processes, input into how we do things, and explore new ideas for engaging our audiences."
+  text_7: "For you, Unboxed is offering a role within a supportive and collaborative team, the chance for you to work with a variety of different people, and the opportunity to grow your experience in the area of user-centred design and development."
+
+developers_image:
+  image: "/jobs/images/developers-1.jpg"
+  image_description: "Team working"
+
+description:
+  title: "Some of the key activities within this role"
+  content:
+    - Creating and coordinating content, including blog posts, case studies, newsletters, third party articles, etc.
+    - Running campaigns to find and engage new individuals
+    - Coordinating and writing proposals, sales collateral and presentations
+    - Managing our website, including coordinating content and tracking analytics
+    - Running and growing our social media channels
+    - Organising and managing events, including promotion, speaker liaison and logistics
+    - Tracking and reporting progress of activities
+
+
+requirements:
+  title: "Some of the skills we're looking for"
+  intro: "We don’t necessarily expect you to have all of these, but if you feel you have a good breadth of experience and skills, and are keen to develop in other areas, please do apply:"
+  content:
+    - Previous experience within a sales or marketing role
+    - Experience of organising events
+    - Good organisational skills, with great attention to detail and timescales
+    - Ability to confidently own, coordinate and manage processes to deliver outcomes
+    - Excellent writing skills, with the ability to gather and synthesize information (e.g. to prepare proposals)
+    - Ability to work effectively with different members of our team (including designers, developers, and delivery managers) on different activities
+    - Experience of working within a digital agency environment
+    - An understanding of agile, user-centred methodologies
+
+benefits:
+  title: "Benefits of working with us"
+  content:
+    - 25 holiday days per year, on top of the bank holiday allowance
+    - '10 "Innovation Days" per year to explore your own ideas'
+    - Holiday flexibility and loyalty bonus benefits
+    - Maternity and Shared Parental Leave policies
+    - A company-wide peer-to-peer mentoring programme
+    - A generous conference budget
+    - Salary reviews twice a year
+    - Flexible working hours and location
+    - An informal culture of growth
+    - Monthly "Linkers and Thinkers" idea-exploring lunches
+    - Weekly reflection at "Whines & Cheers", our Friday company retrospective
+    - A 'Bike To Work' scheme
+
+process:
+  title: "What next?"
+  text_1: "Send us your CV along with a bit about yourself and, if we think you will make a good member of the team, we will be in touch for an initial interview call and ask you to complete a short scenario task. This gives you the opportunity to showcase your approach to delivering within this role and for us to see this in practice."
+  text_2: "Following this will be a second interview with one of our directors for them to meet you, and you to meet them."
+  image: "/jobs/images/developers-4.jpg"
+  image_description: "Developers working together"
+
+developer_quote:
+  quote: "I feel very lucky to be part of Unboxed where you are welcomed to be yourself, you're encouraged to grow and there are plenty of challenges to help you become your very best. You're given great freedom and you've got creative and passionate co-workers that are always keen to get involved in the community, tinker with new ideas and find solutions to complex problems."
+  source: "Elena Tanasoiu, Ruby on Rails Developer"
+  image: "/assets/images/people/elena-tanasoiu.png"
+
+---
+
+<%= partial 'jobs/job_header' %>
+
+<div class="container" data-header-waypoint>
+  <section class="component--full-page">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_2 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_3 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_4 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_5 %>
+      </p>
+
+      <ul class="text-tile__list">
+        <% current_page.data.introduction.activities.each do |requirement| %>
+            <li class="text-tile__list-item">
+              <%= requirement %>
+            </li>
+        <% end %>
+      </ul>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_6 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_7 %>
+      </p>
+    </div>
+  </section>
+
+  <%= partial 'shared/full_image', locals: current_page.data.developers_image %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.requirements %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
+
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
+
+  <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
+
+  <%= partial 'jobs/contact_us' %>
+</div>
