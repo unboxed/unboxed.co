@@ -4,12 +4,18 @@ authors:
   - Vicky Peel
 tags:
   - Culture
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1c793a152fbe8b1ba91cbbe2e51e44c4.png
 date: '2020-11-27T14:44:20+00:00'
 published: true
 ---
 **“I feel extremely lucky - I have work that inspires me, space and tools to work from home, financial security, a team that is self-organising, team mates that are friends too, a business that’s not severely impacted by Covid and lockdown, a family that is healthy, and children old enough to manage school work themselves - never a dull moment. I haven’t enjoyed not seeing people and having casual chats and coffees, I find Zoom meetings long and tiring and I miss the freedoms we used to take for granted. What I have treasured is having more time - rolling out of bed to start work, having more time with the children around, doing more cooking, and having walks and picnics with the kids.” - Founder**
 
 It’s fair to say, a lot has happened in the world this year! Our recent wellbeing session revealed some by now, familiar challenges of working and living in a pandemic: working alone, extensive video calls, work/life boundaries, isolation, anxiety and connection. We’ve noticed that we miss the subtle interactions of the office space; how being connected to people over making a coffee in the kitchen is so important not only for our productivity but also our sense of connection and belonging. And how the physical transition points of the day importantly mark the healthy separation of our different selves. We have all had challenges. Sharing stories and experiences is powerful and as we near the end of this extraordinary year, Unboxeders have been generous enough to share some of the things they have found that have helped their experience and wellbeing from exercise to appreciating the things you have and the people you know.
+
+
+
+![Miro board for wellbeing session](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ff4a9ba39bfd2f898677f91d82aa3f3c.png)
 
 # Wake up and smell the routine
 
@@ -27,6 +33,10 @@ Having routines unconsciously takes away some of the effort of having to make de
 
 **“Tidy your desk every night when you finish so it’s more appealing to return to the next day. I’ve been making the most of the routines and rituals that were challenging when you had to leave the house and go to work, fitting in family breakfasts and children’s bath times - not having to rush for the train is much appreciated! Having set times around coffee/tea/lunch is important.” - Designer**
 
+![Tidy desk that shows home working](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/63db5d87e79b1d64a8b1442cae88063f.png)
+
+
+
 Working and living in our private spaces 24 hours a day, has made a lot of us think about our home environment, the things we have in it, and how they make us feel.  Not everyone has been in a comfortable place to work and it has to be acknowledged that for many people it has been very challenging. Being mindful of the space you are occupying and how best to make it optimal and comfortable, as best you can, has supported wellbeing.
 
 **“I actually decided to apply Marie Kondo methodology to my own place and Yes I can recommend it. It is smart, very interesting and it does bring a sense of wellbeing. As my client said the other day “we’re not really working from home, we are living at work.” It might be kind of true but either way making this environment as clear as possible is definitely a big plus.” Designer**
@@ -39,6 +49,10 @@ The importance of spending at least some time in green space daily or bringing n
 
 **“When you go outside (which is important, even in winter), really notice the tiny details that make a difference in nature. We all love the feeling of the sun our face, but take a moment to notice how cold, crisp air feels on your skin, how the leaves change colour, how the bare twigs look against a blue or grey sky” - Developer**
 
+![Country churchyard at Staverton in Devon](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/5685f156f26c910268c73422ab7a5097.jpg)
+
+
+
 What’s great about this description is that it combines the experience of being outside with some mindfulness, a useful tool for managing overwhelming thoughts and feelings, once you’ve got the hang of it!
 
 With gyms and leisure activities closed or severely restricted during the lockdown periods many of us have taken to walking or running in our local green spaces and parks. 
@@ -46,6 +60,10 @@ With gyms and leisure activities closed or severely restricted during the lockdo
 Some of us have re-discovered things that once felt like a bit of a chore but now feel essential to the day.
 
 **“The key thing that has helped me through lockdown, especially during the early months, was dog walking. Whilst I’ve always enjoyed walking Genie, it was usually a quick one before I got on my bike to work, and it was sometimes a bit of a chore to be honest. During lockdown, however, it immediately became an essential part of my daily routine. I extended them to somewhere between 1.5 and 2 hours, to replace the exercise I was missing through not cycling, and my first standup of the day was often done via Zoom in the park. Genie became part of the team on the project I was working on and I actually think the rest of the team enjoyed seeing her in the morning. The excuse to leave the house, the exercise, the chance to be out hearing birdsong without traffic or aeroplanes, was a major factor in me surviving that early lockdown experience.” - Director and Head of Product**
+
+![Martyn Evans and dog, Genie](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/0bbcc384d6b00e0ae170542571e15e82.png)
+
+
 
 # Small and achievable goals
 
@@ -70,6 +88,10 @@ Unboxeders have been finding that different types of exercise are working to boo
 Good relationships are so important for our mental wellbeing, research shows that happy people spend more time with others and have a richer set of social connections. Rich relationships help to build a sense of belonging and self worth, give an opportunity to share experiences, and to both provide and receive social support. Staying connected with our colleagues, friends and family has been made more challenging and even more important over this last year - and a real focus for us at Unboxed. We all miss the face-to-face experience of talking to each other and it is something that I think we won’t take for granted again. Technology has magically enabled us to keep working, keep connected to our colleagues, our clients, friends and families. But it has also taken its toll in terms of fatigue and the loss of nuance. 
 
 So when we have been able to meet up for a socially distanced lunch or project picnic it has really boosted spirits. Even an afternoon in the office for a couple of us has felt like a treat.
+
+
+
+![Graeme McCubbin in Unboxed office in London](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/4bcdc3b4d2814ed25a22f41fa3530be3.png)
 
 **“Personally, I have really valued reconnecting with a friend. In normal times lives become so busy and it’s easy to lose sight of those important connections you have with people, perhaps take them for granted. Good relationships enrich your life. The last few months have both prompted and provided an opportunity for walking, talking and supporting each other, through some challenging times. We have made the effort to re-discover our friendship and hopefully hold on to it with more care. **
 
