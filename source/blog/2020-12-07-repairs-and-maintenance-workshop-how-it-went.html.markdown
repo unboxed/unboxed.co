@@ -58,6 +58,6 @@ Effective management of repairs and maintenance has been one of the most talked-
 
 Housing providers have a shared goal of keeping residents safe, supporting their health and wellbeing, and empowering people to have more control over their home, and this can all be done with resident-centred design approaches.
 
-To keep the conversation going, we have a number of organisations interested in collaborating in a working group where we’ll be focusing on how to achieve service improvements. If you’d like to join, please do get in touch with me jo.oliveira@unboxed.co.
+To keep the conversation going, we have a number of organisations interested in collaborating in a working group where we’ll be focusing on how to achieve service improvements. If you’d like to join, please do get in touch with me [jo.oliveira@unboxed.co](<sendto: jo.oliveira@unboxed.co>).
 
 And thanks again to everyone who joined the session: we really enjoyed the day and hope you all did, too!
