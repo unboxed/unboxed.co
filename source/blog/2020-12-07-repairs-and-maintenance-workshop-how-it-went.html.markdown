@@ -21,7 +21,7 @@ Unboxed has been working with [HACT](https://www.hact.org.uk) (Housing Associati
 
 Alongside our other recent work with local authority housing teams (including Hackney Council and City of Lincoln Council), we’re committed to sharing learnings with our expanding network of housing providers, and introducing the principles and practices of resident-centred design - initially around repairs and maintenance services.
 
-Last week, we partnered with HACT to host a workshop to explore some ideas with a small group of housing providers, offering a creative space to collaboratively start shaping improvements, gather wider insight, and begin to validate some of the highest-impact areas. 
+Last month, we partnered with HACT to host a workshop to explore some ideas with a small group of housing providers, offering a creative space to collaboratively start shaping improvements, gather wider insight, and begin to validate some of the highest-impact areas. 
 
 There was an incredible response to the 90-minute workshop - ‘[Repairs and maintenance: validating opportunities for improved services](https://www.hact.org.uk/blog/2020/11/10/validating-opportunities-improving-repairs-and-maintenance-services)’ - with [Lawrence Richards](https://twitter.com/lawrence_design) (one of our Senior Service Designers) leading the workshop, and [Martyn Evans](https://twitter.com/martynrevans) (our Head of Product) co-facilitating.
 
@@ -39,8 +39,8 @@ Our research identified several pain points/barriers for each step, highlighting
 
 Next we moved onto a set of opportunities areas across four themes:
 
-* **Redesigning content** (such providing clear steps, do’s and don’ts and clarity on improvements people can make in their homes),
-* **Better visibility of repairs **(including capabilities for repairs operatives giving real-time updates via mobile devices, or allowing residents to track repairs status/updates),
+* **Redesigning content** (such providing clear steps, do’s and don’ts and clarity on improvements people can make in their homes)
+* **Better visibility of repairs** (including capabilities for repairs operatives giving real-time updates via mobile devices, or allowing residents to track repairs status/updates),
 * **Empowering tenants** (such as community-sourced fixes or updating asset information), and
 * **Predicting the future** (by modelling the cost of repairs over time, connecting associated repairs or using smart home technology).
 
@@ -58,6 +58,6 @@ Effective management of repairs and maintenance has been one of the most talked-
 
 Housing providers have a shared goal of keeping residents safe, supporting their health and wellbeing, and empowering people to have more control over their home, and this can all be done with resident-centred design approaches.
 
-To keep the conversation going, we have a number of organisations interested in collaborating in a working group where we’ll be focusing on how to achieve service improvements. If you’d like to join, please do get in touch with me [jo.oliveira@unboxed.co](<sendto: jo.oliveira@unboxed.co>).
+To keep the conversation going, we have a number of organisations interested in collaborating in a working group where we’ll be focusing on how to achieve service improvements. If you’d like to join, please do get in touch with me [jo.oliveira@unboxed.co](<mailto: jo.oliveira@unboxed.co>).
 
 And thanks again to everyone who joined the session: we really enjoyed the day and hope you all did, too!
