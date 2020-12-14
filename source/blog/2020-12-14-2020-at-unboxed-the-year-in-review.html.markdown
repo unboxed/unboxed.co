@@ -7,7 +7,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2f44a92958413e1253cf77dc9602506e.png
 date: '2020-12-14T14:25:19+00:00'
-published: false
+published: true
 ---
 2020 really has been one of the most challenging years that I can remember, with three things in particular taking their toll on me personally and those around me.
 
@@ -95,9 +95,9 @@ Char.gy has been going from strength-to-strength over the last few years and is 
 
 Earlier this year, we decided to focus on our next potential venture. 
 
-Promenade is an online service for recording Patient Reported Outcome Measures (or PROMs) and giving them meaning for both patients and clinicians over time. The service can support a broad range of PROMs and has the potential to provide a far more holistic view of a patient’s overall health. 
+[Promenade](https://unboxed.co/blog/using-patient-reported-outcome-measures-proms-to-keep-patients-safe/) is an online service for recording Patient Reported Outcome Measures (or PROMs) and giving them meaning for both patients and clinicians over time. The service can support a broad range of PROMs and has the potential to provide a far more holistic view of a patient’s overall health. 
 
-We hope to use this service to compliment and enhance the Rheumatology Remote Monitoring Service we created with Guy’s and St. Thomas’ NHS Foundation Trust as well as making it available to track wellbeing within Unboxed and other organisations.
+We hope to use this service to compliment and enhance the Rheumatology Remote Monitoring Service that we've created with Guy’s and St. Thomas’ NHS Foundation Trust as well as making it available to track wellbeing within Unboxed and other organisations.
 
 ![Promenade](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/8057d9fcbdda8fd43cb0bbee52d61f36.png)
 
