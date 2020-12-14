@@ -4,6 +4,8 @@ authors:
   - Martyn Evans
 tags:
   - Culture
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2f44a92958413e1253cf77dc9602506e.png
 date: '2020-12-14T14:25:19+00:00'
 published: false
 ---
@@ -35,7 +37,7 @@ I’d like to thank everyone at Unboxed for making them feel so welcome and help
 
 <br/>
 
-# Wellbeing 
+# Wellbeing
 
 Supporting and nurturing wellbeing is an integral part of our strategy at Unboxed, and [we’ve been working hard on this for some time now](https://unboxed.co/blog/wellbeing-at-unboxed/).
 
@@ -53,17 +55,27 @@ We’re very grateful to have been able to work on a wide range of different pro
 
 We’ve continued our work with Southwark Council, MHCLG and partner authorities on the [Back-office Planning System](https://bops.digital/) (BoPS) [Local Digital Fund project](https://localdigital.gov.uk/fund/), delivering a beta phase for permitted development planning applications. Our private beta will go live with three councils in January and work will continue to broaden the scope of the product well into 2021.
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">It’s a wrap! (for now) Our <a href="https://twitter.com/hashtag/LocalDigitalFund?src=hash&amp;ref_src=twsrc%5Etfw">#LocalDigitalFund</a> <a href="https://twitter.com/hashtag/FixThePlumbing?src=hash&amp;ref_src=twsrc%5Etfw">#FixThePlumbing</a> project has just finished their final Beta show and tell. You can view all previous show and tells here - <a href="https://t.co/jh4qa0ct0Z">https://t.co/jh4qa0ct0Z</a>. And check out the project website - <a href="https://t.co/WnIUH7SwOY">https://t.co/WnIUH7SwOY</a> <a href="https://t.co/2S7TIliAeh">pic.twitter.com/2S7TIliAeh</a></p>&mdash; Egle Shaw (@egle_a_ieva) <a href="https://twitter.com/egle_a_ieva/status/1293137933227167745?ref_src=twsrc%5Etfw">August 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 We’ve continued to develop and support [UK Government and Parliament Petitions](https://petition.parliament.uk/) with GDS (Government Digital Service), and reused the open source codebase to release [Senedd Cymru / Welsh Parliament Petitions](https://petitions.senedd.wales/) with Welsh Parliament.
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Great to see the Welsh Parliament/Senedd Cymru launching their Petitions service: <a href="https://t.co/GXNSF36h0e">https://t.co/GXNSF36h0e</a><br><br>Top work from <a href="https://twitter.com/AssemblyWales?ref_src=twsrc%5Etfw">@AssemblyWales</a> and <a href="https://twitter.com/Ubxd?ref_src=twsrc%5Etfw">@Ubxd</a> – and another successful fork and iteration of the UK Parliament Petitions codebase.<br><br>Make things open, it makes them better. <a href="https://t.co/pTCY3Do4OQ">pic.twitter.com/pTCY3Do4OQ</a></p>&mdash; Pete Herlihy (@yahoo_pete) <a href="https://twitter.com/yahoo_pete/status/1256537779267403778?ref_src=twsrc%5Etfw">May 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Our team has been building on our long relationship with Buckinghamshire Council to [release the website for the new Buckinghamshire unitary authority](https://www.buckinghamshire.gov.uk/), and [jobs and careers website](https://jobs.buckinghamshire.gov.uk/). We’ve also created a great working relationship with two partner agencies, Torchbox and Scroll, who’d we’d like to thank for all their efforts during the year.
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Last week was a big week for our website project with <a href="https://twitter.com/BucksCouncil?ref_src=twsrc%5Etfw">@BucksCouncil</a>, <a href="https://twitter.com/torchbox?ref_src=twsrc%5Etfw">@torchbox</a> &amp; <a href="https://twitter.com/ScrollUK?ref_src=twsrc%5Etfw">@ScrollUK</a>, with the new unitary authority vested and website officially launched 🎉<br><br>See the latest project <a href="https://twitter.com/hashtag/weeknotes?src=hash&amp;ref_src=twsrc%5Etfw">#weeknotes</a> 👇 <a href="https://t.co/cpDGn0kCua">https://t.co/cpDGn0kCua</a></p>&mdash; Unboxed (@Ubxd) <a href="https://twitter.com/Ubxd/status/1248222008749559809?ref_src=twsrc%5Etfw">April 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We’ve also maintained a great working relationship with the [HackIT](https://hackit.org.uk/) team at Hackney Council, extending the ‘Repairs Hub’ service to support additional user groups to improve the raising and tracking of social housing repairs.
 
 This work ties in nicely with our collaboration with City of Lincoln Council, MHCLG, Royal Borough of Greenwich, South Kesteven District Council and Southwark Council to [explore the technical feasibility of a common service pattern for raising housing repairs online](https://repairsonlinedigitalfund.com/) — another Local Digital Fund project.
 
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Our <a href="https://twitter.com/hashtag/LocalDigitalFund?src=hash&amp;ref_src=twsrc%5Etfw">#LocalDigitalFund</a> <a href="https://twitter.com/hashtag/RepairsOnline?src=hash&amp;ref_src=twsrc%5Etfw">#RepairsOnline</a> technical alpha project is finished! It was a great show and tell from <a href="https://twitter.com/FraserTrick?ref_src=twsrc%5Etfw">@FraserTrick</a> and the team, showcasing the work done and options to take it forward. If you missed it, a recording will be added on <a href="https://t.co/XNf0H89V5r">https://t.co/XNf0H89V5r</a> <a href="https://twitter.com/hashtag/FixThePlumbing?src=hash&amp;ref_src=twsrc%5Etfw">#FixThePlumbing</a> <a href="https://t.co/qnZQuU5j7n">pic.twitter.com/qnZQuU5j7n</a></p>&mdash; Egle Shaw (@egle_a_ieva) <a href="https://twitter.com/egle_a_ieva/status/1313879388828692482?ref_src=twsrc%5Etfw">October 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 We have continued our work with Guy’s and St. Thomas’ NHS Foundation Trust to further develop [a remote monitoring digital service for rheumatology patients](https://www.nhsx.nhs.uk/blogs/role-remote-monitoring-future-nhs/), which has recently rolled out to five additional South London NHS Trusts. Back in March, I was fortunate to give [a talk at the UX Healthcare 2020 online conference](https://unboxed.co/blog/ux-healthcare-online-conference-2020/) about the project with [Melanie Martin](https://twitter.com/MelRheum), our Product Owner.
 
-We have also continued working with [SH:24](https://sh24.org.uk/), Public Health England, [The Honeycomb Works](https://www.thehoneycombworks.com/) and further projects with GDS and Southwark Council, as well as worked with some newer customers including Connected Places Catapult, and Huntingdonshire District Council, amongst others.
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr"><a href="https://twitter.com/Ubxd?ref_src=twsrc%5Etfw">@Ubxd</a> I love this! <a href="https://twitter.com/martynrevans?ref_src=twsrc%5Etfw">@martynrevans</a> <a href="https://twitter.com/UX_Healthcare?ref_src=twsrc%5Etfw">@UX_Healthcare</a> <a href="https://twitter.com/hashtag/uxdesign?src=hash&amp;ref_src=twsrc%5Etfw">#uxdesign</a> Open and transparent communication 👏👏👏 <a href="https://t.co/lCE28t2lrd">pic.twitter.com/lCE28t2lrd</a></p>&mdash; Timothy Kariotis (@TimothyKariotis) <a href="https://twitter.com/TimothyKariotis/status/1260872200527069186?ref_src=twsrc%5Etfw">May 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+We have also continued working with [SH:24](https://sh24.org.uk/), Public Health England, [The Honeycomb Works](https://www.thehoneycombworks.com/), and others, and further projects with GDS and Southwark Council, as well as worked with some newer customers including Connected Places Catapult, and Huntingdonshire District Council, amongst others.
 
 We’d like to thank all of our customers for the ongoing trust and confidence you’ve shown in the Unboxed team and your incredible adaptability as we all work together to navigate the complex issues we’ve faced this year.
 
