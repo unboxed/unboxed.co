@@ -5,7 +5,7 @@ authors:
 tags:
   - Culture
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/f70f2458bdd19bbfb4a8e28a02c102ef.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/17db674e7f0949c378bff3387e3deb35.png
 date: '2020-12-14T14:25:19+00:00'
 published: true
 ---
@@ -60,6 +60,8 @@ We’ve continued our work with Southwark Council, MHCLG and partner authorities
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">It’s a wrap! (for now) Our <a href="https://twitter.com/hashtag/LocalDigitalFund?src=hash&amp;ref_src=twsrc%5Etfw">#LocalDigitalFund</a> <a href="https://twitter.com/hashtag/FixThePlumbing?src=hash&amp;ref_src=twsrc%5Etfw">#FixThePlumbing</a> project has just finished their final Beta show and tell. You can view all previous show and tells here - <a href="https://t.co/jh4qa0ct0Z">https://t.co/jh4qa0ct0Z</a>. And check out the project website - <a href="https://t.co/WnIUH7SwOY">https://t.co/WnIUH7SwOY</a> <a href="https://t.co/2S7TIliAeh">pic.twitter.com/2S7TIliAeh</a></p>&mdash; Egle Shaw (@egle_a_ieva) <a href="https://twitter.com/egle_a_ieva/status/1293137933227167745?ref_src=twsrc%5Etfw">August 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 We’ve continued to develop and support [UK Government and Parliament Petitions](https://petition.parliament.uk/) with GDS (Government Digital Service), and reused the open source codebase to release [Senedd Cymru / Welsh Parliament Petitions](https://petitions.senedd.wales/) with Welsh Parliament.
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Great to see the Welsh Parliament/Senedd Cymru launching their Petitions service: <a href="https://t.co/GXNSF36h0e">https://t.co/GXNSF36h0e</a><br><br>Top work from <a href="https://twitter.com/AssemblyWales?ref_src=twsrc%5Etfw">@AssemblyWales</a> and <a href="https://twitter.com/Ubxd?ref_src=twsrc%5Etfw">@Ubxd</a> – and another successful fork and iteration of the UK Parliament Petitions codebase.<br><br>Make things open, it makes them better. <a href="https://t.co/pTCY3Do4OQ">pic.twitter.com/pTCY3Do4OQ</a></p>&mdash; Pete Herlihy (@yahoo_pete) <a href="https://twitter.com/yahoo_pete/status/1256537779267403778?ref_src=twsrc%5Etfw">May 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Our team has been building on our long relationship with Buckinghamshire Council to [release the website for the new Buckinghamshire unitary authority](https://www.buckinghamshire.gov.uk/), and [jobs and careers website](https://jobs.buckinghamshire.gov.uk/). We’ve also created a great working relationship with two partner agencies, Torchbox and Scroll, who’d we’d like to thank for all their efforts during the year.
 
