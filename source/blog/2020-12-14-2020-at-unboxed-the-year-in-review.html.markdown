@@ -35,6 +35,8 @@ Michelle joined as a design, delivery, and product unicorn in January with devel
 
 I’d like to thank everyone at Unboxed for making them feel so welcome and helping them bring their whole selves to work. We’re sad to have said goodbye to Pudim and also of course Boris, who finally managed to take up his new position in Melbourne after much COVID induced delay.
 
+We would like to really thank every single member of the team for their continued commitment to the cause this year. The quality of work has been higher than ever, and the level of care we’ve shown for each other has been truly amazing. Unboxed remains a group I’m so proud to be a part of. Thank you everyone!
+
 <br/>
 
 # Wellbeing
