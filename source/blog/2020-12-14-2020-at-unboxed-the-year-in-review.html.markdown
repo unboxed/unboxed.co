@@ -79,6 +79,10 @@ We have continued our work with Guy’s and St. Thomas’ NHS Foundation Trust t
 
 We have also continued working with [SH:24](https://sh24.org.uk/), Public Health England, [The Honeycomb Works](https://www.thehoneycombworks.com/), and others, and further projects with GDS and Southwark Council, as well as worked with some newer customers including Connected Places Catapult, and Huntingdonshire District Council, amongst others.
 
+"Working with the Unboxed team throughout 2020, as well as over the last two years, has demonstrated how local government can and should be thinking about and creating services in the 2020s.
+
+I've been made to feel a part of the team, as a Product Owner from the local government side, and have been taught the art and science of service design and digital product development. It's been a real learning experience which has brought added value to the council as an organisation, engendering change throughout." — Jack Ricketts, Southwark Council.
+
 We’d like to thank all of our customers for the ongoing trust and confidence you’ve shown in the Unboxed team and your incredible adaptability as we all work together to navigate the complex issues we’ve faced this year.
 
 <br/>
