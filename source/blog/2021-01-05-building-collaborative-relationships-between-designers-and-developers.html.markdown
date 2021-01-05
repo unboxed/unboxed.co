@@ -155,9 +155,7 @@ Feedback from developers on how to better evaluate the MVP:
 > Maybe it could be useful to have a set part of the design debrief where we look ahead at upcoming designs and see if they impact stories we are working on. A quick whip-through the existing stories to see if there are bits that may be cancelled out by future user stories could be a good thing to integrate if there's time?
 >
 > \- Developer
-
-
-
+>
 > I wonder if we could try posting videos of designs / flows in Slack, and then encouraging people to supply input in the thread if they have ideas to help simplify things. I wonder if that type of communication would produce more discussion, especially when remote and people are on multiple projects.
 >
 > \- Developer
