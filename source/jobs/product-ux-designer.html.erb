@@ -1,22 +1,31 @@
 ---
-title: "Join Us - Senior Product (UX) Designer"
+title: "Join Us - Mid Product (UX) Designer"
 
 header:
   title: "Join us"
-  subtitle: "Senior Product (UX) Designer"
-  introduction: "Looking for a London-based Senior Product (UX) Designer who loves working with teams to turn designs into digital products that make a meaningful impact."
+  subtitle: "Mid Product (UX) Designer"
+  introduction: "Looking for a London-based Mid Product (UX) Designer who loves working with teams to turn designs into digital products that make a meaningful impact."
   image: "/jobs/images/twitter-card-image-design.jpg"
 
 introduction:
-  title: "Senior Product (UX) Designer"
-  text_1: "Salary range: £60k - £70k"
-  text_2: "We are looking for a London-based Senior Product (UX) Designer with solid experience in facilitating workshops, conducting research, 
-  translating findings, prototyping and carrying designs through to visual delivery. You will work as part of multidisciplinary teams to 
-  turn designs into digital products that make a meaningful impact in the world."
-  text_3: "We're growing Unboxed and we want you to contribute to our company culture. We want to hear about your interests beyond design. 
-  We want you to help us add to our community leadership, mentor more junior people and increase our diversity."
+  title: "Mid Product (UX) Designer"
+  text_1: "Salary range: £40k - £55k"
+  text_2: "At Unboxed, design is a team sport"
+  text_3: "We are a London based digital service design and development agency with 14 years of experience in creating great digital services in both
+  the public and private sector. Our delivery approach is strongly based on Agile principles. We work in multidisciplinary teams, collaborating all the
+  way from initial user research and customer engagement through to building fully functioning digital services. We believe in openness, transparency and honest communication,
+  encouraging collaboration and learning from each other."
+  text_4: "Digital services we’ve designed and developed include UK Parliament Petitions, SH:24 online sexual health, Char.gy electric vehicle charging, and others."
 
-developers_image:
+about_role:
+  title: "About the role"
+  text_1: "We are looking for a London-based Product (UX) Designer with solid experience across the full end-to-end process. You will be facilitating workshops, conducting research,
+  translating findings, prototyping and carrying through to visual delivery. You will work as part of multidisciplinary teams to turn designs into digital products that make a meaningful
+  impact in the world."
+  text_2: "We're growing Unboxed and we want you to contribute to our company culture. We want to hear about your interests beyond design. We want you to help us add to our community leadership,
+  mentor more junior people and increase our diversity."
+
+designers_image_1:
   image: "/jobs/images/developers-1.jpg"
   image_description: "Co-design session with the product team"
 
@@ -36,8 +45,8 @@ requirements:
   content:
     - Previous experience in a product design, UX, interaction design or similar role
     - A ‘generalist’ mindset with ability to work across design disciplines, ideally a combination of UX design and research, and visual design
-    - Ability to lead and manage a range of activities from client engagement workshops to prototyping and testing with users 
-    - Proficiency of creating user flows, prototypes, and visual designs 
+    - Ability to lead and manage a range of activities from client engagement workshops to prototyping and testing with users
+    - Proficiency of creating user flows, prototypes, and visual designs
     - Strong understanding of usability and user centred design practices
     - Passion for emerging technologies and hunger to innovate
     - Ability to think strategically to address issues of high uncertainty and complexity
@@ -53,9 +62,10 @@ other_requirements:
     - Ability to create coded prototypes with basic knowledge of HTML & CSS
     - Experience creating and working with design systems, components, and patterns
     - Experience with projects that follow the GDS Service Standard
+    - Experience with modern accessibility standards and tools for testing
+    - Experience in conducting inclusive research and design activities
+    - Strategies to bridge the gap between design and development
     - Potential to champion the value of design within Unboxed and broader community
-  image: "/jobs/images/designer-5.jpg"
-  image_description: "Testing a digital prototype with a user"
 
 benefits:
   title: "Benefits of working with us"
@@ -77,8 +87,8 @@ process:
   title: "What next?"
   text_1: "Send us your CV and portfolio. If we think you will make a good team member, we will arrange to meet with you. Here, we are trying to understand what motivates you and get some initial thoughts on how you might fit within our team."
   text_2: "If we think you will compliment our team, we will invite you into our office to take part in a short whiteboard exercise. This gives us the opportunity to see how you uncover constraints to inform design decisions."
-  image: "/jobs/images/designer-4.jpg"
-  image_description: "Wireframes for a new digital experience"
+  image: "/jobs/images/designer-5.jpg"
+  image_description: "Testing a digital prototype with a user"
 
 developer_quote:
   quote: "For me, design is as much about attitude as it is about experience or specific expertise. Great looking visuals and considered user journeys are important but I most enjoy working with designers who are open in their thinking and encourage the team to collectively tackle and solve important problems."
@@ -105,17 +115,34 @@ developer_quote:
       <p class="text-tile__paragraph--with-spacing">
         <%= current_page.data.introduction.text_3 %>
       </p>
-
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_4 %>
+      </p>
     </div>
   </section>
 
-  <%= partial 'shared/full_image', locals: current_page.data.developers_image %>
+  <section class="component--full-page">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.about_role.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.about_role.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.about_role.text_2 %>
+      </p>
+    </div>
+  </section>
+
+  <%= partial 'shared/full_image', locals: current_page.data.designers_image_1 %>
 
   <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
 
   <%= partial 'shared/full_width_text_tile', locals: current_page.data.requirements %>
 
-  <%= partial 'shared/text_tile', locals: current_page.data.other_requirements %>
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.other_requirements %>
 
   <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
 
@@ -123,5 +150,5 @@ developer_quote:
 
   <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
 
-  <%= partial 'jobs/contact_us_boris' %>
+  <%= partial 'jobs/contact_us' %>
 </div>
