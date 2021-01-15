@@ -8,22 +8,22 @@
     padding-right: 3px;
     float: left;
     flex-grow: 1;
-    flex-basis: 0;
     max-height: 100%;
-
-    &:last-of-type {
-      padding-right: 0px;
-      padding-left: 3px;
-    }
-
-    &:first-of-type {
-      padding-left: 0px;
-      padding-right: 3px;
-    }
   }
 }
 
 .roles-tile--linked {
+  max-width: 100%;
+
+  @include breakpoint($tablet-breakpoint) {
+    padding-left: 3px;
+    padding-right: 3px;
+    float: left;
+    flex-grow: 1;
+    max-height: 100%;
+    max-width: 50%;
+  }
+
   @extend .roles-tile;
   color: darken($light-gray, 5%);
   margin-bottom: 6px;

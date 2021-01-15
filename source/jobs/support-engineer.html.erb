@@ -1,0 +1,154 @@
+---
+title: "Join Us - Support Engineer - Join our team as a support engineer"
+
+header:
+  title: "Join us"
+  subtitle: "Support Engineer"
+
+introduction:
+  title: "Support Engineer"
+  text_1: "Salary range: £40k - £50k depending on experience"
+  text_2: "Unboxed is looking for an experienced Support Engineer to join our technical team to help build our infrastructure capacity, provide dedicated support to existing applications and work with projects teams on new digital products and services."
+  text_3: "We are a service design and digital product development agency, creating digital products and services that solve complex problems and have a positive impact on people’s lives."
+  text_4: "Some of our customers include Government Digital Service (GDS), Southwark Council, Hackney Council, Department for Business, Energy and Industrial Strategy, Guy’s and St. Thomas’ NHS Foundation Trust, Char.gy and others."
+  text_5: "You’ll be working alongside our CTO and with our project teams to:"
+  activities:
+    - Be the dedicated go-to person for our supported applications
+    - Provide infrastructure support to project teams and share infrastructure knowledge across the team
+    - Enure our supported apps are robust, secure and running on the correct versions of software
+  text_6: "This role is an opportunity for someone who enjoys working on the infrastructure of cloud based applications, working in a highly people focussed, supportive and collaborative environment on a wide range of digital products and services that improve people’s lives."
+  text_7: "You will have exposure to a user focussed agile way of delivering digital products and will also have the opportunity to expand your development skills should you wish to."
+
+developers_image:
+  image: "/jobs/images/developers-1.jpg"
+  image_description: "Developers presenting code"
+
+description:
+  title: "Some of the key activities within this role"
+  content:
+    - Work with the development team to make applications more robust
+    - Proactively diagnose alerts from reporting systems to see whether they can be eliminated or fixed
+    - Respond to requests from clients for information about systems
+    - Help build AWS CI/CD pipelines
+    - Be on call outside of office hours based on a defined rota
+
+requirements:
+  title: "Some of the experience we’re looking for"
+  intro: "We don’t necessarily expect you to have all of these, but if you feel you have a good breadth of experience and skills, and are keen to develop in other areas, please do apply. Experience of:"
+  content:
+    - Good communication skills and experience of dealing with clients directly
+    - Using infrastructure as code tools such as Terraform or CloudFormation
+    - Using configuration management tools such as Ansible, Chef or Puppet
+    - Using monitoring tools like Grafana, ELK, CloudWatch to diagnose issues
+    - SQL database administration
+    - SQL query writing to extract report information
+    - Optimising SQL database indexes for performance
+    - Using scripting languages to automate processes
+    - Supporting Ruby on Rails applications
+    - Supporting Flask or Django applications
+    - Supporting high volume web applications (> 10,000 concurrent users)
+    - Linux system administration with specific reference to web applications, e.g nginx configuration, process monitoring, security
+    - Knowledge of security best practices
+    - Current AWS certification for SysOps Administrator or higher
+
+benefits:
+  title: "Benefits of working with us"
+  content:
+    - 25 holiday days per year, on top of the bank holiday allowance
+    - '10 "Innovation Days" per year to explore your own ideas'
+    - Holiday flexibility and loyalty bonus benefits
+    - Maternity and Shared Parental Leave policies
+    - A company-wide peer-to-peer mentoring programme
+    - A generous conference budget
+    - Salary reviews twice a year
+    - Flexible working hours and location
+    - An informal culture of growth
+    - Monthly "Linkers and Thinkers" idea-exploring lunches
+    - Weekly reflection at "Whines & Cheers", our Friday company retrospective
+    - A 'Bike To Work' scheme
+
+process:
+  title: "What next?"
+  text_1: "Send us your CV and, if we think you will make a good team member, we will ask you to complete a short practical exercise. This gives you the opportunity to showcase your approach to solving problems and for us to see your skills in practice."
+  text_2: "Following this is a (virtual) face-to-face pairing session with one of our team, where we will get to know you a little better. You will then meet with one of our directors."
+  image: "/jobs/images/developers-4.jpg"
+  image_description: "Developers working together"
+
+developer_quote:
+  quote: "I feel very lucky to be part of Unboxed where you are welcomed to be yourself, you're encouraged to grow and there are plenty of challenges to help you become your very best. You're given great freedom and you've got creative and passionate co-workers that are always keen to get involved in the community, tinker with new ideas and find solutions to complex problems."
+  source: "Elena Tanasoiu, Ruby on Rails Developer"
+  image: "/assets/images/people/elena-tanasoiu.png"
+
+related:
+  title: "Related"
+  articles:
+    - title: "Unboxed Hackathon #2 - All in an innovation day’s work"
+      type: "blog"
+      link: "/blog/unboxed-hackathon-2-all-in-an-innovation-day-s-work"
+
+    - title: "RubyConf Portugal 2016"
+      type: "blog"
+      link: "/blog/rubyconf-portugal-2016"
+
+    - title: "Faster than Lightning: November's Developer Event"
+      type: "blog"
+      link: "/blog/faster-than-lightning-november-s-developer-event"
+---
+
+<%= partial 'jobs/job_header' %>
+
+<div class="container" data-header-waypoint>
+  <section class="component--full-page">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_2 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_3 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_4 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_5 %>
+      </p>
+
+      <ul class="text-tile__list">
+        <% current_page.data.introduction.activities.each do |requirement| %>
+            <li class="text-tile__list-item">
+              <%= requirement %>
+            </li>
+        <% end %>
+      </ul>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_6 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_7 %>
+      </p>
+    </div>
+  </section>
+
+  <%= partial 'shared/full_image', locals: current_page.data.developers_image %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.requirements %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
+
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
+
+  <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
+
+  <%= partial 'jobs/contact_us' %>
+
+  <%= partial 'shared/related_tiles' %>
+</div>
