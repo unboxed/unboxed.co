@@ -1,0 +1,131 @@
+---
+title: "Join Us - Agency Operations Manager - Join our team as a agency operations manager"
+
+header:
+  title: "Join us"
+  subtitle: "Agency Operations Manager"
+
+introduction:
+  title: "Agency Operations Manager"
+  text_1: "Salary range: £34k - £42k, depending on experience"
+  text_2: "Unboxed is looking for a collaborative, highly organised and numerate person to join the team to help run our month to month administration."
+  text_3: "We are a service design and digital product development agency, creating digital products and services that solve complex problems and have a positive impact on people’s lives."
+  text_4: "Some of our customers include Government Digital Service (GDS), Southwark Council, Hackney Council, Department for Business, Energy and Industrial Strategy, Guy’s and St. Thomas’ NHS Foundation Trust, Char.gy and others.."
+  text_5: "You’ll be working alongside our operations team to:"
+  activities:
+    - Manage our day-to-day processes
+    - Assist with financial processes such as invoicing
+    - Help manage our suppliers
+  text_6: "This role is an opportunity for someone who enjoys ensuring processes are running smoothly, is comfortable working with a variety of systems, is experienced using spreadsheets and is a good communicator."
+  text_7: "You will have exposure to all aspects of running the business and will be able to grow the role as the company grows."
+
+developers_image:
+  image: "/jobs/images/developers-1.jpg"
+  image_description: "Team working"
+
+description:
+  title: "Some of the key activities within this role"
+  content:
+    - Invoicing our clients
+    - Managing supplier invoices
+    - Helping administer our finance and business systems
+    - Setting up new joiners on our systems
+    - Help onboarding new clients (e.g. reviewing contracts)
+
+requirements:
+  title: "Some of the experience we’re looking for:"
+  content:
+    - Good communication and collaboration
+    - Previous experience in an operational or finance role
+    - Basic finance experience
+    - Working with complex spreadsheets
+    - Working with a variety of systems to manage running a business (e.g. Xero)
+    - Reviewing contracts for areas of risk
+  image: "/jobs/images/developers-2.jpg"
+  image_description: "Developer at work"
+
+benefits:
+  title: "Benefits of working with us"
+  content:
+    - 25 holiday days per year, on top of the bank holiday allowance
+    - '10 "Innovation Days" per year to explore your own ideas'
+    - Holiday flexibility and loyalty bonus benefits
+    - Maternity and Shared Parental Leave policies
+    - A company-wide peer-to-peer mentoring programme
+    - A generous conference budget
+    - Salary reviews twice a year
+    - Flexible working hours and location
+    - An informal culture of growth
+    - Monthly "Linkers and Thinkers" idea-exploring lunches
+    - Weekly reflection at "Whines & Cheers", our Friday company retrospective
+    - A 'Bike To Work' scheme
+
+process:
+  title: "What next?"
+  text_1: "Send us your CV along with a bit about why this role would be a good fit with your experience. If we think you could make a good member of the team, we will be in touch for an initial interview call followed by a short task aligned with some of aspects of the role."
+  text_2: "Following this will be a second interview with more of the team to establish if whether we are a good fit for each other."
+  image: "/jobs/images/developers-4.jpg"
+  image_description: "Developers working together"
+
+developer_quote:
+  quote: "I feel very lucky to be part of Unboxed where you are welcomed to be yourself, you're encouraged to grow and there are plenty of challenges to help you become your very best. You're given great freedom and you've got creative and passionate co-workers that are always keen to get involved in the community, tinker with new ideas and find solutions to complex problems."
+  source: "Elena Tanasoiu, Ruby on Rails Developer"
+  image: "/assets/images/people/elena-tanasoiu.png"
+
+---
+
+<%= partial 'jobs/job_header' %>
+
+<div class="container" data-header-waypoint>
+  <section class="component--full-page">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_2 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_3 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_4 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_5 %>
+      </p>
+
+      <ul class="text-tile__list">
+        <% current_page.data.introduction.activities.each do |requirement| %>
+            <li class="text-tile__list-item">
+              <%= requirement %>
+            </li>
+        <% end %>
+      </ul>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_6 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_7 %>
+      </p>
+    </div>
+  </section>
+
+  <%= partial 'shared/full_image', locals: current_page.data.developers_image %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
+
+  <%= partial 'shared/text_tile', locals: current_page.data.requirements %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
+
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
+
+  <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
+
+  <%= partial 'jobs/contact_us' %>
+</div>
