@@ -9,7 +9,7 @@ main_image: >-
 date: '2021-01-28T16:47:47+00:00'
 published: true
 ---
-_“Empathy is the world’s most precious resource. Be kind. Be gentle. Don’t let panic and chaos rush you. Stand your ground. Keep your spine straight, shoulders back and hold your core firm. Unfurrow those brows. Breathe belly deep. Trust your knowing.” - Kassie, Unboxeder_
+*“Empathy is the world’s most precious resource. Be kind. Be gentle. Don’t let panic and chaos rush you. Stand your ground. Keep your spine straight, shoulders back and hold your core firm. Unfurrow those brows. Breathe belly deep. Trust your knowing.” - Kassie, Unboxeder*
 
 As we near the end of January 2021 we are reflecting on how we usually welcome in the new year with anticipation, excitement, reflection and of course, resolutions. 2021 has, however,  been unlike any other, and we have started the much awaited new year with another national lockdown, bringing more uncertainty for many. Resolutions might not be high on the list of things to do in January 2021, other than keeping our heads above water. But practising empathy will go a long way in what looks set to be another challenging year.
 
@@ -49,7 +49,7 @@ As I suggested at the beginning, we are hardwired for negativity. It’s part of
 
 The ‘fresh start’ effect is very powerful and starting a new period with a sense of optimism is an opportunity for change. For one Unboxeder, simply making a change to the home desk environment for the new year has had a positive effect:
 
-_“It’s not a goal or resolution really, but something I wanted to do for my home working set up at the start of this year was to change my view. I’ve rotated my desk by 90 degrees, and sometimes I have meetings from my kitchen now. It helps with the ‘I’ve been in the same room all day’ feeling which I was having before_
+*“It’s not a goal or resolution really, but something I wanted to do for my home working set up at the start of this year was to change my view. I’ve rotated my desk by 90 degrees, and sometimes I have meetings from my kitchen now. It helps with the ‘I’ve been in the same room all day’ feeling which I was having before"*
 
 Most commonly,  New Year's resolutions focus on physical health; dry January, Veganuary, losing weight or stopping smoking (all very good things to do no doubt) but [Laurie Santos](https://www.theguardian.com/lifeandstyle/2021/jan/08/i-teach-a-course-on-happiness-at-yale-this-is-how-to-make-the-most-of-your-resolutions?CMP=Share_iOSApp_Other) of Yale University suggests that we might be focusing our resolution energies on the wrong areas. Great news, I can stop dry January now! Research shows that most of the popular January goals don’t improve our happiness as much as we assume. They can often involve being harsh on ourselves, with plenty of negative self talk. As we’ve noted already, our mind gives us the wrong intuitions about what makes us happy and what improves our mood. 
 
