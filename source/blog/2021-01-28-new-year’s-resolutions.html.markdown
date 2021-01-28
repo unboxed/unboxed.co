@@ -9,7 +9,7 @@ main_image: >-
 date: '2021-01-28T16:47:47+00:00'
 published: true
 ---
-*“Empathy is the world’s most precious resource. Be kind. Be gentle. Don’t let panic and chaos rush you. Stand your ground. Keep your spine straight, shoulders back and hold your core firm. Unfurrow those brows. Breathe belly deep. Trust your knowing.” - Kassie, Unboxeder*
+_“Empathy is the world’s most precious resource. Be kind. Be gentle. Don’t let panic and chaos rush you. Stand your ground. Keep your spine straight, shoulders back and hold your core firm. Unfurrow those brows. Breathe belly deep. Trust your knowing.” - Kassie, Unboxeder_
 
 As we near the end of January 2021 we are reflecting on how we usually welcome in the new year with anticipation, excitement, reflection and of course, resolutions. 2021 has, however,  been unlike any other, and we have started the much awaited new year with another national lockdown, bringing more uncertainty for many. Resolutions might not be high on the list of things to do in January 2021, other than keeping our heads above water. But practising empathy will go a long way in what looks set to be another challenging year.
 
@@ -27,6 +27,8 @@ The down side of this adaptation is that we often feel unsatisfied,  simply beca
 
 # Naturally happy
 
+![Snowman in front of snowy fir tree in park](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/ca714124986ac76b69e39107f79cd3c7.png)
+
 At Unboxed we have adapted pretty well and very quickly to our new pandemic situation - working remotely, more isolated from colleagues and clients. That’s not to play down the multiple detrimental effects the pandemic is having on us. But it does mean that we do cope and that we are also able, with a nudge, to find the opportunities.
 
 “Synthetic happiness is what we make when we don’t get what we want and natural happiness is what we get when we get what we want”
@@ -43,19 +45,17 @@ In her 3 session resilience training session Tune In, Bounce Back, Deliver,  [Me
 
 # A Fresh Start
 
-![Snowman with snowy fir tree in the park](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/466ac25d4f5a02080c8ae80e721a5ab1.png)
-
 As I suggested at the beginning, we are hardwired for negativity. It’s part of our ancient survival instinct. So while we experience many positive emotions, we tend not to remember them so well, without a bit of focused work. Being more mindful of the emotions we are experiencing and re-framing them can help to shift us out of the negativity bias and recognise that we do have agency. 
 
 The ‘fresh start’ effect is very powerful and starting a new period with a sense of optimism is an opportunity for change. For one Unboxeder, simply making a change to the home desk environment for the new year has had a positive effect:
 
-*“It’s not a goal or resolution really, but something I wanted to do for my home working set up at the start of this year was to change my view. I’ve rotated my desk by 90 degrees, and sometimes I have meetings from my kitchen now. It helps with the ‘I’ve been in the same room all day’ feeling which I was having before"*
+_“It’s not a goal or resolution really, but something I wanted to do for my home working set up at the start of this year was to change my view. I’ve rotated my desk by 90 degrees, and sometimes I have meetings from my kitchen now. It helps with the ‘I’ve been in the same room all day’ feeling which I was having before"_
 
 Most commonly,  New Year's resolutions focus on physical health; dry January, Veganuary, losing weight or stopping smoking (all very good things to do no doubt) but [Laurie Santos](https://www.theguardian.com/lifeandstyle/2021/jan/08/i-teach-a-course-on-happiness-at-yale-this-is-how-to-make-the-most-of-your-resolutions?CMP=Share_iOSApp_Other) of Yale University suggests that we might be focusing our resolution energies on the wrong areas. Great news, I can stop dry January now! Research shows that most of the popular January goals don’t improve our happiness as much as we assume. They can often involve being harsh on ourselves, with plenty of negative self talk. As we’ve noted already, our mind gives us the wrong intuitions about what makes us happy and what improves our mood. 
 
 So Santos has committed to a different type of new year resolution - “instead of hitting the gym or the diet books, I’ve pledged a little more self-compassion.” And she suggests we do the same. Instead of trying to change your body shape, try focusing on changing your mindset. Try practising gratitude, or being more [present ](https://science.sciencemag.org/content/330/6006/932.abstract)- we are usually happier when we are paying more attention. Small changes are easier to sustain if we are kind to ourselves  and with self-compassion comes the greater ability to be resilient and procrastinate less. 
 
-![Shelf of paperback books, with plant](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/976e2d2a463d76d81d0c1d31163ecae4.png)
+![Shelf of paperback books, with potted plant](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/d9fd130535f173bf8498b5526ebf2c64.jpg)
 
 This sounds like a more sustainable, beneficial and frankly more enjoyable approach than deprivation, particularly in the challenging times we still find ourselves. The thoughts of one Unboxeder summarise this positive approach to new year resolutions, all of which seem like a great way to head into this year with whatever it brings us in our work and home lives. 
 
