@@ -1,0 +1,155 @@
+---
+title: "Join Us - Senior Service Designer"
+
+header:
+  title: "Join us"
+  subtitle: "Senior Service Designer"
+  introduction: "Looking for a London-based Senior Service Designer who loves working with teams to design end-to-end services"
+  image: "/jobs/images/twitter-card-image-design.jpg"
+
+introduction:
+  title: "Senior Service Designer"
+  text_1: "Salary range: £60k - £70k"
+
+about_unboxed:
+  title: "At Unboxed, design is a team sport"
+  text_1: "We are a London based digital service design and development agency with 16 years of experience in creating great digital services in both
+  the public and private sector. Our delivery approach is strongly based on Agile principles. We work in multidisciplinary teams, collaborating all the
+  way from initial user research and customer engagement through to building fully functioning digital services. We believe in openness, transparency and honest communication,
+  encouraging collaboration and learning from each other."
+  text_2: "Digital services we’ve designed and developed include UK Parliament Petitions, SH:24 online sexual health, Char.gy electric vehicle charging, and others."
+
+developers_image:
+  image: "/jobs/images/developers-1.jpg"
+  image_description: "Co-design session with the product team"
+
+about_role:
+  title: "About the role"
+  text_1: "We are looking for a London-based Service Designer with solid experience across the full end-to-end process.
+  Among other things, you will be facilitating workshops, conducting research, translating findings, leading co-design workshops and prototyping. You will work as part of multidisciplinary teams to turn designs into digital products that make a meaningful impact in the world."
+  text_2: "We’re a small design team, but we're growing Unboxed and we want you to contribute to our company culture. We want to hear about your interests beyond design. We want you to help us add to our community leadership, mentor more junior people and increase our diversity."
+
+designers_image_1:
+  image: "/jobs/images/developers-1.jpg"
+  image_description: "Co-design session with the product team"
+
+description:
+  title: "Some of the key activities within this role"
+  intro: "We are looking for a talented and confident Senior Service Designer to join us and grow our team. Some of the key activities within this role include:"
+  content:
+    - Support the delivery of complex service design and development projects
+    - Work within multi-disciplinary teams to design, prototype and build cutting-edge propositions
+    - Lead user-centred research and co-design activities
+    - Facilitate workshops and design sprints to rapidly design, test, and iterate prototypes
+    - Oversee design iterations from low-fidelity sketches, through wireframes to high fidelity visual designs
+    - Work with developers to ensure consistent, high-quality design standards are adopted throughout the service
+    - Provide support and direction to less experienced team members
+    - Contribute to designing frameworks and approaches for Unboxed
+    - Collaborate with senior stakeholder groups to successfully influence long-lasting change
+    - Contribute to new business activity
+    - Take an active interest in the design discipline and regularly share the subject with the broader team and community
+
+requirements:
+  title: "Key competencies and skills"
+  content:
+    - Experience in several design disciplines, ideally a combination of service design, user experience, and UI design
+    - Ability to lead and manage a range of activities from client engagement workshops to ethnographic research, prototyping and testing
+    - Ability to think strategically to address issues of high uncertainty and complexity
+    - Ability to communicate the process with stakeholders and other interested parties
+    - Being a passionate advocate for Design Thinking and Lean and Agile principles
+    - Willingness to work collaboratively with a cross-functional team
+    - Willingness to get out and learn from users, customers and stakeholders
+
+other_requirements:
+  title: "Highly desirable"
+  content:
+    - Experience and desire to work on complex projects, involving research, design and facilitation across multiple service areas
+    - Experience with all stages of Agile development, including sprint planning and daily Scrum meetings
+    - Experience with projects that follow the GDS Service Standard
+    - Potential to champion the value of design within Unboxed
+    - Presence within the broader design community
+
+benefits:
+  title: "Benefits of working with us"
+  content:
+    - 25 holiday days per year, on top of the bank holiday allowance
+    - 10 "Innovation Days" per year to explore your own ideas
+    - Holiday flexibility and loyalty bonus benefits
+    - Maternity and Shared Parental Leave policies
+    - A company-wide peer-to-peer mentoring programme
+    - A generous conference budget
+    - Salary reviews twice a year
+    - Flexible working hours and location
+    - An informal culture of growth
+    - Monthly "Linkers and Thinkers" idea-exploring lunches
+    - Weekly reflection at "Whines & Cheers", our Friday company retrospective
+    - A "Bike To Work" scheme
+
+process:
+  title: "What next?"
+  text_1: "Send us your CV and, if we think you will make a good team member, we will arrange to meet with you. Here, we are trying to understand what motivates you and get some initial thoughts on how you might fit within our team."
+  text_2: "If we think you will compliment our team, we will invite you into our office to collaborate on a short whiteboard exercise. This gives us the opportunity to see how you uncover constraints to inform design decisions."
+  image: "/jobs/images/designer-5.jpg"
+  image_description: "Testing a digital prototype with a user"
+
+---
+
+<%= partial 'jobs/job_header' %>
+
+<div class="container" data-header-waypoint>
+  <section class="component--full-page">
+    <div class="text-tile--full-width" style="min-height: 100px !important">
+      <h2 class="text-tile__title">
+        <%= current_page.data.introduction.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.introduction.text_1 %>
+      </p>
+    </div>
+  </section>
+
+  <section class="component--full-page">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.about_unboxed.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.about_unboxed.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.about_unboxed.text_2 %>
+      </p>
+    </div>
+  </section>
+
+  <section class="component--full-page">
+    <div class="text-tile--full-width">
+      <h2 class="text-tile__title">
+        <%= current_page.data.about_role.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.about_role.text_1 %>
+      </p>
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.about_role.text_2 %>
+      </p>
+    </div>
+  </section>
+
+  <%= partial 'shared/full_image', locals: current_page.data.designers_image_1 %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.requirements %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.other_requirements %>
+
+  <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
+
+  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
+
+  <%= partial 'jobs/contact_us' %>
+</div>

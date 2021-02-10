@@ -90,11 +90,6 @@ process:
   image: "/jobs/images/designer-5.jpg"
   image_description: "Testing a digital prototype with a user"
 
-developer_quote:
-  quote: "For me, design is as much about attitude as it is about experience or specific expertise. Great looking visuals and considered user journeys are important but I most enjoy working with designers who are open in their thinking and encourage the team to collectively tackle and solve important problems."
-  source: "Holly Brenan, Senior Service Designer"
-  image: "/assets/images/people/holly-brenan.png"
-
 ---
 
 <%= partial 'jobs/job_header' %>
@@ -147,8 +142,6 @@ developer_quote:
   <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
 
   <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
-
-  <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
 
   <%= partial 'jobs/contact_us' %>
 </div>
