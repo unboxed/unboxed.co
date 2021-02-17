@@ -7,7 +7,7 @@ header:
 
 introduction:
   title: "Marketing Coordinator"
-  text_1: "Salary range: £22k - £28k"
+  text_1: "We have filled this role. Please look at our Jobs page for other opportunities"
   text_2: "Unboxed is on the lookout for a Marketing Coordinator to join our growing business development team, promote the work we do, and increase our opportunities for growth."
   text_3: "We are a service design and digital product development agency, creating digital products and services that solve complex problems and have a positive impact on people’s lives."
   text_4: "Some of our customers include Government Digital Service (GDS), Southwark Council, Hackney Council, Department for Business, Energy and Industrial Strategy, Guy’s and St. Thomas’ NHS Foundation Trust, Char.gy and others.."
@@ -91,46 +91,5 @@ developer_quote:
       <p class="text-tile__paragraph--with-spacing">
         <%= current_page.data.introduction.text_1 %>
       </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_2 %>
-      </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_3 %>
-      </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_4 %>
-      </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_5 %>
-      </p>
-
-      <ul class="text-tile__list">
-        <% current_page.data.introduction.activities.each do |requirement| %>
-            <li class="text-tile__list-item">
-              <%= requirement %>
-            </li>
-        <% end %>
-      </ul>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_6 %>
-      </p>
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.introduction.text_7 %>
-      </p>
-    </div>
   </section>
-
-  <%= partial 'shared/full_image', locals: current_page.data.developers_image %>
-
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.description %>
-
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.requirements %>
-
-  <%= partial 'shared/full_width_text_tile', locals: current_page.data.benefits %>
-
-  <%= partial 'jobs/process', locals: { section: current_page.data.process } %>
-
-  <%= partial 'shared/quote_caricature', locals: current_page.data.developer_quote %>
-
-  <%= partial 'jobs/contact_us' %>
 </div>
