@@ -1,7 +1,6 @@
 ---
 title: 'Unboxed Women in Tech interview series: Rhian Lewis'
 authors:
-  - Rhian Lewis
   - Kassie Paschke
 tags:
   - Agile
