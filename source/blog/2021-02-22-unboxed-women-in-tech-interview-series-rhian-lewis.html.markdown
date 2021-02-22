@@ -12,11 +12,11 @@ main_image: >-
 date: '2021-02-22T13:23:20+00:00'
 published: true
 ---
-_Unboxed is a dynamic digital agency that prizes diversity and celebrates individuality. Made up of a collect group of developers, designers, thinkers and creatives with some of the most interesting stories. _
+<i>Unboxed is a dynamic digital agency that prizes diversity and celebrates individuality. Made up of a collect group of developers, designers, thinkers and creatives with some of the most interesting stories. 
 
-_I had the absolute privilege of interviewing Rhian Lewis: published author of “The Cryptocurrency Revolution,” Ruby on Rails developer and in true against-the-status-quo spirit: self-described Anarchopreneur. She sums up her career as having started off as a journalist who coded as a hobby to making the mid-career jump to coding for a living and writing as a hobby. _
+I had the absolute privilege of interviewing Rhian Lewis: published author of “The Cryptocurrency Revolution,” Ruby on Rails developer and in true against-the-status-quo spirit: self-described Anarchopreneur. She sums up her career as having started off as a journalist who coded as a hobby to making the mid-career jump to coding for a living and writing as a hobby. 
 
-_I served up 10 questions (with a couple of deviants) and off we ventured into the world of Agile systems, polarization vs. diversity, how the internet has transformed information flow and the call for a decentralized future along with a good dose of fearlessness…_
+I served up 10 questions (with a couple of deviants) and off we ventured into the world of Agile systems, polarization vs. diversity, how the internet has transformed information flow and the call for a decentralized future along with a good dose of fearlessness…</i>
 
 <br/>
 
@@ -104,4 +104,4 @@ Yes! And the amazing thing is that if you can learn to learn, technology means t
 
 <br/>
 
-_Rhian’s Book, The Cryptocurrency Revolution, is available at: _[_https://www.amazon.co.uk/Cryptocurrency-Revolution-Finance-Bitcoin-Blockchains-ebook/dp/B08K91L2GM _](https://www.amazon.co.uk/Cryptocurrency-Revolution-Finance-Bitcoin-Blockchains-ebook/dp/B08K91L2GM)
+<i>[Rhian’s Book, The Cryptocurrency Revolution, is available at Amazon](https://www.amazon.co.uk/Cryptocurrency-Revolution-Finance-Bitcoin-Blockchains-ebook/dp/B08K91L2GM).</i>
