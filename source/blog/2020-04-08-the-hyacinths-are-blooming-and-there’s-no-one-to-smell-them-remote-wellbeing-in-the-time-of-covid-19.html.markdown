@@ -31,8 +31,6 @@ Supporting and nurturing wellbeing is an integral part of our strategy for Unbox
 
 <br/>
 
-
-
 # Staying connected
 
 [In a previous blog post](https://unboxed.co/blog/wellbeing-at-unboxed/), I talked about ‘connection’. We found that it could already be a challenge to be ‘connected’ to our colleagues even when we share an office space, with hot desking, headphones and internal communications. Saying hello, catching up with someone while making a coffee, having lunch or chatting through a project face-to-face all provide important moments of connection. 
@@ -54,8 +52,6 @@ Realistically our day-to-day routines and work schedules will be compromised and
 # A guide for remote wellbeing
 
 To help colleagues with this, we have put together a guide to remote wellbeing during this crisis, highlighting some of the challenges and some opportunities along with some helpful signposts.
-
-This was originally created as an internal Unboxed team guide, but hopefully it can help to support more people, so we’ve published it here: <http://bit.ly/unboxed-wellbeing-covid19>. 
 
 Much of the current anxiety will come from the uncertainty we are surrounded by, and as the situation changes and develops we will iterate on our support as best we can. When we move on from the COVID-19 crisis and begin to return to some sort of normality the office will have some summer blooms to welcome us back.
 
