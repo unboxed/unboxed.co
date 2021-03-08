@@ -18,7 +18,7 @@ Claudia is an interaction designer at Unboxed with a passion for inclusive servi
 
 <br/>
 
-**To start us off… I wonder if you could give readers a little background info on yourself and your role at Unboxed.**
+**To start us off… I wonder if you could give readers a little background info on yourself and your role at Unboxed?**
 
 I’m a designer which has been a role that I’ve naturally progressed into over a long period of time through working on social impact and public sector projects. 
 
@@ -44,7 +44,7 @@ At Unboxed, we also apply Agile methodologies throughout all projects and so wor
 
 <br/>
 
-**Of the different projects that you’ve worked on which has stuck out in your mind as most interesting?  **
+<b>Of the different projects that you’ve worked on which has stuck out in your mind as most interesting?</b>
 
 My grad thesis project. We had free reign on choice of project so I partnered with my workplace which, at the time, was the University of British Columbia’s division of Continuing Professional Development. 
 
