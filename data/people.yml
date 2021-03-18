@@ -38,18 +38,6 @@
     link: https://twitter.com/martynrevans
   - name: LinkedIn
     link: https://uk.linkedin.com/in/martynrevans
-- name: Tim Higgins
-  short_name: tim-higgins
-  role: Operations
-  email: tim.higgins
-  bio: |
-    I have been around a long time, having now spent nigh on thirty years working on projects. Starting first as a developer using COBOL(!), moving onto Visual Basic and Forte. After a few years I moved into more analytical, people management and project management roles, so have seen a lot of issues that projects face. Having started work in a truly waterfall manner it is refreshing to now be part of a company that not only talks about Agile but does it, properly.
-    I enjoy running and socialising - and find that the two go well together!
-  social_networks:
-  - name: Twitter
-    link: https://twitter.com/TimPHiggins
-  - name: LinkedIn
-    link: https://uk.linkedin.com/in/tphiggins
 - name: Graeme McCubbin
   short_name: graeme-mccubbin
   role: Communications
@@ -173,15 +161,6 @@
     link: https://twitter.com/mattunboxed
   - name: LinkedIn
     link: https://uk.linkedin.com/in/mattturrell1
-- name: Boris Divjak
-  short_name: boris-divjak
-  role: Designer
-  email: boris.divjak
-  social_networks:
-  - name: Twitter
-    link: https://twitter.com/borisdivjak
-  - name: LinkedIn
-    link: https://www.linkedin.com/in/borisdivjak/
 - name: Ben Baumann
   short_name: ben-baumann
   role: Developer
