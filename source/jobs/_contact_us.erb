@@ -17,10 +17,15 @@
     <p class="text-tile__paragraph--with-spacing">
       From there, she'll be in touch. Good luck! (Sorry, no recruiters please — we do all our hiring in-house).
     </p>
-    <a href="https://www.glassdoor.co.uk/Reviews/Unboxed-Reviews-E492120.htm" class="service__button">See our Glassdoor reviews</a>
+    <a href="https://www.glassdoor.co.uk/Reviews/Unboxed-Reviews-E492120.htm" target="_blank" class="service__button" onClick="sendToGaSeeGlassdoorReviewsClickEvent()">See our Glassdoor reviews</a>
   </div>
 
   <div class="component__tile image-tile">
     <%= image_tag '/jobs/images/ubxd-gardener.jpg', alt: 'Our gardener', class: "image-tile__image", srcset: retina_srcset('/jobs/images/ubxd-gardener.jpg') %>
   </div>
 </section>
+<script>
+  function sendToGaSeeGlassdoorReviewsClickEvent() {
+      ga('send', 'event', 'Button', 'Click', 'See Glassdoor Reviews', '1');
+  }
+</script>
