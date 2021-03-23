@@ -1,0 +1,108 @@
+---
+title: "AWS Partnership"
+
+services:
+  introduction: "We have a wealth of experience delivering highly robust AWS infrastructure and digital services for sectors including Central and Local Government, Healthcare and Housing. We have exceptionally talented AWS certified people, delivering value on every project."
+
+content:
+  - title: "Build"
+    image: "https://via.placeholder.com/375x202.png"
+    text: ""
+
+  - title: "Support"
+    image: "https://via.placeholder.com/375x202.png"
+    text: "We offer 24/7 support from a skilled team of AWS-certified engineers"
+
+  - title: "Scale"
+    image: "https://via.placeholder.com/375x202.png"
+    text: "From applications that can handle millions of users, down to MVP"
+
+aws_hero:
+  image: "/assets/images/services/approach-diagram.gif"
+
+aws_reason:
+  title: "Unboxed and AWS"
+  text: "We have a proven track record of developing and supporting applications and infrastructure on AWS in both the private and public sector. We built the UK Petitions website (amongst others) on highly scalable AWS infrastructure
+  We build pragmatic user-focused products, maximising return on investment, specialising in Ruby on Rails. Our CTO is one of 12 global Rails core members. We provide multidisciplinary teams to deliver across the full digital development lifecycle, including user research, service design, development, infrastructure, and ongoing support and maintenance."
+
+case_studies:
+  introduction: "Product stories"
+  content:
+  - title: "Petitions"
+    image: "/assets/images/product-stories/petitions@2x.png"
+    text: "We built and support this important Government service: up to 100,000 signatures submitted and processed per hour"
+
+  - title: "V&A"
+    image: "/assets/images/product-stories/v-and-a-museum@2x.jpg"
+    text: "Hosting and infrastructure delivery of new digital platform for world-leading Victoria and Albert Museum"
+
+  - title: "BoPS"
+    image: "/assets/images/homepage/logo-southwark-council@2x.gif"
+    text: "A user-centred Back-office Planning System (BoPS) for local authorities"
+
+---
+<header class="page-header page-header--bottom-margin">
+  <div class="page-header__container">
+    <h1 class="page-header__title">
+      <%= current_page.data.title %>
+    </h1>
+  </div>
+</header>
+
+<div class="container">
+  <section class="component--full-page">
+    <div class="diagram-container">
+      <%= image_tag current_page.data.aws_hero.image, alt: "Graphic showing AWS services", class: "diagram", srcset: retina_srcset(current_page.data.aws_hero.image)  %>
+    </div>
+  </section>
+  <section class="services" data-header-waypoint>
+    <p class="services__introduction">
+      <%= current_page.data.services.introduction %>
+    </p>
+    <% current_page.data.content.each do |service| %>
+      <div class="services-container__service">
+        <div class="services-page-service">
+          <%= image_tag service.image, alt: "Case study",  srcset: retina_srcset(service.image)  %>
+          <h3 class="service__title">
+            <%= service.title %>
+          </h3>
+          <p class="service__paragraph">
+            <%= service.text %>
+          </p>
+        </div>
+      </div>
+    <% end %>
+  </section>
+  <section class="component--full-page">
+    <div class="services-page-text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.aws_reason.title %>
+      </h2>
+
+      <p class="text-tile__paragraph--with-spacing">
+        <%= current_page.data.aws_reason.text %>
+      </p>
+    </div>
+  </section>
+
+  <section class="case_studies" data-header-waypoint>
+    <p class="services__introduction">
+      <%= current_page.data.case_studies.introduction %>
+    </p>
+    <% current_page.data.case_studies.content.each do |case_study| %>
+      <div class="services-container__service">
+        <div class="services-page-service">
+          <%= image_tag case_study.image, alt: "Case study",  srcset: retina_srcset(case_study.image)  %>
+          <h3 class="service__title">
+            <%= case_study.title %>
+          </h3>
+          <p class="service__paragraph">
+            <%= case_study.text %>
+          </p>
+        </div>
+      </div>
+    <% end %>
+  </section>
+</div>
+
+<%= partial 'book_meeting' %>
