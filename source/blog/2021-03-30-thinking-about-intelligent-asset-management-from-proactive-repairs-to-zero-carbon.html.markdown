@@ -24,7 +24,7 @@ Photo by [Pedro Ramos](https://unsplash.com/@pdr_ramos) on [Unsplash](https://un
 
 It’s important to consider the key data dependencies that a reactive repair will require in order to make intelligent decisions. Planned and regular maintenance works also need information about reactive repairs to be able to plan efficiently and cost effectively. So the systems are intrinsically linked, and data standards critical. By continually drilling down into users’ needs we start to see where improvements can be made.
 
-Our Senior Service Designer leading on the group, Lawrence Richards, says 
+Our Senior Service Designer leading on the group, Lawrence Richards, says:
 
 <i>“We’ve used these working group sessions to think about the process from a completely different perspective, being resident focused from the start and imagining the service from the initial request and what needs to be in place to make it happen. Being able to think a little more speculatively has meant reimagining the process from the ground up, and identifying where innovation opportunities may lie – something that is often quite challenging when working in smaller work streams within specific areas (e.g reactive repairs, planned maintenance, voids management etc). The outcomes will be blueprints for future processes and ideas to take back and explore when working on smaller projects in housing.”</i>
 
