@@ -10,7 +10,7 @@ tags:
   - Innovation
 main_image: ' https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/384e39a26816175dd7f8b46e8723df6e.jpeg'
 date: '2021-03-30T16:19:25+01:00'
-published: false
+published: true
 ---
 Last month, I introduced our [Housing Service Improvement Working Group](https://unboxed.co/blog/introducing-our-working-group-for-housing-service-improvements/), which spun out of an ambition to kickstart innovative ideas partnering with forward thinking housing providers. As a group we’re keen to explore some challenges in providing good quality services in housing by taking a user-led approach, that is guided by the needs and priorities of the people using them.
 
