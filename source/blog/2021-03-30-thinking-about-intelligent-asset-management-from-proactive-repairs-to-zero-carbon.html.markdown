@@ -16,6 +16,10 @@ Last month, I introduced our [Housing Service Improvement Working Group](https:/
 
 So far on our journey we’ve had some really engaging discussions, and I wanted to share some of the outcomes on our current theme of asset management - how we could design intelligent systems to be more proactive when it comes to things like repairs management, rather than reactive as is traditionally the case.
 
+Jem Bowen, Royal Borough of Greenwich Housing IT Programme Manager, is one of the core team members in the group, bringing an intricate understanding of current challenges and ideas. He commented:
+
+<i>“I and other group members from housing organisations have been meeting online with Jo and her colleagues at Unboxed for several months. Each of us has a rich background working with repairs and asset management systems, and these sessions have provided a rare opportunity to explore the core principles involved. It has been so refreshing to discuss and examine these issues together. A brilliant experience!“</i>
+
 The last couple of meet-up sessions have been focused on unpicking what is an asset, who are the users (from primary to tertiary) and what are their needs. Then we started breaking down the stages of an ideal reactive repairs process in a decision tree - moving onto the data needs and dependencies at each stage, and what barriers or difficulties might need to be scoped.
 
 ![Thinking about intelligent asset management, from proactive repairs to zero carbon](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/3720e34a3b670e7374cf39bf2cc97c09.jpeg)
