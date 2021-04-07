@@ -12,9 +12,9 @@ main_image: >-
 date: '2021-04-06T19:04:11+01:00'
 published: true
 ---
-_“Smooth seas don’t make for a skilled sailor” says the African proverb. The non-traditional career path can be fraught with volatility and complexity, however, learning by doing is unequivocally the surest path to excellence. _
+<i>“Smooth seas don’t make for a skilled sailor” says the African proverb. The non-traditional career path can be fraught with volatility and complexity, however, learning by doing is unequivocally the surest path to excellence. 
 
-_Unboxed’s Senior Product Manager, Michelle Isme, navigates these ambiguous waters with grace. Brave, fierce, compassionate and highly experienced – we talk about the non-linearity of her digital career, the importance of aligning with companies that align with your ethics and the prospect of a world governed by a wellbeing economy.  _
+Unboxed’s Senior Product Manager, Michelle Isme, navigates these ambiguous waters with grace. Brave, fierce, compassionate and highly experienced – we talk about the non-linearity of her digital career, the importance of aligning with companies that align with your ethics and the prospect of a world governed by a wellbeing economy.</i>  
 
 _<br/>_
 
@@ -106,4 +106,4 @@ Thinking more along the lines of social innovation... You've probably heard of w
 
 So my social innovation would be that all governments adopt that approach so that when they're looking at housing policies or infrastructure policies or all of those things... As well as looking at "can we afford it?” and “what's the cost benefit?" they’re also looking at "what will the impact on people's wellbeing be?'', and considering the environmental impact also feeds into that. It might take a while to get there but we'll get there.
 
-_For more of Michelle’s thoughts, _[_follow her on Twitter_](https://twitter.com/icoo)_. To find out more about Michelle’s work on the Back-office Planning System (BoPS), follow: _[_@BoPs_Digital_](https://twitter.com/BoPs_Digital)_. _
+<i>For more of Michelle’s thoughts, [follow her on Twitter](https://twitter.com/icoo). To find out more about Michelle’s work on the Back-office Planning System (BoPS), follow: [@BoPs_Digital](https://twitter.com/BoPs_Digital).</i>
