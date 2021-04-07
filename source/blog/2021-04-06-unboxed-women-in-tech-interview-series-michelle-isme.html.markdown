@@ -7,8 +7,10 @@ tags:
   - Culture
   - Design
   - Innovation
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c75c399a6b57c83560201fd0f98c8212.jpg
 date: '2021-04-06T19:04:11+01:00'
-published: false
+published: true
 ---
 _“Smooth seas don’t make for a skilled sailor” says the African proverb. The non-traditional career path can be fraught with volatility and complexity, however, learning by doing is unequivocally the surest path to excellence. _
 
@@ -30,7 +32,7 @@ Over the years, knowing that I wanted to land up in design, I sneaked it into my
 
 Around the same time, social media was starting to become a thing and organisations were beginning to realise that they needed a web presence. I wrote blogs, redesigned websites and started doing things like testing with staff, getting feedback and designing user flows. User-centred design, basically, but I didn’t know this, I just thought that it was a common-sense approach. 
 
-Eventually, I applied for a role as a digital campaigner at a tech start-up and was hired. They promoted me to product manager within 6 months. It was a small start-up. Only 10 people. But my role involved working directly with developers who went on to teach me about agile development, scrum and writing stories. 
+Eventually, I applied for a role as a digital campaigner at a tech start-up and was hired. They promoted me to product manager within six months. It was a small start-up. Only 10 people. But my role involved working directly with developers who went on to teach me about agile development, scrum and writing stories. 
 
 So I really learnt on the ground while working very hard and simultaneously teaching myself via YouTube and by attending events. I probably burnt out quite a bit but that’s what happens in startups. Several years later, I was contracting and that’s how I first worked with Unboxed before joining them permanently and the rest is history.
 
@@ -98,7 +100,7 @@ So that's been a massive change. Some of it is driven by publicity and social me
 
 <br/>
 
-## So we’ve looked at the past and the present, what do you think the future of tech / social innovation could look like? 
+## So we’ve looked at the past and the present, what do you think the future of tech / social innovation could look like?
 
 Thinking more along the lines of social innovation... You've probably heard of wellbeing economy governance? ([The Vision of a Wellbeing Economy](https://ssir.org/articles/entry/the_vision_of_a_well_being_economy)) I would love it if all governments took that approach. It’s not about ignoring or rejecting traditional economics in terms of generating wealth but about reconsidering what wealth is and how humans can generate wealth in new ways that don't cause harm. It is more strategic and it is thinking more long-term but it would affect everything like the future of work and universal basic income. As well as things like which big companies governments choose to work with and invest in, and considering how those companies invest and treat people before large contracts are handed out, it is also about having the government prioritise health and wellbeing and considering how legislation and city design might have an impact on these. Everything is thought of through the lens of wellbeing. I can imagine that some people might think that's wishful thinking or a bit hippie-ish but there's been a lot of research done about the impact of unhappy people on the economy so they're not completely separate issues. 
 
