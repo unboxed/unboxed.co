@@ -9,8 +9,9 @@ tags:
   - Culture
   - Design
   - Innovation
+main_image: 'http://www.mtfca.com/discus/messages/179374/211998.jpg'
 date: '2021-04-13T19:53:47+01:00'
-published: false
+published: true
 ---
 The world has seen, in the last 100 years, technological progress previously inconceivable to human imagination. Refrigerators, microwaves and ovens that allow us to store and cook food more efficiently. Cranes that can manoeuvre the heavy equipment required to bring skyrise buildings to life. Vehicles that travel across motorways to mobilize intercity transport networks. Computers that have advanced medical science to the degree that surgeries can be performed trans-continentally via robotic arms. It’s astounding! However, despite having access to information at the click of a Google search, the complex problem of how to meet the energy-hungry needs of a society that has evolved more rapidly than any other in fossil record, sustainably, remains the most challenging of all to solve. 
 
