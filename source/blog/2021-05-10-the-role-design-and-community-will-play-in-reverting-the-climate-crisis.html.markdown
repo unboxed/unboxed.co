@@ -10,7 +10,7 @@ tags:
   - Climate
 main_image: 'https://minecraft.novaskin.me/resourcepacks'
 date: '2021-05-10T11:59:29+02:00'
-published: true
+published: false
 ---
 # Team Spotlight: Tom, Dawn & Yasmeen
 
@@ -72,7 +72,7 @@ Reframing problems through a user-centered approach is a powerful tool because i
 
 # A Framework for Navigating Complexity: Environmental-Centred-Design
 
-User-centred design has been revolutionary in that it has allowed us to develop win-win solutions to complex problems in ways that positively impact people's lives. However, taking a step back to strategically consider the big-picture problem of climate change requires us to extend the empathetic curiosity inherent within UCD one step further: who are the non-human stakeholders impacted by our product and service deliveries? Trees, bees, water sources, soil quality, even viruses and microbes... Of course, the more stakeholders brought into consideration, the more entangled and complex the web of interaction determining ultimate impact becomes. So the next question we find ourselves asking is: "how do we apply agility and transparency to processes influenced by a set of dependencies that are by their very nature not always visible, logical or chronological?"
+User-centred design has been revolutionary in that it has allowed us to develop win-win solutions to complex problems in ways that positively impact people's lives. However, taking a step back to strategically consider the big-picture problem of climate change requires us to extend the empathetic curiosity inherent within UCD one step further: who are the non-human stakeholders impacted by our product and service deliveries? Trees, bees, water sources, soil quality, even viruses and microbes... Of course, the more stakeholders brought into consideration, the more entangled and complex the web of interactions determining ultimate impact becomes. So the next question we find ourselves asking is: "how do we apply agility and transparency to processes influenced by a set of dependencies that are by their very nature not always visible, logical or chronological?"
 
 ![](/assets/images/uploads/design-and-climate-4.jpg)
 
@@ -80,4 +80,30 @@ Image by Monika Sznel via [Unpacking Design](http://unpacking.design/about/)
 
 <br/>
 
-"Our role as designers is to
+Every Wednesday afternoon, Unboxed's UX team gathers together for a weekly (online) Design Club session where each member of the team takes a turn to present on a topic of their choosing, ask for feedback or facilitate a discussion. Yasmeen is a Service Designer at Unboxed who had been thinking about what a shift away from User-Centred Design to a more inclusive approach that includes non-human stakeholders and future generations could look like in practice. In her presentation, she offered a review of a few open source environment-centred design frameworks delivered by multi-disciplinary teams from across the design world. 
+
+<br/>
+
+<br/>
+
+# The Future of Story-Telling: Bridging Community with Design
+
+![](/assets/images/uploads/design-and-climate-2.jpg)
+
+Reverting the Climate Crisis is, quite arguably, the single most difficult challenge we, as humans, have yet to overcome. To survive this threat: we need to learn how to think and behave differently by re-evaluating why we think and feel in the ways that we do - all of our unconscious motives and biases - why do we make the decisions that we do? More pertinently, we need to learn how to treat each other more kindly - with compassion and empathy - by letting go of old ways of categorizing and competing in order to embrace new ways of connecting and collaborating. At the same time, we also need to accept society as it is rather than how we think it should be. In his article: [“How to Make Friends and Decarbonize People”](https://medium.com/oneteamgov/how-to-make-friends-and-decarbonise-people-the-need-for-user-centered-advocacy-within-the-climate-ac898b7a9a4e) - Tom describes the need to move away from climate change as a moral imperative in order to institute the kind of systemic-level change we need to survive this environmental apocalypse: “the old argument of ‘we need to change our ways to save rainforests / polar bears / vulnerable populations etc.’ has not been effective enough.” 
+
+
+
+If individuals cannot see themselves reflected via a representation of their subjective values and concerns, they’re not going to be motivated to engage with the subject matter. If the ethos behind the argument for change is laced with criticism, blame, suspicion and “you must do this because…” or “you should do this otherwise you are a bad person” - it’s not going to work. Reverting the climate crisis is going to require a global team effort and for that to happen every individual, every family, every community, every culture, every personality, every religion, every business, every corporation and every government needs to be brought on board. And, if they cannot visualize themselves being able to participate in and/or holistically benefit from the alternative you’ve suggested - the fuel required to power the emotional resilience needed to endure the discomfort of change will fall short. 
+
+
+
+This is why story-telling is so important. The role of stories is to embed concepts and percepts over into the audience’s mind through words and images. Science, design, lived experience: in the telling and sharing of stories is where all these elements come together to bind individuals into communities capable of influencing lasting change - but only if they are able to imagine what that change could look like first. “Start small, start local and then work your way up” Tom reminds us. Campaigners, researchers, designers, developers, community builders & story-tellers (everybody is a story-teller)... Each and every individual has a role to play that is vital and important. Just one sparked idea and the future could start looking entirely different...
+
+<br/>
+
+
+
+<br/>
+
+## Join the conversation: [Design & Climate Slack](https://designandclimate.slack.com/join/shared_invite/zt-ewoj53yf-3XGbUJ0DHurAys5tj39J1w#/shared-invite/email)
