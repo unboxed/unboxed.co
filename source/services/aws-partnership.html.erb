@@ -1,45 +1,64 @@
 ---
 title: "AWS Partnership"
 
-services:
-  introduction: "Unboxed is an AWS Select Tier Consulting Partner. We have a wealth of experience delivering highly robust AWS infrastructure and digital services across Central and Local Government, Healthcare, Housing and Commercial sectors. We have exceptionally talented AWS certified people, delivering value on every project. This is achieved working collaboratively with our customers, never just for them."
+introduction: "Unboxed provides cloud-based AWS infrastructure, services and support, as an AWS Select Tier Consulting Partner in the public sector partner programme.<br/>Our AWS-certified team has a wealth of experience in delivering highly-robust AWS services and infrastructure, from EC2 to the latest Serverless technology, and digital products and services across central and local government, the NHS, and the private sector.<br/>Our approach to infrastructure configuration leverages our deep expertise in platform automation and results in highly-flexible and scalable infrastructure with minimal maintenance overheads."
 
-content:
+offerings:
+  content:
   - title: "Build"
     image: "https://via.placeholder.com/375x202.png"
-    text: "All AWS services from EC2 to the latest Serverless technology"
-
-  - title: "Support"
-    image: "https://via.placeholder.com/375x202.png"
-    text: "We offer 24/7 support from a skilled team of AWS-certified engineers"
+    text: "Creation and implementation of robust AWS infrastructure."
 
   - title: "Scale"
     image: "https://via.placeholder.com/375x202.png"
-    text: "From applications that can handle millions of users, down to MVP"
+    text: "Scaling of applications to support increasing levels and peaks of traffic."
+
+  - title: "Support"
+    image: "https://via.placeholder.com/375x202.png"
+    text: "Ongoing office hours and 24/7 support and maintenance."
 
 aws_hero:
-  image: "/assets/images/services/approach-diagram.gif"
+  image: "/assets/images/services/aws-header.jpg"
 
-aws_reason:
-  title: "Unboxed and AWS"
-  text: "We have a proven track record of developing and supporting applications and infrastructure on AWS including the UK Petitions website (amongst others) on highly scalable AWS infrastructure.
-Our focus is on building pragmatic user-focused products, maximising return on investment, specialising in Ruby on Rails. Our CTO is one of 12 global Rails core members.
-We provide multidisciplinary teams to deliver across the full digital development lifecycle, including user research, service design, development, infrastructure, and ongoing support and maintenance."
+developers:
+  image: "/assets/images/people/inside_unboxed/developers_discussing@2x.jpg"
+
+quote:
+  quote: "We met our target by having all necessary infrastructure in place to support the re-launch, as well as the ongoing support in place for our digital growth strategy, in just two weeks. With the new website now launched, it’s a very exciting time for the V&A."
+  source: "Kati Price, Head of Digital Media, V&A"
 
 case_studies:
-  introduction: "Product stories"
+  introduction: "Who we have done this with"
   content:
-  - title: "Petitions"
+  - title: "Government Digital Services"
     image: "/assets/images/product-stories/petitions.png"
-    text: "We built and support this important Government service: up to 100,000 signatures submitted and processed per hour"
+    text: "Government Digital Services"
 
   - title: "V&A"
     image: "/assets/images/product-stories/v-and-a-museum.jpg"
-    text: "Hosting and infrastructure delivery of new digital platform for world-leading Victoria and Albert Museum"
+    text: "V&A"
 
-  - title: "BoPS"
-    image: "/assets/images/homepage/logo-southwark-council.gif"
-    text: "A user-centred Back-office Planning System (BoPS) for local authorities"
+  - title: "Southwark Council"
+    image: "https://via.placeholder.com/454x180.png"
+    text: "Southwark Council"
+
+offer:
+  title: Why Unboxed?
+  incentives:
+  - 16 years of experience in delivering end-to-end digital products and services
+  - A track record of developing and supporting applications and infrastructure on AWS
+  - An AWS-certified development team
+  - Experience of delivering AWS services across all sectors
+
+benefits:
+  title: Benefits?
+  incentives:
+  - An experienced AWS-certified team
+  - Reduced pressure on your in-house team
+  - Minimised hosting costs, only paying for what is used
+  - Automated security updates
+  - Autoscaling to support unpredictable traffic
+
 
 ---
 <header class="page-header page-header--bottom-margin">
@@ -56,40 +75,67 @@ case_studies:
       <%= image_tag current_page.data.aws_hero.image, alt: "Graphic showing AWS services", class: "diagram", srcset: retina_srcset(current_page.data.aws_hero.image)  %>
     </div>
   </section>
-  <section class="services" data-header-waypoint>
+
+  <section class="component--full-page">
     <p class="services__introduction">
-      <%= current_page.data.services.introduction %>
+    <%= current_page.data.introduction %>
     </p>
-    <% current_page.data.content.each do |service| %>
+  </section>
+
+  <section class="component--full-page">
+    <div class="component__tile text-tile">
+      <h2 class="text-tile__title">
+        <%= current_page.data.offer.title %>
+      </h2>
+
+      <ul class="text-tile__list">
+        <% current_page.data.offer.incentives.each do |incentive| %>
+          <li class="text-tile__list-item">
+            <%= incentive %>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  </section>
+
+  <%= partial 'shared/quote_caricature', locals: current_page.data.quote %>
+
+  <section class="offerings" data-header-waypoint>
+    <% current_page.data.offerings.content.each do |offering| %>
       <div class="services-container__service">
         <div class="services-page-service">
-          <%= image_tag service.image, alt: "Case study",  srcset: retina_srcset(service.image)  %>
-          <h3 class="service__title">
-            <%= service.title %>
-          </h3>
+          <p class="service__title">
+            <%= offering.title %>
+          </p>
+          <%= image_tag offering.image, alt: "Case study",  srcset: retina_srcset(offering.image)  %>
           <p class="service__paragraph">
-            <%= service.text %>
+            <%= offering.text %>
           </p>
         </div>
       </div>
     <% end %>
   </section>
+
   <section class="component--full-page">
-    <div class="services-page-text-tile">
+    <div class="component__tile text-tile">
       <h2 class="text-tile__title">
-        <%= current_page.data.aws_reason.title %>
+        <%= current_page.data.benefits.title %>
       </h2>
 
-      <p class="text-tile__paragraph--with-spacing">
-        <%= current_page.data.aws_reason.text %>
-      </p>
+      <ul class="text-tile__list">
+        <% current_page.data.benefits.incentives.each do |benefit| %>
+          <li class="text-tile__list-item">
+            <%= benefit %>
+          </li>
+        <% end %>
+      </ul>
     </div>
   </section>
 
   <section class="case_studies" data-header-waypoint>
-    <p class="services__introduction">
+    <h2 class="text-tile__title">
       <%= current_page.data.case_studies.introduction %>
-    </p>
+    </h2>
     <% current_page.data.case_studies.content.each do |case_study| %>
       <div class="services-container__service">
         <div class="services-page-service">
@@ -97,9 +143,6 @@ case_studies:
           <h3 class="service__title">
             <%= case_study.title %>
           </h3>
-          <p class="service__paragraph">
-            <%= case_study.text %>
-          </p>
         </div>
       </div>
     <% end %>
