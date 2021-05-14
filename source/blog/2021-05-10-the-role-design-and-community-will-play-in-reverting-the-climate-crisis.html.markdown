@@ -13,12 +13,6 @@ main_image: >-
 date: '2021-05-10T11:59:29+02:00'
 published: true
 ---
-# Team Spotlight: Tom, Dawn & Yasmeen
-
-![null](/assets/images/uploads/climate-and-design-1.jpg)
-
-Image by Seppo via [Seppo.net](http://www.seppo.net/e/basic-earth-day-info)
-
 The primary challenge posed by climate change is the tension between the fact that when evaluating large scale impact - there’s very little measurable influence one individual’s actions can exert in the face of anti-climate legislation and corporate resource mismanagement – and the truth which is… Individuals (and SMEs) have the responsibility to do absolutely everything and anything that they can to minimize and reverse climate impact anyway.
 
 <br/>  
@@ -27,9 +21,15 @@ The primary challenge posed by climate change is the tension between the fact th
 
 **<br/>**
 
+## **Team Spotlight: Tom, Dawn and Yasmeen **
+
 > "Whatever you do will be a drop in the ocean. But what is the ocean other than a multitude of drops?" - David Mitchell, Cloud Atlas 
 
-_<br/>_
+![null](/assets/images/uploads/climate-and-design-1.jpg)
+
+Image by Seppo via [Seppo.net](http://www.seppo.net/e/basic-earth-day-info)
+
+<br/>
 
 # A Sparked Idea: Community and Environmental Legislation
 
