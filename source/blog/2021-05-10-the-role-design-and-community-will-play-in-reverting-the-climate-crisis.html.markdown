@@ -21,7 +21,7 @@ The primary challenge posed by climate change is the tension between the fact th
 
 **<br/>**
 
-## **Team Spotlight: Tom, Dawn and Yasmeen **
+# **Team Spotlight: Tom, Dawn and Yasmeen **
 
 > "Whatever you do will be a drop in the ocean. But what is the ocean other than a multitude of drops?" - David Mitchell, Cloud Atlas 
 
