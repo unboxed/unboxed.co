@@ -13,7 +13,7 @@ published: true
 
 _A dose of nature, Beckenham Place Park_
 
-**“_Walking the dog daily throughout the pandemic and remote working has been a life saver. I have consciously made an effort to stop, stand and listen to the woodpecker, parakeets, cuckoo and even an owl during walks in my local green spaces and woods of southeast London. Sounds cheesy, but for me it definitely brings a momentary sense of calm and joy_”**
+“_Walking the dog daily throughout the pandemic and remote working has been a life saver. I have consciously made an effort to stop, stand and listen to the woodpecker, parakeets, cuckoo and even an owl during walks in my local green spaces and woods of southeast London. Sounds cheesy, but for me it definitely brings a momentary sense of calm and joy_”
 
 ## A snowman and a llama
 
