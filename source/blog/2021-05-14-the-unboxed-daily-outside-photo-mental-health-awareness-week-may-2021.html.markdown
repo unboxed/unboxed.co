@@ -4,10 +4,16 @@ authors:
   - Vicky Peel
 tags:
   - Culture
+main_image: >-
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/eace676f7f1374525bbc3c308214620b.jpg
 date: '2021-05-14T10:26:29+01:00'
-published: false
+published: true
 ---
-“_Walking the dog daily throughout the pandemic and remote working has been a life saver. I have consciously made an effort to stop, stand and listen to the woodpecker, parakeets, cuckoo and even an owl during walks in my local green spaces and woods of southeast London. Sounds cheesy, but for me it definitely brings a momentary sense of calm and joy_”
+![A dose of nature, Beckenham Place Park]( https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/2905b41a62c4efc243b4494ca56088b0.jpg)
+
+_A dose of nature, Beckenham Place Park_
+
+**“_Walking the dog daily throughout the pandemic and remote working has been a life saver. I have consciously made an effort to stop, stand and listen to the woodpecker, parakeets, cuckoo and even an owl during walks in my local green spaces and woods of southeast London. Sounds cheesy, but for me it definitely brings a momentary sense of calm and joy_”**
 
 ## A snowman and a llama
 
@@ -15,11 +21,11 @@ published: false
 
 _Sydenham Wells Park. Martyn_
 
+\#Mental Health Awareness Week this year has the theme of Nature - a particularly apt choice I think considering we have all been so confined or at least very restricted over the last year. With so much time being spent indoors and so very much more time on screens and video calls, it’s been even more critical to get time outside. 
+
 ![Mudchute City Farm, Isle of Dogs. Sarah](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/54114efeafa712fc65db3470812cd347.jpg)
 
 _Mudchute City Farm, Isle of Dogs. Sarah_
-
-\#Mental Health Awareness Week this year has the theme of Nature - a particularly apt choice I think considering we have all been so confined or at least very restricted over the last year. With so much time being spent indoors and so very much more time on screens and video calls, it’s been even more critical to get time outside. 
 
 According to the [The Mental Health Foundation](https://www.mentalhealth.org.uk/campaigns/mental-health-awareness-week/why-nature) going for walks was one of the top coping strategies during the pandemic and 45% of us have reported that being in green spaces has been vital for our mental health. So we thought we would share some of our Unboxeders fantastic outside photos which we have internally enjoyed throughout the pandemic.
 
@@ -31,7 +37,7 @@ _A pheasant in Coventry. Andrew_
 
 We know that spending some time in nature or a green space has positive effects on our physical and mental wellbeing. But research shows that it isn’t just being in nature that makes such a difference for us, it’s noticing it that has a greater impact. "[Connectedness](https://www.mentalhealth.org.uk/sites/default/files/MHAW21_NATURE%20REPORT_ENG_web.pdf)" to nature and being mindful of the green space you are in, the tree you can see from your window, or the sounds of the outside, provides the most benefit. Feeling even a momentary connection makes us feel better, whether we are in a London park, by the sea or enjoying a wildlife documentary. Nature connectedness generates a number of positive emotions and is associated with lower levels of anxiety and depression. It also [contributes to our physical wellbeing](https://www.takingcharge.csh.umn.edu/how-does-nature-impact-our-wellbeing#:~:text=Being%20in%20nature%2C%20or%20even,the%20production%20of%20stress%20hormones.) not only through the benefits of exercise but even just being in a natural environment or looking at pictures of it, can reduce blood pressure, heart rate and muscle tension and reduce stress hormones in the body. 
 
-![](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1d4b67fcb88acb09eafd96c50dc69fe2.jpg)
+![null](https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/1d4b67fcb88acb09eafd96c50dc69fe2.jpg)
 
 _Regents Canal near Angel, London. Tom_
 
