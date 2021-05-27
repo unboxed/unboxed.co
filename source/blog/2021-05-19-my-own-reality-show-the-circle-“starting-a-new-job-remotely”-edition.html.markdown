@@ -7,7 +7,7 @@ tags:
   - Culture
   - Innovation
 main_image: >-
-  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/c0d0ed00f2ecee617c14c972e461a18c.png
+  https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/45984bc21cceb101c3b6f594eeda9e4b.jpg
 date: '2021-05-19T15:51:35+02:00'
 published: true
 ---
@@ -17,9 +17,7 @@ Starting a new job during a pandemic? That feeling gets taken away, you don’t 
 
 <br/>
 
-![null](/assets/images/uploads/bored-man-e1587597685366.jpg)
-
-Stock Image by via [Virtual Vocations ](https://www.virtualvocations.com/blog/work-from-home-lifestyle/best-working-from-home-memes-2020/)
+![](/assets/images/uploads/image-from-ios.jpg)
 
 Unboxed was a very different experience for me. The night before instead of putting my clothes on the chair to wear the next morning, I was setting up my work desk, with my laptop, notebook and a pen. The least stressful preparation that I had experienced when starting a new role. I felt as though I was starting in a company I already knew, having had conversations with the colleagues I would be working with closely already and also leading up to my start day, I had exchanges with one of our directors.
 
