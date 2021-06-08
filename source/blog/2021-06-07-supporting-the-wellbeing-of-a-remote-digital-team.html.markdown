@@ -26,7 +26,7 @@ Communication and the ability to build good rapport has been one of the biggest 
 
 Software like Miro has brilliantly replaced the walls and post-it notes, offering infinite space to collaborate; it means there is improved accessibility for more user groups, and more people in the “room” in comparison to limited real life meeting rooms. There is no time lost to travel and more interviews can be achieved in less time. 
 
-<i><b>“Creating journey maps can be done easily and collaboratively with online tools and user testing is more efficient.  You are able to ask people for their time, without it massively disrupting their day and yours.”</b>** **— Dawn, User Researcher/Designer</i>
+<i><b>“Creating journey maps can be done easily and collaboratively with online tools and user testing is more efficient.  You are able to ask people for their time, without it massively disrupting their day and yours.”</b> — Dawn, User Researcher/Designer</i>
 
 But the remote relationship brings its challenges. So much intangible work and communication is done when we are physically together; when we can read body language, facial expressions and cues. Via a screen - we all have to work harder to fill in the gaps. Noticing if someone is finding it difficult to participate in the session takes concentration and it’s more disruptive to check in on them. Decisions around cameras on or off can feel awkward. Multiple conversations are just not possible in the same way which can put more pressure on the person speaking. And the facilitator often feels like they are performing into the void, particularly if there is a large group on the call. And performing is exhausting!
 
@@ -36,7 +36,7 @@ But the remote relationship brings its challenges. So much intangible work and c
 
 <i>Ali working with Martyn, May 2021.</i>
 
-<i><b>“The number of people on the call can be a challenge, both spectating and taking part. Too many spectators can feel like an arena, like you are on show, which can make both the interviewer and interviewee feel nervous.”</b>** **— Dawn, User Researcher/Designer</i>
+<i><b>“The number of people on the call can be a challenge, both spectating and taking part. Too many spectators can feel like an arena, like you are on show, which can make both the interviewer and interviewee feel nervous.”</b> — Dawn, User Researcher/Designer</i>
 
 Pre-pandemic, spending time face-to-face with users, seeing how they do their jobs, use their tools and systems, provides rich and valuable insights at the start of a project. Remotely, this is not the same experience when you can’t see the surroundings and the environment. It can put a stress on the team if they feel they haven’t been able to generate the level of insight or get rich enough data. So our researchers have found the need to playback is greater, to ensure the process or subject has been thoroughly understood.
 
@@ -44,7 +44,7 @@ Ice breaker activities at the beginning of sessions have helped to warm groups u
 
 ## **Developer in the online space**
 
-<i><b>“I think that writing code can swing from highly collaborative to highly individual, and working remotely encourages the extremes of this.”</b>** **— Celia, Developer</i>
+<i><b>“I think that writing code can swing from highly collaborative to highly individual, and working remotely encourages the extremes of this.”</b> — Celia, Developer</i>
 
 Our approach is to work in a highly collaborative manner within our team, and with our clients. Our developers are involved in a project from the very beginning, and therefore experience a lot  of what our user researchers and designers experience. But coding can be a solitary, ‘flow’ experience at different stages of a project, and the less distracted and focussed time has suited remote working. Some devs have found that the things they expected to find difficult remotely, such as pairing, can in fact work better. Tools like Tuple have made it work well. Having less office distraction and worrying about talking loudly around other colleagues has meant more productive focus.
 
@@ -52,7 +52,7 @@ Our approach is to work in a highly collaborative manner within our team, and wi
 
 The challenges for some devs have been around isolation and the blurring of boundaries between work and non-work. Without the usual markers to the day such as leaving the office, developers can find themselves working into the night without the triggers to stop. And others have found the experience quite lonely. <i><b>“You can’t corner another developer in the kitchen over making a cuppa to talk over a problem”</b></i> which has sometimes left people feeling less connected to the team. Isolation is not an experience unique to the devs for sure, but the nature of what they do can be a solitary experience. We already have a successful weekly design club so setting up a weekly dev club has been one of the outcomes to keep the developers connected and sharing ideas. 
 
-Anastasia, one of our devs, has found that being remote has encouraged her to think about how she communicates with others. <i><b>“You can’t just wander over to someone’s desk for help with a problem, and you don’t want to keep pinging others with messages''</b></i>** **or it can feel like Slackmaggedon! Being more thoughtful about when and how you communicate with your team or client has been a positive learning experience.
+Anastasia, one of our devs, has found that being remote has encouraged her to think about how she communicates with others. <i><b>“You can’t just wander over to someone’s desk for help with a problem, and you don’t want to keep pinging others with messages''</b></i> or it can feel like Slackmaggedon! Being more thoughtful about when and how you communicate with your team or client has been a positive learning experience.
 
 Online meeting fatigue is as much an issue for devs as it is the rest of the team. <i><b>“I’ve tried to be a bit more selective when deciding whether I will add any value to a meeting before attending”</b></i> — Ben, Developer
 
@@ -80,9 +80,9 @@ We don’t know what the future is going to look like yet and it will take some 
 
 <i><b>“We don’t know what normal feels like any more, or what the pattern is going forward. We all need a bit of time to process what’s happened”</b> — Cate McLaurin, Head of Delivery at London Borough of Hackney.</i>
 
-I caught up with Cate McLaurin, about her experience of working remotely over the last year and a half, the challenges they have faced and thoughts for moving forward. Much of our experiences resonated; our clients have experienced very similar challenges with communication and relationship building. At Hackney <i><b>“Our delivery managers have had to work twice as hard to build relationships”</b></i>** **while working remotely. 
+I caught up with Cate McLaurin, about her experience of working remotely over the last year and a half, the challenges they have faced and thoughts for moving forward. Much of our experiences resonated; our clients have experienced very similar challenges with communication and relationship building. At Hackney <i><b>“Our delivery managers have had to work twice as hard to build relationships”</b></i> while working remotely. 
 
-We’ve had a window into people’s home worlds which has at once been delightful, to see our colleagues' children, plants and pets. But it has also sometimes felt like an invasion of people’s privacy. Back in May 2020 I talked about remote fatigue and self complexity theory which looks at the importance of different aspects of ourselves and lives; our work self, our home self, our social self etc.  That variety of context is good for our wellbeing and during lockdown and remote working those multiple selves have collapsed into one. It’s important for us to have separation and privacy. Cate’s observation that, <i><b>“we have all been levelled by being a box on a screen”</b></i>** **really resonated, and it has also highlighted thoughts about our own privileges or lack of them. When we physically go to work in the office we leave our other visible lives behind, presenting a version of ourselves to the workplace. I hope that the experience of having insight to all the things people deal with in their whole lives, will bring more empathy and consideration for our wellbeing into the workplace. 
+We’ve had a window into people’s home worlds which has at once been delightful, to see our colleagues' children, plants and pets. But it has also sometimes felt like an invasion of people’s privacy. Back in May 2020 I talked about remote fatigue and self complexity theory which looks at the importance of different aspects of ourselves and lives; our work self, our home self, our social self etc.  That variety of context is good for our wellbeing and during lockdown and remote working those multiple selves have collapsed into one. It’s important for us to have separation and privacy. Cate’s observation that, <i><b>“we have all been levelled by being a box on a screen”</b></i> really resonated, and it has also highlighted thoughts about our own privileges or lack of them. When we physically go to work in the office we leave our other visible lives behind, presenting a version of ourselves to the workplace. I hope that the experience of having insight to all the things people deal with in their whole lives, will bring more empathy and consideration for our wellbeing into the workplace. 
 
 ![null](/assets/images/uploads/img_5440.jpg)
 
