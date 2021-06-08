@@ -20,7 +20,7 @@ Who knows what the rest of the year is going to look like, but if we’ve learnt
 
 ## **Design and user research in the online space**
 
-<i><b>“It's definitely very challenging to build rapport with participants….during a workshop it’s harder to ensure that everyone is OK, you can’t just check in with one person like you can in real life, without disrupting the session”</b> — Ali, User Researcher/Designer</i>
+<i><b>“It's definitely very challenging to build rapport with participants….during a workshop it’s harder to ensure that everyone is OK, you can’t just check in with one person like you can in real life, without disrupting the session.”</b> — Ali, User Researcher/Designer</i>
 
 Communication and the ability to build good rapport has been one of the biggest challenges for our designers and researchers in workshop and user research sessions. Workshops or planning sessions, normally done over a morning or afternoon in the office, would mean meeting rooms abuzz with activity, conversations and energy. Shared use of tools, food and drink provide the opportunity to get to know people and their experiences.
 
@@ -54,17 +54,17 @@ The challenges for some devs have been around isolation and the blurring of boun
 
 Anastasia, one of our devs, has found that being remote has encouraged her to think about how she communicates with others. <i><b>“You can’t just wander over to someone’s desk for help with a problem, and you don’t want to keep pinging others with messages''</b></i> or it can feel like Slackmaggedon! Being more thoughtful about when and how you communicate with your team or client has been a positive learning experience.
 
-Online meeting fatigue is as much an issue for devs as it is the rest of the team. <i><b>“I’ve tried to be a bit more selective when deciding whether I will add any value to a meeting before attending”</b></i> — Ben, Developer
+Online meeting fatigue is as much an issue for devs as it is the rest of the team. <i><b>“I’ve tried to be a bit more selective when deciding whether I will add any value to a meeting before attending.”</b></i> — Ben, Developer
 
 Being mindful of booking unnecessary meetings, or making them shorter to leave space for breaks is something we have all been having to work on. Meetings are a double edged sword; they mean that importantly teams and clients can get “together” but they can be a disruption to concentration or feeling like you’re getting through the ticket. I’m not sure that we’ve found any particularly good solutions to meeting fatigue and context switching yet! 
 
 ## **Delivery Managers bringing it all together**
 
-<i><b>“Face-to-face feels much more productive, communication online has its challenges”</b> — Tom, Delivery Manager</i>
+<i><b>“Face-to-face feels much more productive, communication online has its challenges.”</b> — Tom, Delivery Manager</i>
 
 For our delivery managers, relationship building and good communication is essential and safe to say, communication has been one of the biggest challenges of remote working for everyone. Brilliantly, video calls have made communication with everyone possible, enabling whole teams to join the call. But the amount of time spent on the screen has been immense. Group dynamics are very different and much like the user researchers have found, it’s easy for nuance to get lost and misunderstandings to occur. Constructively challenging someone or an assumption is harder, it can be taken the wrong way as subtlety is lost.
 
-<i><b>“I always have one-to-one meetings with people on projects and having to do that online is harder. The time has to be booked and it's another call. In the office I would often go for lunch or coffee and it would be a good opportunity to catch up”</b> — Tom, Delivery Manager</i>
+<i><b>“I always have one-to-one meetings with people on projects and having to do that online is harder. The time has to be booked and it's another call. In the office I would often go for lunch or coffee and it would be a good opportunity to catch up.”</b> — Tom, Delivery Manager</i>
 
 Working in the open and with transparency is a value held at the heart of Unboxed. 
 
@@ -78,7 +78,7 @@ Relationship building with clients, existing and new, is a much richer experienc
 
 We don’t know what the future is going to look like yet and it will take some time for us to reflect on what has happened over the last year, to process events and our experiences. Many people will have had the opportunity to reassess their ways of working, found that the extra hours in the day have benefited their lives and perhaps look to share the work time more flexibly between home and office. Others will be keen to get back amongst things and relish working **with** people again.
 
-<i><b>“We don’t know what normal feels like any more, or what the pattern is going forward. We all need a bit of time to process what’s happened”</b> — Cate McLaurin, Head of Delivery at London Borough of Hackney.</i>
+<i><b>“We don’t know what normal feels like any more, or what the pattern is going forward. We all need a bit of time to process what’s happened.”</b> — Cate McLaurin, Head of Delivery at London Borough of Hackney</i>
 
 I caught up with Cate McLaurin, about her experience of working remotely over the last year and a half, the challenges they have faced and thoughts for moving forward. Much of our experiences resonated; our clients have experienced very similar challenges with communication and relationship building. At Hackney <i><b>“Our delivery managers have had to work twice as hard to build relationships”</b></i> while working remotely. 
 
