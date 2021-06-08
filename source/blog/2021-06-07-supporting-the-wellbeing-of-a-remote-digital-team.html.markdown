@@ -8,7 +8,7 @@ tags:
 main_image: >-
   https://s3-eu-west-1.amazonaws.com/unboxed-web-image-uploader/bfbab65005d157bffe010a2b2213ef2c.jpg
 date: '2021-06-07T11:55:22+01:00'
-published: true
+published: false
 ---
 March 2020 feels like a lifetime ago, doesn’t it! If we had known then that we would still be remote a year later, we might have been more proactive in thinking about how to work best; take the opportunity to think differently. Like everyone else though, we had to respond quickly to a new and very uncertain situation. We’ve worked really hard to keep delivering successfully and tried hard to keep ourselves sane too - just about! 
 
