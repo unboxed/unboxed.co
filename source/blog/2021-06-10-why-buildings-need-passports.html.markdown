@@ -121,6 +121,8 @@ In 2007, the UK government put in place the requirement for a Home Information P
 
 This is a classic case of a good idea whose implementation was derailed by a lack of joined-up data. HIPs were scrapped in 2010, and it is clear that any successor, in the form of a building passport, would need to be powered by open data rather than by a requirement for individuals to gather information manually.
 
+In the residential space, this idea is already being promoted by a group of residential logbook companies under the auspices of the [Residential Logbook Association](https://www.rlba.org.uk/) (RLBA).  They are working to establish standards for the exchange of data across all aspects of government and the property industry.
+
 ## Where else might this data be useful, other than the point of sale?
 
 An insurer might need a subset of this information, particularly related to building control and materials, together with other local information such as GIS data on flooding and tree protection. This would reduce the number of claims that are refused not because the claimant is trying to game the system but because they may in good faith have provided inaccurate information about subsidence, trees or previous flooding when they bought the policy. In other words, it’s about people having the confidence in knowing that what they’re seeing is exactly what everyone else is seeing.
@@ -131,7 +133,7 @@ Having access to APIs that provide detailed information about a building’s con
 
 A good example of this is the discovery and alpha work that Jack Ricketts has done at Southwark, to ensure that once given planning permission, affordable homes remain affordable, and remain available to those who need them. 
 
-Nigel Walley, managing director of Chimni, who provide logbooks for your home, uses the example of measuring up for a new carpet. If the exact measurements of all your rooms are already on record, you don’t have to scramble around for a tape measure, and flooring showrooms would be able to use this information to provide an accurate quote. 
+Nigel Walley, managing director of [Chimni](https://www.chimni.com/), who provide logbooks for your home, uses the example of measuring up for a new carpet. If the exact measurements of all your rooms are already on record, you don’t have to scramble around for a tape measure, and flooring showrooms would be able to use this information to provide an accurate quote. 
 
 ## Aggregating data from building passports
 
