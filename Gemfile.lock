@@ -47,7 +47,7 @@ GEM
     execjs (2.7.0)
     fast_blank (1.0.0)
     fastimage (2.1.5)
-    ffi (1.10.0)
+    ffi (1.15.5)
     haml (5.0.4)
       temple (>= 0.8.0)
       tilt
@@ -58,6 +58,7 @@ GEM
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
     kramdown (1.17.0)
+    libv8-node (16.10.0.0)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -116,6 +117,8 @@ GEM
     middleman-syntax (3.0.0)
       middleman-core (>= 3.2)
       rouge (~> 2.0)
+    mini_racer (0.6.3)
+      libv8-node (~> 16.10.0.0)
     minitest (5.11.3)
     multi_json (1.13.1)
     padrino-helpers (0.13.3.4)
@@ -183,6 +186,7 @@ DEPENDENCIES
   middleman-livereload
   middleman-sprockets
   middleman-syntax
+  mini_racer
   pry
   redcarpet
   rspec

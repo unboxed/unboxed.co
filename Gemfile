@@ -13,6 +13,8 @@ gem 'redcarpet'
 gem 'sass', '~> 3.4'
 gem 'sass-globbing', '~> 1.1'
 
+gem 'mini_racer'
+
 group :development do
   gem 'middleman-livereload'
 end
